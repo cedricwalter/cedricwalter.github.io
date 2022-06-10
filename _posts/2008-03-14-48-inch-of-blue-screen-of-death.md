@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3265'
 permalink: /software/48-inch-of-blue-screen-of-death/
-image: /wp-content/uploads/2008/03/windows.xp_.blue_.screen.of_.death_.1_thumb.jpg
+header:
+  teaser: /assets/images/2008/03/windows.xp_.blue_.screen.of_.death_.1_thumb.jpg
 ---
 
 Microsoft Windows XP suddenly dying in a blue screen of death 🙁

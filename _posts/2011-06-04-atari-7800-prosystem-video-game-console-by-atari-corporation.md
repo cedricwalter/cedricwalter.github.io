@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=6770'
 permalink: /games/atari-7800-prosystem-video-game-console-by-atari-corporation/
-image: /wp-content/uploads/2011/06/Atari_7800_ProSystem_video_game_console_01.jpg
+header:
+  teaser: /assets/images/2011/06/Atari_7800_ProSystem_video_game_console_01.jpg
 tags:
     - atari
     - console

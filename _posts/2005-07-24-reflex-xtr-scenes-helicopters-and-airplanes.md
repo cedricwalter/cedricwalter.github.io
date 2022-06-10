@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=1946'
 permalink: /hobbies/reflex-xtr-scenes-helicopters-and-airplanes/
-image: /wp-content/uploads/2005/07/reflex-xtr-Hughes-500E_PEKA.jpg
+header:
+  teaser: /assets/images/2005/07/reflex-xtr-Hughes-500E_PEKA.jpg
 tags:
     - 'RC helicopter'
     - simulator

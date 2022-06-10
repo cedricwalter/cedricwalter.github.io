@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2505'
 permalink: /motorcycles/atv-quad-bombardier-manuals/
-image: /wp-content/uploads/2006/04/bombardier-atv-logo.gif.gif
+header:
+  teaser: /assets/images/2006/04/bombardier-atv-logo.gif.gif
 tags:
     - atv
     - bombardier

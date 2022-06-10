@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4028'
 permalink: /homepage/waltercedric-com-popularity-grow-in-china/
-image: /wp-content/uploads/2009/01/china.flag_thumb.png
+header:
+  teaser: /assets/images/2009/01/china.flag_thumb.png
 tags:
     - architecture
     - beautiful

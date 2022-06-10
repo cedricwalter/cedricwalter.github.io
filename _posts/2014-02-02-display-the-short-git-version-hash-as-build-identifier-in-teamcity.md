@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=8182'
 permalink: /development/display-the-short-git-version-hash-as-build-identifier-in-teamcity/
-image: /wp-content/uploads/2017/04/git-logo.jpg
+header:
+  teaser: /assets/images/2017/04/git-logo.jpg
 tags:
     - ci/cd
     - git

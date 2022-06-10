@@ -7,8 +7,8 @@ author: 'Cédric Walter'
 guid: 'https://waltercedric.com/new/?p=993'
 permalink: /hobbies/matrice-de-connaissance-du-moteur/
 tags:
-    - Checklist
-    - 'RC helicopter'
+- Checklist
+- 'RC helicopter'
 ---
 
 # Le moteur ne tourne pas**
@@ -60,7 +60,7 @@ tags:
 
 - Excessive idle time
 - Rapport de mélange entre low and high needles  
-     Moteur froid (premier démarrage)
+  Moteur froid (premier démarrage)
 
 # Le moteur démarre mais dans la mauvaise direction**
 
@@ -97,4 +97,5 @@ tags:
 - Le moteur est usé et "au bout du rouleau" 🙂  **Original Text by Don Chapman, published in MHT.**
 
 Terran Aviation Services, Inc. version 25.03.2002  
- All credits to : <http://www4.linknet.net/fritztcat/index.html> email: <fritztcat@linknet.net> translated from english by Cedric Walter
+All credits to : <http://www4.linknet.net/fritztcat/index.html> email: <fritztcat@linknet.net> translated from english
+by Cedric Walter

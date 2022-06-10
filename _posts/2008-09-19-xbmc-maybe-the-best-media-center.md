@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3801'
 permalink: /games/xbmc-maybe-the-best-media-center/
-image: /wp-content/uploads/2008/09/13ff90f5ed59460f9fd893c354295976.jpg
+header:
+  teaser: /assets/images/2008/09/13ff90f5ed59460f9fd893c354295976.jpg
 tags:
     - code
     - console

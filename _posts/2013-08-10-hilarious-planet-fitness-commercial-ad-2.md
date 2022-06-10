@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=8153'
 permalink: /today-on-earth/hilarious-planet-fitness-commercial-ad-2/
-image: /wp-content/uploads/2010/06/creative.fitness.ads-12_2.jpg
+header:
+  teaser: /assets/images/2010/06/creative.fitness.ads-12_2.jpg
 tags:
     - ads
     - fitness

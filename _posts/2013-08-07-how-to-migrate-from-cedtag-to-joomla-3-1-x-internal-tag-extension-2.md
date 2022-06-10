@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=8147'
 permalink: /joomla/how-to-migrate-from-cedtag-to-joomla-3-1-x-internal-tag-extension-2/
-image: /wp-content/uploads/2012/05/cedTag.png
+header:
+  teaser: /assets/images/2012/05/cedTag.png
 tags:
     - joomla
 ---

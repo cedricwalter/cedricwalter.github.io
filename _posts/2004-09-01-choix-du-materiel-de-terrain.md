@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=930'
 permalink: /hobbies/choix-du-materiel-de-terrain/
-image: /wp-content/uploads/2004/08/hexstarter.JPG
+header:
+  teaser: /assets/images/2004/08/hexstarter.JPG
 tags:
     - 'Astuces (fr)'
     - 'RC helicopter'

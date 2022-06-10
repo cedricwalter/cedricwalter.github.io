@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3959'
 permalink: /gadget/nikon-d90-compared-to-the-canon-eos-50d-nikon-d80-and-nikon-d300-digital-slr/
-image: /wp-content/uploads/2008/12/nikond300_thumb.jpg
+header:
+  teaser: /assets/images/2008/12/nikond300_thumb.jpg
 ---
 
 | [![nikon-d300](/assets/images/2008/12/nikond300_thumb.jpg)](/assets/images/2008/12/nikond300.jpg) | If you are searching a SLR camera and still can’t decide between Canon EOS 50D, Nikon D80, and Nikon D300, this is a review for You. |

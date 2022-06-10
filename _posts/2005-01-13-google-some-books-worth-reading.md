@@ -13,21 +13,21 @@ tags:
 
 Some interesting book that draw my attention:
 
- <span style="font-weight: bold;">Commercials
+Commercials
 
-- <span style="font-weight: bold;">Google secrets: How to get a top ranking, ebook by Dan Sisson. A how-to guide for getting your website ranked in the top 10 on the Google search engine. 109 pages full of tips, best practices, checklists, and samples. I found that it is also available as PDF [here](http://www.booklocker.com/books/1094.html) for Ex. [A website](http://www.google-secrets.com/) is also available with some extract of the book, [extended chapter summary](http://www.google-secrets.com/google-secrets-sample.htm). In the meantime, I discover a lot of litterature on the subject:
-- <span style="font-weight: bold;">Google Hacks: 100 Industrial-Strength Tips &amp; Tools  
+-Google secrets: How to get a top ranking, ebook by Dan Sisson. A how-to guide for getting your website ranked in the top 10 on the Google search engine. 109 pages full of tips, best practices, checklists, and samples. I found that it is also available as PDF [here](http://www.booklocker.com/books/1094.html) for Ex. [A website](http://www.google-secrets.com/) is also available with some extract of the book, [extended chapter summary](http://www.google-secrets.com/google-secrets-sample.htm). In the meantime, I discover a lot of litterature on the subject:
+-Google Hacks: 100 Industrial-Strength Tips &amp; Tools  
      by Tara Calishain, Rael Dornfest (Oreilly ISBN: 0596004478). [review](http://www.amazon.com/exec/obidos/tg/detail/-/0596004478/103-4303246-2273411?v=glance) \[amazon\]
-- <span style="font-weight: bold;">How to Do Everything with Google (McGraw-Hill Osborne Media ISBN: 0072231742) [review](http://www.amazon.com/exec/obidos/ASIN/0072231742/ref%3Dnosim/pandiainternetse/103-4303246-2273411) \[amazon\]
+-How to Do Everything with Google (McGraw-Hill Osborne Media ISBN: 0072231742) [review](http://www.amazon.com/exec/obidos/ASIN/0072231742/ref%3Dnosim/pandiainternetse/103-4303246-2273411) \[amazon\]
 
- <span style="font-weight: bold;">  
+  
  Free papers
 
 - [The Google cluster](http://www.computer.org/micro/mi2003/m2022.pdf) (Published by the IEEE Computer Society 0272-1732/03/$17.00 Ã&#153; 2003 IEEE) an interesting paper with a lot of figures which try to determine the number of machine, used by google. As always, full of superlatives (read power consumption chapter)  
-     <span style="font-weight: bold;">
-- <span style="font-weight: bold;">Googled is a collaborative blog which try to write a book online (start in 2003). Readers can submit freely ideas, information and comments. Seems dead now and outdated
+    
+-Googled is a collaborative blog which try to write a book online (start in 2003). Readers can submit freely ideas, information and comments. Seems dead now and outdated
 
-<span style="font-weight: bold;">  
+  
  Google speak!
 
 - [Google](http://www.google.com) is also though [Google’s labs](http://labs.google.com/papers.html) releasing some top informations about their technologies that make them the best search engine today.

@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=8400'
 permalink: /educationresume/arbeitszeugnis-2016-original-on-demand/
-image: /wp-content/uploads/2016/07/Arbeitszeugnis.png
+header:
+  teaser: /assets/images/2016/07/Arbeitszeugnis.png
 tags:
     - helvetia
 ---

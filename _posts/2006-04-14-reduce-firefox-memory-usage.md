@@ -7,23 +7,27 @@ author: 'Cédric Walter'
 guid: 'https://waltercedric.com/new/?p=2452'
 permalink: /open-source/reduce-firefox-memory-usage/
 tags:
-    - opensource
-    - software
+- opensource
+- software
 ---
 
 ![](/assets/images/2006/04/firefox-logo.jpg)
 
-it is not inusual for my firefox to eat more than 400Mb of RAM and this because I rarely closed it down and/or work with many windows at the same time. Memory leaks is a known problem and some action are currently taken by the developers…
+it is not inusual for my firefox to eat more than 400Mb of RAM and this because I rarely closed it down and/or work with
+many windows at the same time. Memory leaks is a known problem and some action are currently taken by the developers…
 
-The Hack below will improve (but not fix the problem) by unloading Firefox as much as possible from memory and saving it to disk when you minimize its windows.
+The Hack below will improve (but not fix the problem) by unloading Firefox as much as possible from memory and saving it
+to disk when you minimize its windows.
 
 1. Open Firefox and go to the Address Bar. And Type in the URL bar ***about:config*** and then press Enter.
 2. Right Click in the page and select *New -> Boolean*.
- ![](/assets/images/2006/04/firefox-logo.jpg)
+   ![](/assets/images/2006/04/firefox-logo.jpg)
 
-it is not inusual for my firefox to eat more than 400Mb of RAM and this because I rarely closed it down and/or work with many windows at the same time. Memory leaks is a known problem and some action are currently taken by the developers…
+it is not inusual for my firefox to eat more than 400Mb of RAM and this because I rarely closed it down and/or work with
+many windows at the same time. Memory leaks is a known problem and some action are currently taken by the developers…
 
-The Hack below will improve (but not fix the problem) by unloading Firefox as much as possible from memory and saving it to disk when you minimize its windows.
+The Hack below will improve (but not fix the problem) by unloading Firefox as much as possible from memory and saving it
+to disk when you minimize its windows.
 
 1. Open Firefox and go to the Address Bar. And Type in the URL bar ***about:config*** and then press Enter.
 2. Right Click in the page and select *New -> Boolean*.
@@ -33,6 +37,9 @@ The Hack below will improve (but not fix the problem) by unloading Firefox as mu
 
 This trick is also reversible and is not affecting speed or stability of mozilla Firefox.
 
-You can also reduce the number of pages saved for the BACK button (who need it today? with 8Mb bandwidth…) by affecting the key *browser.sessionhistory.max\_total\_viewers*
+You can also reduce the number of pages saved for the BACK button (who need it today? with 8Mb bandwidth…) by affecting
+the key *browser.sessionhistory.max\_total\_viewers*
 
-In Between I must also admit, that I now only use Firefox for development (thanks to the great list of plugins available: webtools, measureit, css editor, javascript debugger ….). My choice is Opera 8.5 and this because I have always 50 windows open! 🙂
+In Between I must also admit, that I now only use Firefox for development (thanks to the great list of plugins
+available: webtools, measureit, css editor, javascript debugger ….). My choice is Opera 8.5 and this because I have
+always 50 windows open! 🙂

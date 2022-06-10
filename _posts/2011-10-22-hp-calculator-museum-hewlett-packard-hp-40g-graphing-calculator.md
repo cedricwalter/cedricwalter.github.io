@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=7236'
 permalink: /hobbies/hp-calculator-museum-hewlett-packard-hp-40g-graphing-calculator/
-image: /wp-content/uploads/2011/10/HP_calculator_museum_Hewlett_Packard_HP40G_Graphing_Calculator.png
+header:
+  teaser: /assets/images/2011/10/HP_calculator_museum_Hewlett_Packard_HP40G_Graphing_Calculator.png
 tags:
     - calculator
     - Design

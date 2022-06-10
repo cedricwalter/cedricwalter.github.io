@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3916'
 permalink: /joomla/preventing-sql-injection-attacks-on-your-joomla-websites/
-image: /wp-content/uploads/2008/11/image004_thumb.png
+header:
+  teaser: /assets/images/2008/11/image004_thumb.png
 tags:
     - attack
     - book

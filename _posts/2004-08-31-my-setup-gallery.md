@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=599'
 permalink: /gadget/my-setup-gallery/
-image: /wp-content/uploads/2004/08/watercooling-overall.jpg
+header:
+  teaser: /assets/images/2004/08/watercooling-overall.jpg
 tags:
 - installation
 - located

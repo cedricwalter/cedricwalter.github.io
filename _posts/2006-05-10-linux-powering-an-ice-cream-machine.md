@@ -6,12 +6,13 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2523'
 permalink: /linux/linux-powering-an-ice-cream-machine/
-image: /wp-content/uploads/2006/05/moo_bella_balloons-thm.gif
+header:
+  teaser: /assets/images/2006/05/moo_bella_balloons-thm.gif
 tags:
     - linux
     - OpenSuse
 ---
 
   
-| ![](/assets/images/2006/05/moo_bella_balloons-thm.gif) | A dream come true, If only my boss would want to install one in the office… [MooBella has put #Linux to work making ice cream](http://www.linuxdevices.com/articles/AT9296154631.html), in a vending machine that Wallace and Gromit would be proud of. The MooBella vending machine uses #Linux 2.4 and a Red Hat filesystem to make 96 varieties of ice cream, on demand, in about 45 seconds per precisely-measured serving.  Take also time to visit [LinuxDevices.com](http://www.linuxdevices.com) to discover the number of devices the linux penguin TUX already control: Total domination 🙂<font face="Arial,Helvetica" size="3"><span style="font-style: italic;">    |
+| ![](/assets/images/2006/05/moo_bella_balloons-thm.gif) | A dream come true, If only my boss would want to install one in the office… [MooBella has put #Linux to work making ice cream](http://www.linuxdevices.com/articles/AT9296154631.html), in a vending machine that Wallace and Gromit would be proud of. The MooBella vending machine uses #Linux 2.4 and a Red Hat filesystem to make 96 varieties of ice cream, on demand, in about 45 seconds per precisely-measured serving.  Take also time to visit [LinuxDevices.com](http://www.linuxdevices.com) to discover the number of devices the linux penguin TUX already control: Total domination 🙂<font face="Arial,Helvetica" size="3">    |
 |---|---|

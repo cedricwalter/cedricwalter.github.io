@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=6558'
 permalink: /linux/modsecurity-waf-and-ubuntu-10-04-lts/
-image: /wp-content/uploads/2006/08/mod_security.gif
+header:
+  teaser: /assets/images/2006/08/mod_security.gif
 ---
 
 ![](/assets/images/2006/08/mod_security.gif)I was unable to Install properly OpenSuSE 11.3 with Plesk 10.1.1. This has forced me to install #Ubuntu 10.04 LTS and since then also to (re)learn some basic stuff to secure my #Linux server. Here are some of my How-To.

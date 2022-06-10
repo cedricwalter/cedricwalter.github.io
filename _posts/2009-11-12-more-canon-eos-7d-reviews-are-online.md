@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4873'
 permalink: /gadget/more-canon-eos-7d-reviews-are-online/
-image: /wp-content/uploads/2009/11/canon7d450.jpg
+header:
+  teaser: /assets/images/2009/11/canon7d450.jpg
 ---
 
 ![](/assets/images/2009/11/canon7d450.jpg)

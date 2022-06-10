@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4007'
 permalink: /joomla/installing-phpunit-selenium-in-xampp/
-image: /wp-content/uploads/2008/12/phpunitlogo_thumb.gif
+header:
+  teaser: /assets/images/2008/12/phpunitlogo_thumb.gif
 ---
 
 |  | [![phpunit-logo](/assets/images/2008/12/phpunitlogo_thumb.gif)](/assets/images/2008/12/phpunitlogo.gif) | ![selenium-logo](/assets/images/2008/12/seleniumlogo.png) [](/assets/images/2008/12/phpunitlogo.gif) | [![xampp.logo](/assets/images/2008/12/xampp.logo_thumb.gif)](/assets/images/2008/12/xampp.logo_.gif) |

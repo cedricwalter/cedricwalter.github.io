@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=6614'
 permalink: /gadget/i-broke-my-iphone-3gs-a-how-to-repair-will-follow/
-image: /wp-content/uploads/2011/04/broken.apple_.iphone.3gs_thumb.png
+header:
+  teaser: /assets/images/2011/04/broken.apple_.iphone.3gs_thumb.png
 tags:
     - apple
     - cellphones

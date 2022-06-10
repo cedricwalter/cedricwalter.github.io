@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=1897'
 permalink: /motorcycles/shark-rsf2-nexus-blue/
-image: /wp-content/uploads/2010/12/Shark-RSF2-Nexus-Blue.jpg
+header:
+  teaser: /assets/images/2010/12/Shark-RSF2-Nexus-Blue.jpg
 ---
 
 # Casque précédent:** Nolan N81E blue, âge: mi2002-mi2005, 11000km  

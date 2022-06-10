@@ -7,10 +7,13 @@ author: 'Cédric Walter'
 guid: 'https://waltercedric.com/new/?p=2045'
 permalink: /development/the-graphical-editing-framework-gef/
 tags:
-    - creating
-    - framework
-    - graphical
-    - including
+- creating
+- framework
+- graphical
+- including
 ---
 
-The [Graphical Editing Framework](http://www.eclipse.org/gef) (GEF) from [eclipse ](http://www.eclipse.org)uses an SWT-based lightweight GUI toolkit to provide a feature-rich framework for creating graphical editors in #Eclipse. GEF is application neutral and provides the groundwork to build almost any application, including, but not limited to, charts and graphs, reports, activity diagrams, GUI builders, UML diagram editors, and even WYSIWYG text editors like HTML.
+The [Graphical Editing Framework](http://www.eclipse.org/gef) (GEF) from [eclipse ](http://www.eclipse.org)uses an
+SWT-based lightweight GUI toolkit to provide a feature-rich framework for creating graphical editors in #Eclipse. GEF is
+application neutral and provides the groundwork to build almost any application, including, but not limited to, charts
+and graphs, reports, activity diagrams, GUI builders, UML diagram editors, and even WYSIWYG text editors like HTML.

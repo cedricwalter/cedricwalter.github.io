@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=5967'
 permalink: /internet/i-also-get-caught-in-the-spam-infographics-business/
-image: /wp-content/uploads/2010/09/infographicinfographic1_thumb.jpg
+header:
+  teaser: /assets/images/2010/09/infographicinfographic1_thumb.jpg
 tags:
     - convenient
     - Spam

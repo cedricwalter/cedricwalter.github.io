@@ -8,7 +8,8 @@ guid: 'https://waltercedric.com/?p=12259'
 permalink: /holidays/tasmania-lake-st-clair/
 ngg_post_thumbnail:
     - '0'
-image: /wp-content/uploads/2020/03/australia.tasmania.lake_.st_.clair_0814.jpg
+header:
+  teaser: /assets/images/2020/03/australia.tasmania.lake_.st_.clair_0814.jpg
 tags:
     - Australia
     - holidays

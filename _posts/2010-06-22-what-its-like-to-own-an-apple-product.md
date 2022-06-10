@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=5380'
 permalink: /gadget/what-its-like-to-own-an-apple-product/
-image: /wp-content/uploads/2010/06/WhatItsLikeToOwnanAppleProduct.png
+header:
+  teaser: /assets/images/2010/06/WhatItsLikeToOwnanAppleProduct.png
 tags:
     - apple
     - cellphones

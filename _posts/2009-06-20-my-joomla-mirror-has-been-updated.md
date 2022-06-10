@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4465'
 permalink: /joomla/my-joomla-mirror-has-been-updated/
-image: /wp-content/uploads/2009/06/mirror.waltercedric.com_.png
+header:
+  teaser: /assets/images/2009/06/mirror.waltercedric.com_.png
 ---
 
 [![mirror.waltercedric.com](/assets/images/2009/06/mirror.waltercedric.com_.png "mirror.waltercedric.com")](http://mirror.waltercedric.com/)

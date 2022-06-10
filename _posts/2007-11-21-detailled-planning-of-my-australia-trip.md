@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3122'
 permalink: /holidays/detailled-planning-of-my-australia-trip/
-image: /wp-content/uploads/2020/03/australia.south_.australia.kanguru.island_00142.jpg
+header:
+  teaser: /assets/images/2020/03/australia.south_.australia.kanguru.island_00142.jpg
 tags:
     - Australia
     - holidays

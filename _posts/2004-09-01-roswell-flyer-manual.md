@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=787'
 permalink: /hobbies/roswell-flyer-manual/
-image: /wp-content/uploads/2004/09/start.1.jpg
+header:
+  teaser: /assets/images/2004/09/start.1.jpg
 tags:
     - characteristics
     - functionality

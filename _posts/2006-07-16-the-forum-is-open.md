@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2663'
 permalink: /joomla/the-forum-is-open/
-image: /wp-content/uploads/2006/07/forums.waltercedric.gif
+header:
+  teaser: /assets/images/2006/07/forums.waltercedric.gif
 tags:
     - categories
     - contact

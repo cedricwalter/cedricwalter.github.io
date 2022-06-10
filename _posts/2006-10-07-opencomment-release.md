@@ -6,18 +6,19 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2716'
 permalink: /joomla/opencomment-release/
-image: /wp-content/uploads/2006/03/opencomment.jpg
+header:
+  teaser: /assets/images/2006/03/opencomment.jpg
 tags:
     - joomla
 ---
 
- <span style="font-weight: bold;">Today is a GREAT day for all of You…. 
+Today is a GREAT day for all of You…. 
 
 | ![](/assets/images/2006/03/opencomment.jpg) | Dear worldwide users of [Joomla!](http://www.joomla.org). I am releasing OpenComment 3.0.10 NOW! I am working on this component since middle of march    I am convince that this release is more than usable, so usable that You can use it on this site NOW. |
 |---|---|
 
   
- <span style="font-weight: bold;">What is OpenComment?  
+What is OpenComment?  
  OpenComment lets your users comment on content items.
 
 | <small>AJAX enable to have lightning fast update of the comment list, each 100 seconds as default the lst is automatically updated    </small> | <small>Threaded or linear displaying list of comments.</small> |
@@ -36,7 +37,7 @@ What I’ve solved
 - The code is #Joomla 1.5 compliant: no register globals, RG Emulation off ….
 - You can migrate old akocomment previous entries by selecting in admin menu "Migrate AkoComment entries" (do not use more than once!, or it may import comments twice!)
 
- <span style="font-weight: bold;">But under following limitations:
+But under following limitations:
 
 - I am using some computational PHP functions (bcadd, bcmul, bcdiv), so libbcmath must be installed on your server.
 - OpenComment use XAJAX, a very good AJAX framework, so good that it will be part of the next [Joomla!](http://www.joomla.org/) 1.5 version (beta to be release for 10 October 2006). The major problem is that XAJAX do not allow more than one component, module, mambot enabled AJAX. [See Here.](http://www.xajax-joomla.com/)In clear text for all non technicians, if 2 #Joomla! plugins use XAJAX on the same page, it wont work! -> I am forced to use a trick and change some code for the next OpenComment version (3.0.11).
@@ -45,7 +46,7 @@ What I’ve solved
 
  Help, donations, support is always welcome. I am also accepting code bounty (implementing functionnalities You need for money)
 
-Download <span style="font-weight: bold;">on my site or at [Joomla Forge](http://forge.joomla.org/sf/sfmain/do/home)
+Downloadon my site or at [Joomla Forge](http://forge.joomla.org/sf/sfmain/do/home)
 
-<span style="font-weight: bold;">And for the future?  
+And for the future?  
 i will add functionnalities on a request basis, the next version 3.0.11 has already a better css integration and a "search input field" in the comments panel.

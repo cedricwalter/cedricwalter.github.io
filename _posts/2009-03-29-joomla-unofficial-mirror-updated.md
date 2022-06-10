@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4235'
 permalink: /joomla/joomla-unofficial-mirror-updated/
-image: /wp-content/uploads/2009/03/JoomlaLogoVertColor.png
+header:
+  teaser: /assets/images/2009/03/JoomlaLogoVertColor.png
 ---
 
 [![](/assets/images/2009/03/JoomlaLogoVertColor.png)](http://mirror.waltercedric.com/) I’ve just update [my unofficial #Joomla! mirror](http://mirror.waltercedric.com/) with the latest version (1.5.10), starting from now on, the list of files is generated using [Snif](http://www.bitfolge.de/snif-en.html) (simple and nice index file)

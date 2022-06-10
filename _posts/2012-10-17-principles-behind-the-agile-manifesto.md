@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=7792'
 permalink: /development/principles-behind-the-agile-manifesto/
-image: /wp-content/uploads/2012/10/PrinciplesBehindTheAgileManifesto_thumb.png
+header:
+  teaser: /assets/images/2012/10/PrinciplesBehindTheAgileManifesto_thumb.png
 ---
 
 ![PrinciplesBehindTheAgileManifesto](/assets/images/2012/10/PrinciplesBehindTheAgileManifesto_thumb.png "PrinciplesBehindTheAgileManifesto")

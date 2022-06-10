@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4342'
 permalink: /internet/css-sprite-generator-online/
-image: /wp-content/uploads/2009/05/css.sprite.generator.png
+header:
+  teaser: /assets/images/2009/05/css.sprite.generator.png
 tags:
     - internet
     - web

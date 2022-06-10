@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=8773'
 permalink: /hobbies/phoenix-rc-is-no-longer-supported/
-image: /wp-content/uploads/2012/01/phoenixRc_header_thumb.png
+header:
+  teaser: /assets/images/2012/01/phoenixRc_header_thumb.png
 tags:
     - helicopter
     - quadcopter

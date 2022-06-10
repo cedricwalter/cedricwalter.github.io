@@ -7,8 +7,8 @@ author: 'Cédric Walter'
 guid: 'https://waltercedric.com/new/?p=696'
 permalink: /hobbies/la-bobine-de-ruhmkorff/
 tags:
-    - Electricity
-    - myhobbies
+- Electricity
+- myhobbies
 ---
 
 # qq kVolts=quelques cm d'Ã©tincelles**

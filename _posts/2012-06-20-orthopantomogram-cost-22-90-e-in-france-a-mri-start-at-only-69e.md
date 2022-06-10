@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=7715'
 permalink: /holidays/orthopantomogram-cost-22-90-e-in-france-a-mri-start-at-only-69e/
-image: /wp-content/uploads/2012/06/orthopan.jpg
+header:
+  teaser: /assets/images/2012/06/orthopan.jpg
 tags:
     - switzerland
 ---

@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3990'
 permalink: /internet/welcome-to-google-app-engine/
-image: /wp-content/uploads/2008/12/appengine.gif.jpg
+header:
+  teaser: /assets/images/2008/12/appengine.gif.jpg
 tags:
     - google
 ---

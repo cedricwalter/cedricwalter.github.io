@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4053'
 permalink: /games/ps3-firmware-2-60-brings-photo-gallery-and-divx-3-11/
-image: /wp-content/uploads/2005/06/sony_playstation_ps3.jpg
+header:
+  teaser: /assets/images/2005/06/sony_playstation_ps3.jpg
 ---
 
 ![sony_playstation_ps3](/assets/images/2005/06/sony_playstation_ps3.jpg "sony_playstation_ps3")

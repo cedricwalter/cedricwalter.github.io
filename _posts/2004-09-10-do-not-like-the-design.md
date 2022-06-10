@@ -11,4 +11,4 @@ tags:
     - templates
 ---
 
-If you do not like the overall design of my homepage, You can play with the “Template Chooser” bloc. The default templates is <span style="font-weight: bold;">rhuk\_planetfall 
+If you do not like the overall design of my homepage, You can play with the “Template Chooser” bloc. The default templates isrhuk\_planetfall 

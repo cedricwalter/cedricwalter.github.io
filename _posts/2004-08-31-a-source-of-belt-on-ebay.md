@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=495'
 permalink: /scooter/a-source-of-belt-on-ebay/
-image: /wp-content/uploads/2004/08/motorView.jpg
+header:
+  teaser: /assets/images/2004/08/motorView.jpg
 ---
 
 A source of belt on ebay

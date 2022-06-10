@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3956'
 permalink: /gadget/iphone-linux/
-image: /wp-content/uploads/2008/12/linuxOnIPhone_thumb.jpg
+header:
+  teaser: /assets/images/2008/12/linuxOnIPhone_thumb.jpg
 ---
 
 [![linuxOnIPhone](/assets/images/2008/12/linuxOnIPhone_thumb.jpg)](/assets/images/2008/12/linuxOnIPhone.jpg)

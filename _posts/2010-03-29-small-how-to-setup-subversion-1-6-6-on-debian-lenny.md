@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=5121'
 permalink: /development/small-how-to-setup-subversion-1-6-6-on-debian-lenny/
-image: /wp-content/uploads/2010/03/debian_logo_3.png
+header:
+  teaser: /assets/images/2010/03/debian_logo_3.png
 tags:
     - small
     - stable

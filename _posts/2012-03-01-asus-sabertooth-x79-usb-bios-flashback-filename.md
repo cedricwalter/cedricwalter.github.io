@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=7553'
 permalink: /gadget/asus-sabertooth-x79-usb-bios-flashback-filename/
-image: /wp-content/uploads/2012/03/asus_sabertooth_x79_mainboard.jpg
+header:
+  teaser: /assets/images/2012/03/asus_sabertooth_x79_mainboard.jpg
 ---
 
 ![asus_sabertooth_x79_mainboard](/assets/images/2012/03/asus_sabertooth_x79_mainboard.jpg "asus_sabertooth_x79_mainboard")

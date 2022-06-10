@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4291'
 permalink: /joomla/my-2-first-joomla-component-in-continuous-build/
-image: /wp-content/uploads/2009/04/teamcity.joomla.png
+header:
+  teaser: /assets/images/2009/04/teamcity.joomla.png
 ---
 
 [![teamcity.joomla](/assets/images/2009/04/teamcity.joomla.png "teamcity.joomla")](http://teamcity.waltercedric.com/overview.html)

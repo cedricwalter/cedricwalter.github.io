@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4715'
 permalink: /gadget/canon-eos-7d-hands-on-review-in-video/
-image: /wp-content/uploads/2009/09/Canon7D_thumb.jpg
+header:
+  teaser: /assets/images/2009/09/Canon7D_thumb.jpg
 ---
 
 [![Canon 7D](/assets/images/2009/09/Canon7D_thumb.jpg "Canon 7D")](/assets/images/2009/09/Canon7D.jpg)

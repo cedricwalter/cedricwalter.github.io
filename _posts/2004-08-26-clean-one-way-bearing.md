@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=77'
 permalink: /hobbies/clean-one-way-bearing/
-image: /wp-content/uploads/2004/08/cleanOneWayBearing.gif
+header:
+  teaser: /assets/images/2004/08/cleanOneWayBearing.gif
 tags:
     - disassemble
     - kyosho

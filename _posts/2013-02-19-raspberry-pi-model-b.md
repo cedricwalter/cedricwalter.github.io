@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=7954'
 permalink: /linux/raspberry-pi-model-b/
-image: /wp-content/uploads/2013/02/20130219_211947_thumb.jpg
+header:
+  teaser: /assets/images/2013/02/20130219_211947_thumb.jpg
 tags:
     - break
     - browser

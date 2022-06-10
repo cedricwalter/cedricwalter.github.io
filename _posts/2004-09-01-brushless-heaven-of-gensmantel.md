@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=877'
 permalink: /hobbies/brushless-heaven-of-gensmantel/
-image: /wp-content/uploads/2004/09/Heaven_2004.03.05_000.jpg
+header:
+  teaser: /assets/images/2004/09/Heaven_2004.03.05_000.jpg
 tags:
 - battery
 - Bought

@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3029'
 permalink: /games/ps3-ps3-1-90-firmware-revision/
-image: /wp-content/uploads/2005/06/sony_playstation_ps3.jpg
+header:
+  teaser: /assets/images/2005/06/sony_playstation_ps3.jpg
 tags:
     - gadget
     - 'Sony PS3'

@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3094'
 permalink: /security/security-made-easy-automatic-scan-and-update-of-your-installed-applications/
-image: /wp-content/uploads/2007/10/secunia.psi_.scanning.pc_.jpg
+header:
+  teaser: /assets/images/2007/10/secunia.psi_.scanning.pc_.jpg
 tags:
     - security
 ---

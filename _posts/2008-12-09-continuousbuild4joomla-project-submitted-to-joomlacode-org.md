@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3969'
 permalink: /joomla/continuousbuild4joomla-project-submitted-to-joomlacode-org/
-image: /wp-content/uploads/2008/12/bec5e1a9586b4934a710bd9a093efdba.jpg
+header:
+  teaser: /assets/images/2008/12/bec5e1a9586b4934a710bd9a093efdba.jpg
 ---
 
 I will commit soon a first draft (alpha) of what is expected to bring continuous build to any #Joomla! component (or event to #Joomla! core itself ;-))

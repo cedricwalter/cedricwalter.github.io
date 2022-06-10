@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3978'
 permalink: /joomla/new-version-of-related-articles-1-5-1/
-image: /wp-content/uploads/2008/12/relatedarticlesforJoomla_thumb.png
+header:
+  teaser: /assets/images/2008/12/relatedarticlesforJoomla_thumb.png
 ---
 
 [![relatedarticlesforJoomla](/assets/images/2008/12/relatedarticlesforJoomla_thumb.png)](/assets/images/2008/12/relatedarticlesforJoomla.png)

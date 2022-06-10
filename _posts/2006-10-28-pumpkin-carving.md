@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2735'
 permalink: /today-on-earth/pumpkin-carving/
-image: /wp-content/uploads/2006/10/pumpkin-carving-tutorial.jpg
+header:
+  teaser: /assets/images/2006/10/pumpkin-carving-tutorial.jpg
 tags:
     - fantastic
     - 'Today on earth'
@@ -14,5 +15,5 @@ tags:
 
  <font size="-1" style="font-style: italic;">
 
-| [![](/assets/images/2006/10/pumpkin-carving-tutorial.jpg)](http://www.villafanestudios.com/pumpkins.htm) | [<font size="-1"><span style="font-weight: bold;">Pumpkin Carving art explained….](http://www.villafanestudios.com/pumpkins.htm)<font size="-1" style="font-style: italic;">Halloween is a holiday celebrated on the night of October 31, usually by children dressing in costumes and going door-to-door collecting candy. It is celebrated in much of the Western world, though most commonly in the United States, Ireland, Scotland and Canada. Irish, Scots and other immigrants brought older versions of the tradition to North America in the 19th century. \[WikiPedia\]   |
+| [![](/assets/images/2006/10/pumpkin-carving-tutorial.jpg)](http://www.villafanestudios.com/pumpkins.htm) | [<font size="-1">Pumpkin Carving art explained….](http://www.villafanestudios.com/pumpkins.htm)<font size="-1" style="font-style: italic;">Halloween is a holiday celebrated on the night of October 31, usually by children dressing in costumes and going door-to-door collecting candy. It is celebrated in much of the Western world, though most commonly in the United States, Ireland, Scotland and Canada. Irish, Scots and other immigrants brought older versions of the tradition to North America in the 19th century. \[WikiPedia\]   |
 |---|---|

@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4754'
 permalink: /internet/online-tool-for-webmaster-usability-performance-seo/
-image: /wp-content/uploads/2009/10/TheReactionEngine_aFreeOnlineSEOAnalysisTool.png
+header:
+  teaser: /assets/images/2009/10/TheReactionEngine_aFreeOnlineSEOAnalysisTool.png
 tags:
     - internet
     - web

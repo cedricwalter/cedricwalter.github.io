@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2850'
 permalink: /internet/contact-working-again/
-image: /wp-content/uploads/2007/01/contact.gif
+header:
+  teaser: /assets/images/2007/01/contact.gif
 tags:
     - homepage
     - 'My Homepage'

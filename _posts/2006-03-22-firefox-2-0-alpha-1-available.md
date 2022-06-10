@@ -13,6 +13,6 @@ tags:
 ---
 
 Available only for people who want to try unstable software.  
-<span style="font-style: italic;">[Bon Echo Alpha 1 is a developer preview release ](http://www.mozilla.org/projects/bonecho/releases/2.0a1.html)of our next generation Firefox browser and it is being made available for **testing purposes only**<span style="font-style: italic;">. Bon Echo Alpha 1 is intended for web application developers and our testing community. Current users of Mozilla Firefox 1.x should not use Bon Echo Alpha 1.
+[Bon Echo Alpha 1 is a developer preview release ](http://www.mozilla.org/projects/bonecho/releases/2.0a1.html)of our next generation Firefox browser and it is being made available for **testing purposes only**. Bon Echo Alpha 1 is intended for web application developers and our testing community. Current users of Mozilla Firefox 1.x should not use Bon Echo Alpha 1.
 
-Happy testing 🙂<span style="font-style: italic;">  
+Happy testing 🙂  

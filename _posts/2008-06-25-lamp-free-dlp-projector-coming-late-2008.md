@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3506'
 permalink: /gadget/lamp-free-dlp-projector-coming-late-2008/
-image: /wp-content/uploads/2008/06/TIDLP_thumb.jpg
+header:
+  teaser: /assets/images/2008/06/TIDLP_thumb.jpg
 ---
 
 *[![TIDLP](/assets/images/2008/06/TIDLP_thumb.jpg)](/assets/images/2008/06/TIDLP.jpg) I’ve probably found my next projector, if only price is right…*

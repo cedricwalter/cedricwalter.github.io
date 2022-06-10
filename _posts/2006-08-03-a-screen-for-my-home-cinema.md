@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2672'
 permalink: /gadget/a-screen-for-my-home-cinema/
-image: /wp-content/uploads/2006/08/dalite-model_c_csr.jpg
+header:
+  teaser: /assets/images/2006/08/dalite-model_c_csr.jpg
 tags:
     - gadget
     - 'Home Cinema'
@@ -20,8 +21,8 @@ tags:
  The 3 major parameters are:
 
 1. <span class="partDesc" style="font-weight: bold;">Screen Gain <span class="text">: The ability of a screen to direct incident light to an audience. A flat matte white wall has the gain of approximately 1. Screens with a gain less than 1 attenuate incident light; screens with gain more than 1 direct more incident light to the audience but have a narrow viewing angle. For example: an image reflecting off a 10 gain screen appears 10 times brighter than it would if reflected off a matte white wall. Curved screens usually have larger gain than flat screens.
-2. <span class="text"><span class="text"><span class="partDesc" style="font-weight: bold;">Viewing Angle<span style="font-weight: bold;">: Screens do not reflect equally in all directions. Most light is reflected in a conical volume centered around the "line of best viewing". Maximum brightness is perceived if you are within the viewing cone defined by the horizontal and vertical viewing angles.
-3. <span style="font-weight: bold;">Your budget: we can not all buy a Stewart Firehawk (anyway it is optimized for DLP not LCD).
+2. <span class="text"><span class="text"><span class="partDesc" style="font-weight: bold;">Viewing Angle: Screens do not reflect equally in all directions. Most light is reflected in a conical volume centered around the "line of best viewing". Maximum brightness is perceived if you are within the viewing cone defined by the horizontal and vertical viewing angles.
+3.Your budget: we can not all buy a Stewart Firehawk (anyway it is optimized for DLP not LCD).
 
  <span class="text">  
  The presence of black band to hide eventual artifacts created by the projector (but it can be solve by software), the transparency of the screens is also important….  

@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2676'
 permalink: /gadget/the-best-review-of-projector-screens/
-image: /wp-content/uploads/2006/08/vutec-silverstar-projector-screens.jpg
+header:
+  teaser: /assets/images/2006/08/vutec-silverstar-projector-screens.jpg
 tags:
     - gadget
     - 'Home Cinema'

@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=7166'
 permalink: /games/tetris-radica-plug-and-play-game-2-players/
-image: /wp-content/uploads/2011/09/radica_retrogame_tetris_videogame_00.jpg
+header:
+  teaser: /assets/images/2011/09/radica_retrogame_tetris_videogame_00.jpg
 tags:
     - controller
     - games

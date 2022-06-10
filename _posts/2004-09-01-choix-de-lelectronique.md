@@ -7,11 +7,14 @@ author: 'Cédric Walter'
 guid: 'https://waltercedric.com/new/?p=918'
 permalink: /hobbies/choix-de-lelectronique/
 tags:
+
 - 'Astuces (fr)'
 - 'RC helicopter'
+
 ---
 
 # choix de l'électronique
+
 ## Batteries
 
 - Jamais de controleur de batteries a une seule led ! parce ce que le temps que le systeme change de couleur et ton

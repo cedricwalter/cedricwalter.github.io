@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3375'
 permalink: /joomla/securityimages-5-0-beta3-available/
-image: /wp-content/uploads/2008/04/com_securityimages_thumb.png
+header:
+  teaser: /assets/images/2008/04/com_securityimages_thumb.png
 ---
 
 | **[![com_securityimages](/assets/images/2008/04/com_securityimages_thumb.png)](/assets/images/2008/04/com_securityimages.png)** | Security images are dynamically generated images containing hard to read text, it is using a combination of font colors, font size, fuzzy background, font angle in order to disallow computer to automate reading (and so limit spamming).    The user (a human) has to reproduce all character correctly before being allowed to post.  This BETA3 solve many issues..hope you will all like it. click read more for more details of what the BETA3 solve. |

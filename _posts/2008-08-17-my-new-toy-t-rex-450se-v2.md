@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3713'
 permalink: /hobbies/my-new-toy-t-rex-450se-v2/
-image: /wp-content/uploads/2008/08/trex450sev2_thumb.jpg
+header:
+  teaser: /assets/images/2008/08/trex450sev2_thumb.jpg
 tags:
     - aluminum
     - battery

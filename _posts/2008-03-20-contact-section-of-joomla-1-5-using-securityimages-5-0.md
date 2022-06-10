@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3275'
 permalink: /joomla/contact-section-of-joomla-1-5-using-securityimages-5-0/
-image: /wp-content/uploads/2008/03/contact.settings.securityimages.5.0_thumb.gif
+header:
+  teaser: /assets/images/2008/03/contact.settings.securityimages.5.0_thumb.gif
 ---
 
 SecurityImages BETA will be available in no more than 2 days…

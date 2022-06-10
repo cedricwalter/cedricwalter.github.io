@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4098'
 permalink: /internet/adding-google-analytics-to-mediawiki/
-image: /wp-content/uploads/2009/02/MediaWikilogo_thumb.png
+header:
+  teaser: /assets/images/2009/02/MediaWikilogo_thumb.png
 tags:
     - google
 ---

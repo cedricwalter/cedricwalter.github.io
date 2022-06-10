@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=8116'
 permalink: /hobbies/hp-calculator-museum-hp48s-sx-graphing-calculator-1990/
-image: /wp-content/uploads/2013/07/hp48s.png
+header:
+  teaser: /assets/images/2013/07/hp48s.png
 tags:
     - calculator
     - graphing

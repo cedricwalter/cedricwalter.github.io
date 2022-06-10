@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3073'
 permalink: /java/fully-time-deterministic-java/
-image: /wp-content/uploads/2020/03/java.jpg
+header:
+  teaser: /assets/images/2020/03/java.jpg
 tags:
     - algorithms
     - capabilities

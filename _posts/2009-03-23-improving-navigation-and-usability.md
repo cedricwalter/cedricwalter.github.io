@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4216'
 permalink: /internet/improving-navigation-and-usability/
-image: /wp-content/uploads/2009/03/tag.navigator.png
+header:
+  teaser: /assets/images/2009/03/tag.navigator.png
 tags:
     - homepage
 ---

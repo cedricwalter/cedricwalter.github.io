@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=6369'
 permalink: /development/need-for-speed-mod_pagespeed-from-google/
-image: /wp-content/uploads/2009/10/google_logo.jpg
+header:
+  teaser: /assets/images/2009/10/google_logo.jpg
 tags:
     - faster
     - google

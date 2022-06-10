@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4576'
 permalink: /joomla/how-to-make-your-own-patches-for-securityimages/
-image: /wp-content/uploads/2009/08/patches.for_.securityimages.howto_.png
+header:
+  teaser: /assets/images/2009/08/patches.for_.securityimages.howto_.png
 ---
 
 # Just in case I take too much time to deliver a ready to use download, duration 5 minutes, but you need to understand basic php coding**

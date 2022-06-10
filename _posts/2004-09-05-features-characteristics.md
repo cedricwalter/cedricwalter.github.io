@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=1003'
 permalink: /hobbies/features-characteristics/
-image: /wp-content/uploads/2004/09/ek4big.gif
+header:
+  teaser: /assets/images/2004/09/ek4big.gif
 tags:
     - characteristics
     - Features

@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4389'
 permalink: /joomla/tags-waltercedric-com-now-open-source/
-image: /wp-content/uploads/2009/06/tags.waltercedric.com_.png
+header:
+  teaser: /assets/images/2009/06/tags.waltercedric.com_.png
 ---
 
 I release now the code that power my sub domain <http://tags.waltercedric.com>

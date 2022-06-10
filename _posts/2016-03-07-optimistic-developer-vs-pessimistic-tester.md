@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=8330'
 permalink: /development/optimistic-developer-vs-pessimistic-tester/
-image: /wp-content/uploads/2016/03/tester_thumb_2.png
+header:
+  teaser: /assets/images/2016/03/tester_thumb_2.png
 ---
 
 [![tester](/assets/images/2016/03/tester_thumb_2.png "tester")](/assets/images/2016/03/tester_6.png)

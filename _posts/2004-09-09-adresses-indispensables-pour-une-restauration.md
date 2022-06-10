@@ -27,6 +27,6 @@ tags:
 | **Retro Scooter** | 601 av de l’Europe    34170 Castelnau le Lez    04 67 02 05 12 |  |  |
 | **Classic Scooter** |  |  |  |
 
-<font size="5">**Links**
+**Links**
 
 <http://www.scootermaniac.org/index.php>

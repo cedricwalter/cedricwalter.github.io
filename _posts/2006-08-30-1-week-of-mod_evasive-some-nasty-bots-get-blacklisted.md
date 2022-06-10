@@ -12,33 +12,33 @@ tags:
 
 This are my mod\_evasive settings:  
    
-<span style="font-style: italic;">LoadModule evasive20\_module /usr/lib/apache2/mod\_evasive20.so  
-<span style="font-style: italic;"><IfModule mod\_evasive20.c>  
-<span style="font-style: italic;"> DOSHashTableSize 3097  
-<span style="font-style: italic;"> DOSPageCount 5  
-<span style="font-style: italic;"> DOSSiteCount 100  
-<span style="font-style: italic;"> DOSPageInterval 2  
-<span style="font-style: italic;"> DOSSiteInterval 2  
-<span style="font-style: italic;"> DOSBlockingPeriod 600  
-<span style="font-style: italic;"> DOSEmailNotify xxx@xxx.com  
-<span style="font-style: italic;"></IfModule>
+LoadModule evasive20\_module /usr/lib/apache2/mod\_evasive20.so  
+<IfModule mod\_evasive20.c>  
+ DOSHashTableSize 3097  
+ DOSPageCount 5  
+ DOSSiteCount 100  
+ DOSPageInterval 2  
+ DOSSiteInterval 2  
+ DOSBlockingPeriod 600  
+ DOSEmailNotify xxx@xxx.com  
+</IfModule>
 
 And this is a small documentation I’ve forget to add in the previous article:
 
-- <span style="font-weight: bold;">DOSHashTableSize: is the size of the table of URL and IP combined. The greater this setting, the more memory is required for the look up table, but also the faster the look ups are processed. This option will automatically round up to the nearest prime number.
-- <span style="font-weight: bold;">DOSPageCount: is the number of same page requests from the same IP during an interval that will cause that IP to be added to the block list.
-- <span style="font-weight: bold;">DOSSiteCount: is the number of pages requested of a site by the same IP during an interval which will cause the IP to be added to the block list.
-- <span style="font-weight: bold;">DOSPageInterval: Interval for the ‘DOSPageCount’ threshold in second intervals.
-- <span style="font-weight: bold;">DOSSiteInterval:Interval for the ‘DOSSiteCount’ threshold in second intervals.
-- <span style="font-weight: bold;">DOSBlockingPeriod: is the time the IP is blacked (in seconds
-- <span style="font-weight: bold;">DOSEmailNotify: can be used to notify by sending an email everytime an IP is blocked
-- <span style="font-weight: bold;">DOSSystemCommand: is the command used to execute a command when an IP is blocked. It can be used to add a block the user from a firewall or router.
-- <span style="font-weight: bold;">DOSWhiteList: can be used to whitelist IPs such as 127.0.0.1
+-DOSHashTableSize: is the size of the table of URL and IP combined. The greater this setting, the more memory is required for the look up table, but also the faster the look ups are processed. This option will automatically round up to the nearest prime number.
+-DOSPageCount: is the number of same page requests from the same IP during an interval that will cause that IP to be added to the block list.
+-DOSSiteCount: is the number of pages requested of a site by the same IP during an interval which will cause the IP to be added to the block list.
+-DOSPageInterval: Interval for the ‘DOSPageCount’ threshold in second intervals.
+-DOSSiteInterval:Interval for the ‘DOSSiteCount’ threshold in second intervals.
+-DOSBlockingPeriod: is the time the IP is blacked (in seconds
+-DOSEmailNotify: can be used to notify by sending an email everytime an IP is blocked
+-DOSSystemCommand: is the command used to execute a command when an IP is blocked. It can be used to add a block the user from a firewall or router.
+-DOSWhiteList: can be used to whitelist IPs such as 127.0.0.1
 
   So if anybody on my homepage request 5 times the same page in less than 2 seconds, it will get blacklisted.  
 If anybody try to make more than 100 requests of my homepage in less than 2 seconds, it will get blacklisted.   
    
-<span style="font-weight: bold;">In less than a week, the following Bots get blacklisted.
+In less than a week, the following Bots get blacklisted.
 
 84.80.211.6 Unknown Country  
 62.226.126.102 Germany  

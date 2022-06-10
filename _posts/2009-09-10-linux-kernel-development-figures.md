@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4614'
 permalink: /linux/linux-kernel-development-figures/
-image: /wp-content/uploads/2011/05/linux.png
+header:
+  teaser: /assets/images/2011/05/linux.png
 tags:
     - developer
     - linux

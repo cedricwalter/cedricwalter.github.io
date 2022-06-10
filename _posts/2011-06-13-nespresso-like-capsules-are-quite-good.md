@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=6865'
 permalink: /homepage/nespresso-like-capsules-are-quite-good/
-image: /wp-content/uploads/2011/06/Nespresso_coffee_like_capsules_00.jpg
+header:
+  teaser: /assets/images/2011/06/Nespresso_coffee_like_capsules_00.jpg
 tags:
     - conclusions
     - good

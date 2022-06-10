@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3661'
 permalink: /internet/waltercedric-com-updated-to-the-last-version-of-joomla-1-5-6/
-image: /wp-content/uploads/2008/08/security_release_thumb.png
+header:
+  teaser: /assets/images/2008/08/security_release_thumb.png
 tags:
     - homepage
 ---

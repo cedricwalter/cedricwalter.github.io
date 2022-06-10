@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4578'
 permalink: /linux/kde-4-3-released-yesterday/
-image: /wp-content/uploads/2009/08/kde430_thumb.png
+header:
+  teaser: /assets/images/2009/08/kde430_thumb.png
 tags:
     - bugs
     - checked

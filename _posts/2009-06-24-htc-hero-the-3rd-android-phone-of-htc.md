@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4476'
 permalink: /gadget/htc-hero-the-3rd-android-phone-of-htc/
-image: /wp-content/uploads/2009/06/HTC.hero_.android.sense_.ui_thumb.jpg
+header:
+  teaser: /assets/images/2009/06/HTC.hero_.android.sense_.ui_thumb.jpg
 ---
 
 It seems that in the graphical and overall user experience, Android is catching fast the iPhone (even if HTC add a layer call HTC Sense UI on top of android). Non Android handset, aka all windows mobile 6.1, should also get this new UI as an update soon.

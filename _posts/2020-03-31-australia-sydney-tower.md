@@ -8,7 +8,8 @@ guid: 'https://waltercedric.com/?p=11921'
 permalink: /holidays/australia-sydney-tower/
 ngg_post_thumbnail:
     - '0'
-image: /wp-content/uploads/2020/03/sydney-tower.png
+header:
+  teaser: /assets/images/2020/03/sydney-tower.png
 tags:
     - Australia
     - holidays

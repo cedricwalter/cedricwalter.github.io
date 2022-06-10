@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4387'
 permalink: /joomla/be-secure-use-the-latest-joomla-version/
-image: /wp-content/uploads/2009/06/site.down_.hacked.jpg
+header:
+  teaser: /assets/images/2009/06/site.down_.hacked.jpg
 ---
 
 ![site.down.hacked](/assets/images/2009/06/site.down_.hacked.jpg "site.down.hacked")

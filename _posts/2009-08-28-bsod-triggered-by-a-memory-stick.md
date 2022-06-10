@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4598'
 permalink: /software/bsod-triggered-by-a-memory-stick/
-image: /wp-content/uploads/2009/08/bsod.windows.xp_.01_thumb.jpg
+header:
+  teaser: /assets/images/2009/08/bsod.windows.xp_.01_thumb.jpg
 ---
 
 [![bsod.windows.xp.01](/assets/images/2009/08/bsod.windows.xp_.01_thumb.jpg "bsod.windows.xp.01")](/assets/images/2009/08/bsod.windows.xp_.01.jpg) [![bsod.windows.xp.02](/assets/images/2009/08/bsod.windows.xp_.02_thumb.jpg "bsod.windows.xp.02")](/assets/images/2009/08/bsod.windows.xp_.02.jpg)

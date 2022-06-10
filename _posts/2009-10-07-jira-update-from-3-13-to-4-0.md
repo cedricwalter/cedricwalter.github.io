@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4764'
 permalink: /homepage/jira-update-from-3-13-to-4-0/
-image: /wp-content/uploads/2009/10/jira.waltercedric.com_.png
+header:
+  teaser: /assets/images/2009/10/jira.waltercedric.com_.png
 ---
 
 [![jira.waltercedric.com](/assets/images/2009/10/jira.waltercedric.com_.png "jira.waltercedric.com")](http://jira.waltercedric.com)I did update [my bug tracker](http://jira.waltercedric.com) to the latest release of JIRA

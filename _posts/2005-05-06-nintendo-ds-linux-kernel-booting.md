@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=1711'
 permalink: /linux/nintendo-ds-linux-kernel-booting/
-image: /wp-content/uploads/2005/05/linux-booting-nintendo-ds.jpg
+header:
+  teaser: /assets/images/2005/05/linux-booting-nintendo-ds.jpg
 tags:
     - games
     - linux

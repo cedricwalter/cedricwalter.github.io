@@ -12,7 +12,7 @@ tags:
 
  The Alternative PHP Cache (APC) is a free and open opcode cache for PHP. It was conceived of to provide a free, open, and robust framework for caching and optimizing PHP intermediate code. from [http://nl2.php.net/apc ](http://nl2.php.net/apc)
 
-<span style="font-weight: bold;">Links:
+Links:
 
 - [http://nl2.php.net/apc ](http://nl2.php.net/apc)
 - <http://pecl.php.net/package/APC>
@@ -55,7 +55,7 @@ Its output should resemble this:
 
 `phpize` should create a configure script in the current directory. If you get errors instead, you might be missing some required development tools, such as autoconf or libtool. You can try downloading the latest versions of those tools and running `phpize` again.
 
-<span style="font-weight: bold;">Run the configure script.
+Run the configure script.
 
 phpize creates a configure script. The only option you need to specify is the location of your php-config script.
 
@@ -70,13 +70,13 @@ If you prefer to use mmap instead of the default IPC shared memory support, add 
  If you prefer to use sysv IPC semaphores over the safer fcntl() locks, add –enable-sem to your configure line. If you don’t have a problem  
  with your server segaulting, or any other unnatural accumulation of semaphores on your system, the semaphore based locking is slightly faster.
 
-<span style="font-weight: bold;">Compile and install the files.   
-Simply type: <span style="font-weight: bold;">  
+Compile and install the files.   
+Simply type:  
 `# make install
 
 Installing shared extensions:     /usr/lib/php5/extensions/`
 
-<span style="font-weight: bold;">Suggested Configuration (in your php.ini file)
+Suggested Configuration (in your php.ini file)
 
 `  extension=apc.so
 

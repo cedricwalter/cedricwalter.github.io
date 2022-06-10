@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=945'
 permalink: /hobbies/commander-au-japon/
-image: /wp-content/uploads/2004/09/small-caliber.gif
+header:
+  teaser: /assets/images/2004/09/small-caliber.gif
 tags:
     - 'Astuces (fr)'
     - 'RC helicopter'

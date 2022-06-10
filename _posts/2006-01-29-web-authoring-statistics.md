@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2295'
 permalink: /internet/web-authoring-statistics/
-image: /wp-content/uploads/2006/01/google_sm.gif
+header:
+  teaser: /assets/images/2006/01/google_sm.gif
 tags:
     - google
     - statistics

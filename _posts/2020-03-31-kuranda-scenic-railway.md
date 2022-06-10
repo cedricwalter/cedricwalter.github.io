@@ -8,7 +8,8 @@ guid: 'https://waltercedric.com/?p=12380'
 permalink: /holidays/kuranda-scenic-railway/
 ngg_post_thumbnail:
     - '0'
-image: /wp-content/uploads/2020/03/Kuranda-Scenic-Railway-2.jpg
+header:
+  teaser: /assets/images/2020/03/Kuranda-Scenic-Railway-2.jpg
 tags:
     - Australia
     - queensland

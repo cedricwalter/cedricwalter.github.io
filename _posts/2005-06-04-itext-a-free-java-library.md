@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=1776'
 permalink: /java/itext-a-free-java-library/
-image: /wp-content/uploads/2005/06/iText-logo.gif
+header:
+  teaser: /assets/images/2005/06/iText-logo.gif
 tags:
     - combination
     - Features

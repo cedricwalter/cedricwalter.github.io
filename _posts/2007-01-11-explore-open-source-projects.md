@@ -12,12 +12,12 @@ tags:
 ---
 
  If you want to have more info about your favorite open source project, it can be firefox, gimp, joomla!, #Linux ([324 projects!](http://www.ohloh.net/projects;search?q=linux)). OpenOffice…  
-If youre maintaining a project, You can sign there for a free account, and let [OhLoh](http://www.ohloh.net)<span style="font-weight: bold;"> connect to your source control server and provide some insight about your project.  
+If youre maintaining a project, You can sign there for a free account, and let [OhLoh](http://www.ohloh.net) connect to your source control server and provide some insight about your project.  
 [OhLoh](http://www.ohloh.net) was founded by the former Microsoft managers Jason Allen and Scott Collison in 2004 and joined by the developer Robin Luckey. The *Codebase History* informs about the activity inside the projects.
 
-[<span style="font-weight: bold;">Linux Kernel 2.6.19](http://www.ohloh.net/projects/3141)  
+[Linux Kernel 2.6.19](http://www.ohloh.net/projects/3141)  
 Over the history of the project, 2390 developers have contributed code. However, only 1673 have done so in the last year.  
-<span style="font-weight: bold;">Estimated project costs:
+Estimated project costs:
 
 | Codebase | <span id="cocomo_loc">5,133,027 LOC |
 |---|---|
@@ -37,4 +37,4 @@ Some of the most popular projects (more than [3700 projects available](http://ww
 | [XOOPS Dynamic Web CMS](http://www.ohloh.net/projects/14) |
 | [Joomla!](http://www.ohloh.net/projects/20) |
 
-Visit [OhLoh](http://www.ohloh.net/)<span style="font-weight: bold;"> now
+Visit [OhLoh](http://www.ohloh.net/) now

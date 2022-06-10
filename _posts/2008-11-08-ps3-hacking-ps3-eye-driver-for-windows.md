@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3898'
 permalink: /games/ps3-hacking-ps3-eye-driver-for-windows/
-image: /wp-content/uploads/2008/11/sony_playstation_eye.jpg
+header:
+  teaser: /assets/images/2008/11/sony_playstation_eye.jpg
 ---
 
 ![sony_playstation_eye](/assets/images/2008/11/sony_playstation_eye.jpg "sony_playstation_eye")

@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=6921'
 permalink: /hobbies/hp-calculator-museum-hp-10bii-business-calculator/
-image: /wp-content/uploads/2011/07/hp10BBusinessCalculator_00_thumb.jpg
+header:
+  teaser: /assets/images/2011/07/hp10BBusinessCalculator_00_thumb.jpg
 tags:
     - business
     - calculator

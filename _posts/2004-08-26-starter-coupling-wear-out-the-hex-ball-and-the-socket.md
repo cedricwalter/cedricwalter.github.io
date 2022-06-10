@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=58'
 permalink: /hobbies/starter-coupling-wear-out-the-hex-ball-and-the-socket/
-image: /wp-content/uploads/2004/08/metalHex2.JPG
+header:
+  teaser: /assets/images/2004/08/metalHex2.JPG
 tags:
     - coupling
     - expensive

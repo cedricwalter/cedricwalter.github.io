@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2236'
 permalink: /open-source/linksys-nslu2-hacking/
-image: /wp-content/uploads/2005/12/linksys-NSLU2.gif
+header:
+  teaser: /assets/images/2005/12/linksys-NSLU2.gif
 tags:
     - enhanced
     - originally

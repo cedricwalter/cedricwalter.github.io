@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4829'
 permalink: /gadget/canon-powershot-g11-10mp-digital-camera-reviews/
-image: /wp-content/uploads/2009/10/canon.g11.jpg
+header:
+  teaser: /assets/images/2009/10/canon.g11.jpg
 ---
 
  ![canon.g11](/assets/images/2009/10/canon.g11.jpg "canon.g11")

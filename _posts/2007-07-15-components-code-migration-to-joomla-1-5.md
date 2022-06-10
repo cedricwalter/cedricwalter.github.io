@@ -18,7 +18,7 @@ Right now there IS NOT any order in that table, like my findings 🙂
 
 Feel free to send me corrections or point me to ressource links that may help me 🙂
 
-| <span style="font-weight: bold;">In Joomla 1.0.X | <span style="font-weight: bold;">has to be converted in Joomla 1.5 | <span style="font-weight: bold;">Where |
+|In Joomla 1.0.X |has to be converted in Joomla 1.5 |Where |
 |---|---|---|
 | <span style="color: #3333ff;">mosMenuBar::startTable(); | <span style="color: #006600;">JMenuBar::startTable(); | PHP code |
 | <span style="color: #3333ff;">defined(‘\_VALID\_MOS’) or die(‘Direct Access to this location is not allowed.’); | <span style="color: #006600;">defined( ‘\_JEXEC’ ) or die( ‘Restricted access’ ); | PHP code |
@@ -29,7 +29,7 @@ Feel free to send me corrections or point me to ressource links that may help me
 | `$mosConfig_absolute_path` | `JPATH_SITE` | PHP code |
 | `$mosConfig_*` | `$config->*` | PHP code |
 | ```$refid = mosGetParam( <span class="php-var">$_REQUEST, <span class="php-quote">'<span class="php-var">refid<span class="php-quote">'); ``` | ``` <pre class="code"><span class="php-var">$<span class="php-var">refid= = JRequest::getVar(<span class="php-quote">'<span class="php-var">refid<span class="php-quote">'); ``` | PHP code |
-| <span style="font-weight: bold;">Language files are PHP files, name like you want<span style="font-weight: bold;">`<?php
+|Language files are PHP files, name like you want`<?php
 
 /*
 
@@ -57,7 +57,7 @@ DEFINE("JOOMLA_ASKIMET_ASKIMET_KEY_L", "Website or Blog URL, if different than t
 <span style="color: #006600;">JOOMLA_ASKIMET_ASKIMET_KEY_L=Website or Blog URL, if different than the JOOMLA site
 
 ` | Resources |
-| <span style="font-weight: bold;">Language files in installerwere normal file in either the administration area or public component area.   `     <filename>en-GB.com_aksimet.ini</filename>
+|Language files in installerwere normal file in either the administration area or public component area.   `     <filename>en-GB.com_aksimet.ini</filename>
 
       <filename>de-DE.com_aksimet.ini</filename>
 
@@ -263,7 +263,7 @@ DEFINE("JOOMLA_ASKIMET_ASKIMET_KEY_L", "Website or Blog URL, if different than t
 | `<span style="color: #3333ff;">global $my;` | `<span style="color: #006600;">$user = & JFactory::getUser();` | Autorisation |
 |  |  |  |
 
-<span style="font-weight: bold;">Some links which may help also Help You:
+Some links which may help also Help You:
 
 - [Welcome to the Joomla! Development Wiki](http://dev.joomla.org/component/option,com_jd-wiki/Itemid,32/)
 - [Third Party Testing,](http://forum.joomla.org/index.php/board,234.0.html) a forum where third party developer can receive help during the migration

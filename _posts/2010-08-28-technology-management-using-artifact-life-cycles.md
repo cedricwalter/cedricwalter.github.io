@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=5823'
 permalink: /development/technology-management-using-artifact-life-cycles/
-image: /wp-content/uploads/2010/08/mavenlogo2_thumb.gif
+header:
+  teaser: /assets/images/2010/08/mavenlogo2_thumb.gif
 tags:
     - corresponding
     - directory

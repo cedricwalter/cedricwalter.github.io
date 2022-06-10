@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=500'
 permalink: /scooter/links-shops/
-image: /wp-content/uploads/2004/08/TN_001.JPG
+header:
+  teaser: /assets/images/2004/08/TN_001.JPG
 tags:
     - Links
     - scooter

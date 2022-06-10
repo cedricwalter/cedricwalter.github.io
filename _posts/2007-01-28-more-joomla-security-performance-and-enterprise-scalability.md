@@ -17,10 +17,10 @@ The Resin team has implemented a PHP 5 engine in JAVA! *Quercus* is Caucho Techn
  Joomla! is supported right out the box  
  <http://www.caucho.com/resin-3.1/doc/quercus-list-of-applications.xtp#Joomla%201.0.11>  
    
- <span style="font-weight: bold;">Benefits:
+Benefits:
 
 <big>"</big>Quercus and Quercus’ PHP libraries are written entirely in #Java, thereby taking the advantages of #Java applications and infusing them into PHP. PHP applications running on Quercus are simply faster, easier to develop, more capable, more secure, and more scalable than any other PHP solution.  
- <span style="font-weight: bold;">Performance – simply faster, Development – fast, safe, and easy, Capability – powerful #Java technologies at the developer’s fingertips, Security – no more pesky C memory bugs, Scalability – PHP for the masses, literally<big>"</big>
+Performance – simply faster, Development – fast, safe, and easy, Capability – powerful #Java technologies at the developer’s fingertips, Security – no more pesky C memory bugs, Scalability – PHP for the masses, literally<big>"</big>
 
  In fact the PHP code is translated into servlets and then compiled into java bytecode on the first run. So it should be quite fast and best of th best, I can use my java profiling tools and library 🙂  
  <http://www.caucho.com/resin-3.1/doc/quercus.xtp>

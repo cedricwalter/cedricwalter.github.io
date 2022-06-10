@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4524'
 permalink: /internet/google-will-have-it-own-os-powered-by-google-chrome-and-linux/
-image: /wp-content/uploads/2009/07/chromelogo.png
+header:
+  teaser: /assets/images/2009/07/chromelogo.png
 tags:
     - google
 ---

@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=6778'
 permalink: /open-source/samsung-galaxy-tab-10-1-tablet-runs-android-3-1-honeycomb/
-image: /wp-content/uploads/2011/06/Samsung_Galaxy_Tab_10.1-Tablet_00.jpg
+header:
+  teaser: /assets/images/2011/06/Samsung_Galaxy_Tab_10.1-Tablet_00.jpg
 tags:
     - android
     - galaxy

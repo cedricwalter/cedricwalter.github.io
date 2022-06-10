@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3901'
 permalink: /games/ps3-hacking-controller-sixaxis-driver-for-pc/
-image: /wp-content/uploads/2005/06/sony_playstation_ps3.jpg
+header:
+  teaser: /assets/images/2005/06/sony_playstation_ps3.jpg
 ---
 
 ![sony_playstation_ps3](/assets/images/2005/06/sony_playstation_ps3.jpg "sony_playstation_ps3")

@@ -16,12 +16,12 @@ tags:
     - standard
 ---
 
-<span style="font-weight: bold;">You have some problem to remove genuine screws on your caliber 30. They seems to be made of a very soft/cheap metal.
+You have some problem to remove genuine screws on your caliber 30. They seems to be made of a very soft/cheap metal.
 
- <span style="font-weight: bold;">Cause?  
+Cause?  
  Head screws used are Japanese Industrial Standard (JIS). Regular metric screwdrivers will not work.
 
- <span style="font-weight: bold;">Possible solutions:  
+Possible solutions:  
  
 
 - Buy a set of JIS drivers from Heliproz/Cyberheli/[www.custom-rc](http://www.custom-rc/)

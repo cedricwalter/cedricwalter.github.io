@@ -8,7 +8,8 @@ guid: 'https://waltercedric.com/?p=12068'
 permalink: /holidays/australia-queensland-great-barrier-reef/
 ngg_post_thumbnail:
     - '0'
-image: /wp-content/uploads/2020/03/australia.queensland.cairns.bareer.reef_0182.jpg
+header:
+  teaser: /assets/images/2020/03/australia.queensland.cairns.bareer.reef_0182.jpg
 tags:
     - Australia
     - great

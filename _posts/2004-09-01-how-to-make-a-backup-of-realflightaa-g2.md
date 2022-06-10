@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=882'
 permalink: /hobbies/how-to-make-a-backup-of-realflightaa-g2/
-image: /wp-content/uploads/2004/09/daemonui.jpg
+header:
+  teaser: /assets/images/2004/09/daemonui.jpg
 tags:
     - 'RC helicopter'
 ---

@@ -17,10 +17,11 @@ protected by SecurityImages
 
 - Are for #Joomla! 1.5.12 **only** and SecurityImages 5.1.x or later
 - 14 files has been altered, mostly views, and com\_contact/com\_user controller, click on picture below   
-    for more details
+  for more details
 - Download file **Joomla\_1.5.12-Stable-Full\_PackageForSecurityImages5.1.x\_v01.01.00.zip** (33kB) and   
-    overwrite file on your server
+  overwrite file on your server
 - Go to #Joomla! control panel and HIT at least **SAVE config** once, this will add a new boolean value   
-    (true or false) in #Joomla! configuration for using SecurityImages.
+  (true or false) in #Joomla! configuration for using SecurityImages.
 
-[Download ](https://waltercedric.com/new/?p=513)/ [Details](https://waltercedric.com/new/?p=513) / Keep up to date with the [Joomla! 1.5 patches RSS](index2.php?option=com_versions&catid=11&task=feed) [![Feed Icon](/assets/images/2008/09/feed-icon.png)](index2.php?option=com_versions&catid=11&task=feed)
+[Download ](https://waltercedric.com/new/?p=513)/ [Details](https://waltercedric.com/new/?p=513) / Keep up to date with
+the [Joomla! 1.5 patches RSS](index2.php?option=com_versions&catid=11&task=feed) [![Feed Icon](/assets/images/2008/09/feed-icon.png)](index2.php?option=com_versions&catid=11&task=feed)

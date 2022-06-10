@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4100'
 permalink: /internet/extensions-for-google-chrome-are-coming/
-image: /wp-content/uploads/2009/02/chrome_thumb.jpg
+header:
+  teaser: /assets/images/2009/02/chrome_thumb.jpg
 tags:
     - google
 ---

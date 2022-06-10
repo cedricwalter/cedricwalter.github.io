@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2212'
 permalink: /homepage/underworld-evolution-the-movie/
-image: /wp-content/uploads/2005/12/Sony-Underworld-Evolution.jpg
+header:
+  teaser: /assets/images/2005/12/Sony-Underworld-Evolution.jpg
 tags:
     - cinema
     - graphical

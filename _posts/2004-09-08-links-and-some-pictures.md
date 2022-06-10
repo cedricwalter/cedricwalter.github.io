@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=1178'
 permalink: /hobbies/links-and-some-pictures/
-image: /wp-content/uploads/2004/09/alba1051.jpg
+header:
+  teaser: /assets/images/2004/09/alba1051.jpg"
 ---
 
 ![](/assets/images/2004/09/alba1051.jpg)

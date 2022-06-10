@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=6420'
 permalink: /games/incredible-collection-of-nintendo-nes-games/
-image: /wp-content/uploads/2010/12/IMG_3193_thumb.jpg
+header:
+  teaser: /assets/images/2010/12/IMG_3193_thumb.jpg
 tags:
     - Collectibles
     - games

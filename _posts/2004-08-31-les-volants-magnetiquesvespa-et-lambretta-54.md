@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=534'
 permalink: /scooter/les-volants-magnetiquesvespa-et-lambretta-54/
-image: /wp-content/uploads/2004/08/bobvespa.jpg
+header:
+  teaser: /assets/images/2004/08/bobvespa.jpg
 tags:
     - scooter
     - scooters

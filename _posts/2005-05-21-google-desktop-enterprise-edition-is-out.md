@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=1751'
 permalink: /internet/google-desktop-enterprise-edition-is-out/
-image: /wp-content/uploads/2005/05/googledesktopsearchlogo.gif
+header:
+  teaser: /assets/images/2005/05/googledesktopsearchlogo.gif
 tags:
     - described
     - encrypted

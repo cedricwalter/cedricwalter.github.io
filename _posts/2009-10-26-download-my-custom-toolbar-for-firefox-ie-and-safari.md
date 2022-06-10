@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4840'
 permalink: /homepage/download-my-custom-toolbar-for-firefox-ie-and-safari/
-image: /wp-content/uploads/2009/10/cedricwalter.toolbar.for_.firefox.png
+header:
+  teaser: /assets/images/2009/10/cedricwalter.toolbar.for_.firefox.png
 ---
 
 [![cedricwalter.toolbar.for.firefox](/assets/images/2009/10/cedricwalter.toolbar.for_.firefox.png "cedricwalter.toolbar.for.firefox")](http://cedricwaltercommunity.ourtoolbar.com/)

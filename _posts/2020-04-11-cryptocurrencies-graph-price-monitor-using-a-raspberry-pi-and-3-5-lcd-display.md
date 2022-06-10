@@ -8,7 +8,8 @@ guid: 'https://waltercedric.com/?p=12974'
 permalink: /gadget/cryptocurrencies-graph-price-monitor-using-a-raspberry-pi-and-3-5-lcd-display/
 ngg_post_thumbnail:
     - '0'
-image: /wp-content/uploads/2020/04/cryptocurrencies-graph-raspberry-pi-lcd.jpg
+header:
+  teaser: /assets/images/2020/04/cryptocurrencies-graph-raspberry-pi-lcd.jpg
 tags:
     - bitcoin
     - ethereum

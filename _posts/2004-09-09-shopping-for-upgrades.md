@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=1215'
 permalink: /hobbies/shopping-for-upgrades/
-image: /wp-content/uploads/2004/08/headFull.jpg
+header:
+  teaser: /assets/images/2004/08/headFull.jpg
 tags:
     - beautiful
     - caliber

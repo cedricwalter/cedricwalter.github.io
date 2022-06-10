@@ -7,24 +7,26 @@ author: 'Cédric Walter'
 guid: 'https://waltercedric.com/new/?p=1746'
 permalink: /joomla/log4php-usage/
 tags:
-    - framework
-    - java
-    - log
-    - php
+- framework
+- java
+- log
+- php
 ---
 
- <span style="font-size: medium;">Log4php is a php port of the most popular java logging framework log4j (see <http://jakarta.apache.org/log4j/ > for details).  
+Log4php is a php port of the most popular java logging framework log4j (
+see <http://jakarta.apache.org/log4j/ > for details).
 
+If You’re familiar with log4j, You will have no problem to use Log4PHP, if it is the first time, You can still
+read [my introduction](https://waltercedric.com/new/?p=994) or jump to the official Home of Log4j where You’ll find
+invaluable tutorials and extensions.
 
-If You’re familiar with log4j, You will have no problem to use Log4PHP, if it is the first time, You can still read [my introduction](https://waltercedric.com/new/?p=994) or jump to the official Home of Log4j where You’ll find invaluable tutorials and extensions.
-
- **Using log4PHP in Your daily code….**
+**Using log4PHP in Your daily code….**
 
 Log4j only suppose that the config file should be in classpath…either a log4j.properties or a log4j.xml
 
 As in PHP there us not such concept of clasloader (beside of PATH), You need to tell log4PHP where it’s base reside
 
- The example below is for use log4PHP in a Mambo environment
+The example below is for use log4PHP in a Mambo environment
 
 ```
 //location of configuration file
@@ -36,7 +38,7 @@ define('LOG4PHP_DIR', $mosConfig_absolute_path.'/components/com_log4php/api');
 Somewhere in You code where You need logging facilities.   
 The LoggerManager has a static method…  
 It is recommended to use as logger name the Classname (Here CryptoStrategy)   
- then You need to create a object *LogManager*
+then You need to create a object *LogManager*
 
 ```
 require_once(LOG4PHP_DIR . '/LoggerManager.php'); 
@@ -54,7 +56,8 @@ A log4PHP file may contains many appenders, layout, logger…
 
 # Different Appenders**
 
-- Appenders are kind of object outputing their data to device : mail, file, console, database, socket, ….there is no limits
+- Appenders are kind of object outputing their data to device : mail, file, console, database, socket, ….there is no
+  limits
 - Each appender should have a name, which must be unique
 - Appenders can be configured.
 - Appenders use a Layout object to filter/alter data before outputing data
@@ -62,7 +65,7 @@ A log4PHP file may contains many appenders, layout, logger…
 
 # Console**
 
- Useful when developing, when log amount bigger than console buffer may be lost
+Useful when developing, when log amount bigger than console buffer may be lost
 
 ```
 #---------------------------------
@@ -77,7 +80,7 @@ log4php.appender.R.layout.ConversionPattern=%d [%t] %-5p %c - %m%n
 
 # Mail**
 
- Send all logs in level bigger or equal as ERROR to a mail adress
+Send all logs in level bigger or equal as ERROR to a mail adress
 
 ```
 #---------------------------------
@@ -98,7 +101,7 @@ log4php.appender.R03.threshold=ERROR
 
 # File**
 
- Each day a new file in [c:error\_log.txt](file:///C:/error_log.txt) is created which contains the date in its filename
+Each day a new file in [c:error\_log.txt](file:///C:/error_log.txt) is created which contains the date in its filename
 
 ```properties
 #---------------------------------
@@ -112,7 +115,7 @@ log4php.appender.R00.layout=LoggerPatternLayout
 log4php.appender.R00.layout.ConversionPattern=%d [%t] %-5p %c - %m%n
 ```
 
- **Rotate daily but output in XML**
+**Rotate daily but output in XML**
 
 ```properties
 #---------------------------------
@@ -125,6 +128,7 @@ log4php.appender.R01.file=./log/R01_log_%s.txt
 log4php.appender.R01.layout=LoggerXmlLayout
 log4php.appender.R01.layout.LocationInfo=true
 ```
+
 Create max 3 file of 1024kb per days, if there is more logs than that, contnt of first file   
 will be overwritten
 
@@ -147,7 +151,8 @@ log4php.appender.R02.MaxBackupIndex=3
 Layout
 
 - Layout are objects which tell **Appenders** how to format the log statements.
-- For example while developing, You may not be interested by the date and time for each log event in logs while in production this is a mandatory information
+- For example while developing, You may not be interested by the date and time for each log event in logs while in
+  production this is a mandatory information
 - Syntax is inherited from the old C school
 
 # Some common examples**
@@ -165,12 +170,15 @@ will output
 Logger
 
 - Unlimited amount of logger can be defined
-- Logger are in a hierarchy of logger, rootlogger being the top logger which cannot be overwritten (Do You feel the power of Log4j/Log4PHP?)
+- Logger are in a hierarchy of logger, rootlogger being the top logger which cannot be overwritten (Do You feel the
+  power of Log4j/Log4PHP?)
 - Loggers are subclass of rootLogger and inheriting from him/each other (Do You feel the power of Log4j/Log4PHP?)
 - Logger must have at least ONE appender, but can output to many at the same! (Do You feel the power of Log4j/Log4PHP?)
-- It is better to name logger with the same name as Classname -> the granularity of Log amount is then at the class level…For example: You may need in a class a lot of logs during a debugging session (set it to DEBUG, while You aren’t interested by all the other class around: set the rootLogger to ERROR)
+- It is better to name logger with the same name as Classname -> the granularity of Log amount is then at the class
+  level…For example: You may need in a class a lot of logs during a debugging session (set it to DEBUG, while You aren’t
+  interested by all the other class around: set the rootLogger to ERROR)
 
- Here the root logger is in DEBUG mode and output to R00
+Here the root logger is in DEBUG mode and output to R00
 
 If You do not have the second line, the whole code will be in DEBUG mode
 
@@ -183,4 +191,5 @@ log4php.logger.CryptoFactory=ERROR, R00
 
 - Log4php Home [http://www.vxr.it/log4php/](http://www.vxr.it/log4php/)
 - Log4j Home [http://jakarta.apache.org/log4j](http://jakarta.apache.org/log4j)
-- Log4j Team [http://jakarta.apache.org/log4j/docs/contributors.html](http://jakarta.apache.org/log4j/docs/contributors.html)
+- Log4j
+  Team [http://jakarta.apache.org/log4j/docs/contributors.html](http://jakarta.apache.org/log4j/docs/contributors.html)

@@ -8,7 +8,8 @@ guid: 'https://waltercedric.com/?p=11962'
 permalink: /holidays/australia-walpa-gorge/
 ngg_post_thumbnail:
     - '0'
-image: /wp-content/uploads/2020/03/australia.northern.territory.base_.walpa_.gorge_0075.jpg
+header:
+  teaser: /assets/images/2020/03/australia.northern.territory.base_.walpa_.gorge_0075.jpg
 tags:
     - Australia
     - holidays

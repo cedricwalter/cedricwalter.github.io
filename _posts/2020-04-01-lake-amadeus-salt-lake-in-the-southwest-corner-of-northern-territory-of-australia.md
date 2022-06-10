@@ -8,7 +8,8 @@ guid: 'https://waltercedric.com/?p=12463'
 permalink: /holidays/lake-amadeus-salt-lake-in-the-southwest-corner-of-northern-territory-of-australia/
 ngg_post_thumbnail:
     - '0'
-image: /wp-content/uploads/2020/04/lake-amadeus-salt-lake-australia-4.jpg
+header:
+  teaser: /assets/images/2020/04/lake-amadeus-salt-lake-australia-4.jpg
 tags:
     - Australia
     - holidays

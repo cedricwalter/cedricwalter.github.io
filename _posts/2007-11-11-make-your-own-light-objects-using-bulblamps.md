@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3114'
 permalink: /gadget/make-your-own-light-objects-using-bulblamps/
-image: /wp-content/uploads/2007/11/light.unlimited.10_jpg.jpg
+header:
+  teaser: /assets/images/2007/11/light.unlimited.10_jpg.jpg
 tags:
     - Design
     - gadget

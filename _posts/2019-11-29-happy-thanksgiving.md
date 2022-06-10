@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=8781'
 permalink: /today-on-earth/happy-thanksgiving/
-image: /wp-content/uploads/2019/11/happyThanksgiving.jpg
+header:
+  teaser: /assets/images/2019/11/happyThanksgiving.jpg
 tags:
     - beautiful
     - day

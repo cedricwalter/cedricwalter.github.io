@@ -7,13 +7,14 @@ author: 'Cédric Walter'
 guid: 'https://waltercedric.com/new/?p=1394'
 permalink: /internet/what-make-google-so-special/
 tags:
-    - google
-    - including
-    - machines
-    - 'search engine'
+- google
+- including
+- machines
+- 'search engine'
 ---
 
-- Over four billion Web pages, each an average of 10KB, all fully indexed, and 1,000 search every second of every day, are performed on this data volume….
+- Over four billion Web pages, each an average of 10KB, all fully indexed, and 1,000 search every second of every day,
+  are performed on this data volume….
 - 104 search page frontend including Klingon and Tagalog,
 - Up to 2,000 PCs in a cluster and over 30 clusters,
 - One petabyte (10^15) of data in a cluster,
@@ -21,4 +22,5 @@ tags:
 - An expectation that two machines will fail every day in each of the larger clusters
 - No complete system failure since February 2000
 
-Read more Here: [The magic that makes Google tick; Matt Loney, ZDNet UK](http://www.zdnet.co.uk/insight/hardware/0,39020433,39175560-1,00.htm)
+Read more
+Here: [The magic that makes Google tick; Matt Loney, ZDNet UK](http://www.zdnet.co.uk/insight/hardware/0,39020433,39175560-1,00.htm)

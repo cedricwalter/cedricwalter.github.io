@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4233'
 permalink: /joomla/joomla_1-5-10-stable-full_packageforsecurityimages5-1-1-zip/
-image: /wp-content/uploads/2008/08/joomla_download_banner.png
+header:
+  teaser: /assets/images/2008/08/joomla_download_banner.png
 ---
 
 [![joomla_download_banner](/assets/images/2008/08/joomla_download_banner.png)](http://www.joomla.org/download.html) [![joomla_donate_banner](/assets/images/2008/08/joomla_donate_banner.png)](http://www.joomla.org/about-joomla/the-project/make-a-donation.html)

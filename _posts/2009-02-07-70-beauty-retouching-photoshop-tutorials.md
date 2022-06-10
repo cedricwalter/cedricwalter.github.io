@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4115'
 permalink: /gadget/70-beauty-retouching-photoshop-tutorials/
-image: /wp-content/uploads/2009/02/digitalretouchingservices_thumb.jpg
+header:
+  teaser: /assets/images/2009/02/digitalretouchingservices_thumb.jpg
 ---
 
 > **<font size="6">**

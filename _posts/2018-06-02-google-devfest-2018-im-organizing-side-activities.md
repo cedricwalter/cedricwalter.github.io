@@ -8,7 +8,8 @@ guid: 'https://www.waltercedric.com/?p=13529'
 permalink: /gadget/google-devfest-2018-im-organizing-side-activities/
 ngg_post_thumbnail:
     - '0'
-image: /wp-content/uploads/2020/06/IMG_1950.jpg
+header:
+  teaser: /assets/images/2020/06/IMG_1950.jpg
 tags:
     - arcade
     - devfest

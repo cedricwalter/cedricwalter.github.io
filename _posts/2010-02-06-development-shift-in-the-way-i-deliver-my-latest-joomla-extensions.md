@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=5033'
 permalink: /joomla/development-shift-in-the-way-i-deliver-my-latest-joomla-extensions/
-image: /wp-content/uploads/2010/02/agile.development_thumb.jpg
+header:
+  teaser: /assets/images/2010/02/agile.development_thumb.jpg
 tags:
     - deliver
     - development

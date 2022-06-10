@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=8640'
 permalink: /games/nintendo-officially-announces-the-snes-classic-edition/
-image: /wp-content/uploads/2017/06/snes-classic-edition.png
+header:
+  teaser: /assets/images/2017/06/snes-classic-edition.png
 tags:
     - classic
     - games

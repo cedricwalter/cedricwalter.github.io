@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2050'
 permalink: /internet/google-reader-even-without-rss-support/
-image: /wp-content/uploads/2005/10/google-reader-logo.png
+header:
+  teaser: /assets/images/2005/10/google-reader-logo.png
 tags:
     - google
     - presentation

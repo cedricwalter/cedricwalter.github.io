@@ -8,7 +8,8 @@ guid: 'https://waltercedric.com/?p=13216'
 permalink: /hobbies/enable-fcc-mode-on-dji-fpv-system-700mw-8-channels/
 ngg_post_thumbnail:
     - '0'
-image: /wp-content/uploads/2020/03/DJI-Digital-HD-FPV-Goggles.png
+header:
+  teaser: /assets/images/2020/03/DJI-Digital-HD-FPV-Goggles.png
 tags:
     - dji
     - fpv

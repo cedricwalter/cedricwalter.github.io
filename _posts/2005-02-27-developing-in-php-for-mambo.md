@@ -13,7 +13,7 @@ tags:
 
 I use previously Jedit (www.jedit.org) and reach the limit very fast (no versionning, no helper, nothing…) I recommend to any serious developer to install:
 
-1. Eclipse from [www.eclipse.org](http://www.eclipse.org) <span style="font-weight: bold;">free
-2. PHPEclipse plugin from [phpeclipse](http://sourceforge.net/projects/phpeclipse/) <span style="font-weight: bold;">free
-3. A concurent versionning system: CVS fro windows [CVSNT](http://march-hare.com/archive/cvsnt-2.0.58d.exe) <span style="font-weight: bold;">free
-4. A runnable Mambo environment like [EasyPHP](http://www.easyphp.org/) <span style="font-weight: bold;">free
+1. Eclipse from [www.eclipse.org](http://www.eclipse.org)free
+2. PHPEclipse plugin from [phpeclipse](http://sourceforge.net/projects/phpeclipse/)free
+3. A concurent versionning system: CVS fro windows [CVSNT](http://march-hare.com/archive/cvsnt-2.0.58d.exe)free
+4. A runnable Mambo environment like [EasyPHP](http://www.easyphp.org/)free

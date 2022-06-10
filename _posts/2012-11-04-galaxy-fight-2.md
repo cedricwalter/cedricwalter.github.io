@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=7915'
 permalink: /games/galaxy-fight-2/
-image: /wp-content/uploads/2012/11/snk_neogeo_faq_moves.png
+header:
+  teaser: /assets/images/2012/11/snk_neogeo_faq_moves.png
 tags:
     - arcade
     - Collectibles

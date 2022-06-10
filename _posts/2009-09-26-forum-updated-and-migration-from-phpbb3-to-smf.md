@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4698'
 permalink: /homepage/forum-updated-and-migration-from-phpbb3-to-smf/
-image: /wp-content/uploads/2009/09/Phpbb3_logo_thumb.png
+header:
+  teaser: /assets/images/2009/09/Phpbb3_logo_thumb.png
 ---
 
 [![Phpbb3_logo](/assets/images/2009/09/Phpbb3_logo_thumb.png "Phpbb3_logo")](/assets/images/2009/09/Phpbb3_logo.png) [![smf-logo](/assets/images/2009/09/smflogo_thumb.png "smf-logo")](/assets/images/2009/09/smflogo.png)

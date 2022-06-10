@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2914'
 permalink: /gadget/everything-about-apple-tv/
-image: /wp-content/uploads/2007/03/appletv-preview.jpg
+header:
+  teaser: /assets/images/2007/03/appletv-preview.jpg
 tags:
     - gadget
     - 'Home Cinema'
@@ -14,9 +15,9 @@ tags:
 
 ![](/assets/images/2007/03/appletv-preview.jpg)
 
-# Apple TV** <span style="font-style: italic;">is a set-top box manufactured by Apple. The Apple TV name and start of online sales was announced by Steve Jobs during the keynote speech at the 2007 Macworld Expo in San Francisco on January 9, 2007. The Apple TV is enabled to stream digital content from any computer running Mac OS X or Microsoft Windows running iTunes onto an enhanced-definition or high-definition widescreen television.  
+# Apple TV** is a set-top box manufactured by Apple. The Apple TV name and start of online sales was announced by Steve Jobs during the keynote speech at the 2007 Macworld Expo in San Francisco on January 9, 2007. The Apple TV is enabled to stream digital content from any computer running Mac OS X or Microsoft Windows running iTunes onto an enhanced-definition or high-definition widescreen television.  
  Offical Site Apple TV  
- <span style="font-weight: bold;">  
+  
 
 
 - [Apple TV unboxing](http://www.engadget.com/photos/apple-tv-unboxing/) \[Engadget\] [Gallery](http://www.engadget.com/photos/apple-tv-unboxing/)

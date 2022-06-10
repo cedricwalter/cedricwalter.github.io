@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4090'
 permalink: /gadget/iphone-demo-box-sometimes-crashing/
-image: /wp-content/uploads/2009/02/iphone.demo_.crash2432_thumb.jpg
+header:
+  teaser: /assets/images/2009/02/iphone.demo_.crash2432_thumb.jpg
 ---
 
 Funny, seen in middle of Zürich, at a Swisscom shop. Luckily it was late at night,so no customers harms 🙂

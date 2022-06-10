@@ -18,11 +18,11 @@ Last year Gorz wrote of his wife: "You have just turned 82. You are still beauti
 
 His letter to Dorine ([*Lettre à D. Histoire d’un amour*](http://www.amazon.fr/Lettre-%C3%A0-D-Histoire-amour/dp/2718607270/ref=sr_1_1/402-5191204-2240959?ie=UTF8&s=books&qid=1191007492&sr=1-1) 76 pages) is even better in French:
 
-<span class="citation">« <span style="font-style: italic;">\[…\] Tu vas avoir quatre-vingt-deux ans. Tu as rapetissé de six centimètres, tu ne pèses que quarante-cinq kilos et tu es toujours belle, gracieuse et désirable. Cela fait cinquante-huit ans que nous vivons ensemble et je t’aime plus que jamais. Récemment, je suis retombé amoureux de toi une nouvelle fois et je porte de nouveau en moi un vide débordant que ne comble que ton corps serré contre le mien \[…\] »
+<span class="citation">« \[…\] Tu vas avoir quatre-vingt-deux ans. Tu as rapetissé de six centimètres, tu ne pèses que quarante-cinq kilos et tu es toujours belle, gracieuse et désirable. Cela fait cinquante-huit ans que nous vivons ensemble et je t’aime plus que jamais. Récemment, je suis retombé amoureux de toi une nouvelle fois et je porte de nouveau en moi un vide débordant que ne comble que ton corps serré contre le mien \[…\] »
 
  Les dernières phrases de son livre sont:
 
-"<span style="font-style: italic;">Nous aimerions chacun ne pas survivre à la mort de l’autre. Nous nous sommes dit que si, par impossible, nous avions une seconde vie, nous voudrions la passer ensemble."
+"Nous aimerions chacun ne pas survivre à la mort de l’autre. Nous nous sommes dit que si, par impossible, nous avions une seconde vie, nous voudrions la passer ensemble."
 
 [WikiPedia Andre Gorz](http://fr.wikipedia.org/wiki/Andr%C3%A9_Gorz)  
 [LIberation sur la parution de sa lettre](http://www.liberation.fr/culture/livre/208739.FR.php)

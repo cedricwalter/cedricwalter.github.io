@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=591'
 permalink: /gadget/building-and-assembling/
-image: /wp-content/uploads/2004/08/openingBag.jpg
+header:
+  teaser: /assets/images/2004/08/openingBag.jpg"
 ---
 
 Â Opening the bag…and putting things together…  

@@ -9,7 +9,7 @@ permalink: /java/mappings-between-java-bean-types-with-mapstruct-like-a-pro/
 ngg_post_thumbnail:
     - '0'
 header:
-    teaser: "/wp-content/uploads/2021/02/mapstruct-logo.png"
+    teaser: /assets/images/2021/02/mapstruct-logo.png
 tags:
     - bean
     - mapping

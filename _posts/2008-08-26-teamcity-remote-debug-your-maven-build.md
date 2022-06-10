@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3724'
 permalink: /development/teamcity-remote-debug-your-maven-build/
-image: /wp-content/uploads/2011/11/maven-logo-black-on-white-1.png
+header:
+  teaser: /assets/images/2011/11/maven-logo-black-on-white-1.png
 tags:
     - apache
     - configuration

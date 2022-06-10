@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2375'
 permalink: /java/eclipse-bundle-welcome-calisto/
-image: /wp-content/uploads/2006/03/section-java-eclipse.jpg
+header:
+  teaser: /assets/images/2006/03/section-java-eclipse.jpg
 tags:
     - development
     - integration

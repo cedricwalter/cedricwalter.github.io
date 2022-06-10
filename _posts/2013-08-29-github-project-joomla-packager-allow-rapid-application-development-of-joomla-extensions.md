@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=8152'
 permalink: /joomla/github-project-joomla-packager-allow-rapid-application-development-of-joomla-extensions/
-image: /wp-content/uploads/2009/07/joomla.png
+header:
+  teaser: /assets/images/2009/07/joomla.png
 tags:
     - joomla
 ---

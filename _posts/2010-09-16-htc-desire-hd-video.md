@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=6046'
 permalink: /gadget/htc-desire-hd-video/
-image: /wp-content/uploads/2010/09/htcdesirehd.jpg
+header:
+  teaser: /assets/images/2010/09/htcdesirehd.jpg
 tags:
     - aluminum
     - block

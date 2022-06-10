@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=5933'
 permalink: /joomla/today-is-joomlas-5th-birthday/
-image: /wp-content/uploads/2010/09/happybirthday.jpg
+header:
+  teaser: /assets/images/2010/09/happybirthday.jpg
 tags:
     - joomla
     - today

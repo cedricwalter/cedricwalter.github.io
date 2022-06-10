@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2502'
 permalink: /homepage/7-beautiful-dollhouses-for-sales-at-www-broc-antique-com/
-image: /wp-content/uploads/2006/04/dollhouse.ref03.04.by_.www_.broc-antique.com_.jpg
+header:
+  teaser: /assets/images/2006/04/dollhouse.ref03.04.by_.www_.broc-antique.com_.jpg
 tags:
     - homepage
 ---

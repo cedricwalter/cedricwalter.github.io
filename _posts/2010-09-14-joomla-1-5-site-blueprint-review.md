@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=6001'
 permalink: /joomla/joomla-1-5-site-blueprint-review/
-image: /wp-content/uploads/2010/09/pakct.joomla.1.5.blueprint.jpg
+header:
+  teaser: /assets/images/2010/09/pakct.joomla.1.5.blueprint.jpg
 tags:
     - having
     - joomla

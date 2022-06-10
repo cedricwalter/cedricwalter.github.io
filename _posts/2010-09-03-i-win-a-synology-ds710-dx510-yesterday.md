@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=5959'
 permalink: /gadget/i-win-a-synology-ds710-dx510-yesterday/
-image: /wp-content/uploads/2010/09/synology.cedric.datacenter_thumb.jpg
+header:
+  teaser: /assets/images/2010/09/synology.cedric.datacenter_thumb.jpg
 tags:
     - ensure
     - maximum

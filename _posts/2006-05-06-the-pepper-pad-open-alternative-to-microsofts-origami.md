@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2511'
 permalink: /linux/the-pepper-pad-open-alternative-to-microsofts-origami/
-image: /wp-content/uploads/2006/05/Pepper_Pad.jpg
+header:
+  teaser: /assets/images/2006/05/Pepper_Pad.jpg
 ---
 
  MadPenguin has put an online review of the Pepper Pad, a project similar to the Microsoft Origami solution.

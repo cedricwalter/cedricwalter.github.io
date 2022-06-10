@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=8136'
 permalink: /joomla/attention-cedtag-extension-and-joomla-3-1-warning/
-image: /wp-content/uploads/2012/05/cedTag.png
+header:
+  teaser: /assets/images/2012/05/cedTag.png
 tags:
     - joomla
 ---

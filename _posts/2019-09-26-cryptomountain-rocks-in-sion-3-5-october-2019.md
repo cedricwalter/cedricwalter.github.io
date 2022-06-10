@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=8775'
 permalink: /development/cryptomountain-rocks-in-sion-3-5-october-2019/
-image: /wp-content/uploads/2019/09/CryptoMountainSion2019-agenda.png
+header:
+  teaser: /assets/images/2019/09/CryptoMountainSion2019-agenda.png
 ---
 
 CryptoMountain Rocks is a platform for Blockchainers from the Crypto Valley and beyond that offers a very inter-active conference with presentations, panels and talks battles.

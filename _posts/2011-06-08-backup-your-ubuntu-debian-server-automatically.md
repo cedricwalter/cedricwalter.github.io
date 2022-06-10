@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=6845'
 permalink: /linux/backup-your-ubuntu-debian-server-automatically/
-image: /wp-content/uploads/2011/06/backup_debian_ubuntu_server.jpg
+header:
+  teaser: /assets/images/2011/06/backup_debian_ubuntu_server.jpg
 tags:
     - backup
     - designed

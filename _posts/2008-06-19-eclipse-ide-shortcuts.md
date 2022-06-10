@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3489'
 permalink: /java/eclipse-ide-shortcuts/
-image: /wp-content/uploads/2008/06/eclipse.best_.shortcut.ctrl3_thumb.jpg
+header:
+  teaser: /assets/images/2008/06/eclipse.best_.shortcut.ctrl3_thumb.jpg
 ---
 
 I found today **the mother of all shortcuts in eclipse**, by accident….

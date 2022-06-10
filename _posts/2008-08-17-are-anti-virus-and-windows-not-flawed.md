@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3697'
 permalink: /open-source/are-anti-virus-and-windows-not-flawed/
-image: /wp-content/uploads/2008/08/AntiVirusFlawed_thumb.png
+header:
+  teaser: /assets/images/2008/08/AntiVirusFlawed_thumb.png
 ---
 
 # It can’t be that my anti virus want to scan my disk every day** (default settings) and take 23 hours to do so.

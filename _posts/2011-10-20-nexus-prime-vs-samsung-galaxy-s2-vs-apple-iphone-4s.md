@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=7226'
 permalink: /open-source/nexus-prime-vs-samsung-galaxy-s2-vs-apple-iphone-4s/
-image: /wp-content/uploads/2011/10/samsung_galaxy_nexus_prime_header_thumb.jpg
+header:
+  teaser: /assets/images/2011/10/samsung_galaxy_nexus_prime_header_thumb.jpg
 tags:
     - android
     - galaxy

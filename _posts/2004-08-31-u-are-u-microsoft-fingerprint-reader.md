@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=636'
 permalink: /gadget/u-are-u-microsoft-fingerprint-reader/
-image: /wp-content/uploads/2004/08/sensoroverall.jpg
+header:
+  teaser: /assets/images/2004/08/sensoroverall.jpg
 tags:
     - capabilities
     - conclusions
@@ -15,7 +16,7 @@ tags:
 | ![](/assets/images/2004/08/sensoroverall.jpg) | [Microsoft ](http://www.microsoft.com/)has aquired Digital Persona technology for their fingerprint sensor ([keyboard &amp; mouse](http://www.microsoft.com/hardware/mouseandkeyboard/productdetails.aspx?pid=036)), so It may be time to read this "old" review (posted before M$ even announce avaibility of it security device line) because it contains some comments you won’t find elsewhere:   product name **U are U, U.are.U**   By [Digitalpersona](http://www.digitalpersona.com/), [Microsoft](http://www.microsoft.com/) |
 |---|---|
 
- {mosgoogle center}
+ 
 
 # Usage:**
 
@@ -28,7 +29,7 @@ tags:
 | ![](/assets/images/2004/08/u.are_.u.step4_.jpg) |
 | next time You go to that page, put your finger on the sensor and You’re in! |
 
- {mosgoogle center}
+ 
 
 # Bad:**
 
@@ -47,7 +48,7 @@ tags:
     [![](/assets/images/2004/08/u.are_.u.readyforencrypting.jpg)](http://www.microsoft.com/)Decrypting is done by double clicking on a encrypted resource, and putting one finger on the sensor: EASY  
     ![](/assets/images/2004/08/u.are_.u.encrypted.resource.jpg)
 
-{mosgoogle center}
+
 
 ![](/assets/images/2004/08/sensorfront.jpg)
 
@@ -68,7 +69,7 @@ tags:
 
 ![](/assets/images/2004/08/sensorrear.jpg)
 
-# {mosgoogle center}**
+# **
 
 # Conclusions/What I would like to see**
 
@@ -80,7 +81,7 @@ tags:
 - A linux version or plugin for [Kwallet](http://www.kde.org/).
 
   
-<span style="font-weight: bold; color: rgb(255, 0, 0);">New What are the differences with the Microsoft version?
+New What are the differences with the Microsoft version?
 
 I’ve had the chance to see a Microsoft keyboard with the fingerprint reader in action, what a shame!!
 
@@ -91,7 +92,7 @@ I’ve had the chance to see a Microsoft keyboard with the fingerprint reader in
 
 I would stay away from the Microsoft version as long as they do not integrate new intersting capabilities. No need to mention that drivers are not compatible each other….
 
-{mosgoogle center}
+
 
 # Overall**
 
@@ -139,4 +140,3 @@ purpletiger22000@yahoo.com sell them in usa at a good prices, also on ebay.com a
 - Microsoft Optical Desktop with Fingerprint Reader [PCMAG](http://www.pcmag.com/article2/0,1759,1731352,00.asp)
 
 
-{mosgoogle center}

@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3300'
 permalink: /homepage/comments-feedback/
-image: /wp-content/uploads/2008/03/joomlacommentimportOpenComment_thumb.gif
+header:
+  teaser: /assets/images/2008/03/joomlacommentimportOpenComment_thumb.gif
 ---
 
 You can now leave comments like before on any articles of my homepage. To make it short, note the following:

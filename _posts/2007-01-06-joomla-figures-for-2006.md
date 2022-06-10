@@ -10,12 +10,12 @@ tags:
     - joomla
 ---
 
-<span style="font-weight: bold;">In 2005, 2006…
+In 2005, 2006…
 
 - 98’552 downloads at least for my #Joomla! plugins.
-- <span style="font-weight: bold;">[Joomla Extensions directory](http://extensions.joomla.org/) is serving today <span style="font-weight: bold;">1185 extensions to the community, so I deliver, modesty apart, 0.93% of them
+-[Joomla Extensions directory](http://extensions.joomla.org/) is serving today1185 extensions to the community, so I deliver, modesty apart, 0.93% of them
 
- <span style="font-weight: bold;">My Forum (open in July 2006)
+My Forum (open in July 2006)
 
 | Total Members: | 206 |
 |---|--:|
@@ -26,15 +26,15 @@ tags:
 
 click read more for details…
 
-  <span style="font-weight: bold;">Joomla! GPL components downloads
+ Joomla! GPL components downloads
 
-| Project name | Started | Description | <span style="font-weight: bold;">Downloads |
+| Project name | Started | Description |Downloads |
 |---|---|---|---|
 | [waltercedric.com    ](http://www.waltercedric.com)\*/\*\*\* | [forge.joomla.org    ](http://forge.joomla.org)\*\*/\*\*\* | Total |
 | [SecurityImages](http://forge.joomla.org/sf/projects/com_securityimages) | 09/29/2005 | Security Images or CAPTCHA for Joomla! [read more…](http://forge.joomla.org/sf/projects/com_securityimages) | **9926** | 26 000 | 35 926 |
 | [OpenComment](http://forge.joomla.org/sf/projects/opencomment) | 06/17/2006 | OpenComment is a totaly new AJAX commenting system for Joomla!. [read more…](http://forge.joomla.org/sf/projects/opencomment) | **3464** | no | 3464 |
 | [Akobookplus](http://forge.joomla.org/sf/projects/com_akobookplus) | 09/29/2005 | Modified version of the great akobook from arthur konze, This     version now protect JOOMLA guestbook entries from spammers. [read more…](http://forge.joomla.org/sf/projects/com_akobookplus) | **3346** | 13 000 | 16 346 |
-| [AkocommentPlus](http://forge.joomla.org/sf/projects/com_akocommentplus) | 09/29/2005 | Modified version of the great akocomment from arthur konze, This     version now protect JOOMLA comments from spammers. [read more…](http://forge.joomla.org/sf/projects/com_akocommentplus) | **8021** | <span style="font-weight: bold;">21 500 | <span style="font-weight: bold;">29 521 |
+| [AkocommentPlus](http://forge.joomla.org/sf/projects/com_akocommentplus) | 09/29/2005 | Modified version of the great akocomment from arthur konze, This     version now protect JOOMLA comments from spammers. [read more…](http://forge.joomla.org/sf/projects/com_akocommentplus) | **8021** |21 500 |29 521 |
 | [Hashcash](http://forge.joomla.org/sf/projects/com_hashcash) | 09/29/2005 | Hashcash technology for Joomla Forcing the spammer to pay the price    (computing power) before submitting rubish to Your homepage (comments, guestbook for     example). [read more…](http://forge.joomla.org/sf/projects/com_hashcash) | **2409** | 3700 | 6109 |
 | module\_rssfriends | 09/2006 | Let visitors add Your site RSS easily to most famous online RSS agregators. | **200** | no | 200 |
 | mambot Sociable | 09/2006 | Let visitor promote your articles to sociable networks (digg, del.icious,) | **1869** | no | 1869 |

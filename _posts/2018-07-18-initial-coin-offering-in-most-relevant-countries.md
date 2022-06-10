@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=8739'
 permalink: /development/initial-coin-offering-in-most-relevant-countries/
-image: /wp-content/uploads/2018/07/Initial-Coin-Offering-in-most-relevant-countries.png
+header:
+  teaser: /assets/images/2018/07/Initial-Coin-Offering-in-most-relevant-countries.png
 tags:
     - bubble
     - category

@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=8754'
 permalink: /holidays/blockbyte-won-trust-square-biggets-blockchain-hackathon-sbhack19/
-image: /wp-content/uploads/2019/07/BlockByte-won-Trust-Square-biggest-blockchain-Hackathon-SBHACK19.jpg
+header:
+  teaser: /assets/images/2019/07/BlockByte-won-Trust-Square-biggest-blockchain-Hackathon-SBHACK19.jpg
 tags:
     - blockchain
     - codefest

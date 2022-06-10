@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4861'
 permalink: /gadget/dpreview-canon-eos-7d-review-is-online/
-image: /wp-content/uploads/2009/11/canon7d450.jpg
+header:
+  teaser: /assets/images/2009/11/canon7d450.jpg
 ---
 
 ![canon-7d-450](/assets/images/2009/11/canon7d450.jpg "canon-7d-450") [DpReview](www.dpreview.com) has finally put its review of the Canon 7D online

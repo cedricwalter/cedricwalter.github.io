@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2737'
 permalink: /today-on-earth/19-degree-today-in-zurich/
-image: /wp-content/uploads/2006/10/global-warming-swimwear.jpg
+header:
+  teaser: /assets/images/2006/10/global-warming-swimwear.jpg
 tags:
     - fantastic
     - 'Today on earth'

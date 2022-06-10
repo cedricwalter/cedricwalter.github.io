@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=120'
 permalink: /hobbies/engine-overheating-cure/
-image: /wp-content/uploads/2004/08/engineOverheatingCure1.jpg
+header:
+  teaser: /assets/images/2004/08/engineOverheatingCure1.jpg
 tags:
     - kyosho
     - 'RC helicopter'

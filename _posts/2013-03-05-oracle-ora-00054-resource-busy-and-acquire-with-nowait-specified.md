@@ -3,12 +3,11 @@ id: 7964
 title: 'Oracle ORA-00054: resource busy and acquire with NOWAIT specified'
 date: '2013-03-05T21:36:20+01:00'
 author: 'Cédric Walter'
-
+header:
+    teaser: /assets/images/2010/07/oracle_logo3.jpg
 guid: 'https://waltercedric.com/new/?p=7964'
 permalink: /linux/oracle-ora-00054-resource-busy-and-acquire-with-nowait-specified/
 ---
-
-![](/assets/images/2010/07/oracle_logo3.jpg)
 
 ORA-00054: resource busy and acquire with NOWAIT specified   
 Cause: Resource interested is busy.   

@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=5569'
 permalink: /hobbies/i-pre-ordered-my-copy-of-alien-anthology/
-image: /wp-content/uploads/2010/07/alien.anthology.box01.jpg
+header:
+  teaser: /assets/images/2010/07/alien.anthology.box01.jpg
 tags:
     - amazon
     - art

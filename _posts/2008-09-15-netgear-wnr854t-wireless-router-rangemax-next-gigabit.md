@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3775'
 permalink: /gadget/netgear-wnr854t-wireless-router-rangemax-next-gigabit/
-image: /wp-content/uploads/2008/09/NetgearWNR854T_thumb.jpg
+header:
+  teaser: /assets/images/2008/09/NetgearWNR854T_thumb.jpg
 tags:
     - Bought
     - business

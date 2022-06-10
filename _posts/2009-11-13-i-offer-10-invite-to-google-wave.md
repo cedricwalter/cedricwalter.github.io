@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4876'
 permalink: /internet/i-offer-10-invite-to-google-wave/
-image: /wp-content/uploads/2009/11/wavelogo_thumb.png
+header:
+  teaser: /assets/images/2009/11/wavelogo_thumb.png
 tags:
     - google
 ---

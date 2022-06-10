@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=8780'
 permalink: /hobbies/dji-mavic-mini/
-image: /wp-content/uploads/2019/10/dji-mavic-mini.png
+header:
+  teaser: /assets/images/2019/10/dji-mavic-mini.png
 tags:
     - dji
     - quadcopter

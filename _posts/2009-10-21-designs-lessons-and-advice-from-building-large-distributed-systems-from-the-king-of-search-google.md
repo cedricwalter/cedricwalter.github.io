@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4787'
 permalink: /internet/designs-lessons-and-advice-from-building-large-distributed-systems-from-the-king-of-search-google/
-image: /wp-content/uploads/2009/10/google_logo.jpg
+header:
+  teaser: /assets/images/2009/10/google_logo.jpg
 tags:
     - google
 ---

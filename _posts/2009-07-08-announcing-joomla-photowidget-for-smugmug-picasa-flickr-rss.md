@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4526'
 permalink: /development/announcing-joomla-photowidget-for-smugmug-picasa-flickr-rss/
-image: /wp-content/uploads/2009/07/photowidget.smugmug.flickr.picasa.png
+header:
+  teaser: /assets/images/2009/07/photowidget.smugmug.flickr.picasa.png
 ---
 
 ![photowidget.smugmug.flickr.picasa](/assets/images/2009/07/photowidget.smugmug.flickr.picasa.png "photowidget.smugmug.flickr.picasa")

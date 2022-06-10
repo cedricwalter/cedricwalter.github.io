@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4720'
 permalink: /homepage/site-optimized-for-mobile-and-cell-phone/
-image: /wp-content/uploads/2009/09/mobile.waltercedric.com_.png
+header:
+  teaser: /assets/images/2009/09/mobile.waltercedric.com_.png
 ---
 
 ![mobile.waltercedric.com](/assets/images/2009/09/mobile.waltercedric.com_.png "mobile.waltercedric.com")

@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=8772'
 permalink: /games/introducing-the-neogeo-arcade-stick-pro-a-fighting-stick-with-20-classic-snk-fighters-pre-installed/
-image: /wp-content/uploads/2019/09/NEOGEO-Arcade-Stick-Pro.jpg
+header:
+  teaser: /assets/images/2019/09/NEOGEO-Arcade-Stick-Pro.jpg
 tags:
     - arcade
     - Collectibles

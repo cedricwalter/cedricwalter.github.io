@@ -9,7 +9,7 @@ permalink: /java/embedded-mongodb-provide-a-platform-neutral-way-for-running-mon
 ngg_post_thumbnail:
     - '0'
 header:
-    teaser: "/wp-content/uploads/2020/10/mongodb.png"
+    teaser: /assets/images/2020/10/mongodb.png
 tags:
     - HowTo
     - java
@@ -18,6 +18,7 @@ tags:
     - maven
 ---
 
+# Java library
 Thanks to this java library you can easily run integration test against a real mongo database. It is best to always mock your dependencies in true unit tests, but sometimes you need to test against the real thing.
 
 - It will
@@ -27,6 +28,7 @@ Thanks to this java library you can easily run integration test against a real m
     - you run your tests
     - java kills the mongo process
 
+# Unit testing
 How to use it in your unit tests
 
 Add the dependencies to your project
@@ -40,6 +42,7 @@ Add the dependencies to your project
 </dependency>
 ```
 
+# Java 
 One way to ease the integration is to define your own annotation in MongoDbTest.java
 
 ```java

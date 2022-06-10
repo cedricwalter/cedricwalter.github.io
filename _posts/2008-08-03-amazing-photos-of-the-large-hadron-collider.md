@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3599'
 permalink: /today-on-earth/amazing-photos-of-the-large-hadron-collider/
-image: /wp-content/uploads/2008/08/ebc7bfec457f4fe7ac0d5215daa6e0e4.jpg
+header:
+  teaser: /assets/images/2008/08/ebc7bfec457f4fe7ac0d5215daa6e0e4.jpg
 ---
 
 *The Large Hadron Collider (LHC), a 27 kilometer (17 mile) long particle accelerator straddling the border of Switzerland   

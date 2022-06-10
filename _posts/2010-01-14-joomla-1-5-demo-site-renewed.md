@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4952'
 permalink: /joomla/joomla-1-5-demo-site-renewed/
-image: /wp-content/uploads/2010/01/demo.server.joomla.extensions_thumb.png
+header:
+  teaser: /assets/images/2010/01/demo.server.joomla.extensions_thumb.png
 tags:
     - demo
     - deploy

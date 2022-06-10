@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=8167'
 permalink: /internet/roads-kill-interactive-map/
-image: /wp-content/uploads/2013/09/image.png
+header:
+  teaser: /assets/images/2013/09/image.png
 tags:
     - internet
     - web

@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=8720'
 permalink: /development/joomla-3-8-7-and-wtlib-winnmp-18-03/
-image: /wp-content/uploads/2018/04/step1.png
+header:
+  teaser: /assets/images/2018/04/step1.png
 tags:
     - java
     - joomla

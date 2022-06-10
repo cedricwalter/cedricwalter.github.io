@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=8602'
 permalink: /linux/openhab-on-rapsberry-pi-3-using-z-wave-and-fibaro-sensor/
-image: /wp-content/uploads/2017/02/OpenHAB-fibaro-z-wave-raspeberry.jpg
+header:
+  teaser: /assets/images/2017/02/OpenHAB-fibaro-z-wave-raspeberry.jpg
 tags:
     - raspberrypi
     - raspbian

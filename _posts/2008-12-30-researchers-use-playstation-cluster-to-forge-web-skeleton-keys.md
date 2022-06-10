@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4001'
 permalink: /security/researchers-use-playstation-cluster-to-forge-web-skeleton-keys/
-image: /wp-content/uploads/2008/12/ps3cluster_thumb.png
+header:
+  teaser: /assets/images/2008/12/ps3cluster_thumb.png
 ---
 
 How to create a rogue CA certificate…

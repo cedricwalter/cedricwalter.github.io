@@ -8,7 +8,8 @@ guid: 'https://waltercedric.com/?p=12908'
 permalink: /gadget/bitcoin-ethereum-price-ticker-using-raspberry-pi-and-displayotron/
 ngg_post_thumbnail:
     - '0'
-image: /wp-content/uploads/2020/04/bitcoin-ethereum-price-ticker-using-raspberry-pi-and-displayotron.jpg
+header:
+  teaser: /assets/images/2020/04/bitcoin-ethereum-price-ticker-using-raspberry-pi-and-displayotron.jpg
 tags:
     - bitcoin
     - cryptocurrency

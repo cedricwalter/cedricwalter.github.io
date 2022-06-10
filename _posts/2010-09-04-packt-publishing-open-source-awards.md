@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=5962'
 permalink: /joomla/packt-publishing-open-source-awards/
-image: /wp-content/uploads/2010/09/PacktOSAWARDS.png
+header:
+  teaser: /assets/images/2010/09/PacktOSAWARDS.png
 tags:
     - cms
     - opensource

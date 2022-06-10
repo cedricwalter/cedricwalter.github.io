@@ -8,7 +8,8 @@ guid: 'https://waltercedric.com/?p=12817'
 permalink: /holidays/singapore-marina-bay-sands/
 ngg_post_thumbnail:
     - '0'
-image: /wp-content/uploads/2020/04/singapore-marina-bay-sands-13.jpg
+header:
+  teaser: /assets/images/2020/04/singapore-marina-bay-sands-13.jpg
 tags:
     - asia
     - holidays

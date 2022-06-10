@@ -8,7 +8,8 @@ guid: 'https://waltercedric.com/?p=11678'
 permalink: /holidays/vevey-in-the-canton-of-vaud-switzerland/
 ngg_post_thumbnail:
     - '0'
-image: /wp-content/uploads/2020/03/Vevey-vaud-switzerland-2.jpg
+header:
+  teaser: /assets/images/2020/03/Vevey-vaud-switzerland-2.jpg
 tags:
     - french
     - german

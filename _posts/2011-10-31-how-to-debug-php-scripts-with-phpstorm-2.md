@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=7266'
 permalink: /development/how-to-debug-php-scripts-with-phpstorm-2/
-image: /wp-content/uploads/2011/10/phpstorm_header.png
+header:
+  teaser: /assets/images/2011/10/phpstorm_header.png
 tags:
     - php
 ---

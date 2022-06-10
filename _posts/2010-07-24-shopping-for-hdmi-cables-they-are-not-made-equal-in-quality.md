@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=5645'
 permalink: /games/shopping-for-hdmi-cables-they-are-not-made-equal-in-quality/
-image: /wp-content/uploads/2005/06/sony_playstation_ps3.jpg
+header:
+  teaser: /assets/images/2005/06/sony_playstation_ps3.jpg
 tags:
     - cables
 ---

@@ -8,7 +8,8 @@ guid: 'https://waltercedric.com/?p=11415'
 permalink: /hobbies/armattan-marmotte-5-dji-edition/
 ngg_post_thumbnail:
     - '0'
-image: /wp-content/uploads/2020/03/Armattan-Marmotte-5-Dji-Edition.png
+header:
+  teaser: /assets/images/2020/03/Armattan-Marmotte-5-Dji-Edition.png
 tags:
     - aluminum
     - armattan

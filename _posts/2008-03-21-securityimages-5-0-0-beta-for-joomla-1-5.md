@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3278'
 permalink: /joomla/securityimages-5-0-0-beta-for-joomla-1-5/
-image: /wp-content/uploads/2008/03/checkingYourSystem_thumb.gif
+header:
+  teaser: /assets/images/2008/03/checkingYourSystem_thumb.gif
 ---
 
 # The beta is finally HERE!**

@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=5009'
 permalink: /development/install-atlassian-confluence-in-15-minutes/
-image: /wp-content/uploads/2010/02/confluence.logo_thumb.jpg
+header:
+  teaser: /assets/images/2010/02/confluence.logo_thumb.jpg
 tags:
     - atlassian
     - confluence

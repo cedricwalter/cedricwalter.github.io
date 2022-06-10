@@ -14,4 +14,5 @@ tags:
     - vintage
 ---
 
-# Front bumper (dkw alu stossstange) available at** [**chrisbruening@hotmail.com**](mailto:chrisbruening@hotmail.com) **see in gallery for my scooter**
+# Front bumper (dkw alu stossstange) available at** 
+[**chrisbruening@hotmail.com**](mailto:chrisbruening@hotmail.com) **see in gallery for my scooter**

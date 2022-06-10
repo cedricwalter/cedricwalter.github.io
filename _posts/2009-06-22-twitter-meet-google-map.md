@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4473'
 permalink: /internet/twitter-meet-google-map/
-image: /wp-content/uploads/2009/06/13f0976e0b6f4171ba26226326ace468.jpg
+header:
+  teaser: /assets/images/2009/06/13f0976e0b6f4171ba26226326ace468.jpg
 tags:
     - internet
     - web

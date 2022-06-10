@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3932'
 permalink: /joomla/securityimages-5-1-0-not-installing-with-joomla-1-5-8/
-image: /wp-content/uploads/2008/11/software.bug_thumb.jpg
+header:
+  teaser: /assets/images/2008/11/software.bug_thumb.jpg
 ---
 
 [![software.bug](/assets/images/2008/11/software.bug_thumb.jpg)](/assets/images/2008/11/software.bug_.jpg) Many users have reported issues in my forums, it is currently not possible to install SecurityImages   

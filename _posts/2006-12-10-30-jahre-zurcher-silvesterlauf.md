@@ -6,14 +6,15 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2803'
 permalink: /holidays/30-jahre-zurcher-silvesterlauf/
-image: /wp-content/uploads/2006/12/Silvesterlauf-Zurich2006.gif
+header:
+  teaser: /assets/images/2006/12/Silvesterlauf-Zurich2006.gif
 tags:
     - switzerland
     - 'Vivre en Suisse'
     - Zurich
 ---
 
-| ![](/assets/images/2006/12/Silvesterlauf-Zurich2006.gif) | 30 anniversary of the <span style="font-weight: bold;">Zürcher Silvesterlauf has taken place place today 10 December 2006… All participants of the adult categories did receive an anniversary Shirt. Children were distinguished with medals. Again the start is near the Stadthausquai. The goal being near the woman cathedral Muenster toward stock exchange road. I was there and made some pictures with my old 2MP camera (it is really time to buy a new one 😉 )  Click read more for some funny pictures of running people throught the city of Zürich |
+| ![](/assets/images/2006/12/Silvesterlauf-Zurich2006.gif) | 30 anniversary of theZürcher Silvesterlauf has taken place place today 10 December 2006… All participants of the adult categories did receive an anniversary Shirt. Children were distinguished with medals. Again the start is near the Stadthausquai. The goal being near the woman cathedral Muenster toward stock exchange road. I was there and made some pictures with my old 2MP camera (it is really time to buy a new one 😉 )  Click read more for some funny pictures of running people throught the city of Zürich |
 |---|---|
 
   ![](/assets/images/2006/12/Silvesterlauf-2006-zurich-arrivee11.jpg)   

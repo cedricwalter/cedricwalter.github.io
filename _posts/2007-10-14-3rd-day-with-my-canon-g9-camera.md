@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3086'
 permalink: /gadget/3rd-day-with-my-canon-g9-camera/
-image: /wp-content/uploads/2007/10/canon.g9.body_.jpg
+header:
+  teaser: /assets/images/2007/10/canon.g9.body_.jpg
 tags:
     - 'DSLR Camera'
     - gadget

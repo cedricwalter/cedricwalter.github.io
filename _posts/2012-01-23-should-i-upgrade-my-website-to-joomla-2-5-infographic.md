@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=7440'
 permalink: /joomla/should-i-upgrade-my-website-to-joomla-2-5-infographic/
-image: /wp-content/uploads/2012/01/upgrade_to_joomla25_thumb.png
+header:
+  teaser: /assets/images/2012/01/upgrade_to_joomla25_thumb.png
 ---
 
 Joomla 2.5 is right around the corner, it is due on January 24th 2012! Still not decided whether or not to upgrade to #Joomla 2.5 from 1.5 or 1.0?

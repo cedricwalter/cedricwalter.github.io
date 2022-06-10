@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2869'
 permalink: /today-on-earth/endless-love-lets-be-together-for-5000-year-more/
-image: /wp-content/uploads/2007/02/couple.skeleton.found_.italy_.jpg
+header:
+  teaser: /assets/images/2007/02/couple.skeleton.found_.italy_.jpg
 tags:
     - fantastic
     - 'Today on earth'

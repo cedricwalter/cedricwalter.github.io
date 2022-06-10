@@ -13,7 +13,7 @@ tags:
 
 [www.strato.de](http://www.strato.de/) server are not delivered secure out of the box, I’ve found a lot of problem on our dedicated server MR2,,,,  
 Strato is of course not responsible for that, but what I do not understand is why SuSE do not renforce their default settings. Even if #Linux is all about freedom, why letting so much settings by default, while everyone know that they will lead to securities issues????  
-<span style="font-weight: bold;">  
+  
 <big>First SSH is not correctly configured</big>
 
 <small>X11Forwarding yes</small> a non sense for a server -> ive change it to no  
@@ -45,7 +45,7 @@ i’ve change some other values according to the table below:
 | **<tt class="envar">PermitEmptyPasswords no</tt>** | The option <tt class="envar">PermitEmptyPasswords</tt> specifies whether the server allows logging in to accounts with a null password. If you intend to use the scp utility to make automatic backups over the network, you must set this option to <tt class="userinput">**yes**</tt>. |
 | **<tt class="envar">AllowUsers admin</tt>** | The option <tt class="envar">AllowUsers</tt> specifies and controls which users can access ssh services. Multiple users can be specified, separated by spaces. |
 
-<dl><dt> **<tt class="envar">to restart the ssh daemon, just execute:</tt>**</dt><dd><big>\# </big>/etc/init.d/sshd restart</dd></dl> I’ve create some new public/private keys pair (<big>\# <font size="-1"><big>ssh-keygen -t rsa</big></big>) and copied the public part <span style="font-style: italic;">id\_pub.rsa into <span style="font-style: italic;">~/.ssh/authorized\_keys2 and found that tutorial very interesting<span style="font-style: italic;"><span style="font-style: italic;"> [<span class="headline">SSH User Identities](http://www.securityfocus.com/infocus/1810)<span style="font-style: italic;"><span style="font-style: italic;">
+<dl><dt> **<tt class="envar">to restart the ssh daemon, just execute:</tt>**</dt><dd><big>\# </big>/etc/init.d/sshd restart</dd></dl> I’ve create some new public/private keys pair (<big>\# <font size="-1"><big>ssh-keygen -t rsa</big></big>) and copied the public part id\_pub.rsa into ~/.ssh/authorized\_keys2 and found that tutorial very interesting [<span class="headline">SSH User Identities](http://www.securityfocus.com/infocus/1810)
 
 I provide here both files (I supress all comments for clarity)
 
@@ -53,7 +53,7 @@ I provide here both files (I supress all comments for clarity)
 |---|---|
 | Host \*   ForwardX11Trusted no   RhostsRSAAuthentication no   RSAAuthentication yes   PasswordAuthentication no   KeyRegenerationInterval 3600 | LoginGraceTime 10m   StrictModes yes   MaxAuthTries 3   RSAAuthentication yes   PubkeyAuthentication yes   AuthorizedKeysFile /root/.ssh/authorized\_keys2   HostbasedAuthentication no   IgnoreUserKnownHosts no   IgnoreRhosts yes   PasswordAuthentication no   PermitEmptyPasswords no   X11Forwarding no   UseLogin no |
 
- <span style="font-style: italic;">  
+   
  <big style="font-weight: bold;">2. PHP settings</big>  
  Then I’ve looked at<small> /etc/php.ini </small>and change the following values:
 

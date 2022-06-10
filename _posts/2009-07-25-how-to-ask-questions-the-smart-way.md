@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4545'
 permalink: /open-source/how-to-ask-questions-the-smart-way/
-image: /wp-content/uploads/2009/07/i.will_.use_.google.before.asking.dumb_.questions_thumb.jpg
+header:
+  teaser: /assets/images/2009/07/i.will_.use_.google.before.asking.dumb_.questions_thumb.jpg
 ---
 
 [![i.will.use.google.before.asking.dumb.questions](/assets/images/2009/07/i.will_.use_.google.before.asking.dumb_.questions_thumb.jpg "i.will.use.google.before.asking.dumb.questions")](/assets/images/2009/07/i.will_.use_.google.before.asking.dumb_.questions.jpg)

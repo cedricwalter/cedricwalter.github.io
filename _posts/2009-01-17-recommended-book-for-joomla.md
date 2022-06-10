@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4045'
 permalink: /joomla/recommended-book-for-joomla/
-image: /wp-content/uploads/2009/01/joomla.web_.security.jpg
+header:
+  teaser: /assets/images/2009/01/joomla.web_.security.jpg
 ---
 
 I highly recommend you these books, especially "Joomla! Web Security" by [Tom Canavan](http://www.amazon.com/exec/obidos/search-handle-url/ref=ntt_athr_dp_sr_1?%5Fencoding=UTF8&search-type=ss&index=books&field-author=Tom%20Canavan) as it will help you to secure your #Joomla! site in an efficient way.

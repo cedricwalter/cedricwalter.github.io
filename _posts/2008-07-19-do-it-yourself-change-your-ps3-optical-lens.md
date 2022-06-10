@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3558'
 permalink: /games/do-it-yourself-change-your-ps3-optical-lens/
-image: /wp-content/uploads/2005/06/sony_playstation_ps3.jpg
+header:
+  teaser: /assets/images/2005/06/sony_playstation_ps3.jpg
 ---
 
 # DISCLAIMER: This tutorial is for information purposes, and I am not responsible or can be held responsible if you screw up your PS3 by following this tutorial. Make sure the PS3 is unplugged from mains power AT ALL TIMES. Mains power is dangerous! Dismantle the Playstation 3 console and follow this tutorial at your own risk!**

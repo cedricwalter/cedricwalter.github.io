@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4728'
 permalink: /joomla/want-to-see-the-power-of-joomla/
-image: /wp-content/uploads/2009/10/8a0e934c5dfc4da2897f567db006d584.jpg
+header:
+  teaser: /assets/images/2009/10/8a0e934c5dfc4da2897f567db006d584.jpg
 ---
 
 [![](/assets/images/2009/10/8a0e934c5dfc4da2897f567db006d584.jpg)](http://community.joomla.org/showcase)   

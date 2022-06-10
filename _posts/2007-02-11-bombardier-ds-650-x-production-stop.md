@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2873'
 permalink: /motorcycles/bombardier-ds-650-x-production-stop/
-image: /wp-content/uploads/2006/04/DS650x-small.jpg
+header:
+  teaser: /assets/images/2006/04/DS650x-small.jpg
 tags:
     - atv
     - bombardier

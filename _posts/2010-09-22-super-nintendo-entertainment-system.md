@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=6235'
 permalink: /games/super-nintendo-entertainment-system/
-image: /wp-content/uploads/2010/09/super.nintendo.snes_thumb.jpg
+header:
+  teaser: /assets/images/2010/09/super.nintendo.snes_thumb.jpg
 tags:
     - entertainment
     - games

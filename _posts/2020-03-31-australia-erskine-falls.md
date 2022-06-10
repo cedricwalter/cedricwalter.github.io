@@ -8,7 +8,8 @@ guid: 'https://waltercedric.com/?p=12324'
 permalink: /holidays/australia-erskine-falls/
 ngg_post_thumbnail:
     - '0'
-image: /wp-content/uploads/2020/03/australia.victoria.erskine.falls_0348.jpg
+header:
+  teaser: /assets/images/2020/03/australia.victoria.erskine.falls_0348.jpg
 tags:
     - Australia
     - holidays

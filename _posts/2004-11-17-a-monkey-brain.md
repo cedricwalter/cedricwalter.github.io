@@ -7,9 +7,10 @@ author: 'Cédric Walter'
 guid: 'https://waltercedric.com/new/?p=1375'
 permalink: /open-source/a-monkey-brain/
 tags:
-    - gadget
-    - microsoft
+- gadget
+- microsoft
 ---
 
-| ![](images/stories/tnsteveballmerbrain.jpg) | Microsoft cool gadget, is it not time to fire some gadget designer?      No monkey has been hurt during the process…      developer developer developer (more famous as the [monkey dance](http://www.ntk.net/ballmer/mirrors.html)) |
-|---|---|
+![](images/stories/tnsteveballmerbrain.jpg)
+Microsoft cool gadget, is it not time to fire some gadget designer? No monkey has been hurt during the process…
+developer developer developer (more famous as the [monkey dance](http://www.ntk.net/ballmer/mirrors.html)) |

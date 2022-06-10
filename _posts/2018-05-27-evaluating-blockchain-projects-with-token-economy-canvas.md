@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=8732'
 permalink: /development/evaluating-blockchain-projects-with-token-economy-canvas/
-image: /wp-content/uploads/2018/05/Business-Model-Canvas-Wikipedia.png
+header:
+  teaser: /assets/images/2018/05/Business-Model-Canvas-Wikipedia.png
 tags:
     - block
     - blockchain

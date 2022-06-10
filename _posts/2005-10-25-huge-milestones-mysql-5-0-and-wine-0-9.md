@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2066'
 permalink: /open-source/huge-milestones-mysql-5-0-and-wine-0-9/
-image: /wp-content/uploads/2005/10/200px-MySQL.png
+header:
+  teaser: /assets/images/2005/10/200px-MySQL.png
 ---
 
 | *![](/assets/images/2005/10/200px-MySQL.png)* | *MySQL is a multithreaded, multi-user, SQL (Structured Query Language) Database Management System (DBMS) with an estimated six million installations. MySQL AB makes MySQL available as open source software / free software under the GNU General Public License (GPL), but they also sell it under traditional commercial licensing arrangements for cases where the intended use is incompatible with use of the GPL.* \[[Wikipedia](http://en.wikipedia.org/wiki/MySQL)\]  MySQl is powering a lot of open source application all over the world (for example my homepage with #Joomla CMS, phpnuke, postnuke …), a lot of internet provider let you define at least 1 to 5 database.   MySQL 5.0 is the most significant product upgrade in the company’s ten-year history, and the list of [new features is impressive and futhfill a lot of requirements ](http://www.mysql.com/news-and-events/news/article_976.html)from small to middle complexity applications |

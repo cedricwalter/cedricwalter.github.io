@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=6762'
 permalink: /games/etch-a-sketch-telecran-ecran-magique/
-image: /wp-content/uploads/2011/06/Etch_A_Sketch_Telecran_00_thumb.jpg
+header:
+  teaser: /assets/images/2011/06/Etch_A_Sketch_Telecran_00_thumb.jpg
 tags:
     - ebay
     - games

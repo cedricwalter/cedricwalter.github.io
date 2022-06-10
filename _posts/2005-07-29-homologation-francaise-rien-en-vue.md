@@ -7,10 +7,10 @@ author: 'Cédric Walter'
 guid: 'https://waltercedric.com/new/?p=1963'
 permalink: /motorcycles/homologation-francaise-rien-en-vue/
 tags:
-    - atv
-    - bombardier
-    - canam
-    - quad
+- atv
+- bombardier
+- canam
+- quad
 ---
 
 RÃ©ponse recue le vendredi 29 juillet 2005 09:44:22

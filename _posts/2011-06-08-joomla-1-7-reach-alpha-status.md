@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=6853'
 permalink: /joomla/joomla-1-7-reach-alpha-status/
-image: /wp-content/uploads/2011/06/joomla_1_7_support.png
+header:
+  teaser: /assets/images/2011/06/joomla_1_7_support.png
 tags:
     - joomla
 ---

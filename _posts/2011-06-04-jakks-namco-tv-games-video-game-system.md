@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=6790'
 permalink: /games/jakks-namco-tv-games-video-game-system/
-image: /wp-content/uploads/2011/06/Jakks_Namco_TV_Games_Video_Game_System_00_thumb.jpg
+header:
+  teaser: /assets/images/2011/06/Jakks_Namco_TV_Games_Video_Game_System_00_thumb.jpg
 tags:
     - amazon
     - arcade

@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2469'
 permalink: /internet/new-wiki-subdomains/
-image: /wp-content/uploads/2006/04/waltercedricWikiLogo.jpg
+header:
+  teaser: /assets/images/2006/04/waltercedricWikiLogo.jpg
 tags:
     - homepage
     - 'My Homepage'

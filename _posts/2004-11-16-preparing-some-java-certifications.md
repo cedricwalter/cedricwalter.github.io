@@ -13,11 +13,11 @@ tags:
 
 Some links that may help You preparing the SUN java certification…
 
-- <font face="Verdana, Arial" size="2"> [Free SCBCD 1.3 Study Guide](http://java.boot.by/bcd-guide/)
-<font face="Verdana, Arial" size="2"> 
+-  [Free SCBCD 1.3 Study Guide](http://java.boot.by/bcd-guide/)
+ 
 
 - [Free SCWCD 1.4 Study Guide](http://java.boot.by/wcd-guide/)
 - [Free SCDJWS 1.4 Study Guide](http://java.boot.by/wsd-guide/)
 - [SCDJWS 1.4 Quiz<span style="font-family: verdana,arial;">](http://java.boot.by/wsd-quiz/)
-- [<span style="font-family: verdana,arial;">](http://java.boot.by/wsd-quiz/)<font face="Verdana, Arial" size="2">[Free IBM Certified Associate Developer Study Guide](www.javaranch.com)
+- [<span style="font-family: verdana,arial;">](http://java.boot.by/wsd-quiz/)[Free IBM Certified Associate Developer Study Guide](www.javaranch.com)
 - [www.javaranch.com ](www.javaranch.com)and more precisely [HERE](http://saloon.javaranch.com/cgi-bin/ubb/ultimatebb.cgi?category=7)

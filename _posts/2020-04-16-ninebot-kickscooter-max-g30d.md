@@ -8,7 +8,8 @@ guid: 'https://waltercedric.com/?p=13223'
 permalink: /gadget/ninebot-kickscooter-max-g30d/
 ngg_post_thumbnail:
     - '0'
-image: /wp-content/uploads/2020/04/ninebot-kickscooter-max-g30d.png
+header:
+  teaser: /assets/images/2020/04/ninebot-kickscooter-max-g30d.png
 ---
 
 The Segway MAX G30D is specially designed for Switzerland and Germany and complies with traffic regulations. The best choice for a high quality and comfortable driving experience. The scooter has a particularly long range, up to 65km. The tubeless pneumatic tires help you to achieve greater riding comfort and the LED lights at the front and rear, the reflectors and the bell offer you the greatest safety when driving.

@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=6728'
 permalink: /joomla/nasty-bug-in-securityimages-5-1-2/
-image: /wp-content/uploads/2011/05/software_bugs_dilbert_thumb.jpg
+header:
+  teaser: /assets/images/2011/05/software_bugs_dilbert_thumb.jpg
 tags:
     - security
     - securityimages

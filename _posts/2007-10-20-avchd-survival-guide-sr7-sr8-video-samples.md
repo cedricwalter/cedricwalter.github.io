@@ -6,13 +6,14 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3092'
 permalink: /gadget/avchd-survival-guide-sr7-sr8-video-samples/
-image: /wp-content/uploads/2007/10/sony.hrdsr7_.jpg
+header:
+  teaser: /assets/images/2007/10/sony.hrdsr7_.jpg
 tags:
     - camcorder
     - gadget
 ---
 
-# ![sony hdr sr7](/assets/images/2007/10/sony.hrdsr7_.jpg "sony hdr sr7")AVCHD** (**Advanced Video Codec High Definition**) <span style="font-style: italic">is a new high-definition recording format introduced by Sony and Panasonic. It can use various storage media, including 8 cm (3") recordable DVD discs, a hard disk, or flash memory cards. The format is to compete with other handheld video camera recording formats, particularly HDV and MiniDV. \[from [WikiPedia](http://en.wikipedia.org/wiki/Advanced_Video_Codec_High_Definition)\]
+# ![sony hdr sr7](/assets/images/2007/10/sony.hrdsr7_.jpg "sony hdr sr7")AVCHD** (**Advanced Video Codec High Definition**) is a new high-definition recording format introduced by Sony and Panasonic. It can use various storage media, including 8 cm (3") recordable DVD discs, a hard disk, or flash memory cards. The format is to compete with other handheld video camera recording formats, particularly HDV and MiniDV. \[from [WikiPedia](http://en.wikipedia.org/wiki/Advanced_Video_Codec_High_Definition)\]
 
  The major complain when it come to reviewing Sony SR7/SR8, panasonic SD5 or any previous model is the lack of editing tools for AVCHD (beside low light performances, but that is common on consumer camcorder). That’s why I propose You some links now:
 
@@ -40,7 +41,7 @@ tags:
  [Elecard Converter Studio AVC HD Edition](http://www.elecard.com/products/products-pc/consumer/converter-studio-avchd) is a program for movie file conversion from AVCHD® to MPEG-2 HDV and MPEG-2 DVD compatible formats. Owners of AVCHD® Camcorders (for example, Sony® HDR-SR1E, Panasonic® HDC-SD1. [Click here for a full list of camcorders.](http://www.elecard.com/products/avc_hd_camcordrs.shtml)) will find it a useful product which allows them to convert the footage from their cameras into format supported by their favorite editing software.  
  [You can download a demo here](http://www.elecard.com/ftp/pub/ConverterStudio/EConverter_Studio_AVC_HD_Demo.zip) ($75 for the full edition), it is working great and play the original m2ts a lot faster than [Power DVD 7 Ultra](http://www.cyberlink.com/) on my machine. It is also damn fast (on [my HP NW9440](content/view/1095/58/))
 
- [Nero 7 Ultra Edition Enhanced](http://www.nero.com/enu/technologies-nerodigital.html "Nero Burning ROM"), <span style="font-style: italic">is a software suite which contains the AVCHD editor Nero Vision. Also included in this suite is Nero Showtime, which plays AVCHD files natively. Nero Vision can convert AVCHD files to other formats such as MPEG-2 or AVI and can import them for use in video editing projects. Nero Vision can also export Sony’s M2TS format to MPEG-4 files that can be viewed by Quicktime 7. Edited video can also be burned to DVD discs in AVCHD format for playback on hardware players or in Blu-ray format. \[from [WikiPedia](http://en.wikipedia.org/wiki/Advanced_Video_Codec_High_Definition)\]
+ [Nero 7 Ultra Edition Enhanced](http://www.nero.com/enu/technologies-nerodigital.html "Nero Burning ROM"), is a software suite which contains the AVCHD editor Nero Vision. Also included in this suite is Nero Showtime, which plays AVCHD files natively. Nero Vision can convert AVCHD files to other formats such as MPEG-2 or AVI and can import them for use in video editing projects. Nero Vision can also export Sony’s M2TS format to MPEG-4 files that can be viewed by Quicktime 7. Edited video can also be burned to DVD discs in AVCHD format for playback on hardware players or in Blu-ray format. \[from [WikiPedia](http://en.wikipedia.org/wiki/Advanced_Video_Codec_High_Definition)\]
 
 ## Editing AVCHD
 

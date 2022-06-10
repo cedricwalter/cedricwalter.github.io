@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=7462'
 permalink: /joomla/speed-up-your-web-pages-by-embedding-images-in-css/
-image: /wp-content/uploads/2010/11/speed.jpg
+header:
+  teaser: /assets/images/2010/11/speed.jpg
 ---
 
 ![](/assets/images/2010/11/speed.jpg)

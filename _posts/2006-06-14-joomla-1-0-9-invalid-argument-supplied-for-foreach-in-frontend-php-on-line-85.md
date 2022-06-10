@@ -15,7 +15,7 @@ tags:
 
 # Warning**: Invalid argument supplied for foreach() in **/var/www/vhosts/waltercedric.com/httpdocs/includes/frontend.php** on line **85**
 
-Edit the file **includes/frontend.php** , this is the correct code:<span style="color: rgb(255, 0, 0);"><span style="font-weight: bold;"> 
+Edit the file **includes/frontend.php** , this is the correct code:<span style="color: rgb(255, 0, 0);"> 
 
 ```
 /**
@@ -69,9 +69,9 @@ function &initModules() {
 }
 ```
 
- <span style="color: rgb(255, 0, 0); background-color: rgb(255, 255, 0); font-weight: bold;">In yellow <span style="font-weight: bold;">what has changed in that method (extract)  
+ <span style="color: rgb(255, 0, 0); background-color: rgb(255, 255, 0); font-weight: bold;">In yellowwhat has changed in that method (extract)  
 # . "\\n AND m.access <= <span style="background-color: rgb(255, 255, 0);">‘". $my->gid ."’"  
-<span style="font-weight: bold;">and  
+and  
 . "\\n AND ( mm.menuid = <span style="background-color: rgb(255, 255, 0);">‘".$Itemid<span style="background-color: rgb(255, 255, 0);">."’ OR mm.menuid = 0 )"
 
 All credits goes to user [Mathinka ](http://www.joomlaportal.de/joomlaportal-user/mathinka.html)([JoomlaPortal.de](http://www.joomlaportal.de))

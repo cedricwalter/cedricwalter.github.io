@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=70'
 permalink: /hobbies/repairing-the-frame/
-image: /wp-content/uploads/2004/08/caliberCasseSansPiece.JPG
+header:
+  teaser: /assets/images/2004/08/caliberCasseSansPiece.JPG
 tags:
     - crash
     - disassemble

@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4825'
 permalink: /homepage/subscribe-to-rss-feeds/
-image: /wp-content/uploads/2009/10/feediconorange.png
+header:
+  teaser: /assets/images/2009/10/feediconorange.png
 ---
 
 #### These feeds use the popular RSS format, which you can pick up with an RSS news reader. 

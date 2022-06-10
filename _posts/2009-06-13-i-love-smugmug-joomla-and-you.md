@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4402'
 permalink: /joomla/i-love-smugmug-joomla-and-you/
-image: /wp-content/uploads/2009/06/photoFeed.code_.png
+header:
+  teaser: /assets/images/2009/06/photoFeed.code_.png
 ---
 
 This is a small content plugin for #Joomla! 1.5 that allow you to inline a set of images from your favorite online gallery: [Smugmug](http://www.Smugmug.com), [Flickr](http://www.flickr.com), [Picasa](http://www.picasa.com) or any RSS feed in any article.

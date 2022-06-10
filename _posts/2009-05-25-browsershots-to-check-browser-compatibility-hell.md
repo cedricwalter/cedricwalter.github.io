@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4337'
 permalink: /internet/browsershots-to-check-browser-compatibility-hell/
-image: /wp-content/uploads/2009/05/browsershots.org_.logo_thumb.gif
+header:
+  teaser: /assets/images/2009/05/browsershots.org_.logo_thumb.gif
 tags:
     - internet
     - web

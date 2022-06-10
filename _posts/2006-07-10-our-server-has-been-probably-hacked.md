@@ -11,13 +11,13 @@ tags:
     - incidents
 ---
 
-Our server is highy instable in the past 2 weeks, I run YaST to update all packages, and also start <span style="font-weight: bold;">chkrootkit
+Our server is highy instable in the past 2 weeks, I run YaST to update all packages, and also startchkrootkit
 
-<span style="font-weight: bold;">chkrootkit (Check Rootkit) is a common unix-based program intended to help system administrators check their system for known rootkits. It is a shell script using common UNIX/Linux tools like the strings and grep commands to search core system programs for signatures and for comparing a traversal of the /proc filesystem with the output of the ps (process status) command to look for discrepancies.
+chkrootkit (Check Rootkit) is a common unix-based program intended to help system administrators check their system for known rootkits. It is a shell script using common UNIX/Linux tools like the strings and grep commands to search core system programs for signatures and for comparing a traversal of the /proc filesystem with the output of the ps (process status) command to look for discrepancies.
 
-<span style="font-weight: bold;">chkrootkit report that <span style="text-decoration: underline; font-weight: bold;">WE<span style="font-weight: bold;"> have a problem:  
+chkrootkit report that <span style="text-decoration: underline; font-weight: bold;">WE have a problem:  
   
-<span style="font-style: italic;">Checking `bindshell’… INFECTED (PORTS: 465)
+Checking `bindshell’… INFECTED (PORTS: 465)
 
     
  xxxxxxxxx:~ # chkrootkit  
@@ -135,9 +135,9 @@ While googling, I’ve found that:
 
 WHT isn’t here to take the place of experience, or to supply you with skilled administration experience. Unfortunately, that’s the mistake that most make, assuming they can just open up a server, without the proper experience, come here when something like this happens, thusly putting their own clients at risk.
 
-As for the hack itself, it depends on the severity of it, whether or not I’d recommend formatting. In this case, given the common description of a <span style="font-weight: bold;">bindshell:
+As for the hack itself, it depends on the severity of it, whether or not I’d recommend formatting. In this case, given the common description of abindshell:
 
-<span style="font-weight: bold;">This utility allows users to open an interactive shell over a port, bypassing all system logging, thus making it possible for users to stealthy administer a machine.  
+This utility allows users to open an interactive shell over a port, bypassing all system logging, thus making it possible for users to stealthy administer a machine.  
   
 Because of the mere definition of this, and the function of this, you can’t trust ANY of the system binaries at this point. Bindshell does just what it’s supposed to do, it provides a shell for users to do whatever they want with your system, INCLUDING replacing system binaries and the like.
 

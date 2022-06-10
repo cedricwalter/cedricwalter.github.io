@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=690'
 permalink: /open-source/thanks-to-the-open-source-community/
-image: /wp-content/uploads/2004/09/apache.gif
+header:
+  teaser: /assets/images/2004/09/apache.gif
 ---
 
 | **NO Software Patents in Europe – 10 days of web strike Vs 20 years of patent nightmare** |

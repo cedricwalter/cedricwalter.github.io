@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=8583'
 permalink: /hobbies/hp-11c-scientific-calculator/
-image: /wp-content/uploads/2016/09/cailculato-hp-11c_5_thumb.jpg
+header:
+  teaser: /assets/images/2016/09/cailculato-hp-11c_5_thumb.jpg
 tags:
     - calculator
     - graphing

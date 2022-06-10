@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2513'
 permalink: /holidays/helvetia-patria-vbp-events/
-image: /wp-content/uploads/2006/05/HPV-VBP-event-EuropaPark-Rust.jpg
+header:
+  teaser: /assets/images/2006/05/HPV-VBP-event-EuropaPark-Rust.jpg
 tags:
     - events
     - switzerland

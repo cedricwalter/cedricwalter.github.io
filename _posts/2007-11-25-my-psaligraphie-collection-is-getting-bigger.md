@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3160'
 permalink: /hobbies/my-psaligraphie-collection-is-getting-bigger/
-image: /wp-content/uploads/2007/11/t_scherenschnittCollectionCedricwalter01.gif
+header:
+  teaser: /assets/images/2007/11/t_scherenschnittCollectionCedricwalter01.gif
 tags:
     - Collectibles
 ---

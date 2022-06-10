@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4048'
 permalink: /joomla/new-patches-for-joomla-1-5-9-and-joomla-1-5-8/
-image: /wp-content/uploads/2009/01/smallbox_securityimages_thumb.jpg
+header:
+  teaser: /assets/images/2009/01/smallbox_securityimages_thumb.jpg
 ---
 
 [![smallbox_securityimages](/assets/images/2009/01/smallbox_securityimages_thumb.jpg)](/assets/images/2020/02/smallbox_securityimages.jpg) Some people have reported issue [in the forum](http://forums.waltercedric.com)

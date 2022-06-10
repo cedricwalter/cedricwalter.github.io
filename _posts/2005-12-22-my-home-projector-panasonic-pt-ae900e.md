@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2238'
 permalink: /gadget/my-home-projector-panasonic-pt-ae900e/
-image: /wp-content/uploads/2005/12/PanasonicPT-AE900E.jpg
+header:
+  teaser: /assets/images/2005/12/PanasonicPT-AE900E.jpg
 tags:
     - brightness
     - description

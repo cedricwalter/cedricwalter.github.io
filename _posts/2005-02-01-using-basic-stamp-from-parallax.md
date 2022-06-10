@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=1552'
 permalink: /hobbies/using-basic-stamp-from-parallax/
-image: /wp-content/uploads/2005/02/robot-parallax-boe-bots.jpg
+header:
+  teaser: /assets/images/2005/02/robot-parallax-boe-bots.jpg
 tags:
     - Robotic
 ---
@@ -22,5 +23,5 @@ Parallax is selling a small robot : [Boe-Bot](http://www.parallax.com/detail.asp
 As advertised on their pages, there is a [Compas ](http://www.parallax.com/detail.asp?product_id=29113)(a low-cost direction sensor, sensing 8 direction) sold by [Parallax](http://www.parallax.com/)  
 There is also[ a lot more modules](http://www.parallax.com/html_pages/products/boards/appmods.asp) available…I think I will buy one or two just for fun!
 
-Parallax also sell an <span style="font-weight: bold;">interesting kit called the M-Sorter. It really sorts M&amp;M candies, and even Skittles by color!  
+Parallax also sell aninteresting kit called the M-Sorter. It really sorts M&amp;M candies, and even Skittles by color!  
 See the M-Sorter [in action here](http://www.lightlink.com/dream/chris/msorter.htm) and [buy it here](http://www.parallax.com/detail.asp?product_id=30067-30054)

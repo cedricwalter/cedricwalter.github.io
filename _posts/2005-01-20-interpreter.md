@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=1507'
 permalink: /development/interpreter/
-image: /wp-content/uploads/2005/01/java-pattern-interpreter.png
+header:
+  teaser: /assets/images/2005/01/java-pattern-interpreter.png
 ---
 
 Given a language, define a representation for its grammar along with an interpreter that uses the representation to interpret sentences in the language.

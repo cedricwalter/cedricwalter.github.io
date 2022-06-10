@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4703'
 permalink: /gadget/are-cell-phones-safe/
-image: /wp-content/uploads/2009/09/best.and_.worst_.cellphone.radiation_thumb.png
+header:
+  teaser: /assets/images/2009/09/best.and_.worst_.cellphone.radiation_thumb.png
 ---
 
 ##### ![best.and.worst.cellphone.radiation](/assets/images/2009/09/best.and_.worst_.cellphone.radiation_thumb.png "best.and.worst.cellphone.radiation") 

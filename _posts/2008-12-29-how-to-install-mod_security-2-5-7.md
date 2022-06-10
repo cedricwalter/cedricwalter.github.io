@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3998'
 permalink: /development/how-to-install-mod_security-2-5-7/
-image: /wp-content/uploads/2006/08/mod_security.gif
+header:
+  teaser: /assets/images/2006/08/mod_security.gif
 ---
 
 | ![](/assets/images/2006/08/mod_security.gif) | ModSecurity<sup>TM</sup> is an open source intrusion detection and prevention engine for web applications (or a web application firewall). Operating as an Apache Web server module or standalone, the purpose of ModSecurity is to increase web application security, protecting web applications from known and unknown attacks. from <http://www.modsecurity.org/> |

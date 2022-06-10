@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=8737'
 permalink: /development/2751-coins-47-consensus-and-82-cryptographic-algorithms/
-image: /wp-content/uploads/2018/07/consensus.tokens-economy.com-2.png
+header:
+  teaser: /assets/images/2018/07/consensus.tokens-economy.com-2.png
 tags:
     - about
     - algorithm

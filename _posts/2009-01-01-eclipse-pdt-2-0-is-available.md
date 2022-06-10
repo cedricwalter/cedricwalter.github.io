@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4022'
 permalink: /joomla/eclipse-pdt-2-0-is-available/
-image: /wp-content/uploads/2009/01/zend.debugger.active.in_.xampp_.png
+header:
+  teaser: /assets/images/2009/01/zend.debugger.active.in_.xampp_.png
 tags:
     - apache
     - box

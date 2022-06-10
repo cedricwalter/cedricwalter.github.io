@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4535'
 permalink: /internet/how-to-migrate-away-from-hotmail-for-gmail-for-free/
-image: /wp-content/uploads/2009/07/gmaillogo.gif
+header:
+  teaser: /assets/images/2009/07/gmaillogo.gif
 tags:
     - google
 ---

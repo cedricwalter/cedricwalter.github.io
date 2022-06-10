@@ -7,13 +7,14 @@ author: 'Cédric Walter'
 guid: 'https://waltercedric.com/new/?p=8594'
 permalink: /development/the-deployment-master-how-to-perform-0-down-time-deployments-using-containers/
 tags:
-    - container
-    - docker
-    - HowTo
-    - meetup
+- container
+- docker
+- HowTo
+- meetup
 ---
 
-How to perform 0 down-time deployments using containers using the following strategies (rolling updates, Blue/Green and Canary) by Rafael Benevides, Director of Developer Experience at RedHat.
+How to perform 0 down-time deployments using containers using the following strategies (rolling updates, Blue/Green and
+Canary) by Rafael Benevides, Director of Developer Experience at RedHat.
 
 [](https://bit.ly/thedeploymaster)
 

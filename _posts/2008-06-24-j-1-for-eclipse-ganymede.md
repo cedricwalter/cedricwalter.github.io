@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3492'
 permalink: /java/j-1-for-eclipse-ganymede/
-image: /wp-content/uploads/2008/06/eclipse.ganymede_thumb.png
+header:
+  teaser: /assets/images/2008/06/eclipse.ganymede_thumb.png
 ---
 
 Don’t forget that the latest version of eclipse is due to be released tomorrow 🙂

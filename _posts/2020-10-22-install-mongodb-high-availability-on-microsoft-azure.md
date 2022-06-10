@@ -9,7 +9,7 @@ permalink: /development/install-mongodb-high-availability-on-microsoft-azure/
 ngg_post_thumbnail:
     - '0'
 header:
-  teaser: "/wp-content/uploads/2020/10/mongodb.png"
+  teaser: /assets/images/2020/10/mongodb.png
 tags:
     - azure
     - database

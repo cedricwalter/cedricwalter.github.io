@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2726'
 permalink: /today-on-earth/2-wheels-logistics/
-image: /wp-content/uploads/2006/10/2wheelsLogistics.jpg
+header:
+  teaser: /assets/images/2006/10/2wheelsLogistics.jpg
 tags:
     - fantastic
     - 'Today on earth'

@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2052'
 permalink: /internet/opening-and-maintaining-a-new-homepage/
-image: /wp-content/uploads/2005/10/www.broc-antique.com_.header.jpg
+header:
+  teaser: /assets/images/2005/10/www.broc-antique.com_.header.jpg
 tags:
     - beautiful
     - Collectibles

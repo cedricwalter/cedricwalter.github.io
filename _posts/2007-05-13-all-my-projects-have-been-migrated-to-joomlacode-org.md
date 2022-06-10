@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2964'
 permalink: /joomla/all-my-projects-have-been-migrated-to-joomlacode-org/
-image: /wp-content/uploads/2007/05/joomlaCode.org_.logo_.gif
+header:
+  teaser: /assets/images/2007/05/joomlaCode.org_.logo_.gif
 tags:
     - joomla
 ---
@@ -23,8 +24,8 @@ tags:
 | [com\_akocommentPlus](http://joomlacode.org/gf/project/com_akocommen1/) |
 
  The repository is using subversion and I am currently committing the latest source code there…It is also time to remember to all my new visitors some interesting links:  
- <span style="font-weight: bold;">Main Download site: [http://www.waltercedric.com](http://www.waltercedric.com/component/option,com_docman/Itemid,64/)  
- <span style="font-weight: bold;">Secondary Download site: <http://joomlacode.org>  
- <span style="font-weight: bold;">Official Forums: <http://forums.waltercedric.com>  
- <span style="font-weight: bold;">Official bugtracker <http://bugs.waltercedric.com>  
- <span style="font-weight: bold;">Official demo site: <http://demo.waltercedric.com>
+Main Download site: [http://www.waltercedric.com](http://www.waltercedric.com/component/option,com_docman/Itemid,64/)  
+Secondary Download site: <http://joomlacode.org>  
+Official Forums: <http://forums.waltercedric.com>  
+Official bugtracker <http://bugs.waltercedric.com>  
+Official demo site: <http://demo.waltercedric.com>

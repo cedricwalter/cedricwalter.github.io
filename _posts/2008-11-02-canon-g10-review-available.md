@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3894'
 permalink: /gadget/canon-g10-review-available/
-image: /wp-content/uploads/2008/11/canon.g10_thumb.jpg
+header:
+  teaser: /assets/images/2008/11/canon.g10_thumb.jpg
 ---
 
 This feature-packed camera is a great buy, and perhaps the best compact non-SLR camera you can buy…

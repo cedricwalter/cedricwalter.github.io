@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3077'
 permalink: /gadget/debunking-some-myths-about-cf-sd-memory-cards/
-image: /wp-content/uploads/2007/10/sandisk.ultra_.iv_.mc_.jpg
+header:
+  teaser: /assets/images/2007/10/sandisk.ultra_.iv_.mc_.jpg
 tags:
     - 'DSLR Camera'
     - gadget

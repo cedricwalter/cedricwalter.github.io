@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3100'
 permalink: /gadget/canon-hg10-or-sony-sr7-sr8/
-image: /wp-content/uploads/2007/11/SR8.or_.hg10.jpg
+header:
+  teaser: /assets/images/2007/11/SR8.or_.hg10.jpg
 tags:
     - camcorder
     - gadget
@@ -19,7 +20,7 @@ tags:
 ### Video Playback
 
  Attention:   
- you must deinterlace video to have the best experience! I use [Elecard Converter Studio](http://www.elecard.com/products/products-pc/consumer/converter-studio/) to view them (free for viewing, use De interlacing:option <span style="font-style: italic">best for speed),   
+ you must deinterlace video to have the best experience! I use [Elecard Converter Studio](http://www.elecard.com/products/products-pc/consumer/converter-studio/) to view them (free for viewing, use De interlacing:option best for speed),   
  You have to deinterlace because computer monitor are not interlaced!  
  1080i30(60 fields) or 720p60 or 1080p30 have the same raw data rate, while 1080p60 has twice more data!
 

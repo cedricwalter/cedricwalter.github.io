@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=8408'
 permalink: /development/script-to-merge-multiple-git-repositories-into-a-new-repository/
-image: /wp-content/uploads/2016/07/1color-orange-lightbg2x_3.png
+header:
+  teaser: /assets/images/2016/07/1color-orange-lightbg2x_3.png
 tags:
     - git
     - HowTo

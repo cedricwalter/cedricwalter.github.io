@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=1773'
 permalink: /homepage/star-wars-episode-iii-revenge-of-the-sith/
-image: /wp-content/uploads/2019/10/1200px-Star_Wars_Logo.svg_.png
+header:
+  teaser: /assets/images/2019/10/1200px-Star_Wars_Logo.svg_.png
 tags:
     - capabilities
     - looking

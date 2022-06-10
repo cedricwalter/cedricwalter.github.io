@@ -6,13 +6,14 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2705'
 permalink: /open-source/ecenter-solutions/
-image: /wp-content/uploads/2006/09/ecentersolutions.jpg
+header:
+  teaser: /assets/images/2006/09/ecentersolutions.jpg
 tags:
     - business
     - opensource
 ---
 
 ![](/assets/images/2006/09/ecentersolutions.jpg)eCenter is the company which has give me the opportinity to work in zurich from 2001 to 2004 in a very experienced team of #Java developer.   
-I’ve made a break by going back to Helvetia switzerland 2 years ago, but I am more than happy to reintegrate this unit at the end of year. eCenter is now going to the market (internal IT unit to an independent, market oriented IT solutions company) , and this give me the chance to put some links:<span style="font-weight: bold;">
+I’ve made a break by going back to Helvetia switzerland 2 years ago, but I am more than happy to reintegrate this unit at the end of year. eCenter is now going to the market (internal IT unit to an independent, market oriented IT solutions company) , and this give me the chance to put some links:
 
-<span style="font-style: italic;">ecenter solutions<span style="font-style: italic;"> vision is to be a leader in the financial services market , offering the first Open Source Software based solution for sales support and product distribution.
+ecenter solutions vision is to be a leader in the financial services market , offering the first Open Source Software based solution for sales support and product distribution.

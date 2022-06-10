@@ -8,7 +8,8 @@ guid: 'https://www.waltercedric.com/?p=13627'
 permalink: /javascript/mac-os-8-running-in-javascript/
 ngg_post_thumbnail:
     - '0'
-image: /wp-content/uploads/2020/08/macos8-macintosh.jpg
+header:
+  teaser: /assets/images/2020/08/macos8-macintosh.jpg
 tags:
     - electron
     - javascript

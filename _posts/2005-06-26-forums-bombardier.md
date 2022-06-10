@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=1804'
 permalink: /motorcycles/forums-bombardier/
-image: /wp-content/uploads/2005/06/flag-French.gif
+header:
+  teaser: /assets/images/2005/06/flag-French.gif
 tags:
     - atv
     - bombardier

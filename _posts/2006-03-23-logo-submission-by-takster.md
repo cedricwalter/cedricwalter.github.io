@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2386'
 permalink: /joomla/logo-submission-by-takster/
-image: /wp-content/uploads/2006/03/opencomment.jpg
+header:
+  teaser: /assets/images/2006/03/opencomment.jpg
 tags:
     - joomla
 ---

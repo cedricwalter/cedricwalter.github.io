@@ -57,4 +57,4 @@ permalink: /motorcycles/comment-perdre-des-points-sur-votre-permis-sans-efforts/
 - Refus d’obtempérer, d’immobiliser le véhicule et de se soumettre aux vérifications ou
 - Récidive, dans un délai de 1 an, d’un excà¨s de vitesse de plus de 50 km/h au-delà vitesse autorisée…
 
-<font size="5">**Fin** à moins que le gouvernement ne trouve autre chose….
+**Fin** à moins que le gouvernement ne trouve autre chose….

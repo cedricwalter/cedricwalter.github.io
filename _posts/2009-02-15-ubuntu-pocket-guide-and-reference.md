@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4158'
 permalink: /linux/ubuntu-pocket-guide-and-reference/
-image: /wp-content/uploads/2009/02/ubuntu.book_thumb.png
+header:
+  teaser: /assets/images/2009/02/ubuntu.book_thumb.png
 ---
 
 [![ubuntu.book](/assets/images/2009/02/ubuntu.book_thumb.png)](/assets/images/2009/02/ubuntu.book_.png)

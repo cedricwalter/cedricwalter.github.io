@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2347'
 permalink: /joomla/securityimages-3-0-0-final-released/
-image: /wp-content/uploads/2006/03/box_securityimages.jpg
+header:
+  teaser: /assets/images/2006/03/box_securityimages.jpg
 tags:
     - details
     - joomla

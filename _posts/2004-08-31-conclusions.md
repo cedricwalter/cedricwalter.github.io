@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=603'
 permalink: /gadget/conclusions/
-image: /wp-content/uploads/2004/08/smileLol.gif
+header:
+  teaser: /assets/images/2004/08/smileLol.gif
 tags:
     - expensive
     - maintenance

@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=7124'
 permalink: /holidays/garbage-police-illegal-disposal-isnt-fair/
-image: /wp-content/uploads/2011/08/garbage_police_illegal_disposal_zurich_thumb.jpg
+header:
+  teaser: /assets/images/2011/08/garbage_police_illegal_disposal_zurich_thumb.jpg
 tags:
     - items
     - switzerland

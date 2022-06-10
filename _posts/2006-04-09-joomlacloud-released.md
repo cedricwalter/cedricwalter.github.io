@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2445'
 permalink: /joomla/joomlacloud-released/
-image: /wp-content/uploads/2006/01/JoomlaCloud.logo_.png
+header:
+  teaser: /assets/images/2006/01/JoomlaCloud.logo_.png
 tags:
     - Collectibles
     - interesting

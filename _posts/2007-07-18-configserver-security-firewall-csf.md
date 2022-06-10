@@ -52,7 +52,7 @@ tags:
 - Email relay tracking – tracks all email sent through the server and issues alerts for excessive usage (cPanel servers only)
 - IDS (Intrusion Detection System) – the last line of detection alerts you to changes to system and application binaries
 
-<span style="font-weight: bold;"> Installation is straightforward:  
+ Installation is straightforward:  
  `
 
  # wget http://www.configserver.com/free/csf.tgz

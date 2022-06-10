@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3952'
 permalink: /joomla/preview-of-securityimages-5-2-0/
-image: /wp-content/uploads/2008/12/font.autodetection_thumb.png
+header:
+  teaser: /assets/images/2008/12/font.autodetection_thumb.png
 ---
 
 An insight at securityimages 5.2.0 still in development, as usual, all comments are welcome either in this post or in my forum

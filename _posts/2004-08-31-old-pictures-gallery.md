@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=519'
 permalink: /scooter/old-pictures-gallery/
-image: /wp-content/uploads/2004/08/Avendre.jpg
+header:
+  teaser: /assets/images/2004/08/Avendre.jpg
 ---
 
 ![](/assets/images/2004/08/Avendre.jpg)  

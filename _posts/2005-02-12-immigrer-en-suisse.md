@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=1569'
 permalink: /holidays/immigrer-en-suisse/
-image: /wp-content/uploads/2020/04/susten-pass-switzerland-12.jpg
+header:
+  teaser: /assets/images/2020/04/susten-pass-switzerland-12.jpg
 tags:
     - switzerland
     - Zurich

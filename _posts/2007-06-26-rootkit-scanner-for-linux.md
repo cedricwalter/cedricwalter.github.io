@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2992'
 permalink: /security/rootkit-scanner-for-linux/
-image: /wp-content/uploads/2011/05/linux.png
+header:
+  teaser: /assets/images/2011/05/linux.png
 tags:
     - hacker
     - linux
@@ -24,10 +25,10 @@ Rootkit scanner is scanning tool which scans for rootkits, backdoors and local e
 - Look for hidden files
 - Optional scan within plaintext and binary files
 
-<span style="font-weight: bold;">Rootkit Hunter is released as GPL licensed project and free for everyone to use. You can download it at   
+Rootkit Hunter is released as GPL licensed project and free for everyone to use. You can download it at   
 [http://www.rootkit.nl/projects/rootkit\_hunter.html ](http://www.rootkit.nl/projects/rootkit_hunter.html)
 
-This tools is just a tar with a set of files inside. It is highly recommended to run it from a read only media to avoid hacker tampering attempts. <span style="font-weight: bold;">run
+This tools is just a tar with a set of files inside. It is highly recommended to run it from a read only media to avoid hacker tampering attempts.run
 
 ```
 ./installer.sh
@@ -79,7 +80,7 @@ Multiple parameters are allowed
 *) Parameter can only be used with other parameters
 ```
 
-<span style="font-weight: bold;">False alarms:
+False alarms:
 
 ```
 * Filesystem checks

@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2084'
 permalink: /gadget/avoiding-the-huge-amount-of-street-radars-in-europe/
-image: /wp-content/uploads/2005/11/tomtomrider.box_.jpg
+header:
+  teaser: /assets/images/2005/11/tomtomrider.box_.jpg
 ---
 
 | ![](/assets/images/2005/11/tomtomrider.box_.jpg) | I am still waiting for the [TomTom Rider](http://www.tomtom.com/products/product.php?ID=80&Language=4), as soon as I it can be ordered, I will post a better review and provide Here a HowTo and some files if needed. Click on Read more |

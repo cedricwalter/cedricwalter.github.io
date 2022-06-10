@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=575'
 permalink: /gadget/parts-needed/
-image: /wp-content/uploads/2004/08/wakue02.gif
+header:
+  teaser: /assets/images/2004/08/wakue02.gif
 ---
 
 build your kit at [www.watercooling.de](http://www.watercooling.de/)

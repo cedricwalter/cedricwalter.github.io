@@ -8,7 +8,8 @@ guid: 'https://waltercedric.com/?p=12859'
 permalink: /holidays/visiting-the-bar-rouge-in-swissotel-singapore/
 ngg_post_thumbnail:
     - '0'
-image: /wp-content/uploads/2020/04/Bar-Rouge-SwissÔtel-6.jpg
+header:
+  teaser: /assets/images/2020/04/Bar-Rouge-SwissÔtel-6.jpg
 tags:
     - asia
     - city

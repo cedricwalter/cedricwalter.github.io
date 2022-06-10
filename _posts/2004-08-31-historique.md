@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=512'
 permalink: /scooter/historique/
-image: /wp-content/uploads/2004/08/d51.jpg
+header:
+  teaser: /assets/images/2004/08/d51.jpg
 tags:
 - scooter
 - scooters

@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4327'
 permalink: /development/subversion-and-mod-security/
-image: /wp-content/uploads/2009/05/plesk.logo_.jpg
+header:
+  teaser: /assets/images/2009/05/plesk.logo_.jpg
 ---
 
 ![plesk.logo](/assets/images/2009/05/plesk.logo_.jpg "plesk.logo") ![subversion_logo384x332](/assets/images/2009/05/subversion_logo384x332.png "subversion_logo384x332")

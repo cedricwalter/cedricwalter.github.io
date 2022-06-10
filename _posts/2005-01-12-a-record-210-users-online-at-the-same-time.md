@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=1476'
 permalink: /internet/a-record-210-users-online-at-the-same-time/
-image: /wp-content/uploads/2005/01/record210usersonline.png
+header:
+  teaser: /assets/images/2005/01/record210usersonline.png
 tags:
     - homepage
 ---

@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=1018'
 permalink: /hobbies/for-simulator/
-image: /wp-content/uploads/2004/09/TN_radio_ordi.JPG
+header:
+  teaser: /assets/images/2004/09/TN_radio_ordi.JPG
 tags:
     - electronic
     - 'RC helicopter'

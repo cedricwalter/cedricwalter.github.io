@@ -8,7 +8,8 @@ guid: 'https://waltercedric.com/?p=12543'
 permalink: /development/we-raise-awareness-on-food-waste-and-emergency-stock-hoarding-in-times-of-covid-19/
 ngg_post_thumbnail:
     - '0'
-image: /wp-content/uploads/2020/04/The-Selfish-Hamster.png
+header:
+  teaser: /assets/images/2020/04/The-Selfish-Hamster.png
 tags:
     - competition
     - covid19

@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4515'
 permalink: /open-source/vlc-videolan-reach-version-1-0/
-image: /wp-content/uploads/2009/07/videolan.1.0.png
+header:
+  teaser: /assets/images/2009/07/videolan.1.0.png
 tags:
     - box
     - customizable

@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3422'
 permalink: /joomla/regression-testing-of-securityimages-5-0-x/
-image: /wp-content/uploads/2008/04/com_securityimages_thumb.png
+header:
+  teaser: /assets/images/2008/04/com_securityimages_thumb.png
 ---
 
 [![com_securityimages](/assets/images/2008/04/com_securityimages_thumb.png) ![joomla_1.5](/assets/images/2008/04/joomla_1.5_thumb.gif)](/assets/images/2008/04/com_securityimages.png)[![open.qa.logo](/assets/images/2008/04/open.qa_.logo_thumb.gif)](/assets/images/2008/04/open.qa_.logo_.gif)

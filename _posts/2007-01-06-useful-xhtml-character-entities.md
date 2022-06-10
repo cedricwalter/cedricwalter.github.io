@@ -11,7 +11,7 @@ tags:
     - references
 ---
 
-<span style="font-weight: bold;">Useful reference table when developing XHTML or #Java Server Faces (JSF) of facelets…
+Useful reference table when developing XHTML or #Java Server Faces (JSF) of facelets…
 
 | nbsp |  | &amp;#160; | no-break space = non-breaking space, |
 |---|---|---|---|

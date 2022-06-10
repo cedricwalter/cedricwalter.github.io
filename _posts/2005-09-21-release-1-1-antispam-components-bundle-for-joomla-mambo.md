@@ -13,19 +13,19 @@ tags:
     - securityimages
 ---
 
-<span style="font-weight: bold;">Anti Spam a set of components For #Joomla/Mambo in version 1.1
+Anti Spam a set of components For #Joomla/Mambo in version 1.1
 
-- <span style="font-style: italic;">com\_log4php, (logging)
-- <span style="font-style: italic;">com\_hashcash, (using cryptographic hashcash)
-- <span style="font-style: italic;">com\_securityimages (CAPTCHA)
+- com\_log4php, (logging)
+- com\_hashcash, (using cryptographic hashcash)
+- com\_securityimages (CAPTCHA)
 
 contains also modified versions of
 
-- <span style="font-style: italic;">com\_akobbok, (guestbook system)<span style="font-style: italic;">
-- <span style="font-style: italic;">com\_akocomment, (commenting system))<span style="font-style: italic;">
-- <span style="font-style: italic;">com\_contact (contact formular from core #Joomla/Mambo engine)
+- com\_akobbok, (guestbook system)
+- com\_akocomment, (commenting system))
+- com\_contact (contact formular from core #Joomla/Mambo engine)
 
-<span style="font-weight: bold;">I want it!!!!
+I want it!!!!
 
 - Bundle Download available in section … "downloads"
 - Documentation available online, click read more
@@ -37,12 +37,12 @@ I will this week as well:
 2. Commit the latest code to all 4 projects com\_log4php, com\_hashcash, com\_securityimages and com\_bayesianNaiveFilter
 3. Commit modified version of com\_akobbok, com\_akocomment, com\_contact
 
-<span style="font-weight: bold;">com\_bayesianNaiveFilter is a new component (core done admin panel done, localization done), I have to integrate it into some 3rd party components <span style="font-style: italic;">(com\_akobbok, <span style="font-style: italic;">com\_akocomment, <span style="font-style: italic;">com\_contact)
+com\_bayesianNaiveFilter is a new component (core done admin panel done, localization done), I have to integrate it into some 3rd party components (com\_akobbok, com\_akocomment, com\_contact)
 
-<span style="font-weight: bold;">Bayesian Naive Filter are spam filter that evaluates email message content to determine the probability that it is spam. Bayesian filters are adaptable and can learn to identify new patterns of spam by analyzing incoming email.. Instead of identifying subject line or headers of the email, Bayesian filter will review the content of the email to prevent or block spamming. Bayesian filtering is the process of using Bayesian statistical methods to classify documents into categories.
+Bayesian Naive Filter are spam filter that evaluates email message content to determine the probability that it is spam. Bayesian filters are adaptable and can learn to identify new patterns of spam by analyzing incoming email.. Instead of identifying subject line or headers of the email, Bayesian filter will review the content of the email to prevent or block spamming. Bayesian filtering is the process of using Bayesian statistical methods to classify documents into categories.
 
 At the end of the <span style="text-decoration: line-through;">day year #Joomla or Mambo will have 3 methods to protect its contents from spammers:
 
 using captcha, using crypto hashkey, or with learning filters (all these methods can be defeat through)  
   
-<span style="font-weight: bold;">Open Source? its all about choice! Enjoy.
+Open Source? its all about choice! Enjoy.

@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=6591'
 permalink: /linux/linux-what-to-monitor-v1-0-0/
-image: /wp-content/uploads/2011/05/linux.png
+header:
+  teaser: /assets/images/2011/05/linux.png
 tags:
     - linux
     - make

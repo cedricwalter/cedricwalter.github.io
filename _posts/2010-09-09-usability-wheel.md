@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=5998'
 permalink: /open-source/usability-wheel/
-image: /wp-content/uploads/2010/09/usability.wheel_thumb.png
+header:
+  teaser: /assets/images/2010/09/usability.wheel_thumb.png
 tags:
     - business
     - management

@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=8052'
 permalink: /hobbies/hp-calculator-museum-hp39-student-graphic-calculator-2003/
-image: /wp-content/uploads/2013/06/HP39Plus_header_thumb.png
+header:
+  teaser: /assets/images/2013/06/HP39Plus_header_thumb.png
 tags:
     - calculator
     - graphing

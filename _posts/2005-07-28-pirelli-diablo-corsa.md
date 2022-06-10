@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=1962'
 permalink: /motorcycles/pirelli-diablo-corsa/
-image: /wp-content/uploads/2005/07/Pirelli-diablo-corsa-z.jpg
+header:
+  teaser: /assets/images/2005/07/Pirelli-diablo-corsa-z.jpg
 tags:
     - construction
     - controlling

@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3304'
 permalink: /homepage/wysiwyg-interface-for-mediawiki/
-image: /wp-content/uploads/2008/03/wysiwyg.editor.mediawiki.gif
+header:
+  teaser: /assets/images/2008/03/wysiwyg.editor.mediawiki.gif
 ---
 
 I’ve just updated my [WIKI](http://wiki.waltercedric.com) to the latest version 1.12 AND it now work with FCK editor! This remove all the pain to learn and imaging how the result will look like while editing [WIKI](http://wiki.waltercedric.com) pages!

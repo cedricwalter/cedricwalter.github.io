@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4163'
 permalink: /open-source/debian-gnu-linux-5-0-lenny-released/
-image: /wp-content/uploads/2009/02/openlogond50_thumb.png
+header:
+  teaser: /assets/images/2009/02/openlogond50_thumb.png
 ---
 
 [![openlogo-nd-50](/assets/images/2009/02/openlogond50_thumb.png)](/assets/images/2009/02/openlogond50.png) [![debian](/assets/images/2009/02/debian_thumb.png)](/assets/images/2008/08/debian.png)

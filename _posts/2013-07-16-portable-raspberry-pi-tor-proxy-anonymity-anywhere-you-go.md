@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=8099'
 permalink: /linux/portable-raspberry-pi-tor-proxy-anonymity-anywhere-you-go/
-image: /wp-content/uploads/2013/07/PortableRaspberryPiTorproxy_thumb.jpg
+header:
+  teaser: /assets/images/2013/07/PortableRaspberryPiTorproxy_thumb.jpg
 tags:
     - raspbian
 ---

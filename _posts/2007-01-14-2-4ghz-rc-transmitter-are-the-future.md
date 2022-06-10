@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2839'
 permalink: /hobbies/2-4ghz-rc-transmitter-are-the-future/
-image: /wp-content/uploads/2020/07/Futaba-FF9-2.jpg
+header:
+  teaser: /assets/images/2020/07/Futaba-FF9-2.jpg
 tags:
     - electronic
     - 'RC helicopter'
@@ -21,7 +22,7 @@ I am the proud owner of a Futaba Force field 9 (aka FF9) working in PCM mode 41.
 
 Spektrum DX7 2.4GHz from [www.spektrumrc.com](http://www.spektrumrc.com/)  
   
-<span style="font-weight: bold;">In one sentence:   
+In one sentence:   
 2.4GHz, frequencies collision detection, 4.2Billions keys, 79 persons flying at the same time, bi-directional protocol, no more RF interferences (because only acting at 35Mhz)!  
 The dream of all helicopter pilot. Currently only [Spektrum ](http://www.spektrumrc.com/)is proposing a transmitter: [the DX7](http://www.spektrumrc.com/Products/Default.aspx?ProdID=SPM2712)
 

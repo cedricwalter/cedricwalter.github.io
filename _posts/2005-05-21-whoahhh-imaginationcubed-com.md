@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=1755'
 permalink: /gadget/whoahhh-imaginationcubed-com/
-image: /wp-content/uploads/2005/05/www.imaginationcubed.com_.png
+header:
+  teaser: /assets/images/2005/05/www.imaginationcubed.com_.png
 tags:
     - beautiful
     - colleagues

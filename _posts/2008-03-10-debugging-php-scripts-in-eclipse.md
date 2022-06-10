@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3258'
 permalink: /linux/debugging-php-scripts-in-eclipse/
-image: /wp-content/uploads/2008/03/3433d4e09c154bdab168cf2c1c685f0d.jpg
+header:
+  teaser: /assets/images/2008/03/3433d4e09c154bdab168cf2c1c685f0d.jpg
 ---
 
 Debugger are full-featured PHP debugger engine. They are interactive tools that allows   

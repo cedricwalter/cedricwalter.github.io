@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=7785'
 permalink: /games/neogeo-x-gold-entertainment-system/
-image: /wp-content/uploads/2012/10/NGXG_logo_thumb.jpg
+header:
+  teaser: /assets/images/2012/10/NGXG_logo_thumb.jpg
 tags:
     - about
     - anniversary

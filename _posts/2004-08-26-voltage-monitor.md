@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=152'
 permalink: /hobbies/voltage-monitor/
-image: /wp-content/uploads/2004/08/fixingLedMonitor.JPG
+header:
+  teaser: /assets/images/2004/08/fixingLedMonitor.JPG
 tags:
     - frame
     - kyosho

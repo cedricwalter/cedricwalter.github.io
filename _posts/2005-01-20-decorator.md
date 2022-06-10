@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=1491'
 permalink: /development/decorator/
-image: /wp-content/uploads/2005/01/java-pattern-decorator.png
+header:
+  teaser: /assets/images/2005/01/java-pattern-decorator.png"
 tags:
     - functionality
 ---

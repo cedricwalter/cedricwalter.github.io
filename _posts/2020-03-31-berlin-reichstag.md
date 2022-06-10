@@ -8,7 +8,8 @@ guid: 'https://waltercedric.com/?p=11800'
 permalink: /holidays/berlin-reichstag/
 ngg_post_thumbnail:
     - '0'
-image: /wp-content/uploads/2020/03/berlin-reichstag-21.jpg
+header:
+  teaser: /assets/images/2020/03/berlin-reichstag-21.jpg
 tags:
     - berlin
     - germany

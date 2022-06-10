@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3928'
 permalink: /gadget/htc-touch-hd-review/
-image: /wp-content/uploads/2008/11/htctouchhd1_thumb.jpg
+header:
+  teaser: /assets/images/2008/11/htctouchhd1_thumb.jpg
 ---
 
 Are popping up on the Internet. This great phone is also now available in Switzerland as well 🙂

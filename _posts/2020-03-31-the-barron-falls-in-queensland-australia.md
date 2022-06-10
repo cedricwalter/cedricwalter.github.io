@@ -8,7 +8,8 @@ guid: 'https://waltercedric.com/?p=12409'
 permalink: /holidays/the-barron-falls-in-queensland-australia/
 ngg_post_thumbnail:
     - '0'
-image: /wp-content/uploads/2020/03/Barron-Falls-in-Queensland-Australia-2.jpg
+header:
+  teaser: /assets/images/2020/03/Barron-Falls-in-Queensland-Australia-2.jpg
 tags:
     - Australia
     - queensland

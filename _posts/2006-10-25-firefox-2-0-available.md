@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2733'
 permalink: /internet/firefox-2-0-available/
-image: /wp-content/uploads/2006/04/firefox-logo.jpg
+header:
+  teaser: /assets/images/2006/04/firefox-logo.jpg
 tags:
     - browser
     - navigator

@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3522'
 permalink: /development/maven-reusing-test-classes-across-multi-modules-projects/
-image: /wp-content/uploads/2008/07/mavenlogo2_thumb.gif
+header:
+  teaser: /assets/images/2008/07/mavenlogo2_thumb.gif
 tags:
     - apache
     - java

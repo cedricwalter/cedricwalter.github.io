@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=54'
 permalink: /hobbies/what-to-lubrificate/
-image: /wp-content/uploads/2004/08/What2Oil.gif
+header:
+  teaser: /assets/images/2004/08/What2Oil.gif
 tags:
     - corresponding
     - helicopter

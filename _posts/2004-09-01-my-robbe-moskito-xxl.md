@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=858'
 permalink: /hobbies/my-robbe-moskito-xxl/
-image: /wp-content/uploads/2004/09/bigview.JPG
+header:
+  teaser: /assets/images/2004/09/bigview.JPG"
 tags:
     - battery
     - co

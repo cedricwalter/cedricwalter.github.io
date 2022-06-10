@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=8767'
 permalink: /gadget/iphone-11-pro-vs-the-competition/
-image: /wp-content/uploads/2019/09/IPHONE-11-PRO.jpg
+header:
+  teaser: /assets/images/2019/09/IPHONE-11-PRO.jpg
 tags:
     - apple
     - iphone

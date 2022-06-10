@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3201'
 permalink: /today-on-earth/found-that-on-copainsdavant-linternaute-com/
-image: /wp-content/uploads/2008/02/ECOLE.PRINCIPALE.FROENINGEN.classe.CP_.1983.jpg
+header:
+  teaser: /assets/images/2008/02/ECOLE.PRINCIPALE.FROENINGEN.classe.CP_.1983.jpg
 tags:
     - france
 ---

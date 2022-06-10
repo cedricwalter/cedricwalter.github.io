@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=1012'
 permalink: /hobbies/for-gyroscopes/
-image: /wp-content/uploads/2004/09/CSM_540_gyro.gif
+header:
+  teaser: /assets/images/2004/09/CSM_540_gyro.gif
 tags:
     - electronic
     - 'RC helicopter'

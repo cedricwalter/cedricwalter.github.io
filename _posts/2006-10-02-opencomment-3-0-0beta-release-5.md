@@ -10,20 +10,20 @@ tags:
     - joomla
 ---
 
-<span style="font-weight: bold;">This new version is now able to 
+This new version is now able to 
 
 - Output Linear or threaded comments (a faster algorithm),
 - 5 More settings in administrator panel.
 - XAJAX 0.2.4
 
- Experience it live at <big><big>[demo.waltercedric.com](http://demo.waltercedric.com/)<span style="font-weight: bold;"> </big></big>
+ Experience it live at <big><big>[demo.waltercedric.com](http://demo.waltercedric.com/) </big></big>
 
- <span style="font-weight: bold;">What is still avoiding a final release?
+What is still avoiding a final release?
 
 - Bug in XML installer, somehow not all files are copied during install, note this do not affect my developer environment (Windows + eclipse + PHP 4.1.3). I can reproduce the issue on my #Linux box but still can not explain it as XML Spy 2006 report a valid setup file.
 - Your review and suggestions
 
- <span style="font-weight: bold;">What is really needed in a future release:
+What is really needed in a future release:
 
 - Priority 2: Templating output, to accommodate the sake of diversity #Joomla! users expect.
 - Priority 1: Avoid hard coding layout using HTML table and switch to a CSS and more flexible technology: Is there someone that can help me? The objective is to define to set of CSS classes to precisely place element in the form, list of comments.

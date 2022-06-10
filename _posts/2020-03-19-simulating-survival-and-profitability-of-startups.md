@@ -8,7 +8,8 @@ guid: 'https://waltercedric.com/?p=10597'
 permalink: /development/simulating-survival-and-profitability-of-startups/
 ngg_post_thumbnail:
     - '0'
-image: /wp-content/uploads/2020/03/startup.jpg
+header:
+  teaser: /assets/images/2020/03/startup.jpg
 tags:
     - business
     - digital

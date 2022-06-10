@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3694'
 permalink: /joomla/virtuemart-1-1-2-and-securityimages-5/
-image: /wp-content/uploads/2008/08/header_logo_thumb.png
+header:
+  teaser: /assets/images/2008/08/header_logo_thumb.png
 ---
 
 ##### [![header_logo](/assets/images/2008/08/header_logo_thumb.png)](/assets/images/2008/08/header_logo.png) [![love](/assets/images/2008/08/love_thumb.png)](/assets/images/2008/08/love.png) [![com_securityimages](/assets/images/2008/08/com_securityimages_thumb.jpg)](/assets/images/2008/08/com_securityimages.jpg)

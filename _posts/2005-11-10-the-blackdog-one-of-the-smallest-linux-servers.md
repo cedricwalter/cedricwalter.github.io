@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2099'
 permalink: /gadget/the-blackdog-one-of-the-smallest-linux-servers/
-image: /wp-content/uploads/2005/11/blackdog-linux-server.gif
+header:
+  teaser: /assets/images/2005/11/blackdog-linux-server.gif
 tags:
     - completely
     - computer

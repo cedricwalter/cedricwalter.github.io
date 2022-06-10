@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=7739'
 permalink: /joomla/add2home-1-6-6-for-j2-5-released/
-image: /wp-content/uploads/2011/09/add2Home_ipod_iphone_ipad_joomla_000_thumb.png
+header:
+  teaser: /assets/images/2011/09/add2Home_ipod_iphone_ipad_joomla_000_thumb.png
 tags:
     - joomla
 ---

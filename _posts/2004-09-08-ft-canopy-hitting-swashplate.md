@@ -7,10 +7,11 @@ author: 'Cédric Walter'
 guid: 'https://waltercedric.com/new/?p=1118'
 permalink: /hobbies/ft-canopy-hitting-swashplate/
 tags:
-    - dangerous
-    - kyosho
-    - 'RC helicopter'
-    - swashplate
+- dangerous
+- kyosho
+- 'RC helicopter'
+- swashplate
 ---
 
-It can be very dangerous to have your swashplatte being caught while flying by the correct FT canopy (fiber). You will have to remove a small amount of material in order to fly safe. (use a dremel)
+It can be very dangerous to have your swashplatte being caught while flying by the correct FT canopy (fiber). You will
+have to remove a small amount of material in order to fly safe. (use a dremel)

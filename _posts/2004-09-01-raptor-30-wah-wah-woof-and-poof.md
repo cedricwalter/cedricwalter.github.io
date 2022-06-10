@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=914'
 permalink: /hobbies/raptor-30-wah-wah-woof-and-poof/
-image: /wp-content/uploads/2004/09/raptor.jpg
+header:
+  teaser: /assets/images/2004/09/raptor.jpg
 tags:
     - raptor
     - 'RC helicopter'

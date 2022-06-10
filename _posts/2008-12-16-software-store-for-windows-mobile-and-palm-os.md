@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3982'
 permalink: /gadget/software-store-for-windows-mobile-and-palm-os/
-image: /wp-content/uploads/2008/12/52a9a4ce31e64cc4aca1b3c4a66d0388.jpg
+header:
+  teaser: /assets/images/2008/12/52a9a4ce31e64cc4aca1b3c4a66d0388.jpg
 ---
 
 Palm has shot first!

@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4393'
 permalink: /internet/pluton-moon-and-firefox-online/
-image: /wp-content/uploads/2009/06/pluton.waltercedric.com_.png
+header:
+  teaser: /assets/images/2009/06/pluton.waltercedric.com_.png
 tags:
     - homepage
 ---

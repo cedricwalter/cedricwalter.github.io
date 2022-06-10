@@ -7,14 +7,17 @@ author: 'Cédric Walter'
 guid: 'https://waltercedric.com/new/?p=1688'
 permalink: /open-source/project-scribble-at-sourceforge/
 tags:
-    - development
-    - dictionnary
-    - independent
+- development
+- dictionnary
+- independent
 ---
 
- I have convince Ianl Ford to publish the source code of it’s [game Scribble screenshot here](http://www.ianford.com/scribble/), to sourceforge [Project: Scribble Game](http://sourceforge.net/projects/scribble/)  
-  
-A word game featuring double-letter score, triple-word score, etc. You play against the fast and furious robot. 100% #Java. The project could use a look-ahead algorithm and some better choices of dictionaries.  
+I have convince Ianl Ford to publish the source code of
+it’s [game Scribble screenshot here](http://www.ianford.com/scribble/), to
+sourceforge [Project: Scribble Game](http://sourceforge.net/projects/scribble/)
+
+A word game featuring double-letter score, triple-word score, etc. You play against the fast and furious robot. 100%
+#Java. The project could use a look-ahead algorithm and some better choices of dictionaries.  
 Development Status: 5 – Production/Stable
 
 - Intended Audience: Developers, Education

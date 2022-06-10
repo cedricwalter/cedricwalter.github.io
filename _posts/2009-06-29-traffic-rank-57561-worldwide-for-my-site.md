@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4488'
 permalink: /homepage/traffic-rank-57561-worldwide-for-my-site/
-image: /wp-content/uploads/2009/06/alexa.waltercedric.com_.png
+header:
+  teaser: /assets/images/2009/06/alexa.waltercedric.com_.png
 ---
 
 I would like to thank you all for all the visits in my blog, all the nice comments I have got everywhere ([forums](http://forums.waltercedric.com), [gallery](http://gallery.waltercedric.com), [blog](http://www.waltercedric.com)), all the votes on my works, all the sweet emails and.. yes, everything! Thank you to you all for making 2009 to a amazing year for me, and to inspire me to continue with my work and wanting to share it with you all, – THANK YOU!

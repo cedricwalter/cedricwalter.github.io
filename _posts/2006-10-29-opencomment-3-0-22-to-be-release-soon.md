@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2746'
 permalink: /joomla/opencomment-3-0-22-to-be-release-soon/
-image: /wp-content/uploads/2006/10/tn_whats.Next_.In_.OpenComment-3.0.22.png
+header:
+  teaser: /assets/images/2006/10/tn_whats.Next_.In_.OpenComment-3.0.22.png
 tags:
     - joomla
 ---
@@ -14,11 +15,11 @@ tags:
 It will be a huge patch release this time. Let me first start with the new features list…
 
 - <span style="font-weight: bold; color: rgb(51, 51, 255);">NEW: Search contains the word "search" now as default.
-- <span style="font-weight: bold; color: rgb(51, 51, 255);">NEW: <span style="font-weight: bold;">Following rules apply now to the form field "Name":  
+- <span style="font-weight: bold; color: rgb(51, 51, 255);">NEW:Following rules apply now to the form field "Name":  
     If a user is logged in, he can not change his name  
     If a guest is around, he can change his name only if the admin settings "name field: No Yes Is the field name read only?" is set to NO
-- <span style="font-weight: bold; color: rgb(51, 51, 255);">NEW: <span style="font-weight: bold;"> Avoid logged in user to rate up and down his own comments (he will never be able to rate them). But logged in user can rate his comments as guest!
-- <span style="font-weight: bold; color: rgb(51, 51, 255);">NEW:  <span style="font-weight: bold;">Auto moderation function: this do not auto publish automatically comments based on external conditions.  
+- <span style="font-weight: bold; color: rgb(51, 51, 255);">NEW: Avoid logged in user to rate up and down his own comments (he will never be able to rate them). But logged in user can rate his comments as guest!
+- <span style="font-weight: bold; color: rgb(51, 51, 255);">NEW: Auto moderation function: this do not auto publish automatically comments based on external conditions.  
     done: check if one url is in comment or title  
     future: check if comment contains at least one or more bad words.
 - <span style="font-weight: bold; color: rgb(51, 51, 255);">NEW:  Use a lot of new CSS tags.
@@ -37,12 +38,12 @@ And the never ending list of bugs corrected…
 - <span style="font-weight: bold; color: rgb(255, 102, 102);">BUG: Replying to a comment with special characters in the title was not working, tested in Firefox and IE
 - <span style="font-weight: bold; color: rgb(255, 102, 102);">BUG: Back end: Settings/InputForm/name field = Yes. BUT… name field in comment input form is still editable.
 
-<span style="font-weight: bold;">Translations, new keys are in each language file.  
+Translations, new keys are in each language file.  
 
 
 - Dear translations team, Ive duplicated new English keys in other files. (Hungarian, german)
 
-<span style="font-weight: bold;">Anti Spamming measures  
+Anti Spamming measures  
 OpenComment do not need Captcha (com\_securityimages component) or Hashcash (com\_Hashcash). And this because OpenComment use internally a sort of HASHCASH. This should be more than enough against spammers, If it ever failed, I will switch Captcha on in less than a day. I simply do not want to force users resolving a Captcha when I can propose something different.
 
 Here also a freemind mindmap with what should be in that release.

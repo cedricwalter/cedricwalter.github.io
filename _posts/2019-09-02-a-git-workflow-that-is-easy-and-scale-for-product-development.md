@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=8766'
 permalink: /development/a-git-workflow-that-is-easy-and-scale-for-product-development/
-image: /wp-content/uploads/2017/04/git-logo.jpg
+header:
+  teaser: /assets/images/2017/04/git-logo.jpg
 tags:
     - bugs
     - centralized

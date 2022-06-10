@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=8751'
 permalink: /development/systematization-of-knowledge-within-major-blockchain-protocols-or-consensus/
-image: /wp-content/uploads/2019/03/blockchain.jpg
+header:
+  teaser: /assets/images/2019/03/blockchain.jpg
 tags:
     - blockchain
     - challenges

@@ -176,10 +176,10 @@ finding it may not be easy…
 
 If the system crash, or run in troubles, try to create a journal written on the disk, it can contains
 
-| **Example of journal**                                                                                                                                                                                                                                                                                      |
+| **Example of
+journal**                                                                                                                                                                                                                                                                                      |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| – Date: 13.02.2004   – Application name:   – Cause: application.io.database.CanNotOpenDB   – Stacktrace: – memory state   – user name to contact, useful in order to reproduce the bug   – Meaningful state of the application like    \* http user session   \* main data structure: previous action done, |
-
+| – Date: 13.02.2004 – Application name:   – Cause: application.io.database.CanNotOpenDB – Stacktrace: – memory state – user name to contact, useful in order to reproduce the bug – Meaningful state of the application like \* http user session \* main data structure: previous action done, |
 
 # Advantages:**
 
@@ -220,6 +220,7 @@ Capitalize problems and resolutions in a central place!
 # Log4j**
 
 # Junit** "Developers write code. Unfortunately, developers also write defects, most of which are injected during the
+
 initial coding phase. The cheapest place to fix these defects is, likewise, during the initial phases of development. If
 you wait until function or system testing to catch and fix defects, your software development costs will be much higher.
 In this article , authors Scott Will, Ted Rivera, and Adam Tate discuss some basic "defensive" coding and unit testing

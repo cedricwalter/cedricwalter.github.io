@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3191'
 permalink: /software/maximise-you-screen-with-winsplit-revolution/
-image: /wp-content/uploads/2008/02/winsplit.revolution.tray2_.jpg
+header:
+  teaser: /assets/images/2008/02/winsplit.revolution.tray2_.jpg
 ---
 
  WinSplit Revolution is a small utility which allows you to easily organize your open windows by tiling, resizing and positioning your windows to make the best use of your desktop real estate.

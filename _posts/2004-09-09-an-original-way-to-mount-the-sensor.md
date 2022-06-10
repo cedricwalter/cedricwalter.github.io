@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=1212'
 permalink: /hobbies/an-original-way-to-mount-the-sensor/
-image: /wp-content/uploads/2004/09/Field_Day_2004_005-.jpg
+header:
+  teaser: /assets/images/2004/09/Field_Day_2004_005-.jpg
 tags:
     - creative
     - directly

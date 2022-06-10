@@ -34,7 +34,7 @@ tags:
 - [com\_log4php change request](http://wiki.waltercedric.com/index.php?title=Com_log4php_change_request&action=edit "Com log4php change request")
 - [com\_contact change request](http://wiki.waltercedric.com/index.php?title=Com_contact_change_request&action=edit "Com contact change request")
 
- <span style="font-weight: bold;">  
+  
  You have found bugs?   
  Please, do not contact me and ask for support on my homepage, ALL Projects are now hosted at #Joomlaforge and have each one their Tracker
 

@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=907'
 permalink: /hobbies/how-to-control-input-stick/
-image: /wp-content/uploads/2004/09/Inputresult.gif
+header:
+  teaser: /assets/images/2004/09/Inputresult.gif
 tags:
     - 'RC helicopter'
     - Techniques

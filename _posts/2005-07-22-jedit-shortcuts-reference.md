@@ -8,7 +8,7 @@ guid: 'https://waltercedric.com/new/?p=1937'
 permalink: /java/jedit-shortcuts-reference/
 ---
 
-<font color="#000000" size="4">**Keyboard Shortcuts**
+**Keyboard Shortcuts**
 
 ## # id2869496"></a>Files
 

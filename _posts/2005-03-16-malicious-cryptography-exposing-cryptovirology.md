@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=1622'
 permalink: /security/malicious-cryptography-exposing-cryptovirology/
-image: /wp-content/uploads/2005/03/Malicious-Cryptography-ExposingCryptovirology-wiley.jpg
+header:
+  teaser: /assets/images/2005/03/Malicious-Cryptography-ExposingCryptovirology-wiley.jpg
 tags:
     - interesting
 ---

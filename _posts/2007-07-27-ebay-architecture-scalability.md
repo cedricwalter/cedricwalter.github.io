@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3037'
 permalink: /internet/ebay-architecture-scalability/
-image: /wp-content/uploads/2007/07/ebay.logo_.gif
+header:
+  teaser: /assets/images/2007/07/ebay.logo_.gif
 tags:
     - faster
     - optimization

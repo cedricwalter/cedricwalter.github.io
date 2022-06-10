@@ -15,7 +15,7 @@ ZFS has so much promise that it sound to good to be true! I will make an extensi
 
 [From ZFS: Threat or Menace? Pt. I](http://storagemojo.com/?page_id=122 "ZFS: Threat or Menace? Pt. I")
 
-<span style="font-style: italic;">…. In a storage industry where the hardware cost to protect data keeps rising, ZFS represents a software solution to the problem of wobbly disks and data corruption. Thus it is a threat to hardened disk array model of very expensive engineering on the outside to protect the soft underbelly of ever-cheaper disks on the inside…  
+…. In a storage industry where the hardware cost to protect data keeps rising, ZFS represents a software solution to the problem of wobbly disks and data corruption. Thus it is a threat to hardened disk array model of very expensive engineering on the outside to protect the soft underbelly of ever-cheaper disks on the inside…  
 [and part 2 is also here](http://storagemojo.com/?page_id=151)
 
 And I also found [some benchmarks against EXT3, ResierFS, UFS](http://cmynhier.blogspot.com/2006/05/zfs-benchmarking.html)

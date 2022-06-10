@@ -8,7 +8,8 @@ guid: 'https://waltercedric.com/?p=12980'
 permalink: /gadget/bitcoin-ethereum-price-monitoring-on-your-raspberry-pi/
 ngg_post_thumbnail:
     - '0'
-image: /wp-content/uploads/2020/04/bitcoin-monitor.png
+header:
+  teaser: /assets/images/2020/04/bitcoin-monitor.png
 tags:
     - bitcoin
     - raspberrypi

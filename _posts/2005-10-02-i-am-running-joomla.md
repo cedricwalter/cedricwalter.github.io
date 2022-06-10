@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2039'
 permalink: /internet/i-am-running-joomla/
-image: /wp-content/uploads/2005/10/Joomla-Logo-Horz-Color-Thumbnail.png
+header:
+  teaser: /assets/images/2005/10/Joomla-Logo-Horz-Color-Thumbnail.png
 tags:
     - configuration
     - homepage
@@ -18,7 +19,7 @@ tags:
 ![](/assets/images/2005/10/Joomla-Logo-Horz-Color-Thumbnail.png)  
 I have successfuly migrated my homepage from Mambo CMS to [Joomla](http://help.joomla.org) CMS.
 
-<span style="font-style: italic;">Joomla! is a production of Open Source Matters, the same team that brought you the award winning Mambo Content Management System. OSM has taken their final stable version of Mambo (4.5.2.3), given it a spring clean and named it #Joomla! 1.0 In addition, several small features that were going to be released in #Joomla! 1.1 have been brought forward and included in this release.
+Joomla! is a production of Open Source Matters, the same team that brought you the award winning Mambo Content Management System. OSM has taken their final stable version of Mambo (4.5.2.3), given it a spring clean and named it #Joomla! 1.0 In addition, several small features that were going to be released in #Joomla! 1.1 have been brought forward and included in this release.
 
 I have decide to trust and follow the previous core of Mambo developer in they statement: "open source matters".  
 For some of You which are prepared to do the same, here is what I have done:

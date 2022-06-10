@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4621'
 permalink: /joomla/photowidget-1-1-0-avalaible/
-image: /wp-content/uploads/2009/09/photowidgetSmugmugHTML.png
+header:
+  teaser: /assets/images/2009/09/photowidgetSmugmugHTML.png
 ---
 
 [![logo_simplepie_horizontal](images/stories/PhotoWidget1.1.0_121E9/logo_simplepie_horizontal_thumb.png "logo_simplepie_horizontal")](images/stories/PhotoWidget1.1.0_121E9/logo_simplepie_horizontal.png) [![feature_feed](images/stories/PhotoWidget1.1.0_121E9/feature_feed_thumb.png "feature_feed")](images/stories/PhotoWidget1.1.0_121E9/feature_feed.png)

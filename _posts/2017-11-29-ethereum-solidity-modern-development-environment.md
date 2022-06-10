@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=8690'
 permalink: /development/ethereum-solidity-modern-development-environment/
-image: /wp-content/uploads/2017/02/Ethereum.png
+header:
+  teaser: /assets/images/2017/02/Ethereum.png
 tags:
     - blockchain
     - capabilities

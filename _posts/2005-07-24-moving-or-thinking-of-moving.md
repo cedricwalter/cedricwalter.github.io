@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=1951'
 permalink: /internet/moving-or-thinking-of-moving/
-image: /wp-content/uploads/2005/07/housingmaps-using-google-maps.jpg
+header:
+  teaser: /assets/images/2005/07/housingmaps-using-google-maps.jpg
 tags:
     - google
     - individual

@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=1513'
 permalink: /development/prototype/
-image: /wp-content/uploads/2005/01/java-pattern-prototype.png
+header:
+  teaser: /assets/images/2005/01/java-pattern-prototype.png
 tags:
     - interface
 ---

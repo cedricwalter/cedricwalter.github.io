@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3467'
 permalink: /development/joomla-development-correct-usage-of-subversion/
-image: /wp-content/uploads/2008/05/JoomlaLogo_thumb.gif
+header:
+  teaser: /assets/images/2008/05/JoomlaLogo_thumb.gif
 ---
 
 [![JoomlaLogo](/assets/images/2008/05/JoomlaLogo_thumb.gif)](/assets/images/2008/05/JoomlaLogo.gif) I am developing for #Joomla! now since the beginning but I was always disturbed by   

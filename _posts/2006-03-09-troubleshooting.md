@@ -12,10 +12,10 @@ tags:
     - securityimages
 ---
 
-<span style="FONT-WEIGHT: bold; COLOR: rgb(255,0,0); FONT-FAMILY: Arial Black">Golden Rules  
+Golden Rules  
 Do not contact me directly, this component is used worldwide (> 20 000 installations as today 2006.03.04) and I can not help personally all people.
 
-<span style="FONT-WEIGHT: bold; COLOR: rgb(255,0,0); FONT-FAMILY: Arial Black">If some problems arise
+If some problems arise
 
 - It may be a Bug, [so first consult the tracker at #Joomla Forge](http://forge.joomla.org/sf/tracker/do/listTrackers/projects.com_securityimages/tracker) to see if this issue is known. Please try to be as descriptive as possible: URL of your site, PHP info as a dump, error messages if available. You can enter a new bug in English, German or French, I can’t read any other languages sorry.
 - If your issue is not a previous or existing Bug, check if you have the latest version running, if not [upgrade to the latest](http://forge.joomla.org/sf/frs/do/viewSummary/projects.com_securityimages/frs), otherwise [enter a new Bug into the tracker](http://forge.joomla.org/sf/tracker/do/listTrackers/projects.com_securityimages/tracker).

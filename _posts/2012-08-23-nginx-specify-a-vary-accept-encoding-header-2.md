@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=7805'
 permalink: /joomla/nginx-specify-a-vary-accept-encoding-header-2/
-image: /wp-content/uploads/2012/01/Nginx-logo.png
+header:
+  teaser: /assets/images/2012/01/Nginx-logo.png
 tags:
     - caching
     - conf

@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=492'
 permalink: /scooter/datasheet-galley-of/
-image: /wp-content/uploads/2004/08/TN_001.JPG
+header:
+  teaser: /assets/images/2004/08/TN_001.JPG
 tags:
     - scooter
     - scooters

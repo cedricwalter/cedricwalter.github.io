@@ -6,10 +6,11 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4314'
 permalink: /software/optimize-vista-for-speed-lead-to-captcha-page-in-google/
-image: /wp-content/uploads/2009/05/google.flood_.vista_thumb.png
+header:
+  teaser: /assets/images/2009/05/google.flood_.vista_thumb.png
 ---
 
-Now the funny question! **<font size="5">🙂**
+Now the funny question! **🙂**
 
 Is Google under attack by a BOTNET or is it just real users seeking for solution ???
 

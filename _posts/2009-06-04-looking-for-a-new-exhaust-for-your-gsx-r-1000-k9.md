@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4371'
 permalink: /motorcycles/looking-for-a-new-exhaust-for-your-gsx-r-1000-k9/
-image: /wp-content/uploads/2009/06/Suzuki.GSXR_.1000.K9.original.exhaust2.jpg
+header:
+  teaser: /assets/images/2009/06/Suzuki.GSXR_.1000.K9.original.exhaust2.jpg
 ---
 
 ![](/assets/images/2009/06/Suzuki.GSXR_.1000.K9.original.exhaust2.jpg)![](/assets/images/2009/06/Suzuki.GSXR_.1000.K9.original.exhaust1.jpg)

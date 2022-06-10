@@ -8,7 +8,8 @@ guid: 'https://waltercedric.com/?p=12418'
 permalink: /holidays/st-columba-falls/
 ngg_post_thumbnail:
     - '0'
-image: /wp-content/uploads/2020/03/Mount-Victoria-Reserve-St-Columba-Falls-1.jpg
+header:
+  teaser: /assets/images/2020/03/Mount-Victoria-Reserve-St-Columba-Falls-1.jpg
 tags:
     - Australia
     - Tasmania

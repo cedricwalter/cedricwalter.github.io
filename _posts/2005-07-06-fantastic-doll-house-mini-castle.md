@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=1870'
 permalink: /hobbies/fantastic-doll-house-mini-castle/
-image: /wp-content/uploads/2005/07/index.jpg
+header:
+  teaser: /assets/images/2005/07/index.jpg
 tags:
     - Collectibles
     - 'Doll House'

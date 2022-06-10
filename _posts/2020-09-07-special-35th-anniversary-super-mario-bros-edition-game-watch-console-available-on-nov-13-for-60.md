@@ -9,7 +9,7 @@ permalink: /gadget/special-35th-anniversary-super-mario-bros-edition-game-watch-
 ngg_post_thumbnail:
     - '0'
 header:
-    teaser: "/assets/images/2020/09/super-mario-35th-anniversary-game-and-watch-e1610896625125.png"
+    teaser: /assets/images/2020/09/super-mario-35th-anniversary-game-and-watch-e1610896625125.png
 tags:
     - 'game&amp;watch'
     - games

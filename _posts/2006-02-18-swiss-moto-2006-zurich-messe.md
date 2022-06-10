@@ -15,4 +15,4 @@ tags:
 
 I was at the Swiss-Moto show 2006 and I take some pictures…[RDV in the gallery HERE](/index.php?option=com_zoom&Itemid=62&catid=6)
 
-# {mosgoogle}**
+# **

@@ -6,18 +6,19 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2645'
 permalink: /joomla/refactoring-bloggx/
-image: /wp-content/uploads/2006/04/bloggx_65.png
+header:
+  teaser: /assets/images/2006/04/bloggx_65.png
 tags:
     - joomla
 ---
 
  And Tadaaa I finish the refactoring of [BloggX](http://www.iobinary.com), a java GPL component:
 
-![](/assets/images/2006/04/bloggx_65.png) <span style="font-style: italic;">Blogg-X is a cross platform (OS X, Windows XP, #Linux) content management tool for websites based on the #Joomla! CMS. Blogg-X runs locally on your computer as a desktop application. Utilizing built in WYSIWYG and HTML source editors you can post rich content on your #Joomla! site without the use of the web browser.   
+![](/assets/images/2006/04/bloggx_65.png) Blogg-X is a cross platform (OS X, Windows XP, #Linux) content management tool for websites based on the #Joomla! CMS. Blogg-X runs locally on your computer as a desktop application. Utilizing built in WYSIWYG and HTML source editors you can post rich content on your #Joomla! site without the use of the web browser.   
    
  [Refactoring](http://www.refactoring.com/) is a technique for restructuring an existing code, altering its internal structure without changing its external behavior. Its heart is a series of small behavior preserving transformations. Each transformation (called a ‘refactoring’) does little, but a sequence of transformations can produce a significant restructuring. Since each refactoring is small, it’s less likely to go wrong. The system is also kept fully working after each small refactoring, reducing the chances that a system can get seriously broken during the restructuring  
    
- And I want to show here <span style="font-weight: bold;">some results achieved, The author has done a great job, and I have tried to bring my #Java expertise to help him bring new functionnalities faster. Moreover a JAVA break just for fun (but hehe I already do Java at work 🙂 ) was needed after being so frustrated with PHP…<big>  
+ And I want to show heresome results achieved, The author has done a great job, and I have tried to bring my #Java expertise to help him bring new functionnalities faster. Moreover a JAVA break just for fun (but hehe I already do Java at work 🙂 ) was needed after being so frustrated with PHP…<big>  
  </big>  
  But let me be a little more technical, below are some numbers create with a tool of IBM: [Structural Analysis for #Java:](http://www.alphaworks.ibm.com/tech/sa4j)  Structural Analysis for JavaTM (SA4J) is a technology that analyzes structural dependencies of Java applications in order to measure their stability. It detects structural "anti-patterns" (suspicious design elements) and provides dependency web browsing for detailed exploration of anti-patterns in the dependency web. SA4J also enables "what if" analysis in order to assess the impact of change on the functionality of the application; and it offers guidelines for package re-factoring.  
    

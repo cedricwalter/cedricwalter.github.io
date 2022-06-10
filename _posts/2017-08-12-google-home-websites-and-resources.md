@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=8646'
 permalink: /gadget/google-home-websites-and-resources/
-image: /wp-content/uploads/2017/08/google-home.png
+header:
+  teaser: /assets/images/2017/08/google-home.png
 tags:
     - gadget
     - google

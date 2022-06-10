@@ -8,7 +8,8 @@ guid: 'https://waltercedric.com/?p=12335'
 permalink: /holidays/little-sahara-in-the-australian-state-of-south-australia/
 ngg_post_thumbnail:
     - '0'
-image: /wp-content/uploads/2020/03/australia.victoria.little.sahara_00162.jpg
+header:
+  teaser: /assets/images/2020/03/australia.victoria.little.sahara_00162.jpg
 tags:
     - Australia
     - holidays

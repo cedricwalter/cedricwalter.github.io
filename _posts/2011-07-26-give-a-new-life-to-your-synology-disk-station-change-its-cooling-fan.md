@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=6946'
 permalink: /gadget/give-a-new-life-to-your-synology-disk-station-change-its-cooling-fan/
-image: /wp-content/uploads/2011/07/synology_nas_less_noise.jpg
+header:
+  teaser: /assets/images/2011/07/synology_nas_less_noise.jpg
 tags:
     - disk
     - give

@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3945'
 permalink: /joomla/continuous-build-server-for-joomla/
-image: /wp-content/uploads/2008/11/continuous.server.toolbox.for_.php_thumb.jpg
+header:
+  teaser: /assets/images/2008/11/continuous.server.toolbox.for_.php_thumb.jpg
 tags:
     - ant
     - built
@@ -38,7 +39,7 @@ tags:
 
 I **will** set up a **[continuous integration](http://en.wikipedia.org/wiki/Continuous_Integration)** build server at
 
-[<font size="5">http://continuousbuildserver.waltercedric.com](http://continuousbuildserver.waltercedric.com)
+[http://continuousbuildserver.waltercedric.com](http://continuousbuildserver.waltercedric.com)
 
 # Continuous integration** describes a set of [software engineering](http://en.wikipedia.org/wiki/Software_engineering) practices that speed up the delivery of software by decreasing integration times.
 

@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4838'
 permalink: /internet/ninite-install-multiple-application-at-once/
-image: /wp-content/uploads/2009/10/ninite.screenshots_thumb.png
+header:
+  teaser: /assets/images/2009/10/ninite.screenshots_thumb.png
 tags:
     - internet
     - web

@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=6833'
 permalink: /development/break-maven-build-when-there-is-a-dependency-conflict/
-image: /wp-content/uploads/2011/11/maven-logo-black-on-white-1.png
+header:
+  teaser: /assets/images/2011/11/maven-logo-black-on-white-1.png
 tags:
     - apache
     - break

@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4176'
 permalink: /hobbies/alien-vs-predator-stargate-art/
-image: /wp-content/uploads/2009/02/Predator-swissmotoshow-2009-021.jpg
+header:
+  teaser: /assets/images/2009/02/Predator-swissmotoshow-2009-021.jpg
 tags:
     - art
     - Bought

@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=905'
 permalink: /hobbies/comment-regler-un-helicoptere-rc-raptor-30-ou-caliber-30/
-image: /wp-content/uploads/2004/09/raptor.jpg
+header:
+  teaser: /assets/images/2004/09/raptor.jpg
 tags:
     - 'RC helicopter'
     - Techniques

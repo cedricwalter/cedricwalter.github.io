@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=157'
 permalink: /hobbies/remove-slope-in-mms-mode/
-image: /wp-content/uploads/2004/08/lateralSlopeMMS.jpg
+header:
+  teaser: /assets/images/2004/08/lateralSlopeMMS.jpg
 tags:
     - kyosho
     - originally

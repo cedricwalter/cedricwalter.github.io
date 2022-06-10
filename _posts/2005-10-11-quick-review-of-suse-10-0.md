@@ -22,14 +22,14 @@ Note that all 3 versions above share the same source code base (open source kern
 
 As usual, if You want to try for the first time a linux distribution, I recommend You to try the live DVD version (both 32 bits and 64 bits cpu version is available).
 
-{mosgoogle center}
 
-<span style="font-weight: bold;">My experience with Update
 
-1. HP nx7000 has been migrated succesffuly from suse 9.3 to 10 without any pain (reboot ladtop with dvd inside and choose installation then update) <span style="font-weight: bold;">Note that before updating I was forced to remove all major (and for me vital application): Videolan, mplayer, amule among others… The wireless and bluetooth card are working perfectly without any intervention (was not the case under 9.3 pro)
+My experience with Update
+
+1. HP nx7000 has been migrated succesffuly from suse 9.3 to 10 without any pain (reboot ladtop with dvd inside and choose installation then update)Note that before updating I was forced to remove all major (and for me vital application): Videolan, mplayer, amule among others… The wireless and bluetooth card are working perfectly without any intervention (was not the case under 9.3 pro)
 2. My destop during update always hang after 54 minutes (during install of rpm mms (a winamp like) install) I was force to do a fresh install. I am convince it can not be a SUSE fault.
 
-<span style="font-weight: bold;">Quick review: 
+Quick review: 
 
 - a lot more polished in KDE control center (thanks to KDE 3.4.2)
 
@@ -44,4 +44,3 @@ Links to reviews
 
 1. Mad penguin [http://madpenguin.org/cms/index.php/?m=show&amp;id=5382&amp;page=1](http://madpenguin.org/cms/index.php/?m=show&id=5382&page=1)
 
-{mosgoogle center}

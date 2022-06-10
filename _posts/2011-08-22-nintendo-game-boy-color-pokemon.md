@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=7088'
 permalink: /games/nintendo-game-boy-color-pokemon/
-image: /wp-content/uploads/2011/08/pokemon_logo.png
+header:
+  teaser: /assets/images/2011/08/pokemon_logo.png
 tags:
     - created
     - games

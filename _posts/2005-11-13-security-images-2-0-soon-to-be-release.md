@@ -27,10 +27,9 @@ tags:
 - Athron (Japanese translation team) from <http://www.jamambo.com> (Japan)
 - Gamesport from Missouri USA
 
-<span style="font-weight: bold;"><span style="font-weight: bold;">
+
 
 The wiki has [been updated with some screenshots](http://waltercedric.com/wiki/index.php?title=Com_securityimages_a_captcha_framework)
 
-I also may include a <span style="font-weight: bold;">veriword plugin and even a plugin randomizer function soon
+I also may include averiword plugin and even a plugin randomizer function soon
 
-<span style="font-weight: bold;">

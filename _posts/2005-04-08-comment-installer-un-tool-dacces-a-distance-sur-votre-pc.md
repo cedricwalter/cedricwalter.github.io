@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=1685'
 permalink: /gadget/comment-installer-un-tool-dacces-a-distance-sur-votre-pc/
-image: /wp-content/uploads/2005/04/tightvnc_logo.jpg
+header:
+  teaser: /assets/images/2005/04/tightvnc_logo.jpg
 ---
 
 # Comment installer un tool d’accés à distance sur votre PC…  
@@ -31,7 +32,7 @@ Ce logiciel se compose de deux parties:
 
 Ex: Rémy informaticien eut aider son ami novice, Régis qui à des problèmes sur sa machine windows. Rémy va installer la partie cliente (chapitre 2) et Régis la partie serveur sur son PC. (chapitre 1)
 
-<font size="5">**1. Installer la partie la partie serveur**
+**1. Installer la partie la partie serveur**
 
 | [http://www.tightvnc.com/download.html](http://www.tightvnc.com/download.html)par exemple: (le numéro de version importe peu)  Windows tightvnc-1.2.9-setup.exe | Télecharger Tight VNC serveur |
 |---|---|
@@ -61,7 +62,7 @@ Avant d’appeler votre ami Rémy l’informaticien au téléphone….
 | ![](/assets/images/2005/04/tightvnc_yourIP.jpg) | Localiser votre adresse IP, ici cela serait 192.168.1.100 **Pour votre culture….**  **L’adresse ci dessus 192.168.1.100 ne peut pas marcher, car elle est caratéristique d’une adresse internet attribué par un routeur ou HUB, qui va créer une adresse (ou attribuer) à chaque périphérique de votre réseau local.** |
 |  | Pour des raisons de sécurité et après que vous ayez été aidé, veuiller soit: - Changer le password sans le communiquer à des tierces personnes, - Soit désinstaller le logiciel TightVNC (sécurité absolue mais contraignante) |
 
-<font size="5">**2. Installer la partie la partie cliente**
+**2. Installer la partie la partie cliente**
 
 Il s’agit d’un programme comme un autre…
 

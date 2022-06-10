@@ -8,7 +8,8 @@ guid: 'https://waltercedric.com/?p=11788'
 permalink: /holidays/berlin-neptune-fountain/
 ngg_post_thumbnail:
     - '0'
-image: /wp-content/uploads/2020/03/Neptunbrunnen-3.jpg
+header:
+  teaser: /assets/images/2020/03/Neptunbrunnen-3.jpg
 tags:
     - berlin
     - germany

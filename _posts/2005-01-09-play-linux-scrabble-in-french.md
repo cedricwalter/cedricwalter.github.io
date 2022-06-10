@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=1468'
 permalink: /linux/play-linux-scrabble-in-french/
-image: /wp-content/uploads/2005/01/scrabbletranslation.jpg
+header:
+  teaser: /assets/images/2005/01/scrabbletranslation.jpg
 tags:
     - linux
     - OpenSuse

@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3460'
 permalink: /joomla/opencomment-is-discontinued-efforts-focus-on-joomlacomment/
-image: /wp-content/uploads/2008/05/img.php_thumb.jpg
+header:
+  teaser: /assets/images/2008/05/img.php_thumb.jpg
 ---
 
 [**![img.php](/assets/images/2008/05/img.php_thumb.jpg)**](/assets/images/2008/05/img.php_.jpg) I’ve decide to join the team of [!JoomlaComment](http://joomlacode.org/gf/project/joomagecomment/) and help Alain and   

@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=97'
 permalink: /hobbies/clic-clic-noise-coming-from-tail-rotor-case-periodic-noise/
-image: /wp-content/uploads/2004/08/insidetailrotorcase.gif
+header:
+  teaser: /assets/images/2004/08/insidetailrotorcase.gif
 tags:
     - disassemble
     - kyosho

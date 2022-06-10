@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=1367'
 permalink: /holidays/visiting-italy-pisa/
-image: /wp-content/uploads/2020/03/La-Torre-di-Pisa-1.jpg
+header:
+  teaser: /assets/images/2020/03/La-Torre-di-Pisa-1.jpg
 tags:
     - arcade
     - building

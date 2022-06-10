@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=6437'
 permalink: /java/auto-completion-of-icesoft-icefaces-tags-in-eclipse-helios/
-image: /wp-content/uploads/2010/12/iceSoft.jpg
+header:
+  teaser: /assets/images/2010/12/iceSoft.jpg
 tags:
     - support
     - windows

@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2096'
 permalink: /joomla/true-multi-engine-captcha-core-for-joomla/
-image: /wp-content/uploads/2005/11/tn_coreadminPanel.gif
+header:
+  teaser: /assets/images/2005/11/tn_coreadminPanel.gif
 tags:
     - finished
     - function

@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2441'
 permalink: /homepage/unusual-police-vehicle/
-image: /wp-content/uploads/2006/04/s_Smart_Security_In_Zurich.jpg
+header:
+  teaser: /assets/images/2006/04/s_Smart_Security_In_Zurich.jpg
 tags:
     - Zurich
 ---

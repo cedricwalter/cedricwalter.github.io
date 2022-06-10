@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=8741'
 permalink: /development/initial-coin-offering-security-checklist/
-image: /wp-content/uploads/2018/08/Initial-Coin-Offering-ICO-security.png
+header:
+  teaser: /assets/images/2018/08/Initial-Coin-Offering-ICO-security.png
 tags:
     - analysis
     - blockchain

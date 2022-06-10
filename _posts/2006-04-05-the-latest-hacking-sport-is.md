@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2433'
 permalink: /games/the-latest-hacking-sport-is/
-image: /wp-content/uploads/2006/04/sonic2Hacking.png
+header:
+  teaser: /assets/images/2006/04/sonic2Hacking.png
 tags:
     - gadget
     - games

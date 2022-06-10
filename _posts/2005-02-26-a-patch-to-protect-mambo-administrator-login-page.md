@@ -12,7 +12,7 @@ tags:
     - joomla
 ---
 
- A Patch to protect Mambo administrator login page against <span style="font-weight: bold;">brute force password attack!
+ A Patch to protect Mambo administrator login page againstbrute force password attack!
 
 # How it is working?**
 
@@ -32,13 +32,13 @@ tags:
 - administrator\\templates\\mambo\_admin\\login.php <- insert hidden fields, and reference to MD5 javascript
 - administrator\\templates\\mambo\_admin\_blue\\login.php <- insert hidden fields, and reference to MD5 javascript
 
-<span style="font-weight: bold;"> Future?  
+ Future?  
 
 
 - Many cryptographic algorithm, SHA1 on the way,
 - A mambots for changing on the fly all FORM before submit,
 - Ako\_comment has been already patched, and tested -> Waiting OK from Arthur Konze for releasing.
 - Ako\_guestbok must be changed  
-    <span style="font-weight: bold;">
+   
 
-[<span style="font-weight: bold;">](http://www.waltercedric.com/pass/Mambo_hashcash_login.zip)<span style="font-weight: bold;">link in download section…  
+[](http://www.waltercedric.com/pass/Mambo_hashcash_login.zip)link in download section…  

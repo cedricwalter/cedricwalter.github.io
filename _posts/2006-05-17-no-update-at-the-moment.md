@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2531'
 permalink: /internet/no-update-at-the-moment/
-image: /wp-content/uploads/2006/05/busyman.jpg
+header:
+  teaser: /assets/images/2006/05/busyman.jpg
 tags:
     - homepage
     - 'My Homepage'

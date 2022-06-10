@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4913'
 permalink: /homepage/merry-christmas-to-all-my-friends-and-visitors-all-around-the-world/
-image: /wp-content/uploads/2009/12/joyeux_noel_3.gif
+header:
+  teaser: /assets/images/2009/12/joyeux_noel_3.gif
 tags:
     - christmas
     - friends

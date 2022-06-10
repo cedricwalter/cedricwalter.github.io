@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3268'
 permalink: /software/dont-trust-microsofts-promises-is-osp-another-backdoor/
-image: /wp-content/uploads/2008/03/gplv3logored_thumb.png
+header:
+  teaser: /assets/images/2008/03/gplv3logored_thumb.png
 ---
 
 # From the software Freedom Law Center**

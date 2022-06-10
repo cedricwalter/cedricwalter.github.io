@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=1659'
 permalink: /hobbies/toshiba-preps-minute-charge-miracle-battery/
-image: /wp-content/uploads/2005/03/tosh_cell.jpg
+header:
+  teaser: /assets/images/2005/03/tosh_cell.jpg
 tags:
     - 'RC helicopter'
 ---

@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=6796'
 permalink: /games/nintendo-game-and-watch-greenhouse/
-image: /wp-content/uploads/2011/06/Game_and_Watch_Nintendo_Green_House_00.jpg
+header:
+  teaser: /assets/images/2011/06/Game_and_Watch_Nintendo_Green_House_00.jpg
 tags:
     - corner
     - games

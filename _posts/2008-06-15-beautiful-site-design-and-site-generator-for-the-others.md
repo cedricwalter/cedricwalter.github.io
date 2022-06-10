@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3475'
 permalink: /development/beautiful-site-design-and-site-generator-for-the-others/
-image: /wp-content/uploads/2008/06/0f4fcf340e9040cbbdff66d4f2634056.jpg
+header:
+  teaser: /assets/images/2008/06/0f4fcf340e9040cbbdff66d4f2634056.jpg
 ---
 
 > ***“**About a year ago, I compiled a huge list of* [*artistic sites*](http://www.webdesignerwall.com/trends/33-artistic-sites/)*. It seems like the trend has carried   

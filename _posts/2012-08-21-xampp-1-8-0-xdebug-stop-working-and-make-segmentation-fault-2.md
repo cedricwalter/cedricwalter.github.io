@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=7797'
 permalink: /joomla/xampp-1-8-0-xdebug-stop-working-and-make-segmentation-fault-2/
-image: /wp-content/uploads/2012/08/xampp.logo_thumb.gif
+header:
+  teaser: /assets/images/2012/08/xampp.logo_thumb.gif
 ---
 
 ![](/assets/images/2012/08/xampp.logo_thumb.gif)

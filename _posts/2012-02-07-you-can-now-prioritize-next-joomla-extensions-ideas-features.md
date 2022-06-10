@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=7496'
 permalink: /joomla/you-can-now-prioritize-next-joomla-extensions-ideas-features/
-image: /wp-content/uploads/2012/02/cedricwalter.uservoice.com_thumb.png
+header:
+  teaser: /assets/images/2012/02/cedricwalter.uservoice.com_thumb.png
 ---
 
 *[![cedricwalter.uservoice.com](/assets/images/2012/02/cedricwalter.uservoice.com_thumb.png "cedricwalter.uservoice.com")](/assets/images/2012/02/cedricwalter.uservoice.com_.png)*

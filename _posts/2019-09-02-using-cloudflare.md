@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=8765'
 permalink: /development/using-cloudflare/
-image: /wp-content/uploads/2005/11/hacker-textshirt.jpg
+header:
+  teaser: /assets/images/2005/11/hacker-textshirt.jpg
 tags:
     - attack
     - cost

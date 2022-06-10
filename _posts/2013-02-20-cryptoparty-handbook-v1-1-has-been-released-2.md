@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=7982'
 permalink: /security/cryptoparty-handbook-v1-1-has-been-released-2/
-image: /wp-content/uploads/2013/02/cryptoparty.png
+header:
+  teaser: /assets/images/2013/02/cryptoparty.png
 ---
 
 # ![cryptoparty](/assets/images/2013/02/cryptoparty.png "cryptoparty")**

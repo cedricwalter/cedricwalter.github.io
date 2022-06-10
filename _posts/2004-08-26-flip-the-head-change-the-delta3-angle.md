@@ -3,16 +3,101 @@ id: 102
 title: 'Flip the head, change the delta3 angle'
 date: '2004-08-26T21:45:12+02:00'
 author: 'Cédric Walter'
-
+header:
+teaser: /assets/images/2004/08/kyosho_caliber_30_thumb.jpg
 guid: 'https://waltercedric.com/new/?p=102'
 permalink: /hobbies/flip-the-head-change-the-delta3-angle/
 tags:
-    - kyosho
-    - 'RC helicopter'
+- kyosho
+- 'RC helicopter'
 ---
 
 # Flip the head, change the delta3 angle
 
- This suppress wooble, even down to 1200 rpm. As usual, do this mod only if your heli encounter wooble, mine never develop this.
+This suppress wooble, even down to 1200 rpm. As usual, do this mod only if your heli encounter wooble, mine never
+develop this.
 
-“Flip the washout, grips, flybar control arms, and the bell mixing arms. If you use the stock washout you need to remove the pins and mount them the other way. I used a Freya washout slider from my spares box. The Freya washout is better because it has a brass bushing in the slider. If you use the Freya washout, remove the washer on the pivot bolt and replace with an M3 plain nut for a spacer to retain proper phasing to the swashplate. You will also have to use longer screws. The balls on the bell mixer must be swapped to the other side of the arm. Keep the bell mixer drooping down but flip them the other way on the flybar. If you want to know how this works read the post “Delta” in the main discussion but be prepared for some heavy reading and some head scratching. Thanks to Wayne Mann for the idea.”* Text by [**CK\_**](http://www.runryder.com/member.htm?action=getinfo&userid=5564)    # Go on [# www.runryder.com](http://www.runryder.com/)#  and search for “flip the head caliber 30”# **Another version by Harrier** Basically, the Caliber 30 has issues with wobbling at low rpm (you’ll probably experience this around 1st gallon of fuel). The problem has to do with the fact that the Delta angle on the C30 head needs to be changed (there’s a huge write up on that on runryder.com – [# http://runryder.com/showtopic.htm?s=&amp;topicid=31039](http://runryder.com/showtopic.htm?s=&topicid=31039)#  )     Anyways, you must reverse the linkages on the head to eliviate this problem. Though intimidating, its really not that hard (I’m a total heli beginner and did it in 2 hours) Once it’s done, you shouldn’t experience any other issues with wobbles. I had a great guy on here (FLASHOVER) help me out, and I’ll transcribe what he wrote me so you can understand how to do it. There are also pics to look at the finished product in my gallery.    Here’s how FLASH walked me through it:   **Step 1**     Take the head off leaving the rotor grips and linkages in tack on the swashplate for now.   **Step 2**     Now that you have the head off, we are now going to work on the block ass. #’s 912, and 872. First take off # 872 and set that aside.Than the block, take it off the main shaft you need to notice that the wash out arms are in the block on the left side. Take off the wash out arms and set them aside. Now measure how far the pins are sticking out off the block and right that down.Than take a small set of vice grips and take out the pins from the block. Try not to make deep cuts in the pins from the vice grips. Now that you have the pins out use the existing holes as a guide for the drill bit. Go at a steady pace when drilling the holes and make sure to try and drill straight. After the holes are drilled take the pins and you are going to place the pins in the block on the flipped side. Remember not to put them in the same holes as before. When you look at the block the wash out arms should be on the right side. To put the pins in the block it is going to take a little hammering. It should be tight when putting them in.   **Step 3**     The next thing that we are going to work on is The flybar arangement! Make sure that you keep all of your parts seperated.   Now if you look at the head you can see your Hiller control arms #879 and the mixing arms # 884. They need to be flipped also. What we are going to do is work this one side at a time. This way you won’t get to confused with the arangement.Ok first thing is too take off a paddle, it doesn’t matter whitch side you start with just pick a side. There is a hex kit with are calibers that go to the different screws make sure you use the one that goes with the kit. Now there is a little hex srew in the paddle were the spindle shaft (870) enters the paddle. Unscrew that, than turn the paddle counter clockwise to unscrew the paddle from the shaft! Don’t worry about the measurement of both sides we will work on that later. Try to keep the hex srews to the corasponding parts.     Ok now you will have to be careful and take out the hex screw to the hiller control arm. You can take this off now and set it aside. The next item # 884 mixing arm has two little black washers, one on each side so be careful not to loose those they are very important and people have had problems with there chopper because they didn’t remember to put those back in. Now, you don’t need to set it down because what you are going to do is flip it around. If you are looking straight foward at the head ass. you should see that there are three linkage holes on the left side now and the one linkage hole is on the right.     Now that the mixing arm is done you can put the hiller control arm back on. You need to have locktight, I don’t think that I mentioned it sorry. But every heli pilot owns alot of locktight, loose bolts are not are friend they are the enemy. Ok so all of the ass. bolts need locktight on them, the blue type is better because you might need to replace parts and the red locktight is too strong so you may end up stripping something, not good. Allright the mixing arm and hiller arm need to be flush with the head, no slop ok. This side is going to be the guide side and everything else will be adjusted from this. After you have completed this side do the other side. But don’t put the paddles back on leave them off. When it is all said and done take a flat ruller and measure from the hiller control arm to the tip of the shaft. Than measure the other side. You should get the same measurement     if not get it to be equal on both sides.   **Step 4**     Now that all of the parts have been changed over it is time to put it all back together. Offcource first thing to go back on is the slide block. After that goes on put the collar back on but do not put locktight or tighten her down just yet. With her on and the bolts snug move the block up into the collar with your hand. See if you have any binding.If there is binding just correct the problem to whare you can get freeplay. My helo was binding a little I just used the vice grips to push them in or out. Remember we like are machines to be smooth as silk.   Next on the agenda is to put the head back on. You can use locktight on that bolt and make sure that she is tight, we don’t want her to get loose.   Now the fun part, with the blades off flip the grip to the other side. Remember we start with one side than work over to the other side. Now use your locktight and screw that ball link in the last whole counting from the left, so it should be right next to the heller control arm. Than take the link from the grip and snap it into that ball link. Now take anouther ball link and again use locktight and screw it into the very first whole starting from the left. Now take that link and snap it from there to the swashplate. Everything is 90 degrees from each other ok. Now do that same process to the other side.   Part three to the process is to connect the washout arms.     Before connecting them to the block, we need to putt the ball links on. Lets start with the outside one starting from the left. Instead of the ball on the outside, it will be facing to the inside closes’t to the main shaft. On the other side flip the washout arm link # 916 to whare it is facing down. Now use locktight and screw the washout unit to the block. The washout link that you just flipped down will be on your right side when bolting the washout unit to the block. Now you can connect the washout link to the swashplate 90 degrees from the first link that you just put on. Ok now do the same to the other side.   Now you told me that one of the hiller control arms was locktighted good we will work from that one. Take your heli and put it up on a table were you can look at the head ass. at eye level. Now go ahead and screw a paddle back on to the shaft all the way down. Use locktight and put the hex screw in its slot. Now look right at the aft tip of the paddle and the ball tip of the hiller control arm. Get that paddle to match that arm as perfect as your naked eye can get it. Be very careful not to bump your adjustment and tighten the hex screw really firm. Now match the other hiller control arm to the one we just adjusted. And now put on the other paddle, but this time when you screw the paddle on make sure that both sides are of equal lenght. I measured mine from inside the hiller control arm tip to the inside tip of the paddle. You should be able to get them really close if not dead on.     Now tighten that hex screw again being very careful not to bump your measurment. Ok now connect those links to the swashplate.     All right last things!!!     Ok now if you were to look down from the top of the head we need to aline the spindle shaft with the inside ball links of the swashplate. Use your fingers and move the block and collar to whare the shaft is right on top of one of the inner swashplate ball links. When that is good without moving it out of allignment move the swashplate by hand up and down. With the swashplate all the way down tighten the collar to whare there is just a little bit of pin left in the collar slotts. Make sure to just tighten one down than take the other one out carefully and put locktight on it. Than put that in and tighten it all the way down. Than you can do the same to the other side. After that is complete you are done with the head flip.     The only things left to do are to put the blades on and set up the radio. It can be a little tricky since you had flipped the head. Basically remember that the Pitch direction has changed most importantly so change this in your radio.     Hope this helps!  [# http://heliprodigy.homestead.com/caliber30.html](http://heliprodigy.homestead.com/caliber30.html)#  has very good pictures on the result. |
+“Flip the washout, grips, flybar control arms, and the bell mixing arms. If you use the stock washout you need to remove
+the pins and mount them the other way. I used a Freya washout slider from my spares box. The Freya washout is better
+because it has a brass bushing in the slider. If you use the Freya washout, remove the washer on the pivot bolt and
+replace with an M3 plain nut for a spacer to retain proper phasing to the swashplate. You will also have to use longer
+screws. The balls on the bell mixer must be swapped to the other side of the arm. Keep the bell mixer drooping down but
+flip them the other way on the flybar. If you want to know how this works read the post “Delta” in the main discussion
+but be prepared for some heavy reading and some head scratching. Thanks to Wayne Mann for the idea.”* Text by [**
+CK\_**](http://www.runryder.com/member.htm?action=getinfo&userid=5564)    # Go
+on [# www.runryder.com](http://www.runryder.com/)# and search for “flip the head caliber 30”# **Another version by
+Harrier** Basically, the Caliber 30 has issues with wobbling at low rpm (you’ll probably experience this around 1st
+gallon of fuel). The problem has to do with the fact that the Delta angle on the C30 head needs to be changed (there’s a
+huge write up on that on runryder.com
+– [# http://runryder.com/showtopic.htm?s=&amp;topicid=31039](http://runryder.com/showtopic.htm?s=&topicid=31039)#  )
+Anyways, you must reverse the linkages on the head to eliviate this problem. Though intimidating, its really not that
+hard (I’m a total heli beginner and did it in 2 hours) Once it’s done, you shouldn’t experience any other issues with
+wobbles. I had a great guy on here (FLASHOVER) help me out, and I’ll transcribe what he wrote me so you can understand
+how to do it. There are also pics to look at the finished product in my gallery. Here’s how FLASH walked me through
+it:   **Step 1**     Take the head off leaving the rotor grips and linkages in tack on the swashplate for now.   **Step
+2**     Now that you have the head off, we are now going to work on the block ass. #’s 912, and 872. First take off #
+872 and set that aside.Than the block, take it off the main shaft you need to notice that the wash out arms are in the
+block on the left side. Take off the wash out arms and set them aside. Now measure how far the pins are sticking out off
+the block and right that down.Than take a small set of vice grips and take out the pins from the block. Try not to make
+deep cuts in the pins from the vice grips. Now that you have the pins out use the existing holes as a guide for the
+drill bit. Go at a steady pace when drilling the holes and make sure to try and drill straight. After the holes are
+drilled take the pins and you are going to place the pins in the block on the flipped side. Remember not to put them in
+the same holes as before. When you look at the block the wash out arms should be on the right side. To put the pins in
+the block it is going to take a little hammering. It should be tight when putting them in.   **Step 3**     The next
+thing that we are going to work on is The flybar arangement! Make sure that you keep all of your parts seperated. Now if
+you look at the head you can see your Hiller control arms #879 and the mixing arms # 884. They need to be flipped also.
+What we are going to do is work this one side at a time. This way you won’t get to confused with the arangement.Ok first
+thing is too take off a paddle, it doesn’t matter whitch side you start with just pick a side. There is a hex kit with
+are calibers that go to the different screws make sure you use the one that goes with the kit. Now there is a little hex
+srew in the paddle were the spindle shaft (870) enters the paddle. Unscrew that, than turn the paddle counter clockwise
+to unscrew the paddle from the shaft! Don’t worry about the measurement of both sides we will work on that later. Try to
+keep the hex srews to the corasponding parts. Ok now you will have to be careful and take out the hex screw to the
+hiller control arm. You can take this off now and set it aside. The next item # 884 mixing arm has two little black
+washers, one on each side so be careful not to loose those they are very important and people have had problems with
+there chopper because they didn’t remember to put those back in. Now, you don’t need to set it down because what you are
+going to do is flip it around. If you are looking straight foward at the head ass. you should see that there are three
+linkage holes on the left side now and the one linkage hole is on the right. Now that the mixing arm is done you can put
+the hiller control arm back on. You need to have locktight, I don’t think that I mentioned it sorry. But every heli
+pilot owns alot of locktight, loose bolts are not are friend they are the enemy. Ok so all of the ass. bolts need
+locktight on them, the blue type is better because you might need to replace parts and the red locktight is too strong
+so you may end up stripping something, not good. Allright the mixing arm and hiller arm need to be flush with the head,
+no slop ok. This side is going to be the guide side and everything else will be adjusted from this. After you have
+completed this side do the other side. But don’t put the paddles back on leave them off. When it is all said and done
+take a flat ruller and measure from the hiller control arm to the tip of the shaft. Than measure the other side. You
+should get the same measurement if not get it to be equal on both sides.   **Step 4**     Now that all of the parts have
+been changed over it is time to put it all back together. Offcource first thing to go back on is the slide block. After
+that goes on put the collar back on but do not put locktight or tighten her down just yet. With her on and the bolts
+snug move the block up into the collar with your hand. See if you have any binding.If there is binding just correct the
+problem to whare you can get freeplay. My helo was binding a little I just used the vice grips to push them in or out.
+Remember we like are machines to be smooth as silk. Next on the agenda is to put the head back on. You can use locktight
+on that bolt and make sure that she is tight, we don’t want her to get loose. Now the fun part, with the blades off flip
+the grip to the other side. Remember we start with one side than work over to the other side. Now use your locktight and
+screw that ball link in the last whole counting from the left, so it should be right next to the heller control arm.
+Than take the link from the grip and snap it into that ball link. Now take anouther ball link and again use locktight
+and screw it into the very first whole starting from the left. Now take that link and snap it from there to the
+swashplate. Everything is 90 degrees from each other ok. Now do that same process to the other side. Part three to the
+process is to connect the washout arms. Before connecting them to the block, we need to putt the ball links on. Lets
+start with the outside one starting from the left. Instead of the ball on the outside, it will be facing to the inside
+closes’t to the main shaft. On the other side flip the washout arm link # 916 to whare it is facing down. Now use
+locktight and screw the washout unit to the block. The washout link that you just flipped down will be on your right
+side when bolting the washout unit to the block. Now you can connect the washout link to the swashplate 90 degrees from
+the first link that you just put on. Ok now do the same to the other side. Now you told me that one of the hiller
+control arms was locktighted good we will work from that one. Take your heli and put it up on a table were you can look
+at the head ass. at eye level. Now go ahead and screw a paddle back on to the shaft all the way down. Use locktight and
+put the hex screw in its slot. Now look right at the aft tip of the paddle and the ball tip of the hiller control arm.
+Get that paddle to match that arm as perfect as your naked eye can get it. Be very careful not to bump your adjustment
+and tighten the hex screw really firm. Now match the other hiller control arm to the one we just adjusted. And now put
+on the other paddle, but this time when you screw the paddle on make sure that both sides are of equal lenght. I
+measured mine from inside the hiller control arm tip to the inside tip of the paddle. You should be able to get them
+really close if not dead on. Now tighten that hex screw again being very careful not to bump your measurment. Ok now
+connect those links to the swashplate. All right last things!!!     Ok now if you were to look down from the top of the
+head we need to aline the spindle shaft with the inside ball links of the swashplate. Use your fingers and move the
+block and collar to whare the shaft is right on top of one of the inner swashplate ball links. When that is good without
+moving it out of allignment move the swashplate by hand up and down. With the swashplate all the way down tighten the
+collar to whare there is just a little bit of pin left in the collar slotts. Make sure to just tighten one down than
+take the other one out carefully and put locktight on it. Than put that in and tighten it all the way down. Than you can
+do the same to the other side. After that is complete you are done with the head flip. The only things left to do are to
+put the blades on and set up the radio. It can be a little tricky since you had flipped the head. Basically remember
+that the Pitch direction has changed most importantly so change this in your radio. Hope this
+helps!  [# http://heliprodigy.homestead.com/caliber30.html](http://heliprodigy.homestead.com/caliber30.html)# has very
+good pictures on the result. |

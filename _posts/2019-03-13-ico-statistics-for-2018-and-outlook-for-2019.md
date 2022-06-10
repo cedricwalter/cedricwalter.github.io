@@ -18,9 +18,9 @@ permalink: /development/ico-statistics-for-2018-and-outlook-for-2019/
 
 ### 2019 Outlook – $171.13 M (first 3 months)
 
-![](https://www.tokens-economy.com/wp-content/uploads/2019/03/InitialCoinOffering-all-2019.png)](http://ico.tokens-economy.com/statistics/country.html?country=2019&year=2019)### 2018 – $6641.45 M
+![](https://www.tokens-economy.com/assets/images/2019/03/InitialCoinOffering-all-2019.png)](http://ico.tokens-economy.com/statistics/country.html?country=2019&year=2019)### 2018 – $6641.45 M
 
-![](https://www.tokens-economy.com/wp-content/uploads/2019/03/InitialCoinOffering-2018.png)](http://ico.tokens-economy.com/statistics/2018.html)
-![](https://www.tokens-economy.com/wp-content/uploads/2019/03/InitialCoinOffering-all-2018.png)](http://ico.tokens-economy.com/statistics/country.html?country=2018&year=2018)### 2017 – $7718.52 M
+![](https://www.tokens-economy.com/assets/images/2019/03/InitialCoinOffering-2018.png)](http://ico.tokens-economy.com/statistics/2018.html)
+![](https://www.tokens-economy.com/assets/images/2019/03/InitialCoinOffering-all-2018.png)](http://ico.tokens-economy.com/statistics/country.html?country=2018&year=2018)### 2017 – $7718.52 M
 
-![](https://www.tokens-economy.com/wp-content/uploads/2019/03/InitialCoinOffering-all-2017.png)](http://ico.tokens-economy.com/statistics/country.html?country=2017&year=2017)![](http://ico.tokens-economy.com/statistics/country.html?country=2019&year=2019)![](http://ico.tokens-economy.com/statistics/country.html?country=2019&year=2019)
+![](https://www.tokens-economy.com/assets/images/2019/03/InitialCoinOffering-all-2017.png)](http://ico.tokens-economy.com/statistics/country.html?country=2017&year=2017)![](http://ico.tokens-economy.com/statistics/country.html?country=2019&year=2019)![](http://ico.tokens-economy.com/statistics/country.html?country=2019&year=2019)

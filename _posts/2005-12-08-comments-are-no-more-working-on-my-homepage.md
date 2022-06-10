@@ -17,7 +17,7 @@ tags:
 
 This is not due to my plugin security images but more to [openSEF](http://www.opensef.org/), a very good SEF (Search Engine Friendly)/ SEO (Search Engine Optimisation) component for #Joomla/Mambo:
 
-- <span style="FONT-STYLE: italic">SEO are techniques and changes that are made to the content and code of a web site in order to increase its rankings in the results pages of search engines and directories. These changes may involve rewriting body copy, altering Title or Meta tags, removal of Frames or Flash content, and the seeking of incoming links.
+- SEO are techniques and changes that are made to the content and code of a web site in order to increase its rankings in the results pages of search engines and directories. These changes may involve rewriting body copy, altering Title or Meta tags, removal of Frames or Flash content, and the seeking of incoming links.
 
 which currently is not able to rewrite correctly URL of the component akocomment (and akobook as well). This is very frustrating for me and for You as well (As I have received many emails on this). I will have t write an extensions this week end to solve this issue.
 

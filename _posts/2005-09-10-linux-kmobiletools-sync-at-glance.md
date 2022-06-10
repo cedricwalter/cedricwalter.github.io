@@ -6,16 +6,17 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2029'
 permalink: /gadget/linux-kmobiletools-sync-at-glance/
-image: /wp-content/uploads/2005/09/kmobiletoolSonyK750-settings1.png
+header:
+  teaser: /assets/images/2005/09/kmobiletoolSonyK750-settings1.png
 ---
 
-<span style="font-weight: bold;"> Make your sony ericsson k750 mobile phone communicate with your PC under linux…
+ Make your sony ericsson k750 mobile phone communicate with your PC under linux…
 
 The difficulty is to find the right device the sony ericsson k750 has received from linux
 
 1\. Open a terminal console, ans as root (type # su then root password)  
 2\. verify that udev (the automounting system) has recognized your phone. type  
-<span style="font-weight: bold;">\# lsusb  
+\# lsusb  
 Bus 003 Device 006: ID 0d49:7100 Maxtor  
 Bus 003 Device 001: ID 0000:0000  
 Bus 002 Device 050: ID 045e:0025 Microsoft Corp. IntelliEye Mouse  
@@ -26,23 +27,23 @@ Bus 001 Device 001: ID 0000:0000
 For me the telephone has been recognized…
 
 3\. Lets find the device now, type  
-<span style="font-weight: bold;">\# dmesg  
+\# dmesg  
 and search for the ericsson, If You find the device name, You are lucky. I must admit that I did not find it like this,   
 I brute force all possibilities 🙂 since I find on the official homepage of kmobiletools that it must be /ttyACM\*
 
 4\. check permissions  
 most of the time only the root has access to ttyACM (must be the modem port), check  
-<span style="font-weight: bold;">\# ls -la /dev/ttyACM\*  
+\# ls -la /dev/ttyACM\*  
 crw——- 1 root uucp 166, 0 2005-03-19 20:36 /dev/ttyACM0  
 crw——- 1 root uucp 166, 1 2005-09-10 23:19 /dev/ttyACM1  
 crw——- 1 root uucp 166, 2 2005-03-19 20:36 /dev/ttyACM2  
 crw——- 1 root uucp 166, 3 2005-03-19 20:36 /dev/ttyACM3
 
 5\. change permissions temporarly (will be overwritten at reboot by udev and that’s better because i am gonna give full access to all)  
-<span style="font-weight: bold;">\# chmod a+rw /dev/ttyACM
+\# chmod a+rw /dev/ttyACM
 
 6\. verification  
-<span style="font-weight: bold;">\# ls -la /dev/ttyACM\*  
+\# ls -la /dev/ttyACM\*  
 crw-rw-rw- 1 root uucp 166, 0 2005-03-19 20:36 /dev/ttyACM0  
 crw-rw-rw- 1 root uucp 166, 1 2005-09-10 23:22 /dev/ttyACM1  
 crw-rw-rw- 1 root uucp 166, 2 2005-03-19 20:36 /dev/ttyACM2  
@@ -50,24 +51,24 @@ crw-rw-rw- 1 root uucp 166, 3 2005-03-19 20:36 /dev/ttyACM3
 
 7\. start kmobiletools and go to the menu Settings / main settings
 
-as "<span style="font-style: italic;">mobile phone": choose<span style="font-weight: bold;"> Ericsson generic  
-as "<span style="font-style: italic;">mobile phone device" enter one of these (brute force phase)  
-<span style="font-weight: bold;">/dev/ttyACM0 or  
-<span style="font-weight: bold;">/dev/ttyACM1 or  
-<span style="font-weight: bold;">/dev/ttyACM2 or  
-<span style="font-weight: bold;">/dev/ttyACM3  
+as "mobile phone": choose Ericsson generic  
+as "mobile phone device" enter one of these (brute force phase)  
+/dev/ttyACM0 or  
+/dev/ttyACM1 or  
+/dev/ttyACM2 or  
+/dev/ttyACM3  
 click after each choice, apply, if You did not receive an error message, then You have found the right modem tty
 
 and it work!!! see screenshots below (click read more)
 
 in order to set access rights on ttyACM1 "correctly" and definitively, You must as root open the file  
-<span style="font-weight: bold;">/etc/udev/rules.d/50-udev.rules  
+/etc/udev/rules.d/50-udev.rules  
 search for ttyACM, I found for my SuSE 9.3  
  <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"></meta> <meta content="Kate, the KDE Advanced Text Editor" name="Generator"></meta>KERNEL="ttyACM\*", NAME="%k", GROUP="uucp", MODE="660"  
 change to   
  <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"></meta> <meta content="Kate, the KDE Advanced Text Editor" name="Generator"></meta>KERNEL="ttyACM\*", NAME="%k", GROUP="uucp", MODE="666"
 
-note <span style="font-style: italic;">666 is unsecure, better would be to add user to the group, but i don’t want to risk instabilities if I do not know how to do it: <span style="font-weight: bold;">Any #Linux master reading this text?
+note 666 is unsecure, better would be to add user to the group, but i don’t want to risk instabilities if I do not know how to do it:Any #Linux master reading this text?
 
     
 Settings: ![](/assets/images/2005/09/kmobiletoolSonyK750-settings1.png)  

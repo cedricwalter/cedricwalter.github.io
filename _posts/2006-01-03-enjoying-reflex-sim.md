@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2253'
 permalink: /hobbies/enjoying-reflex-sim/
-image: /wp-content/uploads/2006/01/reflex-sim.de-translationCedricWalter.jpg
+header:
+  teaser: /assets/images/2006/01/reflex-sim.de-translationCedricWalter.jpg
 tags:
     - 'RC helicopter'
     - simulator

@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=1982'
 permalink: /development/security-images-in-mambo/
-image: /wp-content/uploads/2005/08/securityImagesInMambo.png
+header:
+  teaser: /assets/images/2005/08/securityImagesInMambo.png
 tags:
     - configurable
 ---

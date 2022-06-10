@@ -8,4 +8,4 @@ guid: 'https://waltercedric.com/new/?p=1579'
 permalink: /javascript/alternate-row-colour-and-onhover-effect-in-html-table/
 ---
 
-<span style="font-style: italic;">domTableEnhance is a script that turns every table with a special class into an enhanced one. The tables enhanced by domTableEnhance will have an alternate row colour and have a rollover on each row that includes cells (header rows won’t get a rollover). domTableenhance adds these effects by applying classes to the rows, which means that you don’t need to know any Javascript to change the look. [More here at the official homepage](http://www.onlinetools.org/tools/domtableenhancedata/)
+domTableEnhance is a script that turns every table with a special class into an enhanced one. The tables enhanced by domTableEnhance will have an alternate row colour and have a rollover on each row that includes cells (header rows won’t get a rollover). domTableenhance adds these effects by applying classes to the rows, which means that you don’t need to know any Javascript to change the look. [More here at the official homepage](http://www.onlinetools.org/tools/domtableenhancedata/)

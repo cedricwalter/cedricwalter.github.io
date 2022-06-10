@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2128'
 permalink: /gadget/saeco-sirius/
-image: /wp-content/uploads/2010/08/SaecoSirius.jpg
+header:
+  teaser: /assets/images/2010/08/SaecoSirius.jpg
 tags:
     - expensive
 ---

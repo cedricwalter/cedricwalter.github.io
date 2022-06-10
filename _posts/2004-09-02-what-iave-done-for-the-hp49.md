@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=968'
 permalink: /hobbies/what-iave-done-for-the-hp49/
-image: /wp-content/uploads/2004/09/hp49boot.gif
+header:
+  teaser: /assets/images/2004/09/hp49boot.gif
 tags:
     - algorithm
     - calculator

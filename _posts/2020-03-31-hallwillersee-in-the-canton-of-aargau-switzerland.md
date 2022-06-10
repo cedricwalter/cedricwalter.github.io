@@ -8,7 +8,8 @@ guid: 'https://waltercedric.com/?p=11710'
 permalink: /holidays/hallwillersee-in-the-canton-of-aargau-switzerland/
 ngg_post_thumbnail:
     - '0'
-image: /wp-content/uploads/2020/03/Hallwillersee-aargau-Switzerland-1.jpg.jpg
+header:
+  teaser: /assets/images/2020/03/Hallwillersee-aargau-Switzerland-1.jpg.jpg
 tags:
     - lake
     - located

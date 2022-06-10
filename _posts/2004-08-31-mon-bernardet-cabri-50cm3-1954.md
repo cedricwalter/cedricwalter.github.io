@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=530'
 permalink: /scooter/mon-bernardet-cabri-50cm3-1954/
-image: /wp-content/uploads/2004/08/cab50.jpg
+header:
+  teaser: /assets/images/2004/08/cab50.jpg
 tags:
     - scooter
     - scooters

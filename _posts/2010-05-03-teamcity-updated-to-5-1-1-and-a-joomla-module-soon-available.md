@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=5189'
 permalink: /joomla/teamcity-updated-to-5-1-1-and-a-joomla-module-soon-available/
-image: /wp-content/uploads/2010/05/teamcity512_thumb.png
+header:
+  teaser: /assets/images/2010/05/teamcity512_thumb.png
 tags:
     - early
     - teamcity

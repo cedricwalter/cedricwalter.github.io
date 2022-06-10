@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3727'
 permalink: /java/three-eclipse-plug-ins-for-improving-your-java-code/
-image: /wp-content/uploads/2008/08/sectionjavatesting_thumb.gif
+header:
+  teaser: /assets/images/2008/08/sectionjavatesting_thumb.gif
 tags:
     - java
 ---

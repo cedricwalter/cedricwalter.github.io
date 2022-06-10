@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=7270'
 permalink: /joomla/alternate-method-to-install-joomla-drupal-on-synology-nas/
-image: /wp-content/uploads/2011/11/synology_nas4.jpg
+header:
+  teaser: /assets/images/2011/11/synology_nas4.jpg
 ---
 
 ![synology_nas4](/assets/images/2011/11/synology_nas4.jpg "synology_nas4")

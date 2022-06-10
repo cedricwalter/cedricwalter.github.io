@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2632'
 permalink: /joomla/release-mos_sociable-1-1-1/
-image: /wp-content/uploads/2006/05/mosSociable1.0.0.png
+header:
+  teaser: /assets/images/2006/05/mosSociable1.0.0.png
 tags:
     - joomla
     - mosSociable

@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=8188'
 permalink: /development/start-android-development-in-5-minutes/
-image: /wp-content/uploads/2014/02/android.png
+header:
+  teaser: /assets/images/2014/02/android.png
 tags:
     - java
 ---

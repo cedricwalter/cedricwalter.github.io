@@ -77,7 +77,7 @@ Save this script into Joomla!® /images directory, under /images/watermark.php
 
 Decide at which size you want to protect your images, here starting at 500pixels width, I will apply a watermark overlay in the left corner of the image.
 
-```
+```php
 <?php
   $path = $_SERVER['<span style="color: #8b0000;">DOCUMENT_ROOT'].$_SERVER['<span style="color: #8b0000;">REQUEST_URI'];
   $image = <a href="http://www.php.net/imagecreatefromstring" style="color: #ffa500;">imagecreatefromstring</a>(file_get_contents($path));

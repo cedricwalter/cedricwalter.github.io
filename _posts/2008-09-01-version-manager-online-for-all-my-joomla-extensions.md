@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3732'
 permalink: /joomla/version-manager-online-for-all-my-joomla-extensions/
-image: /wp-content/uploads/2008/09/1399_versions_logo_304x50_thumb.png
+header:
+  teaser: /assets/images/2008/09/1399_versions_logo_304x50_thumb.png
 ---
 
 [![1399_versions_logo_304x50](/assets/images/2008/09/1399_versions_logo_304x50_thumb.png)](/assets/images/2008/09/1399_versions_logo_304x50.png)

@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=125'
 permalink: /hobbies/improve-performance-of-kyosho-exhaust/
-image: /wp-content/uploads/2004/08/exhaust.jpg
+header:
+  teaser: /assets/images/2004/08/exhaust.jpg
 tags:
 - flight
 - increase

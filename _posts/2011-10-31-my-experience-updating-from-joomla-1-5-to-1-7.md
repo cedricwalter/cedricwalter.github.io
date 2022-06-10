@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=7242'
 permalink: /joomla/my-experience-updating-from-joomla-1-5-to-1-7/
-image: /wp-content/uploads/2011/10/joomla_cms_thumb.png
+header:
+  teaser: /assets/images/2011/10/joomla_cms_thumb.png
 tags:
     - experience
     - extensions

@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2895'
 permalink: /development/mediawiki-no-input-file-specified-error/
-image: /wp-content/uploads/2006/04/waltercedricWikiLogo.jpg
+header:
+  teaser: /assets/images/2006/04/waltercedricWikiLogo.jpg
 tags:
     - apache
 ---
@@ -27,7 +28,7 @@ RewriteRule ^(.\*)$ /wiki/index.php?title=$1 \[L,QSA\]
 
 Some URLs in my [Wiki ](http://wiki.waltercedric.com)are still not working, that’s because they are hardcoded inside the code. I will move to the newest mediawiki version soon.  
   
-<span style="font-weight: bold;">references:  
+references:  
 [  ](http://meta.wikimedia.org/wiki/Help_talk:Installation#Installation_Error_Message_.22No_input_file_specified.22)
 
 - [http://meta.wikimedia.org/wiki/Help\_talk:Installation#Installation\_Error\_Message\_.22No\_input\_file\_specified.22](http://meta.wikimedia.org/wiki/Help_talk:Installation#Installation_Error_Message_.22No_input_file_specified.22)

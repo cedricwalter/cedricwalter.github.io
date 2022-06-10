@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2996'
 permalink: /software/google-desktop-available-on-linux/
-image: /wp-content/uploads/2007/06/google.desktop.search.for_.linux_.jpg
+header:
+  teaser: /assets/images/2007/06/google.desktop.search.for_.linux_.jpg
 tags:
     - OpenSuse
     - software
@@ -16,7 +17,7 @@ tags:
 
  **Google was set to launch late on Wednesday a beta version of Google Desktop search for #Linux in a sign of encouragement by the search giant for #Linux on the desktop.**
 
-<span style="font-style: italic;"> Google Desktop allows people to search the Web while also searching the full text of all the information on their computer, including Gmail and their Web search history. Because the index is stored locally on the computer, users can access Gmail and Web history while offline. [from News.com](http://news.com.com/2100-1032_3-6193579.html?part=rss&tag=2547-1_3-0-20&subj=news)
+ Google Desktop allows people to search the Web while also searching the full text of all the information on their computer, including Gmail and their Web search history. Because the index is stored locally on the computer, users can access Gmail and Web history while offline. [from News.com](http://news.com.com/2100-1032_3-6193579.html?part=rss&tag=2547-1_3-0-20&subj=news)
 
  You can now use on linux:
 

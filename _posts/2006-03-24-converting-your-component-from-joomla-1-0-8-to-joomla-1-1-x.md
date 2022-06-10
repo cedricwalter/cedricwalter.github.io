@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2394'
 permalink: /development/converting-your-component-from-joomla-1-0-8-to-joomla-1-1-x/
-image: /wp-content/uploads/2006/03/powered_by_Joomla_1.1.png
+header:
+  teaser: /assets/images/2006/03/powered_by_Joomla_1.1.png
 tags:
     - development
     - joomla
@@ -36,4 +37,3 @@ Some links which may help also Help You:
 
 
 
-{mosgoogle}

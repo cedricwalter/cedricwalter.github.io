@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4485'
 permalink: /joomla/smugmug-picasa-flickr-extensions-for-joomla-now-available-at-jed/
-image: /wp-content/uploads/2009/06/JoomlaLogoHorzColor.png
+header:
+  teaser: /assets/images/2009/06/JoomlaLogoHorzColor.png
 ---
 
 ![Joomla Logo Horz Color](/assets/images/2009/06/JoomlaLogoHorzColor.png "Joomla Logo Horz Color") Some of my extensions have been finally approved at #Joomla extensions directory

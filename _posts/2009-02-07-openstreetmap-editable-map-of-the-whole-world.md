@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4107'
 permalink: /internet/openstreetmap-editable-map-of-the-whole-world/
-image: /wp-content/uploads/2009/02/openstreemap.view_.zurich_thumb.png
+header:
+  teaser: /assets/images/2009/02/openstreemap.view_.zurich_thumb.png
 tags:
     - internet
     - web

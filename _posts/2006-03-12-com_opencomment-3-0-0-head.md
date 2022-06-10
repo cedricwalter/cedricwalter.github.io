@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2365'
 permalink: /joomla/com_opencomment-3-0-0-head/
-image: /wp-content/uploads/2006/03/tn_opencomment3.0.0IsBorn.gif
+header:
+  teaser: /assets/images/2006/03/tn_opencomment3.0.0IsBorn.gif
 tags:
     - functionalities
 ---

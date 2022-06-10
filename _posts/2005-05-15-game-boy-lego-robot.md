@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=1724'
 permalink: /hobbies/game-boy-lego-robot/
-image: /wp-content/uploads/2005/05/gameboy-robot-xport2-1.jpg
+header:
+  teaser: /assets/images/2005/05/gameboy-robot-xport2-1.jpg
 tags:
     - Robotic
 ---

@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=941'
 permalink: /educationresume/curriculum-vitae/
-image: /wp-content/uploads/2010/07/cedric.walter.smallest.jpg
+header:
+  teaser: /assets/images/2010/07/cedric.walter.smallest.jpg
 ---
 
 I worked with various Insurances companies across Switzerland on online applications handling billion premium volumes. I love to continuously spark my creativity in many different and challenging open sources projects fueled by my great passion for innovation and blockchain technology.

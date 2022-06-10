@@ -6,10 +6,11 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2960'
 permalink: /educationresume/zwischenzeugnis-2004-interim-report-original-on-demand/
-image: /wp-content/uploads/2016/07/Arbeitszeugnis.png
+header:
+  teaser: /assets/images/2016/07/Arbeitszeugnis.png
 ---
 
-<big><span style="font-weight: bold;">Zwischenzeugnis (Interim Report 2004, original on demand)</big>
+<big>Zwischenzeugnis (Interim Report 2004, original on demand)</big>
 
 Herr Cédric Walter, geboren am 3. Oktober 1973, ist seit dem 1. März 2000 bei unserer Versicherungsgesellschaft angestellt. Vom 1. März 2000 bis 31. Juli 2000 absolvierte er im Rahmen seiner Ausbildung zum Informatiker bei uns ein Praktikum.
 

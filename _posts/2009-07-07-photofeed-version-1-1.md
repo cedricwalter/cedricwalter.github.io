@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4519'
 permalink: /joomla/photofeed-version-1-1/
-image: /wp-content/uploads/2009/07/78pxSmugmug_logo.jpg
+header:
+  teaser: /assets/images/2009/07/78pxSmugmug_logo.jpg
 ---
 
 ![78px-Smugmug_logo](/assets/images/2009/07/78pxSmugmug_logo.jpg "78px-Smugmug_logo") ![22711-250px-picasa-logo.svg](/assets/images/2009/07/22711250pxpicasalogo.svg_.png "22711-250px-picasa-logo.svg") ![Flickr_logo](/assets/images/2009/07/Flickr_logo.jpg "Flickr_logo") Photofeed is a small content plugin for #Joomla! 1.5 that allow you to inline a set of images from your favorite online gallery: Smugmug, Flickr, Picasa or any RSS feed in any article.

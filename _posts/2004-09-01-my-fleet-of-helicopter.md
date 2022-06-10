@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=823'
 permalink: /hobbies/my-fleet-of-helicopter/
-image: /wp-content/uploads/2004/08/1stcaliber.jpg
+header:
+  teaser: /assets/images/2004/08/1stcaliber.jpg
 tags:
     - battery
     - caliber

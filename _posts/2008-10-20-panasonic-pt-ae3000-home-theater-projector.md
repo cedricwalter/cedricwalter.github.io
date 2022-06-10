@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3873'
 permalink: /gadget/panasonic-pt-ae3000-home-theater-projector/
-image: /wp-content/uploads/2008/10/285f581f4dcb4304ac52e9ee275f556a_3.jpg
+header:
+  teaser: /assets/images/2008/10/285f581f4dcb4304ac52e9ee275f556a_3.jpg
 ---
 
 With 2499$ MRP, 60000:1 contrast ratio – this projector is going to set a new trend in 1080p projector market. For all of you still looking for good reasons to buy it or not, projectorcentral.com has put an interesting review online

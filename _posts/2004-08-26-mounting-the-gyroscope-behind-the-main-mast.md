@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=127'
 permalink: /hobbies/mounting-the-gyroscope-behind-the-main-mast/
-image: /wp-content/uploads/2004/08/mountinggyrobehindmainmast.gif
+header:
+  teaser: /assets/images/2004/08/mountinggyrobehindmainmast.gif
 tags:
     - fix
     - frame

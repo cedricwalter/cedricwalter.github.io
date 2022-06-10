@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3745'
 permalink: /joomla/joomla-tagging-solution/
-image: /wp-content/uploads/2008/09/2270_tags_thumb.jpg
+header:
+  teaser: /assets/images/2008/09/2270_tags_thumb.jpg
 ---
 
 I have way too much article now on this site…I just can’t find any articles anymore (except with Google). That’s the right time to introduce tags!

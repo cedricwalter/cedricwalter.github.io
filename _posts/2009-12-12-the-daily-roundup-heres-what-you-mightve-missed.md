@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4906'
 permalink: /joomla/the-daily-roundup-heres-what-you-mightve-missed/
-image: /wp-content/uploads/2009/12/engadgetRecap_3.png
+header:
+  teaser: /assets/images/2009/12/engadgetRecap_3.png
 tags:
     - bubble
     - css

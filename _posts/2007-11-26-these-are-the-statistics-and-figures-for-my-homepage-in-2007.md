@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3163'
 permalink: /internet/these-are-the-statistics-and-figures-for-my-homepage-in-2007/
-image: /wp-content/uploads/2007/11/headerSliceLogo.gif
+header:
+  teaser: /assets/images/2007/11/headerSliceLogo.gif
 tags:
     - homepage
     - 'My Homepage'

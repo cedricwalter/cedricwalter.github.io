@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4066'
 permalink: /internet/optimize-your-site-for-pda-and-iphone/
-image: /wp-content/uploads/2009/01/waltercedric.iphone.png
+header:
+  teaser: /assets/images/2009/01/waltercedric.iphone.png
 tags:
     - homepage
 ---

@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=6362'
 permalink: /games/suche-sammle-kaufe-neu-verschweisste-altere-videospiele/
-image: /wp-content/uploads/2010/10/controllermainone.jpg
+header:
+  teaser: /assets/images/2010/10/controllermainone.jpg
 tags:
     - die
     - games

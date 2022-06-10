@@ -8,12 +8,18 @@ guid: 'https://waltercedric.com/new/?p=7814'
 permalink: /gadget/embrace-the-remix-2/
 ---
 
-Technology, society has only come this far by building on the work of the﻿ people before you! the﻿ patent system is broken and useless: [UPSTO (United States Patent and Trademark Office)](http://www.uspto.gov/ "UPSTO United States Patent and Trademark Office") don’t even check if something was invented by another person or company. Just so long as no one has patent you can do it even if you are NOT the inventor!!!
+Technology, society has only come this far by building on the work of the﻿ people before you! the﻿ patent system is
+broken and
+useless: [UPSTO (United States Patent and Trademark Office)](http://www.uspto.gov/ "UPSTO United States Patent and Trademark Office")
+don’t even check if something was invented by another person or company. Just so long as no one has patent you can do it
+even if you are NOT the inventor!!!
 
 From TED.com:   
-Nothing is original, says Kirby Ferguson, creator of Everything is a Remix. From Bob Dylan to Steve Jobs, he says our most celebrated creators borrow, steal and transform. Kirby Ferguson explores creativity in a world where "everything is a remix."
+Nothing is original, says Kirby Ferguson, creator of Everything is a Remix. From Bob Dylan to Steve Jobs, he says our
+most celebrated creators borrow, steal and transform. Kirby Ferguson explores creativity in a world where "everything is
+a remix."
 
- <iframe allowfullscreen="allowfullscreen" frameborder="0" height="315" loading="lazy" src="http://www.youtube.com/embed/L1s_PybOuY0" width="560"></iframe>
+<iframe allowfullscreen="allowfullscreen" frameborder="0" height="315" loading="lazy" src="http://www.youtube.com/embed/L1s_PybOuY0" width="560"></iframe>
 
 Said in the video:
 

@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=7030'
 permalink: /games/nintendo-nes-games-to-play-with-nes-four-score/
-image: /wp-content/uploads/2011/08/nintendo_nes_four_score_00_thumb.png
+header:
+  teaser: /assets/images/2011/08/nintendo_nes_four_score_00_thumb.png
 tags:
     - games
     - nes

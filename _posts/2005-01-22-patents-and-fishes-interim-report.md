@@ -10,13 +10,13 @@ tags:
     - instructions
 ---
 
-<span style="font-weight: bold;"> Copy of the letter I have received from FFII <<feedback@ffii.org>>
+ Copy of the letter I have received from FFII <<feedback@ffii.org>>
 
 Dear FFII supporter \[1\],
 
-<span style="font-weight: bold;">The adoption of the Council’s software patent agreement seems to have been postponed once more. We heard this from various knowledgable sources, but it has not been publically confirmed by the Council presidency.
+The adoption of the Council’s software patent agreement seems to have been postponed once more. We heard this from various knowledgable sources, but it has not been publically confirmed by the Council presidency.
 
-If the adoption is postponed, <span style="font-weight: bold;">the Parliament will have the chance to restart the procedure\[2\]. Even Klaus-Heiner Lehne MEP (German Christian Democrat), who is presiding over the decisions in the legal affairs committee (JURI) and has gone to some lengths to resist the restart while spreading the latest fallacies of the patent lobby\[3\], agreed that he would be open to the restart project if the Council postponed once more.
+If the adoption is postponed,the Parliament will have the chance to restart the procedure\[2\]. Even Klaus-Heiner Lehne MEP (German Christian Democrat), who is presiding over the decisions in the legal affairs committee (JURI) and has gone to some lengths to resist the restart while spreading the latest fallacies of the patent lobby\[3\], agreed that he would be open to the restart project if the Council postponed once more.
 
 We will see a lobbying blitz of unprecedented proportions on the part of the patent industry in the coming weeks and months.
 
@@ -25,14 +25,14 @@ If we can obtain neither a discussion in the Council nor a restart in the Parlia
 Yet even in a 2nd reading we should win. We are offering proven solutions, whereas the patent industry is throwing  
 nothing but money and FUD at the MEPs.
 
-<span style="font-weight: bold;">We believe we \*will\* win this year’s battle, if we manage to:  
+We believe we \*will\* win this year’s battle, if we manage to:  
   (1) raise a fraction of the funds that the patent industry is spending, so as to pay for our Brussels office (i.e. a   
  5-digit sum). It was the groundwork of our representatives that gained the trust of MEPs in 2003. Fruitful working  
  relationships have been built ever since, but our fulltime staff has to live on something, and our coffers are empty.
 
 (2) properly communicate with you. The webdemo campaign must now be regularly renewed, with new model letters, banners and and instructions for action. We need to show our friends in the Parliament what a large and well-informed community is working with us.
 
-<span style="font-weight: bold;">For the time being we would like you to
+For the time being we would like you to
 
 - subscribe to the europarl-parl mailing list\[4\] and prepare to come to Brussels for at least two days in the period 24 January – 2 February to meet JURI MEPs or their assistants.
 - Continue to ask your government to delay (on the basis of Art. 3 of the EU Council’s Rules of Procedure\[5\]) any attempts to adopt the 18 may text as a common position, continue to demand a recount of votes (B-item).

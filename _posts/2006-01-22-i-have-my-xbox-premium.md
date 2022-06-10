@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2290'
 permalink: /games/i-have-my-xbox-premium/
-image: /wp-content/uploads/2006/01/xbox360-release.jpg
+header:
+  teaser: /assets/images/2006/01/xbox360-release.jpg
 tags:
     - proprietary
 ---

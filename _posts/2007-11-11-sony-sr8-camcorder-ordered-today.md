@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3110'
 permalink: /gadget/sony-sr8-camcorder-ordered-today/
-image: /wp-content/uploads/2007/11/smiley-cool.gif
+header:
+  teaser: /assets/images/2007/11/smiley-cool.gif
 tags:
     - camcorder
     - gadget

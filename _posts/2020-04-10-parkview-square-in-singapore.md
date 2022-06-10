@@ -8,7 +8,8 @@ guid: 'https://waltercedric.com/?p=12886'
 permalink: /holidays/parkview-square-in-singapore/
 ngg_post_thumbnail:
     - '0'
-image: /wp-content/uploads/2020/04/parkview-square-singapore-4.jpg
+header:
+  teaser: /assets/images/2020/04/parkview-square-singapore-4.jpg
 tags:
     - asia
     - holidays

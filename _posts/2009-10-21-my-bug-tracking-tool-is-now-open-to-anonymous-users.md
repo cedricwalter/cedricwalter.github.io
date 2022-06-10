@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4791'
 permalink: /internet/my-bug-tracking-tool-is-now-open-to-anonymous-users/
-image: /wp-content/uploads/2009/10/jira.logo_.png
+header:
+  teaser: /assets/images/2009/10/jira.logo_.png
 tags:
     - homepage
 ---

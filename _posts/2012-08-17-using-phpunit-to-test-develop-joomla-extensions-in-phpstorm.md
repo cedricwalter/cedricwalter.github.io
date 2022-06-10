@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=7757'
 permalink: /joomla/using-phpunit-to-test-develop-joomla-extensions-in-phpstorm/
-image: /wp-content/uploads/2012/08/phpunitlogo_thumb.gif
+header:
+  teaser: /assets/images/2012/08/phpunitlogo_thumb.gif
 ---
 
 ![](/assets/images/2012/08/phpunitlogo_thumb.gif)

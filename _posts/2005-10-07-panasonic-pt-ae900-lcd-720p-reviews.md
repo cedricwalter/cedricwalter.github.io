@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2048'
 permalink: /gadget/panasonic-pt-ae900-lcd-720p-reviews/
-image: /wp-content/uploads/2005/10/Panasonic-PT-AE900U-Projector.gif
+header:
+  teaser: /assets/images/2005/10/Panasonic-PT-AE900U-Projector.gif
 tags:
     - combination
     - competition

@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2352'
 permalink: /joomla/joomlacloud-status/
-image: /wp-content/uploads/2006/03/t_core1.0.gif
+header:
+  teaser: /assets/images/2006/03/t_core1.0.gif
 tags:
     - configurable
     - efficiency

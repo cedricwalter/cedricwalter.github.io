@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=1193'
 permalink: /scooter/fabriquer-votre-cabine-de-sablage-pour-presque-rien/
-image: /wp-content/uploads/2004/09/TN_Sablage1.JPG
+header:
+  teaser: /assets/images/2004/09/TN_Sablage1.JPG
 tags:
     - scooter
     - scooters

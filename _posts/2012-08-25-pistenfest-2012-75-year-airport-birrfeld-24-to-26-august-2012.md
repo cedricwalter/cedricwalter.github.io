@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=7774'
 permalink: /holidays/pistenfest-2012-75-year-airport-birrfeld-24-to-26-august-2012/
-image: /wp-content/uploads/2012/08/helicopterflight_pistenfest.ch_.jpg
+header:
+  teaser: /assets/images/2012/08/helicopterflight_pistenfest.ch_.jpg
 tags:
     - switzerland
 ---

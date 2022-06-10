@@ -8,7 +8,8 @@ guid: 'https://waltercedric.com/?p=12790'
 permalink: /holidays/singapore-cloud-forest-dome/
 ngg_post_thumbnail:
     - '0'
-image: /wp-content/uploads/2020/04/singapore-cloud-forest-dome-4.jpg
+header:
+  teaser: /assets/images/2020/04/singapore-cloud-forest-dome-4.jpg
 tags:
     - asia
     - city

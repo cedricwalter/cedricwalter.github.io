@@ -7,10 +7,10 @@ author: 'Cédric Walter'
 guid: 'https://waltercedric.com/new/?p=2870'
 permalink: /today-on-earth/high-speed-camera/
 tags:
-    - fantastic
-    - faster
-    - 'Today on earth'
+- fantastic
+- faster
+- 'Today on earth'
 ---
 
- I particularly like the missile launched from a tube An impressive video…  
- <object height="350" width="425"><param name="movie" value="http://www.youtube.com/v/MX6aerxQPOs"></param><param name="wmode" value="transparent"></param><embed height="350" src="http://www.youtube.com/v/MX6aerxQPOs" type="application/x-shockwave-flash" width="425" wmode="transparent"></embed></object>
+I particularly like the missile launched from a tube An impressive video…  
+<object height="350" width="425"><param name="movie" value="http://www.youtube.com/v/MX6aerxQPOs"></param><param name="wmode" value="transparent"></param><embed height="350" src="http://www.youtube.com/v/MX6aerxQPOs" type="application/x-shockwave-flash" width="425" wmode="transparent"></embed></object>

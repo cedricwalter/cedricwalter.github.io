@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4345'
 permalink: /java/atlassian-just-acquired-greenhopper/
-image: /wp-content/uploads/2009/06/greenhoppertaskboard_thumb.jpg
+header:
+  teaser: /assets/images/2009/06/greenhoppertaskboard_thumb.jpg
 ---
 
 [![greenhoppertaskboard](/assets/images/2009/06/greenhoppertaskboard_thumb.jpg "greenhoppertaskboard")](/assets/images/2009/06/greenhoppertaskboard.jpg)

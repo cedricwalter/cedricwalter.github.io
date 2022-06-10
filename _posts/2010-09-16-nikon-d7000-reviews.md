@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=6042'
 permalink: /gadget/nikon-d7000-reviews/
-image: /wp-content/uploads/2010/09/nikon.d700.dslr_thumb.jpg
+header:
+  teaser: /assets/images/2010/09/nikon.d700.dslr_thumb.jpg
 tags:
     - camera
     - digital

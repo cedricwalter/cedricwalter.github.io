@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=1768'
 permalink: /motorcycles/yamaha-homologue-son-warrior-350r/
-image: /wp-content/uploads/2005/05/Yamaha350R-homologue-CEE.jpg
+header:
+  teaser: /assets/images/2005/05/Yamaha350R-homologue-CEE.jpg
 ---
 
 | ![](/assets/images/2005/05/Yamaha350R-homologue-CEE.jpg) | Enfin Yamaha se decide à homologuer (par MBK) son quad Warrior 350R pour nos routes et chemins de terre francais!   Dispo Ã  <font color="#000000" face="arial">**6 995€** dès la fin du mois de mai chez tous les concessionnaires Yamaha.  Freins centralisés au pied (une idiotie en tout terrain) et 20CV sond de rigueur. [Voici les caractéristiques](http://www2.yamaha-motor.fr/actu/article.php3?id_article=398) de la version non bridé. (**6545****€** donc très peu de différences entre le prix homologué et non homologué) |

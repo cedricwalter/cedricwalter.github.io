@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4104'
 permalink: /internet/over-1-5-million-mobile-public-domain-books/
-image: /wp-content/uploads/2009/02/google.jpg
+header:
+  teaser: /assets/images/2009/02/google.jpg
 tags:
     - google
 ---

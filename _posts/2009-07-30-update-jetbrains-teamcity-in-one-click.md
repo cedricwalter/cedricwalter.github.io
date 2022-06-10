@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4565'
 permalink: /development/update-jetbrains-teamcity-in-one-click/
-image: /wp-content/uploads/2010/05/teamcity512_thumb.png
+header:
+  teaser: /assets/images/2010/05/teamcity512_thumb.png
 tags:
     - backup
     - bash

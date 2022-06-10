@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=1942'
 permalink: /internet/google-maps-improvment-hybrid-mode/
-image: /wp-content/uploads/2005/07/google-maps-hybrid-mode.jpg
+header:
+  teaser: /assets/images/2005/07/google-maps-hybrid-mode.jpg
 tags:
     - displaying
     - europe

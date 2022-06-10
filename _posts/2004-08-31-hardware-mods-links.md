@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=640'
 permalink: /games/hardware-mods-links/
-image: /wp-content/uploads/2004/08/ngani.gif
+header:
+  teaser: /assets/images/2004/08/ngani.gif
 tags:
     - arcade
     - Collectibles

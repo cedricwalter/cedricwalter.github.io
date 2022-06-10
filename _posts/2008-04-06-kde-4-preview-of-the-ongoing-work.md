@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3358'
 permalink: /open-source/kde-4-preview-of-the-ongoing-work/
-image: /wp-content/uploads/2008/04/Kde4.0_thumb.jpg
+header:
+  teaser: /assets/images/2008/04/Kde4.0_thumb.jpg
 ---
 
 [PolishLinux.org](http://polishlinux.org) is a general #Linux portal featuring: comparisons of GNU/Linux and BSD systems, distro chooser, reviews and articles on free software. They have start a review of what KDE 4 look like by presenting a lot of screen shots.   

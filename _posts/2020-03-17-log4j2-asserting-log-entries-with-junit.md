@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=8316'
 permalink: /development/log4j2-asserting-log-entries-with-junit/
-image: /wp-content/uploads/2020/03/java.jpg
+header:
+  teaser: /assets/images/2020/03/java.jpg
 tags:
     - apache
     - category

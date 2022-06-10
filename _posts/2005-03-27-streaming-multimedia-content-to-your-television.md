@@ -24,4 +24,3 @@ DRM what is it? read more at [wikipedia](http://en.wikipedia.org/wiki/Digital_ri
 
 \*\* Need a local network: is needed to interconnect the device with a mass storage medium (harddisk or external DVD reader).
 
-{mosgoogle}

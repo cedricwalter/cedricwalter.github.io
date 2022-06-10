@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4859'
 permalink: /internet/google-chrome-on-your-usb-stick/
-image: /wp-content/uploads/2009/11/googlechrome.png
+header:
+  teaser: /assets/images/2009/11/googlechrome.png
 tags:
     - google
 ---

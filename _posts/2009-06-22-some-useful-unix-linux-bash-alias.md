@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4471'
 permalink: /linux/some-useful-unix-linux-bash-alias/
-image: /wp-content/uploads/2011/05/linux.png
+header:
+  teaser: /assets/images/2011/05/linux.png
 tags:
     - cli
     - linux

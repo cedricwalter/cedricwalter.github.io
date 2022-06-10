@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=1549'
 permalink: /internet/how-to-run-your-productive-version-of-mambo-locally/
-image: /wp-content/uploads/2005/01/easyPHP.jpg
+header:
+  teaser: /assets/images/2005/01/easyPHP.jpg
 tags:
     - configuration
     - development
@@ -16,11 +17,11 @@ tags:
     - installation
 ---
 
-<span style="font-weight: bold;">Do You want to install Mambo?, have a copy of Your productive mambo homepage running locally? or simply develop easily PHP/MySQL code? Do You want to make Mambo a try without the hassle of installations and configurations?  
- <span style="font-weight: bold; color: rgb(255, 0, 0);">EasyPHP might be the answer!  
-<span style="font-weight: bold; font-style: italic;">EasyPHP <span style="font-style: italic;"> is a complete software package allowing to use all the power and the flexibility that offers the dynamic language PHP and the effecient use of databases under Windows. Package includes an Apache server, a MySQL database, a fully PHP execution, as well as easy development tools for your web site or your applications. 
+Do You want to install Mambo?, have a copy of Your productive mambo homepage running locally? or simply develop easily PHP/MySQL code? Do You want to make Mambo a try without the hassle of installations and configurations?  
+ EasyPHP might be the answer!  
+EasyPHP  is a complete software package allowing to use all the power and the flexibility that offers the dynamic language PHP and the effecient use of databases under Windows. Package includes an Apache server, a MySQL database, a fully PHP execution, as well as easy development tools for your web site or your applications. 
 
-Click <span class="readon"> Read more…<span style="font-style: italic;"> to see my experience with it:
+Click <span class="readon"> Read more… to see my experience with it:
 
 # Install easyPHP** EasyPHP is a complete software package allowing to use all the power and the flexibility that offers the dynamic language PHP and the effecient use of databases under Windows. Package includes an Apache server, a MySQL database, a fully PHP execution, as well as easy development tools for your web site or your applications.
 

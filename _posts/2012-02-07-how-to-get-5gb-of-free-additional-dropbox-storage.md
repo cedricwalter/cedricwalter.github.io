@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=7491'
 permalink: /software/how-to-get-5gb-of-free-additional-dropbox-storage/
-image: /wp-content/uploads/2012/02/dropbox.jpg
+header:
+  teaser: /assets/images/2012/02/dropbox.jpg
 tags:
     - android
     - backup

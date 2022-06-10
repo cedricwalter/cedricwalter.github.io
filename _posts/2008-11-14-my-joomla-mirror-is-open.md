@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3925'
 permalink: /joomla/my-joomla-mirror-is-open/
-image: /wp-content/uploads/2008/11/joomla.files_thumb.png
+header:
+  teaser: /assets/images/2008/11/joomla.files_thumb.png
 ---
 
 I did upgrade today a #Joomla! installation that was quite old: #Joomla! 1.0.11 so this site hasn’t been updated at all in the last 810 days 🙁

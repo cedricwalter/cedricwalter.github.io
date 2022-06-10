@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=8742'
 permalink: /development/58-consensus-in-blockchain-consensus-encyclopedia/
-image: /wp-content/uploads/2019/03/blockchain.jpg
+header:
+  teaser: /assets/images/2019/03/blockchain.jpg
 tags:
     - algorithm
     - algorithms

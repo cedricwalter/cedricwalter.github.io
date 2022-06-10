@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2109'
 permalink: /joomla/security-images-2-0-to-be-shipped-soon-with-login-and-registration-patch-for-joomla/
-image: /wp-content/uploads/2005/11/inMod_Login.jpg
+header:
+  teaser: /assets/images/2005/11/inMod_Login.jpg
 tags:
     - background
     - registration

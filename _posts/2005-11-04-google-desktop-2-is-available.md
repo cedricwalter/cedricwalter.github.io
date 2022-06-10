@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2087'
 permalink: /internet/google-desktop-2-is-available/
-image: /wp-content/uploads/2005/11/GoogleSidebar_list.gif
+header:
+  teaser: /assets/images/2005/11/GoogleSidebar_list.gif
 tags:
     - google
 ---

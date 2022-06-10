@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3565'
 permalink: /today-on-earth/stuck-in-the-wrong-job-monster-com/
-image: /wp-content/uploads/2008/07/02_thumb.jpg
+header:
+  teaser: /assets/images/2008/07/02_thumb.jpg
 ---
 
 [![02](/assets/images/2008/07/02_thumb.jpg)](/assets/images/2008/07/02.jpg)   

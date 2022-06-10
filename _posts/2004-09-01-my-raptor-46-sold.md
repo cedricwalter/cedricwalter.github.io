@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=732'
 permalink: /hobbies/my-raptor-46-sold/
-image: /wp-content/uploads/2004/09/Thunder_Tiger_Raptor_46_thumb.jpg
+header:
+  teaser: /assets/images/2004/09/Thunder_Tiger_Raptor_46_thumb.jpg
 tags:
     - Bought
     - ebay

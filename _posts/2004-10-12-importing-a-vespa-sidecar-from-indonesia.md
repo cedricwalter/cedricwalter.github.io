@@ -7,33 +7,37 @@ author: 'Cédric Walter'
 guid: 'https://waltercedric.com/new/?p=1327'
 permalink: /scooter/importing-a-vespa-sidecar-from-indonesia/
 tags:
-    - scooter
-    - scooters
-    - 'Scooters from 50s'
-    - vespa
-    - vintage
+- scooter
+- scooters
+- 'Scooters from 50s'
+- vespa
+- vintage
 ---
 
 [![](images/stories/vespa/sidecararsscoot.jpg)](http://www.arsscoot.com/)  
- from [http://www.arsscoot.com/](http://www.arsscoot.com/)  <span style="font-weight: bold;">Problem No 1 Shipping
+from [http://www.arsscoot.com/](http://www.arsscoot.com/) 
 
-<div style="text-align: left;"> Shipping to France would be:  
+## Problem No 1 Shipping
+
+ Shipping to France would be:  
  Freight: US$ 135/cbm x 3.5 cbm =US$ 472.50  
  Document fee US$ 10/shipment =US$ 10.00  
  Trucking to Jakarta Port &amp; Custom =US$ 95.00  
  Wooden crating box =US$ 100.00  
- Total shipping cost US$ 677.50. ( not doot to door service).  <span style="font-weight: bold;"> Figures still missing:   
+ Total shipping cost US$ 677.50. ( not doot to door service).  Figures still missing:   
  – other costs (bringing the vespa from the nearest port to your door’s home),   
  – french import duty, I assume at least 25% 🙁  
  – any import policy.
 
- The person I’ve discussed with has been shipping some scooter to USA, Canada, Mexico, Germany, Portugal and Norway.  
- At the end it’s only money problem….
+The person I’ve discussed with has been shipping some scooter to USA, Canada, Mexico, Germany, Portugal and Norway.  
+At the end it’s only money problem….
 
- <span style="font-weight: bold;"> Problem No 2 insurance and papers  
- In order to drive or even insured these beautiful vehicles, we need some legal papers.  
- I’ve contact the [FFVE](http://www.ffve.org/) (La FÃ©dÃ©ration FranÃ§aise des VÃ©hicules d’Epoque):  
- “<span style="font-style: italic;">Your vehicle must be older than 25 years in order to be elligible for a “carte grise de collection” We need also the vehicle indonesian papers (translate by an authorized person = 100$ or more), and the formular 846A <span style="font-style: italic;">given by the border authority. Add to t[his a free formular](http://www.ffve.org/library/dossier_cg_collection.pdf) and   
- <span style="font-style: italic;"> your reglement 45 euro“
+## Problem No 2 insurance and papers  
+In order to drive or even insured these beautiful vehicles, we need some legal papers.  
+I’ve contact the [FFVE](http://www.ffve.org/) (La FÃ©dÃ©ration FranÃ§aise des VÃ©hicules d’Epoque):  
+“Your vehicle must be older than 25 years in order to be elligible for a “carte grise de collection” We need also the
+vehicle indonesian papers (translate by an authorized person = 100$ or more), and the formular 846A given by the border
+authority. Add to t[his a free formular](http://www.ffve.org/library/dossier_cg_collection.pdf) and   
+your reglement 45 euro“
 
- more soon…
+more soon…

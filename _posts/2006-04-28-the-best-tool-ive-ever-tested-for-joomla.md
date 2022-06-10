@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2486'
 permalink: /homepage/the-best-tool-ive-ever-tested-for-joomla/
-image: /wp-content/uploads/2006/04/bloggx_65.png
+header:
+  teaser: /assets/images/2006/04/bloggx_65.png
 tags:
     - joomla
 ---

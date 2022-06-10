@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3706'
 permalink: /homepage/iceland-new-zealand-china-america-europe/
-image: /wp-content/uploads/2008/08/gvisit.waltercedric.com_thumb.png
+header:
+  teaser: /assets/images/2008/08/gvisit.waltercedric.com_thumb.png
 ---
 
 [www.gVisit.com](http://www.gVisit.com) – Track visitors to your web site using Google Maps, and his accounting sometimes for slow performance as their server are sometimes slow to respond…Anyway

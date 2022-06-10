@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4893'
 permalink: /games/neo-geo-pocket-games-list/
-image: /wp-content/uploads/2009/12/snk-neo-geo-pocket-0016263-2.jpg
+header:
+  teaser: /assets/images/2009/12/snk-neo-geo-pocket-0016263-2.jpg
 tags:
     - arcade
     - Collectibles

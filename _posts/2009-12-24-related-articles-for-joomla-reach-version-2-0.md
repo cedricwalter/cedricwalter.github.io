@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4911'
 permalink: /joomla/related-articles-for-joomla-reach-version-2-0/
-image: /wp-content/uploads/2009/12/relatedArticles.ex1_thumb_2_680ddc89fe2aa77f2879e1a4647ecbef.png
+header:
+  teaser: /assets/images/2009/12/relatedArticles.ex1_thumb_2_680ddc89fe2aa77f2879e1a4647ecbef.png
 tags:
     - code
     - functionalities

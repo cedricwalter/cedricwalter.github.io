@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3817'
 permalink: /joomla/securityimages-5-documentation/
-image: /wp-content/uploads/2008/09/wiki.waltercedric.com_.jpg
+header:
+  teaser: /assets/images/2008/09/wiki.waltercedric.com_.jpg
 ---
 
 I also see a lot of complains on forums ([also here](http://extensions.joomla.org/component/option,com_mtree/task,viewlink/link_id,1211/Itemid,35/)) about lack of documentation, this should be now also a thing of the past: [the WIKI was put in good use, I did write a lot of entries on how to install, configure SecurityImages 5](http://wiki.waltercedric.com/index.php?title=SecurityImages5.0.X)

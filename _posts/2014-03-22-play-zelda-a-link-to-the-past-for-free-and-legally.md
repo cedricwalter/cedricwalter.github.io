@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=8221'
 permalink: /games/play-zelda-a-link-to-the-past-for-free-and-legally/
-image: /wp-content/uploads/2014/03/zelda-classic1.gif
+header:
+  teaser: /assets/images/2014/03/zelda-classic1.gif
 tags:
     - games
     - nintendo

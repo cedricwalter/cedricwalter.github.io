@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=6829'
 permalink: /gadget/saeco-incanto-sirius/
-image: /wp-content/uploads/2011/06/Saeco_Incanto_Sirius_00_thumb.jpg
+header:
+  teaser: /assets/images/2011/06/Saeco_Incanto_Sirius_00_thumb.jpg
 tags:
     - Fun
     - machine

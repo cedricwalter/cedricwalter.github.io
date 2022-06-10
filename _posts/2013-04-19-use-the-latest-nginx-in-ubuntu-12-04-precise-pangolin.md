@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=8007'
 permalink: /linux/use-the-latest-nginx-in-ubuntu-12-04-precise-pangolin/
-image: /wp-content/uploads/2012/01/Nginx-logo.png
+header:
+  teaser: /assets/images/2012/01/Nginx-logo.png
 tags:
     - HowTo
     - linux

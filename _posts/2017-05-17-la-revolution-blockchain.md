@@ -8,7 +8,10 @@ guid: 'https://waltercedric.com/new/?p=8620'
 permalink: /holidays/la-revolution-blockchain/
 ---
 
-“Blockchain révolution” est un programme de 7 semaines dont l’objectif est de décrypter les enjeux technologiques et anthropologiques autour de la technologie issue de la monnaie digitale décentralisée bitcoin. Le programme fait intervenir des figures marquantes, 15 interviews d’experts, tout au long de la série pour que vous bénéficiez de l’expertise optimale.   
+“Blockchain révolution” est un programme de 7 semaines dont l’objectif est de décrypter les enjeux technologiques et
+anthropologiques autour de la technologie issue de la monnaie digitale décentralisée bitcoin. Le programme fait
+intervenir des figures marquantes, 15 interviews d’experts, tout au long de la série pour que vous bénéficiez de
+l’expertise optimale.   
 Cette série vous est offerte par l’ETNA et le Groupe SII.
 
 ### Mashup Blockchain
@@ -19,8 +22,11 @@ Comprendre l’intérêt du Blockchain et de Blockchain Révolution en moins de 
 
 ### Le Phénomène Blockchain
 
-Pour comprendre le phénomène blockchain, nous allons commencer par étudier la plateforme de ce type la plus ancienne et la plus robuste à savoir celle du Bitcoin.   
- Le cours traitera des notions clés qui permettent d’appréhender le Bitcoin à savoir la notion de décentralisation, d’adresses et transactions bitcoin, de block bitcoin et du langage de script disponible sur cette plateforme et qui permet de disposer d’une monnaie programmable.
+Pour comprendre le phénomène blockchain, nous allons commencer par étudier la plateforme de ce type la plus ancienne et
+la plus robuste à savoir celle du Bitcoin.   
+Le cours traitera des notions clés qui permettent d’appréhender le Bitcoin à savoir la notion de décentralisation,
+d’adresses et transactions bitcoin, de block bitcoin et du langage de script disponible sur cette plateforme et qui
+permet de disposer d’une monnaie programmable.
 
 <https://youtu.be/SM4X7ZlsPf4> ​
 
@@ -35,9 +41,11 @@ Atteignez directement une partie :​
 - [Les scripts Bitcoin](https://youtu.be/SM4X7ZlsPf4?t=57m49s)
 - [Le réseau Bitcoin](https://youtu.be/SM4X7ZlsPf4?t=1h2m49s)
 
-### Le protocole de validation du Bitcoin 
+### Le protocole de validation du Bitcoin
 
-Cette section est la plus technique de notre cours, elle aborde tous les pré-requis techniques (condensat, arbres de merke, cryptographique à clé publique) afin de comprendre l’algorithme qui permet à tous les noeuds bitcoin de trouver un consensus sur les transactions à valider.
+Cette section est la plus technique de notre cours, elle aborde tous les pré-requis techniques (condensat, arbres de
+merke, cryptographique à clé publique) afin de comprendre l’algorithme qui permet à tous les noeuds bitcoin de trouver
+un consensus sur les transactions à valider.
 
 <https://youtu.be/R3DXn7sS8yA> ​
 
@@ -51,7 +59,9 @@ Atteignez directement une partie :​
 
 ### Le Bitcoin en pratique
 
-Cette section traite des aspects les plus concrets du bitcoin en tant que monnaie : comment les stocker, les typologies de portefeuilles, les places de marché, les processeurs de paiement, les frais de transactions et le niveau d’anonymat possible dans une transaction bitcoin
+Cette section traite des aspects les plus concrets du bitcoin en tant que monnaie : comment les stocker, les typologies
+de portefeuilles, les places de marché, les processeurs de paiement, les frais de transactions et le niveau d’anonymat
+possible dans une transaction bitcoin
 
 <https://youtu.be/gaFWTNlTiN4> ​
 
@@ -73,7 +83,9 @@ Atteignez directement une partie :
 
 ### La gouvernance du Bitcoin
 
-Dans cette section, nous découvrirons les différentes parties prenantes dans le réseau Bitcoin, les mécanismes de gestion du réseau, de mise à jour du logiciel, le principe de neutralité du bitcoin et les régulations qui s’appliquent à cet environnement.
+Dans cette section, nous découvrirons les différentes parties prenantes dans le réseau Bitcoin, les mécanismes de
+gestion du réseau, de mise à jour du logiciel, le principe de neutralité du bitcoin et les régulations qui s’appliquent
+à cet environnement.
 
 <https://youtu.be/d17A3Izolz4>
 
@@ -104,8 +116,9 @@ Atteignez directement une partie :
 
 ### Le Bitcoin comme plateforme
 
-Cette section traite de la capacité du Bitcoin à permettre de créer d’autres applications que la monnaie. Nous aborderons quelques exemples d’applications de cette plateforme autour de la preuve,  
- mais également dans le vote, l’assurance ou dans l’e-commerce.
+Cette section traite de la capacité du Bitcoin à permettre de créer d’autres applications que la monnaie. Nous
+aborderons quelques exemples d’applications de cette plateforme autour de la preuve,  
+mais également dans le vote, l’assurance ou dans l’e-commerce.
 
 ​ [https://youtu.be/U\_WR7TkKmnE](https://youtu.be/U_WR7TkKmnE)
 
@@ -117,7 +130,10 @@ Cette section traite de la capacité du Bitcoin à permettre de créer d’autre
 
 ### L’explosion cambrienne des blockchains
 
-Dans cet épisode, nous découvrirons un grand nombre de variantes blockchain inspirées par le Bitcoin. Nous aborderons l’écosystème des alt-coins et nous ferons un focus spécifique sur la plateforme Ethereum. Nous traiterons également des protocoles de registres avec permissions. Enfin, nous aurons une vision de ce marché au travers du regard d’un investisseur.
+Dans cet épisode, nous découvrirons un grand nombre de variantes blockchain inspirées par le Bitcoin. Nous aborderons
+l’écosystème des alt-coins et nous ferons un focus spécifique sur la plateforme Ethereum. Nous traiterons également des
+protocoles de registres avec permissions. Enfin, nous aurons une vision de ce marché au travers du regard d’un
+investisseur.
 
 <https://youtu.be/TTHnkqbhwIw>
 
@@ -127,11 +143,14 @@ Atteignez directement une partie:
 - [Ethereum et les Dapps](https://youtu.be/TTHnkqbhwIw?t=10m57s)
 - [Protocoles de registres avec permissions](https://youtu.be/TTHnkqbhwIw?t=43m28s)
 - [Intervention d’Alexandre David](https://youtu.be/TTHnkqbhwIw?t=47m)  
-     [Intervention de Pascal Gauthier](https://youtu.be/TTHnkqbhwIw?t=1h1m51s)
+  [Intervention de Pascal Gauthier](https://youtu.be/TTHnkqbhwIw?t=1h1m51s)
 
 ### La révolution blockchain
 
-Dans ce 7e et dernier épisode nous aborderons les principales évolutions en cours et à venir dans l’univers Bitcoin et qui concernent la scalabilité : Segregated witness, le réseau Lightning et les SideChains. Enfin, nous aurons le plaisir de terminer cette série avec la star internationale Andreas Antonopoulous pour reprendre les points clés de notre série !​
+Dans ce 7e et dernier épisode nous aborderons les principales évolutions en cours et à venir dans l’univers Bitcoin et
+qui concernent la scalabilité : Segregated witness, le réseau Lightning et les SideChains. Enfin, nous aurons le plaisir
+de terminer cette série avec la star internationale Andreas Antonopoulous pour reprendre les points clés de notre
+série !​
 
 <https://youtu.be/TyjZ7ZpihWk>
 

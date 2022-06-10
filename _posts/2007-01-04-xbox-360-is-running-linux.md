@@ -11,9 +11,9 @@ tags:
     - microsoft
 ---
 
-[<span style="font-weight: bold;">From XBOX-SCENE forums ](http://forums.xbox-scene.com/index.php?showtopic=575582)
+[From XBOX-SCENE forums ](http://forums.xbox-scene.com/index.php?showtopic=575582)
 
-<font size="5">" An anonymous person at the German [23C3 Hacker Congress](http://events.ccc.de/congress/2006/Overview) showed what could be an [Xbox360](http://forums.xbox-scene.com/index.php?showtopic=575582#) hack/exploit during one of the ‘[Lightning Talks](http://events.ccc.de/congress/2006/Lightning_Talks)‘. Lightning Talks is a daily event at Chaos Communication Congress (C3/CCC). It consists in one hour of several short (limited to 5mins) talks.
+" An anonymous person at the German [23C3 Hacker Congress](http://events.ccc.de/congress/2006/Overview) showed what could be an [Xbox360](http://forums.xbox-scene.com/index.php?showtopic=575582#) hack/exploit during one of the ‘[Lightning Talks](http://events.ccc.de/congress/2006/Lightning_Talks)‘. Lightning Talks is a daily event at Chaos Communication Congress (C3/CCC). It consists in one hour of several short (limited to 5mins) talks.
 
 In a very short presentation a masked ‘hacker’ showed an [Xbox 360](http://forums.xbox-scene.com/index.php?showtopic=575582#) booting up King Kong (the [game](http://forums.xbox-scene.com/index.php?showtopic=575582#), by ubisoft). After loading the game a screen pops up showing an Xbox 360 logo, a Mac logo and Tux (the #Linux Penguin) and the words "coming soon…". I also noticed a small PCB is hanging out of his Xbox360 and he’s using a [laptop](http://forums.xbox-scene.com/index.php?showtopic=575582#) (Apple Macbook pro?), but it’s not really clear what he’s doing with it.  
 Those who followed hacking discussions might remember hackers did some [research](http://www.xbox-scene.com/xbox1data/sep/EEFVAAyAAEpNIzOYMn.php) around the vector shaders in the King Kong demo on the Xbox 360 Kiosk Disc (that ran from recordable media). The demo (and final game too) allow to modify the shaders (they are not checked/signed). However no exploit to take control of the machine was found back then … so either this hacker found something here, or he’s just showing us his custom modified shaders 😉  
@@ -31,4 +31,4 @@ Here’s another footage of the presentation filmed by someone in the public.
 Language: German  
 Speaker(s): Anonym   
 Description: The XBox360 was live hacked in front of the audience – running #Linux and Mac OS coming soon. Stay tuned – a #Linux kernel is already booting..* \[/QUOTE\]  
-<font size="5">"
+"

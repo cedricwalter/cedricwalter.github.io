@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=1527'
 permalink: /development/singleton/
-image: /wp-content/uploads/2005/01/java-pattern-singleton.png
+header:
+  teaser: /assets/images/2005/01/java-pattern-singleton.png
 ---
 
 Ensure a class only has one instance, and provide a global point of access to it.

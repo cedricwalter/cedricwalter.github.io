@@ -3,16 +3,16 @@ id: 7931
 title: 'PHP Code Snippet to retrieve Data from WikiPedia'
 date: '2012-12-17T15:35:50+01:00'
 author: 'Cédric Walter'
-
+header:
+    teaser: /assets/images/2012/12/PHP-logo.png
 guid: 'https://waltercedric.com/new/?p=7931'
 permalink: /joomla/php-code-snippet-to-retrieve-data-from-wikipedia/
 ---
 
-![](/assets/images/2012/12/PHP-logo.png)
 
 This interesting code snippet is from [cedTag](http://www.waltercedric.com/tag/cedtag "cedTag joomla tagging extension") and let you retrieve [WikiPedia](http://www.wikipedia.org/ "wikipedia") description using [OpenSearch API](http://www.mediawiki.org/wiki/API:Opensearch). It use the [Client Url Library cURL](http://php.net/manual/en/book.curl.php). Released under GPL v3
 
-```
+```php
 /**  * @param $searchTerm  * @param string $wikipediaServer  * @return array|string  [text, description, url]  */ public function getDefinitionFrom
 
       ($searchTerm, $wikipediaServer = 'http://en.wikipedia.org') {     $url = $wikipediaServer. 

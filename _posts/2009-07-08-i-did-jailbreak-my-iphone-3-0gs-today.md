@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4522'
 permalink: /gadget/i-did-jailbreak-my-iphone-3-0gs-today/
-image: /wp-content/uploads/2009/07/little.big_.planet.cydia_.jpg
+header:
+  teaser: /assets/images/2009/07/little.big_.planet.cydia_.jpg
 ---
 
 There are “Still” plenty of reasons to jailbreak that aren’t directly related to iPhone-specific hardware.

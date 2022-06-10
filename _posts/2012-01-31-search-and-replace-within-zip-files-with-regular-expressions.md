@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=7466'
 permalink: /java/search-and-replace-within-zip-files-with-regular-expressions/
-image: /wp-content/uploads/2012/01/Search_And_Replace_Within_Zip_Files_With_OxygenXMLEditor.png
+header:
+  teaser: /assets/images/2012/01/Search_And_Replace_Within_Zip_Files_With_OxygenXMLEditor.png
 ---
 
 There is a lot of shareware and freeware ([jEdit](http://jedit.org/), [Notepad++](http://notepad-plus-plus.org/)) to do complex search and replacement in files but none is supporting these kind of operations in zip files spread across many subdirectories. Luckily [Oxygen Editor](http://www.oxygenxml.com/) can

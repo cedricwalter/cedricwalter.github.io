@@ -12,7 +12,7 @@ tags:
     - Storage
 ---
 
- I am still testing my <span style="font-weight: bold;">NAS system (seven 300Gb disks) and while testing [OpenSolaris](http://www.opensolaris.org/) (under [Belenix](http://www.belenix.org/)), and Googling I found that page:
+ I am still testing myNAS system (seven 300Gb disks) and while testing [OpenSolaris](http://www.opensolaris.org/) (under [Belenix](http://www.belenix.org/)), and Googling I found that page:
 
  [This blog is about the Google Summer of Code project "ZFS filesystem for FUSE/Linux"](http://zfs-on-fuse.blogspot.com/)
 
@@ -20,13 +20,13 @@ tags:
 
  While [ZFS](http://www.opensolaris.org/os/community/zfs/) has many features which can benefit all kinds of users – from the simple end-user to the biggest enterprise systems: <span class="anchor" id="line-18"><span class="anchor" id="line-19">
 
-- <span style="font-weight: bold;"> Provable integrity – it checksums all data (and meta-data), which makes it possible to detect hardware errors (hard disk corruption, flaky IDE cables..).
-- <span style="font-weight: bold;"> Atomic updates – means that the on-disk state is consistent at all times, there’s no need to perform a lengthy filesystem check after forced reboots/power failures.
+- Provable integrity – it checksums all data (and meta-data), which makes it possible to detect hardware errors (hard disk corruption, flaky IDE cables..).
+- Atomic updates – means that the on-disk state is consistent at all times, there’s no need to perform a lengthy filesystem check after forced reboots/power failures.
 - Instantaneous snapshots and clones – it makes it possible to have hourly, daily and weekly backups efficiently, as well as experiment with new system configurations without any risks.
-- <span style="font-weight: bold;">Built-in compression, encryption
+-Built-in compression, encryption
 - Highly scalable
-- <span style="font-weight: bold;">Pooled storage model – creating filesystems is as easy as creating a new directory. You can efficiently have thousands of filesystems, each with it’s own quotas and reservations, and different properties (compression algorithm, checksum algorithm, etc..).
-- <span style="font-weight: bold;">Built-in stripes (RAID-0), mirrors (RAID-1) and RAID-Z (it’s like software RAID-5, but more efficient due to ZFS’s copy-on-write transactional model).
+-Pooled storage model – creating filesystems is as easy as creating a new directory. You can efficiently have thousands of filesystems, each with it’s own quotas and reservations, and different properties (compression algorithm, checksum algorithm, etc..).
+-Built-in stripes (RAID-0), mirrors (RAID-1) and RAID-Z (it’s like software RAID-5, but more efficient due to ZFS’s copy-on-write transactional model).
 - Variable sector sizes, adaptive endianness etc…
 
  In fact this is a sponsored Google summer of code project. Note that Apple is also currently porting [ZFS](http://www.opensolaris.org/os/community/zfs/) under OS-X. That could mean that [ZFS](http://www.opensolaris.org/os/community/zfs/) could be mainstream in a future not far away than 2 years.

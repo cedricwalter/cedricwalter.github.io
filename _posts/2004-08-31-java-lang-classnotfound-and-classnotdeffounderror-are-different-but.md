@@ -7,10 +7,10 @@ author: 'Cédric Walter'
 guid: 'https://waltercedric.com/new/?p=541'
 permalink: /java/java-lang-classnotfound-and-classnotdeffounderror-are-different-but/
 tags:
-    - classpath
-    - definition
-    - directory
-    - java
+- classpath
+- definition
+- directory
+- java
 ---
 
 Â **java.lang.ClassNotFound and ClassNotDefFoundError are different but what if my classes are in classpath?**
@@ -18,4 +18,6 @@ tags:
 Â Remember:
 
 - ClassNotDefFoundError is thrown if a class definition of the hierarchy is not located by the classloader
-- ClassNotFound if the file or class can not be found in classpath. Remember only some servletrunner can open jar files, so having jar files in a directory without having them explicitely in classpath do not help much. You must have the name of jar file in CPath.
+- ClassNotFound if the file or class can not be found in classpath. Remember only some servletrunner can open jar files,
+  so having jar files in a directory without having them explicitely in classpath do not help much. You must have the
+  name of jar file in CPath.

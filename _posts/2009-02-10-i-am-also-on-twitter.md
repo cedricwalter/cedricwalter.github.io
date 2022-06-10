@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4135'
 permalink: /internet/i-am-also-on-twitter/
-image: /wp-content/uploads/2009/02/twitterlogotext.png
+header:
+  teaser: /assets/images/2009/02/twitterlogotext.png
 tags:
     - homepage
 ---

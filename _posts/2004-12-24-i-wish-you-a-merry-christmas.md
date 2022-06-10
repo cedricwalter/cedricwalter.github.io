@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=1444'
 permalink: /homepage/i-wish-you-a-merry-christmas/
-image: /wp-content/uploads/2013/12/merry-christmas-with-tree_thumb.gif
+header:
+  teaser: /assets/images/2013/12/merry-christmas-with-tree_thumb.gif
 tags:
     - christmas
 ---

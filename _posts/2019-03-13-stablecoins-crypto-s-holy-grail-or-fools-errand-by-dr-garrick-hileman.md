@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=8750'
 permalink: /development/stablecoins-crypto-s-holy-grail-or-fools-errand-by-dr-garrick-hileman/
-image: /wp-content/uploads/2019/03/stablecoins.png
+header:
+  teaser: /assets/images/2019/03/stablecoins.png
 tags:
     - analysis
     - blockchain

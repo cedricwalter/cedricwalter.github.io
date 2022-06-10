@@ -10,7 +10,7 @@ tags:
     - java
 ---
 
-<span style="font-weight: bold;">Reference Table UTF-8 Unicode Character Set – (for HTML UTF-8 enabled pages)
+Reference Table UTF-8 Unicode Character Set – (for HTML UTF-8 enabled pages)
 
 You MUST use the META tag : <meta http-equiv=Content-Type content="text/html; charset=UTF-8"> in Your HTML header
 

@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4832'
 permalink: /games/neo-geo-pocket-color/
-image: /wp-content/uploads/2009/10/neo.geo_.pocket.color_.aqua_.blue_.3.jpg
+header:
+  teaser: /assets/images/2009/10/neo.geo_.pocket.color_.aqua_.blue_.3.jpg
 tags:
     - arcade
     - battery

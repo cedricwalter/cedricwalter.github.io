@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=8657'
 permalink: /development/xmr-stak-nvidia-miner-running-in-docker/
-image: /wp-content/uploads/2017/06/docker.png
+header:
+  teaser: /assets/images/2017/06/docker.png
 tags:
     - amd
     - cedricwalter

@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=8490'
 permalink: /hobbies/hp-39gs-newly-added-to-my-collection/
-image: /wp-content/uploads/2016/07/hp39gc-header.jpg
+header:
+  teaser: /assets/images/2016/07/hp39gc-header.jpg
 tags:
     - calculator
     - graphing

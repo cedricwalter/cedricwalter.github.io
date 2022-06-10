@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2899'
 permalink: /open-source/unclutter-the-msn-live-messenger-interface/
-image: /wp-content/uploads/2007/03/patch.messenger.live_.with_.apatch.gif
+header:
+  teaser: /assets/images/2007/03/patch.messenger.live_.with_.apatch.gif
 tags:
     - microsoft
     - opensource

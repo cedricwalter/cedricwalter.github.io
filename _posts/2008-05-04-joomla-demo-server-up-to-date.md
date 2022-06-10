@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3452'
 permalink: /joomla/joomla-demo-server-up-to-date/
-image: /wp-content/uploads/2008/05/demo_header_short_thumb.jpg
+header:
+  teaser: /assets/images/2008/05/demo_header_short_thumb.jpg
 ---
 
 [![demo_header_short](/assets/images/2008/05/demo_header_short_thumb.jpg)](/assets/images/2008/05/demo_header_short.jpg)

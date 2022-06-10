@@ -6,22 +6,23 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2968'
 permalink: /joomla/welcome-to-the-install-of-opencomment-3-0-30-beta/
-image: /wp-content/uploads/2006/03/opencomment-72.jpg
+header:
+  teaser: /assets/images/2006/03/opencomment-72.jpg
 tags:
     - joomla
 ---
 
-![](/assets/images/2006/03/opencomment-72.jpg)<span style="font-weight: bold;">opencomment 3.0.30   
+![](/assets/images/2006/03/opencomment-72.jpg)opencomment 3.0.30   
 <span style="font-weight: bold; color: rgb(0, 153, 0);">NEW: you can disable the paging algorithm… so users do not have to click many times to go through all comments  
 <span style="font-weight: bold; color: rgb(0, 153, 0);">NEW: admin can unpublish comment in frontEnd  
 <span style="font-weight: bold; color: rgb(0, 153, 0);">NEW: more security check for admin AJAX functions  
-<span style="font-weight: bold; color: rgb(255, 0, 0);">BUG: language not correct in frontend, fallback to english. was only if register globals off  
-<span style="color: rgb(255, 0, 0); font-weight: bold;">BUG: [newest comment first fix …](http://forums.waltercedric.com/index.php?topic=274.msg1046#msg1046) submitted by Fanno  
-<span style="color: rgb(255, 0, 0); font-weight: bold;">BUG: [bbcode support fix ?](http://forums.waltercedric.com/index.php?topic=271.msg1043#msg1043) submitted by Fanno  
-<span style="color: rgb(255, 0, 0); font-weight: bold;">BUG: [small admin fix](http://forums.waltercedric.com/index.php?topic=273.msg1045#msg1045) submitted by Fanno  
-<span style="color: rgb(255, 0, 0); font-weight: bold;">BUG<span style="color: rgb(255, 0, 0); font-weight: bold;">:<span style="color: rgb(255, 0, 0); font-weight: bold;"> [IMPORTANT FIX](http://forums.waltercedric.com/index.php?topic=281.msg1071#msg1071) do not allow visitor to delete comment – submitted by Fanno
+BUG: language not correct in frontend, fallback to english. was only if register globals off  
+BUG: [newest comment first fix …](http://forums.waltercedric.com/index.php?topic=274.msg1046#msg1046) submitted by Fanno  
+BUG: [bbcode support fix ?](http://forums.waltercedric.com/index.php?topic=271.msg1043#msg1043) submitted by Fanno  
+BUG: [small admin fix](http://forums.waltercedric.com/index.php?topic=273.msg1045#msg1045) submitted by Fanno  
+BUG: [IMPORTANT FIX](http://forums.waltercedric.com/index.php?topic=281.msg1071#msg1071) do not allow visitor to delete comment – submitted by Fanno
 
-1. You will be able to see the latest version running at demo.waltercedric.com <span style="font-weight: bold;">soon
+1. You will be able to see the latest version running at demo.waltercedric.comsoon
 2. Recommended is to do a backup of your database prior to install!
 
 Install file in order specified by number…

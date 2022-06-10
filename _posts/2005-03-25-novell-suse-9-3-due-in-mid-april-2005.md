@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=1642'
 permalink: /linux/novell-suse-9-3-due-in-mid-april-2005/
-image: /wp-content/uploads/2005/03/susePROF93_box.gif
+header:
+  teaser: /assets/images/2005/03/susePROF93_box.gif
 tags:
     - OpenSuse
 ---

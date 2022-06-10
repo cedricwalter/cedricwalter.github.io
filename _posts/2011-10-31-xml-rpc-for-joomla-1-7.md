@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=7244'
 permalink: /joomla/xml-rpc-for-joomla-1-7/
-image: /wp-content/uploads/2011/10/joomla_cms_thumb.png
+header:
+  teaser: /assets/images/2011/10/joomla_cms_thumb.png
 ---
 
 ![](/assets/images/2011/10/joomla_cms_thumb.png)

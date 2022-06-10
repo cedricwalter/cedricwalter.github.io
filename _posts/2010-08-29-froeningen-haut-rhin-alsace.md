@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=5891'
 permalink: /holidays/froeningen-haut-rhin-alsace/
-image: /wp-content/uploads/2010/08/1200px-Blason_de_la_ville_de_Froeningen_68.svg_.png
+header:
+  teaser: /assets/images/2010/08/1200px-Blason_de_la_ville_de_Froeningen_68.svg_.png
 tags:
     - des
     - dont

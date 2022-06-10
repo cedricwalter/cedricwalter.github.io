@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=8233'
 permalink: /games/3-new-zelda-quests-following-a-link-to-the-past/
-image: /wp-content/uploads/2014/03/zeldaroth.png
+header:
+  teaser: /assets/images/2014/03/zeldaroth.png
 tags:
     - games
     - vintage

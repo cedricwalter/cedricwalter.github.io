@@ -23,7 +23,7 @@ tags:
 - If You still want to report a new bug, Please try to be as descriptive as possible: URL of your site, PHP info as a dump, any error messages if available, screenshots. You can enter a new bug in English, German or French, I can’t read any other languages sorry.
 - Check [also in my WIKI](http://waltercedric.com/wiki/index.php?title=Com_securityimages_a_captcha_framework) for the latest online documentation.
 - Do yourself a favor, use [Google](http://www.google.com/), try to copy your error message or summarize your issue in keyword and append the name of my component and part of the error message.
-- There is a lot of valuable people on forums, who may be able to help You, and give their free time back to the community. For the same reason, if You successfully solve <span style="font-weight: bold;">Your <span style="font-weight: bold;">problem, do not keep this knowledge and publish it! As soon as it is on Internet, Google will index it for the benefit of the community s<span style="font-weight: bold;">o comment your experience:
+- There is a lot of valuable people on forums, who may be able to help You, and give their free time back to the community. For the same reason, if You successfully solveYourproblem, do not keep this knowledge and publish it! As soon as it is on Internet, Google will index it for the benefit of the community so comment your experience:
     - On any Internet page
     - On a blog
     - [My forums](http://forums.waltercedric.com) or any other forums

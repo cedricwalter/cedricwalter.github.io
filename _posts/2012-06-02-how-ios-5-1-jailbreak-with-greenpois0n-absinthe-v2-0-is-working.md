@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=7707'
 permalink: /gadget/how-ios-5-1-jailbreak-with-greenpois0n-absinthe-v2-0-is-working/
-image: /wp-content/uploads/2012/06/iOSJailbreakWithAbsinthe_thumb.png
+header:
+  teaser: /assets/images/2012/06/iOSJailbreakWithAbsinthe_thumb.png
 ---
 
 ![iOSJailbreakWithAbsinthe](/assets/images/2012/06/iOSJailbreakWithAbsinthe_thumb.png "iOSJailbreakWithAbsinthe")

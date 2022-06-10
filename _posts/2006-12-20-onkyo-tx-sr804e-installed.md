@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2808'
 permalink: /gadget/onkyo-tx-sr804e-installed/
-image: /wp-content/uploads/2006/12/onkyo.TX-SR804E.jpg
+header:
+  teaser: /assets/images/2006/12/onkyo.TX-SR804E.jpg
 tags:
     - gadget
     - 'Home Cinema'

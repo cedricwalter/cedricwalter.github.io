@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=82'
 permalink: /hobbies/change-the-default-exhaust/
-image: /wp-content/uploads/2004/08/hatori350.jpg
+header:
+  teaser: /assets/images/2004/08/hatori350.jpg
 tags:
     - caliber
     - interesting

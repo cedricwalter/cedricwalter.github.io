@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=8695'
 permalink: /development/blockchain-crypto-valley-map/
-image: /wp-content/uploads/2018/03/cryptovalley.directory.jpg
+header:
+  teaser: /assets/images/2018/03/cryptovalley.directory.jpg
 ---
 
 For the first time a comprehensive overview is available that shows the size, importance and diversity of the whole ecosystem in the Crypto Valley. [http://cryptovalley.directory](http://cryptovalley.directory/)<span class="ember-view" id="ember11176"> lists more than 350 companies developing and using blockchain technologies

@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4547'
 permalink: /today-on-earth/send-your-name-to-mars-landing-expected-in-2011/
-image: /wp-content/uploads/2009/07/mars.waltercedric.com_.png
+header:
+  teaser: /assets/images/2009/07/mars.waltercedric.com_.png
 ---
 
 [![mars.waltercedric.com](/assets/images/2009/07/mars.waltercedric.com_.png "mars.waltercedric.com")](http://mars.waltercedric.com/)

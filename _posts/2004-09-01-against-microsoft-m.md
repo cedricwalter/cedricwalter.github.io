@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=684'
 permalink: /open-source/against-microsoft-m/
-image: /wp-content/uploads/2004/09/icon31.gif
+header:
+  teaser: /assets/images/2004/09/icon31.gif
 ---
 
 ![](/assets/images/2004/09/icon31.gif) (I am and you?) ![](/assets/images/2004/09/angry.gif)

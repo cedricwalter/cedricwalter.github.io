@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2117'
 permalink: /joomla/security-images-2-2-whats-new/
-image: /wp-content/uploads/2005/11/tooMuchretry.gif
+header:
+  teaser: /assets/images/2005/11/tooMuchretry.gif
 tags:
     - joomla
     - securityimages
@@ -42,7 +43,7 @@ I will also release a new version of akocomment, and resolve the logged in user 
 
 Administrator mail UTF8 support patch by Karel Neugebauer jr. – http://itx.cz
 
-<font size="5">Install security images form code in existing Joomla code…
+Install security images form code in existing Joomla code…
 
 | point A | **Open** components\\com\_registration\\registration.html.php **line 54** in function registerForm($option, $useractivation) |
 |---|---|
@@ -51,7 +52,7 @@ Administrator mail UTF8 support patch by Karel Neugebauer jr. – http://itx.cz
 |  | <font color="#808080"><tr>    <td>    <?php echo \_REGISTER\_VPASS; ?> \*    </td>    <td>    <input class="inputbox" type="password" name="password2" size="40" value="" />    </td>    </tr>     **<?php     //security image by www.waltercedric.com    global $mosConfig\_absolute\_path;    if (file\_exists($mosConfig\_absolute\_path.’/administrator/components/com\_securityimages/patches/registration.html.registerForm.php’)) {    require\_once($mosConfig\_absolute\_path.’/administrator/components/com\_securityimages/patches/registration.html.registerForm.php’);    }    //end security image by www.waltercedric.com    ?>**<font color="#808080">    <tr>    <td colspan="2">    </td>    </tr>     |
 | <font color="#808080">point C |  |
 
-<font size="5">Install security images checking code in existing Joomla code…
+Install security images checking code in existing Joomla code…
 
 | Point 1 | **Open** <font face="Courier New Baltic">\\components\\com\_registration\\registration.php **after line 61 add what is in bold below** |
 |---|---|

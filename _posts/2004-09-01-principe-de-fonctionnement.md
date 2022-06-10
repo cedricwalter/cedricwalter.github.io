@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=775'
 permalink: /hobbies/principe-de-fonctionnement/
-image: /wp-content/uploads/2004/09/board.jpg
+header:
+  teaser: /assets/images/2004/09/board.jpg
 tags:
     - spectrolutions
 ---

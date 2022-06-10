@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=1999'
 permalink: /joomla/protecting-you-mambo-admin-panel-using-htaccess/
-image: /wp-content/uploads/2005/08/protectMamboWithHtaccess.jpg
+header:
+  teaser: /assets/images/2005/08/protectMamboWithHtaccess.jpg
 tags:
     - dictionnary
 ---

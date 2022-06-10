@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3889'
 permalink: /security/secure-safe-fast-linux-hosting-v1-4-0/
-image: /wp-content/uploads/2008/11/mindmap.png
+header:
+  teaser: /assets/images/2008/11/mindmap.png
 ---
 
 This list is an ongoing work and [since the version 1.0](http://www.waltercedric.com/internet-www-mainmenu-54/313-security/1272-secure-safe-fast-linux-hosting.html) (01 March 2008), a lot of nodes/ideas **and now links have been added**. The tree is also now **a lot more structured…**

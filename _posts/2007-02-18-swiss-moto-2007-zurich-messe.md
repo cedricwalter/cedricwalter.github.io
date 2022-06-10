@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2880'
 permalink: /holidays/swiss-moto-2007-zurich-messe/
-image: /wp-content/uploads/2007/02/messe.zurich.swiss_.moto_.show_.jpg
+header:
+  teaser: /assets/images/2007/02/messe.zurich.swiss_.moto_.show_.jpg
 tags:
     - events
     - switzerland

@@ -15,7 +15,7 @@ tags:
 ---
 
 Infoworld has an interesting[ special report online](http://www.infoworld.com/reports/32SRoss.html):  
-<span style="font-style: italic;">Think high-priced commercial software is your only option? Don’t be so sure. Free alternatives are available in a wide range of enterprise software categories, including some that may surprise you.  
+Think high-priced commercial software is your only option? Don’t be so sure. Free alternatives are available in a wide range of enterprise software categories, including some that may surprise you.  
 <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"></meta> <meta content="Kate, the KDE Advanced Text Editor" name="Generator"></meta>
 
 - A buyer’s guide to open source
@@ -31,6 +31,6 @@ Infoworld has an interesting[ special report online](http://www.infoworld.com/re
 - Open source point of sale
 - Open source RFID
 - Open source VoIP/Telephony
-- <span style="font-style: italic;">Open source licensing offers many choices
+- Open source licensing offers many choices
 
 <span class="listLinkLrg"> 

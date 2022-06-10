@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2842'
 permalink: /games/sony-ps3-modding-homebrew-upgrades-mods-and-hacks/
-image: /wp-content/uploads/2005/06/sony_playstation_ps3.jpg
+header:
+  teaser: /assets/images/2005/06/sony_playstation_ps3.jpg
 tags:
     - gadget
     - 'Sony PS3'
@@ -15,7 +16,7 @@ tags:
 
 ![sony_playstation_ps3](/assets/images/2005/06/sony_playstation_ps3.jpg "sony_playstation_ps3")
 
-<span style="font-weight: bold;"> Sony PS3 Modding – Homebrew, Upgrades, Mods, and Hacks is a blog already listing an impressive list of mods for the Playstation 3, some examples:
+ Sony PS3 Modding – Homebrew, Upgrades, Mods, and Hacks is a blog already listing an impressive list of mods for the Playstation 3, some examples:
 
 - [MythTV for PS3 – Turn your PS3 into a PVR/TiVo](http://ps3mods.blogspot.com/2007/01/mythtv-for-ps3-turn-your-ps3-into.html)
 - [PS2 Backups on the PS3 via Swap Magic](http://ps3mods.blogspot.com/2007/01/ps2-backups-on-ps3-via-swap-magic.html)

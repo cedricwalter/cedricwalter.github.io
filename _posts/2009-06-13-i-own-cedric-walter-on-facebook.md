@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4406'
 permalink: /internet/i-own-cedric-walter-on-facebook/
-image: /wp-content/uploads/2009/06/www_facebook_com_cedric_walter.png
+header:
+  teaser: /assets/images/2009/06/www_facebook_com_cedric_walter.png
 tags:
     - homepage
 ---

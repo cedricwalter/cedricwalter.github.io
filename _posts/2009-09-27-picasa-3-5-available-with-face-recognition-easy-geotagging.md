@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4708'
 permalink: /open-source/picasa-3-5-available-with-face-recognition-easy-geotagging/
-image: /wp-content/uploads/2009/09/picasa.logo_thumb.jpg
+header:
+  teaser: /assets/images/2009/09/picasa.logo_thumb.jpg
 tags:
     - Download
     - Features

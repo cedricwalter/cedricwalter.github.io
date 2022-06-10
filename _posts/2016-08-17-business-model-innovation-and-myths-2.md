@@ -10,6 +10,7 @@ permalink: /development/business-model-innovation-and-myths-2/
 
 How innovations come into being and what myths they are associated with…
 
- <iframe allowfullscreen="allowfullscreen" frameborder="0" height="315" loading="lazy" src="https://www.youtube.com/embed/B4ZSGQW0UMI" width="560"></iframe>
+<iframe allowfullscreen="allowfullscreen" frameborder="0" height="315" loading="lazy" src="https://www.youtube.com/embed/B4ZSGQW0UMI" width="560"></iframe>
 
-Don’t forget to have a look at their website for more information on the 55 business model patterns: <http://www.bmi-lab.ch/>
+Don’t forget to have a look at their website for more information on the 55 business model
+patterns: <http://www.bmi-lab.ch/>

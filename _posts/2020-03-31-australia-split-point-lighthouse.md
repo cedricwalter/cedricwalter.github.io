@@ -8,7 +8,8 @@ guid: 'https://waltercedric.com/?p=12293'
 permalink: /holidays/australia-split-point-lighthouse/
 ngg_post_thumbnail:
     - '0'
-image: /wp-content/uploads/2020/03/australia.victoria.great_.ocean_.road_00086-2.jpg
+header:
+  teaser: /assets/images/2020/03/australia.victoria.great_.ocean_.road_00086-2.jpg
 tags:
     - Australia
     - holidays

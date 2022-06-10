@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2858'
 permalink: /open-source/adobe-to-release-full-pdf-specification-to-iso/
-image: /wp-content/uploads/2007/01/Adobe-acrobat-PDF.jpg
+header:
+  teaser: /assets/images/2007/01/Adobe-acrobat-PDF.jpg
 tags:
     - opensource
     - software

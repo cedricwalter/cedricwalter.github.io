@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4630'
 permalink: /gadget/canon-7d-technical-review/
-image: /wp-content/uploads/2009/09/CanonEOS7D_thumb.jpg
+header:
+  teaser: /assets/images/2009/09/CanonEOS7D_thumb.jpg
 ---
 
 An interesting review [![Canon EOS 7D](/assets/images/2009/09/CanonEOS7D_thumb.jpg "Canon EOS 7D")](/assets/images/2009/09/CanonEOS7D.jpg)by David Newton

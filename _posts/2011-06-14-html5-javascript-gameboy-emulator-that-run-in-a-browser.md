@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=6885'
 permalink: /games/html5-javascript-gameboy-emulator-that-run-in-a-browser/
-image: /wp-content/uploads/2011/06/HTML5_JavaScript_Gameboy_Emulator.png
+header:
+  teaser: /assets/images/2011/06/HTML5_JavaScript_Gameboy_Emulator.png
 tags:
     - emulator
     - games

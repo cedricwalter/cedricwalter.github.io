@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=7690'
 permalink: /joomla/joomla-mootools-and-jquery-compatibility/
-image: /wp-content/uploads/2012/05/jquery_logo.png
+header:
+  teaser: /assets/images/2012/05/jquery_logo.png
 ---
 
 ![](/assets/images/2012/05/jquery_logo.png)

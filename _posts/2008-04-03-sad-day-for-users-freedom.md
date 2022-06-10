@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3340'
 permalink: /open-source/sad-day-for-users-freedom/
-image: /wp-content/uploads/2008/04/bill_monoploy_thumb.jpg
+header:
+  teaser: /assets/images/2008/04/bill_monoploy_thumb.jpg
 ---
 
 | [![bill_monoploy](/assets/images/2008/04/bill_monoploy_thumb.jpg)](/assets/images/2008/04/bill_monoploy.jpg) | Microsoft Open XML has been approved by ISO, corruption and    money talk in action! [Irregularities during the vote are popping up](http://www.noooxml.org/irregularities)  "*Microsoft’s embattled Office Open XML document format received    ISO fast-track approval after receiving support from approximately     86 percent of the national bodies that participated in the vote. ISO approval will be broadly perceived as a sign of validation for the document format which has received widespread criticism from    technical experts and standards advocacy groups.*" [read more HERE](http://arstechnica.com/news.ars/post/20080401-microsofts-office-open-xml-now-an-official-iso-standard.html) |

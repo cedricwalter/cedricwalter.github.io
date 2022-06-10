@@ -8,7 +8,8 @@ guid: 'https://waltercedric.com/?p=11693'
 permalink: /holidays/la-tour-de-peilz/
 ngg_post_thumbnail:
     - '0'
-image: /wp-content/uploads/2020/03/La-Tour-de-Peilz-switzerland-6.jpg
+header:
+  teaser: /assets/images/2020/03/La-Tour-de-Peilz-switzerland-6.jpg
 tags:
     - city
     - holidays

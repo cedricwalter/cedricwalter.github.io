@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2715'
 permalink: /internet/google-code-search/
-image: /wp-content/uploads/2005/07/google-labs.gif
+header:
+  teaser: /assets/images/2005/07/google-labs.gif
 tags:
     - google
 ---

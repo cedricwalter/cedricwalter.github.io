@@ -8,6 +8,6 @@ guid: 'https://waltercedric.com/new/?p=1578'
 permalink: /javascript/on-hover-display-help-or-diverse-informations-for-a-professional-look/
 ---
 
-<span style="font-weight: bold;">Overlib  
+Overlib  
 overLIB is a #JavaScript library created to enhance websites with small popup information boxes (like tooltips) to help visitors around your website. It can be used to provide the user with information about what will happen when they click on a link.  
 You want to see this free script in action? more [here at the official Homepage](http://www.bosrup.com/web/overlib/)

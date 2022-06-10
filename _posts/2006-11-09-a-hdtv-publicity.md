@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2753'
 permalink: /today-on-earth/a-hdtv-publicity/
-image: /wp-content/uploads/2006/11/sony.bravia.building.color_.jpg
+header:
+  teaser: /assets/images/2006/11/sony.bravia.building.color_.jpg
 tags:
     - fantastic
     - 'Today on earth'
@@ -33,4 +34,4 @@ Sony know, an that’s a great publicity of 70 seconds for their Bravia line of 
 
  The result is a great publicity but also a waste of resources, time and energy. At one point, I was thinking of a computer trick.
 
- "<span style="font-style: italic;">It took 10 days and 250 people to film. The cleaning took 5 days and 60 people…"
+ "It took 10 days and 250 people to film. The cleaning took 5 days and 60 people…"

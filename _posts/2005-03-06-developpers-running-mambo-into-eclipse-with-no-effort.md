@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=1605'
 permalink: /development/developpers-running-mambo-into-eclipse-with-no-effort/
-image: /wp-content/uploads/2005/03/phpeclipse_toolbar.gif
+header:
+  teaser: /assets/images/2005/03/phpeclipse_toolbar.gif
 tags:
     - configuration
     - installation

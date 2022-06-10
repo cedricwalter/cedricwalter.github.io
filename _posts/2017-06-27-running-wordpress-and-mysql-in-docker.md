@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=8636'
 permalink: /development/running-wordpress-and-mysql-in-docker/
-image: /wp-content/uploads/2017/06/docker.png
+header:
+  teaser: /assets/images/2017/06/docker.png
 tags:
     - about
     - background

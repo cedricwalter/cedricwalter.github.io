@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2947'
 permalink: /games/another-geek-unboxing-his-ps3/
-image: /wp-content/uploads/2005/06/sony_playstation_ps3.jpg
+header:
+  teaser: /assets/images/2005/06/sony_playstation_ps3.jpg
 tags:
     - beautiful
     - Bought
@@ -42,7 +43,7 @@ tags:
 | [![unboxing.sony.ps3-33.jpg](/assets/images/2007/03/t_unboxing.sony_.ps3-33.gif)](/assets/images/2007/03/unboxing.sony_.ps3-33.jpg) | [![unboxing.sony.ps3-37.jpg](/assets/images/2007/03/t_unboxing.sony_.ps3-37.gif)](/assets/images/2007/03/unboxing.sony_.ps3-37.jpg) | [![unboxing.sony.ps3-41.jpg](/assets/images/2007/03/t_unboxing.sony_.ps3-41.gif)](/assets/images/2007/03/unboxing.sony_.ps3-41.jpg) | [![unboxing.sony.ps3-45.jpg](/assets/images/2007/03/t_unboxing.sony_.ps3-45.gif)](/assets/images/2007/03/unboxing.sony_.ps3-45.jpg) |
 | [![unboxing.sony.ps3-49.jpg](/assets/images/2007/03/t_unboxing.sony_.ps3-49.gif)](/assets/images/2007/03/unboxing.sony_.ps3-49.jpg) |
 
- <span style="font-weight: bold;">
+
 
 What I really like
 
@@ -67,7 +68,7 @@ What I really like
 
 ![I like](/assets/images/2007/03/thumbup.gif) Folding at home, a collaborative project to analyze molecules folding, integrated in PS3 firmware 1.6
 
-<span style="font-weight: bold;">What I dislike
+What I dislike
 
 ![I dislike](/assets/images/2007/03/thumbdown.gif) Controller: rumble is missing even at 69CHF, Sony has announce a new controller with shaking capabilities. It is MORE expensive then the XBOX 360 (49CHF)
 

@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4580'
 permalink: /linux/debian-lenny-how-to/
-image: /wp-content/uploads/2009/08/offVertColorphil2.eps_.jpg
+header:
+  teaser: /assets/images/2009/08/offVertColorphil2.eps_.jpg
 tags:
     - free
     - ftp

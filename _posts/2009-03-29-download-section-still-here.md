@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4237'
 permalink: /internet/download-section-still-here/
-image: /wp-content/uploads/2009/03/downloadicon.gif
+header:
+  teaser: /assets/images/2009/03/downloadicon.gif
 tags:
     - homepage
 ---

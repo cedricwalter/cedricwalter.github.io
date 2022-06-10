@@ -11,7 +11,7 @@ tags:
     - Technical
 ---
 
-[Hans Reiser](http://www.namesys.com/), <span style="font-style: italic;">author of the ReiserFS program, created benchmarking tests designed to be fairly representative of the file-size distribution of most users. "Reiser4 does quite well on all benchmarks," he said. "With Reiser4, we took five different technical gambles, and all of them worked. 
+[Hans Reiser](http://www.namesys.com/), author of the ReiserFS program, created benchmarking tests designed to be fairly representative of the file-size distribution of most users. "Reiser4 does quite well on all benchmarks," he said. "With Reiser4, we took five different technical gambles, and all of them worked. 
 
 - [Article at NewsFactor](http://www.newsfactor.com/story.xhtml?story_title=The_Secret_World_of_ReiserFS&story_id=23157), a brief introduction
 

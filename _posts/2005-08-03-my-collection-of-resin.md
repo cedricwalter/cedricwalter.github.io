@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=1975'
 permalink: /hobbies/my-collection-of-resin/
-image: /wp-content/uploads/2005/08/gromit001.jpg
+header:
+  teaser: /assets/images/2005/08/gromit001.jpg
 tags:
     - Collectibles
 ---

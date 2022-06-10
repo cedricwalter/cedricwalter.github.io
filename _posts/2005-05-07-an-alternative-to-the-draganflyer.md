@@ -8,7 +8,8 @@ guid: 'https://waltercedric.com/new/?p=1715'
 permalink: /hobbies/an-alternative-to-the-draganflyer/
 enclosure:
     - "http://www.bb-shopping.com/images/BBGadgets/radio-controlled-x-ufo/xufo.wmv\n0\nvideo/x-ms-wmv\n"
-image: /wp-content/uploads/2005/05/x_ufo_cen.jpg
+header:
+  teaser: /assets/images/2005/05/x_ufo_cen.jpg
 tags:
     - configuration
     - 'RC helicopter'

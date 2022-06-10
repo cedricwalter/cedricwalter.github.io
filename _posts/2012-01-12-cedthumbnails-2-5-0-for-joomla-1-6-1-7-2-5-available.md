@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=7429'
 permalink: /joomla/cedthumbnails-2-5-0-for-joomla-1-6-1-7-2-5-available/
-image: /wp-content/uploads/2012/01/cedThumbnails.png
+header:
+  teaser: /assets/images/2012/01/cedThumbnails.png
 ---
 
 ![cedThumbnails](/assets/images/2012/01/cedThumbnails.png "cedThumbnails")

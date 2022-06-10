@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=6733'
 permalink: /linux/kde-ships-first-4-7-beta/
-image: /wp-content/uploads/2011/05/kde_4_7_thumb.png
+header:
+  teaser: /assets/images/2011/05/kde_4_7_thumb.png
 tags:
     - desktop
     - kde

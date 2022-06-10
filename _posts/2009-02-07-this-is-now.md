@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4112'
 permalink: /internet/this-is-now/
-image: /wp-content/uploads/2009/02/thisisnow_thumb.jpg
+header:
+  teaser: /assets/images/2009/02/thisisnow_thumb.jpg
 tags:
     - internet
     - web

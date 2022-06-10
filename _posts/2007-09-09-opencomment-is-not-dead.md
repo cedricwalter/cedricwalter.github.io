@@ -10,7 +10,7 @@ tags:
     - joomla
 ---
 
-## <span style="font-weight: bold;">OpenComment is not DEAD
+##OpenComment is not DEAD
 
  I will be reading some sources
 

@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=768'
 permalink: /hobbies/upgrade-carbon-frame-from-draganfly-corp/
-image: /wp-content/uploads/2004/09/OverallView.jpg
+header:
+  teaser: /assets/images/2004/09/OverallView.jpg
 tags:
     - compatible
     - spectrolutions

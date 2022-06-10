@@ -3,13 +3,14 @@ id: 83
 title: 'Links to other tips page'
 date: '2004-08-26T21:41:41+02:00'
 author: 'Cédric Walter'
-
+header:
+    teaser: /assets/images/2004/08/kyosho_caliber_30_thumb.jpg
 guid: 'https://waltercedric.com/new/?p=83'
 permalink: /hobbies/links-to-other-tips-page/
 tags:
-    - caliber
-    - kyosho
-    - 'RC helicopter'
+- caliber
+- kyosho
+- 'RC helicopter'
 ---
 
 - [**Clive Woods’ Caliber 30 Tips**](http://www.cjwoods.com/Caliber_30_tips.htm) **![](images/smallnew.gif)**

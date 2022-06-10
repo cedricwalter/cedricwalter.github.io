@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=6849'
 permalink: /internet/internet-is-best-viewed-in-chrome-12-web-browser/
-image: /wp-content/uploads/2011/06/shaunthesheep_google_chrome_3d_css.png
+header:
+  teaser: /assets/images/2011/06/shaunthesheep_google_chrome_3d_css.png
 tags:
     - browser
     - chrome

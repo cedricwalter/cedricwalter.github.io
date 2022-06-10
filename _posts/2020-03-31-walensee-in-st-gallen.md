@@ -8,7 +8,8 @@ guid: 'https://waltercedric.com/?p=11672'
 permalink: /holidays/walensee-in-st-gallen/
 ngg_post_thumbnail:
     - '0'
-image: /wp-content/uploads/2020/03/walensee-switzerland-4.jpg
+header:
+  teaser: /assets/images/2020/03/walensee-switzerland-4.jpg
 tags:
     - about
     - end

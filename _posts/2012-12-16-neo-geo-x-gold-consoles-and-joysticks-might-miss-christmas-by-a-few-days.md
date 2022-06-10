@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=7926'
 permalink: /games/neo-geo-x-gold-consoles-and-joysticks-might-miss-christmas-by-a-few-days/
-image: /wp-content/uploads/2012/12/NeoGeoXGold-008.jpg
+header:
+  teaser: /assets/images/2012/12/NeoGeoXGold-008.jpg
 tags:
     - arcade
     - Collectibles

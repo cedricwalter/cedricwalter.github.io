@@ -17,7 +17,7 @@ What is a DNS? click read more
  <span style="font-weight: bold; background-color: rgb(255, 255, 255); color: rgb(255, 0, 0);">Why it will affect YOU? because windows has a DNS cache, that get refresh every XX hours or days (very depending), So You may have a risk of going to my OLD page on the OLD server. You may need to flush your DNS cache!  
    
  <span style="font-weight: bold; background-color: rgb(255, 255, 255); color: rgb(255, 0, 0);">If You see this Message, do not worry You are at the right place on the right server, otherwise here is how to solve this problem for Your pleasure.  
- open a dos windows and type : <span style="font-style: italic;">ipconfig /flushdns
+ open a dos windows and type : ipconfig /flushdns
 
 from wikipedia
 

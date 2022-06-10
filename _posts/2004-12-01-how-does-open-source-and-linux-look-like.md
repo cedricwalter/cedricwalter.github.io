@@ -7,9 +7,11 @@ author: 'Cédric Walter'
 guid: 'https://waltercedric.com/new/?p=1395'
 permalink: /open-source/how-does-open-source-and-linux-look-like/
 tags:
-    - opensource
-    - OpenSuse
+- opensource
+- OpenSuse
 ---
 
-- How does Open source and #Linux look like? A complete listing of #Linux and Open Source screenshot is available at [OSDIR](http://shots.osdir.com/)
-- A quoi ressemble l’open source et linux en gÃ©nÃ©ral? une liste complÃ¨te de copie d’Ã©cran des logiciels #Linux open-source est disponible sur [OSDIR](http://shots.osdir.com/)
+- How does Open source and #Linux look like? A complete listing of #Linux and Open Source screenshot is available
+  at [OSDIR](http://shots.osdir.com/)
+- A quoi ressemble l’open source et linux en gÃ©nÃ©ral? une liste complÃ¨te de copie d’Ã©cran des logiciels #Linux
+  open-source est disponible sur [OSDIR](http://shots.osdir.com/)

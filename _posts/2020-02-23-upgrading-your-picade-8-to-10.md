@@ -8,7 +8,8 @@ guid: 'https://waltercedric.com/new/?p=8790'
 permalink: /games/upgrading-your-picade-8-to-10/
 ngg_post_thumbnail:
     - '0'
-image: /wp-content/uploads/2020/02/RetroPieWebsiteLogo.png
+header:
+  teaser: /assets/images/2020/02/RetroPieWebsiteLogo.png
 tags:
     - arcade
     - bash

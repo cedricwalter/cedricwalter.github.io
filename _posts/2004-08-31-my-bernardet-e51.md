@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=510'
 permalink: /scooter/my-bernardet-e51/
-image: /wp-content/uploads/2004/08/logoblon.jpg
+header:
+  teaser: /assets/images/2004/08/logoblon.jpg
 tags:
     - scooter
     - scooters

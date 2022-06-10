@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3653'
 permalink: /gadget/blu-ray-discs-collection/
-image: /wp-content/uploads/2009/12/bluray_banner_thumb.jpg
+header:
+  teaser: /assets/images/2009/12/bluray_banner_thumb.jpg
 tags:
     - cinema
     - Collectibles

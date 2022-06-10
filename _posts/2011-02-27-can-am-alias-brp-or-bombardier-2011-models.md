@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=6556'
 permalink: /holidays/can-am-alias-brp-or-bombardier-2011-models/
-image: /wp-content/uploads/2007/02/messe.zurich.swiss_.moto_.show_.jpg
+header:
+  teaser: /assets/images/2007/02/messe.zurich.swiss_.moto_.show_.jpg
 tags:
     - switzerland
 ---

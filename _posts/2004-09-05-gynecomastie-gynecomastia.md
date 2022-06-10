@@ -132,7 +132,7 @@ Rien a signaler, j’ai perdu pas mal de poids (-11kg mais est ce lié? je ne pe
 # <span style="font-weight: normal;">Eventuellement et si le creux est trop important sous l’aréole, il est possible d’injecter de la graisse,   
  <span style="font-weight: normal;">mais moi cela me va.**
 
-| <span style="font-weight: bold;">Avant Mars 2004 (poids 94kg) | <span style="font-weight: bold;">Apres septembre 2004 (poids 87kg) |
+|Avant Mars 2004 (poids 94kg) |Apres septembre 2004 (poids 87kg) |
 |---|---|
 
 # 25.01.2005 83kg**

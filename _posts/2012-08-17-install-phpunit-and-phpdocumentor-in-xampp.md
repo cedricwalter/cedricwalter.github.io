@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=7752'
 permalink: /joomla/install-phpunit-and-phpdocumentor-in-xampp/
-image: /wp-content/uploads/2008/12/phpunitlogo_thumb.gif
+header:
+  teaser: /assets/images/2008/12/phpunitlogo_thumb.gif
 ---
 
 [![phpunit-logo](/assets/images/2008/12/phpunitlogo_thumb.gif)](/assets/images/2008/12/phpunitlogo.gif)![selenium-logo](/assets/images/2008/12/seleniumlogo.png)[![xampp.logo](/assets/images/2008/12/xampp.logo_thumb.gif)](/assets/images/2008/12/xampp.logo_.gif)

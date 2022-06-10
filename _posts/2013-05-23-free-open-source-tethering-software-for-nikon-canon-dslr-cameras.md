@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=8043'
 permalink: /gadget/free-open-source-tethering-software-for-nikon-canon-dslr-cameras/
-image: /wp-content/uploads/2013/05/digicamcontrol-dual-screen-live-view.jpg
+header:
+  teaser: /assets/images/2013/05/digicamcontrol-dual-screen-live-view.jpg
 ---
 
 # ![digicamcontrol-dual-screen-live-view](/assets/images/2013/05/digicamcontrol-dual-screen-live-view.jpg "digicamcontrol-dual-screen-live-view")**

@@ -19,9 +19,9 @@ A US federal judge has ruled against antitrust claims that the General Public Li
 
  On Monday, US Federal Judge John Daniel Tinder, dismissed the Sherman Act antitrust claims brought against the Free Software Foundation.
 
-<span style="font-weight: bold;"> The claims made by Plaintiff Daniel Wallace included: that the General Public License (GPL) constituted a contract, combination or conspiracy; that it created an unreasonable restraint of trade; and that the FSF conspired with IBM, Red Hat, Novell and other individuals to pool and cross-license their copyrighted intellectual property in a predatory price fixing scheme.
+ The claims made by Plaintiff Daniel Wallace included: that the General Public License (GPL) constituted a contract, combination or conspiracy; that it created an unreasonable restraint of trade; and that the FSF conspired with IBM, Red Hat, Novell and other individuals to pool and cross-license their copyrighted intellectual property in a predatory price fixing scheme.
 
 ….
 
 [Read more here](http://www.tectonic.co.za/view.php?src=rss&id=933)  
-<span style="font-weight: bold;"> 
+ 

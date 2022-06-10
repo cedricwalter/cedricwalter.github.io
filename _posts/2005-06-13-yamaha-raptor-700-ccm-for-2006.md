@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=1793'
 permalink: /motorcycles/yamaha-raptor-700-ccm-for-2006/
-image: /wp-content/uploads/2005/06/Yamaha-Raptor700-mod2006.jpg
+header:
+  teaser: /assets/images/2005/06/Yamaha-Raptor700-mod2006.jpg
 tags:
     - atv
     - german

@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3336'
 permalink: /java/using-code-checker-to-improve-your-java-code-part-1/
-image: /wp-content/uploads/2008/04/coding.guidelines_thumb.png
+header:
+  teaser: /assets/images/2008/04/coding.guidelines_thumb.png
 tags:
     - about
     - ant

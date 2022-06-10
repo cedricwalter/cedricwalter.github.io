@@ -14,8 +14,8 @@ tags:
 
 ### OpenOffice.org 2.0 Released!!!
 
-<span style="font-style: italic;">OpenOffice.org 2.0 is the productivity suite that individuals, governments, and corporations around the world have been expecting for the last two years. Easy to use and fluidly interoperable with every major office suite, OpenOffice.org 2.0 realises the potential of open source.
+OpenOffice.org 2.0 is the productivity suite that individuals, governments, and corporations around the world have been expecting for the last two years. Easy to use and fluidly interoperable with every major office suite, OpenOffice.org 2.0 realises the potential of open source.
 
-<span style="font-style: italic;">With new features, advanced XML capabilities and native support for the OASIS Standard OpenDocument format, OpenOffice.org 2.0 gives users around the globe the tools to be engaged and productive members of their society. from [http://www.openoffice.org/index.html ](http://www.openoffice.org/index.html)
+With new features, advanced XML capabilities and native support for the OASIS Standard OpenDocument format, OpenOffice.org 2.0 gives users around the globe the tools to be engaged and productive members of their society. from [http://www.openoffice.org/index.html ](http://www.openoffice.org/index.html)
 
 [You can download it here](http://download.openoffice.org/index.html)

@@ -33,14 +33,14 @@ I need one day or more to reinstall the server.
 
 So it will be a very intensive day…sorry for the downtime
 
-  From <span style="font-weight: bold;">WikiPedia <http://en.wikipedia.org/wiki/Downtime>
+  FromWikiPedia <http://en.wikipedia.org/wiki/Downtime>
 
-<span style="font-style: italic;">Downtime refers to a period of time or a percentage of a timespan that a machine or system (usually a computer server) is offline or not functioning, usually as a result of either system failure (such as a crash) or routine maintenance. The opposite is uptime.
+Downtime refers to a period of time or a percentage of a timespan that a machine or system (usually a computer server) is offline or not functioning, usually as a result of either system failure (such as a crash) or routine maintenance. The opposite is uptime.
 
 - Maintenance downtimes have to be carefully scheduled in industries that rely on nearly 24-hour service, such as e-commerce, medical informatics, news reporting, and persistent online games. In many cases, system-wide downtimes can be averted using rolling upgrades.
 - Downtimes caused by system failures can have serious economic impact. To minimize these effects network monitoring can be used.
 
   
-<span style="font-style: italic;">In Service Level Agreements, it is common to mention a percentage value (per month or per year) that is calculated by dividing the sum of all downtimes timespans by the total time of a reference time span (e.g. a month). 0% downtime means that the server was available all the time.  
+In Service Level Agreements, it is common to mention a percentage value (per month or per year) that is calculated by dividing the sum of all downtimes timespans by the total time of a reference time span (e.g. a month). 0% downtime means that the server was available all the time.  
   
-<span style="font-style: italic;">For Internet servers downtimes above 1% per year or worse can be regarded as unacceptable as this means a downtime of more than 3 days per year. For e-commerce and other industrial use any value above 0.1% is usually considered unacceptable.
+For Internet servers downtimes above 1% per year or worse can be regarded as unacceptable as this means a downtime of more than 3 days per year. For e-commerce and other industrial use any value above 0.1% is usually considered unacceptable.

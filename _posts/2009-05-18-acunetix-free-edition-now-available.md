@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4331'
 permalink: /security/acunetix-free-edition-now-available/
-image: /wp-content/uploads/2009/05/logo_acunetix_thumb.gif
+header:
+  teaser: /assets/images/2009/05/logo_acunetix_thumb.gif
 ---
 
 [![logo_acunetix](/assets/images/2009/05/logo_acunetix_thumb.gif "logo_acunetix")](/assets/images/2009/05/logo_acunetix.gif)

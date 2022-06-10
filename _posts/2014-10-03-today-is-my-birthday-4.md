@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=8243'
 permalink: /holidays/today-is-my-birthday-4/
-image: /wp-content/uploads/2014/10/happyBirthdayCedricWalter.png
+header:
+  teaser: /assets/images/2014/10/happyBirthdayCedricWalter.png
 ---
 
 ¸¸♬·¯·♩¸¸♪·¯·♫¸¸Happy Birthday To You¸¸♬·¯·♩¸¸♪·¯·♫¸¸ ![](/assets/images/2014/10/happyBirthdayCedricWalter.png)

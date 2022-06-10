@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=5107'
 permalink: /games/using-your-ps3-playstation-eye-as-a-pc-webcam/
-image: /wp-content/uploads/2008/11/sony_playstation_eye.jpg
+header:
+  teaser: /assets/images/2008/11/sony_playstation_eye.jpg
 tags:
     - games
     - playstation

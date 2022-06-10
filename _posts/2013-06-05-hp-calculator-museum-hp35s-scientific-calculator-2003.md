@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=8056'
 permalink: /hobbies/hp-calculator-museum-hp35s-scientific-calculator-2003/
-image: /wp-content/uploads/2013/06/hp35_header.png
+header:
+  teaser: /assets/images/2013/06/hp35_header.png
 tags:
     - calculator
     - graphing

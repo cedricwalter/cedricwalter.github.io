@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2054'
 permalink: /joomla/com_login-in-joomla-soon-to-support-captcha/
-image: /wp-content/uploads/2005/10/com_login_support_captcha.gif
+header:
+  teaser: /assets/images/2005/10/com_login_support_captcha.gif
 tags:
     - framework
     - installer

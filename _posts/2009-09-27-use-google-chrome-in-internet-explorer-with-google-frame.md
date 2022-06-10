@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4712'
 permalink: /internet/use-google-chrome-in-internet-explorer-with-google-frame/
-image: /wp-content/uploads/2009/09/logogooglechrome_thumb.jpg
+header:
+  teaser: /assets/images/2009/09/logogooglechrome_thumb.jpg
 tags:
     - browser
     - navigator

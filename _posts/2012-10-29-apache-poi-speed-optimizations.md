@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=7825'
 permalink: /java/apache-poi-speed-optimizations/
-image: /wp-content/uploads/2012/10/apache-poi-logo_thumb.jpg
+header:
+  teaser: /assets/images/2012/10/apache-poi-logo_thumb.jpg
 tags:
     - java
 ---

@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=305'
 permalink: /linux/migration-to-linux/
-image: /wp-content/uploads/2020/02/opensuse.png
+header:
+  teaser: /assets/images/2020/02/opensuse.png
 ---
 
 What a windows users do need to install or use in SUSE 9 to complete the same tasks he get use to in Windows?. What were the difficulties encountered and what are the potential weakness of SuSE 9 distribution?
@@ -356,7 +357,7 @@ printable = no
 
 - XMMS was not able to open remotely a mp3 using a samba share, copying the same mp3 locally work…strange.
 
-<span style="font-weight: bold;"> Links  
+ Links  
  <http://www.art-events.de/systeme/texte/000621samba.htm> A tutorial in German  
  [http://www.bnro.de/~schmidjo/index.html](http://www.bnro.de/%7Eschmidjo/index.html) **LinNeighborhood is a tool to display the network neighbourhood like in windows explorer.**
 
@@ -447,11 +448,11 @@ so Install first <font face="Courier New" size="2">libogg then <font face="Couri
 
  <font face="Arial Black" size="2">**<span style="font-weight: normal;">A lot of projects are trying to read Windows NTFS drive with more or less success**
 
-| [http://linux-ntfs.sourceforge.net/ ](http://linux-ntfs.sourceforge.net/) | “The goals of this project are: create a new #Linux kernel driver for the NTFS file system (v1.2 and later 3.0), user space utilities (e.g. format, ntfs check, etc.) and a library to avoid code duplication and provide access to NTFS to other GPLed programs.”    -> it is existing in kernel 2.4.24 but with only read only capabilities, <span style="font-weight: bold;">can cause loss of data!    -> Can not write or modifying existing file (no file under 1Kb and it can not change size of file….) |
+| [http://linux-ntfs.sourceforge.net/ ](http://linux-ntfs.sourceforge.net/) | “The goals of this project are: create a new #Linux kernel driver for the NTFS file system (v1.2 and later 3.0), user space utilities (e.g. format, ntfs check, etc.) and a library to avoid code duplication and provide access to NTFS to other GPLed programs.”    -> it is existing in kernel 2.4.24 but with only read only capabilities,can cause loss of data!    -> Can not write or modifying existing file (no file under 1Kb and it can not change size of file….) |
 |---|---|
-| [http://www.jankratochvil.net/project/captive/ ](http://www.jankratochvil.net/project/captive/)    [http://www.jankratochvil.net/project/captive/#download ](http://www.jankratochvil.net/project/captive/#download)     Author Jan Kratochvil <web\_AT\_jankratochvil\_DOT\_N.E.T>     Version 1.5     Licence GPL     Source Yes     Environment Console     Status Stable | “Captive provides full read/write access to NTFS disk drives in the WINE way by using the original Microsoft Windows ntfs.sys driver. It emulates the required subsystems of the Microsoft Windows kernel by reusing one of the original ntoskrnl.exe, ReactOS parts, or this project’s own reimplementations on a case by case basis. Involvement of the original driver files was chosen to achieve the best and unprecedented filesystem compatibility and safety.” <span style="font-weight: bold;"> As root user    1. Download tar gz here [http://www.jankratochvil.net/project/captive/dist/captive-static-1.1.5.tar.gz](http://www.jankratochvil.net/%5B..%5Dcaptive/dist/captive-static-1.1.5.tar.gz)    2. Install, decompress and start ./install    3. Locate ntfs.sys and ntoskrnl.exe in your windows/system32/ directory and copy it to /var/lib/captive/ I recommend You to use WinXp latest drivers    4. start captive-install-acquire it search for the dll, if not found it will download them from microsoft.com    5. for each windows drive (here the example is for my drive C:\\)    type mkdir /mnt/openC    type mount -t captive-ntfs -o force /dev/hda1 /mnt/openC    I add the switch -o force because SuSE has already mount the drive C (read only) in /windows/c    OR    open the file /etc/fstab and modify it:    before     /dev/hda1 /windows/C ntfs ro,users,gid=users,umask=0002,nls=iso8859-1 0 0    after     /dev/hda1 /windows/C ntfs-captive rw,users,gid=users,umask=0002,nls=iso8859-1 0 0    and then type mount -a to see changes   <span style="color: rgb(255, 0, 0); font-weight: bold;"> Attention, You may need to have a Windows licence! |
+| [http://www.jankratochvil.net/project/captive/ ](http://www.jankratochvil.net/project/captive/)    [http://www.jankratochvil.net/project/captive/#download ](http://www.jankratochvil.net/project/captive/#download)     Author Jan Kratochvil <web\_AT\_jankratochvil\_DOT\_N.E.T>     Version 1.5     Licence GPL     Source Yes     Environment Console     Status Stable | “Captive provides full read/write access to NTFS disk drives in the WINE way by using the original Microsoft Windows ntfs.sys driver. It emulates the required subsystems of the Microsoft Windows kernel by reusing one of the original ntoskrnl.exe, ReactOS parts, or this project’s own reimplementations on a case by case basis. Involvement of the original driver files was chosen to achieve the best and unprecedented filesystem compatibility and safety.” As root user    1. Download tar gz here [http://www.jankratochvil.net/project/captive/dist/captive-static-1.1.5.tar.gz](http://www.jankratochvil.net/%5B..%5Dcaptive/dist/captive-static-1.1.5.tar.gz)    2. Install, decompress and start ./install    3. Locate ntfs.sys and ntoskrnl.exe in your windows/system32/ directory and copy it to /var/lib/captive/ I recommend You to use WinXp latest drivers    4. start captive-install-acquire it search for the dll, if not found it will download them from microsoft.com    5. for each windows drive (here the example is for my drive C:\\)    type mkdir /mnt/openC    type mount -t captive-ntfs -o force /dev/hda1 /mnt/openC    I add the switch -o force because SuSE has already mount the drive C (read only) in /windows/c    OR    open the file /etc/fstab and modify it:    before     /dev/hda1 /windows/C ntfs ro,users,gid=users,umask=0002,nls=iso8859-1 0 0    after     /dev/hda1 /windows/C ntfs-captive rw,users,gid=users,umask=0002,nls=iso8859-1 0 0    and then type mount -a to see changes    Attention, You may need to have a Windows licence! |
 | Wine    WMware | I do not want to configure wine…    I do not want to install windows anymore… |
-| <http://www.ntfs-linux.com/>    Publisher Paragon Software Group     Version 1.0     Filesize 69 K     Licence Shareware     Cost 69.95$ | “<span style="font-style: italic;">Paragon NTFS for #Linux is designed to mount NTFS partitions under #Linux operating systems as normal logical drives with appropriate drive letter. The full version mounts NTFS partitions for read and write operations; the demo version mounts NTFS partitions in read-only mode. the driver supports NTFS 1.2, NTFS 3.0 and NTFS 3.1. Free Read-only version is distributed as a driver module or bootable CD image. Mounted NTFS partitions are accepted as â??nativeâ?? â?? browse, create/delete folder or file, run applications and other usual functions are totally available.” |
+| <http://www.ntfs-linux.com/>    Publisher Paragon Software Group     Version 1.0     Filesize 69 K     Licence Shareware     Cost 69.95$ | “Paragon NTFS for #Linux is designed to mount NTFS partitions under #Linux operating systems as normal logical drives with appropriate drive letter. The full version mounts NTFS partitions for read and write operations; the demo version mounts NTFS partitions in read-only mode. the driver supports NTFS 1.2, NTFS 3.0 and NTFS 3.1. Free Read-only version is distributed as a driver module or bootable CD image. Mounted NTFS partitions are accepted as â??nativeâ?? â?? browse, create/delete folder or file, run applications and other usual functions are totally available.” |
 
  **Another way is to erase all NTFS drive and use reiserfs or extfs3, since Paragon also sell a windows driver to have full access to linux drive. Why should always #Linux make the first step?** ![](/assets/images/2004/08/smileClosed.gif)
 
@@ -469,7 +470,7 @@ so Install first <font face="Courier New" size="2">libogg then <font face="Couri
  <span style="font-family: times new roman,times,serif; font-weight: normal;">You will have some conflict, for me KDE pim, and PDA tools, just remove them! you can reinstall them after having installing the base package!
 
 # #  restart your desktop session…known issues for KDE 3.2 are: sound (but it was working for me, alsa was selected as default) and kbear (FTP tool), for Kbear the solution for me was to remove the previous version (<span style="font-family: times new roman,times,serif; font-weight: normal;"><span style="font-family: times new roman,times,serif; font-weight: normal;">kbear 2.1<span style="font-family: times new roman,times,serif; font-weight: normal;">) and install this one:   
- <span style="font-weight: bold;">KBear 3.0alpha1b [# http://kbear.sourceforge.net/index.php?page=download#binaries](http://kbear.sourceforge.net/index.php?page=download#binaries)#    
+KBear 3.0alpha1b [# http://kbear.sourceforge.net/index.php?page=download#binaries](http://kbear.sourceforge.net/index.php?page=download#binaries)#    
    
  KDE 3.2 is as fast as my windows desktop, what a blast! I you want to have a good stability, it is preferable to wait the next official SuSE release…
 
@@ -505,7 +506,7 @@ so Install first <font face="Courier New" size="2">libogg then <font face="Couri
 - <font face="Arial Black" size="2"> [<font face="Arial Black" size="2">**http://packman.links2linux.de/**](http://packman.links2linux.de/)<font face="Arial Black" size="2"> **Packman compile source code and provide RPM ready to download ()**
 - <font face="Arial Black" size="2"> [<font face="Arial Black" size="2">**ftp://ftp.suse.com/pub/suse/i386/9.0/suse/i586/** ](ftp://ftp.suse.com/pub/suse/i386/9.0/suse/i586/)<font face="Arial Black" size="2">**FTP**
 
-<font face="Arial Black" size="2"> <font face="Arial Black" size="4">**<span style="font-weight: bold;">To read**  
+<font face="Arial Black" size="2"> <font face="Arial Black" size="4">**To read**  
  [**http://www.linux-mag.com/cgi-bin/printer.pl?issue=2002-10&amp;article=jfs**](http://www.linux-mag.com/cgi-bin/printer.pl?issue=2002-10&article=jfs) **choose your filesystem**
 
 

@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3953'
 permalink: /development/continuous-build-for-joomla/
-image: /wp-content/uploads/2012/02/joomla_logo_thumb.png
+header:
+  teaser: /assets/images/2012/02/joomla_logo_thumb.png
 tags:
     - ant
     - apache

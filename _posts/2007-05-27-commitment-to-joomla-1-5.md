@@ -12,7 +12,7 @@ tags:
 
 [![joomla_cms](/assets/images/2006/01/joomla_cms_thumb.png "joomla_cms")](/assets/images/2007/05/joomla_cms.png)
 
-I am fully committed to Joomla! 1.5 and will <span style="font-weight: bold;">migrate my homepage and <span style="font-weight: bold;">all my open source components to the latest Joomla! version as soon as it get final.
+I am fully committed to Joomla! 1.5 and willmigrate my homepage andall my open source components to the latest Joomla! version as soon as it get final.
 
  A new Download category Joomla! 1.5 [has been created in my download section.](component/option,com_docman/Itemid,64/)
 

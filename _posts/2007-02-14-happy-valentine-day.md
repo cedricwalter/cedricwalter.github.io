@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2878'
 permalink: /today-on-earth/happy-valentine-day/
-image: /wp-content/uploads/2007/02/happy.valentine.day_.gif
+header:
+  teaser: /assets/images/2007/02/happy.valentine.day_.gif
 tags:
     - 'Today on earth'
 ---

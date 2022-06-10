@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=7408'
 permalink: /joomla/securityimages-6-0-2-for-joomla-1-6-1-7-2-5/
-image: /wp-content/uploads/2011/10/joomla_cms_thumb.png
+header:
+  teaser: /assets/images/2011/10/joomla_cms_thumb.png
 ---
 
 ![](/assets/images/2011/10/joomla_cms_thumb.png)

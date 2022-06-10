@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2647'
 permalink: /gadget/vandalized-street-radars-in-uk/
-image: /wp-content/uploads/2006/06/damagedStreetRadarInUK.jpg
+header:
+  teaser: /assets/images/2006/06/damagedStreetRadarInUK.jpg
 tags:
     - gadget
     - GPS

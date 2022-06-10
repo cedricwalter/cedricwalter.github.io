@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=7821'
 permalink: /gadget/samsung-wins-patent-battle-against-apple/
-image: /wp-content/uploads/2012/10/minimalistic_design_apple_what_a_joke_thumb.jpg
+header:
+  teaser: /assets/images/2012/10/minimalistic_design_apple_what_a_joke_thumb.jpg
 ---
 
 Samsung / Apple UK judgment from <http://www.apple.com/uk/legal-judgement/>

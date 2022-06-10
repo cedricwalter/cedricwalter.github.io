@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3066'
 permalink: /development/optimizing-mysql-with-tuning-primer-sh/
-image: /wp-content/uploads/2007/09/mysql.logo_.png
+header:
+  teaser: /assets/images/2007/09/mysql.logo_.png
 tags:
     - database
     - MySQL
@@ -14,16 +15,16 @@ tags:
 
 ![](/assets/images/2007/09/mysql.logo_.png)
 
- Digging into mySQL settings can be time consuming, like with any other component. Most of the time, and just by changing a few settings, you can expect a performance increase. The problem is to change what, and to which value. This is where <span style="font-family: courier new,courier">tuning-primer.sh help you:
+ Digging into mySQL settings can be time consuming, like with any other component. Most of the time, and just by changing a few settings, you can expect a performance increase. The problem is to change what, and to which value. This is where tuning-primer.sh help you:
 
- Get this script, <http://forge.mysql.com/projects/view.php?id=44> upload it, unzip it, and install it in your /etc folder. Then run it from the command line by entering <span style="font-family: courier new,courier">./path-to-file/tuning-primer.sh
+ Get this script, <http://forge.mysql.com/projects/view.php?id=44> upload it, unzip it, and install it in your /etc folder. Then run it from the command line by entering ./path-to-file/tuning-primer.sh
 
  MySQL Server must run a few days or weeks, or it wont be be safe to follow these recommendations.
 
  To find out more information on how each of these runtime variables effects performance visit:  
  <http://dev.mysql.com/doc/refman/5.0/en/server-system-variables.html>
 
- Here is an example of <span style="font-family: courier new,courier"> tuning-primer.sh output
+ Here is an example of  tuning-primer.sh output
 
  **SLOW QUERIES**  
  Current long\_query\_time = 5 sec.  

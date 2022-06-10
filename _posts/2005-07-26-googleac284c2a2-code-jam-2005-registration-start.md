@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=1954'
 permalink: /internet/googlea%c2%84%c2%a2-code-jam-2005-registration-start/
-image: /wp-content/uploads/2005/07/google-codejam.gif
+header:
+  teaser: /assets/images/2005/07/google-codejam.gif
 tags:
     - Collectibles
     - competition

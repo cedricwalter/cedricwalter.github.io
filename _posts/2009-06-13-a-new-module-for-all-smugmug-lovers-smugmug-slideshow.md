@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4408'
 permalink: /joomla/a-new-module-for-all-smugmug-lovers-smugmug-slideshow/
-image: /wp-content/uploads/2009/06/smugmugslideshow.for_.joomla.png
+header:
+  teaser: /assets/images/2009/06/smugmugslideshow.for_.joomla.png
 ---
 
 Another cool module for #Joomla! done in no time, thanks to #Joomla! powerful API’s, the module is a front end for the myriad of parameter that can set for the [Smugmug flash applet](http://wiki.smugmug.net/display/SmugMug/Flash+Slideshow)

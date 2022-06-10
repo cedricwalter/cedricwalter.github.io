@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=7418'
 permalink: /hobbies/phoenix-rc-model-flight-simulation/
-image: /wp-content/uploads/2012/01/phoenixRc_header_thumb.png
+header:
+  teaser: /assets/images/2012/01/phoenixRc_header_thumb.png
 tags:
     - airplane
     - helicopter

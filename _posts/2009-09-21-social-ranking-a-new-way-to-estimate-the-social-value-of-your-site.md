@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4627'
 permalink: /internet/social-ranking-a-new-way-to-estimate-the-social-value-of-your-site/
-image: /wp-content/uploads/2009/09/social.ranking.jpg
+header:
+  teaser: /assets/images/2009/09/social.ranking.jpg
 tags:
     - homepage
 ---

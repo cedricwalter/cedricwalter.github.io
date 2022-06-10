@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=5677'
 permalink: /linux/map-synology-network-drive-under-linux/
-image: /wp-content/uploads/2011/05/linux.png
+header:
+  teaser: /assets/images/2011/05/linux.png
 tags:
     - cli
     - HowTo

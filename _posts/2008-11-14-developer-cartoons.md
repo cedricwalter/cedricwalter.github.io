@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3921'
 permalink: /java/developer-cartoons/
-image: /wp-content/uploads/2008/11/random_number.png
+header:
+  teaser: /assets/images/2008/11/random_number.png
 ---
 
 [![random_number](/assets/images/2008/11/random_number.png)](http://xkcd.com/221/)

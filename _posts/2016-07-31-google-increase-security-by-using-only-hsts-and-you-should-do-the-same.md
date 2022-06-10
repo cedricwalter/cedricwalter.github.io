@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=8537'
 permalink: /development/google-increase-security-by-using-only-hsts-and-you-should-do-the-same/
-image: /wp-content/uploads/2012/01/Nginx-logo.png
+header:
+  teaser: /assets/images/2012/01/Nginx-logo.png
 ---
 
 ![](/assets/images/2012/01/Nginx-logo.png)

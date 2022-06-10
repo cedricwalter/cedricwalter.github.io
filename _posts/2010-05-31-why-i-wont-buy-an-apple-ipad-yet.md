@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=5204'
 permalink: /gadget/why-i-wont-buy-an-apple-ipad-yet/
-image: /wp-content/uploads/2010/05/apple-ipad-tablet-device-420x0_thumb_cf53c18cc7197cb23f313bda74f72dce.jpg
+header:
+  teaser: /assets/images/2010/05/apple-ipad-tablet-device-420x0_thumb_cf53c18cc7197cb23f313bda74f72dce.jpg
 tags:
     - apple
     - ipad

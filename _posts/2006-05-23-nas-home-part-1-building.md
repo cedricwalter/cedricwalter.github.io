@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2561'
 permalink: /gadget/nas-home-part-1-building/
-image: /wp-content/uploads/2006/05/NAS-at-home-header.jpg
+header:
+  teaser: /assets/images/2006/05/NAS-at-home-header.jpg
 tags:
     - 'PC and Hardware'
     - Storage

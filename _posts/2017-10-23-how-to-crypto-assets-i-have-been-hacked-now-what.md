@@ -10,8 +10,8 @@ permalink: /development/how-to-crypto-assets-i-have-been-hacked-now-what/
 
 ### work in progress – daily update
 
- Feedback is welcome in comments section, or through my [contact form](https://waltercedric.com/new/?p=1571)
+Feedback is welcome in comments section, or through my [contact form](https://waltercedric.com/new/?p=1571)
 
 #### click on map, to view in full size
 
- [ ![How to: Crypto assets I have been hacked & now what?](media/blockchain/crypto-assets-I-have-been-hacked-now-what.svg)](media/blockchain/crypto-assets-I-have-been-hacked-now-what.svg)
+[ ![How to: Crypto assets I have been hacked & now what?](media/blockchain/crypto-assets-I-have-been-hacked-now-what.svg)](media/blockchain/crypto-assets-I-have-been-hacked-now-what.svg)

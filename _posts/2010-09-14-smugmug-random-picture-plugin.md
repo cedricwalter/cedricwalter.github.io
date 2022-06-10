@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=6019'
 permalink: /joomla/smugmug-random-picture-plugin/
-image: /wp-content/uploads/2010/09/99pxSmugmug_logo.jpg
+header:
+  teaser: /assets/images/2010/09/99pxSmugmug_logo.jpg
 tags:
     - browser
     - css

@@ -14,8 +14,8 @@ tags:
 It has a lot of functionnalities, similar to Groove and run on #Linux, Mac, windows. 100% #Java – build on Eclipe RCP (Rich Client Platform).   
 [View Demo](http://www.collaber.com/collaber/tour) – [Read the FAQ](http://www.collaber.com/faq) – [Blog](http://blog.collaber.com/)  
   
-<span style="font-style: italic;"> Work together and share information with team members anywhere, anytime, with anyone. Get started with the new Collaber.   
-<span style="font-style: italic;">Collaber brings a Virtual Office Environment for your team to share files, events, tasks, manage projects and get the work done as if they are all located in the same location, no matter where the members are physically located. It keeps your date safe and secure.
+ Work together and share information with team members anywhere, anytime, with anyone. Get started with the new Collaber.   
+Collaber brings a Virtual Office Environment for your team to share files, events, tasks, manage projects and get the work done as if they are all located in the same location, no matter where the members are physically located. It keeps your date safe and secure.
 
 - Complete **end to end data encryption**, on the disk and on the network
 - **P2P architecture** to leverage available processing and network power

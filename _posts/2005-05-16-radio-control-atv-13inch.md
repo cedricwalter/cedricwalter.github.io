@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=1743'
 permalink: /motorcycles/radio-control-atv-13inch/
-image: /wp-content/uploads/2005/05/12_12_sb.JPG
+header:
+  teaser: /assets/images/2005/05/12_12_sb.JPG
 tags:
     - atv
     - bombardier

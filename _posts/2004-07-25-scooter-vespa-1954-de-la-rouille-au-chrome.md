@@ -7,6 +7,7 @@ author: 'Cédric Walter'
 guid: 'https://waltercedric.com/new/?p=8482'
 permalink: /scooter/scooter-vespa-1954-de-la-rouille-au-chrome/
 tags:
+
 - building
 - chrome
 - construction
@@ -23,6 +24,7 @@ tags:
 - that
 - vespa
 - vintage
+
 ---
 
 #ACMA was founded on 25 November 1950 as Ateliers de construction de #motocycles et accessoires in Fourchambault, near

@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=617'
 permalink: /gadget/mon-dual-celeron-450-mhz-en-1999/
-image: /wp-content/uploads/2004/08/msi6905.jpg
+header:
+  teaser: /assets/images/2004/08/msi6905.jpg
 ---
 
 à **Mon PC de 1999**

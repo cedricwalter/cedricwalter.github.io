@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=6413'
 permalink: /games/how-to-open-repair-and-clean-different-types-of-video-games-cartridges/
-image: /wp-content/uploads/2010/12/7682536036.jpg
+header:
+  teaser: /assets/images/2010/12/7682536036.jpg
 tags:
     - games
     - opensource

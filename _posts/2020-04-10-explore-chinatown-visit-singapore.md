@@ -8,7 +8,8 @@ guid: 'https://waltercedric.com/?p=12844'
 permalink: /holidays/explore-chinatown-visit-singapore/
 ngg_post_thumbnail:
     - '0'
-image: /wp-content/uploads/2020/04/singapore-chinatown-1.jpg
+header:
+  teaser: /assets/images/2020/04/singapore-chinatown-1.jpg
 tags:
     - asia
     - holidays

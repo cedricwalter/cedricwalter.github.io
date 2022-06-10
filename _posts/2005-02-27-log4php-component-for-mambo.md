@@ -12,8 +12,8 @@ tags:
     - joomla
 ---
 
-<font size="6" style="font-style: italic;"><span style="font-weight: bold;">Log4PHP Sick of echo "" and useless debug or error statement in PHP logs? Log4PHP is the famous brother of Log4J, and therefore it is a must for every average developer. I have packed log4PHP into a Mambo component. Enjoy!!!
+<font size="6" style="font-style: italic;">Log4PHP Sick of echo "" and useless debug or error statement in PHP logs? Log4PHP is the famous brother of Log4J, and therefore it is a must for every average developer. I have packed log4PHP into a Mambo component. Enjoy!!!
 
 TODO: provide a editor for the configuration file log4PHP.properties inside the administration panel
 
-<span style="font-weight: bold;">link in download section….
+link in download section….

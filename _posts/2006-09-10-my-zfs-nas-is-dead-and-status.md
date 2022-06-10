@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2703'
 permalink: /gadget/my-zfs-nas-is-dead-and-status/
-image: /wp-content/uploads/2006/09/front_view_nas-home.jpg
+header:
+  teaser: /assets/images/2006/09/front_view_nas-home.jpg
 tags:
     - 'PC and Hardware'
     - Storage
@@ -48,28 +49,28 @@ and extract the boot image by typing:
 
  Ive also tried some Solaris flavor which I can definitely recommend You, if You decide to play with ZFS:
 
-- [Belenix](http://www.genunix.org/distributions/belenix_site/belenix_home.html): a KDE powered OpenSolaris, available as <span style="font-weight: bold;">live CD. \[[DistroWatch](http://distrowatch.com/belenix)\]
+- [Belenix](http://www.genunix.org/distributions/belenix_site/belenix_home.html): a KDE powered OpenSolaris, available aslive CD. \[[DistroWatch](http://distrowatch.com/belenix)\]
 - [Nexenta](http://www.gnusolaris.org/) a Gnome powered OpenSolaris, which can be use in [VMWARE player](http://www.vmware.com/products/player/) using this [VMWARE image](http://www.vmware.com/vmtn/appliances/directory/499). \[[DistroWatch](http://distrowatch.com/nexenta)\]
 
  Both version both seem not to use OpenSolaris Nevada build 44, so I was not able to play with RAIDZ2 (simulate a RAID6 array)
 
-<div style="text-align: left; margin-left: 80px;"><span style="font-style: italic;">A replicated RAID-Z configuration can now have either single- or  
- <span style="font-style: italic;"> double-parity, which means that one or two device failures can be sustained  
- <span style="font-style: italic;">respectively, without any data loss. You can specify the raidz2 keyword for a double-parity RAID-Z  
- <span style="font-style: italic;">configuration. Or, you can specify the raidz or raidz1 keyword for a single-parity RAID-Z  
- <span style="font-style: italic;">configuration.  I’ve also tried Solaris Express 10 (Live CD) which is available also for free (non commercial use), but I was really not convince by the desktop, and hardware was not better recognized.  
+<div style="text-align: left; margin-left: 80px;">A replicated RAID-Z configuration can now have either single- or  
+  double-parity, which means that one or two device failures can be sustained  
+ respectively, without any data loss. You can specify the raidz2 keyword for a double-parity RAID-Z  
+ configuration. Or, you can specify the raidz or raidz1 keyword for a single-parity RAID-Z  
+ configuration.  I’ve also tried Solaris Express 10 (Live CD) which is available also for free (non commercial use), but I was really not convince by the desktop, and hardware was not better recognized.  
  What can also stop You from using ZFS is the [encryption subproject](http://www.opensolaris.org/os/project/zfs-crypto/) which has not deliver yet, and the fact that the only supported pool share is NFS (Windows support it with "[Windows Services for UNIX version](http://go.microsoft.com/?linkid=2356484)" 300Mb), Samba export still being in development.
 
  ![](/assets/images/2006/09/side_view_nas-home.jpg)
 
- This give me 2 options: use either a <span style="font-weight: bold;">Windows or <span style="font-weight: bold;">Linux operating system.Windows has a major advantage by having all drivers support ([Cool and Quiet](http://www.amd.com/us-en/Processors/ProductInformation/0,,30_118_9485_9487%5E10272,00.html), Nforce4 chipset, Promise driver and management console), but all insecurities and the fully fledged desktop is NOT needed on a true file server. Linux on the other side has also all drivers available (except Promise WebPam management console), and is a lot more modulable: I can remove all functionalities not needed: no FTP, no desktop, no HTTP daemon, … Samba, ssh2 and ReiserFS is all I need!
+ This give me 2 options: use either aWindows orLinux operating system.Windows has a major advantage by having all drivers support ([Cool and Quiet](http://www.amd.com/us-en/Processors/ProductInformation/0,,30_118_9485_9487%5E10272,00.html), Nforce4 chipset, Promise driver and management console), but all insecurities and the fully fledged desktop is NOT needed on a true file server. Linux on the other side has also all drivers available (except Promise WebPam management console), and is a lot more modulable: I can remove all functionalities not needed: no FTP, no desktop, no HTTP daemon, … Samba, ssh2 and ReiserFS is all I need!
 
  I may choose for the job:
 
 - [OpenSuse](http://en.opensuse.org/) 10.1 since I am using SuSE since 3 years or
 - [Free BSD](http://www.freebsd.org/), a leader in stability and securities in the Linux world.
 
- Right now, I’ve put 5 disks of 320 GB in a RAID5 logical array, the initialization of 1.2TB <span style="font-weight: bold;">took 18 hours!   
+ Right now, I’ve put 5 disks of 320 GB in a RAID5 logical array, the initialization of 1.2TBtook 18 hours!   
  ![Promise Ex8350 initializing the NAS](/assets/images/2006/09/promise_initializing_raid_array.jpg)
 
  This box has 14 Sata Port and I’ve add old disk full of data 300GB and 160GB.and 8 USB port (+ 2 Maxtor 300GB USB disk).

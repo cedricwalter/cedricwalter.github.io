@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=5357'
 permalink: /joomla/module-smugmug-video-for-joomla-1-6/
-image: /wp-content/uploads/2010/06/smumug.video_.for_.joomla.1.6_thumb.jpg
+header:
+  teaser: /assets/images/2010/06/smumug.video_.for_.joomla.1.6_thumb.jpg
 tags:
     - joomla
     - natively

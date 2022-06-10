@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=5681'
 permalink: /games/littlebig-planet-sackboy-11-statue-holder/
-image: /wp-content/uploads/2010/07/LittleBigPlanetSackboy11.inches.Statue.jpg
+header:
+  teaser: /assets/images/2010/07/LittleBigPlanetSackboy11.inches.Statue.jpg
 tags:
     - character
     - individual

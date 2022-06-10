@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3119'
 permalink: /java/top-12-reasons-to-write-unit-tests/
-image: /wp-content/uploads/2007/11/section-java-testing.gif
+header:
+  teaser: /assets/images/2007/11/section-java-testing.gif
 tags:
     - java
 ---

@@ -8,7 +8,8 @@ guid: 'https://waltercedric.com/?p=11973'
 permalink: /holidays/australia-kings-canyon/
 ngg_post_thumbnail:
     - '0'
-image: /wp-content/uploads/2020/03/australia.northern.territory.kings_.canyon_00893.jpg
+header:
+  teaser: /assets/images/2020/03/australia.northern.territory.kings_.canyon_00893.jpg
 ---
 
  Kings Canyon is a canyon in the Northern Territory of Australia located at the western end of the George Gill Range about 323 kilometres southwest of Alice Springs and about 1,316 kilometres south of Darwin within the Watarrka National Park.

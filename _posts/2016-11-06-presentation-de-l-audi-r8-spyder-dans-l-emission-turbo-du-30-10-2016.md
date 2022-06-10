@@ -8,6 +8,7 @@ guid: 'https://waltercedric.com/new/?p=8598'
 permalink: /today-on-earth/presentation-de-l-audi-r8-spyder-dans-l-emission-turbo-du-30-10-2016/
 ---
 
-un V10 qui développe 540 CV et résonne comme une symphonie, l’ultra performante Audi R8 Spyder est à l’essai dans l’émission TURBO du 30 octobre 2016.
+un V10 qui développe 540 CV et résonne comme une symphonie, l’ultra performante Audi R8 Spyder est à l’essai dans
+l’émission TURBO du 30 octobre 2016.
 
- <iframe allowfullscreen="true" frameborder="0" height="376" hspace="0" loading="lazy" marginheight="0" marginwidth="0" mozallowfullscreen="true" scrolling="no" src="//www.ultimedia.com/deliver/generic/iframe/mdtk/01324488/src/uf03uz/zone/1/showtitle/1/" vspace="0" webkitallowfullscreen="true" width="669"></iframe>
+<iframe allowfullscreen="true" frameborder="0" height="376" hspace="0" loading="lazy" marginheight="0" marginwidth="0" mozallowfullscreen="true" scrolling="no" src="//www.ultimedia.com/deliver/generic/iframe/mdtk/01324488/src/uf03uz/zone/1/showtitle/1/" vspace="0" webkitallowfullscreen="true" width="669"></iframe>

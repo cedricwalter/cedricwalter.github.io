@@ -31,7 +31,7 @@ Rootkit scanner is scanning tool to ensure you for about 99.9%\* you’re clean 
 For Root user  
 <span>`# crontab -e `  
  For any user  
-<span>`# crontab -e -u <span style="font-style: italic;">username`
+<span>`# crontab -e -u username`
 
 and add  
 `
@@ -41,8 +41,8 @@ and add
 `&#149;0 3 * * * (<span style="color: rgb(51, 51, 255);">./usr/local/bin/rkhunter &#150;checkall``<span style="color: rgb(51, 51, 255);"> 2>&1 | mail -s "chkrootkit output" -c mailadresscopy1@host.com,mailadresscopy2@host.com mailadress@host.com)  `<span style="color: rgb(51, 51, 255);">\* the correct path can be found with `which ``rkhunter `` `  
  This will run [Rootkit Hunter](http://www.rootkit.nl/projects/rootkit_hunter.html) at 3:00 am every day, and e-mail the output to `mailadress@host.com` and copies to `mailadresscopy1@host.com` and `mailadresscopy2@host.com`
 
-<span style="font-weight: bold; color: rgb(255, 0, 0);">Nota  
+Nota  
 <span style="color: rgb(255, 0, 0);">If you ever get a positive alarm, you can try to remove the rootkit, but all professionals would advice you to reinstall the server from scratch, and restore a previous backup (that mean saving nothing from server as soon as the rootkit is revealed….)  
- <span style="font-weight: bold;">  
+  
 Links  
-[<span style="font-weight: bold;">](http://www.chkrootkit.org/)[http://www.rootkit.nl/projects/rootkit\_hunter.html](http://www.rootkit.nl/projects/rootkit_hunter.html)
+[](http://www.chkrootkit.org/)[http://www.rootkit.nl/projects/rootkit\_hunter.html](http://www.rootkit.nl/projects/rootkit_hunter.html)

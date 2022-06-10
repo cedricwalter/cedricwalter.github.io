@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3175'
 permalink: /joomla/joomla-1-0-13-admin-session-issues/
-image: /wp-content/uploads/2006/03/box_securityimages.jpg
+header:
+  teaser: /assets/images/2006/03/box_securityimages.jpg
 tags:
     - joomla
     - securityimages

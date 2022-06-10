@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4308'
 permalink: /homepage/single-sign-on/
-image: /wp-content/uploads/2009/04/openidlogo2_thumb.png
+header:
+  teaser: /assets/images/2009/04/openidlogo2_thumb.png
 ---
 
 [![openid-logo-2](/assets/images/2009/04/openidlogo2_thumb.png "openid-logo-2")](/assets/images/2009/04/openidlogo2.png) I have now way to many sub domains and websites to not try to make the registration or login process more easier

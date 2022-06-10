@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3666'
 permalink: /games/history-of-the-past/
-image: /wp-content/uploads/2008/08/geekinside_thumb.jpg
+header:
+  teaser: /assets/images/2008/08/geekinside_thumb.jpg
 tags:
     - amd
     - computer

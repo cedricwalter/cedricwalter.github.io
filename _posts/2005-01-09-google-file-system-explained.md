@@ -11,6 +11,6 @@ tags:
     - 'search engine'
 ---
 
-<span style="font-weight: bold;"> Another Google Labs Publication… 
+ Another Google Labs Publication… 
 
-<span style="font-style: italic;">Google has designed and implemented the Google File System, a scalable distributed file system for large distributed data-intensive applications. It provides fault tolerance while running on inexpensive commodity hardware, and it delivers high aggregate performance to a large number of clients. [more here](http://labs.google.com/papers/gfs.html)
+Google has designed and implemented the Google File System, a scalable distributed file system for large distributed data-intensive applications. It provides fault tolerance while running on inexpensive commodity hardware, and it delivers high aggregate performance to a large number of clients. [more here](http://labs.google.com/papers/gfs.html)

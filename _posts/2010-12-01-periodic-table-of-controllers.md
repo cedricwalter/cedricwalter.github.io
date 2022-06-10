@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=6383'
 permalink: /games/periodic-table-of-controllers/
-image: /wp-content/uploads/2010/12/periodicTableOfGameController_thumb_9a15bbf3c90e58e30dafea715f82c458.jpg
+header:
+  teaser: /assets/images/2010/12/periodicTableOfGameController_thumb_9a15bbf3c90e58e30dafea715f82c458.jpg
 tags:
     - funny
     - games

@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=6092'
 permalink: /games/nintendo-entertainment-system-aka-nes/
-image: /wp-content/uploads/2010/09/Nintendo.Entertainment.System.NES_thumb.jpg
+header:
+  teaser: /assets/images/2010/09/Nintendo.Entertainment.System.NES_thumb.jpg
 tags:
     - entertainment
     - games

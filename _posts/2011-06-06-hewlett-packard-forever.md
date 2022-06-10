@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=6819'
 permalink: /hobbies/hewlett-packard-forever/
-image: /wp-content/uploads/2004/09/hewlett_packard_collection_00.jpg
+header:
+  teaser: /assets/images/2004/09/hewlett_packard_collection_00.jpg
 tags:
     - hewlett
     - long

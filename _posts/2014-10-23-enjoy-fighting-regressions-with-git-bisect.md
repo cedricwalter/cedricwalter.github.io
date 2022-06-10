@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=8245'
 permalink: /development/enjoy-fighting-regressions-with-git-bisect/
-image: /wp-content/uploads/2017/04/git-logo.jpg
+header:
+  teaser: /assets/images/2017/04/git-logo.jpg
 tags:
     - git
     - HowTo

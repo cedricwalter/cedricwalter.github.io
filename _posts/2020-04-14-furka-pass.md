@@ -8,7 +8,8 @@ guid: 'https://waltercedric.com/?p=13155'
 permalink: /holidays/furka-pass/
 ngg_post_thumbnail:
     - '0'
-image: /wp-content/uploads/2020/04/furkapass-schwitzerland-5.jpg
+header:
+  teaser: /assets/images/2020/04/furkapass-schwitzerland-5.jpg
 tags:
     - car
     - switzerland

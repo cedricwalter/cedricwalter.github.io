@@ -6,13 +6,14 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2425'
 permalink: /hobbies/rempotage-dun-bonsai-ligustrum/
-image: /wp-content/uploads/2006/04/t_rempotage-bonsai-ligustrum-00.jpg
+header:
+  teaser: /assets/images/2006/04/t_rempotage-bonsai-ligustrum-00.jpg
 tags:
     - Bonsai
     - Collectibles
 ---
 
-| <font size="5">![](/assets/images/2006/04/t_rempotage-bonsai-ligustrum-00.jpg) | J’ai reçu cet arbre en décembre 2005 pour Noël. Âgé de 27 ans, il demandait à être rempoté. Les feuilles étaient minuscules (signe d’un voyage en conteneur du Japon), et les racines affleuraient à la surface du substrat (Substrat= sol qui contient les éléments nutritifs pour les plantes) |
+| ![](/assets/images/2006/04/t_rempotage-bonsai-ligustrum-00.jpg) | J’ai reçu cet arbre en décembre 2005 pour Noël. Âgé de 27 ans, il demandait à être rempoté. Les feuilles étaient minuscules (signe d’un voyage en conteneur du Japon), et les racines affleuraient à la surface du substrat (Substrat= sol qui contient les éléments nutritifs pour les plantes) |
 |---|---|
 
 Je suis un débutant complet mais les sites suivant m’ont beaucoup aidé, ainsi que la visite d’un magasin spécialisé.

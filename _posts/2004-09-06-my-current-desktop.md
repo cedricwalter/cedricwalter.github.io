@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=1113'
 permalink: /linux/my-current-desktop/
-image: /wp-content/uploads/2004/09/desktop2.jpg
+header:
+  teaser: /assets/images/2004/09/desktop2.jpg
 tags:
     - OpenSuse
 ---

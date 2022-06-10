@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=8752'
 permalink: /development/security-token-offering-sto-statistics/
-image: /wp-content/uploads/2019/03/blockchain.jpg
+header:
+  teaser: /assets/images/2019/03/blockchain.jpg
 tags:
     - analysis
     - blockchain

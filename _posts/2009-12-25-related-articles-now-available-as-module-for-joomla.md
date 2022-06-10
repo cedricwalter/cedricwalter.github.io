@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4921'
 permalink: /joomla/related-articles-now-available-as-module-for-joomla/
-image: /wp-content/uploads/2009/12/relatedThumbItems_3.png
+header:
+  teaser: /assets/images/2009/12/relatedThumbItems_3.png
 tags:
     - joomla
     - list

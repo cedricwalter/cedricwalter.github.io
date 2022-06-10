@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2391'
 permalink: /development/access-to-joomla-cvs-forge-using-eclipse/
-image: /wp-content/uploads/2006/03/openperspective.jpg
+header:
+  teaser: /assets/images/2006/03/openperspective.jpg
 tags:
     - development
     - joomla
@@ -19,6 +20,6 @@ Click Read more !
 | ![](/assets/images/2006/03/openperspective.jpg) | Go to the perspective CVS Repository Exploring |
 |---|---|
 | ![New Repository Location](/assets/images/2006/03/NewRepositoryLocation.jpg) | Add a new repository location (the screenshots show a workspace I am using with all repositories already defined…) |
-| ![add CVS repository](/assets/images/2006/03/addCVSrepository.jpg) | Enter the following informations: - Host is <span style="FONT-STYLE: italic">scm.joomla.org - Repository path is <span style="FONT-STYLE: italic">/cvsroot/com\_akocommentplus - Enter your user login (create one if needed here) - Enter your Password - Connection type should be <span style="FONT-STYLE: italic">extssh  Click on button Finish |
+| ![add CVS repository](/assets/images/2006/03/addCVSrepository.jpg) | Enter the following informations: - Host is scm.joomla.org - Repository path is /cvsroot/com\_akocommentplus - Enter your user login (create one if needed here) - Enter your Password - Connection type should be extssh  Click on button Finish |
 | ![check out HEAD from Joomla Forge](/assets/images/2006/03/checkOutHEAD.jpg) | Youre done, you can now checkout the HEAD |
 |  |  |

@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2813'
 permalink: /gadget/the-perfect-remote-controller-under-250euro/
-image: /wp-content/uploads/2006/12/logitech.harmony.1000.jpg
+header:
+  teaser: /assets/images/2006/12/logitech.harmony.1000.jpg
 tags:
     - gadget
     - 'Home Cinema'

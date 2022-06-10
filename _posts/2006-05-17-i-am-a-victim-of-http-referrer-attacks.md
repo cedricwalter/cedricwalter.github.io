@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2532'
 permalink: /internet/i-am-a-victim-of-http-referrer-attacks/
-image: /wp-content/uploads/2005/11/freecap.gif
+header:
+  teaser: /assets/images/2005/11/freecap.gif
 tags:
     - Spam
     - spammer

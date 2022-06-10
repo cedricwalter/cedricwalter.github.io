@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2249'
 permalink: /internet/i-wish-everyone-a-happy-2006/
-image: /wp-content/uploads/2005/12/Happy-New-Year2006.gif
+header:
+  teaser: /assets/images/2005/12/Happy-New-Year2006.gif
 tags:
     - comments
     - community

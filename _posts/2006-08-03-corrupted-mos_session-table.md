@@ -15,10 +15,10 @@ tags:
 
  10 minutes ago, I got a strange error message:
 
-<span style="font-style: italic;"> DB function failed with error number 1016  
-<span style="font-style: italic;"> Can’t open file: ‘mos\_session.MYI’. (errno: 145) SQL=SELECT session\_id FROM mos\_session WHERE session\_id=MD5(‘e20eafcf277b7bc0dd125357b4a1b223’)   
-<span style="font-style: italic;"> SQL =   
-<span style="font-style: italic;"> SELECT session\_id FROM mos\_session WHERE session\_id=MD5(‘e20eafcf277b7bc0dd125357b4a1b223’
+ DB function failed with error number 1016  
+ Can’t open file: ‘mos\_session.MYI’. (errno: 145) SQL=SELECT session\_id FROM mos\_session WHERE session\_id=MD5(‘e20eafcf277b7bc0dd125357b4a1b223’)   
+ SQL =   
+ SELECT session\_id FROM mos\_session WHERE session\_id=MD5(‘e20eafcf277b7bc0dd125357b4a1b223’
 
 I was not able to access the frontend or admin panel of my homepage. I tried to look in PHPMyAdmin the table mos\_session but was getting the same error message. The only solution was to recreate the table with the following code:
 

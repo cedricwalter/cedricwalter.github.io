@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=8339'
 permalink: /java/java-garbage-collector-log-analysis/
-image: /wp-content/uploads/2016/04/gceasy-io.png
+header:
+  teaser: /assets/images/2016/04/gceasy-io.png
 tags:
     - java
 ---

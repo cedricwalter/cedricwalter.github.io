@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4782'
 permalink: /gadget/canon-eos-7d-new-firmware-released/
-image: /wp-content/uploads/2009/10/Canon_EOS_7D.jpg
+header:
+  teaser: /assets/images/2009/10/Canon_EOS_7D.jpg
 ---
 
 ![Canon_EOS_7D](/assets/images/2009/10/Canon_EOS_7D.jpg "Canon_EOS_7D")

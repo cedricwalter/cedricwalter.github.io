@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=8105'
 permalink: /games/649-pokemon-in-a-giant-color-wheel/
-image: /wp-content/uploads/2013/07/Pokemon-color-wheel_thumb.jpg
+header:
+  teaser: /assets/images/2013/07/Pokemon-color-wheel_thumb.jpg
 tags:
     - games
     - vintage

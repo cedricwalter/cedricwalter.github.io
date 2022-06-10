@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://www.waltercedric.com/?p=13448'
 permalink: /development/how-to-run-a-tezos-baking-node-on-ubuntu/
-image: /wp-content/uploads/2020/05/tezos-baking-e1610896669778.png
+header:
+  teaser: /assets/images/2020/05/tezos-baking-e1610896669778.png
 tags:
     - baking
     - blockchain

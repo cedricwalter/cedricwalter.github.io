@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=1919'
 permalink: /motorcycles/shoei-xr1000-badge-tc-5/
-image: /wp-content/uploads/2005/07/shoei-xr1000-badget5.jpg
+header:
+  teaser: /assets/images/2005/07/shoei-xr1000-badget5.jpg
 tags:
     - review
 ---

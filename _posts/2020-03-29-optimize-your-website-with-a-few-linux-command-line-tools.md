@@ -8,7 +8,8 @@ guid: 'https://waltercedric.com/?p=11341'
 permalink: /development/optimize-your-website-with-a-few-linux-command-line-tools/
 ngg_post_thumbnail:
     - '0'
-image: /wp-content/uploads/2020/03/speed.jpg
+header:
+  teaser: /assets/images/2020/03/speed.jpg
 tags:
     - backup
     - category

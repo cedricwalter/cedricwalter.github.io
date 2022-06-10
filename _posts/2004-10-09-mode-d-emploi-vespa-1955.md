@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=1273'
 permalink: /scooter/mode-d-emploi-vespa-1955/
-image: /wp-content/uploads/2016/07/vespa-acma-1954-13_2.jpg
+header:
+  teaser: /assets/images/2016/07/vespa-acma-1954-13_2.jpg
 tags:
     - scooter
     - scooters

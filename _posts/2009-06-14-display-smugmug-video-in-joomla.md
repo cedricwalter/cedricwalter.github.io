@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4419'
 permalink: /joomla/display-smugmug-video-in-joomla/
-image: /wp-content/uploads/2009/06/smugmugvideo.example_thumb.png
+header:
+  teaser: /assets/images/2009/06/smugmugvideo.example_thumb.png
 ---
 
 [![smugmugvideo.example](/assets/images/2009/06/smugmugvideo.example_thumb.png "smugmugvideo.example")](/assets/images/2009/06/smugmugvideo.example.png) Another small module, highly customizable to display video from your Smugmug gallery is ready for prime time!

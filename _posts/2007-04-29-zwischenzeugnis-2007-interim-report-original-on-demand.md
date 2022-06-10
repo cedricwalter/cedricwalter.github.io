@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2961'
 permalink: /educationresume/zwischenzeugnis-2007-interim-report-original-on-demand/
-image: /wp-content/uploads/2016/07/Arbeitszeugnis.png
+header:
+  teaser: /assets/images/2016/07/Arbeitszeugnis.png
 ---
 
 <big></big>  

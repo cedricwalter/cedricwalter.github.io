@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4490'
 permalink: /java/eclipse-galileo-aka-eclipse-3-5-is-here/
-image: /wp-content/uploads/2009/06/eclipse.galileo.png
+header:
+  teaser: /assets/images/2009/06/eclipse.galileo.png
 ---
 
 [![eclipse.galileo](/assets/images/2009/06/eclipse.galileo.png "eclipse.galileo")](http://www.eclipse.org/galileo/)

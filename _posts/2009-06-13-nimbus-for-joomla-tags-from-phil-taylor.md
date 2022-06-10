@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4404'
 permalink: /joomla/nimbus-for-joomla-tags-from-phil-taylor/
-image: /wp-content/uploads/2009/06/top200tags.png
+header:
+  teaser: /assets/images/2009/06/top200tags.png
 ---
 
 ![top200tags](/assets/images/2009/06/top200tags.png "top200tags")

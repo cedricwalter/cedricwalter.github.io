@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2841'
 permalink: /today-on-earth/100-most-extraordinary-threatened-mammals/
-image: /wp-content/uploads/2007/01/header_edgeofexistene.org_.jpg
+header:
+  teaser: /assets/images/2007/01/header_edgeofexistene.org_.jpg
 tags:
     - Disaster
     - 'Today on earth'

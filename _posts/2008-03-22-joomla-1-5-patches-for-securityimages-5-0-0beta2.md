@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3297'
 permalink: /joomla/joomla-1-5-patches-for-securityimages-5-0-0beta2/
-image: /wp-content/uploads/2008/03/patches.altered.files_thumb.gif
+header:
+  teaser: /assets/images/2008/03/patches.altered.files_thumb.gif
 ---
 
 I always dislike doing this (changing core file of #Joomla!) but here they ARE…

@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=7726'
 permalink: /java/agile-testing-poster/
-image: /wp-content/uploads/2012/06/AgileTestingPoster.png
+header:
+  teaser: /assets/images/2012/06/AgileTestingPoster.png
 ---
 
 > Agile testing is a software testing practice that follows the principles of agile software development. Agile testing is built upon the philosophy that testers need to adapt to rapid deployment cycles and changes in testing patterns. Providing and getting feedback early, fast and regularly is one of the testers main task.

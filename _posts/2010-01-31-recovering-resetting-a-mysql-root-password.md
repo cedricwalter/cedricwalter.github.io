@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4970'
 permalink: /development/recovering-resetting-a-mysql-root-password/
-image: /wp-content/uploads/2010/01/logoMysql_3.gif
+header:
+  teaser: /assets/images/2010/01/logoMysql_3.gif
 tags:
     - database
     - MySQL

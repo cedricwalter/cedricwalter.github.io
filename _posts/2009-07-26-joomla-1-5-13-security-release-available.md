@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4550'
 permalink: /security/joomla-1-5-13-security-release-available/
-image: /wp-content/uploads/2009/07/f_1218589627_thumb.png
+header:
+  teaser: /assets/images/2009/07/f_1218589627_thumb.png
 ---
 
 [![f_1218589627](/assets/images/2009/07/f_1218589627_thumb.png "f_1218589627")](/assets/images/2009/07/f_1218589627.png)

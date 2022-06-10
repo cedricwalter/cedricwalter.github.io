@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=1103'
 permalink: /hobbies/le-robot-1999-de-l-essaim-en-images/
-image: /wp-content/uploads/2004/09/Dscf0044.jpg
+header:
+  teaser: /assets/images/2004/09/Dscf0044.jpg
 tags:
     - Robotic
 ---

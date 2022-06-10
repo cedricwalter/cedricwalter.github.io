@@ -6,12 +6,13 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2650'
 permalink: /joomla/ajax-enabled-opencomment-online-video/
-image: /wp-content/uploads/2006/03/opencomment-72.jpg
+header:
+  teaser: /assets/images/2006/03/opencomment-72.jpg
 tags:
     - joomla
 ---
 
- ![](/assets/images/2006/03/opencomment-72.jpg)I took the time to work 3 hours on <span style="font-weight: bold;">OpenComment, and I made some impressive progress…
+ ![](/assets/images/2006/03/opencomment-72.jpg)I took the time to work 3 hours onOpenComment, and I made some impressive progress…
 
 - I am able to understand xajax development and error messages faster now
 - Nearly all basic functions are AJAX enable: rating, admin function, publishing, sorting, filtering etc…
@@ -20,9 +21,9 @@ tags:
 
 And in order to thank You all for Your patience, I have create a FLASH movie with [WINK ](http://www.debugmode.com/wink/)
 
-<span style="font-style: italic;">Wink is a Tutorial and Presentation creation software, primarily aimed at creating tutorials on how to use software (like a tutor for MS-Word/Excel etc). Using Wink you can capture screenshots, add explanations boxes, buttons, titles etc and generate a highly effective tutorial for your users.
+Wink is a Tutorial and Presentation creation software, primarily aimed at creating tutorials on how to use software (like a tutor for MS-Word/Excel etc). Using Wink you can capture screenshots, add explanations boxes, buttons, titles etc and generate a highly effective tutorial for your users.
 
-Carbon Viewlet being too expensive: 200$ right now for my usage <span style="font-weight: bold;">but if someone has a licence to offer me 😉
+Carbon Viewlet being too expensive: 200$ right now for my usagebut if someone has a licence to offer me 😉
 
 The video is [here GO for OpenComment video](/dmdocuments/opencommentWink.htm) <font size="6"> (a little bit rough for 300kB, but the WOW effect should be here)
 
@@ -30,7 +31,7 @@ The video is [here GO for OpenComment video](/dmdocuments/opencommentWink.htm) <
 - This thing is lightning fast
 - The AJAX library has reduce the code of at least 30% (no more form, no submit, no code to compute redirect url etc…)
 
-<span style="font-weight: bold;">BUT
+BUT
 
 - Dont ask for a release date, it will be ready when it is ready!
 - Adding security and reviewing code has to be done, I dont want to let hackers missuse the system.

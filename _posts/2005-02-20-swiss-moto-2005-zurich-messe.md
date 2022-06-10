@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=1588'
 permalink: /holidays/swiss-moto-2005-zurich-messe/
-image: /wp-content/uploads/2005/02/swissmoto.gif
+header:
+  teaser: /assets/images/2005/02/swissmoto.gif
 tags:
     - switzerland
 ---

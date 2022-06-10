@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=8589'
 permalink: /development/blockchain-bitcoin-an-introduction/
-image: /wp-content/uploads/2016/10/blockchain.jpg
+header:
+  teaser: /assets/images/2016/10/blockchain.jpg
 tags:
     - bitcoin
     - blockchain

@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=1915'
 permalink: /motorcycles/flash-back-model-2001/
-image: /wp-content/uploads/2005/07/ds650-bombardier-model-2001-1.jpg
+header:
+  teaser: /assets/images/2005/07/ds650-bombardier-model-2001-1.jpg
 tags:
     - atv
     - bombardier

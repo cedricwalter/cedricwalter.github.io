@@ -8,7 +8,8 @@ guid: 'https://waltercedric.com/?p=11114'
 permalink: /hobbies/must-have-dji-fpv-system-accessories-and-upgrade-parts/
 ngg_post_thumbnail:
     - '0'
-image: /wp-content/uploads/2020/03/DJI-Digital-HD-FPV-Goggles.png
+header:
+  teaser: /assets/images/2020/03/DJI-Digital-HD-FPV-Goggles.png
 tags:
     - compatible
     - Design

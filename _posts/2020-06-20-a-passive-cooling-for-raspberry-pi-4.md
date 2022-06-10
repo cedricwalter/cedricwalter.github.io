@@ -8,7 +8,8 @@ guid: 'https://www.waltercedric.com/?p=13551'
 permalink: /gadget/a-passive-cooling-for-raspberry-pi-4/
 ngg_post_thumbnail:
     - '0'
-image: /wp-content/uploads/2020/06/raspberry-pi-passive-heatsink-1.jpg
+header:
+  teaser: /assets/images/2020/06/raspberry-pi-passive-heatsink-1.jpg
 tags:
     - case
     - cooling

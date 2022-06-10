@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=65'
 permalink: /hobbies/repairing-the-radio-tray/
-image: /wp-content/uploads/2004/08/RadioTrayRepare1.jpg
+header:
+  teaser: /assets/images/2004/08/RadioTrayRepare1.jpg
 tags:
     - kyosho
     - non

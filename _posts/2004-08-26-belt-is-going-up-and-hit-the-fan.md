@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=122'
 permalink: /hobbies/belt-is-going-up-and-hit-the-fan/
-image: /wp-content/uploads/2004/08/BeltHittingFan.gif
+header:
+  teaser: /assets/images/2004/08/BeltHittingFan.gif
 tags:
     - kyosho
     - 'RC helicopter'

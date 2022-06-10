@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=6469'
 permalink: /homepage/photowidget-1-6-0-for-joomla-1-6-avalaible-2/
-image: /wp-content/uploads/2009/09/photowidgetSmugmugHTML.png
+header:
+  teaser: /assets/images/2009/09/photowidgetSmugmugHTML.png
 tags:
     - Download
     - joomla

@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=8333'
 permalink: /gadget/employee-satisfaction-survey/
-image: /wp-content/uploads/2016/03/191583-strip-zoom_3.gif
+header:
+  teaser: /assets/images/2016/03/191583-strip-zoom_3.gif
 ---
 
 # ![191583-strip-zoom](/assets/images/2016/03/191583-strip-zoom_3.gif "191583-strip-zoom")**

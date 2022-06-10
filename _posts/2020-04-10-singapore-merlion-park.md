@@ -8,7 +8,8 @@ guid: 'https://waltercedric.com/?p=12837'
 permalink: /uncategorized/singapore-merlion-park/
 ngg_post_thumbnail:
     - '0'
-image: /wp-content/uploads/2020/04/singapore-merion-park-1.jpg
+header:
+  teaser: /assets/images/2020/04/singapore-merion-park-1.jpg
 tags:
     - asia
     - city

@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4503'
 permalink: /development/smugmug-badge-module-for-joomla/
-image: /wp-content/uploads/2009/07/smumug.badge_.joomla.01_thumb.png
+header:
+  teaser: /assets/images/2009/07/smumug.badge_.joomla.01_thumb.png
 ---
 
 [![smumug.badge.joomla.01](/assets/images/2009/07/smumug.badge_.joomla.01_thumb.png "smumug.badge.joomla.01")](/assets/images/2009/07/smumug.badge_.joomla.01.png) [![smumug.badge.joomla.02](/assets/images/2009/07/smumug.badge_.joomla.02_thumb.png "smumug.badge.joomla.02")](/assets/images/2009/07/smumug.badge_.joomla.02.png)

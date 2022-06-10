@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=6701'
 permalink: /games/nintendo-donkey-kong-game-and-watch-multi-screen-series/
-image: /wp-content/uploads/2011/05/Nintendo_Donkey_Kong_GameAndWatch_01_thumb.jpg
+header:
+  teaser: /assets/images/2011/05/Nintendo_Donkey_Kong_GameAndWatch_01_thumb.jpg
 tags:
     - arcade
     - games

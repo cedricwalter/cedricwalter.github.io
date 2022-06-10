@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=1778'
 permalink: /security/bluetooth-in-secure-mode-vulnerable-too/
-image: /wp-content/uploads/2005/06/logo_bluetooth.gif
+header:
+  teaser: /assets/images/2005/06/logo_bluetooth.gif
 tags:
     - algorithms
 ---

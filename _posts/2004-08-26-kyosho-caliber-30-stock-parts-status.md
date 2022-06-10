@@ -3,7 +3,8 @@ id: 430
 title: 'Kyosho Caliber 30 Stock Parts Status'
 date: '2004-08-26T23:35:32+02:00'
 author: 'Cédric Walter'
-
+header:
+    teaser: /assets/images/2004/08/kyosho_caliber_30_thumb.jpg
 guid: 'https://waltercedric.com/new/?p=430'
 permalink: /hobbies/kyosho-caliber-30-stock-parts-status/
 tags:

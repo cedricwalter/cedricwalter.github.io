@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=1022'
 permalink: /hobbies/video-camera-using-aurel-modules/
-image: /wp-content/uploads/2004/09/mav1.jpg
+header:
+  teaser: /assets/images/2004/09/mav1.jpg
 tags:
     - electronic
     - 'RC helicopter'

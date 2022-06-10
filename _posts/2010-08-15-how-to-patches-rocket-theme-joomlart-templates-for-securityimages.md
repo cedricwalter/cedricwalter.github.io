@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=5723'
 permalink: /joomla/how-to-patches-rocket-theme-joomlart-templates-for-securityimages/
-image: /wp-content/uploads/2010/08/rockettheme.png
+header:
+  teaser: /assets/images/2010/08/rockettheme.png
 tags:
     - internal
     - joomla

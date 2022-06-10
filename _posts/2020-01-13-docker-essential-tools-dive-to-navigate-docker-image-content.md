@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=8783'
 permalink: /development/docker-essential-tools-dive-to-navigate-docker-image-content/
-image: /wp-content/uploads/2017/06/docker.png
+header:
+  teaser: /assets/images/2017/06/docker.png
 tags:
     - bash
     - container

@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3971'
 permalink: /open-source/open-handset-alliance-announces-14-new-members/
-image: /wp-content/uploads/2008/12/500pxAndroidlogo.svg_.png
+header:
+  teaser: /assets/images/2008/12/500pxAndroidlogo.svg_.png
 tags:
     - android
     - google

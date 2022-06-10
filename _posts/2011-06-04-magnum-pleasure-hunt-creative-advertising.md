@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=6805'
 permalink: /today-on-earth/magnum-pleasure-hunt-creative-advertising/
-image: /wp-content/uploads/2011/06/pleasurehunt_mymagnum_com.jpg
+header:
+  teaser: /assets/images/2011/06/pleasurehunt_mymagnum_com.jpg
 tags:
     - art
     - click

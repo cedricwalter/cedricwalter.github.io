@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=1789'
 permalink: /software/most-famous-voip-software-skype/
-image: /wp-content/uploads/2005/06/skype-logo.png
+header:
+  teaser: /assets/images/2005/06/skype-logo.png
 tags:
     - communication
     - configuration

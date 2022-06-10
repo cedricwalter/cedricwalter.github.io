@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=108'
 permalink: /hobbies/glue-your-grips-on-the-blade/
-image: /wp-content/uploads/2004/08/glueYourBlade.jpg
+header:
+teaser: /assets/images/2004/08/glueYourBlade.jpg
 tags:
 
 - caliber
@@ -20,7 +21,7 @@ tags:
 
 # glue blade grip
 
-![](/assets/images/2004/08/glueYourBlade.jpg)  
+![](/assets/images/2004/08/glueYourBlade.jpg)
 
 Mark the edge of the black plastic part with a pen before removing | Thunder Tiger recommend you to glue your blade with
 epoxy glue. Kyosho say nothing in the manual about this subject. I agree that the Caliber 30 has 4 screws vs only 2 for

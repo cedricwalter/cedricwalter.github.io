@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3117'
 permalink: /holidays/tasmania-road-trip/
-image: /wp-content/uploads/2007/11/tasmania.island.nasa_.jpg
+header:
+  teaser: /assets/images/2007/11/tasmania.island.nasa_.jpg
 tags:
     - Australia
     - holidays

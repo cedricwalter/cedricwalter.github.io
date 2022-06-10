@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4373'
 permalink: /java/web-page-as-graphs-with-source-code/
-image: /wp-content/uploads/2009/06/www.waltercedric.as_.graph_thumb.png
+header:
+  teaser: /assets/images/2009/06/www.waltercedric.as_.graph_thumb.png
 ---
 
 [![www.waltercedric.as.graph](/assets/images/2009/06/www.waltercedric.as_.graph_thumb.png "www.waltercedric.as.graph")](http://websitesasgraphs.waltercedric.com/display.php?url=http://www.waltercedric.com)

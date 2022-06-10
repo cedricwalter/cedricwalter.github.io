@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=8760'
 permalink: /today-on-earth/star-wars-the-rise-of-skywalker/
-image: /wp-content/uploads/2019/10/1200px-Star_Wars_Logo.svg_.png
+header:
+  teaser: /assets/images/2019/10/1200px-Star_Wars_Logo.svg_.png
 tags:
     - cinema
     - lucas

@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4074'
 permalink: /joomla/guestbook-for-joomla-version-5-1-3/
-image: /wp-content/uploads/2009/01/guestbook.for_.joomla.statistics_thumb.png
+header:
+  teaser: /assets/images/2009/01/guestbook.for_.joomla.statistics_thumb.png
 ---
 
 Version 5.1.3 of the oldest and maybe the most famous GuestBook for #Joomla! is out

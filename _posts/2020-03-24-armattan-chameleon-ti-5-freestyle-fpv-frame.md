@@ -8,7 +8,8 @@ guid: 'https://waltercedric.com/?p=10662'
 permalink: /hobbies/armattan-chameleon-ti-5-freestyle-fpv-frame/
 ngg_post_thumbnail:
     - '0'
-image: /wp-content/uploads/2020/03/armattan-chameleon-ti-mounted.jpg
+header:
+  teaser: /assets/images/2020/03/armattan-chameleon-ti-mounted.jpg
 tags:
     - armattan
     - art

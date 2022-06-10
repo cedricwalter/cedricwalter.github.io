@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=1505'
 permalink: /development/flyweight/
-image: /wp-content/uploads/2005/01/java-pattern-flyweight.png
+header:
+  teaser: /assets/images/2005/01/java-pattern-flyweight.png
 ---
 
 Use sharing to support large numbers of fine-grained objects efficiently.

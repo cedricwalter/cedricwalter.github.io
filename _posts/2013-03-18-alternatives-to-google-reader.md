@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=7976'
 permalink: /internet/alternatives-to-google-reader/
-image: /wp-content/uploads/2013/03/googlereader_thumb.png
+header:
+  teaser: /assets/images/2013/03/googlereader_thumb.png
 tags:
     - google
 ---

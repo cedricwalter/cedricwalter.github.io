@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=8607'
 permalink: /linux/a-cheap-gps-for-your-raspberry-pi/
-image: /wp-content/uploads/2017/02/raspberry-pi-gps.jpg
+header:
+  teaser: /assets/images/2017/02/raspberry-pi-gps.jpg
 tags:
     - raspbian
 ---

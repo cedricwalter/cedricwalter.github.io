@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3360'
 permalink: /development/continuous-build-of-apache-projects/
-image: /wp-content/uploads/2008/04/4399f6228b40448db40fc3833fdbbb52.jpg
+header:
+  teaser: /assets/images/2008/04/4399f6228b40448db40fc3833fdbbb52.jpg
 tags:
     - apache
     - building

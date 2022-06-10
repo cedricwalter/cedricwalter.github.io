@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=234'
 permalink: /linux/a-desktop-review/
-image: /wp-content/uploads/2004/08/suse.gif
+header:
+  teaser: /assets/images/2004/08/suse.gif
 ---
 
 This page was last modified on Mon, 16 Aug 2004 17:06:24 GMT

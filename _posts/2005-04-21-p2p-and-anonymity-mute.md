@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=1695'
 permalink: /internet/p2p-and-anonymity-mute/
-image: /wp-content/uploads/2005/04/mute.logo_.gif
+header:
+  teaser: /assets/images/2005/04/mute.logo_.gif
 tags:
     - algorithms
     - anonymity

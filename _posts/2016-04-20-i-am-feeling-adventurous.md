@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=8370'
 permalink: /internet/i-am-feeling-adventurous/
-image: /wp-content/uploads/2016/04/howinstagramstarted_1280_thumb.png
+header:
+  teaser: /assets/images/2016/04/howinstagramstarted_1280_thumb.png
 tags:
     - internet
     - web

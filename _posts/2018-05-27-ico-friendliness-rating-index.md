@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=8730'
 permalink: /development/ico-friendliness-rating-index/
-image: /wp-content/uploads/2018/05/ico-rating-switzerland.png
+header:
+  teaser: /assets/images/2018/05/ico-rating-switzerland.png
 tags:
     - analysis
     - blockchain

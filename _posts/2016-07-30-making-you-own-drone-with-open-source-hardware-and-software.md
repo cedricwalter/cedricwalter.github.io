@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=8527'
 permalink: /hobbies/making-you-own-drone-with-open-source-hardware-and-software/
-image: /wp-content/uploads/2016/07/arducopter_3.png
+header:
+  teaser: /assets/images/2016/07/arducopter_3.png
 ---
 
 ### ![Arducopter](/assets/images/2016/07/arducopter_3.png "Arducopter")

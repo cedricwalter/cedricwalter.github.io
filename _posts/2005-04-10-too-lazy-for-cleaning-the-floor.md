@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=1687'
 permalink: /gadget/too-lazy-for-cleaning-the-floor/
-image: /wp-content/uploads/2005/04/trilobite-vacuum-175.jpg
+header:
+  teaser: /assets/images/2005/04/trilobite-vacuum-175.jpg
 tags:
     - category
 ---

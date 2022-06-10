@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=845'
 permalink: /hobbies/knife-edge-realflight-g2/
-image: /wp-content/uploads/2004/09/raptor1.jpg
+header:
+  teaser: /assets/images/2004/09/raptor1.jpg
 tags:
     - airplane
     - architecture

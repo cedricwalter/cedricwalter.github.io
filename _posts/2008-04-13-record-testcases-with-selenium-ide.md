@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3408'
 permalink: /development/record-testcases-with-selenium-ide/
-image: /wp-content/uploads/2008/04/open.qa_.logo_thumb.gif
+header:
+  teaser: /assets/images/2008/04/open.qa_.logo_thumb.gif
 ---
 
 | [![open.qa.logo](/assets/images/2008/04/open.qa_.logo_thumb.gif)](/assets/images/2008/04/open.qa_.logo_.gif) | **Selenium** is a test tool for web applications. Selenium tests run **directly in a browser**, just like real users do. It runs in Internet Explorer, Mozilla and Firefox on Windows, #Linux, and Macintosh, Safari on the Mac. They have plans to target Safari on the iPhone in some months. The tool is free and available under Apache 2.0. |

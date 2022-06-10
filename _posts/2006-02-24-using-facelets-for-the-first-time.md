@@ -10,15 +10,15 @@ tags:
     - development
 ---
 
-<span style="font-style: italic;">Trying to combine JSF and JSP is like trying to shoehorn a foot into a glove: it’s possible, but it’s really just a stopgap measure until something better comes along. In this article, JSF enthusiast Rick Hightower introduces you to what he likes best about Facelets: easy HTML-style templating and reusable composition components.  
+Trying to combine JSF and JSP is like trying to shoehorn a foot into a glove: it’s possible, but it’s really just a stopgap measure until something better comes along. In this article, JSF enthusiast Rick Hightower introduces you to what he likes best about Facelets: easy HTML-style templating and reusable composition components.  
   
-<span style="font-style: italic;">Facelets has several compelling features: 
+Facelets has several compelling features: 
 
 - Templating (like Tiles)
 - Composition components
 - Custom logic tags
 - Expression functions
 - Designer-friendly page development
-- <span style="font-style: italic;">Creating component libraries
+- Creating component libraries
 
 Read the tutorial at [IBM developerworks HERE](http://www-128.ibm.com/developerworks/java/library/j-facelets/?ca=dgr-lnxw07Facelets4JSF)

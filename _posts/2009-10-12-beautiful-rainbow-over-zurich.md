@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4767'
 permalink: /holidays/beautiful-rainbow-over-zurich/
-image: /wp-content/uploads/2009/10/IMG_0226_thumb.jpg
+header:
+  teaser: /assets/images/2009/10/IMG_0226_thumb.jpg
 tags:
     - switzerland
 ---

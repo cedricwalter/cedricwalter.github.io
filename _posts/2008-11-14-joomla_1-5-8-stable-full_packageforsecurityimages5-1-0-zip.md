@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3922'
 permalink: /joomla/joomla_1-5-8-stable-full_packageforsecurityimages5-1-0-zip/
-image: /wp-content/uploads/2008/08/joomla_download_banner.png
+header:
+  teaser: /assets/images/2008/08/joomla_download_banner.png
 ---
 
 [](http://www.stumbleupon.com/submit?url=http://www.waltercedric.com%2Findex.php%3F&title=Joomla_1.5.6-Stable-Full_PackageForSecurityImages5.0.0.zip)

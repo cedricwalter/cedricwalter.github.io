@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4042'
 permalink: /joomla/reduce-http-requests-with-minify4joomla/
-image: /wp-content/uploads/2009/01/minify4joomla.4_thumb.png
+header:
+  teaser: /assets/images/2009/01/minify4joomla.4_thumb.png
 ---
 
 ## BETA release

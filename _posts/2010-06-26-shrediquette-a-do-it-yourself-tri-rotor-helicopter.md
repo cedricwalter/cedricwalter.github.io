@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=5396'
 permalink: /hobbies/shrediquette-a-do-it-yourself-tri-rotor-helicopter/
-image: /wp-content/uploads/2010/06/two_tricopters_thumb.jpg
+header:
+  teaser: /assets/images/2010/06/two_tricopters_thumb.jpg
 tags:
     - blogspot
     - details

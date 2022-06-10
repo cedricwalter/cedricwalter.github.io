@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=5306'
 permalink: /today-on-earth/creative-fitness-advertisement/
-image: /wp-content/uploads/2010/06/creative.fitness.ads-1_2.jpg
+header:
+  teaser: /assets/images/2010/06/creative.fitness.ads-1_2.jpg
 tags:
     - creative
     - fitness

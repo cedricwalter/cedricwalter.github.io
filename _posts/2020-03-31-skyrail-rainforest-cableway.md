@@ -8,7 +8,8 @@ guid: 'https://waltercedric.com/?p=12385'
 permalink: /holidays/skyrail-rainforest-cableway/
 ngg_post_thumbnail:
     - '0'
-image: /wp-content/uploads/2020/03/Skyrail-Rainforest-Cableway-35.jpg
+header:
+  teaser: /assets/images/2020/03/Skyrail-Rainforest-Cableway-35.jpg
 tags:
     - Australia
     - holidays

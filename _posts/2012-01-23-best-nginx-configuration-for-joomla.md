@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=7446'
 permalink: /joomla/best-nginx-configuration-for-joomla/
-image: /wp-content/uploads/2012/01/Nginx-logo.png
+header:
+  teaser: /assets/images/2012/01/Nginx-logo.png
 tags:
     - conf
     - configuration

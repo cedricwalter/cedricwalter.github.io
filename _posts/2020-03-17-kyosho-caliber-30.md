@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=7021'
 permalink: /hobbies/kyosho-caliber-30/
-image: /wp-content/uploads/2011/08/kyosho_caliber_30_00.jpg
+header:
+  teaser: /assets/images/2011/08/kyosho_caliber_30_00.jpg
 tags:
     - caliber
     - kyosho

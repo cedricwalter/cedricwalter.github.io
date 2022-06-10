@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2215'
 permalink: /development/new-version-of-akocommentplus/
-image: /wp-content/uploads/2005/12/akocommentWithTracking.gif
+header:
+  teaser: /assets/images/2005/12/akocommentWithTracking.gif
 tags:
     - screenshots
 ---

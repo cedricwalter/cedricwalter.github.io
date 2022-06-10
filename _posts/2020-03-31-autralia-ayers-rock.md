@@ -8,7 +8,8 @@ guid: 'https://waltercedric.com/?p=11938'
 permalink: /holidays/autralia-ayers-rock/
 ngg_post_thumbnail:
     - '0'
-image: /wp-content/uploads/2020/03/australia.northern.territory.ayers_.rock_0056.jpg
+header:
+  teaser: /assets/images/2020/03/australia.northern.territory.ayers_.rock_0056.jpg
 tags:
     - Australia
     - holidays

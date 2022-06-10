@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=8216'
 permalink: /games/fidelity-electronics-chess-challenger-10/
-image: /wp-content/uploads/2014/02/20140216_200324_thumb.jpg
+header:
+  teaser: /assets/images/2014/02/20140216_200324_thumb.jpg
 tags:
     - Bought
     - calculator

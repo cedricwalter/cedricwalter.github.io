@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=7194'
 permalink: /joomla/contest-i-offer-a-book-packtpub-joomla-1-5-development-cookbook/
-image: /wp-content/uploads/2011/10/Joomla_1_5_Development_Cookbook_book_thumb.jpg
+header:
+  teaser: /assets/images/2011/10/Joomla_1_5_Development_Cookbook_book_thumb.jpg
 tags:
     - cedricwalter
     - contest

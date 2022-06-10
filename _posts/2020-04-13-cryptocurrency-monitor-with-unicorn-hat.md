@@ -8,7 +8,8 @@ guid: 'https://waltercedric.com/?p=13010'
 permalink: /gadget/cryptocurrency-monitor-with-unicorn-hat/
 ngg_post_thumbnail:
     - '0'
-image: /wp-content/uploads/2020/04/Cryptocurrency-monnitor-unicorn-hat.jpg
+header:
+  teaser: /assets/images/2020/04/Cryptocurrency-monnitor-unicorn-hat.jpg
 tags:
     - bitcoin
     - cryptocurrency

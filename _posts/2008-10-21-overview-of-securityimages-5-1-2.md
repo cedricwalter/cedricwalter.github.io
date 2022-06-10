@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3876'
 permalink: /joomla/overview-of-securityimages-5-1-2/
-image: /wp-content/uploads/2008/10/securityimages5.1.2_thumb.png
+header:
+  teaser: /assets/images/2008/10/securityimages5.1.2_thumb.png
 ---
 
 This new release will allow you to set a different captcha per section, as seen in screen shot below:

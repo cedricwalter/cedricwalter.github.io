@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3870'
 permalink: /joomla/akobookplus-5-1-1-maintenance-release/
-image: /wp-content/uploads/2008/10/AkobookPlus5.1.1_thumb.png
+header:
+  teaser: /assets/images/2008/10/AkobookPlus5.1.1_thumb.png
 ---
 
 A new release of **AkobookPlus has been release**

@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=6978'
 permalink: /gadget/antec-skeleton-design-case/
-image: /wp-content/uploads/2011/07/antec_skeleton_00.jpg
+header:
+  teaser: /assets/images/2011/07/antec_skeleton_00.jpg
 tags:
     - Design
     - front

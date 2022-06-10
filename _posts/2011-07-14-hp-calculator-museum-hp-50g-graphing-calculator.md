@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=6904'
 permalink: /hobbies/hp-calculator-museum-hp-50g-graphing-calculator/
-image: /wp-content/uploads/2011/07/hp50gGraphingCalculator_thumb.jpg
+header:
+  teaser: /assets/images/2011/07/hp50gGraphingCalculator_thumb.jpg
 tags:
     - calculator
     - engineering

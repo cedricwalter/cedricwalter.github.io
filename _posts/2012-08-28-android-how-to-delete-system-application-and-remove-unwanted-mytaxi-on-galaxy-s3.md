@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=7779'
 permalink: /open-source/android-how-to-delete-system-application-and-remove-unwanted-mytaxi-on-galaxy-s3/
-image: /wp-content/uploads/2012/08/android2.png
+header:
+  teaser: /assets/images/2012/08/android2.png
 tags:
     - android
     - google

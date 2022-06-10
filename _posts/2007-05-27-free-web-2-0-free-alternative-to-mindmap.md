@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2974'
 permalink: /internet/free-web-2-0-free-alternative-to-mindmap/
-image: /wp-content/uploads/2007/05/FreeMindalternative.to_.mindmap.png
+header:
+  teaser: /assets/images/2007/05/FreeMindalternative.to_.mindmap.png
 tags:
     - internet
     - web

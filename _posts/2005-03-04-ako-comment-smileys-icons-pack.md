@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=1598'
 permalink: /joomla/ako-comment-smileys-icons-pack/
-image: /wp-content/uploads/2005/03/akocomment-smyleys-skinning.gif
+header:
+  teaser: /assets/images/2005/03/akocomment-smyleys-skinning.gif
 tags:
     - directory
     - Download

@@ -10,7 +10,7 @@ permalink: /gadget/robosapiens-2-presentation-during-ces-2005/
 
 Robotic physicist Mark Tilden has release its second version of robotsapiens (price tag around 200$). It can now control 2 others robot (Robotpet and Roboraptor), can follow a laser line, recognize with his color camera persons and environment…  
  [Official Homepage Woowee  
- ](http://www.wowee.com/)Pictures of the prototype on [Solarbotics.net](http://www.solarbotics.net/gallery/Wowwee-Robosapien?page=1)<span style="font-weight: bold;">  
+ ](http://www.wowee.com/)Pictures of the prototype on [Solarbotics.net](http://www.solarbotics.net/gallery/Wowwee-Robosapien?page=1)  
   ![](/assets/images/2005/01/wowee-robosapiens-v2.jpg)
 
 ## Robosapiens ($200)
@@ -32,9 +32,9 @@ Robotic physicist Mark Tilden has release its second version of robotsapiens (pr
 
 1. A robot may not injure a human being or, through inaction, allow a human being to come to harm.
 2. A robot must obey orders given it by human beings except where such orders would conflict with the First Law.
-3. <span style="font-style: italic;">A robot must protect its own existence as long as such protection does not conflict with the First or Second Law.
+3. A robot must protect its own existence as long as such protection does not conflict with the First or Second Law.
 
 - Even better, the toy is highly hackable see [here](http://www.windowsfordevices.com/news/NS4750901902.html) and [here](http://www.robosapien.tk/) …
-- <span style="font-weight: bold;">The top of the line walking robots are also visible (videos+pictures)on this great site <http://www.plyojump.com/index.html>
+-The top of the line walking robots are also visible (videos+pictures)on this great site <http://www.plyojump.com/index.html>
 
- <span style="font-style: italic;"><span style="font-style: italic;"><span style="font-style: italic;"> 
+  

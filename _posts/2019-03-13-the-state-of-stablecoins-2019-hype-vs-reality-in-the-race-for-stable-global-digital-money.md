@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=8748'
 permalink: /development/the-state-of-stablecoins-2019-hype-vs-reality-in-the-race-for-stable-global-digital-money/
-image: /wp-content/uploads/2019/03/blockchain.jpg
+header:
+  teaser: /assets/images/2019/03/blockchain.jpg
 tags:
     - blockchain
     - cryptocurrency

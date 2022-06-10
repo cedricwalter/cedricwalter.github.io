@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=750'
 permalink: /hobbies/roswell-flyer-hmx-4-draganflyer/
-image: /wp-content/uploads/2004/09/roswellflyer.jpg
+header:
+  teaser: /assets/images/2004/09/roswellflyer.jpg"
 tags:
     - interesting
     - spectrolutions

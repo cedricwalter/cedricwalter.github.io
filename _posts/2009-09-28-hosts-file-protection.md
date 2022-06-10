@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4718'
 permalink: /internet/hosts-file-protection/
-image: /wp-content/uploads/2009/09/hosts.file_thumb.png
+header:
+  teaser: /assets/images/2009/09/hosts.file_thumb.png
 tags:
     - ads
     - browser

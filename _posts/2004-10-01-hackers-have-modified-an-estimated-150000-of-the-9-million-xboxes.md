@@ -7,13 +7,14 @@ author: 'Cédric Walter'
 guid: 'https://waltercedric.com/new/?p=1237'
 permalink: /development/hackers-have-modified-an-estimated-150000-of-the-9-million-xboxes/
 tags:
-    - custom
-    - modified
-    - research
-    - software
+- custom
+- modified
+- research
+- software
 ---
 
-Hackers have modified an estimated 150,000 of the 9 million Xboxes Microsoft has sold worldwide to turn them into PCs that would normally cost $800 or more. What you need:
+Hackers have modified an estimated 150,000 of the 9 million Xboxes Microsoft has sold worldwide to turn them into PCs
+that would normally cost $800 or more. What you need:
 
 1. A new Xbox, with 733-megahertz processor, custom graphics chip, 8-gigabyte hard drive: $149
 2. A keyboard and mouse, with adapters: $35
@@ -21,5 +22,5 @@ Hackers have modified an estimated 150,000 of the 9 million Xboxes Microsoft has
 4. 120-gigabyte hard drive: $120
 5. Linux ans some free software: $0
 
- Total: $325  
- Source: USA TODAY research
+Total: $325  
+Source: USA TODAY research

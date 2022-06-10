@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2313'
 permalink: /gadget/the-perfect-network-array-storage/
-image: /wp-content/uploads/2006/02/readyNas-NV-2.jpg
+header:
+  teaser: /assets/images/2006/02/readyNas-NV-2.jpg
 ---
 
 [Infrant](http://www.infrant.com/) released at the beginning of february a new NAS (Network Array Storage):[ the ReadyNAS NV](http://www.infrant.com/products_ReadyNAS_NV.htm)
@@ -25,4 +26,3 @@ No word on performances yet, the processor is an intel clocked at 200Mhz (PLD) w
 
 Note there is no PCI slot inside the ReadyNas NV as in the ReadyNas 600. I already ask 2 shops in Switzerland, but it seems the box hasnt hit the shelves, even [if it is already listed on Amazon.com](http://www.amazon.com/gp/search/ref=sr_nr_seeall_1/102-5827327-8416956?%5Fencoding=UTF8&keywords=readynas%20nv&rh=i%3Aaps%2Ck%3Areadynas%20nv%2Ci%3Aelectronics-aps)
 
-{mosgoogle center}

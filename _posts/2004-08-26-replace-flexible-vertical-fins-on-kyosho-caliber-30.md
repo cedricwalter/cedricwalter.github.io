@@ -6,14 +6,15 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=117'
 permalink: /hobbies/replace-flexible-vertical-fins-on-kyosho-caliber-30/
-image: /wp-content/uploads/2004/08/hardLanding1.JPG
+header:
+  teaser: /assets/images/2004/08/hardLanding1.JPG
 tags:
     - conclusions
     - kyosho
     - 'RC helicopter'
 ---
 
-<font color="#000000" size="4"># clicclictailcase">  
+# clicclictailcase">  
 
 
  | ![](/assets/images/2004/08/hardLanding1.JPG) | Something Hit the vertical tail fins during a hard landing (nose in and backward, I was in panic mode![](/assets/images/2004/08/smileRotating.gif)) |

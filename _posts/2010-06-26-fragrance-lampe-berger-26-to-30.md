@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=5389'
 permalink: /hobbies/fragrance-lampe-berger-26-to-30/
-image: /wp-content/uploads/2010/06/914096570_f66JaTh1.jpg
+header:
+  teaser: /assets/images/2010/06/914096570_f66JaTh1.jpg
 tags:
     - berger
     - Collectibles

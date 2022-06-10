@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=7414'
 permalink: /hobbies/converting-a-spektrum-dx5e-from-mode-2-to-mode-1/
-image: /wp-content/uploads/2012/01/spektrumDX5e.png
+header:
+  teaser: /assets/images/2012/01/spektrumDX5e.png
 tags:
     - 'RC helicopter'
 ---

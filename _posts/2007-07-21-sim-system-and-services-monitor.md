@@ -10,8 +10,8 @@ tags:
     - security
 ---
 
-<span style="font-style: italic;">SIM is a system and services monitor for ‘SysVinit’ systems. It is designed to be intuitive and modular in nature, and to provide a clean and informative status system.  
-<span style="font-style: italic;"> It does this by consistently verifying that services are online, load averages are in check, and log files are at reasonable sizes. Many other SIM modules sport different and in-depth features to bring a well rounded tool to your disposal to stop otherwise common issues daunting internet hosts. 
+SIM is a system and services monitor for ‘SysVinit’ systems. It is designed to be intuitive and modular in nature, and to provide a clean and informative status system.  
+ It does this by consistently verifying that services are online, load averages are in check, and log files are at reasonable sizes. Many other SIM modules sport different and in-depth features to bring a well rounded tool to your disposal to stop otherwise common issues daunting internet hosts. 
 
 *Features:*  
  – Service monitoring of HTTP, FTP, DNS, SSH, MYSQL &amp; more  
@@ -40,7 +40,7 @@ Installation is one more time straightforward:
 
 # cd sim-*`
 
-<span style="font-weight: bold;">The installation of sim is easily acomplished, a simple shell script named ‘setup’ is included with SIM. Running this script will tend to all the install tasks for SIM.  
+The installation of sim is easily acomplished, a simple shell script named ‘setup’ is included with SIM. Running this script will tend to all the install tasks for SIM.  
   
 `# ./setup -i
 
@@ -240,7 +240,7 @@ TCP/IP port that any XINET service operates on (e.g: pop3, 110) ?
 
 In computer networking, xinetd, the eXtended InterNET Daemon, is an open-source daemon which runs on many Unix systems and manages Internet-based connectivity. It offers a more secure extension to or version of inetd, the Internet daemon.
 
-xinetd features access control mechanisms such as TCP Wrapper ACLs, extensive logging capabilities, and the ability to make services available based on time. It can place limits on the number of servers that the system can start, and has deployable defence mechanisms to protect against port scanners, among other things. [<span style="font-weight: bold;">from <font size="-1" style="color: rgb(51, 51, 255); font-weight: bold;"><span class="a">WikiPedia](http://en.wikipedia.org/wiki/Xinetd)
+xinetd features access control mechanisms such as TCP Wrapper ACLs, extensive logging capabilities, and the ability to make services available based on time. It can place limits on the number of servers that the system can start, and has deployable defence mechanisms to protect against port scanners, among other things. [from <font size="-1" style="color: rgb(51, 51, 255); font-weight: bold;"><span class="a">WikiPedia](http://en.wikipedia.org/wiki/Xinetd)
 
  `Path to XINET service init script ?   <span style="color: rgb(51, 51, 255);">see `<font size="-1" style="color: rgb(51, 51, 255);"><span class="a">www.**xinetd**.org/faq.html and   
 `Found service init script at /etc/init.d/xinetd`
@@ -351,11 +351,11 @@ SIM 2.5-4 <sim@r-fx.org>
 
 Installed SIM cronjob.`
 
-<span style="font-weight: bold;">if everything goes well, you can check the installation by typing:``
+if everything goes well, you can check the installation by typing:``
 
 \# /etc/init.d/mysqld stop  
   
-<span style="font-weight: bold;">This will stop mysql daemon!, You will receive an email at the same time, showing that mysql has been stopped and restarted``
+This will stop mysql daemon!, You will receive an email at the same time, showing that mysql has been stopped and restarted``
 
 System integrity monitor on xxxxx has taken action in responce to an event. Recent event logs are enclosed below for your inspection. There has been 1 events today, if an average of 8 events is reached, e-mail alerts will be terminated for the duration of the day.
 

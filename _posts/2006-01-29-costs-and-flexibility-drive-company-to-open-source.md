@@ -13,7 +13,7 @@ tags:
     - technology
 ---
 
-<span style="font-style: italic;">A survey conducted by IT consulting firm Optaros and InformationWeek magazine shows that American companies and government organizations are saving millions of dollars with open source software. Conducted in September 2005, the survey is based on responses collected from over 500 companies, government agencies, and organizations. According to the collected data, approximately 87 percent of American organizations use open source software within their technology infrastructure. 
+A survey conducted by IT consulting firm Optaros and InformationWeek magazine shows that American companies and government organizations are saving millions of dollars with open source software. Conducted in September 2005, the survey is based on responses collected from over 500 companies, government agencies, and organizations. According to the collected data, approximately 87 percent of American organizations use open source software within their technology infrastructure. 
 
 [read more HERE](http://arstechnica.com/news.ars/post/20060120-6017.html)
 

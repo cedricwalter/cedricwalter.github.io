@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=7682'
 permalink: /joomla/cedthumbnails-2-5-5-for-j2-5-released/
-image: /wp-content/uploads/2012/01/cedThumbnails.png
+header:
+  teaser: /assets/images/2012/01/cedThumbnails.png
 tags:
     - joomla
 ---

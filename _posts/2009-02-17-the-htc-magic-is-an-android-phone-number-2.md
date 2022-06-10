@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4169'
 permalink: /open-source/the-htc-magic-is-an-android-phone-number-2/
-image: /wp-content/uploads/2009/02/android.g2.png
+header:
+  teaser: /assets/images/2009/02/android.g2.png
 tags:
     - android
     - google

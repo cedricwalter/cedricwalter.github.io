@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3765'
 permalink: /games/snk-neo-geo-aes-total-costs/
-image: /wp-content/uploads/2004/08/tn_NeoGeoAES.jpg
+header:
+  teaser: /assets/images/2004/08/tn_NeoGeoAES.jpg
 tags:
     - arcade
     - Collectibles

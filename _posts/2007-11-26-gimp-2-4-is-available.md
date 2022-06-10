@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3161'
 permalink: /open-source/gimp-2-4-is-available/
-image: /wp-content/uploads/2005/12/wilber_painter.png
+header:
+  teaser: /assets/images/2005/12/wilber_painter.png
 tags:
     - opensource
     - software

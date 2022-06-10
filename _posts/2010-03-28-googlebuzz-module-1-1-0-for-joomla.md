@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=5092'
 permalink: /joomla/googlebuzz-module-1-1-0-for-joomla/
-image: /wp-content/uploads/2010/03/googleBuzz.small_thumb.png
+header:
+  teaser: /assets/images/2010/03/googleBuzz.small_thumb.png
 tags:
     - box
     - joomla

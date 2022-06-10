@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=8572'
 permalink: /hobbies/flying-drones-and-aircraft-models-in-switzerland-2/
-image: /wp-content/uploads/2016/08/2016-07-27_14-04-20_3.jpg
+header:
+  teaser: /assets/images/2016/08/2016-07-27_14-04-20_3.jpg
 ---
 
 ![](/assets/images/2016/08/2016-07-27_14-04-20_3.jpg)

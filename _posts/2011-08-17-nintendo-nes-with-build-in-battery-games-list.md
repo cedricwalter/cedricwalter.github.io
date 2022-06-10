@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=7024'
 permalink: /games/nintendo-nes-with-build-in-battery-games-list/
-image: /wp-content/uploads/2011/08/nintendo_nes_005.png
+header:
+  teaser: /assets/images/2011/08/nintendo_nes_005.png
 tags:
     - battery
     - games

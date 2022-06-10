@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3716'
 permalink: /homepage/doris-lorenz-trauung/
-image: /wp-content/uploads/2008/08/Doris.Lorenz.Trauung.2008.08.23_thumb.jpg
+header:
+  teaser: /assets/images/2008/08/Doris.Lorenz.Trauung.2008.08.23_thumb.jpg
 ---
 
 *Viel*, *viel Glück*. Alles Liebe und Gute für den weiteren Lebensweg!

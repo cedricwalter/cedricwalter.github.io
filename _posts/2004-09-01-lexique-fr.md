@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=909'
 permalink: /hobbies/lexique-fr/
-image: /wp-content/uploads/2004/09/lexique.jpg
+header:
+  teaser: /assets/images/2004/09/lexique.jpg
 tags:
     - 'RC helicopter'
     - Techniques

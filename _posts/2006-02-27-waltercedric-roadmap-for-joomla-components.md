@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2330'
 permalink: /joomla/waltercedric-roadmap-for-joomla-components/
-image: /wp-content/uploads/2006/02/tn_joomla_planning_www.waltercedric.com_.png
+header:
+  teaser: /assets/images/2006/02/tn_joomla_planning_www.waltercedric.com_.png
 tags:
     - contact
     - joomla

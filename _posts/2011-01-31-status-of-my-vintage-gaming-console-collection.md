@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=6511'
 permalink: /games/status-of-my-vintage-gaming-console-collection/
-image: /wp-content/uploads/2011/01/wlEmoticon-winkingsmile.png
+header:
+  teaser: /assets/images/2011/01/wlEmoticon-winkingsmile.png
 tags:
     - Collectibles
     - console

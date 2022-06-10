@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4182'
 permalink: /hobbies/hack-a-dell-mini-9-to-be-able-to-run-os-x/
-image: /wp-content/uploads/2009/02/dellminiinspiron1.jpg
+header:
+  teaser: /assets/images/2009/02/dellminiinspiron1.jpg
 ---
 
 *![dell-mini-inspiron1](/assets/images/2009/02/dellminiinspiron1.jpg) [![MAC-OSX-Leopard](/assets/images/2009/02/MACOSXLeopard_thumb.gif)](/assets/images/2009/02/MACOSXLeopard.gif)*

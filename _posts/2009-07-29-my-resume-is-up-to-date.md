@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4553'
 permalink: /internet/my-resume-is-up-to-date/
-image: /wp-content/uploads/2009/07/curiculum.png
+header:
+  teaser: /assets/images/2009/07/curiculum.png
 tags:
     - homepage
 ---

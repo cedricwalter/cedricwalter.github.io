@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=1640'
 permalink: /motorcycles/all-bombardier-ds-650-models/
-image: /wp-content/uploads/2005/03/bombardier_ds650_baja_x2004.gif
+header:
+  teaser: /assets/images/2005/03/bombardier_ds650_baja_x2004.gif
 tags:
     - atv
     - bombardier

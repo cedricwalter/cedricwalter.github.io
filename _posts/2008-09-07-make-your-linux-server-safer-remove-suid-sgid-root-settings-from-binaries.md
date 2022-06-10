@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3763'
 permalink: /security/make-your-linux-server-safer-remove-suid-sgid-root-settings-from-binaries/
-image: /wp-content/uploads/2011/05/linux.png
+header:
+  teaser: /assets/images/2011/05/linux.png
 tags:
     - hacker
     - linux

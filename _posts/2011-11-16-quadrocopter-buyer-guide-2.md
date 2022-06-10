@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=7298'
 permalink: /hobbies/quadrocopter-buyer-guide-2/
-image: /wp-content/uploads/2011/11/QuadroCopter_buyer_guide_thumb.png
+header:
+  teaser: /assets/images/2011/11/QuadroCopter_buyer_guide_thumb.png
 tags:
     - 'RC helicopter'
 ---

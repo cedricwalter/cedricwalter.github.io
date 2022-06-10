@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=5375'
 permalink: /development/latest-jetbrains-teamcity-5-plugin-for-the-tux-droid/
-image: /wp-content/uploads/2010/06/tuxdroid.teamcity_thumb.png
+header:
+  teaser: /assets/images/2010/06/tuxdroid.teamcity_thumb.png
 tags:
     - code
     - google

@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=8046'
 permalink: /development/git-and-github-training/
-image: /wp-content/uploads/2013/05/github.png
+header:
+  teaser: /assets/images/2013/05/github.png
 tags:
     - git
     - github

@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3703'
 permalink: /security/virtualizes-a-linux-server-on-the-fly-with-rsync/
-image: /wp-content/uploads/2008/08/LOGO_virtualized_vmware_S_thumb.jpg
+header:
+  teaser: /assets/images/2008/08/LOGO_virtualized_vmware_S_thumb.jpg
 ---
 
 | [![LOGO_virtualized_vmware_S](/assets/images/2008/08/LOGO_virtualized_vmware_S_thumb.jpg)](/assets/images/2008/08/LOGO_virtualized_vmware_S.jpg) | You’ll need a lot of patience…Since there is no VMWARE Converter for #Linux…  My objective is to virtualizes my Internet server running SUSE in a VMWARE to ease the migration to a more powerful and up to date server. |

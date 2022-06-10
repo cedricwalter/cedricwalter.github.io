@@ -7,7 +7,7 @@ author: 'Cédric Walter'
 guid: 'https://waltercedric.com/new/?p=1336'
 permalink: /linux/windows-v-linux-security-the-real-facts/
 tags:
-    - OpenSuse
+- OpenSuse
 ---
 
 debunking myths and facts,   
@@ -15,6 +15,11 @@ debunking myths and facts,
 
 from the register,  
 [http://www.theregister.co.uk/security/security\_report\_windows\_vs\_linux/](http://www.theregister.co.uk/security/security_report_windows_vs_linux/)  
-*“Much ado has been made about whether or not #Linux is truly more secure than Windows. We compared Windows vs. #Linux by examining the following metrics in the 40 most recent patches/vulnerabilities listed for Microsoft Windows Server 2003 vs. Red Hat Enterprise #Linux AS v.3:  
+*“Much ado has been made about whether or not #Linux is truly more secure than Windows. We compared Windows vs. #Linux
+by examining the following metrics in the 40 most recent patches/vulnerabilities listed for Microsoft Windows Server
+2003 vs. Red Hat Enterprise #Linux AS v.3:  
 …  
-The results were not unexpected. Even by Microsoft’s subjective and flawed standards, fully 38% of the most recent patches address flaws that Microsoft ranks as Critical. Only 10% of Red Hat’s patches and alerts address flaws of Critical severity* [**Also in PDF format here.**](http://www.theregister.co.uk/2004/10/22/security_report_windows_vs_linux.pdf)
+The results were not unexpected. Even by Microsoft’s subjective and flawed standards, fully 38% of the most recent
+patches address flaws that Microsoft ranks as Critical. Only 10% of Red Hat’s patches and alerts address flaws of
+Critical severity* [**Also in PDF format
+here.**](http://www.theregister.co.uk/2004/10/22/security_report_windows_vs_linux.pdf)

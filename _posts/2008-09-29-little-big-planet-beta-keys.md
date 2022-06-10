@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3866'
 permalink: /games/little-big-planet-beta-keys/
-image: /wp-content/uploads/2008/09/LBP_character_03_thumb.png
+header:
+  teaser: /assets/images/2008/09/LBP_character_03_thumb.png
 ---
 
 | [![LBP_character_03](/assets/images/2008/09/LBP_character_03_thumb.png)](/assets/images/2008/09/LBP_character_03.png) | No way to get any key at the moment and the beta will expire in 11 October…  What only remain a constant, is that it get suddenly impossible to reach any host distributing free little big planet beta keys | [![LBP_character_04](/assets/images/2008/09/LBP_character_04_thumb.png)](/assets/images/2008/09/LBP_character_04.png) |

@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=7734'
 permalink: /gadget/apples-reality-distortion-field-is-now-getting-more-and-more-ridiculous/
-image: /wp-content/uploads/2012/07/appleyuno_thumb.png
+header:
+  teaser: /assets/images/2012/07/appleyuno_thumb.png
 ---
 
 *Apple [Reality distortion field](http://en.wikipedia.org/wiki/Reality_distortion_field "Apple Reality distortion field") is now getting more and more ridiculous…*

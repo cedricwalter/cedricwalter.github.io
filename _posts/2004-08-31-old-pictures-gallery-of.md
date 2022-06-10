@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=472'
 permalink: /scooter/old-pictures-gallery-of/
-image: /wp-content/uploads/2004/08/ManurhinMR75.jpg
+header:
+  teaser: /assets/images/2004/08/ManurhinMR75.jpg"
 tags:
     - scooter
     - scooters

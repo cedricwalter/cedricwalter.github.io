@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2240'
 permalink: /homepage/happy-christmas/
-image: /wp-content/uploads/2005/12/SeasonsGreetingsXmas.jpg
+header:
+  teaser: /assets/images/2005/12/SeasonsGreetingsXmas.jpg
 tags:
     - christmas
     - friends

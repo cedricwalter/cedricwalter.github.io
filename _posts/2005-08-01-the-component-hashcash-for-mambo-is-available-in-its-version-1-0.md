@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=1968'
 permalink: /joomla/the-component-hashcash-for-mambo-is-available-in-its-version-1-0/
-image: /wp-content/uploads/2005/08/com_hashcash1.0.png
+header:
+  teaser: /assets/images/2005/08/com_hashcash1.0.png
 tags:
     - configuration
     - cryptographic

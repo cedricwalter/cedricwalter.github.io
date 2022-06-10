@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2957'
 permalink: /games/ps3-simply-rules/
-image: /wp-content/uploads/2005/06/sony_playstation_ps3.jpg
+header:
+  teaser: /assets/images/2005/06/sony_playstation_ps3.jpg
 tags:
     - gadget
     - 'Sony PS3'
@@ -26,14 +27,14 @@ I simply love my PS3, so quiet and open to changes…
 
  All in one, an expensive machine at first sight, but If you want to do a little bit more thing with a XBOX 360, you will have to pay a lot more!
 
-<span style="font-weight: bold;"> The PS3 Internet Browser
+ The PS3 Internet Browser
 
 - The browser is usable, but even better as soon as you use a bluetooth keyboard,
 - Some page do not render or get displayed because of some internal scripts (flash? javascript?) -> Sony please use Firefox or better Opera
 - The bookmark (select button) is useful as long as you do not have too much entries, as it is not possible to search or organize entries in directory (bookmark is just a list of site title) -> Sony why not using Google bookmark
 - When a site open popup windows, browsing is starting to be difficult, Sony I need tabs to see what is going on in the background
 
- <span style="font-weight: bold;"> What XMB is lacking
+ What XMB is lacking
 
 - AVI, XVID playback
 - Instant messaging: Skype, Gaim would be great

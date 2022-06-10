@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=72'
 permalink: /hobbies/dual-battery-system/
-image: /wp-content/uploads/2004/08/1stc30DoubleAlim.jpg
+header:
+  teaser: /assets/images/2004/08/1stc30DoubleAlim.jpg
 tags:
     - kyosho
     - problems

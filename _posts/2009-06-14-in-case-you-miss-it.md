@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4415'
 permalink: /joomla/in-case-you-miss-it/
-image: /wp-content/uploads/2009/06/smugmug_logo_thumb.jpg
+header:
+  teaser: /assets/images/2009/06/smugmug_logo_thumb.jpg
 ---
 
 [![smugmug_logo](/assets/images/2009/06/smugmug_logo_thumb.jpg "smugmug_logo")](/assets/images/2009/06/smugmug_logo.jpg)It was all about Smugmug the past two days…

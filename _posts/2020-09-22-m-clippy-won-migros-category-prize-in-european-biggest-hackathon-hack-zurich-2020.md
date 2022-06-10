@@ -9,7 +9,7 @@ permalink: /development/m-clippy-won-migros-category-prize-in-european-biggest-h
 ngg_post_thumbnail:
     - '0'
 header:
-    teaser: "/assets/images/2020/09/DSC_1549.jpg"
+    teaser: /assets/images/2020/09/DSC_1549.jpg
 tags:
     - dotNet
     - hackathon

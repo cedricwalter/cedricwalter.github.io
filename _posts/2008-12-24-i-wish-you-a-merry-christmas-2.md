@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3996'
 permalink: /homepage/i-wish-you-a-merry-christmas-2/
-image: /wp-content/uploads/2008/12/merry_christmas_thumb.jpg
+header:
+  teaser: /assets/images/2008/12/merry_christmas_thumb.jpg
 ---
 
 May this Christmas be bright and cheerful and may the New Year begin on a prosperous note!

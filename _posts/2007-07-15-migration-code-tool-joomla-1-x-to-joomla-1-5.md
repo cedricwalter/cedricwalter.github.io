@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3015'
 permalink: /joomla/migration-code-tool-joomla-1-x-to-joomla-1-5/
-image: /wp-content/uploads/2007/07/joomla_1.5.gif
+header:
+  teaser: /assets/images/2007/07/joomla_1.5.gif
 tags:
     - joomla
 ---
@@ -21,9 +22,9 @@ A poor man approach (a macro) in order to solve trivial (and boring) migration c
 3. Start jedit and open ALL FILES in the same windows,
 4. Go to macros menu and run the macro joomla1x\_to\_joomla15
 
- <span style="font-weight: bold;">Note: this macro just replace text and won’t do any architecture analysis/changes, even if they are needed in order to make your component run in #Joomla! 1.5
+Note: this macro just replace text and won’t do any architecture analysis/changes, even if they are needed in order to make your component run in #Joomla! 1.5
 
-<span style="font-weight: bold;">This tool is not perfect or bullet proof, use at your own risk, feel free to make changes and report them to me
+This tool is not perfect or bullet proof, use at your own risk, feel free to make changes and report them to me
 
 license http://www.gnu.org/copyleft/gpl.html GNU/GPL
 

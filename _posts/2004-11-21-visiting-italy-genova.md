@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=1382'
 permalink: /holidays/visiting-italy-genova/
-image: /wp-content/uploads/2020/03/Italia-Genova-001.jpg
+header:
+  teaser: /assets/images/2020/03/Italia-Genova-001.jpg
 tags:
     - companies
     - europe

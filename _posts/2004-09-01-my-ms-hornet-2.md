@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=843'
 permalink: /hobbies/my-ms-hornet-2/
-image: /wp-content/uploads/2004/09/hornet2d3.jpg
+header:
+  teaser: /assets/images/2004/09/hornet2d3.jpg
 tags:
     - 'RC helicopter'
     - upgrades

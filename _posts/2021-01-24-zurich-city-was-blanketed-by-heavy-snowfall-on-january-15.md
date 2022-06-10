@@ -13,7 +13,7 @@ tags:
     - switzerland
     - Zurich
 header:
-    teaser: "/assets/images/2021/01/zurich-15-january-heavy-snowfall-4.jpg"
+    teaser: /assets/images/2021/01/zurich-15-january-heavy-snowfall-4.jpg
 ---
 
 As much as 30+cm of snow fell in 24 hours in the city on 15th january 2021

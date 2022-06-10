@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=1447'
 permalink: /games/the-neo-geo-cd-faq/
-image: /wp-content/uploads/2009/10/snk-neo-geo-logo.png
+header:
+  teaser: /assets/images/2009/10/snk-neo-geo-logo.png
 tags:
     - about
     - arcade

@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=1757'
 permalink: /linux/more-sources-for-yast/
-image: /wp-content/uploads/2005/05/addMoreSourcesToYastunderSuseLinux.png
+header:
+  teaser: /assets/images/2005/05/addMoreSourcesToYastunderSuseLinux.png
 ---
 
 Do You ever want to install some "non standard" package under SuSE like Mplayer, VLC which are not officialy supported, or found on the DVD of Suse #Linux?

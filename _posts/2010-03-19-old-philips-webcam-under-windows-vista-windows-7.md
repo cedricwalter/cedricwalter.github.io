@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=5077'
 permalink: /hobbies/old-philips-webcam-under-windows-vista-windows-7/
-image: /wp-content/uploads/2010/03/pcvc720k_40_tlf__thumb.jpg
+header:
+  teaser: /assets/images/2010/03/pcvc720k_40_tlf__thumb.jpg
 tags:
     - old
     - windows

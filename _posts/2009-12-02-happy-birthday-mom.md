@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4888'
 permalink: /homepage/happy-birthday-mom/
-image: /wp-content/uploads/2009/12/happy_birthday_cake_3_296506bbccf1e81da7e7d1ad1d6e52f0.jpg
+header:
+  teaser: /assets/images/2009/12/happy_birthday_cake_3_296506bbccf1e81da7e7d1ad1d6e52f0.jpg
 tags:
     - happy
     - homepage

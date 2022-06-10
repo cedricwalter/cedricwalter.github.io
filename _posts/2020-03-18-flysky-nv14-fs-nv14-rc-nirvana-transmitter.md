@@ -8,7 +8,8 @@ guid: 'https://waltercedric.com/?p=10588'
 permalink: /hobbies/flysky-nv14-fs-nv14-rc-nirvana-transmitter/
 ngg_post_thumbnail:
     - '0'
-image: /wp-content/uploads/2020/03/nirvana-nv14.jpg
+header:
+  teaser: /assets/images/2020/03/nirvana-nv14.jpg
 tags:
     - armattan
     - battery

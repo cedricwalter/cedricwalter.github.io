@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=832'
 permalink: /hobbies/previous-helicopters-sold/
-image: /wp-content/uploads/2004/09/raptor301st.jpg
+header:
+  teaser: /assets/images/2004/09/raptor301st.jpg
 tags:
     - expensive
     - helicopter

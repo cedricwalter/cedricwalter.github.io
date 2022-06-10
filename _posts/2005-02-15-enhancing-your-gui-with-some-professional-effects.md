@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=1577'
 permalink: /javascript/enhancing-your-gui-with-some-professional-effects/
-image: /wp-content/uploads/2005/02/javascript.jpg
+header:
+  teaser: /assets/images/2005/02/javascript.jpg
 tags:
     - HowTo
     - html

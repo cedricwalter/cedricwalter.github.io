@@ -8,7 +8,8 @@ guid: 'https://waltercedric.com/?p=10242'
 permalink: /today-on-earth/coronavirus-interactive-dashboard/
 ngg_post_thumbnail:
     - '0'
-image: /wp-content/uploads/2020/03/covid-dashboard.png
+header:
+  teaser: /assets/images/2020/03/covid-dashboard.png
 tags:
     - covid19
     - engineering

@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3473'
 permalink: /joomla/jartforms-component-for-joomla-1-5-and-securityimages-5/
-image: /wp-content/uploads/2008/06/3028_logojext_thumb.png
+header:
+  teaser: /assets/images/2008/06/3028_logojext_thumb.png
 ---
 
 [![3028_logo-jext](/assets/images/2008/06/3028_logojext_thumb.png)](/assets/images/2008/06/3028_logojext.png)   

@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4509'
 permalink: /joomla/joomla-1-5-12-released/
-image: /wp-content/uploads/2009/07/joomla.png
+header:
+  teaser: /assets/images/2009/07/joomla.png
 ---
 
 ![joomla](/assets/images/2009/07/joomla.png "joomla")

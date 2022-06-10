@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=139'
 permalink: /hobbies/install-a-raptor-30-canopy-or-any-other-canopy/
-image: /wp-content/uploads/2004/08/body.jpg
+header:
+  teaser: /assets/images/2004/08/body.jpg
 tags:
 - kyosho
 - personal

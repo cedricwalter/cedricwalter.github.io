@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=8714'
 permalink: /development/dilbert-about-blockchain/
-image: /wp-content/uploads/2018/04/dilbert-blockchain-12.gif
+header:
+  teaser: /assets/images/2018/04/dilbert-blockchain-12.gif
 tags:
     - about
     - blockchain

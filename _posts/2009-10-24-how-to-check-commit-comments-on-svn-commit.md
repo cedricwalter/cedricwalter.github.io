@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4797'
 permalink: /java/how-to-check-commit-comments-on-svn-commit/
-image: /wp-content/uploads/2009/10/subversion.logo_thumb.png
+header:
+  teaser: /assets/images/2009/10/subversion.logo_thumb.png
 tags:
     - comments
     - commit

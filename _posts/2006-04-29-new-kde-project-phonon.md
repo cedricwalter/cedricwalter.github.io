@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2488'
 permalink: /homepage/new-kde-project-phonon/
-image: /wp-content/uploads/2006/04/kde-phonon-project.png
+header:
+  teaser: /assets/images/2006/04/kde-phonon-project.png
 ---
 
  ![](/assets/images/2006/04/kde-phonon-project.png)   

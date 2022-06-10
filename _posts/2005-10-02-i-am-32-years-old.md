@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2041'
 permalink: /internet/i-am-32-years-old/
-image: /wp-content/uploads/2005/10/happybirthday2005.gif
+header:
+  teaser: /assets/images/2005/10/happybirthday2005.gif
 tags:
     - homepage
 ---

@@ -11,7 +11,7 @@ tags:
     - functionality
 ---
 
-<font size="6"><font color="#000000" size="6"> <font size="6">**![](java/logo_right.gif)**
+<font size="6"> <font size="6">**![](java/logo_right.gif)**
 
  <>Articles:>
 

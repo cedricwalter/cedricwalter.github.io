@@ -8,7 +8,8 @@ guid: 'https://waltercedric.com/?p=12225'
 permalink: /holidays/tasmania-cradle-mountain/
 ngg_post_thumbnail:
     - '0'
-image: /wp-content/uploads/2020/03/australia.tasmania.craddle.mountain_00308.jpg
+header:
+  teaser: /assets/images/2020/03/australia.tasmania.craddle.mountain_00308.jpg
 tags:
     - Australia
     - holidays

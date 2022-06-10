@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=8516'
 permalink: /today-on-earth/usb3-external-enclosure-falsely-recognized-as-dtmb-bda-tv-usb-in-windows-10/
-image: /wp-content/uploads/2016/07/ib-234-u31_3.jpg
+header:
+  teaser: /assets/images/2016/07/ib-234-u31_3.jpg
 ---
 
 ![IB-234-U31](/assets/images/2016/07/ib-234-u31_3.jpg "IB-234-U31")

@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4232'
 permalink: /joomla/joomla-1-5-10-security-release-now-available/
-image: /wp-content/uploads/2009/03/JoomlaLogoVertColor.png
+header:
+  teaser: /assets/images/2009/03/JoomlaLogoVertColor.png
 ---
 
 ![Joomla Logo Vert Color](/assets/images/2009/03/JoomlaLogoVertColor.png "Joomla Logo Vert Color")

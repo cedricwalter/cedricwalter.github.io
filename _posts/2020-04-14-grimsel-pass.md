@@ -8,7 +8,8 @@ guid: 'https://waltercedric.com/?p=13168'
 permalink: /holidays/grimsel-pass/
 ngg_post_thumbnail:
     - '0'
-image: /wp-content/uploads/2020/04/grimselpass-switzerland-13.jpg
+header:
+  teaser: /assets/images/2020/04/grimselpass-switzerland-13.jpg
 tags:
     - car
     - mountain

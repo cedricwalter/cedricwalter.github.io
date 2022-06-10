@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=8128'
 permalink: /games/nintendo-game-watch-manhole-1981/
-image: /wp-content/uploads/2013/07/NintendoGameWatchManhole_1981_-7_thumb.png
+header:
+  teaser: /assets/images/2013/07/NintendoGameWatchManhole_1981_-7_thumb.png
 tags:
     - games
     - nintendo

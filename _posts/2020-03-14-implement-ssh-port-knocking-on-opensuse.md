@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4507'
 permalink: /linux/implement-ssh-port-knocking-on-opensuse/
-image: /wp-content/uploads/2009/07/port.knocking.ssh_.linux_thumb.gif
+header:
+  teaser: /assets/images/2009/07/port.knocking.ssh_.linux_thumb.gif
 tags:
     - check
     - client

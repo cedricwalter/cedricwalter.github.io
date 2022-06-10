@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4693'
 permalink: /gadget/mobile-action-i-gotu-gt-200e-gps-data-logger-review/
-image: /wp-content/uploads/2009/09/igotU_GT200e.package.content_thumb.jpg
+header:
+  teaser: /assets/images/2009/09/igotU_GT200e.package.content_thumb.jpg
 tags:
     - battery
     - box

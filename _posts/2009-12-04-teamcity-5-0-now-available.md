@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4889'
 permalink: /development/teamcity-5-0-now-available/
-image: /wp-content/uploads/2010/05/teamcity512_thumb.png
+header:
+  teaser: /assets/images/2010/05/teamcity512_thumb.png
 tags:
     - about
     - amazon

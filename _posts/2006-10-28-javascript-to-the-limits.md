@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2739'
 permalink: /javascript/javascript-to-the-limits/
-image: /wp-content/uploads/2006/10/lemmings_demo.png
+header:
+  teaser: /assets/images/2006/10/lemmings_demo.png
 tags:
     - java
     - javascript
@@ -15,4 +16,4 @@ tags:
 This game has been rewrite in javascript and is more than playable. Enjoy going back to the root like me: I use to play lemmings on a 486DX 50Mhz 15 Years Ago…
 
 <https://www.hmilch.net/h/lemmings.html>  
-<span style="font-style: italic;">Lemmings&#153; is an intriguing game in which you help hordes of otherwise-mindless creatures – knows as walkers – escape hostile environments.
+Lemmings&#153; is an intriguing game in which you help hordes of otherwise-mindless creatures – knows as walkers – escape hostile environments.

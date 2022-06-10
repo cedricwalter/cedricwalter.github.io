@@ -7,12 +7,12 @@ author: 'Cédric Walter'
 guid: 'https://waltercedric.com/new/?p=1894'
 permalink: /development/what-is-linux/
 tags:
-    - architecture
-    - availability
-    - communication
-    - community
-    - development
-    - excellent
+- architecture
+- availability
+- communication
+- community
+- development
+- excellent
 ---
 
 Robust, reliable memory-protected architecture;   

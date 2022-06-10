@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3382'
 permalink: /internet/slideshare-get-presentations/
-image: /wp-content/uploads/2008/04/f746463ee01b4aafa9fb74cda725d4bc.jpg
+header:
+  teaser: /assets/images/2008/04/f746463ee01b4aafa9fb74cda725d4bc.jpg
 tags:
     - internet
     - web

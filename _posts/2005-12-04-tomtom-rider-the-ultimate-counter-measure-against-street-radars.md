@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2192'
 permalink: /gadget/tomtom-rider-the-ultimate-counter-measure-against-street-radars/
-image: /wp-content/uploads/2005/07/tomtomrider.jpg
+header:
+  teaser: /assets/images/2005/07/tomtomrider.jpg
 ---
 
 | ![](/assets/images/2005/12/TomTomRiderBox.jpg) | **Price:** 799 euro    **Price paid:** 1159 CHF (753 euro) Click read more to see how to use   a TomTom device to be warned   when a street radar is in the area…. |
@@ -16,7 +17,7 @@ image: /wp-content/uploads/2005/07/tomtomrider.jpg
 
 <span style="font-family: Arial Black; font-size: medium;">What You risk: 
 
-<span style="font-size: medium;">in Switzerland…if You get catch by a street radar
+in Switzerland…if You get catch by a street radar
 
 |  | **Inner City** | **Outside City** | **On Highway** |
 |---|---|---|---|
@@ -195,9 +196,9 @@ Download**: A list (<10euro per year) can be dowmload at [www.radarfalle.de](htt
 
 # ![](/assets/images/2005/12/france.gif) GPSpassion**
 
-<span style="font-size: medium;">Presentation : [<span style="color: #0000ff; font-size: xx-small;">http://www.gpspassion.com/forumsen/topic.asp?TOPIC\_ID=9174](http://www.gpspassion.com/forumsen/topic.asp?TOPIC_ID=9174)<span style="font-size: medium;">  
-Les Radars – en chiffres: [<span style="color: #0000ff; font-size: xx-small;">http://www.gpspassion.com/forumsen/topic.asp?TOPIC\_ID=9172](http://www.gpspassion.com/forumsen/topic.asp?TOPIC_ID=9172)<span style="font-size: medium;"><span style="font-size: xx-small;">  
-Pour signaler un radar – [<span style="color: #0000ff; font-size: xx-small;">http://www.gpspassion.com/forumsen/topic.asp?TOPIC\_ID=5521](http://www.gpspassion.com/forumsen/topic.asp?TOPIC_ID=5521)<span style="font-size: medium;"><span style="font-size: xx-small;">  
+Presentation : [<span style="color: #0000ff; font-size: xx-small;">http://www.gpspassion.com/forumsen/topic.asp?TOPIC\_ID=9174](http://www.gpspassion.com/forumsen/topic.asp?TOPIC_ID=9174)  
+Les Radars – en chiffres: [<span style="color: #0000ff; font-size: xx-small;">http://www.gpspassion.com/forumsen/topic.asp?TOPIC\_ID=9172](http://www.gpspassion.com/forumsen/topic.asp?TOPIC_ID=9172)<span style="font-size: xx-small;">  
+Pour signaler un radar – [<span style="color: #0000ff; font-size: xx-small;">http://www.gpspassion.com/forumsen/topic.asp?TOPIC\_ID=5521](http://www.gpspassion.com/forumsen/topic.asp?TOPIC_ID=5521)<span style="font-size: xx-small;">  
 Les autres collectes- [<span style="color: #0000ff; font-size: xx-small;">http://www.gpspassion.com/forumsen/topic.asp?TOPIC\_ID=5796](http://www.gpspassion.com/forumsen/topic.asp?TOPIC_ID=5796)<span style="font-family: Tahoma; font-size: xx-small;"> 
 
 [An exhaustive list of French POIs](http://www.gpspassion.com/forumsen/topic.asp?TOPIC_ID=21050) at [www.gpspassion.com](http://www.gpspassion.com/)

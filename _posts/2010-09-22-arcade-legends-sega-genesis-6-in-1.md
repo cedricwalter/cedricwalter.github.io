@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=6064'
 permalink: /games/arcade-legends-sega-genesis-6-in-1/
-image: /wp-content/uploads/2010/09/ArcadeLegendsSegaGenesis6in1_thumb.jpg
+header:
+  teaser: /assets/images/2010/09/ArcadeLegendsSegaGenesis6in1_thumb.jpg
 tags:
     - arcade
     - console

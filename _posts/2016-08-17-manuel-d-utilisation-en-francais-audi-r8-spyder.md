@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=8573'
 permalink: /today-on-earth/manuel-d-utilisation-en-francais-audi-r8-spyder/
-image: /wp-content/uploads/2016/08/notice_simplifie_-_audi_r8__r8_spyder_3.png
+header:
+  teaser: /assets/images/2016/08/notice_simplifie_-_audi_r8__r8_spyder_3.png
 ---
 
 ![Notice simplifiée - Audi R8  R8 Spyder](/assets/images/2016/08/notice_simplifie_-_audi_r8__r8_spyder_3.png "Notice simplifiée - Audi R8  R8 Spyder")

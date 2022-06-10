@@ -8,7 +8,8 @@ guid: 'https://waltercedric.com/?p=12479'
 permalink: /holidays/lake-burbury-in-tasmania/
 ngg_post_thumbnail:
     - '0'
-image: /wp-content/uploads/2020/04/lake-burbury-in-tasmania-2.jpg
+header:
+  teaser: /assets/images/2020/04/lake-burbury-in-tasmania-2.jpg
 tags:
     - Australia
     - lake

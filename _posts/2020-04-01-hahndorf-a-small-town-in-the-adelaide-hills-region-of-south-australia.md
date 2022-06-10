@@ -8,7 +8,8 @@ guid: 'https://waltercedric.com/?p=12457'
 permalink: /holidays/hahndorf-a-small-town-in-the-adelaide-hills-region-of-south-australia/
 ngg_post_thumbnail:
     - '0'
-image: /wp-content/uploads/2020/04/hahndorf-small-town-in-the-adelaide-hills-region-of-south-australia-4.jpg
+header:
+  teaser: /assets/images/2020/04/hahndorf-small-town-in-the-adelaide-hills-region-of-south-australia-4.jpg
 tags:
     - adelaide
     - Australia

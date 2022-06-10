@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=75'
 permalink: /hobbies/parts-that-get-worn-faster-than-usual/
-image: /wp-content/uploads/2004/08/tailview.jpg
+header:
+  teaser: /assets/images/2004/08/tailview.jpg
 tags:
     - kyosho
     - 'RC helicopter'

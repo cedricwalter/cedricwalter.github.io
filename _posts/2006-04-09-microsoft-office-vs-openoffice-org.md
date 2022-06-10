@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2444'
 permalink: /open-source/microsoft-office-vs-openoffice-org/
-image: /wp-content/uploads/2006/04/openoffice.gif
+header:
+  teaser: /assets/images/2006/04/openoffice.gif
 tags:
     - opensource
     - software

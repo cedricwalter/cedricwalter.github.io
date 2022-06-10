@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=1501'
 permalink: /development/abstract-factory/
-image: /wp-content/uploads/2005/01/java-pattern-abstractfactory.png
+header:
+  teaser: /assets/images/2005/01/java-pattern-abstractfactory.png
 tags:
     - corresponding
 ---

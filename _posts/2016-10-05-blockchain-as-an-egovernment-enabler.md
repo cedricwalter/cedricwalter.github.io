@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=8590'
 permalink: /development/blockchain-as-an-egovernment-enabler/
-image: /wp-content/uploads/2016/10/blockchain.jpg
+header:
+  teaser: /assets/images/2016/10/blockchain.jpg
 ---
 
 ![](/assets/images/2016/10/blockchain.jpg)

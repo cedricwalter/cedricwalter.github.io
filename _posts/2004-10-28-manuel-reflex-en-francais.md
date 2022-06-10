@@ -13,7 +13,7 @@ tags:
 
 [![kyosho_caliber_30](/assets/images/2004/08/kyosho_caliber_30_thumb.jpg "kyosho_caliber_30")](/assets/images/2004/10/kyosho_caliber_30.jpg)
 
-<span style="font-weight: bold;">Le manuel en francais de [Reflex XTR](http://www.reflex-sim.de), le simulateur RC photo rÃ©aliste est [disponible ici](http://waltercedric.com/wiki/index.php?title=Cat%C3%A9gorie:Reflex_XTR_Manuel_d%27utilisation_en_francais), la page principale de tous les manuels [Ã©tant ici](http://waltercedric.com/wiki/index.php?title=Main_Page)  
+Le manuel en francais de [Reflex XTR](http://www.reflex-sim.de), le simulateur RC photo rÃ©aliste est [disponible ici](http://waltercedric.com/wiki/index.php?title=Cat%C3%A9gorie:Reflex_XTR_Manuel_d%27utilisation_en_francais), la page principale de tous les manuels [Ã©tant ici](http://waltercedric.com/wiki/index.php?title=Main_Page)  
 <span style="color: #ffffff;"><span class="postbody">   
 Pourquoi 90% ![Question](http://www.france-helico.com/modules/Forums/images/smiles/icon_question.gif) eh bien car il manque encore les traductions des copies d’Ã©crans en francais mais ce n’est rien en regards du travail deja accompli .  
 les contributeurs qui ont participe a ce projet sont dans l’ordre d’importance (quantite de traduction):   

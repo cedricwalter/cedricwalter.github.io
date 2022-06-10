@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4871'
 permalink: /development/announcing-module-nimbus-for-all-users-of-phil-taylor-joomla-tags/
-image: /wp-content/uploads/2009/11/joomlatags.png
+header:
+  teaser: /assets/images/2009/11/joomlatags.png
 ---
 
 I am a very happy user of [Joomla! tags from Phil Taylor](http://www.joomla-tags.com/). My only complaints is that it is still not part of #Joomla!® core.

@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4836'
 permalink: /games/all-neo-geo-aes-games/
-image: /wp-content/uploads/2004/08/NeoGeoLudotheque.jpg
+header:
+  teaser: /assets/images/2004/08/NeoGeoLudotheque.jpg
 tags:
     - arcade
     - art

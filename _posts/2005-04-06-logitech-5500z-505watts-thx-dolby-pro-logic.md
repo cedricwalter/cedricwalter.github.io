@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=1666'
 permalink: /games/logitech-5500z-505watts-thx-dolby-pro-logic/
-image: /wp-content/uploads/2005/04/logitech_z-5500.jpg
+header:
+  teaser: /assets/images/2005/04/logitech_z-5500.jpg
 tags:
     - reviews
     - Zurich

@@ -7,12 +7,14 @@ author: 'Cédric Walter'
 guid: 'https://waltercedric.com/new/?p=1663'
 permalink: /hobbies/rcfs-a-free-open-source-simulator/
 tags:
-    - 'RC helicopter'
-    - simulator
+- 'RC helicopter'
+- simulator
 ---
 
-[RCFS](http://rcfs.sourceforge.net), a free open source simulatorunder BSD licence now at [sourceforge.net](sourceforge.net)  
-# Features**
+[RCFS](http://rcfs.sourceforge.net), a free open source simulatorunder BSD licence now
+at [sourceforge.net](sourceforge.net)
+
+# Features
 
 - High quality graphics
 - Runs on older machines with reduced graphics quality

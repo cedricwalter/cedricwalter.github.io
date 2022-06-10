@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=7185'
 permalink: /java/install-php-support-pdt-in-eclipse-indigo/
-image: /wp-content/uploads/2011/06/eclipse_indigo_aka_3_7.png
+header:
+  teaser: /assets/images/2011/06/eclipse_indigo_aka_3_7.png
 tags:
     - development
     - eclipse

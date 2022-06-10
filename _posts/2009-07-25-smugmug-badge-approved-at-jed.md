@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4539'
 permalink: /joomla/smugmug-badge-approved-at-jed/
-image: /wp-content/uploads/2009/07/7383.png
+header:
+  teaser: /assets/images/2009/07/7383.png
 ---
 
 [Smugmug badge](http://extensions.joomla.org/extensions/external-contents/photo-channels/9123/details) has been approved at #Joomla Extension directory

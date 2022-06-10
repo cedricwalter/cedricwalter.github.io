@@ -8,7 +8,8 @@ guid: 'https://waltercedric.com/?p=11607'
 permalink: /holidays/eiger-in-the-the-bernese-alps/
 ngg_post_thumbnail:
     - '0'
-image: /wp-content/uploads/2020/03/eiger-2.jpg
+header:
+  teaser: /assets/images/2020/03/eiger-2.jpg
 tags:
     - main
     - mountain

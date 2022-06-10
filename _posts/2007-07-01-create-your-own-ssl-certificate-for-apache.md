@@ -10,7 +10,7 @@ tags:
     - apache
 ---
 
-### <span style="font-weight: bold;">Create a new RSA key
+###Create a new RSA key
 
 ```
 # openssl genrsa -des3 -out server.key 1024
@@ -18,13 +18,13 @@ tags:
 
  Give a very lengthy key, and save it somewhere in a PGP file or TrueCrypt volume
 
-### <span style="font-weight: bold;">Create a non encrypted version for Apache
+###Create a non encrypted version for Apache
 
 ```
 # openssl rsa -in server.key -out server.key.unsecure
 ```
 
-### <span style="font-weight: bold;">Prepare the mark inquiry
+###Prepare the mark inquiry
 
 ```
 # openssl req -new -key server.key -out server.csr
@@ -32,7 +32,7 @@ tags:
 
  Attention enter the host from where the certificate will be use, since browser are matching content of certificate with host url.
 
-### <span style="font-weight: bold;">Sign the certificate
+###Sign the certificate
 
 ```
 # openssl x509 -req -days 365 -in server.csr -signkey server.key -out server.crt
@@ -57,9 +57,9 @@ tags:
 
 ```
 
-### <span style="font-weight: bold;">Restart Apache
+###Restart Apache
 
-<span style="font-weight: bold;">
+
 
 | Brutal | Graceful |
 |---|---|

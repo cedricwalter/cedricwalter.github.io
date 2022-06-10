@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=6801'
 permalink: /games/nintendo-game-and-watch-fire/
-image: /wp-content/uploads/2011/06/Nintendo_Game_and_Watch_Fire_00_thumb.jpg
+header:
+  teaser: /assets/images/2011/06/Nintendo_Game_and_Watch_Fire_00_thumb.jpg
 tags:
     - burning
     - games

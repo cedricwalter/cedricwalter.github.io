@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4323'
 permalink: /homepage/working-in-support-forum/
-image: /wp-content/uploads/2009/03/phpbb_logo.png
+header:
+  teaser: /assets/images/2009/03/phpbb_logo.png
 ---
 
 [![phpbb_logo](/assets/images/2009/03/phpbb_logo.png "phpbb_logo")](http://forums.waltercedric.co)

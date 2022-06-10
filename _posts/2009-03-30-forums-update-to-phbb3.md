@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4240'
 permalink: /internet/forums-update-to-phbb3/
-image: /wp-content/uploads/2009/03/phpbb_logo.png
+header:
+  teaser: /assets/images/2009/03/phpbb_logo.png
 tags:
     - homepage
 ---

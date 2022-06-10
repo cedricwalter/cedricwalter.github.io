@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=1040'
 permalink: /holidays/coupe-de-france-em6-de-robotique/
-image: /wp-content/uploads/2004/09/essaim1999.jpg
+header:
+  teaser: /assets/images/2004/09/essaim1999.jpg
 tags:
     - contest
     - france

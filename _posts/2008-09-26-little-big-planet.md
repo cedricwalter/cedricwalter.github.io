@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3851'
 permalink: /games/little-big-planet/
-image: /wp-content/uploads/2008/09/lbp_tetris_3.gif
+header:
+  teaser: /assets/images/2008/09/lbp_tetris_3.gif
 ---
 
 It’s amazing what people can create in *LittleBigPlanet after only one week of BETA. Someone has succeed making a clone of … TETRIS*

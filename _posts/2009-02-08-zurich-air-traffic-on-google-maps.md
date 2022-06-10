@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4120'
 permalink: /internet/zurich-air-traffic-on-google-maps/
-image: /wp-content/uploads/2009/02/airTraffic.png
+header:
+  teaser: /assets/images/2009/02/airTraffic.png
 tags:
     - internet
     - web

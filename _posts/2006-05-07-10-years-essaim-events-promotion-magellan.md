@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2516'
 permalink: /holidays/10-years-essaim-events-promotion-magellan/
-image: /wp-content/uploads/2006/05/essaim-promo-1996-1999-10years-event-01.jpg
+header:
+  teaser: /assets/images/2006/05/essaim-promo-1996-1999-10years-event-01.jpg
 tags:
     - events
     - france

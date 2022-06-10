@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2301'
 permalink: /joomla/a-virtual-product-also-need-a-box/
-image: /wp-content/uploads/2006/01/joomlacloud-box.jpg
+header:
+  teaser: /assets/images/2006/01/joomlacloud-box.jpg
 tags:
     - definitive
     - errors

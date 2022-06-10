@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=8177'
 permalink: /open-source/how-to-download-android-apk-files-without-rooting/
-image: /wp-content/uploads/2014/01/airdroid2_thumb.png
+header:
+  teaser: /assets/images/2014/01/airdroid2_thumb.png
 tags:
     - android
     - google

@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=1036'
 permalink: /hobbies/read-rc-helicopter-main-rotor-rpm-realtime/
-image: /wp-content/uploads/2004/09/expectedResult.jpg
+header:
+  teaser: /assets/images/2004/09/expectedResult.jpg
 tags:
     - electronic
     - 'RC helicopter'

@@ -8,7 +8,8 @@ guid: 'https://www.waltercedric.com/?p=13512'
 permalink: /development/setting-up-an-ethereum-2-0-validator-node-on-prysm-topaz-testnet/
 ngg_post_thumbnail:
     - '0'
-image: /wp-content/uploads/2017/02/Ethereum.png
+header:
+  teaser: /assets/images/2017/02/Ethereum.png
 tags:
     - blockchain
     - ethereum

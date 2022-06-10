@@ -10,20 +10,20 @@ tags:
     - security
 ---
 
- <span style="font-style: italic;"><span style="font-weight: bold;"> mod\_evasive is an evasive maneuvers module for Apache to provide evasive action in the event of an HTTP DoS or DDoS attack or brute force attack. It is also designed to be a detection and network management tool, and can be easily configured to talk to ipchains, firewalls, routers, and etcetera. mod\_evasive presently reports abuses via email and syslog facilities.   
+  mod\_evasive is an evasive maneuvers module for Apache to provide evasive action in the event of an HTTP DoS or DDoS attack or brute force attack. It is also designed to be a detection and network management tool, and can be easily configured to talk to ipchains, firewalls, routers, and etcetera. mod\_evasive presently reports abuses via email and syslog facilities.   
   
-<span style="font-style: italic;"> Detection is performed by creating an internal dynamic hash table of IP Addresses and URIs, and denying any single IP address from any of the following: 
+ Detection is performed by creating an internal dynamic hash table of IP Addresses and URIs, and denying any single IP address from any of the following: 
 
 - Requesting the same page more than a few times per second
 - Making more than 50 concurrent requests on the same child per second
 - Making any requests while temporarily blacklisted (on a blocking list)
 
    
-<span style="font-style: italic;"> This method has worked well in both single-server script attacks as well as distributed attacks, but just like other evasive tools, is only as useful to the point of bandwidth and processor consumption (e.g. the amount of bandwidth and processor required to receive/process/respond to invalid requests), which is why it’s a good idea to integrate this with your firewalls and routers for maximum protection.   
+ This method has worked well in both single-server script attacks as well as distributed attacks, but just like other evasive tools, is only as useful to the point of bandwidth and processor consumption (e.g. the amount of bandwidth and processor required to receive/process/respond to invalid requests), which is why it’s a good idea to integrate this with your firewalls and routers for maximum protection.   
   
-<span style="font-style: italic;"> This module instantiates for each listener individually, and therefore has a built-in cleanup mechanism and scaling capabilities. Because of this per-child design, legitimate requests are never compromised (even from proxies and NAT addresses) but only scripted attacks. Even a user repeatedly clicking on ‘reload’ should not be affected unless they do it maliciously. mod\_evasive is fully tweakable through the Apache configuration file, easy to incorporate into your web server, and easy to use. from [http://www.zdziarski.com/projects/mod\_evasive/](http://www.zdziarski.com/projects/mod_evasive/)
+ This module instantiates for each listener individually, and therefore has a built-in cleanup mechanism and scaling capabilities. Because of this per-child design, legitimate requests are never compromised (even from proxies and NAT addresses) but only scripted attacks. Even a user repeatedly clicking on ‘reload’ should not be affected unless they do it maliciously. mod\_evasive is fully tweakable through the Apache configuration file, easy to incorporate into your web server, and easy to use. from [http://www.zdziarski.com/projects/mod\_evasive/](http://www.zdziarski.com/projects/mod_evasive/)
 
-<span style="font-weight: bold;">click read more for my HowTo
+click read more for my HowTo
 
    
   Download the actual version of <small style="font-family: Courier New,Courier,monospace;">mod\_evasive</small>

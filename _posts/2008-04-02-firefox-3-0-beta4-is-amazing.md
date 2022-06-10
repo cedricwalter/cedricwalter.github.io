@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3317'
 permalink: /open-source/firefox-3-0-beta4-is-amazing/
-image: /wp-content/uploads/2008/04/ffbeta3robowelcome_thumb.png
+header:
+  teaser: /assets/images/2008/04/ffbeta3robowelcome_thumb.png
 ---
 
 | [![ff-beta3-robo-welcome](/assets/images/2008/04/ffbeta3robowelcome_thumb.png)](/assets/images/2008/04/ffbeta3robowelcome.png) |

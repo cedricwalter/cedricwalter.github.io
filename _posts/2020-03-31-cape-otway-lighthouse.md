@@ -8,7 +8,8 @@ guid: 'https://waltercedric.com/?p=12345'
 permalink: /holidays/cape-otway-lighthouse/
 ngg_post_thumbnail:
     - '0'
-image: /wp-content/uploads/2020/03/australia.victoria.torquay.lighthouse_0382.jpg
+header:
+  teaser: /assets/images/2020/03/australia.victoria.torquay.lighthouse_0382.jpg
 tags:
     - Australia
     - holidays

@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=1749'
 permalink: /open-source/linux-and-biometry/
-image: /wp-content/uploads/2005/05/linuxbiometrics.com_.logo_.png
+header:
+  teaser: /assets/images/2005/05/linuxbiometrics.com_.logo_.png
 tags:
     - community
     - individuals

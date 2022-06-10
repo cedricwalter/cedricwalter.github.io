@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=7967'
 permalink: /joomla/schema-validation-for-joomla-2-5-extensions/
-image: /wp-content/uploads/2009/07/joomla.png
+header:
+  teaser: /assets/images/2009/07/joomla.png
 tags:
     - joomla
 ---

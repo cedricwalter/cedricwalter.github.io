@@ -15,7 +15,7 @@ tags:
     - service
 ---
 
-<span style="font-weight: bold;">90 bonnes raisons d’etre un mec ou 90 raisons qu’ont les femmes de nous dÃ©tester
+90 bonnes raisons d’etre un mec ou 90 raisons qu’ont les femmes de nous dÃ©tester
 
 1\. vos conversations telephoniques sont finies en 30 se secondes.  
 2\. c’est toujours des filles qui sont nues dans les films.  

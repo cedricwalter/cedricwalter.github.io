@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4566'
 permalink: /joomla/photowidget-for-joomla-approved-at-jed/
-image: /wp-content/uploads/2008/09/feed-icon.png
+header:
+  teaser: /assets/images/2008/09/feed-icon.png
 ---
 
 [Photowidget has been approved](http://extensions.joomla.org/extensions/external-contents/photo-channels/9204/details) at #Joomla Extension directory  

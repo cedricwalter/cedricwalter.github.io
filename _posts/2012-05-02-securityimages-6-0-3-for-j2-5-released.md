@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=7605'
 permalink: /joomla/securityimages-6-0-3-for-j2-5-released/
-image: /wp-content/uploads/2006/03/box_securityimages.jpg
+header:
+  teaser: /assets/images/2006/03/box_securityimages.jpg
 tags:
     - joomla
 ---

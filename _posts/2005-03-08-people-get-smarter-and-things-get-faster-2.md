@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=1613'
 permalink: /hobbies/people-get-smarter-and-things-get-faster-2/
-image: /wp-content/uploads/2005/03/penquinWithIPodSmall.gif
+header:
+  teaser: /assets/images/2005/03/penquinWithIPodSmall.gif
 tags:
     - Electronics
     - 'RC Electronics'

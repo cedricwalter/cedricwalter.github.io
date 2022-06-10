@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=5556'
 permalink: /joomla/joomla-1-5-site-blueprints-received/
-image: /wp-content/uploads/2010/07/Joomla1.5SiteBlueprints.jpg
+header:
+  teaser: /assets/images/2010/07/Joomla1.5SiteBlueprints.jpg
 tags:
     - joomla
     - projects

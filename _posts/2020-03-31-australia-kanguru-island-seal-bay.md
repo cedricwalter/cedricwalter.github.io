@@ -8,7 +8,8 @@ guid: 'https://waltercedric.com/?p=12124'
 permalink: /holidays/australia-kanguru-island-seal-bay/
 ngg_post_thumbnail:
     - '0'
-image: /wp-content/uploads/2020/03/australia.south_.australia.kanguru.island.seal_.bay_00174.jpg
+header:
+  teaser: /assets/images/2020/03/australia.south_.australia.kanguru.island.seal_.bay_00174.jpg
 tags:
     - Australia
     - holidays

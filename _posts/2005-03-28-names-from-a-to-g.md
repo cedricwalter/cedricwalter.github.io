@@ -21,11 +21,11 @@ tags:
 - - - - - -
 
 <font color="#000000" face="Arial Black" size="4"># A">**A**</a>  
- [<font color="#000000" size="1">Azurite](/assets/images/2005/03/azurite.jpg) – Mibladen (Maroc)  
- [<font color="#800080" size="1">Amonite (Maroc)](/assets/images/2005/03/amoniteMaroc.jpg)  
- [<font color="#0000ff" size="1">Antimoine (Roumanie)](/assets/images/2005/03/antimoineRoumanie.jpg)
+ [Azurite](/assets/images/2005/03/azurite.jpg) – Mibladen (Maroc)  
+ [Amonite (Maroc)](/assets/images/2005/03/amoniteMaroc.jpg)  
+ [Antimoine (Roumanie)](/assets/images/2005/03/antimoineRoumanie.jpg)
 
-<font color="#0000ff" size="3">[go to Top](minerals/AtoG/index.htm#summary)
+[go to Top](minerals/AtoG/index.htm#summary)
 
   
 

@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=7815'
 permalink: /games/neo-geo-x-gold-limited-edition-pre-order-available/
-image: /wp-content/uploads/2012/10/NeoGeoXGold-008.jpg
+header:
+  teaser: /assets/images/2012/10/NeoGeoXGold-008.jpg
 tags:
     - arcade
     - Collectibles

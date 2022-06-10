@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=7443'
 permalink: /joomla/new-features-in-joomla-2-5/
-image: /wp-content/uploads/2012/01/336x280.jpg
+header:
+  teaser: /assets/images/2012/01/336x280.jpg
 ---
 
 ![336x280](/assets/images/2012/01/336x280.jpg "336x280")

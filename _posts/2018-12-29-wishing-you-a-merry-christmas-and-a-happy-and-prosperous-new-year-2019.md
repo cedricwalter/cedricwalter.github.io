@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=8744'
 permalink: /homepage/wishing-you-a-merry-christmas-and-a-happy-and-prosperous-new-year-2019/
-image: /wp-content/uploads/2013/12/merry-christmas-with-tree_thumb.gif
+header:
+  teaser: /assets/images/2013/12/merry-christmas-with-tree_thumb.gif
 tags:
     - hollidays
 ---

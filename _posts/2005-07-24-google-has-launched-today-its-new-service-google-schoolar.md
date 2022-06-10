@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=1940'
 permalink: /internet/google-has-launched-today-its-new-service-google-schoolar/
-image: /wp-content/uploads/2005/07/google-schoolar.gif
+header:
+  teaser: /assets/images/2005/07/google-schoolar.gif
 tags:
     - google
     - professional

@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2368'
 permalink: /joomla/today-status-of-opencomment-3-0-0alpha/
-image: /wp-content/uploads/2006/03/tn_opencomment3.0.0-2006.03.12.gif
+header:
+  teaser: /assets/images/2006/03/tn_opencomment3.0.0-2006.03.12.gif
 tags:
     - development
     - independent

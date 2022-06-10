@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4305'
 permalink: /development/continuous-integration-server-bamboo-up-and-running/
-image: /wp-content/uploads/2009/04/atlassian.bamboo.logo_.jpg
+header:
+  teaser: /assets/images/2009/04/atlassian.bamboo.logo_.jpg
 ---
 
 ![atlassian.bamboo.logo](/assets/images/2009/04/atlassian.bamboo.logo_.jpg "atlassian.bamboo.logo") My [Bamboo](http://www.atlassian.com/software/bamboo/) continuous integration server is now fully functional and available at <http://bamboo.waltercedric.com/>

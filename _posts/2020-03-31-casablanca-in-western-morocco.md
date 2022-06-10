@@ -8,7 +8,8 @@ guid: 'https://waltercedric.com/?p=11716'
 permalink: /holidays/casablanca-in-western-morocco/
 ngg_post_thumbnail:
     - '0'
-image: /wp-content/uploads/2020/03/casablanca-18.jpg
+header:
+  teaser: /assets/images/2020/03/casablanca-18.jpg
 tags:
     - architecture
     - art

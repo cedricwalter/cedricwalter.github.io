@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=1195'
 permalink: /hobbies/le-robot-2000-de-l-essaim-en-images/
-image: /wp-content/uploads/2020/04/robot-essaim-ensisa-coupe-robotique-1.jpg
+header:
+  teaser: /assets/images/2020/04/robot-essaim-ensisa-coupe-robotique-1.jpg
 tags:
     - Robotic
 ---

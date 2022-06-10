@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=1929'
 permalink: /gadget/update-the-firmware-of-your-k750i/
-image: /wp-content/uploads/2005/07/goInSystemMenu-EricssonK750i.jpg
+header:
+  teaser: /assets/images/2005/07/goInSystemMenu-EricssonK750i.jpg
 tags:
     - displaying
     - installation

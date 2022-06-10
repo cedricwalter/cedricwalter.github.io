@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=552'
 permalink: /javascript/table-with-fixed-header-scrolling-body/
-image: /wp-content/uploads/2005/02/javascript.jpg
+header:
+  teaser: /assets/images/2005/02/javascript.jpg
 tags:
     - background
     - javascript

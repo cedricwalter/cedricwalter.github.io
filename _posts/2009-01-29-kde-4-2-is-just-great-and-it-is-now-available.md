@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4078'
 permalink: /linux/kde-4-2-is-just-great-and-it-is-now-available/
-image: /wp-content/uploads/2009/01/desktop_thumb.png
+header:
+  teaser: /assets/images/2009/01/desktop_thumb.png
 ---
 
 I am using KDE 4.2RC1 since 2 weeks now, mainly 2 to 3 working day at the office, and has not experienced any crash yet or having any regret by using it. The desktop is just great, and very polished.

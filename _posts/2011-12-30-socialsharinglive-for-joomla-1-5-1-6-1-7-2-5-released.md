@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=7404'
 permalink: /joomla/socialsharinglive-for-joomla-1-5-1-6-1-7-2-5-released/
-image: /wp-content/uploads/2011/08/socialSharing.Joomla.png
+header:
+  teaser: /assets/images/2011/08/socialSharing.Joomla.png
 ---
 
  This small plugin add automatically to any article a set of social icons that let your reader increase your social ranking. It support: [Twitter](https://www.twitter.com/), [Facebook](https://www.facebook.com/), [Google +](https://plus.google.com/), [Digg](http://www.digg.com/), [Xing, ](https://www.xing.com/)**[StumbleUpon](http://www.stumbleupon.com)**  and [LinkedIn](https://www.linkedin.com/)

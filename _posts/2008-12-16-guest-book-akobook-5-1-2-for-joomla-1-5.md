@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3988'
 permalink: /joomla/guest-book-akobook-5-1-2-for-joomla-1-5/
-image: /wp-content/uploads/2008/12/akobook_5_1_2.png
+header:
+  teaser: /assets/images/2008/12/akobook_5_1_2.png
 ---
 
 Modified version of the great Akobook, this version now protect JOOMLA Guest Book entry from   

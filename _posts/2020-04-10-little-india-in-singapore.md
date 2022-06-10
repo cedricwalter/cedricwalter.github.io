@@ -8,7 +8,8 @@ guid: 'https://waltercedric.com/?p=12900'
 permalink: /holidays/little-india-in-singapore/
 ngg_post_thumbnail:
     - '0'
-image: /wp-content/uploads/2020/04/little.india-singapore-4.jpg
+header:
+  teaser: /assets/images/2020/04/little.india-singapore-4.jpg
 tags:
     - asia
     - singapore

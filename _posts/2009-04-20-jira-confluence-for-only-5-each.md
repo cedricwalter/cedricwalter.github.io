@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4278'
 permalink: /development/jira-confluence-for-only-5-each/
-image: /wp-content/uploads/2009/04/header_thumb.png
+header:
+  teaser: /assets/images/2009/04/header_thumb.png
 ---
 
 Receive this today in my mailbox, sound like a great offer to me! and since they have offered me an enterprise open source license, I feel I need to give the good word:

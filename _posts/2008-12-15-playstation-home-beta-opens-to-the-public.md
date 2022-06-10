@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3974'
 permalink: /games/playstation-home-beta-opens-to-the-public/
-image: /wp-content/uploads/2008/12/PS3_Home_logo_thumb.png
+header:
+  teaser: /assets/images/2008/12/PS3_Home_logo_thumb.png
 ---
 
 Yesterday Sony launched the open beta for Playstation Home, the virtual world designed for Playstation Network community members. While server are not fully stable, everybody can not enjoy traveling through the virtual world of HOME for PS3

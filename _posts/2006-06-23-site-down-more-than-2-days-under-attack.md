@@ -13,7 +13,7 @@ tags:
 
  The server hosting my personal webpage waltercedric.com has been attacked in the last few days. Till it get down:
 
-<span style="font-weight: bold;">Facts:
+Facts:
 
 - no more mysql connection were available
 - ssh connections no more possible,
@@ -24,6 +24,6 @@ We are still not trusting the operating system, because we dont know if it has b
 Right now, this site has no more email connection anymore, since logs have revealed some bad things related to mis-use of email system. That mean that You wont be able to contact me in the next few days: sorry for that.
 
 I will also change all passwords and that may turn the site unavailable tomorrow, and publish all logs extract to help future people to take the right actions in such a case.  
-<span style="font-weight: bold;">
+
 
 Sorry for the inconvenience…

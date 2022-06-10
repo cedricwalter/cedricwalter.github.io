@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3010'
 permalink: /security/xrep-projectile-up-to-30-meters/
-image: /wp-content/uploads/2007/07/xrep.electrical.bullet.from_.taser_.jpg
+header:
+  teaser: /assets/images/2007/07/xrep.electrical.bullet.from_.taser_.jpg
 tags:
     - security
     - 'Today on earth'

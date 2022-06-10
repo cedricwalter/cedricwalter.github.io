@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=8432'
 permalink: /hobbies/just-got-my-drone-dji-inspire-1/
-image: /wp-content/uploads/2016/08/2016-07-27_14-04-20_3.jpg
+header:
+  teaser: /assets/images/2016/08/2016-07-27_14-04-20_3.jpg
 ---
 
 Dà-Jiāng Innovations Science and Technology Co., Ltd (Chinese: 大疆创新科技有限公; marketed as DJI) is a Chinese technology company founded in 2006 by Frank Wang (Wāng Tāo, Chinese: 汪滔) and headquartered in Shenzhen, Guangdong. It manufactures unmanned aerial vehicles (UAV) for aerial photography and videography, gimbals, flight platforms, cameras, propulsion systems, camera stabilizers, and flight controllers.

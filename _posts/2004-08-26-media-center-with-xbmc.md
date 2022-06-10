@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=180'
 permalink: /games/media-center-with-xbmc/
-image: /wp-content/uploads/2004/08/title.jpg
+header:
+  teaser: /assets/images/2004/08/title.jpg
 ---
 
 <div style="TEXT-ALIGN: center"><font color="#40ab3d" face="Arial Black" size="3">HowTo transform your xBox   
@@ -14,7 +15,7 @@ into a Media Center <font color="#40ab3d" face="Arial Black" size="3">with XBMC!
 
 *XboxMediaCenter is a free open source (GPL) multimedia player for the Xboxâ&#132;¢ from Microsoft. Currently XboxMediaCenter can be used to play/view most popular video/audio/picture formats such as MPEG-1/2/4, DivX, XviD, MP3, AAC, JPG, GIF plus many more less known formats directly from a CD/DVD in Xbox DVD-ROM drive or of the Xbox harddrive, XBMC can also play files from a PC over a local network and even stream media streams directly from the internet. XBMC has playlist and slideshow functions, a weather forecast and many audio visualizations. All these features enable the Xboxâ&#132;¢ running XboxMediaCenter to fully function as a multimedia jukebox. XBMC is easy to use, it’s convenient, flexible and offers great price/performance ratio. (This, The XboxMediaCenter Project is also known as "Xbox Media Center" or simply "XBMC"). Note! XBMC is a hobby project that is only developed by volunteers in their spare-time for free. (Remember that XboxMediaCenter does require a modded Xbox to run on or it will not function)*. from [www.xboxmediacenter.com](http://www.xboxmediacenter.com)
 
-{mosgoogle center}
+
 
 <font color="#40ab3d" face="Arial Black" size="4">![xboxIcon](/assets/images/2004/08/x.gif) <font color="#40ab3d" face="Arial Black" size="3">Legal Issues
 
@@ -27,14 +28,14 @@ It is strictly forbidden to modify your xBox, sell or install mods chip in franc
 
 <font color="#40ab3d" face="Arial Black" size="4">![xboxIcon](/assets/images/2004/08/x.gif) <font color="#40ab3d" face="Arial Black" size="3">Process
 
-# What you will have to do: (****<font color="#009900">green mandatory,** **blue optional****)**
+# What you will have to do: (****green mandatory,** **blue optional****)**
 
-1. <font color="#009900"># **Buy a Xbox**#  
-2. <font color="#009900"># **open the Xbox (void garanty)**#  
-3. <font color="#009900"># **Install a modchip**#  
-4. <font color="#009900"># **flash a BIOS on modchip**#  
-5. <font color="#009900"># **Install a new dasboard with FTP support**#  
-6. <font color="#009900"># **backup original data found on C: with FTP to your PC**#  
+1. # **Buy a Xbox**#  
+2. # **open the Xbox (void garanty)**#  
+3. # **Install a modchip**#  
+4. # **flash a BIOS on modchip**#  
+5. # **Install a new dasboard with FTP support**#  
+6. # **backup original data found on C: with FTP to your PC**#  
 7. <font color="#009900" size="3">**install and configure Xbox media center (XBMC) with FTP**#  
 8. <font color="#0000ff" size="3">**Adapt scripts (XML files) for your network or shares drives**#  
 9. <font color="#0000ff" size="3">**Install a streaming server on some PC or use Samba to access remote data (video, pictures and music)**#  
@@ -46,15 +47,15 @@ It is strictly forbidden to modify your xBox, sell or install mods chip in franc
 <font color="#0000ff" size="3">  
 
 
-- <font color="#0000ff" size="3">**Install Linux**<font size="5"> …. 
+- <font color="#0000ff" size="3">**Install Linux** …. 
 
 
 
 - - - - - -
 
-<font color="#009900">{mosgoogle center}
 
-<font color="#009900"><font color="#40ab3d" face="Arial Black" size="4">![xboxIcon](/assets/images/2004/08/x.gif) <font color="#40ab3d" face="Arial Black" size="3">1. Buy a Xbox, required
+
+<font color="#40ab3d" face="Arial Black" size="4">![xboxIcon](/assets/images/2004/08/x.gif) <font color="#40ab3d" face="Arial Black" size="3">1. Buy a Xbox, required
 
 <font color="#40ab3d" face="Arial Black" size="3">![](/assets/images/2004/08/tn_pack.jpg)  
 <font color="#333333" face="Arial" size="2">With chance, you can still find this pack from   
@@ -83,9 +84,9 @@ A xBox
 
 - - - - - -
 
-<font color="#009900">{mosgoogle center}
 
-<font color="#009900"><font color="#40ab3d" face="Arial Black" size="4">![xboxIcon](/assets/images/2004/08/x.gif) <font color="#40ab3d" face="Arial Black" size="3">2. Open the Xbox (void the garanty)<font color="#40ab3d" face="Arial Black" size="4">  
+
+<font color="#40ab3d" face="Arial Black" size="4">![xboxIcon](/assets/images/2004/08/x.gif) <font color="#40ab3d" face="Arial Black" size="3">2. Open the Xbox (void the garanty)<font color="#40ab3d" face="Arial Black" size="4">  
 
 
 | ![](/assets/images/2004/08/tn_wrench.jpg) |
@@ -106,9 +107,9 @@ A xBox
 
 - - - - - -
 
-<font color="#009900">{mosgoogle center}
 
-<font color="#009900"><font color="#40ab3d" face="Arial Black" size="4">![xboxIcon](/assets/images/2004/08/x.gif)<font color="#40ab3d" face="Arial Black" size="3"> 3. Install a mods chip
+
+<font color="#40ab3d" face="Arial Black" size="4">![xboxIcon](/assets/images/2004/08/x.gif)<font color="#40ab3d" face="Arial Black" size="3"> 3. Install a mods chip
 
 # All mods-chips are more or less equal!** I mean that some special restriction, like DVD region, macrovision, disk eject, run signed code (from M$ or 3rd party game company) or unsigned code (Linux, softwares and emulators) etc… **are not controlled by the mod-chip itself** but only by the *BIOS* (Basic Input Output System, this small program is responsibe for initializing devices, starting a kernel, and low level operations)…So what?   
 # Differences are:**
@@ -129,9 +130,9 @@ All manufacturer have great **HowTo** sections, for Xbit just follow instruction
 
 - - - - - -
 
-<font color="#009900">{mosgoogle center}
 
-<font color="#009900"><font color="#40ab3d" face="Arial Black" size="4">![xboxIcon](/assets/images/2004/08/x.gif) <font color="#40ab3d" face="Arial Black" size="3">4. Flash a Bios on the modchip
+
+<font color="#40ab3d" face="Arial Black" size="4">![xboxIcon](/assets/images/2004/08/x.gif) <font color="#40ab3d" face="Arial Black" size="3">4. Flash a Bios on the modchip
 
 # Which BIOS?** Nearly all mod-chip are shipped without a BIOS installed, in best case you get a cromwell BIOS (open source BIOS develop to boot linux), this is because of legal issues: a lot of BIOS are based on M$… hacked version.
 
@@ -141,9 +142,9 @@ All manufacturer have great **HowTo** sections, for Xbit just follow instruction
 
 - - - - - -
 
-<font color="#009900">{mosgoogle center}
 
-<font color="#009900"><font color="#40ab3d" face="Arial Black" size="4">![xboxIcon](/assets/images/2004/08/x.gif) 5. Installing a new dashboard
+
+<font color="#40ab3d" face="Arial Black" size="4">![xboxIcon](/assets/images/2004/08/x.gif) 5. Installing a new dashboard
 
 The M$… dashboard do not have: *FTP* (File Transfert Protocol) support, game backup, file explorer, linux loader, skins support etc… and can only run signed code.   
 This is why You must install a new one:
@@ -175,9 +176,9 @@ Rom = "x2 4981.67",0xb6eb9fb7b79795c962b7f998ee4a8694<font color="#40ab3d" face=
 
 - - - - - -
 
-<font color="#009900">{mosgoogle center}
 
-<font color="#009900"><font color="#40ab3d" face="Arial Black" size="4">![xboxIcon](/assets/images/2004/08/x.gif) <font color="#40ab3d" face="Arial Black" size="3">6. Backup original data found on c: with FTP to your PC
+
+<font color="#40ab3d" face="Arial Black" size="4">![xboxIcon](/assets/images/2004/08/x.gif) <font color="#40ab3d" face="Arial Black" size="3">6. Backup original data found on c: with FTP to your PC
 
 # Connect your Xbox to the network!** Using the remote controller or gamepad, you can go in evox "<font color="#000000" face="Courier New">system preferences", this is the place where you can set the FTP server adress, password, DNS, gateway.
 
@@ -195,9 +196,9 @@ If you want to play with <font color="#000000" face="Courier New">EvolutionX: ad
 
 - - - - - -
 
-<font color="#009900">{mosgoogle center}
 
-<font color="#009900"><font color="#40ab3d" face="Arial Black" size="4">![xboxIcon](/assets/images/2004/08/x.gif) <font color="#40ab3d" face="Arial Black" size="3">7. Install and configure Xbox media center (XBMC) with FTP 
+
+<font color="#40ab3d" face="Arial Black" size="4">![xboxIcon](/assets/images/2004/08/x.gif) <font color="#40ab3d" face="Arial Black" size="3">7. Install and configure Xbox media center (XBMC) with FTP 
 
 <font color="#40ab3d" face="Arial Black" size="2">XBMP is now discontinued, a XBMB team decide to rewrite it and create XMBC
 
@@ -234,7 +235,7 @@ not allow You to distribute binary. The open-source community is currently creat
 
 - - - - - -
 
-{mosgoogle center}
+
 
 <font color="#40ab3d" face="Arial Black" size="4">![xboxIcon](/assets/images/2004/08/x.gif) <font color="#0000ff" face="Arial Black" size="3">8. Adapt scripts (XML files) for your network or shares drives
 
@@ -256,7 +257,7 @@ of limitations! no name up to 43 characters, no special character < > = ? : ; " 
 
 - - - - - -
 
-{mosgoogle center}
+
 
 <font color="#40ab3d" face="Arial Black" size="4">![xboxIcon](/assets/images/2004/08/x.gif)<font color="#40ab3d" face="Arial Black" size="3">9. Install a streaming server on some PC or use Samba to access remote data 
 
@@ -284,7 +285,7 @@ by its efficiency (speed of access and streaming). I decide to try Samba (smb://
 
 - - - - - -
 
-{mosgoogle center}
+
 
 <font color="#40ab3d" face="Arial Black" size="4">![xboxIcon](/assets/images/2004/08/x.gif) <font color="#40ab3d" face="Arial Black" size="3">10. Add a 3rd party 5:1 cable with digital output, RGB<font color="#008040" face="Arial Black" size="2">**…**
 
@@ -297,7 +298,7 @@ by its efficiency (speed of access and streaming). I decide to try Samba (smb://
 
 - - - - - -
 
-{mosgoogle center}
+
 
 <font color="#40ab3d" face="Arial Black" size="4">![xboxIcon](/assets/images/2004/08/x.gif) <font color="#0000ff" face="Arial Black" size="3">11. Install a bigger harddrive
 
@@ -310,7 +311,7 @@ by its efficiency (speed of access and streaming). I decide to try Samba (smb://
 
 - - - - - -
 
-{mosgoogle center}
+
 
 <font color="#40ab3d" face="Arial Black" size="4">![xboxIcon](/assets/images/2004/08/x.gif) <font color="#ff0000" face="Arial Black" size="3">12. Install a harddrive LED
 
@@ -318,7 +319,7 @@ by its efficiency (speed of access and streaming). I decide to try Samba (smb://
 
 - - - - - -
 
-{mosgoogle center}
+
 
 <font color="#40ab3d" face="Arial Black" size="4">![xboxIcon](/assets/images/2004/08/x.gif) <font color="#ff0000" face="Arial Black" size="3">13. Configure Internet
 
@@ -360,7 +361,7 @@ If everything is working, You should:
 
 - - - - - -
 
-{mosgoogle center}
+
 
 <font color="#40ab3d" face="Arial Black" size="4">![xboxIcon](/assets/images/2004/08/x.gif) Install Linux
 
@@ -389,7 +390,7 @@ change the skins name to the previous which was working, and then restart XBMC
 
 - - - - - -
 
-{mosgoogle center}
+
 
 <font color="#40ab3d" face="Arial Black" size="4">![xboxIcon](/assets/images/2004/08/x.gif) Not required but…
 
@@ -401,9 +402,9 @@ You may want to :
 
 - - - - - -
 
-<font color="#009900">{mosgoogle center}
 
-<font color="#009900"><font color="#40ab3d" face="Arial Black" size="4">![xboxIcon](/assets/images/2004/08/x.gif) Helping the community  
+
+<font color="#40ab3d" face="Arial Black" size="4">![xboxIcon](/assets/images/2004/08/x.gif) Helping the community  
 # There is surely something for you!**
 
 - Help at the code level,
@@ -415,15 +416,15 @@ You may want to :
 
 - - - - - -
 
-<font color="#009900">{mosgoogle center}
 
-<font color="#009900"><font color="#40ab3d" face="Arial Black" size="4">![xboxIcon](/assets/images/2004/08/x.gif) Thanks
+
+<font color="#40ab3d" face="Arial Black" size="4">![xboxIcon](/assets/images/2004/08/x.gif) Thanks
 
 My thanks goes first to M$… for having created such a device, and think that nobody will ever crack its protections schemes. Then to the community which always do a great job and is creating a lot of good releases in all domains.
 
 - - - - - -
 
-{mosgoogle center}
+
 
 <font color="#40ab3d" face="Arial Black" size="4">![xboxIcon](/assets/images/2004/08/x.gif) Xbox Linux clusters  
   

@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4265'
 permalink: /homepage/mind-mapping-meet-my-blog/
-image: /wp-content/uploads/2009/04/freemind_thumb.jpg
+header:
+  teaser: /assets/images/2009/04/freemind_thumb.jpg
 ---
 
 [![freemind](/assets/images/2009/04/freemind_thumb.jpg "freemind")](/assets/images/2009/04/freemind.jpg)

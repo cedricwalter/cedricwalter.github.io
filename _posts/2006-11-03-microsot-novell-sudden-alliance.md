@@ -11,7 +11,7 @@ tags:
     - opensource
 ---
 
-Personally I am not at all excited by this news. [OSNEWS ](http://www.osnews.com)<span style="font-weight: bold;">has a series of very good articles that resume the problem….
+Personally I am not at all excited by this news. [OSNEWS ](http://www.osnews.com)has a series of very good articles that resume the problem….
 
 | [<font color="#000000" face="Arial, Helvetica" size="3">**Novell-Microsoft: MS Open To More Distros, Red Hat Responds**](http://www.osnews.com/story.php/16384/Novell-Microsoft-MS-Open-To-More-Distros-Red-Hat-Responds) |
 |---|
@@ -21,14 +21,14 @@ Personally I am not at all excited by this news. [OSNEWS ](http://www.osnews.com
 | [<font color="#000000" face="Arial, Helvetica" size="3">**Novell-Microsoft: What They Aren’t Telling You**](http://www.osnews.com/story.php/16383/Novell-Microsoft-What-They-Arent-Telling-You) |
 |---|
 | <font color="#666666" face="verdana,arial" size="1"> Linked by [Thom Holwerda](http://www.osnews.com/editor.php?editors_id=11) on 2006-11-03 16:08:33 UTC, submitted by [twickline](http://www.osnews.com/user.php?uid=4535) |
-| <font color="#000000" face="arial" size="2">Of course the net is buzzing with reactions to the [Novell-Microsoft agreement](http://www.osnews.com/story.php/16378/Microsoft-Novell-Ink-Linux-Deal) of yesterday. [Bruce Perens is very negative](http://technocrat.net/d/2006/11/2/9945) about it all: *"What aren’t they telling you? First, you can be sure that Microsoft’s not out to help a competitor. This announcement paves the way for Microsoft to implement significant control over commercial customer’s use of Free Software. And it has significant negative implications for Open Source in general."* Eben Moglen of the FSF says about the possible GPL issues: *"If you make an agreement which requires you to pay a royalty to anybody for the right to distribute GPL software, [you may not distribute it under the GPL](http://news.com.com/2061-10795_3-6132156.html)."* |
+| Of course the net is buzzing with reactions to the [Novell-Microsoft agreement](http://www.osnews.com/story.php/16378/Microsoft-Novell-Ink-Linux-Deal) of yesterday. [Bruce Perens is very negative](http://technocrat.net/d/2006/11/2/9945) about it all: *"What aren’t they telling you? First, you can be sure that Microsoft’s not out to help a competitor. This announcement paves the way for Microsoft to implement significant control over commercial customer’s use of Free Software. And it has significant negative implications for Open Source in general."* Eben Moglen of the FSF says about the possible GPL issues: *"If you make an agreement which requires you to pay a royalty to anybody for the right to distribute GPL software, [you may not distribute it under the GPL](http://news.com.com/2061-10795_3-6132156.html)."* |
 
 [  ](http://www.osnews.com/story.php/16383/Novell-Microsoft-What-They-Arent-Telling-You)
 
 | [<font color="#000000" face="Arial, Helvetica" size="3">**Microsoft, Novell Ink #Linux Deal**](http://www.osnews.com/story.php/16378/Microsoft-Novell-Ink-Linux-Deal) |
 |---|
 | <font color="#666666" face="verdana,arial" size="1"> Linked by [Thom Holwerda](http://www.osnews.com/editor.php?editors_id=11) on 2006-11-02 22:05:39 UTC, submitted by anonymous |
-| <font color="#000000" face="arial" size="2">At a press conference in San Francisco, Microsoft CEO Steve Ballmer is expected to announce a [new partnership between Microsoft and Novell](http://arstechnica.com/news.ars/post/20061102-8141.html). The unprecedented deal will have Microsoft offering a degree of sales support for Novell’s SUSE #Linux while both companies work towards better interoperability between their respective operating systems. As part of the agreement, Microsoft also promises not to wield its patent portfolio against SUSE #Linux. More [here](http://www.chron.com/disp/story.mpl/ap/fn/4306270.html). You can follow the live webcast announcement, by Steve Ballmer, [here](http://www.microsoft.com/presspass/press/2006/nov06/11-02NewsConferenceMA.mspx). **Update:** Novell has put up a [detailed FAQ](http://www.novell.com/linux/microsoft/faq.html) about this deal. |
+| At a press conference in San Francisco, Microsoft CEO Steve Ballmer is expected to announce a [new partnership between Microsoft and Novell](http://arstechnica.com/news.ars/post/20061102-8141.html). The unprecedented deal will have Microsoft offering a degree of sales support for Novell’s SUSE #Linux while both companies work towards better interoperability between their respective operating systems. As part of the agreement, Microsoft also promises not to wield its patent portfolio against SUSE #Linux. More [here](http://www.chron.com/disp/story.mpl/ap/fn/4306270.html). You can follow the live webcast announcement, by Steve Ballmer, [here](http://www.microsoft.com/presspass/press/2006/nov06/11-02NewsConferenceMA.mspx). **Update:** Novell has put up a [detailed FAQ](http://www.novell.com/linux/microsoft/faq.html) about this deal. |
 
 Microsoft is trying for sure one more time to embrace the open source community for better extinguish it later.  
 Novell If You are smart, You’d better refuse that deal!

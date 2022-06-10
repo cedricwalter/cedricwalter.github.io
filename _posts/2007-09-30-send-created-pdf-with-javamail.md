@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3061'
 permalink: /java/send-created-pdf-with-javamail/
-image: /wp-content/uploads/2020/02/java.png
+header:
+  teaser: /assets/images/2020/02/java.png
 tags:
     - HowTo
     - java

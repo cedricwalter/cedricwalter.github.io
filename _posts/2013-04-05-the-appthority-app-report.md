@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=8000'
 permalink: /security/the-appthority-app-report/
-image: /wp-content/uploads/2013/04/appauthority.png
+header:
+  teaser: /assets/images/2013/04/appauthority.png
 ---
 
 ![appauthority](/assets/images/2013/04/appauthority.png "appauthority")

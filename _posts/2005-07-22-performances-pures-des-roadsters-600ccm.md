@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=1936'
 permalink: /motorcycles/performances-pures-des-roadsters-600ccm/
-image: /wp-content/uploads/2006/05/honda-hornet-600cb_2004.05.03_02.jpg
+header:
+  teaser: /assets/images/2006/05/honda-hornet-600cb_2004.05.03_02.jpg
 ---
 
 Avant d’acheter un Roadster ou de dire que le votre est meilleur, demandez meilleur pour faire quoi avec ?

@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=1944'
 permalink: /internet/google-research-publications/
-image: /wp-content/uploads/2005/07/google-labs.gif
+header:
+  teaser: /assets/images/2005/07/google-labs.gif
 tags:
     - computer
     - google

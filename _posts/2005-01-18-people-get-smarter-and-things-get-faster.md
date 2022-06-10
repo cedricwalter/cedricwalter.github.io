@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=1484'
 permalink: /hobbies/people-get-smarter-and-things-get-faster/
-image: /wp-content/uploads/2005/01/wiring-ps2-pad-to-lpt-pc-port.png
+header:
+  teaser: /assets/images/2005/01/wiring-ps2-pad-to-lpt-pc-port.png
 tags:
     - Electronics
     - 'RC Electronics'

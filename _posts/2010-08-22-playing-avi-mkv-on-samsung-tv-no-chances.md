@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=5733'
 permalink: /gadget/playing-avi-mkv-on-samsung-tv-no-chances/
-image: /wp-content/uploads/2010/08/samsung.c8700.jpg
+header:
+  teaser: /assets/images/2010/08/samsung.c8700.jpg
 tags:
     - chances
     - listed

@@ -10,9 +10,9 @@ tags:
     - security
 ---
 
-<span style="font-style: italic;"> FaF (File Anomaly Finder) is a wrapper for the \*nix ‘find’ utility. It generates audit reports for data matching specific characteristics; such data as setgid/setuid, unowned, and more. The objectives are simply to create a simple anomaly finder that identifies common flawed permissions or otherwise suspicious file system characteristics.   
+ FaF (File Anomaly Finder) is a wrapper for the \*nix ‘find’ utility. It generates audit reports for data matching specific characteristics; such data as setgid/setuid, unowned, and more. The objectives are simply to create a simple anomaly finder that identifies common flawed permissions or otherwise suspicious file system characteristics.   
    
-<span style="font-style: italic;"> The main features of FaF are:
+ The main features of FaF are:
 
 - simplistic and to the point audit reports
 - easy setup and configuration
@@ -32,18 +32,18 @@ Install path: /usr/local/faf/
 Config path: /usr/local/faf/conf.faf  
 Executable path: /usr/local/sbin/faf
 
-<span style="font-weight: bold;">Why do you need such tool?  
+Why do you need such tool?  
 Never trust anyone, including sometimes yourself 😉 this tool correctly used just insured You that You will never forget any files with too much permissions. It may also reveal a hacker, putting some new files under the user nobody…
 
-<span style="font-weight: bold;">What to do with the output?
+What to do with the output?
 
-You’ll have to react differently for each occurrence in the report….<span style="font-weight: bold;">  
+You’ll have to react differently for each occurrence in the report….  
   
 <span style="font-weight: bold; background-color: rgb(255, 255, 0);">SUID/SGID Binaries
 
-<span style="font-style: italic;">Sticky bit was used on executables in linux (which was used more often) so that they would remain in the memory more time after the initial execution, hoping they would be needed in the near future. But since today we have more sophisticated memory accessing techniques and the bottleneck related to primary memory is diminishing, the sticky bit is not used today for this. Instead, it is used on folders, to imply that a file or folder created inside a sticky bit-enabled folder could only be deleted by the creator itself. A nice implementation of sticky bit is the /tmp folder,where every user has write permission but only users who own a file can delete them. Remember files inside a folder which has write permission can be deleted even if the file doesn’t have write permission. The sticky bit comes useful here.  
+Sticky bit was used on executables in linux (which was used more often) so that they would remain in the memory more time after the initial execution, hoping they would be needed in the near future. But since today we have more sophisticated memory accessing techniques and the bottleneck related to primary memory is diminishing, the sticky bit is not used today for this. Instead, it is used on folders, to imply that a file or folder created inside a sticky bit-enabled folder could only be deleted by the creator itself. A nice implementation of sticky bit is the /tmp folder,where every user has write permission but only users who own a file can delete them. Remember files inside a folder which has write permission can be deleted even if the file doesn’t have write permission. The sticky bit comes useful here.  
    
-<span style="font-style: italic;">SUID or SetUID bit, the executable which has the SUID set runs with the ownership of the program owner. That is, if you own an executable, and another person issues the executable, then it runs with your permission and not his. The default is that a program runs with the ownership of the person executing the binary.  
+SUID or SetUID bit, the executable which has the SUID set runs with the ownership of the program owner. That is, if you own an executable, and another person issues the executable, then it runs with your permission and not his. The default is that a program runs with the ownership of the person executing the binary.  
    
 Consider also reading:  
 [<font face="Verdana, Arial, Helvetica, sans-serif" size="-1">**What are the SUID, SGID and the Sticky Bits?**](http://www.codecoffee.com/tipsforlinux/articles/028.html)
@@ -57,10 +57,10 @@ You can find them also manually by entering:
 
 ```
 
- <span style="font-style: italic;">The SGID bit is the same as of SUID, only the case is that it runs with the permission of the group. Another use is it can be set on folders,making nay files or folders created inside the SGID set folder to have a common group ownership.
+ The SGID bit is the same as of SUID, only the case is that it runs with the permission of the group. Another use is it can be set on folders,making nay files or folders created inside the SGID set folder to have a common group ownership.
 
-<span style="background-color: rgb(51, 204, 0); font-weight: bold;">files in `<span style="background-color: rgb(51, 204, 0);"><span style="font-weight: bold;">/srv ``  `<span style="font-weight: bold;">(http root folder)  
-<span style="font-weight: bold; color: rgb(255, 0, 0);"> You should accept NO files with SUID/SGID in http root folder. Remove them all   
+<span style="background-color: rgb(51, 204, 0); font-weight: bold;">files in `<span style="background-color: rgb(51, 204, 0);">/srv ``  `(http root folder)  
+ You should accept NO files with SUID/SGID in http root folder. Remove them all   
  # find /srv -type f \\( -perm -04000 -o -perm -02000 <span style="font-family: monospace;">\\) -exec chmod \\;
 
 <span style="font-weight: bold; background-color: rgb(255, 255, 0);">No Owner/Group  
@@ -72,18 +72,18 @@ Can also be found manually by typing:
 # find / \( -nouser -o -nogroup \) -print
 ```
 
- <span style="background-color: rgb(51, 204, 0); font-weight: bold;">files in `<span style="background-color: rgb(51, 204, 0);"><span style="font-weight: bold;">/srv  `(http root folder)
+ <span style="background-color: rgb(51, 204, 0); font-weight: bold;">files in `<span style="background-color: rgb(51, 204, 0);">/srv  `(http root folder)
 
 Permissions and ownership are linked together to make your server work peacefully. The basic idea is always to give the minimum rights to the file.
 
-<span style="font-weight: bold;">A rule for thumbs would be:  
+A rule for thumbs would be:  
 read only for all file, `r--r--r--` or` r---------`  
 read, execute for all directory `r-xr-xr-x `or `r-x------`  
 The problem is that apache and PHP also run under their own user…
 
 A very informative article explaining the problem on a concrete example (Gallery2) can be found at <http://codex.gallery2.org/Gallery2:Security>
 
-<span style="font-weight: bold;">At least (worst), when apache run as `wwwrun` user in `www` group, <span style="font-weight: bold;">in your HTTP directory  
+At least (worst), when apache run as `wwwrun` user in `www` group,in your HTTP directory  
 `# chown -R wwwrun .
 
 ``# chgrp  -R www .`  
@@ -92,7 +92,7 @@ then all files has to be ` rw- --- ---` and directory `r-x------
 `Advantages:` `you can use Joomla! administrator panel  
 BUT: any bug in PHP code, attack can read or overwrite any files! -> highly insecure  
 ``  
-<span style="font-weight: bold;">Better would be for all files/dir in your HTTP directory to changes accordingly to the right web user!  
+Better would be for all files/dir in your HTTP directory to changes accordingly to the right web user!  
 `# chown -R cedric .
 
 ``# chgrp  -R psacln  .`  

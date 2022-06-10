@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=7798'
 permalink: /development/understand-agile-development-methods-with-the-agile-development-poster/
-image: /wp-content/uploads/2012/10/agileposter_thumb.png
+header:
+  teaser: /assets/images/2012/10/agileposter_thumb.png
 ---
 
 Creating software with the agile development process delivers finished products quickly in fast changing and uncertain project environments. While agile development describes several iterative and incremental software development methods, they all involve continuous planning, continuous testing and continuous integration. (don’t under estimate effort to reach this prior to try to be agile)

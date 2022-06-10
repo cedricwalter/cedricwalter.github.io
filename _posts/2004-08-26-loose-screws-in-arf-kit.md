@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=99'
 permalink: /hobbies/loose-screws-in-arf-kit/
-image: /wp-content/uploads/2004/08/lostinflight.jpg
+header:
+  teaser: /assets/images/2004/08/lostinflight.jpg
 tags:
     - caliber
     - kyosho

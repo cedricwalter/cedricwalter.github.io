@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=1378'
 permalink: /holidays/visiting-italy-galleria-vittorio-emanuele-ii/
-image: /wp-content/uploads/2004/11/GALLERIA-VITTORIO-EMANUELE-II.jpg
+header:
+  teaser: /assets/images/2004/11/GALLERIA-VITTORIO-EMANUELE-II.jpg
 tags:
     - arcade
     - built

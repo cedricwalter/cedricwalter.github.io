@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4322'
 permalink: /joomla/installing-subversion-on-opensuse-and-plesk-9/
-image: /wp-content/uploads/2009/05/subversion_logo384x332.png
+header:
+  teaser: /assets/images/2009/05/subversion_logo384x332.png
 tags:
     - apache
     - browser

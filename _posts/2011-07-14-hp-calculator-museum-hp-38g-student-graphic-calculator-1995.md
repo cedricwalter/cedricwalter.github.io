@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=6912'
 permalink: /hobbies/hp-calculator-museum-hp-38g-student-graphic-calculator-1995/
-image: /wp-content/uploads/2011/07/hp38gGraphingCalculator_thumb.jpg
+header:
+  teaser: /assets/images/2011/07/hp38gGraphingCalculator_thumb.jpg
 tags:
     - calculator
     - graphing

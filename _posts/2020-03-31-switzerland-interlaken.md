@@ -8,7 +8,8 @@ guid: 'https://waltercedric.com/?p=11825'
 permalink: /holidays/switzerland-interlaken/
 ngg_post_thumbnail:
     - '0'
-image: /wp-content/uploads/2020/03/switzerland-interlaken-01.jpg
+header:
+  teaser: /assets/images/2020/03/switzerland-interlaken-01.jpg
 tags:
     - holidays
     - park

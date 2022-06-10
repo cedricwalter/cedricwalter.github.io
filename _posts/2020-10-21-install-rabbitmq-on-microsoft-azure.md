@@ -9,7 +9,7 @@ permalink: /development/install-rabbitmq-on-microsoft-azure/
 ngg_post_thumbnail:
     - '0'
 header:
-    teaser: "/wp-content/uploads/2020/10/rabbitMQ.jpg"
+    teaser: /assets/images/2020/10/rabbitMQ.jpg
 tags:
     - azure
     - cloud

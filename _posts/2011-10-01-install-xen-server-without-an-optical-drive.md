@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=7204'
 permalink: /linux/install-xen-server-without-an-optical-drive/
-image: /wp-content/uploads/2011/10/xenServer_thumb.png
+header:
+  teaser: /assets/images/2011/10/xenServer_thumb.png
 tags:
     - english
     - install

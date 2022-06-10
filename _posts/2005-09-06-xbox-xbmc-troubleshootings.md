@@ -15,7 +15,7 @@ tags:
 
 # XBOX, XBMC troubleshootings…**
 
-{mosgoogle center}
+
 
   **XBOX, XBMC troubleshootings**
 

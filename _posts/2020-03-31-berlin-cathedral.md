@@ -8,7 +8,8 @@ guid: 'https://waltercedric.com/?p=11758'
 permalink: /holidays/berlin-cathedral/
 ngg_post_thumbnail:
     - '0'
-image: /wp-content/uploads/2020/03/Berlin-berlinerdom-1.jpg
+header:
+  teaser: /assets/images/2020/03/Berlin-berlinerdom-1.jpg
 tags:
     - berlin
     - germany

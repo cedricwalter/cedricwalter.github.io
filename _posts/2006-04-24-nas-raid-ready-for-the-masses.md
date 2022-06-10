@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2479'
 permalink: /gadget/nas-raid-ready-for-the-masses/
-image: /wp-content/uploads/2006/04/NAS-Infrant-ReadyNAS-NV.jpg
+header:
+  teaser: /assets/images/2006/04/NAS-Infrant-ReadyNAS-NV.jpg
 tags:
     - 'PC and Hardware'
     - Storage

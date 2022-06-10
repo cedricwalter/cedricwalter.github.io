@@ -14,7 +14,7 @@ tags:
     - 'RC helicopter'
 ---
 
-# crash<font color="#000000" size="4">  
+# crash  
  Parts you can store in case of…
 
  Main rotor blade grips  

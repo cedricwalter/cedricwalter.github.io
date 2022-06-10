@@ -8,7 +8,8 @@ guid: 'https://www.waltercedric.com/?p=13612'
 permalink: /holidays/lake-zurich/
 ngg_post_thumbnail:
     - '0'
-image: /wp-content/uploads/2020/08/6EA0AFED-17FE-4F7A-A6D1-66E93B43AD2D_1_105_c.jpeg
+header:
+  teaser: /assets/images/2020/08/6EA0AFED-17FE-4F7A-A6D1-66E93B43AD2D_1_105_c.jpeg
 tags:
     - city
     - switzerland

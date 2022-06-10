@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=6266'
 permalink: /games/atari-2600-video-game-console/
-image: /wp-content/uploads/2010/09/IMG_3094_thumb.jpg
+header:
+  teaser: /assets/images/2010/09/IMG_3094_thumb.jpg
 tags:
     - atari
     - console

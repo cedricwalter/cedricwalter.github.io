@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=6259'
 permalink: /games/sega-master-system/
-image: /wp-content/uploads/2010/09/SegaMasterSystem2_thumb.jpg
+header:
+  teaser: /assets/images/2010/09/SegaMasterSystem2_thumb.jpg
 tags:
     - games
     - master

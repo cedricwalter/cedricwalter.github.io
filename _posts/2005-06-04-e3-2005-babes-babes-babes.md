@@ -7,8 +7,10 @@ author: 'Cédric Walter'
 guid: 'https://waltercedric.com/new/?p=1771'
 permalink: /gadget/e3-2005-babes-babes-babes/
 tags:
-    - deployed
-    - games
+- deployed
+- games
 ---
 
-You were not at the[ E3 2005 in Los Angeles](http://www.e3expo.com/)? me too 🙁 that’s not a reason not to look at the faune which were deployed there: [hundred of babes](http://photogallery.i4u.com/category.php?cat=13&start=0). Eventually You can have a look at all the new games that have neen presented here
+You were not at the[ E3 2005 in Los Angeles](http://www.e3expo.com/)? me too 🙁 that’s not a reason not to look at the
+faune which were deployed there: [hundred of babes](http://photogallery.i4u.com/category.php?cat=13&start=0). Eventually
+You can have a look at all the new games that have neen presented here

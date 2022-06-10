@@ -9,7 +9,7 @@ permalink: /games/snk-neo-geo-mvsx-home-arcade/
 ngg_post_thumbnail:
     - '0'
 header:
-  teaser: "/wp-content/uploads/2020/10/snk-neogeo-mvsx.jpg"
+  teaser: /assets/images/2020/10/snk-neogeo-mvsx.jpg
 tags:
     - arcade
     - mvs

@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=8139'
 permalink: /joomla/socialsharinglive-for-joomla-2-5-3-x-released/
-image: /wp-content/uploads/2011/08/socialSharing.Joomla.png
+header:
+  teaser: /assets/images/2011/08/socialSharing.Joomla.png
 tags:
     - joomla
 ---

@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=1376'
 permalink: /holidays/visiting-italy-portofino/
-image: /wp-content/uploads/2020/04/portofino-higher-point2.jpg
+header:
+  teaser: /assets/images/2020/04/portofino-higher-point2.jpg
 tags:
     - europe
     - holidays

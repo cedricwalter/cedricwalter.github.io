@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3464'
 permalink: /joomla/2001-posts-in-my-forums/
-image: /wp-content/uploads/2008/05/forums_thumb.png
+header:
+  teaser: /assets/images/2008/05/forums_thumb.png
 ---
 
 [![forums](/assets/images/2008/05/forums_thumb.png)](/assets/images/2008/05/forums.png)

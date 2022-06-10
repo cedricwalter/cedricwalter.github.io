@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=8656'
 permalink: /gadget/i-am-building-my-first-mining-rig/
-image: /wp-content/uploads/2017/09/cryptomining-rig.jpg
+header:
+  teaser: /assets/images/2017/09/cryptomining-rig.jpg
 tags:
     - blockchain
     - cryptocurrency

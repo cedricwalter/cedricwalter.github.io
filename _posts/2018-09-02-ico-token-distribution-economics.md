@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=8743'
 permalink: /development/ico-token-distribution-economics/
-image: /wp-content/uploads/2019/03/blockchain.jpg
+header:
+  teaser: /assets/images/2019/03/blockchain.jpg
 tags:
     - analysis
     - blockchain

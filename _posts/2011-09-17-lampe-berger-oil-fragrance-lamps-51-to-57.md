@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=7169'
 permalink: /hobbies/lampe-berger-oil-fragrance-lamps-51-to-57/
-image: /wp-content/uploads/2011/06/Lampe_Berger_oil_fragrance_lamps_00_thumb.jpg
+header:
+  teaser: /assets/images/2011/06/Lampe_Berger_oil_fragrance_lamps_00_thumb.jpg
 tags:
     - berger
     - discovered

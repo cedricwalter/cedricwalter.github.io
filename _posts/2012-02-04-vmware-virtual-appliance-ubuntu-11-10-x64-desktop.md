@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=7480'
 permalink: /linux/vmware-virtual-appliance-ubuntu-11-10-x64-desktop/
-image: /wp-content/uploads/2012/02/ubuntu-logo_05.jpg
+header:
+  teaser: /assets/images/2012/02/ubuntu-logo_05.jpg
 tags:
     - authentication
     - container

@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3484'
 permalink: /software/get-your-firefox-certificate/
-image: /wp-content/uploads/2008/06/cedricwalterfirefoxcertificate_thumb.png
+header:
+  teaser: /assets/images/2008/06/cedricwalterfirefoxcertificate_thumb.png
 ---
 
 > *Thanks to the support of the always amazing Mozilla community, we got more than   

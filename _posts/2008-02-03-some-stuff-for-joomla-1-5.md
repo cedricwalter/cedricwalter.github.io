@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3176'
 permalink: /joomla/some-stuff-for-joomla-1-5/
-image: /wp-content/uploads/2007/07/joomla_1.5.gif
+header:
+  teaser: /assets/images/2007/07/joomla_1.5.gif
 tags:
     - joomla
 ---

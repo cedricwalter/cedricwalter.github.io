@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=1245'
 permalink: /hobbies/lipo-for-the-draganflyer/
-image: /wp-content/uploads/2004/10/KoKam3sLiPo.jpg
+header:
+  teaser: /assets/images/2004/10/KoKam3sLiPo.jpg
 tags:
     - controlling
     - documentation

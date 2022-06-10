@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3470'
 permalink: /internet/sbb-trains-live-on-www-swisstrains-ch/
-image: /wp-content/uploads/2008/05/swisstrain.ch_thumb.png
+header:
+  teaser: /assets/images/2008/05/swisstrain.ch_thumb.png
 tags:
     - internet
     - web

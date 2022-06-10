@@ -8,7 +8,8 @@ guid: 'https://waltercedric.com/?p=12469'
 permalink: /holidays/mount-lofty-in-south-australia/
 ngg_post_thumbnail:
     - '0'
-image: /wp-content/uploads/2020/04/mount-lofty-in-south-australia-5.jpg
+header:
+  teaser: /assets/images/2020/04/mount-lofty-in-south-australia-5.jpg
 tags:
     - Australia
     - holidays

@@ -25,8 +25,8 @@ So here are my #Joomla components:
 | NEW | AkoCommentPlus 1.1.7 | credits to Beat    Q&amp;T Workgroup Sr. Member | Download [HERE](downloads/task,cat_view/gid,298/) | Download at #Joomla Forge |
 | NEW | SecurityImages 3.0.8 | The release 4.0.0    with a lot of changes    will follow this week | Download [HERE](downloads/task,cat_view/gid,291/) | Download at #Joomla Forge |
 | NEW | JoomlaCloud 1.0.3 | <span style="font-weight: bold; color: #006600;">coming soonThe release 1.1.0    with a lot of changes    will follow this week | Download [HERE](downloads/task,cat_view/gid,296/) | Download at #Joomla Forge |
-| <span style="font-weight: bold;">NEW | OpenComment beta1 | <span style="font-weight: bold; color: #006600;">coming soon | Download [HERE](downloads/task,cat_view/gid,295/) | Download at #Joomla Forge |
-| <span style="font-weight: bold;">NEW | com\_log4php | <span style="font-weight: bold; color: #006600;">coming soon | Download [HERE](downloads/task,cat_view/gid,293/) | Download at #Joomla Forge |
-| <span style="font-weight: bold;">NEW | com\_hashcasch 1.2.4 | <span style="font-weight: bold; color: #006600;">coming soon | Download [HERE](downloads/task,cat_view/gid,292/) | Download at #Joomla Forge |
+|NEW | OpenComment beta1 | <span style="font-weight: bold; color: #006600;">coming soon | Download [HERE](downloads/task,cat_view/gid,295/) | Download at #Joomla Forge |
+|NEW | com\_log4php | <span style="font-weight: bold; color: #006600;">coming soon | Download [HERE](downloads/task,cat_view/gid,293/) | Download at #Joomla Forge |
+|NEW | com\_hashcasch 1.2.4 | <span style="font-weight: bold; color: #006600;">coming soon | Download [HERE](downloads/task,cat_view/gid,292/) | Download at #Joomla Forge |
 
 Please report me any non working versions…so I can make changes if necessary

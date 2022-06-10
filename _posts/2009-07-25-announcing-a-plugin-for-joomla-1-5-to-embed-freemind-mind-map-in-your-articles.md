@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4542'
 permalink: /development/announcing-a-plugin-for-joomla-1-5-to-embed-freemind-mind-map-in-your-articles/
-image: /wp-content/uploads/2009/07/freemind.logo_.png
+header:
+  teaser: /assets/images/2009/07/freemind.logo_.png
 ---
 
 ![freemind.logo](/assets/images/2009/07/freemind.logo_.png "freemind.logo")

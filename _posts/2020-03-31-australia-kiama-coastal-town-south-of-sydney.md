@@ -8,7 +8,8 @@ guid: 'https://waltercedric.com/?p=11887'
 permalink: /holidays/australia-kiama-coastal-town-south-of-sydney/
 ngg_post_thumbnail:
     - '0'
-image: /wp-content/uploads/2020/03/australia.new_.south_.wales_.kiama_0251.jpg
+header:
+  teaser: /assets/images/2020/03/australia.new_.south_.wales_.kiama_0251.jpg
 tags:
     - Australia
     - holidays

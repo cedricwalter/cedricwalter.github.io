@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=6889'
 permalink: /java/eclipse-indigo-new-and-noteworthy/
-image: /wp-content/uploads/2011/06/eclipse_indigo_aka_3_7.png
+header:
+  teaser: /assets/images/2011/06/eclipse_indigo_aka_3_7.png
 tags:
     - eclipse
     - html

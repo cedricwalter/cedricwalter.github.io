@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3071'
 permalink: /development/optimizing-mysql-jdbc-under-windows-using-named-pipe/
-image: /wp-content/uploads/2007/09/mysql.logo_.png
+header:
+  teaser: /assets/images/2007/09/mysql.logo_.png
 tags:
     - database
     - MySQL
@@ -16,7 +17,7 @@ tags:
 
  According to [this MySQL page here](http://dev.mysql.com/doc/refman/5.0/en/connector-j-reference-configuration-properties.html), you can win 30 to 50% more performances using MySQL jdbc named pipe!
 
- <span style="font-style: italic"> Named pipes only work when connecting to a MySQL server on the same physical machine as the one the JDBC driver is being used on.   
+  Named pipes only work when connecting to a MySQL server on the same physical machine as the one the JDBC driver is being used on.   
  In simple performance tests, it appears that named pipe access is between 30%-50% faster than the standard TCP/IP access.
 
  As default, when you install mySQL on windows using the installer, TCP IP is the default option. The question remains why nobody seems  
@@ -48,7 +49,7 @@ tags:
 
  For the most intrepid of You of if wou want to add named pipe capabilities to previous saved connections, just can also use the menu "**tools**" – "**manage connections**" and under the tab "**advanced parameters**", just add these 2 new keys
 
- <span style="font-family: courier new,courier">NAMED\_PIPE <span style="font-family: arial,helvetica,sans-serif">value Yes  
+ NAMED\_PIPE <span style="font-family: arial,helvetica,sans-serif">value Yes  
  SOCKET\_PATH <span style="font-family: arial,helvetica,sans-serif">value mysql.sock 
 
  We are nearly finished, all we have to do is to alter now the JDBC url, and this is where we fight against Windows<sup>tm</sup> till we find the path to the mysql.sock file handle.  
@@ -61,18 +62,18 @@ tags:
  <span style="font-weight: bold; font-family: Courier New,Courier,monospace">database<span style="font-family: Courier New,Courier,monospace"> being the database/schema name  
  
 
- <span style="font-family: Courier New,Courier,monospace"><span style="color: #3333ff">socketFactory=com.mysql.jdbc.NamedPipeSocketFactory<span style="font-family: Courier New,Courier,monospace">  [JConnector](http://www.mysql.com/products/connector/j/)<span style="font-style: italic"> also supports access to MySQL via named pipes on Windows NT/2000/XP using  
- the <span class="property" style="font-style: italic">NamedPipeSocketFactory<span style="font-style: italic"> as a plugin-socket factory via the <span class="property" style="font-style: italic">socketFactory<span style="font-style: italic"> property. If you don’t use a <span class="property" style="font-style: italic">namedPipePath<span style="font-style: italic"> property, the default   
- of ‘\\\\.\\pipe\\MySQL’ will be used. If you use the `NamedPipeSocketFactory`<span style="font-style: italic">, the hostname and port number values in the JDBC url will be ignored.   
+ <span style="font-family: Courier New,Courier,monospace"><span style="color: #3333ff">socketFactory=com.mysql.jdbc.NamedPipeSocketFactory<span style="font-family: Courier New,Courier,monospace">  [JConnector](http://www.mysql.com/products/connector/j/) also supports access to MySQL via named pipes on Windows NT/2000/XP using  
+ the <span class="property" style="font-style: italic">NamedPipeSocketFactory as a plugin-socket factory via the <span class="property" style="font-style: italic">socketFactory property. If you don’t use a <span class="property" style="font-style: italic">namedPipePath property, the default   
+ of ‘\\\\.\\pipe\\MySQL’ will be used. If you use the `NamedPipeSocketFactory`, the hostname and port number values in the JDBC url will be ignored.   
  You can enable this feature using: socketFactory=com.mysql.jdbc.NamedPipeSocketFactory
 
  <span style="font-family: Courier New,Courier,monospace">namedPipePath=\\\\\\\\.\\\\Pipe\\\\mysql.sock The path to the file socket. Notice how strange the path is looking like under Windows<sup>tm</sup> (escaping \\ in java is normal).   
  Under linux we would have write <span style="font-family: Courier New,Courier,monospace">/var/log/mysql.sock and forget everything. In Windows<sup>tm </sup> You really have no chance to find it until you use   
  [*FileMon* ](http://www.microsoft.com/technet/sysinternals/FileAndDisk/Filemon.mspx)(a SysInternals tool)
 
- [FileMon ](http://www.microsoft.com/technet/sysinternals/FileAndDisk/Filemon.mspx)<span style="font-style: italic">monitors and displays file system activity on a system in real-time. Its advanced capabilities make it a powerful tool for exploring the way   
+ [FileMon ](http://www.microsoft.com/technet/sysinternals/FileAndDisk/Filemon.mspx)monitors and displays file system activity on a system in real-time. Its advanced capabilities make it a powerful tool for exploring the way   
  Windows works, seeing how applications use the files and DLLs, or tracking down problems in system or application file configurations. Filemon’s   
- timestamping feature will show you precisely when every open, read, write or delete, happens, and its status column tells you the outcome. *FileMon*<span style="font-style: italic">   
+ timestamping feature will show you precisely when every open, read, write or delete, happens, and its status column tells you the outcome. *FileMon*   
  is so easy to use that you’ll be an expert within minutes. It begins monitoring when you start it, and its output window can be saved to a file for off-line   
  viewing. It has full search capability, and if you find that you’re getting information overload, simply set up one or more filters. [Download it HERE](http://www.microsoft.com/technet/sysinternals/FileAndDisk/Filemon.mspx)
 

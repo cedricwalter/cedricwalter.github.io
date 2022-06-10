@@ -7,20 +7,21 @@ author: 'Cédric Walter'
 guid: 'https://waltercedric.com/new/?p=1736'
 permalink: /motorcycles/over-300-real-horsepower-gain/
 tags:
-    - atv
-    - bombardier
-    - canam
-    - increase
-    - quad
+- atv
+- bombardier
+- canam
+- increase
+- quad
 ---
 
-Increase horsepower over 300% for Your Bombardier DS 650, reliable, dependent, 90% of engine life. KMS Turbo Systems can be run on race gas or upgraded to methanol.
+Increase horsepower over 300% for Your Bombardier DS 650, reliable, dependent, 90% of engine life. KMS Turbo Systems can
+be run on race gas or upgraded to methanol.
 
- Only prolem, it cost nearly 70% of the price of the ATV itself: $4500
+Only prolem, it cost nearly 70% of the price of the ATV itself: $4500
 
 read more at <http://kmsturbo.com/ds650.html>
 
-|  | **Stock Specs** | **DS650** |
+| | **Stock Specs** | **DS650** |
 |---|:-:|:-:|
 | **Displacement** | 652 CC | same |
 | **Carburetor** | 42 mm Mikuni | same |

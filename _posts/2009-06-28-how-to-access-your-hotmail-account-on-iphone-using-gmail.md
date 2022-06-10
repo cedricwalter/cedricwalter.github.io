@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4483'
 permalink: /gadget/how-to-access-your-hotmail-account-on-iphone-using-gmail/
-image: /wp-content/uploads/2009/06/gmaillogo.gif
+header:
+  teaser: /assets/images/2009/06/gmaillogo.gif
 ---
 
 ![gmail-logo](/assets/images/2009/06/gmaillogo.gif "gmail-logo") ![hotmail_logo](/assets/images/2009/06/hotmail_logo.gif "hotmail_logo")

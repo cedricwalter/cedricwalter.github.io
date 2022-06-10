@@ -7,7 +7,8 @@ author: 'Cédric Walter'
 guid: 'https://waltercedric.com/new/?p=8619'
 permalink: /internet/google-io-2017-livestream-social-feed/
 tags:
-    - google
+- google
 ---
 
-\#io17 Live Widget for direct access to Google IO 2017 livestream &amp; social feed  <iframe allowfullscreen="" frameborder="0" src="https://events.google.com/io/embed" style="width:875px;height:450px"></iframe>
+\#io17 Live Widget for direct access to Google IO 2017 livestream &amp; social
+feed  <iframe allowfullscreen="" frameborder="0" src="https://events.google.com/io/embed" style="width:875px;height:450px"></iframe>

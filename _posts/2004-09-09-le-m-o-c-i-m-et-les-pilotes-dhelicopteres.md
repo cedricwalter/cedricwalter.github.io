@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=1200'
 permalink: /hobbies/le-m-o-c-i-m-et-les-pilotes-dhelicopteres/
-image: /wp-content/uploads/2004/09/DSC00795.jpg
+header:
+  teaser: /assets/images/2004/09/DSC00795.jpg
 tags:
     - 'Astuces (fr)'
     - caliber

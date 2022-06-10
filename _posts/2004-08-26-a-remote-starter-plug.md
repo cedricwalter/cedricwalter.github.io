@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=155'
 permalink: /hobbies/a-remote-starter-plug/
-image: /wp-content/uploads/2004/08/caliber_remote_glow1.jpg
+header:
+  teaser: /assets/images/2004/08/caliber_remote_glow1.jpg
 tags:
     - flight
     - kyosho

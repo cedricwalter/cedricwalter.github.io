@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4227'
 permalink: /java/boost-eclipse-speed-performances-part-2/
-image: /wp-content/uploads/2008/04/eclipse_home_header_thumb.jpg
+header:
+  teaser: /assets/images/2008/04/eclipse_home_header_thumb.jpg
 tags:
     - background
     - category

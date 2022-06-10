@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4743'
 permalink: /games/countertop-miniature-neo-geo-arcade-cabinet-and-how-to-do-it-yourself/
-image: /wp-content/uploads/2009/10/NeoGeoMiniArcade_thumb.jpg
+header:
+  teaser: /assets/images/2009/10/NeoGeoMiniArcade_thumb.jpg
 tags:
     - arcade
     - Collectibles

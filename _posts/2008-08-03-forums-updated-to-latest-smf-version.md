@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3597'
 permalink: /internet/forums-updated-to-latest-smf-version/
-image: /wp-content/uploads/2008/08/cedric.walter.forums.gif
+header:
+  teaser: /assets/images/2008/08/cedric.walter.forums.gif
 tags:
     - homepage
 ---

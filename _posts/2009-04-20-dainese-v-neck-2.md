@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4271'
 permalink: /motorcycles/dainese-v-neck-2/
-image: /wp-content/uploads/2009/04/DaineseBackSpace3.jpg
+header:
+  teaser: /assets/images/2009/04/DaineseBackSpace3.jpg
 ---
 
 I am going from a Dainese Back Space 3 (140€ on left side) to a Dainese V Neck 2 (340€ on right side)

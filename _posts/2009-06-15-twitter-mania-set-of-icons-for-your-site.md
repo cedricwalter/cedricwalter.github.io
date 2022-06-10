@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4450'
 permalink: /internet/twitter-mania-set-of-icons-for-your-site/
-image: /wp-content/uploads/2009/06/cutetwittersrelease.jpg
+header:
+  teaser: /assets/images/2009/06/cutetwittersrelease.jpg
 tags:
     - internet
     - web

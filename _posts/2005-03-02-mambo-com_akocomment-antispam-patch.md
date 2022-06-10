@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=1595'
 permalink: /joomla/mambo-com_akocomment-antispam-patch/
-image: /wp-content/uploads/2005/03/stopspamming.jpg
+header:
+  teaser: /assets/images/2005/03/stopspamming.jpg
 tags:
     - consuming
     - javascript

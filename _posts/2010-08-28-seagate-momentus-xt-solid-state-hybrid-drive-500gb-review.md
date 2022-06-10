@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=5792'
 permalink: /gadget/seagate-momentus-xt-solid-state-hybrid-drive-500gb-review/
-image: /wp-content/uploads/2010/08/seagate.momentus.xt_.500gb.jpg
+header:
+  teaser: /assets/images/2010/08/seagate.momentus.xt_.500gb.jpg
 tags:
     - model
 ---

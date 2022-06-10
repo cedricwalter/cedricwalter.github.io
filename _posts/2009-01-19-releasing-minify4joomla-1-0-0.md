@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4050'
 permalink: /joomla/releasing-minify4joomla-1-0-0/
-image: /wp-content/uploads/2009/01/minify4joomla.png
+header:
+  teaser: /assets/images/2009/01/minify4joomla.png
 ---
 
 | ![minify4joomla](/assets/images/2009/01/minify4joomla.png) | This is the version 1.0.0.  What does this plugin do?  [More performances for #Joomla! with com\_minify](http://www.waltercedric.com/joomla-mainmenu-247/372-comminify/1457-more-performances-for-joomla-with-comminify.html)  It is working as described at  [Reduce HTTP requests with Minify4Joomla](http://www.waltercedric.com/joomla-mainmenu-247/372-comminify/1462-reduce-http-requests-with-minify4joomla.html)  and in my WIKI:  [http://wiki.waltercedric.com/index.php?title=Com\_minify](http://wiki.waltercedric.com/index.php?title=Com_minify)  Please use the forum **[Minify4Joomla Bugtracker](http://forums.waltercedric.com/index.php?board=53.0)** for bugs and the WIKI if you find any error in the documentation. Thanks |

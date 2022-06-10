@@ -8,7 +8,8 @@ guid: 'https://waltercedric.com/?p=12033'
 permalink: /holidays/australia-kata-tjuta-mount-olga/
 ngg_post_thumbnail:
     - '0'
-image: /wp-content/uploads/2020/03/australia.northern.territory.olga_0077.jpg
+header:
+  teaser: /assets/images/2020/03/australia.northern.territory.olga_0077.jpg
 tags:
     - Australia
     - holidays

@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4467'
 permalink: /development/jazoon-2009-international-conference-on-java-technology/
-image: /wp-content/uploads/2009/06/jazoonlogo.gif
+header:
+  teaser: /assets/images/2009/06/jazoonlogo.gif
 tags:
     - java
 ---

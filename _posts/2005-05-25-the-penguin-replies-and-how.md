@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=1763'
 permalink: /open-source/the-penguin-replies-and-how/
-image: /wp-content/uploads/2005/05/penguinComputingr.jpg
+header:
+  teaser: /assets/images/2005/05/penguinComputingr.jpg
 tags:
     - comments
     - interview

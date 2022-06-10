@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=8726'
 permalink: /games/neogeo-mini-announced-for-the-40th-anniversary-of-the-snk-brand/
-image: /wp-content/uploads/2018/05/neogeo-mini-japanese-1.jpg
+header:
+  teaser: /assets/images/2018/05/neogeo-mini-japanese-1.jpg
 tags:
     - arcade
     - Collectibles

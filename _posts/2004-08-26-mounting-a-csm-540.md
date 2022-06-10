@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=129'
 permalink: /hobbies/mounting-a-csm-540/
-image: /wp-content/uploads/2004/08/insideCaliberCanopy.jpg
+header:
+  teaser: /assets/images/2004/08/insideCaliberCanopy.jpg
 tags:
     - battery
     - kyosho

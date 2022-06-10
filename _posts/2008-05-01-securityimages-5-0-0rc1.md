@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3435'
 permalink: /joomla/securityimages-5-0-0rc1/
-image: /wp-content/uploads/2008/04/com_securityimages_thumb.png
+header:
+  teaser: /assets/images/2008/04/com_securityimages_thumb.png
 ---
 
 | [![com_securityimages](/assets/images/2008/04/com_securityimages_thumb.png)](/assets/images/2008/05/com_securityimages.png) | Thanks to the feedback from my [forum](http://forums.waltercedric.com), I am happy to offer you SecurityImages 5.0.0RC1, which I hope is now bug free. A big documenting effort is now starting in my WIKI (wiki.waltercedric.com) in the new section    <http://wiki.waltercedric.com/index.php?title=SecurityImages5.0.X>  Writing articles there has never been easier thank to a WYSIWYG editor. Feel free to extend the documentation there. |

@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=1015'
 permalink: /hobbies/for-transmitter/
-image: /wp-content/uploads/2004/09/TN_FUTAM.JPG
+header:
+  teaser: /assets/images/2004/09/TN_FUTAM.JPG
 tags:
     - electronic
     - 'RC helicopter'

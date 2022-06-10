@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=5069'
 permalink: /development/limit-number-of-snapshots-artifacts-stored-in-artifactory/
-image: /wp-content/uploads/2010/03/maven-logo-2.gif_3_3.jpg
+header:
+  teaser: /assets/images/2010/03/maven-logo-2.gif_3_3.jpg
 tags:
     - number
     - time

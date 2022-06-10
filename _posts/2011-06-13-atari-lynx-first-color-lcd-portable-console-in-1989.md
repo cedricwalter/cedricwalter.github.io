@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=6877'
 permalink: /games/atari-lynx-first-color-lcd-portable-console-in-1989/
-image: /wp-content/uploads/2011/06/atari_lynx_portable_console_00_thumb.jpg
+header:
+  teaser: /assets/images/2011/06/atari_lynx_portable_console_00_thumb.jpg
 tags:
     - atari
     - color

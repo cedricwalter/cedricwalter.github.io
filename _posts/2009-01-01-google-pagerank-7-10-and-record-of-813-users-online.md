@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4017'
 permalink: /internet/google-pagerank-7-10-and-record-of-813-users-online/
-image: /wp-content/uploads/2009/01/pagerank.of_.7.png
+header:
+  teaser: /assets/images/2009/01/pagerank.of_.7.png
 tags:
     - homepage
 ---

@@ -7,24 +7,26 @@ author: 'Cédric Walter'
 guid: 'https://waltercedric.com/new/?p=7458'
 permalink: /linux/restrictive-iptables-based-firewall-for-webserver-script/
 tags:
-    - bash
-    - block
-    - clear
-    - copy
-    - copyright
-    - create
-    - credits
-    - details
-    - distributed
-    - distribution
-    - dont
-    - established
-    - linux
-    - security
-    - shell
+- bash
+- block
+- clear
+- copy
+- copyright
+- create
+- credits
+- details
+- distributed
+- distribution
+- dont
+- established
+- linux
+- security
+- shell
 ---
 
-![](/assets/images/2012/01/linux.png)This script is working on all #Linux standard distribution, but use at your own risk! The script has been made to automated the creation of [iptables](http://www.netfilter.org/) rules. There is an easy to use menu as well
+![](/assets/images/2012/01/linux.png)This script is working on all #Linux standard distribution, but use at your own
+risk! The script has been made to automated the creation of [iptables](http://www.netfilter.org/) rules. There is an
+easy to use menu as well
 
 ```
 root:~# ./firewall.sh  Firewall script by www.waltercedric.com   Credits to all various authors - GNU/GPL 3.0 Script   Choose one of the following options:  [N]ew firewall rules [C]lear all firewall rules [T]est firewall rules [S]ave firewall rules to /etc/network/iptables [E]xit
@@ -44,7 +46,7 @@ To use it, just edit the file firewall.sh and change the variables.
 
 The file is available as a Gist <https://gist.github.com/1690823>
 
-```
+```bash
 #!/bin/bash
 
 # Restrictive Iptables Based Firewall for Webserver script 

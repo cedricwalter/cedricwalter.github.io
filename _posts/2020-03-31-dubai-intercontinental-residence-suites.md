@@ -8,7 +8,8 @@ guid: 'https://waltercedric.com/?p=11874'
 permalink: /holidays/dubai-intercontinental-residence-suites/
 ngg_post_thumbnail:
     - '0'
-image: /wp-content/uploads/2020/03/InterContinental-Residence-Suites-Dubai-18.jpg
+header:
+  teaser: /assets/images/2020/03/InterContinental-Residence-Suites-Dubai-18.jpg
 tags:
     - holidays
     - travel

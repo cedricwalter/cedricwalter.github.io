@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4831'
 permalink: /gadget/adrenaline-rush/
-image: /wp-content/uploads/2009/10/adrenaline.rush_.png
+header:
+  teaser: /assets/images/2009/10/adrenaline.rush_.png
 ---
 
 Experience HD video as professional skydivers leap from breath-taking heights. These daring souls share the adrenaline Rush.

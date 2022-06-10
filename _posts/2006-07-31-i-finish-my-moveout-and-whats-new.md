@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2667'
 permalink: /homepage/i-finish-my-moveout-and-whats-new/
-image: /wp-content/uploads/2020/04/susten-pass-switzerland-12.jpg
+header:
+  teaser: /assets/images/2020/04/susten-pass-switzerland-12.jpg
 tags:
     - Zurich
 ---
@@ -34,5 +35,5 @@ For any questions related to my components, I suggest You to use the new forums 
 
 Currently, I am looking for a projections screen: dalite, cinescreen (stewart are too pricey in 300x 169cm).
 
-The contact page<span style="font-weight: bold;"> is working NOW, but please also use the forum, if You think that Your question may also help others (help the community :-)).  
+The contact page is working NOW, but please also use the forum, if You think that Your question may also help others (help the community :-)).  
 Thanks You for visiting my homepage.

@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=6544'
 permalink: /games/nintendo-64-pikachu/
-image: /wp-content/uploads/2011/02/IMG_3225_thumb.jpg
+header:
+  teaser: /assets/images/2011/02/IMG_3225_thumb.jpg
 tags:
     - console
     - games

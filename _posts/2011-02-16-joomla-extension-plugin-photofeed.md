@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=6533'
 permalink: /joomla/joomla-extension-plugin-photofeed/
-image: /wp-content/uploads/2011/02/photofeed.joomla.1.5_thumb3_thumb.png
+header:
+  teaser: /assets/images/2011/02/photofeed.joomla.1.5_thumb3_thumb.png
 tags:
     - browser
     - joomla

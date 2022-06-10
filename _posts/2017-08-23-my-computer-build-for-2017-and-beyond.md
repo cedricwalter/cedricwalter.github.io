@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=8652'
 permalink: /gadget/my-computer-build-for-2017-and-beyond/
-image: /wp-content/uploads/2020/04/amd-threadripper-ryzen-2.jpg
+header:
+  teaser: /assets/images/2020/04/amd-threadripper-ryzen-2.jpg
 ---
 
 I am going first air cooling for now, but keeping an eye on ThermalTake 360/480 LT…

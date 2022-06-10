@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=887'
 permalink: /hobbies/csm-10-16-the-most-accurate-simulator/
-image: /wp-content/uploads/2004/09/s-l1600-1.jpg
+header:
+  teaser: /assets/images/2004/09/s-l1600-1.jpg
 tags:
     - checked
     - click

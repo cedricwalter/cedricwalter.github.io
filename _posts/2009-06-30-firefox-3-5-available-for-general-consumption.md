@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4492'
 permalink: /open-source/firefox-3-5-available-for-general-consumption/
-image: /wp-content/uploads/2009/06/firefox.3.5.png
+header:
+  teaser: /assets/images/2009/06/firefox.3.5.png
 ---
 
 [![firefox.3.5](/assets/images/2009/06/firefox.3.5.png "firefox.3.5")](http://www.mozilla.com/en-US/)

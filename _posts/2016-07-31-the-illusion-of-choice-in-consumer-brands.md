@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=8535'
 permalink: /today-on-earth/the-illusion-of-choice-in-consumer-brands/
-image: /wp-content/uploads/2016/07/consumer-brands-infographic_thumb.jpg
+header:
+  teaser: /assets/images/2016/07/consumer-brands-infographic_thumb.jpg
 tags:
     - brand
 ---

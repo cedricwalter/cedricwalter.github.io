@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=8644'
 permalink: /today-on-earth/anne-walter-4-avril-1941-mardi-27-juin-2017/
-image: /wp-content/uploads/2017/07/tata-anne-walter.jpg
+header:
+  teaser: /assets/images/2017/07/tata-anne-walter.jpg
 ---
 
 Au soir du mardi 27 Juin 2017 s’est endormi paisiblement ma chère marraine Anne Walter à l’[Alters- und Pflegeheim Johanniter](https://www.google.ch/url?sa=t&rct=j&url=http%3A%2F%2Fwww.aph-johanniter.ch%2F&source=maps&ei=hO9cWaLeDsWTaZaKpbAH%3A17&cd=1&usg=AFQjCNHt6TLsHrFeuhEPdGeS_UWAXYrmYA&ved=1i%3A1%2Ct%3A3443%2Ce%3A0%2Cp%3AhO9cWaLeDsWTaZaKpbAH%3A17) – Mülhauserstrasse 35, 4056 Basel

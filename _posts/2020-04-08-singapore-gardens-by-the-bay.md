@@ -8,7 +8,8 @@ guid: 'https://waltercedric.com/?p=12663'
 permalink: /holidays/singapore-gardens-by-the-bay/
 ngg_post_thumbnail:
     - '0'
-image: /wp-content/uploads/2020/04/Singapore-Gardens-by-the-Bay-1.jpg
+header:
+  teaser: /assets/images/2020/04/Singapore-Gardens-by-the-Bay-1.jpg
 tags:
     - asia
     - holidays

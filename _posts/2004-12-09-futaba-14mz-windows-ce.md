@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=1436'
 permalink: /hobbies/futaba-14mz-windows-ce/
-image: /wp-content/uploads/2004/12/futaba14MZ.jpg
+header:
+  teaser: /assets/images/2004/12/futaba14MZ.jpg
 tags:
     - electronic
     - 'RC helicopter'

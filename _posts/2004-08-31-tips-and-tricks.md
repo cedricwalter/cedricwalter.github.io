@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=549'
 permalink: /java/tips-and-tricks/
-image: /wp-content/uploads/2004/08/construction.gif
+header:
+  teaser: /assets/images/2004/08/construction.gif
 tags:
     - directory
 ---

@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4025'
 permalink: /development/mysql-tuning-with-mysqlreport/
-image: /wp-content/uploads/2009/01/mysql.logo_thumb.png
+header:
+  teaser: /assets/images/2009/01/mysql.logo_thumb.png
 tags:
     - database
     - MySQL

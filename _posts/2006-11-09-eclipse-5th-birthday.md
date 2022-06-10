@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2751'
 permalink: /java/eclipse-5th-birthday/
-image: /wp-content/uploads/2006/11/java.eclipse.5th.birthday.jpg
+header:
+  teaser: /assets/images/2006/11/java.eclipse.5th.birthday.jpg
 tags:
     - eclipse
     - java

@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=1409'
 permalink: /holidays/visiting-italy-portovenere/
-image: /wp-content/uploads/2020/04/italy-portovenere-06.jpg
+header:
+  teaser: /assets/images/2020/04/italy-portovenere-06.jpg
 tags:
     - beautiful
     - holidays

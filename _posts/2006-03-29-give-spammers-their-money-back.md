@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2401'
 permalink: /joomla/give-spammers-their-money-back/
-image: /wp-content/uploads/2006/03/spammers.jpg
+header:
+  teaser: /assets/images/2006/03/spammers.jpg
 tags:
     - comments
     - homepage
@@ -19,4 +20,3 @@ Example: someone has posted in my guestbook the following "thanks you for such a
 
 I wish everyone is doing the same, be really cautious! A lot of people only want to increase their ranking in Google!
 
-{mosgoogle center}

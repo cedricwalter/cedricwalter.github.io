@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4339'
 permalink: /internet/searching-a-new-design-for-your-internet-presence/
-image: /wp-content/uploads/2009/05/showcase.jpg
+header:
+  teaser: /assets/images/2009/05/showcase.jpg
 tags:
     - internet
     - web

@@ -12,8 +12,8 @@ tags:
 ---
 
 As state by [Xbox-scene.com](http://www.xbox-scene.com/xbox1data/sep/EEuypkFVVEXpnwBcjT.php)  
-<span class="font"><span style="font-style: italic;">The hack is a modified firmware of the (original) Xbox Samsung SDG-605B/616T/616F DVD-ROM drive.  
-<span style="font-style: italic;">As you (should) know, all Xbox executables (XBE files) are signed by Microsoft (with a private key only MS has). This means that if you try to change anything to the XBE file, the signature will be wrong and the file will not boot.  
+<span class="font">The hack is a modified firmware of the (original) Xbox Samsung SDG-605B/616T/616F DVD-ROM drive.  
+As you (should) know, all Xbox executables (XBE files) are signed by Microsoft (with a private key only MS has). This means that if you try to change anything to the XBE file, the signature will be wrong and the file will not boot.  
 You will need to combine this hack with   
 
 

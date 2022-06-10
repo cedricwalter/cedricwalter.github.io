@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=8037'
 permalink: /games/neogeo-x-gold-entertainment-system-review/
-image: /wp-content/uploads/2013/05/NeoGeoXGoldEntertainmentSystem-0005_thumb.jpg
+header:
+  teaser: /assets/images/2013/05/NeoGeoXGoldEntertainmentSystem-0005_thumb.jpg
 tags:
     - arcade
     - box

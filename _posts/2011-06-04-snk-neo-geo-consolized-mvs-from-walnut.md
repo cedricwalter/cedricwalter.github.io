@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=6810'
 permalink: /games/snk-neo-geo-consolized-mvs-from-walnut/
-image: /wp-content/uploads/2011/06/neo_geo_mvs_from_walnut_00_thumb.jpg
+header:
+  teaser: /assets/images/2011/06/neo_geo_mvs_from_walnut_00_thumb.jpg
 tags:
     - games
     - geo

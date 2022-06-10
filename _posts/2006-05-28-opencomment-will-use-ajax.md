@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2629'
 permalink: /joomla/opencomment-will-use-ajax/
-image: /wp-content/uploads/2006/03/opencomment.jpg
+header:
+  teaser: /assets/images/2006/03/opencomment.jpg
 tags:
     - joomla
 ---
@@ -15,9 +16,9 @@ tags:
 | ![](/assets/images/2006/03/opencomment.jpg) | I am restarting the development of OpenComment, and found that the existing code wont be practical without using AJAX. That’s why I am now integrating AJAX in openComment where it make sense: - Comments rating, - Comments filtering, - Administration function. |
 |---|---|
 
-After looking on the market which framework can help me to achieve these goals, I found [<span style="font-weight: bold;">xajax 0.2.4](http://www.xajaxproject.org/)
+After looking on the market which framework can help me to achieve these goals, I found [xajax 0.2.4](http://www.xajaxproject.org/)
 
-<span class="logo" style="font-style: italic;">xajax<span style="font-style: italic;"> is an open source PHP class library that allows you to easily create powerful, web-based, AJAX applications using HTML, CSS, #JavaScript, and PHP. Applications developed with xajax can asynchronously call server-side PHP functions and update content *without reloading the page*<span style="font-style: italic;">.
+<span class="logo" style="font-style: italic;">xajax is an open source PHP class library that allows you to easily create powerful, web-based, AJAX applications using HTML, CSS, #JavaScript, and PHP. Applications developed with xajax can asynchronously call server-side PHP functions and update content *without reloading the page*.
 
  # how"></a>
 

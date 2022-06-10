@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=1253'
 permalink: /scooter/beltomatic-motor-drawning/
-image: /wp-content/uploads/2004/10/beltomatic.png
+header:
+  teaser: /assets/images/2004/10/beltomatic.png"
 ---
 
-<span style="font-weight: bold;">thanks to Bertjan Marree…  ![](/assets/images/2004/10/beltomatic.png)
+thanks to Bertjan Marree…  ![](/assets/images/2004/10/beltomatic.png)

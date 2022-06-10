@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4071'
 permalink: /open-source/how-to-try-the-latest-android-public-repository-codename-cupcake/
-image: /wp-content/uploads/2009/01/500pxandroidlogo_svg_thumb.png
+header:
+  teaser: /assets/images/2009/01/500pxandroidlogo_svg_thumb.png
 tags:
     - android
     - google

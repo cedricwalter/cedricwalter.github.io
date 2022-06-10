@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3169'
 permalink: /holidays/the-bridge-climb-is-the-most-sought-after-sydney-attraction/
-image: /wp-content/uploads/2007/12/cedricwalter-bridge-climb-sydney-2.jpg
+header:
+  teaser: /assets/images/2007/12/cedricwalter-bridge-climb-sydney-2.jpg
 tags:
     - Australia
     - days

@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4055'
 permalink: /development/setting-up-your-workstation-for-joomla-development/
-image: /wp-content/uploads/2009/01/cbd7cd432a0d4021a726ab0fb5f746a5.jpg
+header:
+  teaser: /assets/images/2009/01/cbd7cd432a0d4021a726ab0fb5f746a5.jpg
 tags:
     - apache
     - code

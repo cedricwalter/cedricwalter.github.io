@@ -8,7 +8,8 @@ guid: 'https://waltercedric.com/?p=12683'
 permalink: /holidays/singapore-flower-dome/
 ngg_post_thumbnail:
     - '0'
-image: /wp-content/uploads/2020/04/Singapore-Flower-Dome-8.jpg
+header:
+  teaser: /assets/images/2020/04/Singapore-Flower-Dome-8.jpg
 tags:
     - holidays
     - singapore

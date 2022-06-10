@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2508'
 permalink: /linux/tux-issue-13-now-available/
-image: /wp-content/uploads/2006/05/tux13_cover_250x187.png
+header:
+  teaser: /assets/images/2006/05/tux13_cover_250x187.png
 tags:
     - OpenSuse
 ---

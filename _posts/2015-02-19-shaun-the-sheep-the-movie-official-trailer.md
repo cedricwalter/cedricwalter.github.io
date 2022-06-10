@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=8264'
 permalink: /hobbies/shaun-the-sheep-the-movie-official-trailer/
-image: /wp-content/uploads/2015/02/shaun_gallerie_01.jpg
+header:
+  teaser: /assets/images/2015/02/shaun_gallerie_01.jpg
 ---
 
 The creators of Wallace &amp; Gromit and Chicken Run, Shaun the Sheep The Movie is coming to cinemas worldwide in 2015! In this new trailer, watch more of Shaun and The Flock’s hilarious adventures in the Big City as they search for the missing Farmer! Click here for International release dates: : <http://shaunthesheep.com/release-dates>

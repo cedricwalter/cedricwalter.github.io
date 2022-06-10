@@ -12,9 +12,9 @@ tags:
     - microsoft
 ---
 
-<span style="font-weight: bold;"> Microsoft FUD by Steve Ballmer  
+ Microsoft FUD by Steve Ballmer  
 [ http://www.microsoft.com/mscorp/execmail/](%20http://www.microsoft.com/mscorp/execmail/)  
-<span style="font-weight: bold;"> and response from Novell SUSE:  
+ and response from Novell SUSE:  
 [ http://www.suse.com/us/company/press/press\_releases/archive04/response.html](%20http://www.suse.com/us/company/press/press_releases/archive04/response.html)  
  So lets summarize
 

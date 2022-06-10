@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=101'
 permalink: /hobbies/stiffen-the-head/
-image: /wp-content/uploads/2004/08/rubberTubeStiffenHead.gif
+header:
+  teaser: /assets/images/2004/08/rubberTubeStiffenHead.gif
 tags:
     - kyosho
     - 'RC helicopter'

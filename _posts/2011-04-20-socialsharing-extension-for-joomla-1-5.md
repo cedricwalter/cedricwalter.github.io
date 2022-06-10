@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=6624'
 permalink: /joomla/socialsharing-extension-for-joomla-1-5/
-image: /wp-content/uploads/2011/04/joomla_socialsharing_logo_thumb.png
+header:
+  teaser: /assets/images/2011/04/joomla_socialsharing_logo_thumb.png
 tags:
     - extension
     - joomla

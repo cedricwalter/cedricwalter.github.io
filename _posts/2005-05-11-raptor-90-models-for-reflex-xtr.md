@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=1719'
 permalink: /hobbies/raptor-90-models-for-reflex-xtr/
-image: /wp-content/uploads/2005/05/raptor90_XTR.jpg
+header:
+  teaser: /assets/images/2005/05/raptor90_XTR.jpg
 tags:
     - 'RC helicopter'
     - simulator

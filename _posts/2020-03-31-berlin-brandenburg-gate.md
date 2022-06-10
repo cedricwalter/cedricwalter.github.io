@@ -8,7 +8,8 @@ guid: 'https://waltercedric.com/?p=11821'
 permalink: /holidays/berlin-brandenburg-gate/
 ngg_post_thumbnail:
     - '0'
-image: /wp-content/uploads/2020/03/Berlin-Brandenburg-Gate-1.jpg
+header:
+  teaser: /assets/images/2020/03/Berlin-Brandenburg-Gate-1.jpg
 tags:
     - berlin
     - germany

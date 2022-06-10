@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=761'
 permalink: /hobbies/building-a-new-frame/
-image: /wp-content/uploads/2004/09/1000-0415.gif
+header:
+  teaser: /assets/images/2004/09/1000-0415.gif
 tags:
     - electronic
 ---

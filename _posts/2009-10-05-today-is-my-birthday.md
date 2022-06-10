@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4746'
 permalink: /homepage/today-is-my-birthday/
-image: /wp-content/uploads/2009/10/happy.birthday_thumb.jpg
+header:
+  teaser: /assets/images/2009/10/happy.birthday_thumb.jpg
 ---
 
 [![happy.birthday](/assets/images/2009/10/happy.birthday_thumb.jpg "happy.birthday")](/assets/images/2009/10/happy.birthday.jpg) Forget to post an happy birthday on Saturday 3rd October, I am now 36 years old!

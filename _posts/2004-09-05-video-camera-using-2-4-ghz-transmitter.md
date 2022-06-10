@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=1028'
 permalink: /hobbies/video-camera-using-2-4-ghz-transmitter/
-image: /wp-content/uploads/2004/09/boite.jpg
+header:
+  teaser: /assets/images/2004/09/boite.jpg
 tags:
     - electronic
     - 'RC helicopter'

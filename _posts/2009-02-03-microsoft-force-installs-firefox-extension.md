@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4081'
 permalink: /software/microsoft-force-installs-firefox-extension/
-image: /wp-content/uploads/2009/02/firefox.eat_.internetexplorer.gif
+header:
+  teaser: /assets/images/2009/02/firefox.eat_.internetexplorer.gif
 ---
 
 ## And alter the user-agent of Firefox!

@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=1891'
 permalink: /internet/google-toolbar-soon-for-firefox/
-image: /wp-content/uploads/2005/07/googleToolbar.gif
+header:
+  teaser: /assets/images/2005/07/googleToolbar.gif
 tags:
     - developed
     - extensions

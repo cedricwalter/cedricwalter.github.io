@@ -19,11 +19,11 @@ tags:
 
  **All MySQL tables are myISAM** (table locking instead of row loacking in innodb, myIsam make sense as ther is more read then insert)
 
- <span style="font-family: courier new,courier">\# vi in /etc/my.cnf
+ \# vi in /etc/my.cnf
 
  Below the diff command between a standard MySQL install
 
- <span style="font-family: courier new,courier">\# diff my.cnf my-beforeOptimizations.cnf  
+ \# diff my.cnf my-beforeOptimizations.cnf  
 ```
  < key\_buffer = 50M  
  —  

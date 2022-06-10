@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=5972'
 permalink: /joomla/joomla-1-5-new-extension-for-smugmug-gallery/
-image: /wp-content/uploads/2010/09/smugmug.logo_.jpg
+header:
+  teaser: /assets/images/2010/09/smugmug.logo_.jpg
 tags:
     - joomla
 ---

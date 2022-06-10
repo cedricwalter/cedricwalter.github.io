@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=6753'
 permalink: /games/merlin-the-electronic-wizard-by-parker-brothers/
-image: /wp-content/uploads/2011/06/Merlin_the_Electronic_Wizard0.jpg
+header:
+  teaser: /assets/images/2011/06/Merlin_the_Electronic_Wizard0.jpg
 tags:
     - electronic
     - games

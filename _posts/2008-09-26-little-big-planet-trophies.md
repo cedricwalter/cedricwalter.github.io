@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3854'
 permalink: /games/little-big-planet-trophies/
-image: /wp-content/uploads/2008/09/littlebigplanet_thumb.jpg
+header:
+  teaser: /assets/images/2008/09/littlebigplanet_thumb.jpg
 ---
 
 All in all, there are 48 trophies (PS3 reward system) for Little Big Planet

@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2472'
 permalink: /open-source/u-s-governments-advised-to-use-open-source/
-image: /wp-content/uploads/2006/04/opensource.jpg
+header:
+  teaser: /assets/images/2006/04/opensource.jpg
 tags:
     - opensource
     - supporting

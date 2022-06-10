@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3181'
 permalink: /internet/new-gallery-at-smugmug-com/
-image: /wp-content/uploads/2008/02/smugmug.gif
+header:
+  teaser: /assets/images/2008/02/smugmug.gif
 tags:
     - homepage
     - 'My Homepage'

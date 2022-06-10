@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=1949'
 permalink: /internet/you-live-in-seattle-and-take-the-bus/
-image: /wp-content/uploads/2005/07/busmonster-using-google-maps.jpg
+header:
+  teaser: /assets/images/2005/07/busmonster-using-google-maps.jpg
 tags:
     - google
     - individuals

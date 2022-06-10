@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3034'
 permalink: /internet/youtube-scalability-talk/
-image: /wp-content/uploads/2007/07/youtube-logo.jpg
+header:
+  teaser: /assets/images/2007/07/youtube-logo.jpg
 tags:
     - faster
     - optimization

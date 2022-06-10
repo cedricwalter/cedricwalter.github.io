@@ -10,8 +10,8 @@ permalink: /today-on-earth/demi-lovato-on-vevo-x/
 
 #### Demi Lovato – Sorry Not Sorry (Vevo X Demi Lovato)
 
- <iframe allowfullscreen="" frameborder="0" height="315" loading="lazy" src="https://www.youtube.com/embed/gLj21uNEzqA" width="560"></iframe>
+<iframe allowfullscreen="" frameborder="0" height="315" loading="lazy" src="https://www.youtube.com/embed/gLj21uNEzqA" width="560"></iframe>
 
 #### Demi Lovato – Tell Me You Love Me (Vevo X Demi Lovato)
 
- <iframe allowfullscreen="" frameborder="0" height="315" loading="lazy" src="https://www.youtube.com/embed/4QwRk4Hjzq8" width="560"></iframe>
+<iframe allowfullscreen="" frameborder="0" height="315" loading="lazy" src="https://www.youtube.com/embed/4QwRk4Hjzq8" width="560"></iframe>

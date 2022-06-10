@@ -10,5 +10,5 @@ tags:
     - Robotic
 ---
 
-<span style="font-style: italic;">Wowwee Robotics has a nice booth set up here at the Sands Convention Center with all kinds of new robotic goodies. Three new robots are debuting this year: the P.E.A. BOT, the RS Media, and the Roboreptile.  
+Wowwee Robotics has a nice booth set up here at the Sands Convention Center with all kinds of new robotic goodies. Three new robots are debuting this year: the P.E.A. BOT, the RS Media, and the Roboreptile.  
 [Read more here](http://www.gizmodo.com/gadgets/ces/live-from-ces-robosapien-roundup-147166.php)

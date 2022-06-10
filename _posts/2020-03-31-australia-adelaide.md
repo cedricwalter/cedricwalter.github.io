@@ -8,7 +8,8 @@ guid: 'https://waltercedric.com/?p=12141'
 permalink: /holidays/australia-adelaide/
 ngg_post_thumbnail:
     - '0'
-image: /wp-content/uploads/2020/03/australia.southaustralia.adelaide_0164.jpg
+header:
+  teaser: /assets/images/2020/03/australia.southaustralia.adelaide_0164.jpg
 tags:
     - adelaide
     - Australia

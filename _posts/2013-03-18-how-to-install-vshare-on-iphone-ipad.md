@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=7971'
 permalink: /gadget/how-to-install-vshare-on-iphone-ipad/
-image: /wp-content/uploads/2013/03/vshare.png
+header:
+  teaser: /assets/images/2013/03/vshare.png
 ---
 
 ![vshare](/assets/images/2013/03/vshare.png "vshare")

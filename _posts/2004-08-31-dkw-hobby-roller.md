@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=468'
 permalink: /scooter/dkw-hobby-roller/
-image: /wp-content/uploads/2004/08/manurhin25082003.jpg
+header:
+  teaser: /assets/images/2004/08/manurhin25082003.jpg
 tags:
     - scooter
     - scooters

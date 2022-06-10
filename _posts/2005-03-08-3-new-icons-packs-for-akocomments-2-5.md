@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=1611'
 permalink: /joomla/3-new-icons-packs-for-akocomments-2-5/
-image: /wp-content/uploads/2005/03/Armataz_02.gif
+header:
+  teaser: /assets/images/2005/03/Armataz_02.gif
 tags:
     - developed
     - environment

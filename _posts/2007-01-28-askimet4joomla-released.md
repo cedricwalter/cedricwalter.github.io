@@ -14,16 +14,16 @@ tags:
 
  This component wouldn’t exist without these developer, as I use their portable PHP engine:
 
-- <span style="font-weight: bold;">Askimet PHP4: author Alex Potsides (converted to PHP4 by Bret Kuhns) [http://www.achingbrain.net ](http://www.achingbrain.net/)
-- <span style="font-weight: bold;">Askimet PHP5: author Alex Potsides <http://www.achingbrain.net/>
+-Askimet PHP4: author Alex Potsides (converted to PHP4 by Bret Kuhns) [http://www.achingbrain.net ](http://www.achingbrain.net/)
+-Askimet PHP5: author Alex Potsides <http://www.achingbrain.net/>
 
- <big><span style="font-weight: bold;">How it work?</big>  
+ <big>How it work?</big>  
  When a new comment, trackback, or pingback comes to your blog it is submitted to the [Akismet](http://akismet.com/) web service which runs hundreds of tests on the comment and returns a thumbs up or thumbs down.  
  Read [Akismet](http://akismet.com/) site for more details
 
- <big><span style="font-weight: bold;">What does this component do?</big>
+ <big>What does this component do?</big>
 
-<span style="color: rgb(255, 0, 0); font-weight: bold;"> This Joomla! component is UNUSABLE alone: other components HAVE TO USE IT. Consider this component as a Framework. It help other developers integrate [Akismet](http://akismet.com/)<span style="color: rgb(255, 0, 0); font-weight: bold;"> in their code. OpenComment will be the first component to use it.
+ This Joomla! component is UNUSABLE alone: other components HAVE TO USE IT. Consider this component as a Framework. It help other developers integrate [Akismet](http://akismet.com/) in their code. OpenComment will be the first component to use it.
 
  [Extract for Askimet FAQ](http://akismet.com/faq/)
 

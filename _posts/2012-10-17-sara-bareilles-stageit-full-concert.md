@@ -10,9 +10,13 @@ permalink: /today-on-earth/sara-bareilles-stageit-full-concert/
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" height="315" loading="lazy" src="https://www.youtube.com/embed/6hPf8YICxDU" width="560"></iframe>
 
-51 minutes of pure joy! Thanks you [Sara Bareilles](https://twitter.com/SaraBareilles "Sara Bareilles on Twitter")!!! Listening to this on my Grado Sr-325 headphones is pure magic!
+51 minutes of pure joy! Thanks you [Sara Bareilles](https://twitter.com/SaraBareilles "Sara Bareilles on Twitter")!!!
+Listening to this on my Grado Sr-325 headphones is pure magic!
 
-On 9/10/12, [Sara Bareilles](https://twitter.com/SaraBareilles "Sara Bareilles on Twitter") played an online concert hosted by Stageit.com in order to raise money for an organization called Playing For Change <http://playingforchange.org> . Link to the organization with be posted below. All song rights and credits goes to [Sara Bareilles](https://twitter.com/SaraBareilles "Sara Bareilles on Twitter") and her respective label.
+On 9/10/12, [Sara Bareilles](https://twitter.com/SaraBareilles "Sara Bareilles on Twitter") played an online concert
+hosted by Stageit.com in order to raise money for an organization called Playing For
+Change <http://playingforchange.org> . Link to the organization with be posted below. All song rights and credits goes
+to [Sara Bareilles](https://twitter.com/SaraBareilles "Sara Bareilles on Twitter") and her respective label.
 
 - Playing for Change @ 4:34
 - Bright Lights and Cityscapes @ 9:45﻿

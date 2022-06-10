@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=7334'
 permalink: /java/instasearch-bring-apache-lucene-search-power-to-eclipse/
-image: /wp-content/uploads/2011/12/eclipse_instasearch_thumb.png
+header:
+  teaser: /assets/images/2011/12/eclipse_instasearch_thumb.png
 tags:
     - java
 ---

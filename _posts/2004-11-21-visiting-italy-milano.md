@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=1383'
 permalink: /holidays/visiting-italy-milano/
-image: /wp-content/uploads/2020/04/milano-la-scala.jpg
+header:
+  teaser: /assets/images/2020/04/milano-la-scala.jpg
 tags:
     - europe
     - holidays
@@ -58,7 +59,7 @@ of the basilica
 
 <iframe class="uagb-google-map__iframe" src="https://www.google.com/maps/embed/v1/place?key=AIzaSyAsd_d46higiozY-zNqtr7zdA81Soswje4&q=La%20Scala%20de%20Milan&zoom=12" style="height:300px" title="Google Map for La Scala de Milan"></iframe>![](/assets/images/2020/04/milano-la-scala.jpg)<span style="font-size: x-large;">**Planetarium**
 
-<span style="font-size: medium;">The planetarium, which is one of the most-renowned in Europe
+The planetarium, which is one of the most-renowned in Europe
 
 - [![](/assets/images/2020/04/milano-planetarium2.jpg)](/assets/images/2020/04/milano-planetarium2.jpg)
 - [![](/assets/images/2020/04/milano-planetarium1.jpg)](/assets/images/2020/04/milano-planetarium1.jpg)

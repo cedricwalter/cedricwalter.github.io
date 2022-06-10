@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2209'
 permalink: /internet/captcha-for-wikimedia-as-extension/
-image: /wp-content/uploads/2005/12/mediawiki.png
+header:
+  teaser: /assets/images/2005/12/mediawiki.png
 tags:
     - development
     - homepage

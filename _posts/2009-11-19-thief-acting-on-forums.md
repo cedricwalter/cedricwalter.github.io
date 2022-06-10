@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4882'
 permalink: /security/thief-acting-on-forums/
-image: /wp-content/uploads/2009/11/thief_5.jpg
+header:
+  teaser: /assets/images/2009/11/thief_5.jpg
 tags:
     - two
 ---

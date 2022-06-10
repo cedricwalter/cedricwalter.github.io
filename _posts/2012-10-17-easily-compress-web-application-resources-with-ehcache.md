@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=7810'
 permalink: /development/easily-compress-web-application-resources-with-ehcache/
-image: /wp-content/uploads/2012/01/Nginx-logo.png
+header:
+  teaser: /assets/images/2012/01/Nginx-logo.png
 tags:
     - apache
     - java

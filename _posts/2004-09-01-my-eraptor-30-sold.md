@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=813'
 permalink: /hobbies/my-eraptor-30-sold/
-image: /wp-content/uploads/2004/09/eRaptor_2004.03.05_000.jpg
+header:
+  teaser: /assets/images/2004/09/eRaptor_2004.03.05_000.jpg
 tags:
     - about
     - availability

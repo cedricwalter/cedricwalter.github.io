@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4057'
 permalink: /development/site-optimization-its-all-about-your-image-size-and-format/
-image: /wp-content/uploads/2009/01/59fa8fddd7c248c78d85f30be2f91fa3.jpg
+header:
+  teaser: /assets/images/2009/01/59fa8fddd7c248c78d85f30be2f91fa3.jpg
 ---
 
 I really like this small [Firefox extension Smushit](http://www.smushit.com/firefox/smush-0.5.xpi) as it allow to quickly check if all my images are optimized for the best size and thus speed of rendering. But wait [IE/Opera/Chrome can still use this bookmarlet 🙂](//smush.it/bookmarklet.js';document.getElementsByTagName('head')[0].appendChild(s);})()) to optimize the images found on any web page!

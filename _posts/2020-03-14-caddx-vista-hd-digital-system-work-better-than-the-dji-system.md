@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://www.waltercedric.com/?p=10083'
 permalink: /hobbies/caddx-vista-hd-digital-system-work-better-than-the-dji-system/
-image: /wp-content/uploads/2020/03/caddx-vista-hd-digital.jpg
+header:
+  teaser: /assets/images/2020/03/caddx-vista-hd-digital.jpg
 tags:
     - digital
     - dji

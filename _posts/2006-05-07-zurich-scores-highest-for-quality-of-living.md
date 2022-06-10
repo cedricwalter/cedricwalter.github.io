@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2518'
 permalink: /holidays/zurich-scores-highest-for-quality-of-living/
-image: /wp-content/uploads/2020/08/zurich-city-fromquaibrucke-scaled.jpeg
+header:
+  teaser: /assets/images/2020/08/zurich-city-fromquaibrucke-scaled.jpeg
 tags:
     - switzerland
     - 'Vivre en Suisse'

@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=142'
 permalink: /hobbies/cheap-parts/
-image: /wp-content/uploads/2004/08/CaliberWithRaptorParts.gif
+header:
+  teaser: /assets/images/2004/08/CaliberWithRaptorParts.gif
 tags:
     - increase
     - industrial

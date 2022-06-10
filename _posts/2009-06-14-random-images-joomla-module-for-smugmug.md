@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4412'
 permalink: /joomla/random-images-joomla-module-for-smugmug/
-image: /wp-content/uploads/2009/06/smugmugrandom.png
+header:
+  teaser: /assets/images/2009/06/smugmugrandom.png
 ---
 
 ![smugmugrandom](/assets/images/2009/06/smugmugrandom.png "smugmugrandom")Another small module, highly customizable to display picture randomly from your Smugmug gallery is ready for prime time!

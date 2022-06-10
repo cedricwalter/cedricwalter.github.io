@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3205'
 permalink: /joomla/akismet4joomla-1-5-1-for-joomla-1-5/
-image: /wp-content/uploads/2008/03/Akismet.jpg
+header:
+  teaser: /assets/images/2008/03/Akismet.jpg
 ---
 
 ![](/assets/images/2008/03/Akismet.jpg)

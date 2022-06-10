@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2323'
 permalink: /internet/the-danger-of-destop-search-engine/
-image: /wp-content/uploads/2005/05/googledesktopsearchlogo.gif
+header:
+  teaser: /assets/images/2005/05/googledesktopsearchlogo.gif
 tags:
     - convenient
     - encryption
@@ -68,7 +69,7 @@ and worse content is readable from the search cache:
 ![](/assets/images/2006/02/readableFromCache.gif)  
 even if the file do not exist anymore on disk….
 
-<font size="5"><big><big>And Now How to solve these issues </big></big>  
+<big><big>And Now How to solve these issues </big></big>  
   
 with ![](/assets/images/2005/05/googledesktopsearchlogo.gif)
 

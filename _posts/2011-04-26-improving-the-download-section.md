@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=6667'
 permalink: /homepage/improving-the-download-section/
-image: /wp-content/uploads/2011/04/joomla_download_user_friendly_thumb.png
+header:
+  teaser: /assets/images/2011/04/joomla_download_user_friendly_thumb.png
 tags:
     - Download
     - homepage

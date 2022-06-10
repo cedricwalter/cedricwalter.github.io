@@ -6,13 +6,14 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=999'
 permalink: /holidays/lost-in-switzerland-or-in-zurich/
-image: /wp-content/uploads/2004/09/mapPlanStadtZurich.jpg
+header:
+  teaser: /assets/images/2004/09/mapPlanStadtZurich.jpg
 tags:
     - switzerland
     - Zurich
 ---
 
-<span style="font-weight: bold;"> Here are the best links to prepare Your travel or find Your way in Zuirich – Switzerland
+ Here are the best links to prepare Your travel or find Your way in Zuirich – Switzerland
 
 | [![](/assets/images/2004/09/mapPlanStadtZurich.jpg)](http://www.gis.zh.ch/gb3/stzh/default.asp) | Best map plan of the Zurich city |
 |---|---|

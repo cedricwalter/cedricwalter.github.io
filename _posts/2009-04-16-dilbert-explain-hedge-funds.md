@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4255'
 permalink: /open-source/dilbert-explain-hedge-funds/
-image: /wp-content/uploads/2009/04/clip_image001_thumb.gif
+header:
+  teaser: /assets/images/2009/04/clip_image001_thumb.gif
 ---
 
 [![clip_image001](/assets/images/2009/04/clip_image001_thumb.gif "clip_image001")](/assets/images/2009/04/clip_image001.gif)

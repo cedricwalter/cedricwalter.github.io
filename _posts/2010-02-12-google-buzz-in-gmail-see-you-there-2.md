@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=5049'
 permalink: /internet/google-buzz-in-gmail-see-you-there-2/
-image: /wp-content/uploads/2010/02/google.buzz_.look_thumb.png
+header:
+  teaser: /assets/images/2010/02/google.buzz_.look_thumb.png
 tags:
     - google
 ---

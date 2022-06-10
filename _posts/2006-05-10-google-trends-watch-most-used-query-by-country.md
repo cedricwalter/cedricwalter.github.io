@@ -16,10 +16,10 @@ With [Google Trends](http://www.google.com/trends), you can compare the world’
 
 Be careful, data are not accurate as state in the main page:
 
-<span style="font-style: italic;">Google Trends aims to provide insights into broad search patterns. It is based upon just a portion of our searches, and <span style="font-weight: bold;">several approximations are used when computing your results. Please keep this in mind when using it.
+Google Trends aims to provide insights into broad search patterns. It is based upon just a portion of our searches, andseveral approximations are used when computing your results. Please keep this in mind when using it.
 
 Google is also opening some new services, these URL may work in a couple of hours, days  
-<span style="font-style: italic;">  
+  
 
 
 - [ www.google.com/pressday/](www.google.com/pressday/)

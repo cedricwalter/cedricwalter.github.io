@@ -8,7 +8,8 @@ guid: 'https://waltercedric.com/?p=11775'
 permalink: /holidays/berlin-museum-island/
 ngg_post_thumbnail:
     - '0'
-image: /wp-content/uploads/2020/03/Museumsinsel-Museum-Island-10.jpg
+header:
+  teaser: /assets/images/2020/03/Museumsinsel-Museum-Island-10.jpg
 tags:
     - berlin
     - city

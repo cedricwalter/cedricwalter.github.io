@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=8604'
 permalink: /linux/how-to-live-patch-ubuntu-linux-kernel-without-rebooting-the-server/
-image: /wp-content/uploads/2017/02/ubuntu-livepatch-kernel.png
+header:
+  teaser: /assets/images/2017/02/ubuntu-livepatch-kernel.png
 tags:
     - cli
     - HowTo

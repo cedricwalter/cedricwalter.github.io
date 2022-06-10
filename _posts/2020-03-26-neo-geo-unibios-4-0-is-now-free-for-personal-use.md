@@ -8,7 +8,8 @@ guid: 'https://waltercedric.com/?p=11109'
 permalink: /games/neo-geo-unibios-4-0-is-now-free-for-personal-use/
 ngg_post_thumbnail:
     - '0'
-image: /wp-content/uploads/2020/03/unibios-4-snk-neogeo.png
+header:
+  teaser: /assets/images/2020/03/unibios-4-snk-neogeo.png
 tags:
     - arcade
     - console

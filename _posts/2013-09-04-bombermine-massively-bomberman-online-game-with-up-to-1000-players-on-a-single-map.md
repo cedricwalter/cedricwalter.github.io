@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=8158'
 permalink: /gadget/bombermine-massively-bomberman-online-game-with-up-to-1000-players-on-a-single-map/
-image: /wp-content/uploads/2013/09/image.png
+header:
+  teaser: /assets/images/2013/09/image.png
 ---
 
  [![image](/assets/images/2013/09/image.png "image")](http://bombermine.com/)

@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4317'
 permalink: /development/introduction-to-m2eclipse/
-image: /wp-content/uploads/2009/05/Introductiontom2eclipse_thumb.jpg
+header:
+  teaser: /assets/images/2009/05/Introductiontom2eclipse_thumb.jpg
 ---
 
 [![Introductiontom2eclipse](/assets/images/2009/05/Introductiontom2eclipse_thumb.jpg "Introductiontom2eclipse")](/assets/images/2009/05/Introductiontom2eclipse.jpg)

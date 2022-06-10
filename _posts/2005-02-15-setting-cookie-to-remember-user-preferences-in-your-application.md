@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=1580'
 permalink: /javascript/setting-cookie-to-remember-user-preferences-in-your-application/
-image: /wp-content/uploads/2005/02/javascript.jpg
+header:
+  teaser: /assets/images/2005/02/javascript.jpg
 tags:
     - framework
     - javascript

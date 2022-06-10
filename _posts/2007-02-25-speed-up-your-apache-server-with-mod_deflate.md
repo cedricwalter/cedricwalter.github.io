@@ -6,17 +6,18 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2890'
 permalink: /development/speed-up-your-apache-server-with-mod_deflate/
-image: /wp-content/uploads/2007/02/speed.Your_.apache.server.jpg
+header:
+  teaser: /assets/images/2007/02/speed.Your_.apache.server.jpg
 tags:
     - apache
     - faster
 ---
 
   
-| ![](/assets/images/2007/02/speed.Your_.apache.server.jpg) | Since I am facing performance problem due to the load of visitors and a badly configured server, I decide today to document my findings in this new series of articles.<span style="font-weight: bold;">The mod\_deflate module provides the DEFLATE output filter that allows output from your server to be compressed before being sent to the client over the network.<span style="font-weight: bold;"><span style="font-weight: bold;">Server: Strato ([www.strato.de](http://www.strato.de))    <span style="font-weight: bold;">Operating system: SuSE / openSuSE    <span style="font-weight: bold;">Requirements: root access and basic Unix knowledge   |
+| ![](/assets/images/2007/02/speed.Your_.apache.server.jpg) | Since I am facing performance problem due to the load of visitors and a badly configured server, I decide today to document my findings in this new series of articles.The mod\_deflate module provides the DEFLATE output filter that allows output from your server to be compressed before being sent to the client over the network.Server: Strato ([www.strato.de](http://www.strato.de))   Operating system: SuSE / openSuSE   Requirements: root access and basic Unix knowledge   |
 |---|---|
 
-  <span style="font-weight: bold;">Why installing mod\_deflate? is PHP gzip not enough?  
+ Why installing mod\_deflate? is PHP gzip not enough?  
  PHP Gzip only compress PHP output, not unical file, like CSS, Javascipt, fixed HTML, other ressources.
 
 | 1 | Use yast2 to install <small><span style="font-family: Courier New,Courier,monospace;">mod\_deflate</small> on the system, this will create files (\*.so) in <small><span style="font-family: Courier New,Courier,monospace;">/usr/lib/apache2-worker/</small> and <small><span style="font-family: Courier New,Courier,monospace;">/usr/lib/apache2-prefork/</small> |
@@ -26,6 +27,6 @@ tags:
 | 4 | start    <small><span style="font-family: Courier New,Courier,monospace;">\# apache2-reconfigure-mpm</small>    this recreate the file <small><span style="font-family: Courier New,Courier,monospace;"> /etc/apache2/sysconfig.d/loadmodule.conf</small>    and restart apache automatically. |
 | 5 | verification: View HTTP Request and Response Header with <http://web-sniffer.net/> search for Content-Encoding: gzip |
 
- <span style="font-weight: bold;">References:
+References:
 
 - [Apache Module mod\_deflate](http://httpd.apache.org/docs/2.0/mod/mod_deflate.html)

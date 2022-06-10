@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=8134'
 permalink: /linux/vim-cheat-sheet/
-image: /wp-content/uploads/2011/02/wlEmoticon-smile.png
+header:
+  teaser: /assets/images/2011/02/wlEmoticon-smile.png
 ---
 
  Essential for any advanced #Linux users or #Linux sys-admin ![Smile](/assets/images/2011/02/wlEmoticon-smile.png)

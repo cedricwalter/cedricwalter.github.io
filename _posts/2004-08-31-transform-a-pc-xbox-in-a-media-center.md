@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=621'
 permalink: /gadget/transform-a-pc-xbox-in-a-media-center/
-image: /wp-content/uploads/2004/08/geexbox-logo.gif
+header:
+  teaser: /assets/images/2004/08/geexbox-logo.gif
 tags:
     - configurable
     - development

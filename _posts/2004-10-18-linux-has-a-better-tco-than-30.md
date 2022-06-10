@@ -20,23 +20,25 @@ According to the latest studies in germany (companies not affiliate with M$).
 But what is the TCO (Total Cost of Ownership)?? The table below show You the main differences between   
 # *Free Softwares and Proprietary Softwares TCO.***
 
-   ***Free Softwares and Proprietary Softwares TCO.*** | ***All Costs = TCO*** | ***Free Softwares*** | ***Proprietary Softwares*** |
-|---|---|---|
-| Buy the software | 0 | $ |
-| Configuration – installation | $ | $ |
-| Deployment | $ | $ |
-| Training | $ | $ |
-| Curative maintenance | $ | $ |
-| Preventive maintenance | $ | $$ |
-| Corrective maintenance | $ | $$ |
-| Adaptative maintenance | $ | $$ |
-| Evolutive maintenance | $ | $ |
-| Respect standards | $ | $$$ |
-| Interoperability | $ | $$ |
-| Hardware compatibility | $ | $ |
-| Security: resisting to intrusions | $ | $$$ |
-| Security: resisting to virus | $ | $$$ |
-| Necessity to replace    regurly equipmeent | $ | $$$ |
-| Dependency to a company | $ | $$$ |
+   ***Free Softwares and Proprietary Softwares TCO.***
+
+| ***All Costs = TCO***                      | ***Free Softwares*** | ***Proprietary Softwares*** |
+|--------------------------------------------|----------------------|-----------------------------|
+| Buy the software                           | 0                    | $                           |
+| Configuration – installation               | $                    | $                           |
+| Deployment                                 | $                    | $                           |
+| Training                                   | $                    | $                           |
+| Curative maintenance                       | $                    | $                           |
+| Preventive maintenance                     | $                    | $$                          |
+| Corrective maintenance                     | $                    | $$                          |
+| Adaptative maintenance                     | $                    | $$                          |
+| Evolutive maintenance                      | $                    | $                           |
+| Respect standards                          | $                    | $$$                         |
+| Interoperability                           | $                    | $$                          |
+| Hardware compatibility                     | $                    | $                           |
+| Security: resisting to intrusions          | $                    | $$$                         |
+| Security: resisting to virus               | $                    | $$$                         |
+| Necessity to replace    regurly equipmeent | $                    | $$$                         |
+| Dependency to a company                    | $                    | $$$                         |
 
 Source : Eikonex – Free software [http://www.eikonex.net/pdf/hab-FAQ-3.html](http://www.eikonex.net/pdf/hab-FAQ-3.html)

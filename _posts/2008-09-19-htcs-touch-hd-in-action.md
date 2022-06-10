@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3799'
 permalink: /gadget/htcs-touch-hd-in-action/
-image: /wp-content/uploads/2008/09/htc.touch_.hd_.size_.comparison_thumb.jpg
+header:
+  teaser: /assets/images/2008/09/htc.touch_.hd_.size_.comparison_thumb.jpg
 ---
 
 With a nice comparison with the [Apple IPhone](http://www.apple.com/iphone/) side by side

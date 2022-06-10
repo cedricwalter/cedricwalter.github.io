@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2966'
 permalink: /games/installing-linux-on-ps3/
-image: /wp-content/uploads/2005/06/sony_playstation_ps3.jpg
+header:
+  teaser: /assets/images/2005/06/sony_playstation_ps3.jpg
 tags:
     - gadget
     - linux
@@ -23,18 +24,18 @@ These instructions show you how to install LINUX on a Playstation 3 with the lat
 
 Download one of these #Linux versions:
 
-| <span style="font-weight: bold;">Ubuntu |
+|Ubuntu |
 |---|
 | - [Kubuntu](http://cdimage.ubuntu.com/kubuntu/ports/releases/feisty/release/kubuntu-7.04-desktop-powerpc+ps3.iso) – Ubuntu with KDE (recommended I can’t stand GNOME desktop) - [Ubuntu](http://cdimage.ubuntu.com/ports/releases/feisty/release/ubuntu-7.04-desktop-powerpc+ps3.iso) – The standard version using Gnome Desktop. - [Xubuntu](http://cdimage.ubuntu.com/xubuntu/ports/releases/feisty/release/xubuntu-7.04-desktop-powerpc+ps3.iso) – Using the lightweight XFCE desktop environment - [Edubuntu](http://cdimage.ubuntu.com/edubuntu/ports/releases/feisty/release/edubuntu-7.04-desktop-powerpc+ps3.iso) – Designed for use in school classrooms |
-| <span style="font-weight: bold;">Yellow Dog |
+|Yellow Dog |
 | - [Yellow Dog Linux 5.0](http://www.terrasoftsolutions.com/tss_home.shtml) |
-| <span style="font-weight: bold;">Debian |
+|Debian |
 | - [Debian Live](http://www.keshi.org/moin/moin.cgi/PS3/Debian/Live) |
-| <span style="font-weight: bold;">Fedora |
+|Fedora |
 | Fedora Core 5 PPC DVD – 3.4GB - HTTP Download: \[<http://mirror.linux.duke.edu/pub/fedora/linux/core/5/ppc/iso/FC-5-ppc-DVD.iso>\] - Bittorrent Download: \[<http://torrent.fedoraproject.org/torrents/bordeaux-DVD-ppc.torrent>\] - More HTTP Mirrors: \[<http://fedora.redhat.com/Download/mirrors.html>\] |
-| <span style="font-weight: bold;">OpenSUSE |
+|OpenSUSE |
 | not working, work in progress \[<http://en.opensuse.org/PS3>\] |
-| <span style="font-weight: bold;">Gentoo linux |
+|Gentoo linux |
 | how to \[<http://whitesanjuro.googlepages.com/>\] |
 
 Burn the iso-file onto a CD/DVD depending on the size of the distribution

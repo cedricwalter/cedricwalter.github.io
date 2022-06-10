@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=479'
 permalink: /scooter/manual-in-french/
-image: /wp-content/uploads/2004/08/pic1.jpg
+header:
+  teaser: /assets/images/2004/08/pic1.jpg
 tags:
     - scooter
     - scooters

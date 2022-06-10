@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=7856'
 permalink: /internet/google-data-centers-virtual-visit-2/
-image: /wp-content/uploads/2012/10/GoogleDataCenters.png
+header:
+  teaser: /assets/images/2012/10/GoogleDataCenters.png
 tags:
     - google
 ---

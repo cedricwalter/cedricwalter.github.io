@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2865'
 permalink: /hobbies/paper-cutting-scherenschnitt/
-image: /wp-content/uploads/2007/02/tn_collectionPaperCutting.jpg
+header:
+  teaser: /assets/images/2007/02/tn_collectionPaperCutting.jpg
 tags:
     - Collectibles
 ---

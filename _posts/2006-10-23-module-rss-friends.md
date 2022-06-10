@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2730'
 permalink: /joomla/module-rss-friends/
-image: /wp-content/uploads/2006/10/module_rssfriends.gif
+header:
+  teaser: /assets/images/2006/10/module_rssfriends.gif
 tags:
     - joomla
 ---

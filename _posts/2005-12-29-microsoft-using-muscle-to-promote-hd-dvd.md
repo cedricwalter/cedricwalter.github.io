@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2244'
 permalink: /open-source/microsoft-using-muscle-to-promote-hd-dvd/
-image: /wp-content/uploads/2005/12/blu-ray-logo.jpg
+header:
+  teaser: /assets/images/2005/12/blu-ray-logo.jpg
 tags:
     - generation
     - playstation

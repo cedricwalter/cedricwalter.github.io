@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2628'
 permalink: /joomla/securityimages-3-0-5-release/
-image: /wp-content/uploads/2006/05/hncapcthaSecurityImages3.0.5.jpg
+header:
+  teaser: /assets/images/2006/05/hncapcthaSecurityImages3.0.5.jpg
 tags:
     - joomla
     - securityimages

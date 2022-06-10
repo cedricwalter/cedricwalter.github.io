@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=8759'
 permalink: /games/neo-geo-mini-samurai-shodown-limited-edition-available-in-3-bundles/
-image: /wp-content/uploads/2019/08/Neo-Geo-Mini-Samurai-Shodown-Limited-Edition-Haohmaru.jpg
+header:
+  teaser: /assets/images/2019/08/Neo-Geo-Mini-Samurai-Shodown-Limited-Edition-Haohmaru.jpg
 tags:
     - anniversary
     - arcade

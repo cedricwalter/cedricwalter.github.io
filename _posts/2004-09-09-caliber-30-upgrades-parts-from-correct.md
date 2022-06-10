@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=1214'
 permalink: /hobbies/caliber-30-upgrades-parts-from-correct/
-image: /wp-content/uploads/2004/08/TN_016-100.JPG
+header:
+  teaser: /assets/images/2004/08/TN_016-100.JPG
 tags:
     - beautiful
     - caliber

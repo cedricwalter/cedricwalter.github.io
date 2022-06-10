@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=8250'
 permalink: /java/avoid-infamous-change-restart-wait-check-development-lifecycle/
-image: /wp-content/uploads/2015/01/devlopment.jpg
+header:
+  teaser: /assets/images/2015/01/devlopment.jpg
 tags:
     - java
 ---

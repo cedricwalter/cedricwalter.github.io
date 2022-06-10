@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=193'
 permalink: /hobbies/mes-pieces-de-tunings-carbones/
-image: /wp-content/uploads/2004/08/bosSerie2.gif
+header:
+  teaser: /assets/images/2004/08/bosSerie2.gif
 tags:
     - protection
 ---

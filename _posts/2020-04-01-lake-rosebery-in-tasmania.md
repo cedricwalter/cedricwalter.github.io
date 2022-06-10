@@ -8,7 +8,8 @@ guid: 'https://waltercedric.com/?p=12483'
 permalink: /holidays/lake-rosebery-in-tasmania/
 ngg_post_thumbnail:
     - '0'
-image: /wp-content/uploads/2020/04/lake-rosebery-in-tasmania-5.jpg
+header:
+  teaser: /assets/images/2020/04/lake-rosebery-in-tasmania-5.jpg
 tags:
     - Australia
     - lake

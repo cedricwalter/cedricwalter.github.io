@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3748'
 permalink: /gadget/pt-ae3000-1080p-home-cinema-projector-announced/
-image: /wp-content/uploads/2008/09/panasonic_PTAE3000_thumb.jpg
+header:
+  teaser: /assets/images/2008/09/panasonic_PTAE3000_thumb.jpg
 ---
 
 [![panasonic_PT-AE3000](/assets/images/2008/09/panasonic_PTAE3000_thumb.jpg)](/assets/images/2008/09/panasonic_PTAE3000.jpg)

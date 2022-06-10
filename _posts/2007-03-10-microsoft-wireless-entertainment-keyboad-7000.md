@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2901'
 permalink: /gadget/microsoft-wireless-entertainment-keyboad-7000/
-image: /wp-content/uploads/2007/03/microsoft.wireless..entretianment.keyboad.7000.jpg
+header:
+  teaser: /assets/images/2007/03/microsoft.wireless..entretianment.keyboad.7000.jpg
 tags:
     - gadget
     - 'Home Cinema'

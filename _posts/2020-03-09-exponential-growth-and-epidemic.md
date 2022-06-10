@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://www.waltercedric.com/?p=9951'
 permalink: /today-on-earth/exponential-growth-and-epidemic/
-image: /wp-content/uploads/2020/03/covid19.jpg
+header:
+  teaser: /assets/images/2020/03/covid19.jpg
 tags:
     - concepts
     - covid19

@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3879'
 permalink: /internet/google-has-open-sourced-android/
-image: /wp-content/uploads/2008/10/free.android.emulator_thumb.png
+header:
+  teaser: /assets/images/2008/10/free.android.emulator_thumb.png
 tags:
     - google
 ---

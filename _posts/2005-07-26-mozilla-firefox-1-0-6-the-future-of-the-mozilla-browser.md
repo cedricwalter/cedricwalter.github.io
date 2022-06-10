@@ -12,7 +12,7 @@ tags:
 ---
 
 I just receive the Mozilla update for linux SuSE 9.3…Here is the list of corrected vulnerabilities:  
-<span style="font-weight: bold;">This includes: 
+This includes: 
 
 - MFSA 2005-56 Code execution through shared function objects
 - MFSA 2005-55 XHTML node spoofing

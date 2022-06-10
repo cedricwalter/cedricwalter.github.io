@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3349'
 permalink: /gadget/windows-xp-still-everywhere/
-image: /wp-content/uploads/2008/04/windows.xp_.crash01_thumb.jpg
+header:
+  teaser: /assets/images/2008/04/windows.xp_.crash01_thumb.jpg
 ---
 
 Funny, in Zürich, Windows XP is everywhere…(pictures taken with Sony K750i)

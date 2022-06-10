@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=1745'
 permalink: /motorcycles/radio-controlled-19inch/
-image: /wp-content/uploads/2005/05/rc-bombardier-ds650.jpg
+header:
+  teaser: /assets/images/2005/05/rc-bombardier-ds650.jpg
 tags:
     - atv
     - bombardier

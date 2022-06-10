@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=8592'
 permalink: /development/modum-io-ensuring-drug-safety-with-blockchain-technology/
-image: /wp-content/uploads/2016/10/blockchain.jpg
+header:
+  teaser: /assets/images/2016/10/blockchain.jpg
 ---
 
 ![](/assets/images/2016/10/blockchain.jpg)

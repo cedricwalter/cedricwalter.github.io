@@ -8,7 +8,8 @@ guid: 'https://waltercedric.com/?p=12272'
 permalink: /holidays/australia-great-ocean-road/
 ngg_post_thumbnail:
     - '0'
-image: /wp-content/uploads/2020/03/australia.victoria.great_.ocean_.road_00110.jpg
+header:
+  teaser: /assets/images/2020/03/australia.victoria.great_.ocean_.road_00110.jpg
 tags:
     - Australia
     - holidays

@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4398'
 permalink: /development/joomtwitter-a-twitter-module-for-joomla/
-image: /wp-content/uploads/2009/06/joomtwitter.revo_.png
+header:
+  teaser: /assets/images/2009/06/joomtwitter.revo_.png
 ---
 
 *Twitter is a free service that lets you keep in touch with people through the exchange of quick, frequent answers to one simple question: What are you doing?*

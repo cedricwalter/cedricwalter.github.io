@@ -14,7 +14,7 @@ tags:
 
 Ive look in Google (Google is Your best friend), and found that this issue is quite common…
 
-<span style="font-weight: bold;">Workaround:  
+Workaround:  
  Try to download my components with either [Firefox ](http://www.getfirefox.com)(Linux, Windows) or [Opera](http://www.getfirefox.com)(Linux, Windows), or Safari (MAC) or Konqueror (Linux) it will work.
 
 One more time, Internet Explorer do not correctly handle gzip response. IE has bugs (gee, what a surprise) that make it ignore compression on certain types. So that zip file you got is actually just a .zip in a .gz file, if you gunzip it first it becomes a valid zip.
@@ -30,5 +30,5 @@ In between, it may the prefect time to give Firefox a try:
 
 I’ve correct the issue by avoiding compression on all response content, correct a misconfiguration in the browser pattern recognition [I’ve also update the article: mod\_deflate accordingly](content/view/1121/1/)
 
- <span style="font-weight: bold;">Happy downloading!  
-<span style="font-weight: bold;">  
+Happy downloading!  
+  

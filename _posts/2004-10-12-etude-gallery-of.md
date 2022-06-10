@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=1326'
 permalink: /scooter/etude-gallery-of/
-image: /wp-content/uploads/2004/10/tn_manurhinsm75-01.jpg
+header:
+  teaser: /assets/images/2004/10/tn_manurhinsm75-01.jpg
 tags:
     - scooter
     - scooters

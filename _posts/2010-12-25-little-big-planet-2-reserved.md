@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=6446'
 permalink: /games/little-big-planet-2-reserved/
-image: /wp-content/uploads/2010/12/Littlebigplanet2-boxart.jpg
+header:
+  teaser: /assets/images/2010/12/Littlebigplanet2-boxart.jpg
 tags:
     - end
     - little

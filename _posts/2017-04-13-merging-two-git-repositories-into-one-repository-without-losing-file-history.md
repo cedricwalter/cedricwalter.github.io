@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=8617'
 permalink: /development/merging-two-git-repositories-into-one-repository-without-losing-file-history/
-image: /wp-content/uploads/2017/04/git-logo.jpg
+header:
+  teaser: /assets/images/2017/04/git-logo.jpg
 tags:
     - git
     - HowTo

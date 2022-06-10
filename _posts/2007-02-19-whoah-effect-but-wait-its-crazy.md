@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2885'
 permalink: /today-on-earth/whoah-effect-but-wait-its-crazy/
-image: /wp-content/uploads/2007/02/TeslaRotBreakout1_small.jpg
+header:
+  teaser: /assets/images/2007/02/TeslaRotBreakout1_small.jpg
 tags:
     - fantastic
     - 'Today on earth'

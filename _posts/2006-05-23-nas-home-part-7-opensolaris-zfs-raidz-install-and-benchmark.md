@@ -6,16 +6,17 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2622'
 permalink: /gadget/nas-home-part-7-opensolaris-zfs-raidz-install-and-benchmark/
-image: /wp-content/uploads/2006/05/raid.gif
+header:
+  teaser: /assets/images/2006/05/raid.gif
 tags:
     - 'PC and Hardware'
     - Storage
 ---
 
-<span style="font-weight: bold;">Putting <big><span style="color: rgb(255, 204, 0);">Open<span style="color: rgb(153, 153, 255);">Solaris</big> in a NAS server
+Putting <big><span style="color: rgb(255, 204, 0);">Open<span style="color: rgb(153, 153, 255);">Solaris</big> in a NAS server
 
  OpenSolaris is an open source project created by Sun Microsystems to build a developer community around the Solaris Operating System technology  
- [OpenSolaris express](http://www.sun.com/software/solaris/solaris-express/get.jsp) is the official distribution and can be [download HERE](http://www.sun.com/software/solaris/solaris-express/get.jsp) but I will use a fork of that code.  <span style="font-weight: bold;"> <span style="font-weight: bold;"><span style="font-weight: bold;"><span style="font-weight: bold;"><span style="color: rgb(153, 153, 255);"><span style="font-weight: bold;">![Raid @ home with opensolaris and ZFS](/assets/images/2006/05/raid.gif) <span style="font-weight: bold;"><big style="font-family: Times New Roman,Times,serif;"><span style="color: rgb(153, 153, 255);">Why Solaris for a NAS server?</big><span style="font-weight: bold;"><big style="font-family: Times New Roman,Times,serif;"><span style="color: rgb(153, 153, 255);"></big>
+ [OpenSolaris express](http://www.sun.com/software/solaris/solaris-express/get.jsp) is the official distribution and can be [download HERE](http://www.sun.com/software/solaris/solaris-express/get.jsp) but I will use a fork of that code. <span style="color: rgb(153, 153, 255);">![Raid @ home with opensolaris and ZFS](/assets/images/2006/05/raid.gif)<big style="font-family: Times New Roman,Times,serif;"><span style="color: rgb(153, 153, 255);">Why Solaris for a NAS server?</big><big style="font-family: Times New Roman,Times,serif;"><span style="color: rgb(153, 153, 255);"></big>
 
  Solaris itself while being a rock solid operating system, is not really needed for a NAS server (oversized). What has increase my interest in it, is [ZFS, the Zetabyte File System](http://www.opensolaris.org/os/community/zfs/). This is an extract of [opensolaris.org](http://opensolaris.org/) all arguments fits nicely to my need:
 
@@ -38,18 +39,18 @@ tags:
 
  This speak by itself, Ive seen [2 Demos HERE](http://www.opensolaris.org/os/community/zfs/demos/), and while the hardware support is not that great, I’ve decide to give it a try. Note that linux may have a port of ZFS port before July 2006, as it is a sponsored Google summer of code project.
 
- <span style="font-weight: bold;"><span style="font-weight: bold;"><span style="font-weight: bold;"><span style="color: rgb(153, 153, 255);"><span style="font-weight: bold;">![Raid @ home with opensolaris and ZFS](/assets/images/2006/05/raid.gif) <span style="font-weight: bold;"><big style="font-family: Times New Roman,Times,serif;"><span style="color: rgb(153, 153, 255);">Which Solaris flavor</big><span style="font-weight: bold;"><big style="font-family: Times New Roman,Times,serif;"><span style="color: rgb(153, 153, 255);"></big><span style="font-weight: bold;">
+<span style="color: rgb(153, 153, 255);">![Raid @ home with opensolaris and ZFS](/assets/images/2006/05/raid.gif)<big style="font-family: Times New Roman,Times,serif;"><span style="color: rgb(153, 153, 255);">Which Solaris flavor</big><big style="font-family: Times New Roman,Times,serif;"><span style="color: rgb(153, 153, 255);"></big>
 
  In Fact it is possible to use one of the following OpenSolaris distribution:
 
-- [BeleniX](http://belenix.sarovar.org/) <span style="font-style: italic;">is a \*NIX distribution that is built using the[ ](http://www.opensolaris.org/)[OpenSolaris](http://www.opensolaris.org/)<span style="font-style: italic;">[ ](http://www.opensolaris.org/)source base. It is currently a LiveCD distribution but is intended to grow into a complete distro that can be installed to hard disk. BeleniX has been developed out of Bangalore the silicon capital of India and it was born at the India Engineering Center of SUN Microsystems. And… it USE KDE: the est open source desktop.
+- [BeleniX](http://belenix.sarovar.org/) is a \*NIX distribution that is built using the[ ](http://www.opensolaris.org/)[OpenSolaris](http://www.opensolaris.org/)[ ](http://www.opensolaris.org/)source base. It is currently a LiveCD distribution but is intended to grow into a complete distro that can be installed to hard disk. BeleniX has been developed out of Bangalore the silicon capital of India and it was born at the India Engineering Center of SUN Microsystems. And… it USE KDE: the est open source desktop.
 - [SchilliX](http://en.wikipedia.org/wiki/SchilliX "SchilliX"), a live CD.s
 - [marTux](http://user.cs.tu-berlin.de/%7Embeinsx/marTux/ "MarTux")[,](http://user.cs.tu-berlin.de/%7Embeinsx/marTux/ "MarTux") a live CD/DVD, for Sparc
 - Nexenta, a Debian-based distribution combining GNU software and Solaris’ SunOS kernel
 - [Polaris](http://www.blastware.org/ "Polaris (operating system)"), a PowerPC port
 
- <span style="font-weight: bold;"> Status: stable, in development  
- <span style="font-weight: bold;">\# Developers: \_\_
+ Status: stable, in development  
+\# Developers: \_\_
 
 | homepage | ![Belenix logo](/assets/images/2006/05/belenix_logo.png)     [http://belenix.sarovar.org](http://belenix.sarovar.org/) |
 |---|---|
@@ -67,17 +68,17 @@ tags:
 | Network | not well… |
 
    
- <span style="font-weight: bold;"><span style="font-family: Times New Roman,Times,serif;"><span style="font-weight: bold;"><big style="font-family: Times New Roman,Times,serif;"><span style="color: rgb(153, 153, 255);"></big><span style="font-weight: bold;"><span style="color: rgb(153, 153, 255);"><span style="font-weight: bold;"><big style="font-family: Times New Roman,Times,serif;"><span style="color: rgb(153, 153, 255);"></big><span style="font-weight: bold;"><span style="color: rgb(153, 153, 255);"><span style="font-weight: bold; color: rgb(255, 0, 0);"><span style="font-weight: bold;">![RAID @ home raid5](/assets/images/2006/05/raid.gif) <span style="font-weight: bold;"><span style="color: rgb(153, 153, 255);"><span style="font-weight: bold;"><big style="font-family: Times New Roman,Times,serif;"><span style="color: rgb(153, 153, 255);">Installation</big>
+<span style="font-family: Times New Roman,Times,serif;"><big style="font-family: Times New Roman,Times,serif;"><span style="color: rgb(153, 153, 255);"></big><span style="color: rgb(153, 153, 255);"><big style="font-family: Times New Roman,Times,serif;"><span style="color: rgb(153, 153, 255);"></big><span style="color: rgb(153, 153, 255);">![RAID @ home raid5](/assets/images/2006/05/raid.gif)<span style="color: rgb(153, 153, 255);"><big style="font-family: Times New Roman,Times,serif;"><span style="color: rgb(153, 153, 255);">Installation</big>
 
  Since belenix is a Live CD, and just for playing around with ZFS, it is more than enough.
 
- <span style="font-weight: bold;"><span style="font-weight: bold;"><span style="font-weight: bold;"><span style="color: rgb(153, 153, 255);"><span style="font-weight: bold;">![Raid @ home with opensolaris and ZFS](/assets/images/2006/05/raid.gif) <span style="font-weight: bold;"><big style="font-family: Times New Roman,Times,serif;"><span style="color: rgb(153, 153, 255);">Playing with ZFS</big>
+<span style="color: rgb(153, 153, 255);">![Raid @ home with opensolaris and ZFS](/assets/images/2006/05/raid.gif)<big style="font-family: Times New Roman,Times,serif;"><span style="color: rgb(153, 153, 255);">Playing with ZFS</big>
 
- <span style="font-weight: bold;"><span style="font-weight: bold;"><span style="font-weight: bold;"><span style="color: rgb(153, 153, 255);"><span style="font-weight: bold;">![Raid @ home with opensolaris and ZFS](/assets/images/2006/05/raid.gif) <span style="font-weight: bold;"><big style="font-family: Times New Roman,Times,serif;"><span style="color: rgb(153, 153, 255);">Future</big><span style="font-weight: bold;"><big style="font-family: Times New Roman,Times,serif;"><span style="color: rgb(153, 153, 255);">  
+<span style="color: rgb(153, 153, 255);">![Raid @ home with opensolaris and ZFS](/assets/images/2006/05/raid.gif)<big style="font-family: Times New Roman,Times,serif;"><span style="color: rgb(153, 153, 255);">Future</big><big style="font-family: Times New Roman,Times,serif;"><span style="color: rgb(153, 153, 255);">  
  </big>
 
- <span style="font-weight: bold;"><span style="font-weight: bold;"><span style="font-weight: bold;"><span style="color: rgb(153, 153, 255);"><span style="font-weight: bold;">![Raid @ home with opensolaris and ZFS](/assets/images/2006/05/raid.gif) <span style="font-weight: bold;"><big style="font-family: Times New Roman,Times,serif;"><span style="color: rgb(153, 153, 255);">Links and ressources</big>  
- <span style="font-weight: bold;"><span style="font-weight: bold;">
+<span style="color: rgb(153, 153, 255);">![Raid @ home with opensolaris and ZFS](/assets/images/2006/05/raid.gif)<big style="font-family: Times New Roman,Times,serif;"><span style="color: rgb(153, 153, 255);">Links and ressources</big>  
+
 
 - [WikiPedia OpenSolaris article](http://en.wikipedia.org/wiki/OpenSolaris)
 - [Thread: How to build a NAS box](http://www.opensolaris.org/jive/thread.jspa?threadID=5435&tstart=0)

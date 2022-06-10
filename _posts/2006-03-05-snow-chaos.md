@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2356'
 permalink: /homepage/snow-chaos/
-image: /wp-content/uploads/2006/03/tnk750i_Zurich_Snow_2006_3.jpg
+header:
+  teaser: /assets/images/2006/03/tnk750i_Zurich_Snow_2006_3.jpg
 tags:
     - Zurich
 ---

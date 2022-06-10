@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2917'
 permalink: /games/next-gen-wars-the-latest-worldwide-console-sales/
-image: /wp-content/uploads/2005/06/sony_playstation_ps3.jpg
+header:
+  teaser: /assets/images/2005/06/sony_playstation_ps3.jpg
 tags:
     - gadget
     - 'Sony PS3'
@@ -16,16 +17,15 @@ tags:
 
 [Direct from retailers all over the world, VGChart present the latest next-gen console sales:](http://www.vgcharts.org/)
 
-<center> | <span style="font-size: medium;"><span style="font-weight: bold;">XBOX 360 | 0.38m Japan   5.88m Americas   3.40m Others | 9.66m |  |
+ | XBOX 360 | 0.38m Japan   5.88m Americas   3.40m Others | 9.66m |  |
 |---|---|---|---|
-| <span style="font-size: medium;">WII    | 1.98m Japan   2.37m Americas   1.68m Others | 6.03m |  |  |
-| <span style="font-size: medium;">   PS3    | 0.83m Japan   1.32m Americas   0.52m Others | 2.67m |  |  |  |
+| WII    | 1.98m Japan   2.37m Americas   1.68m Others | 6.03m |  |  |
+|    PS3    | 0.83m Japan   1.32m Americas   0.52m Others | 2.67m |  |  |  |
 
-| <span style="font-size: medium;">Nintendo DS  | 15.95m Japan   11.41m Americas   11.95m Others | 39.31m |  |
+| Nintendo DS  | 15.95m Japan   11.41m Americas   11.95m Others | 39.31m |  |
 |---|---|---|---|
-| <span style="font-size: medium;">PSP    | 5.42m Japan   7.95m Americas   7.53m Others | 20.90m |  |  |
+| PSP    | 5.42m Japan   7.95m Americas   7.53m Others | 20.90m |  |  |
 
 # there is just a small eror in PS3 worldwide sales chart, I know someone that has bought a PS3 an it is still not counted <span style="font-size: x-large;">😉   
 more pictures soon.**
 
-</center>

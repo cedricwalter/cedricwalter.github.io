@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=7576'
 permalink: /joomla/photofeed-2-5-1-for-j2-5-released/
-image: /wp-content/uploads/2012/03/flickr.photofeed_thumb_b762b40a05c32e0ad752d1260a32a6b1.png
+header:
+  teaser: /assets/images/2012/03/flickr.photofeed_thumb_b762b40a05c32e0ad752d1260a32a6b1.png
 tags:
     - joomla
 ---

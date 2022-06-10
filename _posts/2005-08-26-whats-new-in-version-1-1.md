@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2016'
 permalink: /joomla/whats-new-in-version-1-1/
-image: /wp-content/uploads/2005/08/logobuginLogs.gif
+header:
+  teaser: /assets/images/2005/08/logobuginLogs.gif
 tags:
     - background
     - characters

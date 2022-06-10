@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2436'
 permalink: /joomla/want-to-join-development-of-joomla-component/
-image: /wp-content/uploads/2006/04/section-Joomla.logo_.png
+header:
+  teaser: /assets/images/2006/04/section-Joomla.logo_.png
 tags:
     - joomla
 ---
@@ -40,7 +41,7 @@ As You see a lot of things to do before ever being able to write code. In order 
 # A new project at #Joomla Forge (It must be accepted first by the forge)**   
 I found another project which aimed at the same result:
 
-<div class="HeaderText"><small>**PHP Development Studio** </small><small><span style="FONT-STYLE: italic">[Joomla/Mambo PHP Development Studio is a pre-packaged #Eclipse version aimed at the PHP /MySQL developer.](http://forge.joomla.org/sf/projects/php_development_studio) Includes tools like: PHPEclipse, Clay database modeller, SQL Explorer, QuickRex, Subversion client and FTP&amp;WebDAV client. Serveral licenses apply. </small>[](http://www.joomlatwork.com/)
+<div class="HeaderText"><small>**PHP Development Studio** </small><small>[Joomla/Mambo PHP Development Studio is a pre-packaged #Eclipse version aimed at the PHP /MySQL developer.](http://forge.joomla.org/sf/projects/php_development_studio) Includes tools like: PHPEclipse, Clay database modeller, SQL Explorer, QuickRex, Subversion client and FTP&amp;WebDAV client. Serveral licenses apply. </small>[](http://www.joomlatwork.com/)
 
  I will in the next hour provide a full runnable PHPeclipse+Joomla+ Mysql+ PHP+ everything….environment. So You only have to:
 

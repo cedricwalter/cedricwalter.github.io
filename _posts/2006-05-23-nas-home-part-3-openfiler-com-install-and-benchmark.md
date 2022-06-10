@@ -6,20 +6,21 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2616'
 permalink: /gadget/nas-home-part-3-openfiler-com-install-and-benchmark/
-image: /wp-content/uploads/2006/05/raid.gif
+header:
+  teaser: /assets/images/2006/05/raid.gif
 tags:
     - 'PC and Hardware'
     - Storage
 ---
 
- <span style="font-weight: bold;">![RAID @ home raid5](/assets/images/2006/05/raid.gif) <span style="font-weight: bold;"><span style="color: rgb(153, 153, 255);"><span style="font-weight: bold;"><big style="font-family: Times New Roman,Times,serif;"><span style="color: rgb(153, 153, 255);">Presentation  
- </big> **Openfiler**<span style="font-style: italic;"> is a powerful, intuitive browser-based network storage software distribution. Openfiler delivers file-based Network Attached Storage and block-based Storage Area Networking in a single framework.
+![RAID @ home raid5](/assets/images/2006/05/raid.gif)<span style="color: rgb(153, 153, 255);"><big style="font-family: Times New Roman,Times,serif;"><span style="color: rgb(153, 153, 255);">Presentation  
+ </big> **Openfiler** is a powerful, intuitive browser-based network storage software distribution. Openfiler delivers file-based Network Attached Storage and block-based Storage Area Networking in a single framework.
 
-<span style="font-style: italic;">Openfiler sits atop of CentOS #Linux (which is derived from sources freely provided to the public by a prominent North American Enterprise #Linux vendor). It is distributed as a stand-alone #Linux distribution. The entire software stack interfaces with third-party software that is all open source.
+Openfiler sits atop of CentOS #Linux (which is derived from sources freely provided to the public by a prominent North American Enterprise #Linux vendor). It is distributed as a stand-alone #Linux distribution. The entire software stack interfaces with third-party software that is all open source.
 
- <span style="font-weight: bold;"><big style="font-family: Times New Roman,Times,serif;"><span style="color: rgb(153, 153, 255);"></big><span style="font-weight: bold;"> Status: stable, in development  
- <span style="font-weight: bold;">\# Developers: \_\_  
-  <span style="font-weight: bold;"><span style="font-weight: bold;">
+<big style="font-family: Times New Roman,Times,serif;"><span style="color: rgb(153, 153, 255);"></big> Status: stable, in development  
+\# Developers: \_\_  
+ 
 
 | homepage | [www.openfiler.com](http://www.freenas.org/) |
 |---|---|
@@ -37,15 +38,15 @@ tags:
 | Network | All supported by [CentOS](http://www.centos.org/) (including wireless card!) |
 
    
- <span style="font-weight: bold;"><span style="font-family: Times New Roman,Times,serif;"><span style="font-weight: bold;"><big style="font-family: Times New Roman,Times,serif;"><span style="color: rgb(153, 153, 255);"></big><span style="font-weight: bold;"><span style="color: rgb(153, 153, 255);"><span style="font-weight: bold;"><big style="font-family: Times New Roman,Times,serif;"><span style="color: rgb(153, 153, 255);"></big><span style="font-weight: bold;"><span style="color: rgb(153, 153, 255);"><span style="font-weight: bold; color: rgb(255, 0, 0);"><span style="font-weight: bold;">![RAID @ home raid5](/assets/images/2006/05/raid.gif) <span style="font-weight: bold;"><span style="color: rgb(153, 153, 255);"><span style="font-weight: bold;"><big style="font-family: Times New Roman,Times,serif;"><span style="color: rgb(153, 153, 255);">Installation</big><span style="color: rgb(255, 0, 0); font-weight: bold;">
+<span style="font-family: Times New Roman,Times,serif;"><big style="font-family: Times New Roman,Times,serif;"><span style="color: rgb(153, 153, 255);"></big><span style="color: rgb(153, 153, 255);"><big style="font-family: Times New Roman,Times,serif;"><span style="color: rgb(153, 153, 255);"></big><span style="color: rgb(153, 153, 255);">![RAID @ home raid5](/assets/images/2006/05/raid.gif)<span style="color: rgb(153, 153, 255);"><big style="font-family: Times New Roman,Times,serif;"><span style="color: rgb(153, 153, 255);">Installation</big>
 
  Is straightforward, You only have to follow the flow on screen. But here is a small HowTo:
 
- <span style="font-weight: bold;">![RAID @ home raid5](/assets/images/2006/05/raid.gif) <span style="font-weight: bold;"><span style="color: rgb(153, 153, 255);"><span style="font-weight: bold;"><big style="font-family: Times New Roman,Times,serif;"><span style="color: rgb(153, 153, 255);">HowTo: software RAID 5 install</big>
+![RAID @ home raid5](/assets/images/2006/05/raid.gif)<span style="color: rgb(153, 153, 255);"><big style="font-family: Times New Roman,Times,serif;"><span style="color: rgb(153, 153, 255);">HowTo: software RAID 5 install</big>
 
  What I want: software RAID 5, 4 disk of 320GB (real 305GB), using NVIDIA SATA chipset (not a dedicated RAID5 board).
 
- <small><span style="font-weight: bold;">Note: these pictures are not screenshots but picture taken with a sony camera…</small>
+ <small>Note: these pictures are not screenshots but picture taken with a sony camera…</small>
 
 | <http://www.openfiler.com/download> | [![](/assets/images/2006/05/tn_NAS-at-home-openfiler-install01.jpg)](/assets/images/2006/05/NAS-at-home-openfiler-install01.jpg) |
 |---|---|
@@ -53,9 +54,9 @@ tags:
 | [![](/assets/images/2006/05/tn_NAS-at-home-openfiler-install02.jpg)](/assets/images/2006/05/NAS-at-home-openfiler-install02.jpg) | [![](/assets/images/2006/05/tn_NAS-at-home-openfiler-install03.jpg)](/assets/images/2006/05/NAS-at-home-openfiler-install03.jpg) |
 | The first step is to TEST the quality of the medium. | Openfiler did not recognize the NVIDIA controller. |
 | [![](/assets/images/2006/05/tn_NAS-at-home-openfiler-install04.jpg)](/assets/images/2006/05/NAS-at-home-openfiler-install04.jpg) | [![](/assets/images/2006/05/tn_NAS-at-home-openfiler-install05.jpg)](/assets/images/2006/05/NAS-at-home-openfiler-install05.jpg) |
-| choose "<span style="font-weight: bold;">Add device" | NVIDIA drivers (both Ethernet and drive controller) are at the end of the list. |
+| choose "Add device" | NVIDIA drivers (both Ethernet and drive controller) are at the end of the list. |
 | [![](/assets/images/2006/05/tn_NAS-at-home-openfiler-install06.jpg)](/assets/images/2006/05/NAS-at-home-openfiler-install06.jpg) | [![](/assets/images/2006/05/tn_NAS-at-home-openfiler-install07.jpg)](/assets/images/2006/05/NAS-at-home-openfiler-install07.jpg) |
-| I’ve add both drivers manually. Then "<span style="font-weight: bold;">Done" | The welcome page. click "<span style="font-weight: bold;">Next" |
+| I’ve add both drivers manually. Then "Done" | The welcome page. click "Next" |
 | [![](/assets/images/2006/05/tn_NAS-at-home-openfiler-install08.jpg)](/assets/images/2006/05/NAS-at-home-openfiler-install08.jpg) | [![](/assets/images/2006/05/tn_NAS-at-home-openfiler-install09.jpg)](/assets/images/2006/05/NAS-at-home-openfiler-install09.jpg) |
 | Choose Keyboard language. | I am not a novice, so let’s look at the advanced configuration. |
 | [![](/assets/images/2006/05/tn_NAS-at-home-openfiler-install10.jpg)](/assets/images/2006/05/NAS-at-home-openfiler-install10.jpg) | [![](/assets/images/2006/05/tn_NAS-at-home-openfiler-install11.jpg)](/assets/images/2006/05/NAS-at-home-openfiler-install11.jpg) |
@@ -65,7 +66,7 @@ tags:
 | [![](/assets/images/2006/05/tn_NAS-at-home-openfiler-install14.jpg)](/assets/images/2006/05/NAS-at-home-openfiler-install14.jpg) | [![](/assets/images/2006/05/tn_NAS-at-home-openfiler-install15.jpg)](/assets/images/2006/05/NAS-at-home-openfiler-install15.jpg) |
 | I will have to create a RAID partition for each of the 4 drives, I reserved 300GB for disk SDB | 300GB for disk SDC, for Disk SDA |
 | [![](/assets/images/2006/05/tn_NAS-at-home-openfiler-install16.jpg)](/assets/images/2006/05/NAS-at-home-openfiler-install16.jpg) | [![](/assets/images/2006/05/tn_NAS-at-home-openfiler-install17.jpg)](/assets/images/2006/05/NAS-at-home-openfiler-install17.jpg) |
-| and for disk SDD…till all 4 disks contains a RAID partition. | I click on the RAID button for the 5th times: and choose <span style="font-weight: bold;">"create a RAID device" |
+| and for disk SDD…till all 4 disks contains a RAID partition. | I click on the RAID button for the 5th times: and choose"create a RAID device" |
 | [![](/assets/images/2006/05/tn_NAS-at-home-openfiler-install18.jpg)](/assets/images/2006/05/NAS-at-home-openfiler-install18.jpg) | [![](/assets/images/2006/05/tn_NAS-at-home-openfiler-install19.jpg)](/assets/images/2006/05/NAS-at-home-openfiler-install19.jpg) |
 | My disk array will be named /RAID (mount point), Raid level 5 | Result, a /RAID (device /dev/md0) with an EXT3 file system. |
 | [![](/assets/images/2006/05/tn_NAS-at-home-openfiler-install20.jpg)](/assets/images/2006/05/NAS-at-home-openfiler-install20.jpg) | [![](/assets/images/2006/05/tn_NAS-at-home-openfiler-install21.jpg)](/assets/images/2006/05/NAS-at-home-openfiler-install21.jpg) |
@@ -79,31 +80,31 @@ tags:
 
  If all my explanations are not clear enough, or You want more details, visit the [official installation page](http://www.openfiler.com/docs/install/)
 
- <span style="font-weight: bold;">![RAID @ home raid5](/assets/images/2006/05/raid.gif) <span style="font-weight: bold;"><span style="color: rgb(153, 153, 255);"><span style="font-weight: bold;"><big style="font-family: Times New Roman,Times,serif;"><span style="color: rgb(153, 153, 255);">HowTo: hardware RAID 5 install</big>
+![RAID @ home raid5](/assets/images/2006/05/raid.gif)<span style="color: rgb(153, 153, 255);"><big style="font-family: Times New Roman,Times,serif;"><span style="color: rgb(153, 153, 255);">HowTo: hardware RAID 5 install</big>
 
  in progress…
 
- <span style="font-weight: bold;">![RAID @ home raid5](/assets/images/2006/05/raid.gif) <span style="font-weight: bold;"><span style="color: rgb(153, 153, 255);"><span style="font-weight: bold;"><big style="font-family: Times New Roman,Times,serif;"><span style="color: rgb(153, 153, 255);">Administration</big>
+![RAID @ home raid5](/assets/images/2006/05/raid.gif)<span style="color: rgb(153, 153, 255);"><big style="font-family: Times New Roman,Times,serif;"><span style="color: rgb(153, 153, 255);">Administration</big>
 
  Check [Openfiler Administration guide  
  ](http://www.openfiler.com/docs/manual/) point your browser to https://box\_ip:446/
 
- <span style="font-weight: bold;">![RAID @ home raid5](/assets/images/2006/05/raid.gif) <span style="font-weight: bold;"><span style="color: rgb(153, 153, 255);"><span style="font-weight: bold;"><big style="font-family: Times New Roman,Times,serif;"><span style="color: rgb(153, 153, 255);">Problems encountered</big>
+![RAID @ home raid5](/assets/images/2006/05/raid.gif)<span style="color: rgb(153, 153, 255);"><big style="font-family: Times New Roman,Times,serif;"><span style="color: rgb(153, 153, 255);">Problems encountered</big>
 
-| <span style="font-weight: bold;">OpenFiler 1.1 | 2.0beta1 | 2.0beta2 |
+|OpenFiler 1.1 | 2.0beta1 | 2.0beta2 |
 |---|---|---|
 | - The SATA controller was not recognized, this force me to use the 2.0Beta. | - Unable to read or mount manually 2 different USB keys (FAT32), also unable to read CDROM (closed ISO and CDRW)  - The network card (NFORCE 4 ) was not recognized by Openfiler 2.0Beta, I fail to copy the NVIDIA driver on the box because of point 2. | - Is working perfectly, did not ask for any supplemental drivers |
 
   
- <span style="font-weight: bold;"><span style="color: rgb(255, 0, 0);"><span style="font-weight: bold;">![RAID @ home raid5](/assets/images/2006/05/raid.gif) <span style="color: rgb(153, 153, 255);"> <span style="font-weight: bold;"><big style="font-family: Times New Roman,Times,serif;"><span style="color: rgb(153, 153, 255);">Web Interface GUI</big>  
- <small><span style="font-weight: bold;">  
+<span style="color: rgb(255, 0, 0);">![RAID @ home raid5](/assets/images/2006/05/raid.gif) <span style="color: rgb(153, 153, 255);"><big style="font-family: Times New Roman,Times,serif;"><span style="color: rgb(153, 153, 255);">Web Interface GUI</big>  
+ <small>  
  [<big>Screenshots</big>](http://www.openfiler.com/screenshots/)  
    
- </small><span style="font-weight: bold;">![RAID @ home raid5](/assets/images/2006/05/raid.gif) <span style="color: rgb(153, 153, 255);"> <big style="color: rgb(153, 153, 255);"><span style="font-weight: bold; font-family: Times New Roman,Times,serif;">Performances Tests</big>  
- <small><span style="font-weight: bold;">  
+ </small>![RAID @ home raid5](/assets/images/2006/05/raid.gif) <span style="color: rgb(153, 153, 255);"> <big style="color: rgb(153, 153, 255);"><span style="font-weight: bold; font-family: Times New Roman,Times,serif;">Performances Tests</big>  
+ <small>  
  </small>in progress
 
- <span style="font-weight: bold;">![RAID @ home raid5](/assets/images/2006/05/raid.gif) <span style="font-weight: bold;"><span style="color: rgb(153, 153, 255);"><span style="font-weight: bold;"><big style="font-family: Times New Roman,Times,serif;"><span style="color: rgb(153, 153, 255);">Conclusions</big>
+![RAID @ home raid5](/assets/images/2006/05/raid.gif)<span style="color: rgb(153, 153, 255);"><big style="font-family: Times New Roman,Times,serif;"><span style="color: rgb(153, 153, 255);">Conclusions</big>
 
 | <small>Why choosing it</small> | <small>Why avoiding it</small> |
 |---|---|
@@ -115,5 +116,5 @@ tags:
 | <small>Stable, Linux 2.6.9 kernel base.</small> |  |
 | <small>GPL but an Enterprise version (with support) is also available.</small> |  |
 
- <small><span style="font-weight: bold;">  
+ <small>  
  </small>

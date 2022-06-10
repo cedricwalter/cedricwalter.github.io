@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3444'
 permalink: /today-on-earth/send-your-name-to-the-moon-aboard-lro/
-image: /wp-content/uploads/2008/05/CedricWalterGoToMoon_thumb.png
+header:
+  teaser: /assets/images/2008/05/CedricWalterGoToMoon_thumb.png
 ---
 
 [![CedricWalterGoToMoon](/assets/images/2008/05/CedricWalterGoToMoon_thumb.png)](/assets/images/2008/05/CedricWalterGoToMoon.png)

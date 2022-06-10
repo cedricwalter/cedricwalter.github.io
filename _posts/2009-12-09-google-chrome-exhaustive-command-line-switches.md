@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4896'
 permalink: /internet/google-chrome-exhaustive-command-line-switches/
-image: /wp-content/uploads/2009/12/logogooglechrome_thumb.jpg
+header:
+  teaser: /assets/images/2009/12/logogooglechrome_thumb.jpg
 tags:
     - google
 ---

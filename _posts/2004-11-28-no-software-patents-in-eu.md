@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=1392'
 permalink: /linux/no-software-patents-in-eu/
-image: /wp-content/uploads/2004/11/mysql_3.jpg
+header:
+  teaser: /assets/images/2004/11/mysql_3.jpg
 tags:
     - OpenSuse
 ---

@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4917'
 permalink: /internet/installing-google-chromium-os-to-usb/
-image: /wp-content/uploads/2009/12/chromium.os_.logo_3.jpg
+header:
+  teaser: /assets/images/2009/12/chromium.os_.logo_3.jpg
 tags:
     - google
     - time

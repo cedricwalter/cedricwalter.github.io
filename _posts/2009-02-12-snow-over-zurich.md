@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4154'
 permalink: /holidays/snow-over-zurich/
-image: /wp-content/uploads/2009/02/zurich.snow_.2009.02.10_thumb.jpg
+header:
+  teaser: /assets/images/2009/02/zurich.snow_.2009.02.10_thumb.jpg
 tags:
     - switzerland
     - Zurich

@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3495'
 permalink: /development/jazoon-2008-international-conference-on-java-zurich-23-to-26-june-2008/
-image: /wp-content/uploads/2008/06/jazoon08_thumb.png
+header:
+  teaser: /assets/images/2008/06/jazoon08_thumb.png
 tags:
     - java
 ---

@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3740'
 permalink: /open-source/try-google-chrome/
-image: /wp-content/uploads/2008/09/dlpage_lg_thumb.jpg
+header:
+  teaser: /assets/images/2008/09/dlpage_lg_thumb.jpg
 ---
 
 | [![dlpage_lg](/assets/images/2008/09/dlpage_lg_thumb.jpg)](/assets/images/2008/09/dlpage_lg.jpg) |  |

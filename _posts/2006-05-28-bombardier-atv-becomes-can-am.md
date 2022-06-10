@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2631'
 permalink: /motorcycles/bombardier-atv-becomes-can-am/
-image: /wp-content/uploads/2006/05/HeaderLogo_Bombardier-CanAm.gif
+header:
+  teaser: /assets/images/2006/05/HeaderLogo_Bombardier-CanAm.gif
 tags:
     - atv
     - bombardier

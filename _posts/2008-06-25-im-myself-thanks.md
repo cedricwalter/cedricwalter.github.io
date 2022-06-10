@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=3503'
 permalink: /open-source/im-myself-thanks/
-image: /wp-content/uploads/2008/06/myselfcampaign_thumb.jpg
+header:
+  teaser: /assets/images/2008/06/myselfcampaign_thumb.jpg
 ---
 
 [![myself-campaign](/assets/images/2008/06/myselfcampaign_thumb.jpg)](/assets/images/2008/06/myselfcampaign.jpg)

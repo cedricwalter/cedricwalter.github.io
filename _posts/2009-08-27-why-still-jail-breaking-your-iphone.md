@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=4585'
 permalink: /gadget/why-still-jail-breaking-your-iphone/
-image: /wp-content/uploads/2009/08/iphone3gs.jpg
+header:
+  teaser: /assets/images/2009/08/iphone3gs.jpg
 ---
 
 ![iphone3gs](/assets/images/2009/08/iphone3gs.jpg "iphone3gs") Just because of some software you will NEVER find anytime soon in the official iTunes store.

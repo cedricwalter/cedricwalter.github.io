@@ -10,9 +10,14 @@ permalink: /motorcycles/2012-agusta-mv-agusta-f4-rr/
 
 ![](http://cedricwalter.smugmug.com/Events/SwissMotoShow/i-4PTJ3Sx/0/XL/DSC1102-XL.jpg)
 
-RR, the magical acronym that immediately brings to mind the world of competition. The bike for special individuals who demand the most exhilarating riding experience. Created using the most exotic materials, ultra-sophisticated suspension and the new 1000cc short-stroke engine make the MV Agusta F4 RR the most advanced and powerful superbike in the world. To reach the stratospheric level of 201 HP at 13,400 rpm with a completely homologated engine including an exhaust system complete with the catalytic converter, extreme attention has been given to every detail.
+RR, the magical acronym that immediately brings to mind the world of competition. The bike for special individuals who
+demand the most exhilarating riding experience. Created using the most exotic materials, ultra-sophisticated suspension
+and the new 1000cc short-stroke engine make the MV Agusta F4 RR the most advanced and powerful superbike in the world.
+To reach the stratospheric level of 201 HP at 13,400 rpm with a completely homologated engine including an exhaust
+system complete with the catalytic converter, extreme attention has been given to every detail.
 
-{rss uri=http://cedricwalter.smugmug.com/hack/feed.mg?Type=gallery&amp;Data=7421071\_Sf4brs&amp;format=rss200 limit=6 from=235}
+{rss uri=http://cedricwalter.smugmug.com/hack/feed.mg?Type=gallery&amp;Data=7421071\_Sf4brs&amp;format=rss200 limit=6
+from=235}
 
 • New short-stroke radial valve engine 201 hp at 13,400 rpm   
 • New increased bore diameter   

@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=8764'
 permalink: /development/add-docker-container-logs-in-splunk/
-image: /wp-content/uploads/2019/09/manage-container-resources.png
+header:
+  teaser: /assets/images/2019/09/manage-container-resources.png
 tags:
     - container
     - docker

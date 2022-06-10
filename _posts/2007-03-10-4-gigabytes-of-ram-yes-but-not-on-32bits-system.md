@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2903'
 permalink: /open-source/4-gigabytes-of-ram-yes-but-not-on-32bits-system/
-image: /wp-content/uploads/2007/03/CorsairXMS-thumb.jpg
+header:
+  teaser: /assets/images/2007/03/CorsairXMS-thumb.jpg
 tags:
     - opensource
     - Techniques

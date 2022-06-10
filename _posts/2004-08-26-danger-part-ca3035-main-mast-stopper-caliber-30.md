@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=94'
 permalink: /hobbies/danger-part-ca3035-main-mast-stopper-caliber-30/
-image: /wp-content/uploads/2004/08/kyoe3235.jpg
+header:
+  teaser: /assets/images/2004/08/kyoe3235.jpg
 tags:
     - aluminum
     - directly

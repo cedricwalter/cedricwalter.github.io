@@ -14,7 +14,7 @@ tags:
 ---
 
 ![](/assets/images/2005/01/newyear2005.gif) To all my visitors and the rest of the world   
- 😉 <span style="font-weight: bold;"> Happy New Year! – Bonne annÃ©e – Guete Rutsch! – Chag Sameach! – Boas Festas! – Gut Yontif! – Iyi YIllar! – Wesolych Swiat! – Velelykh Svyat! – Stastny Novy Rok! – Kelemes Unnepeket! – Gung Hay Fat Choy! – Felican Jarfinon!
+ 😉 Happy New Year! – Bonne annÃ©e – Guete Rutsch! – Chag Sameach! – Boas Festas! – Gut Yontif! – Iyi YIllar! – Wesolych Swiat! – Velelykh Svyat! – Stastny Novy Rok! – Kelemes Unnepeket! – Gung Hay Fat Choy! – Felican Jarfinon!
 
 Many, many thanks to the people who informed me, asked me and encouraged me with emails this year…  
  A big thanks to all the more than 120.000 visitors this year (avg 18.000 visits monthly). Please stay with me in 2005.

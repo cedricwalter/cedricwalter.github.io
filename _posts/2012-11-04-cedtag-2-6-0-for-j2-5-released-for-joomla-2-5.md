@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=7831'
 permalink: /joomla/cedtag-2-6-0-for-j2-5-released-for-joomla-2-5/
-image: /wp-content/uploads/2011/11/download-zip.png
+header:
+  teaser: /assets/images/2011/11/download-zip.png
 tags:
     - joomla
 ---

@@ -14,5 +14,5 @@ tags:
     - vintagegaming
 ---
 
-<span style="font-weight: bold;">Feel free to post and discuss about RC Helicopters or old vintage scooters.  
+Feel free to post and discuss about RC Helicopters or old vintage scooters.  
  Right now I have open a section for each language: French and English, also german people can still submit threads in one of these.

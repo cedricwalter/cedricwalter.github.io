@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=5370'
 permalink: /joomla/most-read-articles-with-thumbnails-for-joomla-1-5/
-image: /wp-content/uploads/2010/06/most.read_.articles.with_.thumbnails.for_.joomla_thumb.jpg
+header:
+  teaser: /assets/images/2010/06/most.read_.articles.with_.thumbnails.for_.joomla_thumb.jpg
 tags:
     - most
     - support

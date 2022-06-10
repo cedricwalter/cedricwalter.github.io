@@ -11,4 +11,4 @@ tags:
     - buying
 ---
 
-There is <span style="font-weight: bold;">ONLY 8 or 9 DVD manufacturer in the world: Mistubishi / Verbatim, Taiyo Yuden, TDK, Philips, Ricoh, Ritekâ&#128;¦ So do not attach a particular interest when buying a brand….since most of them are coming from the same company!!!
+There isONLY 8 or 9 DVD manufacturer in the world: Mistubishi / Verbatim, Taiyo Yuden, TDK, Philips, Ricoh, Ritekâ&#128;¦ So do not attach a particular interest when buying a brand….since most of them are coming from the same company!!!

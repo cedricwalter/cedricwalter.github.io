@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=8068'
 permalink: /open-source/android-1-5-to-android-4-2-evolution/
-image: /wp-content/uploads/2013/07/M4fm9Og_thumb.jpg
+header:
+  teaser: /assets/images/2013/07/M4fm9Og_thumb.jpg
 tags:
     - android
     - google

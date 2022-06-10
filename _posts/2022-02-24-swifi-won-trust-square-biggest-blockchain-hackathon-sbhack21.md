@@ -15,11 +15,14 @@ tags:
   - winner
   - Zurich
 header:
-  teaser: "/assets/images/swifi-team-sbhack21-winner.jpg"
+  teaser: /assets/images/swifi-team-sbhack21-winner.jpg
+categories:
+  - blog
 ---
 
 ![](/assets/images/swifi-team-sbhack21-winner.jpg)
 
+# Our Team
 Exhausted but really happy about our team CM2P
 
 * ([Cédric Walter](https://www.linkedin.com/in/ACoAAAAH6ukBlRfIpcoS2XG09Tu9ZhELBylheT8)
@@ -30,7 +33,7 @@ Exhausted but really happy about our team CM2P
 efforts and results at the
   Trustsquare [\#sbhack21](https://www.linkedin.com/feed/hashtag/?keywords=sbhack21&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A6860628297194209280) [\#blockchain](https://www.linkedin.com/feed/hashtag/?keywords=blockchain&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A6860628297194209280) [\#hackathon](https://www.linkedin.com/feed/hashtag/?keywords=hackathon&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A6860628297194209280)
 
-48 h coding and 4 hours sleep 🥳
+# 48 h coding and 4 hours sleep 🥳
 
 ![](/assets/images/IMG_0323.jpg) The winners were announced on Sunday, 31 October 2021, at 2pm CET
 
@@ -52,6 +55,7 @@ Ticket!
 * 5 blockchain protocols: Algorand, Casper, Velas, Near, Streamr
 * 16 challenges
 
+# Submission
 Check our submission [https://devpost.com/software/swifi ](https://devpost.com/software/swifi)and 3 min video
 
 <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"

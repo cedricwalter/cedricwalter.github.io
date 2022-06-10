@@ -7,8 +7,8 @@ author: 'Cédric Walter'
 guid: 'https://waltercedric.com/new/?p=2193'
 permalink: /gadget/tomtom-hacks-page/
 tags:
-    - background
-    - directory
+- background
+- directory
 ---
 
 I will list here all Hacks for Your TomTom
@@ -19,7 +19,10 @@ I will list here all Hacks for Your TomTom
 
 # Replace the start/stop boot splash images**
 
-Open the file *splash.bmp* with Your favorite graphic editor (for example [www.gimp.org](http://www.gimp.org/) ) and put it under the root of the filesystem. You can like me, add your own background, your pictures and contact informations, just in case it get lost. Moreover many people wont be able to replace the modded picture and that will decrease th value of the device for thief.
+Open the file *splash.bmp* with Your favorite graphic editor (for example [www.gimp.org](http://www.gimp.org/) ) and put
+it under the root of the filesystem. You can like me, add your own background, your pictures and contact informations,
+just in case it get lost. Moreover many people wont be able to replace the modded picture and that will decrease th
+value of the device for thief.
 
 # Recover unused space on your card**
 

@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=6925'
 permalink: /internet/im-offering-50-google-invite/
-image: /wp-content/uploads/2011/07/getting-invited-for-Google1.png
+header:
+  teaser: /assets/images/2011/07/getting-invited-for-Google1.png
 tags:
     - final
     - give

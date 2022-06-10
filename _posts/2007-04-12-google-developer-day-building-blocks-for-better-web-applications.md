@@ -31,5 +31,5 @@ Whether you&#146;re writing an AJAX application with the Google Web Toolkit, int
 
 [  ](http://www.google.com/events/developerday/zh_CN/details.html)
 
-<span style="font-style: italic;">   
+   
  Elsewhere *Google Summer of Code* have been announced! Google accepted over 900 student applicants from a pool of nearly 6,200 applications, [more info and list of projects here](http://code.google.com/soc/)

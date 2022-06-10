@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=7786'
 permalink: /linux/ubuntu-12-04-update-nginx-to-the-latest-version-2/
-image: /wp-content/uploads/2012/01/Nginx-logo.png
+header:
+  teaser: /assets/images/2012/01/Nginx-logo.png
 tags:
     - linux
     - nginx

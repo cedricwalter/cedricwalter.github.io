@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2896'
 permalink: /gadget/reviews-logitech-harmony-1000/
-image: /wp-content/uploads/2006/12/logitech.harmony.1000.jpg
+header:
+  teaser: /assets/images/2006/12/logitech.harmony.1000.jpg
 tags:
     - gadget
     - 'Home Cinema'

@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=185'
 permalink: /motorcycles/coup-de-geule/
-image: /wp-content/uploads/2004/08/sm_doc_rouge.gif
+header:
+  teaser: /assets/images/2004/08/sm_doc_rouge.gif
 tags:
     - communication
 ---

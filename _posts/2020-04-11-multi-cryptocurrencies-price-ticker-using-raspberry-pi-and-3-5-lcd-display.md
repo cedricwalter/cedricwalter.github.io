@@ -8,7 +8,8 @@ guid: 'https://waltercedric.com/?p=12929'
 permalink: /gadget/multi-cryptocurrencies-price-ticker-using-raspberry-pi-and-3-5-lcd-display/
 ngg_post_thumbnail:
     - '0'
-image: /wp-content/uploads/2020/04/bitcoin-ethereum-price-ticker-lcd-raspberry.jpg
+header:
+  teaser: /assets/images/2020/04/bitcoin-ethereum-price-ticker-lcd-raspberry.jpg
 tags:
     - bitcoin
     - ethereum

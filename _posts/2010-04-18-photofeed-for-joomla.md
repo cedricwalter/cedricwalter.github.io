@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=5131'
 permalink: /joomla/photofeed-for-joomla/
-image: /wp-content/uploads/2010/04/flickr.photofeed_thumb_b762b40a05c32e0ad752d1260a32a6b1.png
+header:
+  teaser: /assets/images/2010/04/flickr.photofeed_thumb_b762b40a05c32e0ad752d1260a32a6b1.png
 tags:
     - parts
     - photofeed

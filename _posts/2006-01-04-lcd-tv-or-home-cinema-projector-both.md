@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2261'
 permalink: /gadget/lcd-tv-or-home-cinema-projector-both/
-image: /wp-content/uploads/2006/01/tn_SamsungLCD32inchAgainstPT900AE.jpg
+header:
+  teaser: /assets/images/2006/01/tn_SamsungLCD32inchAgainstPT900AE.jpg
 tags:
     - simulator
 ---

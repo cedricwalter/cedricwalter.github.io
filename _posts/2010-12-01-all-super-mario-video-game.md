@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=6392'
 permalink: /games/all-super-mario-video-game/
-image: /wp-content/uploads/2010/12/130SuperMarioGames_thumb_647180a621b2307f24688834768d8526.jpg
+header:
+  teaser: /assets/images/2010/12/130SuperMarioGames_thumb_647180a621b2307f24688834768d8526.jpg
 tags:
     - games
     - nintendo

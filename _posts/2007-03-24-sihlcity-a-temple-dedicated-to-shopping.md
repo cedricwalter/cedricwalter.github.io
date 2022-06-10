@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2951'
 permalink: /holidays/sihlcity-a-temple-dedicated-to-shopping/
-image: /wp-content/uploads/2007/03/sihlcity.zurich.jpg
+header:
+  teaser: /assets/images/2007/03/sihlcity.zurich.jpg
 tags:
     - switzerland
     - 'Vivre en Suisse'

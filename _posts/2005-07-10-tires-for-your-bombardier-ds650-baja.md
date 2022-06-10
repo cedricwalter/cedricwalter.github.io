@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=1905'
 permalink: /motorcycles/tires-for-your-bombardier-ds650-baja/
-image: /wp-content/uploads/2005/07/Kendak300Dominator.jpg
+header:
+  teaser: /assets/images/2005/07/Kendak300Dominator.jpg
 tags:
     - atv
     - bombardier

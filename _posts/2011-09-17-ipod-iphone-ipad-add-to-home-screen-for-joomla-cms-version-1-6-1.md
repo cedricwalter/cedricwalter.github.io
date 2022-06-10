@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=7180'
 permalink: /joomla/ipod-iphone-ipad-add-to-home-screen-for-joomla-cms-version-1-6-1/
-image: /wp-content/uploads/2011/09/add2Home_ipod_iphone_ipad_joomla_000_thumb.png
+header:
+  teaser: /assets/images/2011/09/add2Home_ipod_iphone_ipad_joomla_000_thumb.png
 tags:
     - ipad
     - iphone

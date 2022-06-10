@@ -9,13 +9,13 @@ permalink: /open-source/microsoft-security-specialist-david-keppelmeyer/
 ---
 
 David Keppelmeyer trying to explain why using firefox will weak the whole business….  
-"The end result is more attacks directly on Microsoft Internet Explorer users. <span style="font-weight: bold;">Since open source browsers can’t compete with Internet Explorer in the realm of features, they are attempting to undergrow our market share, making each IE user more likely to be attacked by the greater relative numbers of viruses, worms and malicious trojans".  
+"The end result is more attacks directly on Microsoft Internet Explorer users.Since open source browsers can’t compete with Internet Explorer in the realm of features, they are attempting to undergrow our market share, making each IE user more likely to be attacked by the greater relative numbers of viruses, worms and malicious trojans".  
 …  
 "That’s an underhanded, abhorrent tactic."   
 …  
 "If you are a business that uses Internet Explorer and other businesses are using Firefox, when the next worm hits it’s you that suffers. That’s directly the fault of Firefox adopters. In effect other businesses who have switched have squeezed more attacks your way".[ more Here](http://www.danamania.com/gl/article.php?story=2005020905570523)
 
-<span style="font-weight: bold;">As M$ said in the past:  
+As M$ said in the past:  
 – open source may be helping terrorist,  
 – open source is not interoperable  
 – open source is insecure, has more bugs,  

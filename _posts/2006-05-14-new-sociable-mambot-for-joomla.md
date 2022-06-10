@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=2528'
 permalink: /joomla/new-sociable-mambot-for-joomla/
-image: /wp-content/uploads/2006/05/mosSociable1.0.0.png
+header:
+  teaser: /assets/images/2006/05/mosSociable1.0.0.png
 tags:
     - joomla
     - mosSociable

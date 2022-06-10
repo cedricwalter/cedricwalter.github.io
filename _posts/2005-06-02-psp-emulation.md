@@ -7,17 +7,17 @@ author: 'Cédric Walter'
 guid: 'https://waltercedric.com/new/?p=1770'
 permalink: /games/psp-emulation/
 tags:
-    - arcade
-    - Collectibles
-    - emulator
-    - games
-    - neogeo
-    - nintendo
-    - opensource
-    - snk
-    - 'SNK Neo Geo'
-    - vintage
-    - vintagegaming
+- arcade
+- Collectibles
+- emulator
+- games
+- neogeo
+- nintendo
+- opensource
+- snk
+- 'SNK Neo Geo'
+- vintage
+- vintagegaming
 ---
 
 A lot of opensource emulator are currently being ported to the PSP:

@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=1531'
 permalink: /development/template-method/
-image: /wp-content/uploads/2005/01/java-pattern-templatemethod.png
+header:
+  teaser: /assets/images/2005/01/java-pattern-templatemethod.png
 ---
 
 Defines the skeleton of an algorithm in an operation, deferring some steps to subclasses. Template Method lets subclasses refine certain steps of an algorithm without changing the algorithm’s structure.

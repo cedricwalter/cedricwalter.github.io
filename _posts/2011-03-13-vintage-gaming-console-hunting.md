@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=6349'
 permalink: /games/vintage-gaming-console-hunting/
-image: /wp-content/uploads/2011/03/IMG_1426_thumb.jpg
+header:
+  teaser: /assets/images/2011/03/IMG_1426_thumb.jpg
 tags:
     - console
     - games

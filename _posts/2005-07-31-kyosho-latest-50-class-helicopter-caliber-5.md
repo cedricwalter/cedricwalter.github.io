@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=1965'
 permalink: /hobbies/kyosho-latest-50-class-helicopter-caliber-5/
-image: /wp-content/uploads/2005/07/Kyosho-caliber5-1.jpg
+header:
+  teaser: /assets/images/2005/07/Kyosho-caliber5-1.jpg
 tags:
     - kyosho
     - 'RC helicopter'

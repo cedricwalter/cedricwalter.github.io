@@ -6,7 +6,8 @@ author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=6743'
 permalink: /development/mysql-database-backup-in-linux-crontab/
-image: /wp-content/uploads/2005/10/200px-MySQL.png
+header:
+  teaser: /assets/images/2005/10/200px-MySQL.png
 tags:
     - database
     - files

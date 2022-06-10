@@ -17,7 +17,7 @@ One more time my Site is creating too much load on mysql server, and this probab
 
 My ranking will probably go down for a while, since in 2 weeks my url are constantly changing on my homepage. In between I have installed [OpenSEF](http://opensef.org/)
 
-***OpenSEF** is an open source advanced SEF component for #Joomla!/Mambo/OSM which enables automatic and manual text-based search engine friendly URLs for core and 3rd-party components. One goal of the OpenSEF project is to create relationships with many 3rd-party component developers to ensure that OpenSEF works immediately and flawlessly with all components.*
+# *OpenSEF** is an open source advanced SEF component for #Joomla!/Mambo/OSM which enables automatic and manual text-based search engine friendly URLs for core and 3rd-party components. One goal of the OpenSEF project is to create relationships with many 3rd-party component developers to ensure that OpenSEF works immediately and flawlessly with all components.*
 
 I’ve patched #Joomla kernel to display some interesting information in one log file on server: because #Joomla normaly output only sql statement in user browser.
 
@@ -102,7 +102,7 @@ if ($mosConfig_debug) {
 
 ```
 
-**<font style="BACKGROUND-COLOR: rgb(255,255,0)">2. open index.php and replace**
+# <font style="BACKGROUND-COLOR: rgb(255,255,0)">2. open index.php and replace**
 
 ```
 // displays queries performed for page
@@ -122,7 +122,7 @@ if ($mosConfig_debug) {
 }
 ```
 
-**<font style="BACKGROUND-COLOR: rgb(255,255,0)">by**
+# <font style="BACKGROUND-COLOR: rgb(255,255,0)">by**
 
 ```
 //add by <a>www.waltercedric.com</a>
@@ -132,7 +132,7 @@ include($mosConfig_absolute_path.'/logger.php');
 
 ```
 
-**<font style="BACKGROUND-COLOR: rgb(255,255,0)">3. Open /includes/database.php and replace line 261 what’s in bold**global $mosConfig\_debug;  
+# <font style="BACKGROUND-COLOR: rgb(255,255,0)">3. Open /includes/database.php and replace line 261 what’s in bold**global $mosConfig\_debug;  
  if ($this->\_limit > 0 || $this->\_offset > 0) {  
  $this->\_sql .= "\\nLIMIT $this->\_offset, $this->\_limit";  
  }  

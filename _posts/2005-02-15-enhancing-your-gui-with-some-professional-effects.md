@@ -14,7 +14,7 @@ tags:
     - tutorial
 ---
 
-**Browser #Javascript tips and tricks for improving Your business application GUI**  
+# Browser #Javascript tips and tricks for improving Your business application GUI**  
 All credits to original authors….
 
 All theses examples have to be put in the body onload=”” tag of Your pages….

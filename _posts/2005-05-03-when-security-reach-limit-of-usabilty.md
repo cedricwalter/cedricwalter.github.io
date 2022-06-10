@@ -23,4 +23,4 @@ Found on slashdot.org a poster has state:
 6\) Data on the drives were encrypted.  
 Sound like a fun distribution to work on? On the other hand under computer generated network attacks (like say 10000 attacks per second) they system was able function fine indefinitely. Even somebody with physical access would have had to take a long time to hack the system. That is sort of the ultimate in #Linux security. The goal of hardening a system it to reduce points of entry for people to issue privledged commands, and this is done by reducing features. And that means a decrease in usability."*
 
-**it is extreme 🙂**
+# it is extreme 🙂**

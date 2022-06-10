@@ -37,7 +37,7 @@ And I did audit the code using [Acunetix Web security Scanner](http://www.acunet
 
 The source code for CSS Sprite Generator is available for download and is covered by a BSD license. Want to run a local copy, get the source code at [https://launchpad.net/css-sprite-generator](https://launchpad.net/css-sprite-generator "https://launchpad.net/css-sprite-generator")
 
-**My version** will be available soon, link to appear later this week.
+# My version** will be available soon, link to appear later this week.
 
 ### Note about PHP and Zip support
 

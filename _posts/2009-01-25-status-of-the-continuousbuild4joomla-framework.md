@@ -27,7 +27,7 @@ tags:
 
 I put some effort the last few days in this new framework.
 
-**Done:**
+# Done:**
 
 - I did document some part of it at <http://wiki.waltercedric.com/index.php?title=ContinuousBuildforJoomla>
 - TeamCity is installed/configured/documented (windows only)

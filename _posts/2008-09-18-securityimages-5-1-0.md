@@ -8,7 +8,7 @@ guid: 'https://waltercedric.com/new/?p=3796'
 permalink: /joomla/securityimages-5-1-0/
 ---
 
-**TO BE RELEASE SOON in no more than 2 days**
+# TO BE RELEASE SOON in no more than 2 days**
 
 Dear Users… it is time to complain even more in my forums 😉
 

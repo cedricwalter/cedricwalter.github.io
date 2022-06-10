@@ -77,9 +77,9 @@ Add cables and screws.
 
 ### Neo-Geo Side Art
 
-**![neoartworkgx4](/assets/images/2009/10/neoartworkgx4.jpg "neoartworkgx4")** Someone is offering original size Neo-Geo stickers
+# ![neoartworkgx4](/assets/images/2009/10/neoartworkgx4.jpg "neoartworkgx4")** Someone is offering original size Neo-Geo stickers
 
-**<http://www.neo-geo.com/forums/showthread.php?t=183298>**
+# <http://www.neo-geo.com/forums/showthread.php?t=183298>**
 
 25$ + shipping
 

@@ -34,11 +34,11 @@ A displayOTron ([Shop](https://shop.pimoroni.com/products/display-o-tron-hat) �
 
 Your SD-card needs to contain the software. You can take the long road by **building the SD-card** image yourself or **use the already prepared SD-Card image:**
 
-**Download SD-Card image – Version 1.0:** <https://drive.google.com/open?id=1XZLb0e2J3-wHaR2At0dT-rYQ0IfkhdYK>
+# Download SD-Card image – Version 1.0:** <https://drive.google.com/open?id=1XZLb0e2J3-wHaR2At0dT-rYQ0IfkhdYK>
 
 SHA-256:** **6380f16ff0546864cc9e53ee948ea63dcf47c6decbea50cf17ece7cd8613f72e
 
-**Write the SD-Card image to your SD Card**
+# Write the SD-Card image to your SD Card**
 
 You need to write the downloaded SD card image (the img.gz-file) to your SD card (8 GB minimum) – you can use the very easy tool Balena Etcher for this: <https://www.balena.io/etcher/> .. it’s available for Win, Mac &amp; Linux.
 
@@ -50,7 +50,7 @@ Insert the SD card and connect the power plug.
 
 ## Building the SD Card
 
-**Raspbian** is THE official operating system for **all** models of the Raspberry Pi.
+# Raspbian** is THE official operating system for **all** models of the Raspberry Pi.
 
 > **Raspbian** is a Debian-based (32 bit) computer operating system for Raspberry Pi. There are several versions of Raspbian including Raspbian Buster and Raspbian Stretch. Since 2015 it has been officially provided by the Raspberry Pi Foundation as the primary operating system for the family of Raspberry Pi single-board computers.
 > 
@@ -84,7 +84,7 @@ pip install coinbase
 
 ## Get a Coinbase API key
 
-**We will use a Public endpoint, if you do more than 3 requests per second, up to 6 requests per second in bursts, you ll need an API Key.** ([doc](https://docs.pro.coinbase.com/#rate-limits))
+# We will use a Public endpoint, if you do more than 3 requests per second, up to 6 requests per second in bursts, you ll need an API Key.** ([doc](https://docs.pro.coinbase.com/#rate-limits))
 
 I recommend you for security reasons to create **ANOTHER** empty Coinbase account.
 

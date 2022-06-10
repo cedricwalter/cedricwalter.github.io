@@ -8,14 +8,14 @@ guid: 'https://waltercedric.com/new/?p=3942'
 permalink: /joomla/securityimages-5-1-1/
 ---
 
-**[![compat_15_native](/assets/images/2008/09/compat_15_native_thumb.png)](/assets/images/2008/11/compat_15_native.png) -** [![ext_com](/assets/images/2008/11/ext_com_thumb.png)](/assets/images/2008/09/ext_com.png) Component – [![ext_mod](/assets/images/2008/11/ext_mod_thumb.png)](/assets/images/2008/09/ext_mod.png) Module – [![ext_plugin](/assets/images/2008/11/ext_plugin_thumb.png)](/assets/images/2008/09/ext_plugin.png) Plugin
+# [![compat_15_native](/assets/images/2008/09/compat_15_native_thumb.png)](/assets/images/2008/11/compat_15_native.png) -** [![ext_com](/assets/images/2008/11/ext_com_thumb.png)](/assets/images/2008/09/ext_com.png) Component – [![ext_mod](/assets/images/2008/11/ext_mod_thumb.png)](/assets/images/2008/09/ext_mod.png) Module – [![ext_plugin](/assets/images/2008/11/ext_plugin_thumb.png)](/assets/images/2008/09/ext_plugin.png) Plugin
 
 | [![com_securityimages](/assets/images/2008/11/com_securityimages_thumb.jpg)](/assets/images/2008/11/com_securityimages.jpg) | **This is an intermediate release before the new version 5.2.0** It solved the following major issues in version    5.1.0 |
 |---|---|
 
-**BUG**: logs table were not properly deleted after removing the component
+# BUG**: logs table were not properly deleted after removing the component
 
-**BUG**: securityimages was not installing at all in #Joomla! 1.5.8 but properly in previous version.
+# BUG**: securityimages was not installing at all in #Joomla! 1.5.8 but properly in previous version.
 
 The error has been found, it was my fault, I was incorrectly having 2 xml installer with the same name!
 

@@ -18,7 +18,7 @@ This talk will be about why complete Decentralization and Immutability matter fo
 
   <iframe allowfullscreen="" frameborder="0" height="485" loading="lazy" marginheight="0" marginwidth="0" scrolling="no" src="//www.slideshare.net/slideshow/embed_code/key/zhGI8ktevrQ2q8" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" width="595"> </iframe>
 
-**[Ethereum Classic 18 August 2016 ](//www.slideshare.net/arcatomia/ethereum-classic-18-august-2016 "Ethereum Classic 18 August 2016 ")**  from **[Dr Avtar Sehra](//www.slideshare.net/arcatomia)** ### What is a replay attack?
+# [Ethereum Classic 18 August 2016 ](//www.slideshare.net/arcatomia/ethereum-classic-18-august-2016 "Ethereum Classic 18 August 2016 ")**  from **[Dr Avtar Sehra](//www.slideshare.net/arcatomia)** ### What is a replay attack?
 
 - How can I prevent that from happening to me
 - How do I get my ETC and where do I store it

@@ -19,7 +19,7 @@ Documentation version 1.0
 Bundle version 1.0 available in my download section *AntiSpamForMamboBundle1.0.zip*
 
  Report any bugs using the contact section of [www.waltercedric.com](http://www.waltercedric.com/)  
-**Good luck! and click read more!**
+# Good luck! and click read more!**
 
 | **Installation** | **Why** | **File** | **How** | **Risks** | **Manuals    Changes** | **Require** |  |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|---|

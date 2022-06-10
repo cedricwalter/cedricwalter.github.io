@@ -12,8 +12,8 @@ image: /wp-content/uploads/2008/08/joomla_download_banner.png
 [![joomla_download_banner](/assets/images/2008/08/joomla_download_banner.png)](http://www.joomla.org/download.html) [![joomla_donate_banner](/assets/images/2008/08/joomla_donate_banner.png)](http://www.joomla.org/about-joomla/the-project/make-a-donation.html)
 
 The #Joomla Project is pleased [to announce the immediate availability of #Joomla 1.5.7](http://www.joomla.org/announcements/release-news/5212-joomla-157-security-release-now-available.html) \[Wovusani\].   
-**This is a security release** and contains a number of bug fixes, improvements as well as security fixes.   
-**It is strongly recommended that users immediately upgrade.** It has been nearly four weeks since   
+# This is a security release** and contains a number of bug fixes, improvements as well as security fixes.   
+# It is strongly recommended that users immediately upgrade.** It has been nearly four weeks since   
 Joomla 1.5.6 was released on August 12, 2008. The Development Working Group’s goal is to continue   
 to provide regular, frequent updates to the #Joomla community.
 

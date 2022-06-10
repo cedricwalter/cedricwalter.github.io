@@ -14,7 +14,7 @@ image: /wp-content/uploads/2005/06/sony_playstation_ps3.jpg
 Little Big Planet wallpaper and game insight I’ve never seen before…   
 All credit to their authors,
 
-**UPDATE**: original size of wallpaper now online, were reduced previously during the transfer.
+# UPDATE**: original size of wallpaper now online, were reduced previously during the transfer.
 
 Attention: for broadband user only, 14 MB of pictures
 

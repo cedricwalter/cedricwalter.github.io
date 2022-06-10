@@ -17,15 +17,15 @@ tags:
 
 ###### What’s new?
 
-**BUG**: Highly critical bug that was under some conditions leading to infinite loop and as a result lead to too many open connections from and to your server.
+# BUG**: Highly critical bug that was under some conditions leading to infinite loop and as a result lead to too many open connections from and to your server.
 
-**NEW:** Better algorithm to clean and remove invalid images,
+# NEW:** Better algorithm to clean and remove invalid images,
 
-**NEW**: Status icon in the administrator panel to help you detecting misconfiguration of your server and in the future help troubleshooting installation issues,
+# NEW**: Status icon in the administrator panel to help you detecting misconfiguration of your server and in the future help troubleshooting installation issues,
 
-**NEW**: Specify the image dimensions in the source code, which improves the page score according to Google Page speed. (thanks to Puneet for the idea)
+# NEW**: Specify the image dimensions in the source code, which improves the page score according to Google Page speed. (thanks to Puneet for the idea)
 
-**NEW**: plugins oriented architecture for rendering and a cleaner controller for the plugin, this will allow me to add new output more easily,
+# NEW**: plugins oriented architecture for rendering and a cleaner controller for the plugin, this will allow me to add new output more easily,
 
 Full list of changes available in [GIT](http://git-scm.com/) commit [99f25840fd3c0f15b864f45c7321cd42820aa2f5](https://github.com/cedricwalter/cedthumbnails/commit/99f25840fd3c0f15b864f45c7321cd42820aa2f5)
 

@@ -25,7 +25,7 @@ tags:
 |---|---|---|---|
 | <span style="font-size: medium;">PSP    | 5.42m Japan   7.95m Americas   7.53m Others | 20.90m |  |  |
 
-**there is just a small eror in PS3 worldwide sales chart, I know someone that has bought a PS3 an it is still not counted <span style="font-size: x-large;">😉   
+# there is just a small eror in PS3 worldwide sales chart, I know someone that has bought a PS3 an it is still not counted <span style="font-size: x-large;">😉   
 more pictures soon.**
 
 </center>

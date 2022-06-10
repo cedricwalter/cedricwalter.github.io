@@ -17,7 +17,7 @@ tags:
 
 [The #Joomla Project announces the immediate availability of #Joomla 1.5.17](http://www.joomla.org/announcements/release-news/5268-joomla-1517-released.html) \[Wojmamni ama woobusani\]. This is a priority release to correct two issues in version 1.5.16. Although there are no security issues fixed in this release, we consider it a security release because a security-related bug has been fixed and because many sites may be upgraded directly from 1.5.15 to 1.5.17.
 
-**Statistics for the 1.5.17 release period:**
+# Statistics for the 1.5.17 release period:**
 
 - Joomla 1.5.17 contains: 
     - 6 issues fixed in SVN

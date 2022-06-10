@@ -31,4 +31,4 @@ Here is my Google Buzz module for #Joomla! [based on Google Buzz ER](http://word
 - [Documentation](http://wiki.waltercedric.com/index.php?title=GoogleBuzzForJoomlaModule)
 - [Support Forum](http://forums.waltercedric.com/index.php?board=77.0)
 
-**ENJOY**
+# ENJOY**

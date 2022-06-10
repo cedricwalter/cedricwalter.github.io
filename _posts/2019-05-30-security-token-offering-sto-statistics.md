@@ -26,7 +26,7 @@ tags:
     - token
 ---
 
-**Security token offering** (STO) is a type of fundraising that is performed with a company offering tokenized securities. The defining feature of security token offerings is in its definition. Stocks, bonds and managed property trusts are another examples of securities.
+# Security token offering** (STO) is a type of fundraising that is performed with a company offering tokenized securities. The defining feature of security token offerings is in its definition. Stocks, bonds and managed property trusts are another examples of securities.
 
 Essentially, a security token is a **cryptocurrency-based asset** that derives its value from some other asset that it represents. For example, security tokens can represent real estate or gold but, most importantly, they can represent shares and securities or their alternative.
 

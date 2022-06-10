@@ -29,7 +29,7 @@ tags:
 
 Do you want to relocate your Blockchain company to an ICO friendly country? the ICO friendliness rating index is a interactive way to go through the list of countries that are hostile or favorable to ICO and Cryptocurrencies.
 
-**Attention! a disclaimer is required:**
+# Attention! a disclaimer is required:**
 
 No Legal Advice or Attorney-Client Relationship: This chart is provided for informational purposes only and is not legal advice. This information is not intended to create, and receipt of it does not constitute, an attorney-client relationship. Recipient should not act upon this information without seeking advice from a lawyer licensed in his/her own state or country.
 

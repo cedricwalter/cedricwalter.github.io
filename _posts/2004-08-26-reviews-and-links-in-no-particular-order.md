@@ -15,7 +15,7 @@ tags:
 
 [www.caliber30.com](http://www.caliber30.com/) Portal for the Caliber 30.
 
-**Reviews** <span style="font-family: 'Times New Roman';">![](cv/flag-English.GIF)  
+# Reviews** <span style="font-family: 'Times New Roman';">![](cv/flag-English.GIF)  
 <http://users.pandora.be/subseven1/> the first person in Europe who buy a Caliber 30 months before it arrives. A lot of close pictures.  
 [www.jason.net](http://www.jason.net/) The first review ever done, complet with a lot of pictures and upgrades ! a MUST  
 <http://www.littlerotors.com/articles/caliber30-010202/index.asp> by Aaron Williams  
@@ -27,23 +27,23 @@ tags:
 <http://helico.toutlemodelisme.com/tests/caliber30/page1.htm> David Dutrieux on this page has more than 350 flights without problems  
 RCM June 2002 No 264 by Laurent Lombard
 
-**Tips**  
+# Tips**  
 [http://www.cjwoods.com/Caliber\_30.htm](http://www.cjwoods.com/Caliber_30.htm) Clive’s Wood page  
 <http://www.upd-ate.com/bibliotheques/helicos/caliber30.htm> (FR)  
 <http://pages.infinit.net/heliweb/> some pictures in flight of the caliber, This guy should really secure his RX plugs….frightenning
 
-**Others**<span style="font-family: 'Times New Roman';">  
+# Others**<span style="font-family: 'Times New Roman';">  
 <http://beam.to/caliber> (caliber 60 the expensive father)  
 <http://www.valiantakitas.com/hobby/caliber.html>   
 <http://heliprodigy.homestead.com/heliprodigy.html> by Steve\_JR from Runryder
 
-**Homepage**  
+# Homepage**  
 <span style="font-family: 'Times New Roman';">![](cv/flag-English.GIF)  
 <http://www.lovaas.org/heli/> Velkommen til Wobble RC Helikopter Klubb!  
 ![](cv/flag-French.GIF)  
 [http://uscaero77.free.fr/\_helico/caliber30/](http://uscaero77.free.fr/_helico/caliber30/) Le Caliber 30 de Patrick Magnaudet – US.Champagne/s seine AÃ©romodÃ©lisme
 
-**Gallery**  
+# Gallery**  
 people having caliber 30 and a good gallery
 
 - Clayman’s gallery <http://www.runryder.com/gallery/18480/>

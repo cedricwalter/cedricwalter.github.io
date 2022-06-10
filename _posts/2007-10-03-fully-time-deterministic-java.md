@@ -29,7 +29,7 @@ tags:
 <span style="font-size: 10pt"><span style="font-family: Arial">The<span style="font-size: 10pt; font-family: Arial"> AIAA (American Institute of Aeronautics and Astronautics) [paper](http://javolution.org/doc/AIAA-2007-6184.pdf) \[.pdf\] plan to use java (<span style="font-size: 10pt; font-family: Arial">For cost reasons<span style="font-size: 10pt; font-family: Arial">) <span style="font-size: 10pt; font-family: Arial">for safety-critical missions<span style="font-size: 10pt; font-family: Arial">. <span style="font-size: 10pt; font-family: Arial">The first fully time-deterministic and open-source library for #Java: [Javolution](http://javolution.org/) is ready to fight!  
 
 
-***Javolution*** real-time goals are simple: **To make your application faster and more time predictable!**  
+# *Javolution*** real-time goals are simple: **To make your application faster and more time predictable!**  
 That being accomplished through:
 
 - High [performance](http://javolution.org/doc/benchmark.html) and time-deterministic (real-time) [util](http://javolution.org/api/javolution/util/package-summary.html#package_description) / [lang](http://javolution.org/api/javolution/lang/package-summary.html#package_description) / [text](http://javolution.org/api/javolution/text/package-summary.html#package_description) / [io](http://javolution.org/api/javolution/io/package-summary.html#package_description) / [xml](http://javolution.org/api/javolution/xml/stream/package-summary.html#package_description) base classes.

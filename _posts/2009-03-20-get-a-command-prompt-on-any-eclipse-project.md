@@ -14,8 +14,8 @@ A very little trick that allow you to quickly run any operation involving a DOS 
 
 This trick may be useful for running your [Maven](http://maven.apache.org/) set of command without any dependencies to [M2Eclipse](http://m2eclipse.codehaus.org/).
 
-**Location**: {ENV\_VAR:COMSPEC}   
-**Working Directory:** {project\_loc}
+# Location**: {ENV\_VAR:COMSPEC}   
+# Working Directory:** {project\_loc}
 
 ![eclipse.open.command.line](/assets/images/2009/03/eclipse.open_.command.line_.png "eclipse.open.command.line")
 

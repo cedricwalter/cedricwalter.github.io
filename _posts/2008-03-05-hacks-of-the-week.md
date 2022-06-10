@@ -8,7 +8,7 @@ guid: 'https://waltercedric.com/new/?p=3229'
 permalink: /hobbies/hacks-of-the-week/
 ---
 
-**Hack into a Windows PC – no password needed**
+# Hack into a Windows PC – no password needed**
 
 *A security consultant based in New Zealand has released a tool that can unlock Windows computers in seconds without the need for a password.*
 

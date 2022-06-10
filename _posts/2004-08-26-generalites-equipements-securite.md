@@ -9,7 +9,7 @@ permalink: /motorcycles/generalites-equipements-securite/
 image: /wp-content/uploads/2004/08/sm_doc_rouge.gif
 ---
 
-**Généralités**
+# Généralités**
 
 - Une moto qui tombe a l’arret sur le coté ou en roulant est une moto quasiment foutue, les cache cylindre vont prendre
   un tel coup que pour peu que ce soit un modele ancien, votre moto sera déclarée épave. Solution? des roulettes pour
@@ -17,7 +17,7 @@ image: /wp-content/uploads/2004/08/sm_doc_rouge.gif
 - Si c’est pour frimer, oublier la moto sportive, vous serez tellement harnaché et raide que vous ressemblerez a un
   cosmonaute, preférez un custom.
 
-**Equipements**
+# Equipements**
 
 - Investisser dans une bonne combinaison cuir (de 500 a 1200 €) et une hiver type Gore-Tex (le cuir est pas imperméable
   ou alors rarement). N’économiser pas sur les gants, bottes et casques, idem pour la protection dainese dorsale (100€),
@@ -38,7 +38,7 @@ image: /wp-content/uploads/2004/08/sm_doc_rouge.gif
 - Cuir ou textile? pour résumer : cuir pour la route et la vitesse c’est ce qui offre la meilleure protection, textile
   pour la ville et les sorties basse vitesse (basse vitesse je veut dire législation francaise urbaine de vitesse 😉 )
 
-**Sécurité**
+# Sécurité**
 
 - Ne rouler jamais en short, jeans, basket, tee shirt. Oui il fait chaud, oui la combinaison est moins cool (et surtout
   fraiche), mais on ne planifie jamais une gamelle ou un accident. On ne tente màªme pas une fois car c’est dans ces
@@ -57,12 +57,12 @@ image: /wp-content/uploads/2004/08/sm_doc_rouge.gif
 - A l’aide d’une étiqueteuse électronique, pensez a noter votre nom et groupe sanguin sur votre casque, si possible bien
   en vue. Cela pourrait éventuellement vous donner une chance supplémentaire si vous avez un accident.
 
-**Automne**
+# Automne**
 
 - Méfier vous des feuilles mortes, attention aux gravillons et à tous les zones peintes sur la route. cela glisse et
   sentir la roue avant glisser est un moment que l’on n’oublie pas.
 
-**Hiver**
+# Hiver**
 
 - attention les pneus mettent plus de temps a chauffer! ne pas attaquer sur l’angle dés le départ, sinon frayeur assuré!
 - Si vous sortez a plusieurs moto, metter le conducteur le plus novice devant tous les autres, c’est lui qui doit ouvrir
@@ -73,7 +73,7 @@ image: /wp-content/uploads/2004/08/sm_doc_rouge.gif
 - Decathlon vends des tours de cou en polyester pour la pratique du vélo en hiver qui marche trà¨s bien aussi pour la
   moto.
 
-**Maintenance**
+# Maintenance**
 
 - Le démontage des pneu de la Hornet ne nécessite pas de prendre des repà¨res ou d’outillage particulier. Vous
   economiserez 20 euros en moyenne si vous n’amenez que les jantes chez le concessionaire ou Point S.
@@ -82,4 +82,4 @@ image: /wp-content/uploads/2004/08/sm_doc_rouge.gif
   semble àªtre un bon compromis.
 
 [![](images/Helico/gallery/tn_moiamoto.jpg)](images/Helico/gallery/moiamoto.jpg)  
-**28.08.2003**
+# 28.08.2003**

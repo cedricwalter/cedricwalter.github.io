@@ -20,7 +20,7 @@ Quelques liens incontournables….
 - [Site des douanes suisses ](http://www.mieterverband.ch)
 
 Douanes: Directions d’arrondissement  
-**Bâle** 061 287 11 11 <kdbs.zentrale@ezv.admin.ch>  
-**Schaffhouse** 052 633 11 11 <kdsh.zentrale@ezv.admin.ch>  
-**Genève** 022 747 72 72 <kdge.zentrale@ezv.admin.ch>  
-**Lugano** 091 910 48 11 <kdti.zentrale@ezv.admin.ch>
+# Bâle** 061 287 11 11 <kdbs.zentrale@ezv.admin.ch>  
+# Schaffhouse** 052 633 11 11 <kdsh.zentrale@ezv.admin.ch>  
+# Genève** 022 747 72 72 <kdge.zentrale@ezv.admin.ch>  
+# Lugano** 091 910 48 11 <kdti.zentrale@ezv.admin.ch>

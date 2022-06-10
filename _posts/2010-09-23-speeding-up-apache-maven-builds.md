@@ -61,7 +61,7 @@ mvn -T 4 clean install
 
 ## Speed up [Apache Maven](http://maven.apache.org/) builds by running test cases concurrently in reactor
 
-**Caveats**
+# Caveats**
 
 Some test cases may not like to run in parallel, (remember concurrency is not an easy subject in software development) Potential problems are:
 

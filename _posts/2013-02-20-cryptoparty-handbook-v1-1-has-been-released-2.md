@@ -9,9 +9,9 @@ permalink: /security/cryptoparty-handbook-v1-1-has-been-released-2/
 image: /wp-content/uploads/2013/02/cryptoparty.png
 ---
 
-**![cryptoparty](/assets/images/2013/02/cryptoparty.png "cryptoparty")**
+# ![cryptoparty](/assets/images/2013/02/cryptoparty.png "cryptoparty")**
 
-**[CryptoParty](https://cryptoparty.org/wiki/CryptoParty "CryptoParty")** is a grassroots global endeavor to introduce the basics of practical cryptography such as the Tor anonymity network, key signing parties, True Crypt, and virtual private networks to the general public.
+# [CryptoParty](https://cryptoparty.org/wiki/CryptoParty "CryptoParty")** is a grassroots global endeavor to introduce the basics of practical cryptography such as the Tor anonymity network, key signing parties, True Crypt, and virtual private networks to the general public.
 
 The first draft of the 442-page ***[CryptoParty](https://cryptoparty.org/wiki/CryptoParty "CryptoParty")** Handbook* (the hard copy of which is available at cost), was pulled together in three days using the book sprint approach, and was released 2012-10-04 under a CC-BY-SA license; it remains under constant revision.
 

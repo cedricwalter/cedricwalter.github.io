@@ -12,7 +12,7 @@ tags:
     - 'RC helicopter'
 ---
 
-**You will have to aquire the following:**  
+# You will have to aquire the following:**  
  HI3130B Canopy 29.95  
  HI3133A Windshield 9.95  
  HI3129 Mounting brackets 5.95

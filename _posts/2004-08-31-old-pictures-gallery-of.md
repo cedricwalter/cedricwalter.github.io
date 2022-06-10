@@ -17,7 +17,7 @@ tags:
 
 feel free to submit you any pictures you may have…
 
-**Scooter Manurhin SM75**
+# Scooter Manurhin SM75**
 
 ![](/assets/images/2004/08/ManurhinMR75.jpg)
 

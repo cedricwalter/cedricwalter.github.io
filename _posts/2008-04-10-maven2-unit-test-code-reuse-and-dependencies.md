@@ -27,7 +27,7 @@ tags:
 
 In a multi modules project where you have write API or common code for unit tests in one project and want to reuse these in the tests for another project. #Maven will crash during the compile phase if you do not make the following.
 
-**Maven rules of the game:**
+# Maven rules of the game:**
 
 - The main code in src/main/java is visible across modules if you did specify project   
     dependencies in pom.xml.

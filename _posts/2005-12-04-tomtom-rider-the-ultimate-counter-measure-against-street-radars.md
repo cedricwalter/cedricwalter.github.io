@@ -39,7 +39,7 @@ It is forbidden to use any device that DETECT a street radar **in France**, so a
 
 The difference in price between a TomTom GO may be explain by the requirement of using a GPS on a motorcycle. But what can explain the difference of price?
 
-**TomTom Rider**
+# TomTom Rider**
 
 - Has an aluminium case, waterproof, and a lot slicker than a TomTom GO  
     | ![](/assets/images/2005/12/TomTomRiderBehind.jpg) | ![](/assets/images/2005/12/TomTomRiderBelowUp.jpg) |
@@ -99,7 +99,7 @@ Then choose a sound, 15 are available, but You can store Your own (WAV format) a
 |---|---|---|
 | **choose a sound** |  | <span style="font-size: xx-small;">**DO NOT ACTIVATE THIS OPTION!** |
 
-**DO NOT ACTIVATE THE LAST OPTION!**
+# DO NOT ACTIVATE THE LAST OPTION!**
 
 Why? Because You may be not alerted if the GPS do not think You are on the same road as the radar, since the GPS technology and the radars database has an accuracy of +/- 20meters You may be catch by a radar
 
@@ -119,26 +119,26 @@ What is really interesting is that Tom Tom use heavily Open Source software and 
 
 <span style="font-family: Arial Black; font-size: large;">radars-fixes.com
 
-**Map: France ![](/assets/images/2005/12/france.gif)  
+# Map: France ![](/assets/images/2005/12/france.gif)  
 Download**: A free list can be download at [www.radars-fixes.com](http://www.radars-fixes.com/) in the [download section](http://www.alertegps.com/Download_index.asp?a=ar&s=)  
-**Updates**: are available each Monday for free  
-**Legend**:
+# Updates**: are available each Monday for free  
+# Legend**:
 
 | ![](/assets/images/2005/12/RF.gif) | ![](/assets/images/2005/12/RFP.gif) | ![](/assets/images/2005/12/RFR.gif) | ![](/assets/images/2005/12/RM.gif) |  |  |  |  |  |  |  |  |  |  |  |  |  |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-**Screenshots:**
+# Screenshots:**
 
 |  |
 |---|
 
 <span style="font-family: Arial Black; font-size: large;">radarfalle.de
 
-**Map: France ![](/assets/images/2005/12/france.gif) Germany ![](/assets/images/2005/12/germany.gif) Switzerland, others… (Europe)  
+# Map: France ![](/assets/images/2005/12/france.gif) Germany ![](/assets/images/2005/12/germany.gif) Switzerland, others… (Europe)  
 Download**: A list (<10euro per year) can be dowmload at [www.radarfalle.de](http://www.radarfalle.de/) in the [download section](http://www.alertegps.com/Download_index.asp?a=ar&s=)  
-**Updates**: Daily!  
-**Quality of data:**
+# Updates**: Daily!  
+# Quality of data:**
 
 | **Country** | **Radars known** |
 |---|---|
@@ -158,31 +158,31 @@ Download**: A list (<10euro per year) can be dowmload at [www.radarfalle.de](htt
 | Liechtenstein | 4 |
 | Australia | 1 |
 
-**Legend**: A lot of icons…
+# Legend**: A lot of icons…
 
 | ![](/assets/images/2005/12/Blitzer20kmh.gif) | ![](/assets/images/2005/12/Blitzer30Ampel.gif) | ![](/assets/images/2005/12/Blitzer30kmh.gif) | ![](/assets/images/2005/12/Blitzer40kmh.gif) | ![](/assets/images/2005/12/Blitzer50Ampel.gif) | ![](/assets/images/2005/12/Blitzer50kmh.gif) | ![](/assets/images/2005/12/Blitzer60Ampel.gif) | ![](/assets/images/2005/12/Blitzer60kmh.gif) | ![](/assets/images/2005/12/Blitzer70Ampel.gif) | ![](/assets/images/2005/12/Blitzer70kmh.gif) | ![](/assets/images/2005/12/Blitzer80Ampel.gif) | ![](/assets/images/2005/12/Blitzer80kmh.gif) | ![](/assets/images/2005/12/Blitzer90Ampel.gif) | ![](/assets/images/2005/12/Blitzer90kmh.gif) | ![](/assets/images/2005/12/Blitzer100kmh.gif) | ![](/assets/images/2005/12/Blitzer110kmh.gif) |  |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-**Screenshots:**  
+# Screenshots:**  
 ![](/assets/images/2005/12/TomTomDisplayingStreetRadarInZurich.jpg)  
-**Zürich the city where I live: 83 radars!**
+# Zürich the city where I live: 83 radars!**
 
 <span style="font-family: Arial Black; font-size: large;">gpspassion.com
 
-**Map: France ![](/assets/images/2005/12/france.gif) Download at** [http://www.gpspassion.com/forumsen/topic.asp?TOPIC\_ID=21763](http://www.gpspassion.com/forumsen/topic.asp?TOPIC_ID=21763)  
-**Updates** are **Monthly** (“Standard”) or BiMonthly (named “+” If You are a club member) **Quality of data**
+# Map: France ![](/assets/images/2005/12/france.gif) Download at** [http://www.gpspassion.com/forumsen/topic.asp?TOPIC\_ID=21763](http://www.gpspassion.com/forumsen/topic.asp?TOPIC_ID=21763)  
+# Updates** are **Monthly** (“Standard”) or BiMonthly (named “+” If You are a club member) **Quality of data**
 
 | \* Ventilation: **non** – par vitesse   \* Parametrage auto: **non** – Oui   \* Revision: **33** – 33.1   \* Radars Fixes: **580** – 623   \* Radars Mobiles: **1**,**000** – 8,785   \* Radars Feu Rouge: **47** – 55   \* Radars de Distance: **11** – 11 |
 |---|
 
-**Legend**:
+# Legend**:
 
 | ![](/assets/images/2005/12/RadarsFR.gif) | ![](/assets/images/2005/12/RD.gif) | ![](/assets/images/2005/12/RF-030.gif) | ![](/assets/images/2005/12/RF-050.gif) | ![](/assets/images/2005/12/RF-070.gif) | ![](/assets/images/2005/12/RF-080.gif) | ![](/assets/images/2005/12/RF-090.gif) | ![](/assets/images/2005/12/RF-110.gif) | ![](/assets/images/2005/12/RF-130.gif) | ![](/assets/images/2005/12/RM-030.gif) | ![](/assets/images/2005/12/RM-040.gif)![](/assets/images/2005/12/RM-045.gif)![](/assets/images/2005/12/RM-050.gif) | ![](/assets/images/2005/12/RM-060.gif)![](/assets/images/2005/12/RM-070.gif)![](/assets/images/2005/12/RM-080.gif) | ![](/assets/images/2005/12/RM-090.gif) | ![](/assets/images/2005/12/RM-100.gif) | ![](/assets/images/2005/12/RM-110.gif) | ![](/assets/images/2005/12/RM-120.gif) | ![](/assets/images/2005/12/RM-130.gif) |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 
-**Screenshots:**
+# Screenshots:**
 
 <span style="font-family: Arial Black; font-size: large;">**Note about all POI database**
 
@@ -193,7 +193,7 @@ Download**: A list (<10euro per year) can be dowmload at [www.radarfalle.de](htt
 
 <span style="font-family: Arial Black; font-size: large;">**![](/assets/images/2005/12/titel.jpg)**<span style="font-size: large;"><span style="font-family: Arial Black;"> **Links**
 
-**![](/assets/images/2005/12/france.gif) GPSpassion**
+# ![](/assets/images/2005/12/france.gif) GPSpassion**
 
 <span style="font-size: medium;">Presentation : [<span style="color: #0000ff; font-size: xx-small;">http://www.gpspassion.com/forumsen/topic.asp?TOPIC\_ID=9174](http://www.gpspassion.com/forumsen/topic.asp?TOPIC_ID=9174)<span style="font-size: medium;">  
 Les Radars – en chiffres: [<span style="color: #0000ff; font-size: xx-small;">http://www.gpspassion.com/forumsen/topic.asp?TOPIC\_ID=9172](http://www.gpspassion.com/forumsen/topic.asp?TOPIC_ID=9172)<span style="font-size: medium;"><span style="font-size: xx-small;">  

@@ -15,9 +15,9 @@ tags:
 
 With [Splunk](https://www.splunk.com) You will be able to
 
-**optimize container usage** by monitoring CPU, memory, disk and network performance metrics from your containers. Pay only for what you need by managing resources and measuring the impact on service reliability and container resource requirements.
+# optimize container usage** by monitoring CPU, memory, disk and network performance metrics from your containers. Pay only for what you need by managing resources and measuring the impact on service reliability and container resource requirements.
 
-**Get a complete overview of Kubernetes and OpenShift Environments** Correlate performance metrics, container logs and OpenShift/Kubernetes configuration and metadata for a better understanding of how your infrastructure is performing and how hosted applications are behaving.
+# Get a complete overview of Kubernetes and OpenShift Environments** Correlate performance metrics, container logs and OpenShift/Kubernetes configuration and metadata for a better understanding of how your infrastructure is performing and how hosted applications are behaving.
 
  ![](/assets/images/2019/09/manage-container-resources.png)
 

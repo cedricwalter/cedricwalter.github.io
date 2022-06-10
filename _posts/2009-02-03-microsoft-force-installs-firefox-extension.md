@@ -20,7 +20,7 @@ I’ve notice on Sunday evening the install of a new (HIDDEN) Firefox add-on
 - XP don’t display this add-on so it CANT be removed easily using the add-on manager
 - VISTA display the add-on “Microsoft .Net Framework Assistant” but uninstalling it in Firefox, restarting do not WORK
 
-**Attention: you will encounter this issue**
+# Attention: you will encounter this issue**
 
 - if you run Microsoft Update and install Microsoft .NET 3.5
 - If you install Microsoft Visual Studio 2008 (which require the above component)
@@ -42,7 +42,7 @@ You’ll have to hack the registry of Windows for now 🙁
 6. Remove (right click reset) `microsoft.CLR.clickonce.autolaunch`.
 7. Open Windows Explorer and go to`\WINDOWS\Microsoft.NET\Framework\v3.5\Windows Presentation Foundation\DotNetAssistantExtension\` to remove the last remnants of the evil extension.
 
-**Links**
+# Links**
 
 - <http://tech.slashdot.org/article.pl?sid=09/02/01/2143218>
 - [http://support.mozilla.com/tiki-view\_forum\_thread.php?locale=en-US&amp;comments\_parentId=265132&amp;forumId=1](http://support.mozilla.com/tiki-view_forum_thread.php?locale=en-US&comments_parentId=265132&forumId=1)

@@ -17,7 +17,7 @@ tags:
 
 Here is the easiest way to run a daily backup of your database using linux crontab. Thanks to our everyday increasing mailbox size (Thanks [Gmail](http://mail.google.com)) and their nature to be quite safe for saving document, let’s use them to store the full backup of all our [Mysql](http://www.mysql.com/) database!
 
-**Requirements**
+# Requirements**
 
 - Having a shell access to your linux box
 - Creating a user with limited mysql rights: SELECT and LOCK\_TABLES is enough, For example a user **backup\_user** with a password **ChhdeqyqUzd75687fOnmYar**

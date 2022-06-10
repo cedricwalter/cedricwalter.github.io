@@ -13,7 +13,7 @@ tags:
     - homepage
 ---
 
-**Comments <strike>are no more</strike> working on my homepage**
+# Comments <strike>are no more</strike> working on my homepage**
 
 This is not due to my plugin security images but more to [openSEF](http://www.opensef.org/), a very good SEF (Search Engine Friendly)/ SEO (Search Engine Optimisation) component for #Joomla/Mambo:
 
@@ -21,7 +21,7 @@ This is not due to my plugin security images but more to [openSEF](http://www.op
 
 which currently is not able to rewrite correctly URL of the component akocomment (and akobook as well). This is very frustrating for me and for You as well (As I have received many emails on this). I will have t write an extensions this week end to solve this issue.
 
-**I’ve solved the issue with openSEF by promptly deactivating it** when the user submit a for from akocomment or akobook. All You have to do is siimply edit the file */component/com\_sef/sef.php*
+# I’ve solved the issue with openSEF by promptly deactivating it** when the user submit a for from akocomment or akobook. All You have to do is siimply edit the file */component/com\_sef/sef.php*
 
 | before   (Line 26) | $sefEnabled = (file\_exists( $sefConfigFile ) &amp;&amp; filesize( $sefConfigFile ) > 0);   if ($sefEnabled &amp;&amp; $\_SERVER\[‘REQUEST\_METHOD’\] == ‘POST’ &amp;&amp; !empty( $\_POST\[‘option’\] ))    $sefEnabled = !($\_POST\[‘option’\] == ‘login’ \|\| $\_POST\[‘option’\] == ‘login’ \|\| $\_POST\[‘option’\] == ‘com\_phpshop’); |
 |---|---|

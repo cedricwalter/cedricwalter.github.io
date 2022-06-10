@@ -12,7 +12,7 @@ tags:
     - gadget
 ---
 
-**![sony hdr sr7](/assets/images/2007/10/sony.hrdsr7_.jpg "sony hdr sr7")AVCHD** (**Advanced Video Codec High Definition**) <span style="font-style: italic">is a new high-definition recording format introduced by Sony and Panasonic. It can use various storage media, including 8 cm (3") recordable DVD discs, a hard disk, or flash memory cards. The format is to compete with other handheld video camera recording formats, particularly HDV and MiniDV. \[from [WikiPedia](http://en.wikipedia.org/wiki/Advanced_Video_Codec_High_Definition)\]
+# ![sony hdr sr7](/assets/images/2007/10/sony.hrdsr7_.jpg "sony hdr sr7")AVCHD** (**Advanced Video Codec High Definition**) <span style="font-style: italic">is a new high-definition recording format introduced by Sony and Panasonic. It can use various storage media, including 8 cm (3") recordable DVD discs, a hard disk, or flash memory cards. The format is to compete with other handheld video camera recording formats, particularly HDV and MiniDV. \[from [WikiPedia](http://en.wikipedia.org/wiki/Advanced_Video_Codec_High_Definition)\]
 
  The major complain when it come to reviewing Sony SR7/SR8, panasonic SD5 or any previous model is the lack of editing tools for AVCHD (beside low light performances, but that is common on consumer camcorder). That’s why I propose You some links now:
 

@@ -33,11 +33,11 @@ So let repair this by:
 4. Create a link (named Synaptic for example) on the desktop (right click, create New link to application), in the tab *application*, under Command, type *sux -c /usr/sbin/synaptic* or open a terminal and type: *sux -c /usr/sbin/synaptic*
 5. Instead of using YaST, You can now use Synaptic (a graphical frontend for apt-get) to install, keep up to date or remove package s or If You prefer command line, type *apt-get install packagename* example: *apt-get install MPlayer*
 
-**<span style="font-size: large;">Decode encrypted DVD under Suse 9.3**
+# <span style="font-size: large;">Decode encrypted DVD under Suse 9.3**
 
 1. You need to install libdvdcss for reading encrypted DVD, I found on that page, a nice HowTo with a lot of screenshots [http://www.saunalahti.fi/~pirisisi/tips/Linux/dvdplay/](http://www.saunalahti.fi/~pirisisi/tips/Linux/dvdplay/)
 
-**<span style="font-size: large;">Install VLC**
+# <span style="font-size: large;">Install VLC**
 
 - VideoLAN is a highly portable multimedia player for various audio and video formats (MPEG-1, MPEG-2, MPEG-4, DivX, mp3, ogg, …) as well as DVDs, VCDs, and various streaming protocols. It can also be used as a server to stream in unicast or multicast in IPv4 or IPv6 on a high-bandwidth network.
 - Install using YaST the following libraries:
@@ -50,11 +50,11 @@ So let repair this by:
     2. **Downloading manually** all required rpm at [Packman](http://packman.links2linux.de/?action=377) in a directory, the use Yast to install each RPM (clik on each one in konqueror) or using the terminal: *rpm -i \*.rpm*
 
 <span style="font-size: large;"> **Install Mplayer**  
-**the** open source player for all video format 
+# the** open source player for all video format 
 
 - If You prefer Mplayer, as always, go to [PackMan website](http://packman.links2linux.de/) and install all RPM found in that [page](http://packman.links2linux.de/?action=128)
 
-**<span style="font-size: large;">Access to my external USB disk are slow …**
+# <span style="font-size: large;">Access to my external USB disk are slow …**
 
 This is because of the way SuSe mount dynamically Reiserf. Your disk is continually trying to synchronize with the journal. You can recover the performance loss by mounting the disk manually instead of letting Dbus do it for You. It is just anoying…
 

@@ -8,22 +8,22 @@ guid: 'https://waltercedric.com/new/?p=1222'
 permalink: /motorcycles/comment-perdre-des-points-sur-votre-permis-sans-efforts/
 ---
 
-**Comment perdre des points sur votre permis sans efforts….** Un motard averti en vaut deux…
+# Comment perdre des points sur votre permis sans efforts….** Un motard averti en vaut deux…
 
-**On commence doucement on perdra 1 points si:**
+# On commence doucement on perdra 1 points si:**
 
 - Chevauchement d’une ligne continue seule ou quand elle n’est pas doublée par une ligne discontinue du cà´té de l’usager ou
 - Dépassement de moins de 20 km/h de la vitesse maximale autorisée ou
 - Maintien des feux de route gênant les conducteurs venant en sens inverse malgré leurs appels de phares.
 
-**On perd 2 points si:**
+# On perd 2 points si:**
 
 - Usage d’un téléphone tenu en main par le conducteur d’un véhicule en circulation ou
 - Circulation ou stationnement sur le terre-plein central d’autoroute ou
 - Accélération de l’allure par le conducteur d’un véhicule sur le point d’être dépassé ou
 - Dépassement de la vitesse maximale autorisée comprise entre 20 km/h et moins de 30 km/h
 
-**On perdra 3 points si:**
+# On perdra 3 points si:**
 
 - Circulation sans motif sur la partie gauche de la chaussée ou
 - Pour les conducteurs titulaires d’un permis de conduire depuis moins de 2 ans, dépassement de moins de 40 km/h de la vitesse maximale autorisée ou
@@ -35,7 +35,7 @@ permalink: /motorcycles/comment-perdre-des-points-sur-votre-permis-sans-efforts/
 - Circulation sur bande d’arrêt d’urgence (! ) ou
 - Non-port de la ceinture de sécurité pour les conducteurs de voitures et de camionnettes ou **Non-port du casque ou port d’un casque non-homologué** pour les conducteurs de deux-roues…
 
-**On perdra 4 points si:**
+# On perdra 4 points si:**
 
 - Blessures involontaires entraînant une incapacité totale de travail n’excédant pas 3 mois, commises à l’occasion de la conduite d’un véhicule terrestre à moteur ou
 - Non-respect de l’arrêt imposé par le panneau “stop” ou par le feu rouge fixe ou clignotant ou
@@ -45,7 +45,7 @@ permalink: /motorcycles/comment-perdre-des-points-sur-votre-permis-sans-efforts/
 - Circulation la nuit ou par temps de brouillard en un lieu dépourvu d’éclairage public, d’un véhicule sans éclairage ni signalisation ou
 - Marche arrià¨re ou demi-tour sur autoroute
 
-**On perdra 6 points si:**
+# On perdra 6 points si:**
 
 - Refus de se soumettre aux vérifications d’alcoolémie ou
 - Délit de fuite ou

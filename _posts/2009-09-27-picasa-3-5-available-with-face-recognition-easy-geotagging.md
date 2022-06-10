@@ -27,7 +27,7 @@ tags:
 
 This version bring 2 new highly desirable features
 
-**Add name tags** – Picasa 3.5 scans all the photos in your collection, identifies the ones with faces, and groups photos with similar faces together. It’s easy to add name tags to dozens of photos at once by clicking “Add a name” below a photo and typing the person’s name. Once you’ve tagged some pictures, you can make a face collage with one click, easily find all your pictures with the same two people in them, or upload your name tags to Picasa Web Albums
+# Add name tags** – Picasa 3.5 scans all the photos in your collection, identifies the ones with faces, and groups photos with similar faces together. It’s easy to add name tags to dozens of photos at once by clicking “Add a name” below a photo and typing the person’s name. Once you’ve tagged some pictures, you can make a face collage with one click, easily find all your pictures with the same two people in them, or upload your name tags to Picasa Web Albums
 
 See below with an old picture, on the right side, the software detect all faces in pictures an propose you to tag them! (yes this was me when I was 4 years old)
 
@@ -35,7 +35,7 @@ See below with an old picture, on the right side, the software detect all faces 
 
 Now, not finding people in your huge library of pictures is a thing of the past.
 
-**Geotag your photos with Google Maps** – Quickly add geotags using new integrated Google Maps by clicking the **Places** button in Picasa 3.5, and dragging your photos to the location where you took them. Of course you can stil use Google Earth to tag or view photos if you prefer.
+# Geotag your photos with Google Maps** – Quickly add geotags using new integrated Google Maps by clicking the **Places** button in Picasa 3.5, and dragging your photos to the location where you took them. Of course you can stil use Google Earth to tag or view photos if you prefer.
 
 Below a picture of Bauschänzli, near Zürich Bellevue.
 

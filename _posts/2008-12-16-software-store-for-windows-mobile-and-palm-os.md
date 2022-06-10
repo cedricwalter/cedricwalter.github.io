@@ -22,7 +22,7 @@ That will be a huge task as Windows mobile is known to have more than 18,000 3rd
 
  [![8d693a9e-b034-4180-8c4d-fcbe8414e541](/assets/images/2008/12/8d693a9eb03441808c4dfcbe8414e541.jpg)](http://www.handango.com/)
 
-**Android Market** helps developers get their applications in the hands of users by acting as an open distribution system. A beta version is now available on the world’s first Android-powered phone, the T-Mobile G1.
+# Android Market** helps developers get their applications in the hands of users by acting as an open distribution system. A beta version is now available on the world’s first Android-powered phone, the T-Mobile G1.
 
  [![56afd051-c111-4f75-89d8-a55be4b9a4e9](/assets/images/2008/12/56afd051c1114f7589d8a55be4b9a4e9_3.jpg)](http://www.android.com/market/)
 

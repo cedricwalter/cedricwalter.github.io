@@ -22,6 +22,6 @@ I also want to **add a new API** (the current one will be still available) that 
 
 Ajax would be nice to have in front end and backend, but that may be out of reach for this release.
 
-**It is time** **[to request new features in the forum!](http://forums.waltercedric.com/index.php?board=48.0)** I will look at request and it may be part of that release…
+# It is time** **[to request new features in the forum!](http://forums.waltercedric.com/index.php?board=48.0)** I will look at request and it may be part of that release…
 
 Release in worst case expected for end of months.

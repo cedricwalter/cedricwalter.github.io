@@ -30,7 +30,7 @@ Highly customizable to display a badge of your [Smugmug ](http://www.smugmug.com
 
 ###### Previous user of the following extensions?
 
-**Remove any previous** **extensions** from me, here is the list:
+# Remove any previous** **extensions** from me, here is the list:
 
 - mod\_smugmugbadge
 - mod\_smugmugrandom

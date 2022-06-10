@@ -21,7 +21,7 @@ The feature show/hide a la Phil Taylor (many request) is working but do not forg
 
 Concerning existing comments, no worry, I will provide during the install scripts to rename, alter the akocomment tables.
 
-**New functionnalities are what You see in the picture +** //below are settings with still no panel entries  
+# New functionnalities are what You see in the picture +** //below are settings with still no panel entries  
 $opencomment\_allowcommenttracking = "1";  
 $opencomment\_allowrevisiontracking = "0";  
 $opencomment\_textAreaSize = "8";  
@@ -40,4 +40,4 @@ $opencomment\_commentPermalink = "1";
 $opencomment\_commentDisplayRate = "1";  
 $opencomment\_commentEmailIt = "1";
 
-**Code is in CVS, any help or support as always is appreciated 😉**
+# Code is in CVS, any help or support as always is appreciated 😉**

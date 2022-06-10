@@ -12,7 +12,7 @@ permalink: /motorcycles/how-to-replace-the-damping-material-of-a-bos-oval-exhaus
 
 A small Do It Yourself (DIY) that i will never do anymore as it is really dirty and may be also very unhealthy (you MUST wear a mask). This [BOS exhaust](http://www.bos-exhausts.com/) has an ABE number, and was simply making way too much noise for Switzerland. It is normal that after some kilometers the content get more compacted and as a result make the exhaust more noisy. [Price of a new BOS Oval exhaust silencer](http://www.bos-exhausts.com/e-oval.html) is 475 euro
 
-**Total costs:**
+# Total costs:**
 
 - 42 euro for the Bos re-pack kit for 1 silencer Complete with stainless steel wool, Fibercon damping material and gas-tight stainless rivets. (Ref 333001)
 - 52 euro for a stronger Rivet pliers (able to ply 4.5mm stainless rivets)
@@ -21,7 +21,7 @@ First things to do is to open the casing, depending on your muscles and if you p
 
 I use 2 straps to apply a force laterally and 2 to maintain the strap around the casing
 
-**Attention!**
+# Attention!**
 
 You can pull 1.6 Tons of traction even on these small straps! Check your pillar (here my balcony pillar did resist 🙂 ). Chance are that you will open the exhaust that way.
 

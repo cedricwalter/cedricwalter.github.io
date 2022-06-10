@@ -47,6 +47,6 @@ not just for retrieving files from this repository, but to upload artifacts at t
 A local cache of downloaded artifacts acts as the primary means of synchronizing the output of  
 projects on a local system.*
 
-**[Maven](http://maven.apache.org/)* is based on a plugin-based architecture that allows it to make use of any application  
+# [Maven](http://maven.apache.org/)* is based on a plugin-based architecture that allows it to make use of any application  
 controllable through standard input. Theoretically, this would allow anyone to write plugins to  
 interface with build tools (compilers, unit test tools, etc.) for any other language.* [from WikiPedia](http://en.wikipedia.org/wiki/Apache_Maven)

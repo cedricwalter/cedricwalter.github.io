@@ -21,8 +21,8 @@ This game console is part of my growing collection of vintage gaming system, so 
 
 [![sega.gamegear.5games](/assets/images/2010/09/sega.gamegear.5games_thumb.jpg "sega.gamegear.5games")](/assets/images/2010/09/sega.gamegear.5games.jpg)
 
-**Bought** 2010.09.19   
-**Price paid:** 10€   
+# Bought** 2010.09.19   
+# Price paid:** 10€   
 K xxxxxxx with box, without notices, 5 games
 
 The **Sega Game Gear** (ゲームギア *Gēmu Gia*<sup>?</sup>) was Sega’s first handheld game console. It was the third commercially available color handheld console, after the Atari Lynx and the Turbo Express.

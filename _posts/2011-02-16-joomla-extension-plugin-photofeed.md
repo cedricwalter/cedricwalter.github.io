@@ -24,10 +24,10 @@ You can [see it running here](http://demo-joomla-1.5.waltercedric.com/index.php?
 
 [![photofeed.joomla.1.5_thumb3](/assets/images/2011/02/photofeed.joomla.1.5_thumb3_thumb.png "photofeed.joomla.1.5_thumb3")](/assets/images/2011/02/photofeed.joomla.1.5_thumb3.png)
 
-**NEW**: use /media directory for resources   
-**NEW**: online documentation in administrator panel   
-**NEW**: plugin log data in debug mode at /logs/plg.photofeed.log.php you cant point a browser to it, use FTP/SCP/Plesk/Cpanel to read this file.   
-**NEW**: demo mode
+# NEW**: use /media directory for resources   
+# NEW**: online documentation in administrator panel   
+# NEW**: plugin log data in debug mode at /logs/plg.photofeed.log.php you cant point a browser to it, use FTP/SCP/Plesk/Cpanel to read this file.   
+# NEW**: demo mode
 
 #### Download PhotoFeed
 

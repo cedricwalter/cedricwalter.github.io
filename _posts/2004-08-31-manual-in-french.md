@@ -17,13 +17,13 @@ tags:
 
 Use a translation tool like babelfish if needed…
 
-**Manuel du scooter Manurhin SM75**
+# Manuel du scooter Manurhin SM75**
 
 Translate this page
 
 N’ayant pas trouvé de copyright dans le manuel, ni aucun droit de reproduction, je me suis permit de le reproduire ici, pour le bien de la communauté. En vous souhaitant bonne restauration
 
-**REMARQUES TRÈS IMPORTANTES**   
+# REMARQUES TRÈS IMPORTANTES**   
  IL NE FAUT-EN AUCUN CAS FAIRE TOURNER LE MOTEUR A L’ESSENCE PURE.  
  IL EST INDISPENSABLE D’AJOUTER A VOTRE ESSSENCE 5 °/, D’HUILE BP ENERGOL 2 TEMPS TYPE HV PENDANT LA PERIODE DE RODAGE. RAMENER ENSUITE LE POURCENTAGE A 4 %.  
  N’OUBLIEZ PAS QU’IL EST INDISPENSABLE DE FAIRE OPERER PAR UN CONCESSIONNNAIRE MANURHIN UNE REVISION DE LA MACHINE APRES LES PREMIERS 35 KILOMETRES, ET UNE AUTRE APRES 1.500 KM.  
@@ -40,7 +40,7 @@ Désignation
  Démontages, remontages, réglages   
  Pannes et leurs remèdes
 
-**AVANT-PROPOS**
+# AVANT-PROPOS**
 
 Vous venez de faire l’acquisition d’un Scooter MANURHIN. Que vous soyez un néophyte ou un praticien, en tant qu’utilisateur de moto, cyclo ou autre engin motorisé, il est de votre intérêt de lire attentivement celte Notice.   
 Vous apprendrez connaître ainsi complètement votre machine, et vous arriverez. la conduire parfaitement dès votre première sortie.   
@@ -94,7 +94,7 @@ et variateur infinies
 Rapport du variateur Démultiplication roue motrice totale   
 1 :3,6 couple I :8,33
 
-**POSITION ET NATURE DES COMMANDÉS**   
+# POSITION ET NATURE DES COMMANDÉS**   
 a) FREIN AV : Par levier sur guidon, transmission par câble et réglage par vis creuse et contre-écrou ;   
 b) FREIN AR : Par pédale dépassant du plancher, transmission I : 3,5 chaîne 1 :24.4   
 Avec des pneumatiques de 2,75/16 (dont la circonférence de roulement sous charge est de 1,725 mètre), la vitesse peut varier   

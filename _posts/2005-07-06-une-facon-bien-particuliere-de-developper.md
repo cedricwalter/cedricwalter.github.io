@@ -10,7 +10,7 @@ permalink: /java/une-facon-bien-particuliere-de-developper/
 
 Beaucoup de personne me connaissant et qui m’écrivent me demande comment je developpe mes programmes java car je trouve toujours le moyen d’en faire des frameworks…ce qui est par définition plus dur.
 
-**Eh bien j’applique plusieurs petite règles simples…**
+# Eh bien j’applique plusieurs petite règles simples…**
 
 1. Un bon tool: je ne travaille qu’avec eclipse ([www.eclipse.org](http://www.eclipse.org/)) car c’est un IDE de qualité et malgré la quantité de perspectives (j’en ai 16), views (j’en ai 64) et plugins (>20), je m’y sens à l’aise. Je privilégie la vue hiérarchique “java browsing view” avec une vue supplementaire “hiérarchie” (F4) car cela facilite la navigation et le découpage sémantique losque je dévelope (**projets**<-> **packages**<->**objets**<->**hiérarchie**<->**méthodes**<->**code**)
 2. Un **environnement de travail propice**: Je travaille avec 2 écrans (un 21” et un 15’4 LCD) car rien n’est plus ennuyeux de perdre son temps à bouger/réduire/changer de tâches sans cesse. Cela me permet aussi de travailler en parallèle. C’est déroutant au début mais rien n’est plus malléable que le cerveau humain et vous vous surprendrez au bout de quelques semaines en passant d’un écran à l’autre sans cesse. C’est simple si demain je trouve une méthode fiables et peu couteuse en temps CPU (pas avec une carte video USB svp) pour avoir un troisième écran, je saute sur l’occasion immédiatement.
@@ -30,7 +30,7 @@ Quelques techniques de développement modernes, ont bouleversés ma vie (relativ
 4. l’UML (**Unified Modelling Language**) oui de plus en plus, mais uniquement pour observer l’évolution des dépendances entre les objects (les motifs et les relations) sur mon 2ème écran. Et toujours en reverse engineering: je modifie le code java et observe d’un oeil le diagramme UML. En fait cela rejoint la programmation par intention dans un sens sauf que normalement on part de l’UML par intention pour créer le squellete du code java et non l’inverse. Le sens que j’utilise permet cependant de compléter mon javadoc ou ma documentation efficacement.
 5. Les “**metrics**” ([plugin eclipse metrics](http://metrics.sourceforge.net/)) ne me servent que rarement mais surtout pour auditter du code ne m’appartenant pas. J’utilise neanmoins le [plugin Code analysys plugin ](http://sourceforge.net/projects/cap4e/)(**CAP**) ou celui de IBM alphawork: [Structural Analysis for Java](http://www.alphaworks.ibm.com/tech/sa4j) (**SA4j**) néanmoins de temps en temps…
 
-**Mais la véritable APOCALYPSE est survenue chez moi il y a trois ans:**
+# Mais la véritable APOCALYPSE est survenue chez moi il y a trois ans:**
 
 1. Avec le “**Refactoring**” ‘ [www.refactoring.com](http://www.refactoring.com/) ) il m’est impossible de tout prévoir et c’est la que trés rapidement, le refactoring tool de eclipse m’aide car j’itère des changes atomiques (dans le sens: élémentaire et rapide) très rapidement à travers tout mon code et cela en permanence. Des méthodes bougent ou disparaissent, je renomme en permanence tout: variables, objects, packages (pour éviter des commentaires à travers mon code). j’introduit aussi des design patterns.  
     Je les utilisent tellement que j’ai définit des racourcis clavier dans le workspace de eclipse.  
@@ -41,7 +41,7 @@ Est ce la bonne facon de developper? cela dépend des situations, du domaine ou 
 
 Est t’on forcément plus lent? oui et non, cette méthode est déroutante de prime abord mais elle respecte la théorie de l’évolution biologique, génération après génération (refactoring – design – refactoring – unit test) le code devient meilleur.
 
-**Attention**: on est pas forcément plus lent, mais cette méthode n’est pas très adaptée au problèmes pointues: on peut se prendre des murs sans cesse (et donc réimplémenter-refactorer) si on ne réflechit pas assez au préalable.
+# Attention**: on est pas forcément plus lent, mais cette méthode n’est pas très adaptée au problèmes pointues: on peut se prendre des murs sans cesse (et donc réimplémenter-refactorer) si on ne réflechit pas assez au préalable.
 
 D’un autre coté, ce qui est certain, c’est que écrire des frameworks est forcément plus long et plus dur que, en caricaturant, faire un main() de 150 lignes (mon dieu, cela se voit encore trop souvent). L’interèt de l’existence d’un framework est dans la réutilisation par d’autres personnes de votre code, et le fait que vous avez deja réalisés pour eux les taches les plus difficiles, mais tout en leur laissant la liberté de spécialiser votre code au besoin.
 

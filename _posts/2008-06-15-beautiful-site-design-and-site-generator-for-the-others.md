@@ -20,7 +20,7 @@ image: /wp-content/uploads/2008/06/0f4fcf340e9040cbbdff66d4f2634056.jpg
 
 So for the rest of use, not fortunate enough to afford a designer, there is still a lot of options like
 
-**[TemplateShaker](http://wonderwebware.com/templateshaker/)** is WYSIWYG (what you see is what you get) xhtml/css template generator.
+# [TemplateShaker](http://wonderwebware.com/templateshaker/)** is WYSIWYG (what you see is what you get) xhtml/css template generator.
 
 > ***“***Using this tool is pretty simple: just click and customize the look and feel of the template on   
 > the fly, in complete WYSIWYG environment. Save the template and it is done – just open the   

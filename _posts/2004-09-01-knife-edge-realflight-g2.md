@@ -92,7 +92,7 @@ As a result on my PC nearly every visual enhancement are switch off, but that is
 | <a>**PC 1** VIA KT133, duron 800 Mhz, Hercules GeForce 2 GTS 64Mo, 512 Mo SDRAM 133MHz, IBM 60 Go 7200 tr/min UDMA66, all test at 1280×1024 32bits   (I want to test Realflight© G2 on a better configuration before updating mine, I do not think that a geforce 4 will help, maybe a better cpu….definitively a free update from knife edge to improve physics)</a> | **PC 2** I’ve tested Realflight on my PC (see above) and on the following :   Athlon Xp 1600, Leadtek geforce TD 2500 (geforce4 4400 overclocking @ 4600), 512 Mo DDR 266Mhz, IBM 80 Go 7200 tr/min UDMA100, all test at 1280×1024 32bits |
 | **PC 4**   NVIDIA Nforce2, duron 800 Mhz, Hercules GeForce 2 GTS 64Mo, 512 Mo DDR 2700, IBM60Go + IBM80Go + MAXTOR120Go 7200 tr/min UDMA133, all test at 1280×1024 32bits | **PC 3** I’ve tested Realflight on my PC (see above) and on the following :   Athlon Xp 2800, Leadtek geforce TD 2500 (geforce4 4400 overclocking @ 4600), 1024 Mo DDR 266Mhz, IBM 80 Go 7200 tr/min UDMA100, all test at 1280×1024 32bits |
 
-**What I have noted on PC 2**  
+# What I have noted on PC 2**  
 – If you deactivate nearly everything, the FPS (frame per second) counter seem to reach limit value which is near 90 fps.  
 – Grass is consuming alone > 20 fps !  
 – People and in fact increasing number of object to the max let you go between 40 and 45 fps (was below 20 fps on PC 1), which should be enough, but the problem is the frontier between 80 fps and 45 fps, some glitches are encountered and when flying you feel the changes.
@@ -127,7 +127,7 @@ Other keys can be emulated with the keyboard….
 - GREAT to use your real TX, feeling is a lot better ! (weight of TX, tension of sticks, position of fingers etc…)
 - It is a lot cheaper than the interface provided by Realflight (>230€ in France).
 
-**Raptor 60 tweaking :** credit to [**Twobeers**](http://runryder.com/member.htm?action=mailform&userid=1510) **(RunRyder)**
+# Raptor 60 tweaking :** credit to [**Twobeers**](http://runryder.com/member.htm?action=mailform&userid=1510) **(RunRyder)**
 
 - Reset the all the gyro settings to original values to start with.
 - Go to the Jet Ranger and write down all the tail figures and change the tail figures of the Raptor 60 so that they are the same as the Jet Rangers.
@@ -136,7 +136,7 @@ Other keys can be emulated with the keyboard….
 - Lower the paddle weights by 5 grams.
 - Make the servo’s a little faster.
 
-**Raptor 30 tweaking :** credit to [**Mad Scientist**](http://runryder.com/member.htm?action=getinfo&userid=3805) **(RunRyder)** Download the following file and save it in your “*planes*” directory
+# Raptor 30 tweaking :** credit to [**Mad Scientist**](http://runryder.com/member.htm?action=getinfo&userid=3805) **(RunRyder)** Download the following file and save it in your “*planes*” directory
 
 [RaptorEE.zip](http://www.waltercedric.com/Helico/raptor/rfg2/RaptorEE.zip)[Raptor30TunedAddon3.zip](http://www.waltercedric.com/Helico/raptor/rfg2/Raptor30TunedAddon3.zip)<a>**Tips :**</a>
 

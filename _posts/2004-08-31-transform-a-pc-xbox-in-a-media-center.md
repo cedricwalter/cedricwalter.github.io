@@ -12,11 +12,11 @@ tags:
     - development
 ---
 
-**Purpose**
+# Purpose**
 
 Bring all kind of multimedia format to your home Cinema or TV by connecting your pc onto it.
 
-**Requirements**
+# Requirements**
 
 - A modern Media center has to play at least the following format:
 
@@ -29,7 +29,7 @@ Bring all kind of multimedia format to your home Cinema or TV by connecting your
 - Using a remote controller and easy navigation menu, no keyboard is needed except for internet navigation
 - Reading media from CD/DVD or better a local hardisk (inside the pc) and even better from a remote PC that act as a storage server (with a lot of disk)
 
-**Plattform**
+# Plattform**
 
 If it is a PC, you can use:
 
@@ -40,7 +40,7 @@ If it is a PC, you can use:
 
 Otherwise a modified XBOX (300â?¬ because of IR kit + modchips) can be an ellegant alternative, not so much noise, small.
 
-**Some links**
+# Some links**
 
 I recommend You to try the first 2 of this list, personnaly I will try now the Xbox media center solution.
 

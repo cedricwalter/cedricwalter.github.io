@@ -18,7 +18,7 @@ Has been released at #Joomla Forge, [see details here](/component/option,com_ver
 
 It is also rnning on my homepage so it is a pretty stable version 😉 tested against akcomment, akobook, contact
 
-**Securityimages 3.0.0rc2**
+# Securityimages 3.0.0rc2**
 
 - new: Logged in Users No/Yes Switch off the system for logged in users?
 - new: new plugin HNCapctha which create beautiful captcha (as seen on my site)

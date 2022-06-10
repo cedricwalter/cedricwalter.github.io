@@ -18,10 +18,10 @@ tags:
 
 ![](/assets/images/2006/10/module_rssfriends.gif) The module RSS friends (mod\_rssfriends) give the opportunity to Your visitors to add your RSS to the most popular RSS socialnet…..¨
 
-**NEW**: version 1.6.0 is only for [Joomla!](http://www.joomla.org/) 1.6   
-**NEW**: This version use the #Joomla! build in update manager, just browse to the page **Extension Manager: Update** (at yoursite/administrator/index.php?option=com\_installer&amp;view=update) to fetch and update this extension with one click   
-**NEW:** templating in mod\_rssfriendstmpldefault.php   
-**NEW:** Embeded documentation windows to live wiki page for always up to date documentation
+# NEW**: version 1.6.0 is only for [Joomla!](http://www.joomla.org/) 1.6   
+# NEW**: This version use the #Joomla! build in update manager, just browse to the page **Extension Manager: Update** (at yoursite/administrator/index.php?option=com\_installer&amp;view=update) to fetch and update this extension with one click   
+# NEW:** templating in mod\_rssfriendstmpldefault.php   
+# NEW:** Embeded documentation windows to live wiki page for always up to date documentation
 
 [![](components/com_docman/themes/mjaztools_blogtheme/images/icons/32x32/zip.png)](https://waltercedric.com/new/?p=575)[Module RSS friends ](https://waltercedric.com/new/?p=575)
 

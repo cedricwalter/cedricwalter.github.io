@@ -18,7 +18,7 @@ Hashcash component has protected successfuly my homepage against several attack 
 - 83.28.166.64 (Marina Del Rey, California, United States)and
 - 83.28.167.186 (Marina Del Rey, California, United States)
 
-**Next release of hashcash:**
+# Next release of hashcash:**
 
 - A correct and well formed XML in logs files 😉
 - A random security images -> changes in akocomment, easy to do since there is a [very good tutorial](http://www.devshed.com/c/a/PHP/Security-Images-in-PHP/) at [DEVSHED.com](http://www.devshed.com)

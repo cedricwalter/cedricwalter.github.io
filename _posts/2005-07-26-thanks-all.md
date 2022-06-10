@@ -13,7 +13,7 @@ tags:
     - important
 ---
 
-**Thanks to all my visitors! **
+# Thanks to all my visitors! **
 
 - It seems that You appreciate my new [Mambo powered](http://www.mamboserver.com/) Homepage: nearly 300.000 visitors in 15 months: an average of 20.000 visits monthly
 - My Google ranking (Google’s measure of the importance of this page) is **3/10** which is terrific for a personal page 🙂
@@ -22,4 +22,4 @@ tags:
 - I have app. 200 comments posted in articles 🙂 You feedback is important, I always try to improve articles contents based on Your remarqs.
 - Only the forum is not really used…
 
-**You are encouraging me each day to do more…let’s keep the good work together 🙂**
+# You are encouraging me each day to do more…let’s keep the good work together 🙂**

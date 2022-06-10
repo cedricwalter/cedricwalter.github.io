@@ -12,7 +12,7 @@ permalink: /joomla/joomlacomment-4-0-jquery-optimization/
 
 ![jocomment](/assets/images/2009/10/jocomment.jpg "jocomment") I did install yesterday evening the latest version of [!JoomlaComment](http://compojoom.com/)
 
-**[!JoomlaComment](http://compojoom.com/)** is one of the first extensions for #Joomla,that let you comment under articles.
+# [!JoomlaComment](http://compojoom.com/)** is one of the first extensions for #Joomla,that let you comment under articles.
 
 The **[!JoomlaComment](http://compojoom.com/)** system can be installed on any joomla website within seconds! Make   
 your website more interactive!

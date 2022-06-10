@@ -10,11 +10,11 @@ tags:
     - OpenSuse
 ---
 
-**RPMs**
+# RPMs**
 
 - <http://packman.links2linux.de/>
 
-**APT repositories**
+# APT repositories**
 
 - <http://linux01.gwdg.de/apt4rpm/> This is an apt repository for SuSE as well. It’s not run by SuSE but it integrates very well into their distribution.
 - <ftp://ftp.gwdg.de/linux/suse/apt/SuSE/9.2-i386/>   

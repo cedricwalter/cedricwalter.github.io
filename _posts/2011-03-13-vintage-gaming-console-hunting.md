@@ -102,7 +102,7 @@ with 29 games as new + cables + 1 pad + 1 pad Sega Genesis = 20€
 - Columns
 - Mortal Kombat 2
 
-**Sony Playstation PS1**
+# Sony Playstation PS1**
 
 Games (all for 5€)
 
@@ -124,11 +124,11 @@ Games (all for 5€)
 - Starshot
 - F1 Pole Position 64
 
-**![sega-dreamcast](/assets/images/2011/03/sega-dreamcast.jpg "sega-dreamcast") Sega Dreamcast**
+# ![sega-dreamcast](/assets/images/2011/03/sega-dreamcast.jpg "sega-dreamcast") Sega Dreamcast**
 
 - Shenmue (4CD) as new!
 
-**![sega-genesis](/assets/images/2011/03/sega-genesis.jpg "sega-genesis") Sega Megadrive 1**
+# ![sega-genesis](/assets/images/2011/03/sega-genesis.jpg "sega-genesis") Sega Megadrive 1**
 
 - cables + 1 pad + 1 arcade pad
 
@@ -155,7 +155,7 @@ Got a lot of new vintage Gaming console this week end , did not sort all things 
 
 [![IMG_3109](/assets/images/2011/03/IMG_3109_thumb.jpg "IMG_3109")](/assets/images/2011/03/IMG_3109.jpg) [![IMG_3110](/assets/images/2011/03/IMG_3110_thumb.jpg "IMG_3110")](/assets/images/2011/03/IMG_3110.jpg) [![IMG_3108](/assets/images/2011/03/IMG_3108_thumb.jpg "IMG_3108")](/assets/images/2011/03/IMG_3108.jpg)
 
-**Details**
+# Details**
 
 - 1 Sony Playstation Psone SCPH-102 c4362159 + 2 pads + Game: Moto Racer 2 = 10€
 - Sega Megadrive Pal-G 1601-18 serial 420014242 + 2 pads + cables + Games: Disney Lion King + Eco the dolphin + Toe Jam and Earl + Tiny toon – buster’s hidden treasure + World of Illusion starring Mickey Mouse = 3€

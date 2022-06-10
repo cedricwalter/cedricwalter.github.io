@@ -42,7 +42,7 @@ The first crypto exchange was the Binance exchange launching its “Launchpad”
 
 Visit now [https://ieo.tokens-economy.com](https://ieo.tokens-economy.com/)
 
-**You may also like**
+# You may also like**
 
 - [61 Security Token Offering (STO) analyzed](https://www.linkedin.com/pulse/security-token-offering-sto-statistics-c%C3%A9dric-walter/)
 - [600 Initial Token Offering (ICO) analyzed](https://www.linkedin.com/pulse/ico-statistics-2018-outlook-2019-c%C3%A9dric-walter/)

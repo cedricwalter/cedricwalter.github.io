@@ -47,7 +47,7 @@ What a windows users do need to install or use in SUSE 9 to complete the same ta
 
 ## <font face="Arial Black" size="4">Evening 1
 
-**Note** all these screenshot has been done with <font face="Courier New" size="2">KSnapshot, finding this application was quite easy even if the menu contains a lot of entries, you can locate it under <font face="Courier New" size="2">**Utilities – Desktop – KSnapshot**. I must admit that due to the huge number of shipped applications, SUSE has done a good sorting job in this menu. Of course you must know what you want to start or which task you want to accomplish
+# Note** all these screenshot has been done with <font face="Courier New" size="2">KSnapshot, finding this application was quite easy even if the menu contains a lot of entries, you can locate it under <font face="Courier New" size="2">**Utilities – Desktop – KSnapshot**. I must admit that due to the huge number of shipped applications, SUSE has done a good sorting job in this menu. Of course you must know what you want to start or which task you want to accomplish
 
 ![menusSortingPerfect.gif](/assets/images/2004/08/tn_menusSortingPerfect.jpg)Regret I browse thee documentation of <font face="Courier New" size="2">KSnapshot and did not find any shortcuts/hotkey to trigger the screenshot….Naivement, I ‘ve try the magic windows key combination, <font face="Courier New" size="2">ALT-PRTSC or <font face="Courier New" size="2">PRTSC, but it does not work….so I decide then to search on [google](http://www.google.com/)….”<font face="Courier New" size="2">ksnapshot shortcut” give me the answer, <font face="Courier New" size="2">CTRL-SHIFT-S which is documented in a “KDE-cvs-digest” as a “backdoor”. I see here a documentation potential 🙂
 
@@ -120,9 +120,9 @@ due to huge number of options
 - I still prefer a Norton Commander (because of the dual panel), so I am hunting on internet and found <font face="Courier New" size="2">XNC 5.0 but no precompiled rpm for SUSE. this oblige me to compile the source code…
 - Path to file is difficult to keep in mind (mainly because there is no more drive letter, I only need some practice…), but you can define favorites
 
-**XNC is also downloable for SuSe 9.0 here :** [**xnc-5.0.4-1.i586.suse9.0.rpm**](images/pc/suse/download/xnc-5.0.4-1.i586.suse9.0.rpm)
+# XNC is also downloable for SuSe 9.0 here :** [**xnc-5.0.4-1.i586.suse9.0.rpm**](images/pc/suse/download/xnc-5.0.4-1.i586.suse9.0.rpm)
 
-**Midnight Commander** is a clone of Norton Commander running in a terminal (just type <font face="Courier New" size="2">mc)
+# Midnight Commander** is a clone of Norton Commander running in a terminal (just type <font face="Courier New" size="2">mc)
 
 ![mcommander.png](/assets/images/2004/08/tn_mcommander.jpg)## Krusader
 
@@ -327,7 +327,7 @@ It seems that connecting SuSE to another remote windows desktop is not as easy a
 
 You must use [Samba](http://www.samba.org/) for all above.
 
-**1. How #Linux can access to a Windows machine on the network/shares/printer/internet?**
+# 1. How #Linux can access to a Windows machine on the network/shares/printer/internet?**
 
 A lot of FAQ and Howto can be found with google, use the keywords: “linux windows smb howto”
 
@@ -340,7 +340,7 @@ If these steps are working, you can add definitively in /etc/samba/smb.conf the 
 
 If these steps are working, you can add definitively in /etc/samba/smb.conf the remote windows share, either with the YaST gui or with a text editor.
 
-**2. How Windows can access to #Linux machine on the network/shares/printer/internet?**
+# 2. How Windows can access to #Linux machine on the network/shares/printer/internet?**
 
 In Yast go to “Network Services” then “Samba Server” and enter the name of your windows workgroup
 
@@ -369,7 +369,7 @@ printable = no
 - screem http://www.screem.org/
 - Mozilla Composer www.mozilla.org a wysiwyg (What You See Is What You Get) HTML editor
 
-**![](/assets/images/2004/08/susebullet.gif)** **A friendly task manager ![](/assets/images/2004/08/smallnew.gif)**
+# ![](/assets/images/2004/08/susebullet.gif)** **A friendly task manager ![](/assets/images/2004/08/smallnew.gif)**
 
 Since I was a windows user, I’ve been looking for a graphical program to allow process monitoring and manipulation. For chance, there is a default “task manager” coming from the base installation of KDE, it is located in <font face="Courier New" size="2">**System – Monitor – Kde System Guard**
 
@@ -510,7 +510,7 @@ so Install first <font face="Courier New" size="2">libogg then <font face="Couri
 
 
 
-**Securing your Suse** [**http://www.antionline.com/showthread.php?s=&amp;threadid=260361**](http://www.antionline.com/showthread.php?s=&threadid=260361)   
+# Securing your Suse** [**http://www.antionline.com/showthread.php?s=&amp;threadid=260361**](http://www.antionline.com/showthread.php?s=&threadid=260361)   
  
 
 ## <font face="Arial Black" size="4">Conclusions
@@ -537,5 +537,5 @@ http://www.osnews.com/comment.php?news_id=5769 Page created with Mozilla
 
 ## **When you finish this article, You may want to read the previous** [**round 1 HERE** ](images/pc/suse/myExperience.htm)
 
-**Thanks for reading… more to come in the future  
+# Thanks for reading… more to come in the future  
  This page is a part of** [**www.waltercedric.com**](http://www.waltercedric.com/) **homepage – Comments welcomed click** [**HERE**](comment.html)

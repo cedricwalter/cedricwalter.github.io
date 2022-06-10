@@ -17,7 +17,7 @@ With this funny applet, you can judge of the complexity of a web page by just ge
 
 ### <http://websitesasgraphs.waltercedric.com> 
 
-**What do the colors mean?**   
+# What do the colors mean?**   
 blue: for links (the A tag)   
 red: for tables (TABLE, TR and TD tags)   
 green: for the DIV tag   

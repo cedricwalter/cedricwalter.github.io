@@ -31,7 +31,7 @@ You can watch channels using any software or device as long as it supports multi
 - [VLC Playlist (XSPF)](https://api.init7.net/tvchannels.xspf)
 - [M3U Playlist ](https://api.init7.net/tvchannels.m3u)
 
-**You have the following options:**
+# You have the following options:**
 
 1. You open the URL directly from within VLC (Open -> Network and then paste the URL from the above link), so you always have the latest updated channel list.
 2. Download the file to your computer and open it in VLC.

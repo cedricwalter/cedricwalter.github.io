@@ -16,7 +16,7 @@ permalink: /joomla/download-the-free-joomla-2-5-beginners-guide-250-pages/
 > 
 > You can download now the updated version of the #Joomla! Beginner’s Guide covering the new shiny #Joomla! 2.5 version. Yes, it is shiny and I like it very much …
 
-**Joomla! 2.5 – Beginner’s Guide –** 250 pages
+# Joomla! 2.5 – Beginner’s Guide –** 250 pages
 
 - [Book profile page](http://cocoate.com/node/10419)
 - [HTML version](http://cocoate.com/j25)

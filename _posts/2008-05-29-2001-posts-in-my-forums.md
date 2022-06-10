@@ -13,9 +13,9 @@ image: /wp-content/uploads/2008/05/forums_thumb.png
 
 I’ve post today the [post number 2001](http://forums.waltercedric.com/index.php?topic=539.msg2078#new)..more details below:
 
-**Total Time Spent Online:** 3 days, 2 hours and 43 minutes.   
-**Total Posts:** 695 posts a bit lower than the number of registered users (734)   
-**Total Topics Started:** 56 topics
+# Total Time Spent Online:** 3 days, 2 hours and 43 minutes.   
+# Total Posts:** 695 posts a bit lower than the number of registered users (734)   
+# Total Topics Started:** 56 topics
 
 [Here are the complete stats](http://forums.waltercedric.com/index.php?action=stats)
 

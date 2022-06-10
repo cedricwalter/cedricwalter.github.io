@@ -34,7 +34,7 @@ If you still want to remove all advertisements for FREE you can also follow a mo
 
 Download the replacement host file from [this link](http://jamesisbored.com/iphone/content/hosts.php) and replace your hosts file at the root of your iPhone using [iPhone Browser](http://code.google.com/p/iphonebrowser/) or any SCP client ([winscp](http://winscp.net/eng/index.php) for example)
 
-**Attention**
+# Attention**
 
 - If you want to use the [Categories App](http://www.iphonehacks.com/2008/10/categories-app.html), then please remove the 127.0.0.1 mm.admob.com line from the downloaded replacement host file, otherwise it will not work. I
 - if you don’t want to disable Apple’s kill-switch mechanism then remove this line as well 127.0.0.1 iphone-services.apple.com from the replacement host file.
@@ -55,7 +55,7 @@ and open the hosts file from there, you now have a huge list of all malware know
 
 ## PrivaCy 
 
-**![privacy.cydia.analytics.blocking](/assets/images/2009/08/privacy.cydia_.analytics.blocking_thumb.jpg "privacy.cydia.analytics.blocking")**
+# ![privacy.cydia.analytics.blocking](/assets/images/2009/08/privacy.cydia_.analytics.blocking_thumb.jpg "privacy.cydia.analytics.blocking")**
 
 It has recently come to the attention of angry Cydia users that they are being watched by many of the applications they have installed from the App Store.
 

@@ -35,7 +35,7 @@ Thanks to Google ADSense, I am now nearly able to cover the cost of a root serve
 
 [![a813guest.infreontend](/assets/images/2009/01/a813guest.infreontend_thumb.png)](/assets/images/2009/01/a813guest.infreontend.png)
 
-**Top 10 most trafficked posts of 2008 (in order)**
+# Top 10 most trafficked posts of 2008 (in order)**
 
 - [Media Center with XBMC](http://www.waltercedric.com/administrator/index.php?option=com_content&task=edit&id=58) **168378**
 - [Add a harddisk led to Your XBOX](http://www.waltercedric.com/administrator/index.php?option=com_content&task=edit&id=59) **22492**
@@ -47,11 +47,11 @@ Thanks to Google ADSense, I am now nearly able to cover the cost of a root serve
 - [Presentation](http://www.waltercedric.com/administrator/index.php?option=com_content&task=edit&id=88) **12904**
 - [Enhancing Your GUI with some professional effects](http://www.waltercedric.com/administrator/index.php?option=com_content&task=edit&id=498) **8118**
 
-**Total number of articles:** 1420 (+203)   
-**Total number of comments** 1417 (+677) for [main site](http://www.waltercedric.com), 2430 (+891) for my [forums](http://forums.waltercedric.com/index.php?action=stats)   
-**Number of registered [forums](http://forums.waltercedric.com/index.php?action=stats) member**: 998 (+440)
+# Total number of articles:** 1420 (+203)   
+# Total number of comments** 1417 (+677) for [main site](http://www.waltercedric.com), 2430 (+891) for my [forums](http://forums.waltercedric.com/index.php?action=stats)   
+# Number of registered [forums](http://forums.waltercedric.com/index.php?action=stats) member**: 998 (+440)
 
-**Top Downloads**
+# Top Downloads**
 
 - SecurityImages 4.1.2 **34244**
 - com\_securityimages 4.3.3 **34121**

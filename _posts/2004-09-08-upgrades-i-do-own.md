@@ -42,6 +42,6 @@ tags:
 |  |  |  |  |
 |  |  |  |  |
 
-**Some remarqs:**
+# Some remarqs:**
 
-**If you compared the price of a raptor metal head and a Futura one, you will see that the price is very close. I was always complaining about the price (it is too expensive) and at the end, i add so much upgrade on my rappy…. I must be crazy !!**
+# If you compared the price of a raptor metal head and a Futura one, you will see that the price is very close. I was always complaining about the price (it is too expensive) and at the end, i add so much upgrade on my rappy…. I must be crazy !!**

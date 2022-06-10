@@ -27,7 +27,7 @@ tags:
     - team
 ---
 
-**Scenarios**
+# Scenarios**
 
 - You want to control #Maven during dependency resolution and break the build if some conditions are not met,
 - You want to detect dependencies conflict early during the build,

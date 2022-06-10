@@ -30,7 +30,7 @@ All You have to do is to drop a file named .htaccess in Your /administrator dire
 XXXXXXX must be replace by it’s crypt version, use that Url to create a new   
 crypted value:
 
-**http://de.selfhtml.org/cgi-bin/cryptform.pl?password=aSI45I#56B4KgR34542**
+# http://de.selfhtml.org/cgi-bin/cryptform.pl?password=aSI45I#56B4KgR34542**
 
 In this example, I want to have aSI45I#56B4KgR34542 as password (my real password is even more complex!), the page then display me
 
@@ -61,7 +61,7 @@ If Youre using my component hashcash or any statistics log tools on YOur server,
 order allow,deny  
 allow from all  
 deny from****** XXX.XXX.XXX.XXX  
-******deny from .microsoft.com******   
-**</Limit>**
+# ****deny from .microsoft.com******   
+# </Limit>**
 
 where XXX.XXX.XXX.XXX is the IP or part of the IP (XXX or XXX.XXX or XXX.XXX.XXX), but it can be a DNS. You can add as many lines as You want.

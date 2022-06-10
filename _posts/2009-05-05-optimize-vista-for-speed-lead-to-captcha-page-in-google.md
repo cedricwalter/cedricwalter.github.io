@@ -31,4 +31,4 @@ If your entire network is affected, more information is available in the [Google
 
 We apologize for the inconvenience, and hope we’ll see you again on Google.
 
-**To continue searching, please type the characters you see below:**
+# To continue searching, please type the characters you see below:**

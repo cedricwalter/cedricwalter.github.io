@@ -20,7 +20,7 @@ tags:
 
 DevFest is the biggest Google tech conference in Switzerland. All about machine learning, programming, emerging technologies and much more! GDG DevFests are large, community-run developer events happening around the globe focused on community building and learning about Google’s technologies.
 
-**This year I will be helping and organizing some of the side activities** between the talk session. And I prepared a lot of stuff, enough for 11 screens!
+# This year I will be helping and organizing some of the side activities** between the talk session. And I prepared a lot of stuff, enough for 11 screens!
 
 - ![](/assets/images/2021/08/Google-Devfest-2017-retrogaming-1.jpg)
 - ![](/assets/images/2021/08/Google-Devfest-2017-retrogaming-2.jpg)
@@ -73,7 +73,7 @@ Named after its designer, Gert van Loo, the Gertboard is an IO expansion board f
 
 Plug the Gertboard into the GPIO header on your Raspberry Pi and you’re ready to start detecting and responding to events in the real world. Jumper wires (called “straps”) and pin jumpers are used to reconfigure the board in any number of ways. Whether you need to detect button presses or analog voltages, control motors or relays, the Gertboard is the ultimate tool for exploring the Raspberry Pi’s full I/O potential!
 
-**Features:**
+# Features:**
 
 - Plugs directly onto Raspberry Pi GPIO socket
 - Motor controller, capable controlling a motor bi-directionally, delivering 18V and 2A maximum

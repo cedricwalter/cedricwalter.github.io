@@ -35,13 +35,13 @@ You can install it like any other windows software, just follow the steps
 
 Note the default port or change them if you already have another services running on your PC (XAMPP, TeamCity, Bamboo etc…)
 
-**Https Service port: 443**   
+# Https Service port: 443**   
 Remote Converter clients connect to this port on the server and submit conversion tasks.
 
-**HTTP Service port: 80**   
+# HTTP Service port: 80**   
 Remote machines connect to the server through this port to download the converter client.
 
-**Agent service Port: 9089**   
+# Agent service Port: 9089**   
 Remote converter agents connect to this port to convert this machine.
 
  [![vmware.vcenter.converter.2](/assets/images/2009/06/vmware.vcenter.converter.2_thumb.png "vmware.vcenter.converter.2")](http://www.waltercedric.com/images/stories/makeavmwareofalivelinuxserver_14B43/vmware.vcenter.converter.2.png)
@@ -112,9 +112,9 @@ Another solution would be to break the Software RAID mirroring, just temporary t
 
 ## Solution 4 cloning with clonesys
 
-**[clonesys](http://www.trickytools.com/php/clonesys.php)** is a Shell script that can be used to get an image of running Linux boxes.   
+# [clonesys](http://www.trickytools.com/php/clonesys.php)** is a Shell script that can be used to get an image of running Linux boxes.   
 The image can then be burned on CD/DVD. This CD/DVD is bootable and can be used to restore the system as well as to install new similar boxes.   
-**[clonesys](http://www.trickytools.com/php/clonesys.php)** \*IS NOT\* a backup tool: it should not be used to backup users data, it is more similar to other tools such as MkCdRec, Mondo Rescue, Timo’s Rescue CD, etc…
+# [clonesys](http://www.trickytools.com/php/clonesys.php)** \*IS NOT\* a backup tool: it should not be used to backup users data, it is more similar to other tools such as MkCdRec, Mondo Rescue, Timo’s Rescue CD, etc…
 
 1. Get the latest version (wget) and unpack
 2. Configure config.ini and backup.ini

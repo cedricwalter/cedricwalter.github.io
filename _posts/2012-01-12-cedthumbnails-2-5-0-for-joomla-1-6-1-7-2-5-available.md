@@ -42,7 +42,7 @@ Note that Joomla 2.5 though **JImage support images manipulations**, this new ex
 
 ###### Previous user of the following extensions?
 
-**Remove any previous** **extensions** from me, here is the list:
+# Remove any previous** **extensions** from me, here is the list:
 
 - lib\_wideimage\_j17.zip / lib\_wideimage\_j16.zip
 - lib\_TimThumb\_j16\_j17.zip

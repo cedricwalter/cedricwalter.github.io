@@ -16,7 +16,7 @@ nullSince a lot of people are reading this page, I update it with my experience 
 - Go and search on eDonkey network, with eDonkey client or better with eMule (both are peer to peer client program). All you have to do is to download the image (500Mo in rar files) and wait the download completion…
 - Make a bakup copy of your original CD.
 
-**Backup your original realflight G2**
+# Backup your original realflight G2**
 
 So first I let me say I made a backup copy of the CD which I bought and as in no way pirated **since that is illegal.** Stealing overpriced programs by piracy is wrong. Okay well I used clonecd (it work for me with 4.0.19) and made an image with one of my cd-reader. In fact you can try with all cd reade/burner till you get a correct dump! To know if the dump is correct, I suggest you to mount the image with daemon tool, and see when you mount the image if the install setup is starting and can be completed.
 
@@ -29,9 +29,9 @@ I used CloneCD to both read and write the software successfully. Of course this 
 
 Try to upgrade your simulator to the version 533, because it will not ask you each 2 days to insert/swap all CD. Do not upgrade to the latest version since they introduce a new protection scheme *rfdcdverify.exe* (someone report that alcohol 120% outpassed this new security, but I did not test it)
 
-**Simulate a CD drive**
+# Simulate a CD drive**
 
-**1.0 Daemon tool 3.02 and daemon UI 1.52**  
+# 1.0 Daemon tool 3.02 and daemon UI 1.52**  
  Now what Daemon tools does is to allow you to mount CD images created by Clone CD 'AND' bypass the "Safedisk 2" protection code when you access the mounted images. Think of it as an additional CD drive on your system that is smart about protected CDs. Clone CD is used to copy your licensed original RF, RF Add-ons, and G2 CDs and save them as image files on your hard drive. Daemon UI just provides a nice little Windows user interface to simplify mounting and unmounting of the CD images. Also since Realflight<sup>Â©Â®</sup> only knows about one CD drive you MUST use the Daemon Tools virtual drive for all of your RealFlight<sup>Â©Â®</sup> disks (cannot mix with real CDs for Add-ons CDs or such). To change RealFlight<sup>Â©Â®</sup> to use your new (virtual) CD drive just edit *fileread.ini* in the RealFlight<sup>Â©Â®</sup> program directory to point to the drive letter of the virtual drive (ie *InstallDir=L:\\*).  
  Now this setup seems to work 100%. When Realflight<sup>Â©Â®</sup> askes you to insert one of the other disks just use Daemon UI to eject/unmount the current CD image and Mount the requested one.  
  In mount settings, do not forget to activate the following:
@@ -40,22 +40,22 @@ Try to upgrade your simulator to the version 533, because it will not ask you ea
 
 Locate the image file (.ccd if create with clone cd) and mount it. Everything is done with mouse right click
 
-**2.0 Alcohol 120%**
+# 2.0 Alcohol 120%**
 
 The name of this tool is very strange, but it support nearly all image format (.ccd .cue. .iso .mds …) and can burn, read, create virtual drive. It has an assistant with built in profile to outpassed most protection scheme. It work with Realflight<sup>Â©Â®</sup> and all addon, I test it with version 1.3.5. A trial version can be downloaded at [www.alcohol-soft.com](http://www.alcohol-soft.com/)
 
-**Support Realflight**<sup>Â©Â®</sup> **and please buy the software, otherwise we will have no next release of Realflight**<sup>Â©Â®</sup>**!  
+# Support Realflight**<sup>Â©Â®</sup> **and please buy the software, otherwise we will have no next release of Realflight**<sup>Â©Â®</sup>**!  
  Ask Realflight**<sup>Â©Â®</sup> **company to release or open the physical engine, and provide a airplanes editor!  
  You can find original CD on ebay for less money. Simulator are not toys, they are TOOLS**
 
-**Links**
+# Links**
 
 Clone CD [www.elby.de](http://www.elby.de/)   
  Daemon Tools [www.daemon-tools.com](http://www.daemon-tools.com/)   
  DaemonUI [www.daemon-tools.com](http://www.daemon-tools.com/)   
  Alcohol 120% [www.alcohol-soft.com](http://www.alcohol-soft.com/)
 
-**How to backup the latest G2 update**
+# How to backup the latest G2 update**
 
 Here is my solution, often use:
 
@@ -67,7 +67,7 @@ Here is my solution, often use:
 - Overwrite the original directory you just install with the backup from pc A from the backup CD.
 - Note: it work even with addons…
 
-**Port of Realflight server**
+# Port of Realflight server**
 
 You can see the port number if you have a Firewall installed.
 

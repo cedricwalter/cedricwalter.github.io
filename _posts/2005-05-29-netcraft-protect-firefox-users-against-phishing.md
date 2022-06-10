@@ -10,5 +10,5 @@ tags:
     - displaying
 ---
 
-**Phishing** is a type of online fraud that attempts to steal sensitive user information such as user names, passwords and credit card information. The attacks typically combine spam (an email telling You to logging to Your bank company for a false reason and providing You a false http link) and fraudulent webpages that look like legitimate sites (Your bank company for example).   
+# Phishing** is a type of online fraud that attempts to steal sensitive user information such as user names, passwords and credit card information. The attacks typically combine spam (an email telling You to logging to Your bank company for a false reason and providing You a false http link) and fraudulent webpages that look like legitimate sites (Your bank company for example).   
 Netcraft toolbar can detect 7,000 phishing sites and block them, moreover it is displaying valuable informations like:  risk-rating, country, popularity….The toolbar exist for IE and now Firefox, [download it HERE](http://toolbar.netcraft.com/help/tutorials/installing.html)

@@ -12,16 +12,16 @@ tags:
     - Techniques
 ---
 
-***Notice Légal :  
+# *Notice Légal :  
 L’auteur ne pourra en aucun cas Ãªtre tenu responsable de tout accidents ou dommages matériels pouvant survenir de l’utilisation de ces informations. Utiliser les Ã vos propres risques et périls.***
 
-***ATTENTION :***
+# *ATTENTION :***
 
-***Les hélicopteres radiocommandés ne sont pas des jouets, Ce sont des machines de précision qui ont le potentiel de causer des blessures graves et mÃªme de provoquer la MORT. Ne jamais l’oublier !!!! Les pales du rotor tournent souvent Ã plus de 450 km/h et cree une pression similaire a une balle de 45mm, de plus un hélico de 5 kilos a plus de 70 km/h contient une energie cinétique considérable qui se libére violement a l’impact. Toujours se tenir a distance respectable et éloigner le public.***
+# *Les hélicopteres radiocommandés ne sont pas des jouets, Ce sont des machines de précision qui ont le potentiel de causer des blessures graves et mÃªme de provoquer la MORT. Ne jamais l’oublier !!!! Les pales du rotor tournent souvent Ã plus de 450 km/h et cree une pression similaire a une balle de 45mm, de plus un hélico de 5 kilos a plus de 70 km/h contient une energie cinétique considérable qui se libére violement a l’impact. Toujours se tenir a distance respectable et éloigner le public.***
 
-**Introduction:** Ce setup se veut rudimentaire et empirique, n’ayant pas de connaissances libraire sur le sujet, je vous livre ici le fruit de mes observations sur le terrain au sein de mon club. Neanmoins, j’ai deja personnellement régler pas mal d’helicos (mode de vol normal, stationnaire et translation lente) avec succès. Je completerai ce setup pour le rendre exhaustif au fur et à mesure que mes connaissent s’étofferont.
+# Introduction:** Ce setup se veut rudimentaire et empirique, n’ayant pas de connaissances libraire sur le sujet, je vous livre ici le fruit de mes observations sur le terrain au sein de mon club. Neanmoins, j’ai deja personnellement régler pas mal d’helicos (mode de vol normal, stationnaire et translation lente) avec succès. Je completerai ce setup pour le rendre exhaustif au fur et à mesure que mes connaissent s’étofferont.
 
-**Prérequis:**
+# Prérequis:**
 
 - Mode européen pour la télécommande (gazs a droite)
 - Télécommande Futaba FF8 ou FF9
@@ -75,58 +75,58 @@ L’auteur ne pourra en aucun cas Ãªtre tenu responsable de tout accidents ou 
     – au neutre tous les mixeurs, bras de servo sont d’équerre (perpendiculaire au bati, au boitier de servo ou à autre chose…)  
     – le plateau cyclique est au milieu de sa course (on recherche une commande symétrique, du type -10Â° +10Â°)
 
-**2.2 Comment respecter ces règles ? (perpendiculaires, parallèle)**
+# 2.2 Comment respecter ces règles ? (perpendiculaires, parallèle)**
 
 - Trouver le neutre mécanique ! servo et télécommande sous tension, essayer de choisir un cran avec le bras de servo pour approcher le mieux possible le résultat escompté.
 - Ajuster le neutre électronique avec la fonction subtrim, mais attention, cette fonction à un effet pervers: elle limite d’autant de pourcent la course totale d’un coté !   
     – ex : subtrim de 5%, vous devrez pour avoir 100% des deux cotés du débattement : 95% a gauche et 105% a droite (menu ATV ou End Point)  
     – ex : subtrim de -5%, vous devrez pour avoir 100% des deux cotés du débattement : 105% a gauche et 95% a droite (menu ATV ou End Point)
 
-**3. Sens des servos**
+# 3. Sens des servos**
 
 C’est l*e plus simple* a faire, toujours dans le menu basic, aller dans la fonction REVERS (ou menu reverse). Si le sens actuel n’est pas le bon, appuyer sur + ou – pour le changer….*Attention* on regarde l’hélicoptére de dos, ce qui permet a votre cerveau de se reposer et évite de devoir inverser mentalement les commandes.
 
-**Règle:**  
-**Le plateau cyclique doit s’incliner dans la màªme direction que le mouvement de translation de la machine souhaitée.**
+# Règle:**  
+# Le plateau cyclique doit s’incliner dans la màªme direction que le mouvement de translation de la machine souhaitée.**
 
-**3.1 Droite, gauche, en avant en arrière:**
+# 3.1 Droite, gauche, en avant en arrière:**
 
 > - Stick gauche en avant, le plateau cyclique s’incline vers l’avant….stick gauche en arriere, le plateau cyclique s’incline vers l’arriere… (Cyclique longitudinale : voie 2).
 > - Stick droit a droite, le plateau cyclique s’incline vers la droite….stick droit a gauche, le plateau cyclique s’incline vers la gauche….(Cyclique latérale : voie 1)
 
-**3.2 Servo des gazs:**
+# 3.2 Servo des gazs:**
 
 - Stick droit en bas, le papillon du carburateur doit se fermer. (la tige va vers l’arrière).
 - Stick droit en haut, le papillon du carburateur doit s’ouvrir. (la tige va vers l’avant).
 
-**3.3 Servo d’anticouple:**
+# 3.3 Servo d’anticouple:**
 
 - **Prérequis:** Le rotor vu de dessus de dos tourne dans le sens horaire, l’anticouple vu de son coté en sens antihoraire. Si tel n’est pas le cas c’est que le 1/4 de tour de courroie que vous avez fait en montant le tube de queue etait dans le mauvais sens ! redémonter et recommencer…
 - **Sens de la commande (pour rotor horaire, anti couple anti horaire et anticouple a droite):** Stick gauche a gauche, le slider rentre vers le boitier d’anticouple, si ce n’est pas le cas alors inverser la voie RUDDER sur la télécommande.
 - **Sens d’action ou de correction du gyroscope (pour rotor horaire, anti couple anti horaire et anticouple a droite):** Hélico vue de dos, poussez brutalement la queue vers la gauche, le slider doit s’éloigner du boitier, Si tel n’est pas le cas alors le gyro doit àªtre inversé. (le mode pas le boitier !)
 - Ceci marche pour tous les hélico à rotation horaire, et anticouple à droite. Penser à vérifier le sens de correction et le bon fonctionnement de l’anticouple avant chaque vol.
 
-**3.4 Collectif (stick droit)**
+# 3.4 Collectif (stick droit)**
 
 - Stick droit en bas, le plateau cyclique descend tout en restant horizontal durant son déplacement.
 - Stick droit en haut, le plateau cyclique monte tout en restant horizontal durant son déplacement.
 
-**4. Débattement des servos**
+# 4. Débattement des servos**
 
 - Ceux ci se réglent en dernier lieu avec la commande ATV de votre télecommande (d’abord la distance entre les 2 chapes doit àªtre conforme)
 - Dépasser 100% si vous voulez plus de débattement (limite a 140%) ou diminuer pour réduire (limite a 30%).
 - Si vous respecter les longueurs préconises par le constructeur, vous ne devrier pas avoir de débattement a 30% ou à 140%. En moyenne qq % au dessus ou en dessous de 100% quand màªme.
 
-****Cyclique latérale**** **voie 1** (inclinaison du plateau cyclique a droite ou a gauche)
+# **Cyclique latérale**** **voie 1** (inclinaison du plateau cyclique a droite ou a gauche)
 
 - De tel facon que le plateau ne touche pas l’arbre du rotor pour les pilotes 3D,
 - Limiter le débattement pour un débutant, la barre de bell doit s’incliner sur les cotes de qq cm, cela suffit (1.5 à 2 cm)
 
-****Cyclique longitudinale****, **voie 2**, (inclinaison du plateau cyclique en avant ou en arriere)
+# **Cyclique longitudinale****, **voie 2**, (inclinaison du plateau cyclique en avant ou en arriere)
 
 Limiter le débattement pour un débutant, la barre de bell doit s’incliner vers l’avant ou l’arriere d’environ 30 degrées. Trop votre hélico ferait une pirouette sur place et vous tordrer la barres de bell….trop peu il sera mou et lent a répondre.
 
-****Gazs****, **voie 3**
+# **Gazs****, **voie 3**
 
 - Stick droit en bas, le papillon du carburateur doit se fermer complètement si le **trim** **des gazs est au minimum**.
 - Stick droit en haut, le papillon du carburateur doit s’ouvrir complètement.
@@ -137,9 +137,9 @@ Toujours se débrouiller pour que A=A’, :
 – A ce moment précis, les bras de servos doivent àªtre parallèle entre eux, voir schéma  
 – Si ce n’est pas le cas dévisser du coté du carburateur.
 
-**La symétrie de déplacement des 2 cotés est ici la clé du succés.**
+# La symétrie de déplacement des 2 cotés est ici la clé du succés.**
 
-****Rud in du gyroscope****, **voie 4**, debattement du servo d’anticouple.
+# **Rud in du gyroscope****, **voie 4**, debattement du servo d’anticouple.
 
 Si vous avez un autre gyro que le CSM 540, vous allez jouer du tournevis et devrer regarder la doc de votre gyroscope sinon :
 
@@ -151,13 +151,13 @@ Si vous avez un autre gyro que le CSM 540, vous allez jouer du tournevis et devr
 - Voici le mode debattement du servo pour l’autre cote, pousser le stick gauche de telle facon a avoir de l’autre cote le debattement maximum. Valider en basculant l’inter (aller retour).
 - Le gyro confirme en en commandant au servo d’anticouple de faire deux aller retour.
 
-**C’est FINI !!!!!!!! Merci CSM.**
+# C’est FINI !!!!!!!! Merci CSM.**
 
-****Gain du gyroscope****, **voie 5**, (si vous avez cette fonction sur votre gyro)
+# **Gain du gyroscope****, **voie 5**, (si vous avez cette fonction sur votre gyro)
 
 CSM recommande dans la documentation 60% des 2 cotés. Aller dans le menu ATV (ou END-Point sur la FF9) et spécifier 60%
 
-**Pas ou collectif**, **voie 6**
+# Pas ou collectif**, **voie 6**
 
 - Utiliser une jauge, mieux emprunter la (c’est cher et pas utile sauf si vous dépasser le cap de l’année d’helico), au pire utiliser les indications assez imprécises graves sur le chassis de votre hélico (cela reste suffisant pour du stationnaire, translation).
 - Je vous recommande +9Â° -9Â° en butee du stick droit et environ 6Â° en vol stationnaire, c’est a dire stick droit légerement au dessus du centre.(Normalement un “bon” pilote veut 0Â° au centre et a des commandes symétriques)
@@ -166,35 +166,35 @@ CSM recommande dans la documentation 60% des 2 cotés. Aller dans le menu ATV (o
 - Pour info en 3D on cherche a avoir du +12Â° -12Â° voire plus des fois mais pas avec un moteur genre TT36 car il faut de la ressource pour tenir 12Â° au rotor !!! Si vous cherchez à “visser” l’helico dans l’air, opter pour un classe 90 sous 30% de nitro.
 - Le plateau doit monter en restant horizontale tout le long de sa course, si tel n’est pas le cas alors vérifier la longeur des tiges le reliant. Si vous àªtes en CCPM (mélangeur électronique), ne mélanger pas les marques ou caractéristiques des 3 servos (3 servos fonctionne simultanément pour le pas dans ce mode).
 
-**5. Courbe de pas et de gazs**
+# 5. Courbe de pas et de gazs**
 
-**Objectif de la méthode de réglage: AVOIR UNE VITESSE ROTOR LA + CONSTANTE POSSIBLE**
+# Objectif de la méthode de réglage: AVOIR UNE VITESSE ROTOR LA + CONSTANTE POSSIBLE**
 
-**5.1 Pourquoi?**
+# 5.1 Pourquoi?**
 
 Eh bien parce que la relation qui lie la position du stick, à la vitesse du moteur (qui dépend de la charge ou pas en degrée, du mélange (ratio air-essence), des conditions atmospheriques : température, humidité qui influe sur le ratio air/essence, et et etc) n’est malheureusement pas linéaire…..On cherche bien sur à avoir une vitesse au rotor **constante**. Seul un régulateur de vitesse tel le governor de Futaba (GV1) peut aider mais ce n’est pas un équipement standard sur l’helico et il faut compter 200 € en plus. De plus on le monte sur un moteur deja réglé car si il lache..ou que le régulateur régule un moteur su des courbe de gazs mauvaises, il calera ou s’apauvrira en vol (pas bon : serrage et surchauffe).
 
-**5.2 Comment?**
+# 5.2 Comment?**
 
 - Avec un tachymètre OPTIQUE (une disque perforé a travers laquelle on regarde le rotor en vol et que l’on synchronize avec la période de rotation de celui-ci: effet stroboscopique). Prix 200 € mais il faut avoir un collègue pour les mesures. Cela reste cher car on ne s’en sert que très peu souvent.
 - OU A l’oreille (très dur si on est débutant) encore une fois c’est empirique et cela ne me plait pas beaucoup non plus. Commencer par une courbe lineaire, puis si le moteur perd des tours a un position de stick donne, il faut aller dans la courbe de gazs et translater la courbe de 5% ou monter localement quelques points. (5 point sur la FF8, 15 sur la Zap). Tout se fait a l’oreille et il vaut mieux demander de l’aide aun pilote experimenter.
 
 Je recommande d’utiliser un tachymètre optique ou de se le faire préter. Voire d’en fabriquer un..
 
-**5.3 Calcul de la vitesse idéale du rotor:**
+# 5.3 Calcul de la vitesse idéale du rotor:**
 
 - Regarder ce que préconise le fabriquant pour la vitesse rotor ou demander sur les forums ce que les pilotes expérimentés ont trouvé comme vitesse idéale (fonction du moteur, des pales, du type de vol (hover, translation, 3D, FAI)). Noter cette vitesse en tr/min c’est notre objectif.
 - Pour la retrouver, Si le moteur est idéalement utilisés, par exemple pour un OS32 : il tournera idéalement à 18000 tr/min (1,2HP) il suffit de diviser par le ratio de réduction du train du rotor principale = par ex 9.6 => 18000 / 9,6 = 1875 => 1875 tr/min devrait àªtre idéal pour le moteur et à fortiori pour le rotor si le fabricant recommande ce moteur et le taux de réduction de 9.6.
 
-**5.4 Conséquences si non respect:**  
+# 5.4 Conséquences si non respect:**  
 Survitesse du rotor, efficacité réduite, au pire, vous tombez sur une des fréquence propre du rotor qui amplifie les vibrations, destruction des blades (>2200 tr/min), fatigues excessives etc….
 
-**5.5 remarques:**
+# 5.5 remarques:**
 
 - Suivant les conditions de vol (vents) ou de mode (stationnaire, acrobaties, translation) il n’est pas rare d’avoir 3 ou 4 courbes differentes de gazs ou de pas actionnables grace aux nombreux interrupteur de la telecommande.
 - Mes hélico sont tous symétrique au niveau de la commande de pas, c’est a dire que pour décoller, je dois dépasser de quelques cran la position centrale pour avoir 4-5Â° de pas positifs.
 
-**6. Courbes en mode normal**
+# 6. Courbes en mode normal**
 
 | Position du stick en mode hover | Mesure de la vitesse par rapport Vitesse idéale | Corrections courbes en ce point |
 |---|---|---|
@@ -208,9 +208,9 @@ Survitesse du rotor, efficacité réduite, au pire, vous tombez sur une des fré
 |  | ![](/assets/images/2004/09/inferieur.jpg)inférieur | ![](/assets/images/2004/09/gazsHaut.jpg) |
 |  | ![](/assets/images/2004/09/Ok.jpg)proche idéal | ![](/assets/images/2004/09/gazsHaut.jpg) ![](/assets/images/2004/09/pashaut.jpg) |
 
-**Remarque **: Il faut itérer dans le tableau et ne faire que de petit changement à chaque fois, jusqu’a atteindre le résultat escompté
+# Remarque **: Il faut itérer dans le tableau et ne faire que de petit changement à chaque fois, jusqu’a atteindre le résultat escompté
 
-**7. Taux de monté**
+# 7. Taux de monté**
 
 Ce réglage correspond au stick à 3/4 de sa course. Le but est d’avoir une vitesse ascendante “intéressante” (comprenez en adéquation avec votre maitrise de pilotage) tout en conservant une vitesse proche de la vitesse lors du décollage. Ce taux de monté est affaire de gouts et c’est a vous de choisir.
 
@@ -226,11 +226,11 @@ Ce réglage correspond au stick à 3/4 de sa course. Le but est d’avoir une vi
 |  | ![](/assets/images/2004/09/Ok.jpg)proche idéal | Â ![](/assets/images/2004/09/pasbas.jpg) ![](/assets/images/2004/09/gazsbas.jpg) |
 |  | ![](/assets/images/2004/09/superieur.jpg) augmente | ![](/assets/images/2004/09/gazsbas.jpg) |
 
-**A fond, a Fond !**
+# A fond, a Fond !**
 
 Ceci dépend de la puissance de votre moteur, de votre pot (réseau ou pas), du taux de nitro que vous utilisez (boost). Si la vitesse rotor s’écroule, vous devrez réduire la pas max, si la vitesse augmente, augmenter le pas en ce point.
 
-**7. Taux de descente**
+# 7. Taux de descente**
 
 C’est la vitesse que vous souhaiter pour le stick de gazs a 1/4 de sa course tout en ayant une vitesse rotor constante. En général :  
 – Le rotor rentre en survitesse (pas négatif) car l’air relatif qui le traverse augmente sa vitesse.  
@@ -241,17 +241,17 @@ C’est la vitesse que vous souhaiter pour le stick de gazs a 1/4 de sa course t
 | Trop rapide | rester dans l’idéal en jouant sur les gazs | Â ![](/assets/images/2004/09/pashaut.jpg) + ![](/assets/images/2004/09/gazsHaut.jpg) ou ![](/assets/images/2004/09/gazsbas.jpg) |
 | Trop lente | rester dans l’idéal en jouant sur les gazs | ![](/assets/images/2004/09/pasbas.jpg) + ![](/assets/images/2004/09/gazsHaut.jpg) ou ![](/assets/images/2004/09/gazsbas.jpg) |
 
-**Vous avez fini ? bravo !**
+# Vous avez fini ? bravo !**
 
-**Le futur pour éviter tout cela ?** un moteur avec une électrovanne, une sonde lambda, tachymètre et un calculateur qui asservit la vitesse de sortie de l’arbre. Cela existe mais cela marche pas trop bien encore et cela coûte très cher… plus de 1200 €
+# Le futur pour éviter tout cela ?** un moteur avec une électrovanne, une sonde lambda, tachymètre et un calculateur qui asservit la vitesse de sortie de l’arbre. Cela existe mais cela marche pas trop bien encore et cela coûte très cher… plus de 1200 €
 
-**9. Iddle up**
+# 9. Iddle up**
 
-**Courbe de gazs en V ?**
+# Courbe de gazs en V ?**
 
 C’est tres simple le moteur tourne quasiment tout le temps a fond en iddleup 2 (car on lui met +-9Â° de charge en 3D) mais lorsque le pas est proche de -3Â° 0Â° 3Â° le rotor risque de rentrer en survitesse alors on reduit donc les gazs -> courbe de gazs en V
 
-**10. Finir le montage**
+# 10. Finir le montage**
 
 Une fois réglé, vous devez router les cables soigneusement et ne pas hésiter a les fixer. Cela participe grandement a la sécurité du modèle, en vrac :
 

@@ -42,7 +42,7 @@ Tick repair, provide your login and password for database,
 
 ![repair.table.in.php2](/assets/images/2010/01/repair.table_.in_.php2_3.png "repair.table.in.php2")
 
-**Remove the scripts after use, or add a die(‘not for use, edit script first’); at the top of it just in case it may be use to inject something in your database!**
+# Remove the scripts after use, or add a die(‘not for use, edit script first’); at the top of it just in case it may be use to inject something in your database!**
 
 ### Shell access
 

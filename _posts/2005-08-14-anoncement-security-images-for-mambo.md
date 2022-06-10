@@ -19,32 +19,32 @@ tags:
 
 <font face="Arial Black" size="4">**Security images for Mambo**
 
-**Installation**
+# Installation**
 
 *com\_securityimages* is a regular Mambo component, You can install it like any other component using the backend admin panel.
 
-**After installation, verify that**
+# After installation, verify that**
 
 | You can access the admin panel… | ![](/assets/images/2005/08/acesstoPanel.gif) |
 |---|---|
 | By pointing your browser to  *http://youhost/administrator/components/com\_securityimages/imageGenerator.php*    You see a security image (HIT reload page or refresh to receive a new one) | ![](/assets/images/2005/08/verifyInstall.gif) |
 
-**Prerequisite**
+# Prerequisite**
 
 NONE, but this component use the GD library (PHP extension), it should be present on your Mambo server.
 
-**Already done**
+# Already done**
 
 I already modified akocomment and akobook from Arthur Konze to support security images. You can find the component bundled in the ZIP distribution BUT if You decide to use them….
 
 - **Akocomment** require *com\_hashcash* which required *com\_log4php* -> so first intall *com\_log4php* then *com\_hashcash* then *com\_akocomment* (component **and** mambot)
 - **Akobook** require *com\_hashcash* which required *com\_log4php* -> so first intall *com\_log4php* then *com\_hashcash* then *com\_akobook*
 
-**Usage (for developer)**
+# Usage (for developer)**
 
 Using this framework is very simple.
 
-**In the page your code send to the user…**  
+# In the page your code send to the user…**  
  
 
 ```
@@ -67,7 +67,7 @@ Using this framework is very simple.
 
  The code above insert the image, and the text, You page normally submit information to the server for processing. Most of the time using the tag form action
 
-**In the server code where you process the data…**
+# In the server code where you process the data…**
 
 ```
 include $mosConfig_absolute_path.'/administrator/components/com_securityimages/server.inc'); $checkSecurity = checkSecurityImage($security_refid, $security_try);
@@ -77,9 +77,9 @@ include $mosConfig_absolute_path.'/administrator/components/com_securityimages/s
 
 if $checkSecurity = true then the user has entered the right text.
 
-**Admin panel Screenshots…**
+# Admin panel Screenshots…**
 
-**security images for Mambo is highly configurable**
+# security images for Mambo is highly configurable**
 
 | ![](/assets/images/2005/08/admin1.gif) |
 |---|

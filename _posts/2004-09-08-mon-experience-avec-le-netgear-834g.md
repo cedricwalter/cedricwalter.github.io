@@ -34,6 +34,6 @@ Je suis maintenant persuade que le probleme était hardware et **non** software,
 
 Nota Bene, Netgear a sorti un nouveau modèle, qui change de couleur: il est blanc, et qui possèdent des ouies d’aérationss beaucoup plus grande sur le dessus.
 
-**Solutions?**
+# Solutions?**
 
 J’ai acheté sur les conseils éclairés de MadDog du forum emule.net un US robotics 9106 (Juin 2004) que j’ai payé moins cher (120€) et dont j’ai oublié jusqu’a son existence tellement il ne me pose pas de problème. Nota ce modem existe en version 9105 (sans wireless) et coute 30€ moins cher. J’ai updater le bios de mon USR9106 depuis, et l’interface web est toujours accessible, les performances sont époustouflantes même avec son bios 1.02 mais la configuration reste plus barbare: cela sent le coté pro du modèle….

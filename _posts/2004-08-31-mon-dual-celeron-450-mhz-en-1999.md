@@ -13,7 +13,7 @@ image: /wp-content/uploads/2004/08/msi6905.jpg
 
 En février 99, après avoir lu un article sur [www.kikumaru.jp](http://www.kikumaru.jp/) qui relatait la possibilité de transformer n'importe quel Celeron Slot1 en Bi-proc en réactivant l'APIC responsable du SMP. Je décidais d'acheter deux Celeron slot 1 300A et de les modifier. Mauvaise idée, car j'ai surestimé mes capacités de soudure en ultra-cms. [www.msi.com](http://www.msi.com/)à eut la bonne Idée de fabriquer des adaptateurs MSI MS-6905 compatible Bi-proc mais non disponible en France Ã l'époque.à Unà mois et 330 francs plus tard, je reÃ§ois d'Allemagne les deux précieuses pièces (merci [www.citosoft.com](http://www.citosoft.com/) et MSI Allemagne (quel idiot ces FranÃ§ais, ZUT Ã MSI France et MSI Angleterre !), le temps de vendre mes 300A slot 1 et de racheter des PPGA 370 et NT4 en multi-processing me voila. Tout Ã§a pour vous dire que il est vrai que selon les applications, le gain de performances n'est pas stupéfiant (des fois 90% ;-)) mais que le sentiment de puissance est bien la, NT ne semble plus d'essoufler quel que soit le nombre d'applications ouvertes, seul le disque dur reste la ressource critique qui freine les performances de l'ensemble (IBM UDMA 7200 tr/min). Toute les applications semblent bénéficier dans une certaine mesure de ce deuxième coeur d'après mes observations.
 
-**La facture s'élève Ã (Février 99)**
+# La facture s'élève Ã (Février 99)**
 
 | 1 DFI P2XBL/D |  | **1154 FRF** |
 |---|---|---|
@@ -24,9 +24,9 @@ En février 99, après avoir lu un article sur [www.kikumaru.jp](http://www.kiku
 
 Aujourd'hui, une Abit BP6 et le tour est joué (1140 FRF +2 cpu).
 
-**Tenter donc l'aventure si vos besoins en calculs pure sont important, c'est la meilleur affaire de la décennie et Intel ne referra pas deux fois la mÃªme erreur.**
+# Tenter donc l'aventure si vos besoins en calculs pure sont important, c'est la meilleur affaire de la décennie et Intel ne referra pas deux fois la mÃªme erreur.**
 
-**Adresse importantes**
+# Adresse importantes**
 
 [www.cpu-central.com](http://www.cpu-central.com/) et son forum.  
 [www.tomshardware.com](http://www.tomshardware.com/) en général (US) et son mirror [www.tomshardware.fr](http://www.tomshardware.fr/)   

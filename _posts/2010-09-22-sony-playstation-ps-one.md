@@ -21,8 +21,8 @@ This game console is part of my growing collection of vintage gaming system, so 
 
 [![playstation.one](/assets/images/2010/09/playstation.one_thumb.jpg "playstation.one")](/assets/images/2010/09/playstation.one_.jpg)
 
-**Bought** 2010.09.19   
-**Price paid:** 30€   
+# Bought** 2010.09.19   
+# Price paid:** 30€   
 with 9 games, 3 pads, cables, 8 memory cards, Playstation’s bag, 3 magazines
 
 Sony Playstation PAL   

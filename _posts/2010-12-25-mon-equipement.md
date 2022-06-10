@@ -24,7 +24,7 @@ Botte en cuir n’offrant aucune protection mais en cuir souple trés agréable 
 
 ![IXS.Tourmaster](/assets/images/2010/12/IXS.Tourmaster.jpg)<figcaption>IXS.Tourmaster</figcaption>### Sidi Vertebra Race carbon black color
 
-**257 euro**
+# 257 euro**
 
 ![](/assets/images/2010/12/sidiVertebraraceCarbon.gif)- Made in Italy, Sidi build boots since 1969,
 - Premium motorcycle boot with an external protective system of interlocking plates (breveted)
@@ -40,7 +40,7 @@ Nice added value when you ride, “may help” in case of crash.
 
 ![Dainese Back Space 3](/assets/images/2009/04/DaineseBackSpace3.jpg)<figcaption>Dainese Back Space 3</figcaption>### Dainese protective back space 2
 
-**113 euro** 2001 -> 2008
+# 113 euro** 2001 -> 2008
 
 - Transmit only 8.03 kN to the body when hit with a normalize crash EN 1621-1 (european norm)
 - The best choice, best performances
@@ -71,12 +71,12 @@ Porté 1 heure trop bruyant.
 
 ![](/assets/images/2010/12/Shark-RSF2-Nexus-Blue.jpg)## Shoei XR1000 Badge TC-5
 
-**450 euro**   
+# 450 euro**   
 Porté moins d’un an
 
 ![Shoei.XR1000.black.matte](/assets/images/2010/12/Shoei.XR1000.black_.matte_.jpg)<figcaption>Shoei.XR1000.black.matte</figcaption>## Shoei XR1000 Rogue TC5 
 
-**500 euro**   
+# 500 euro**   
 Depuis 2009
 
 ![Shoei.XR1000.Rogue.TC5](/assets/images/2010/12/Shoei.XR1000.Rogue_.TC5_.jpg)<figcaption>Shoei.XR1000.Rogue.TC5</figcaption># Gloves

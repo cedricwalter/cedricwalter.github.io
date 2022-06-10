@@ -61,7 +61,7 @@ Pour l’entretien de a contacts nous retrouvons les mêmes opérations et les m
 
 Pour le démontage du rupteur nous pensons que le procédé le plus pratique consiste à desserrer l’écrou d’attache du ressort, puis après avoir enlevé le petit ressort d’arrêt placé sur l’axe de la à&#136;\* 1 :e mobile, à enlever celle-ci pour détendre **le ressort.** Pour le remontage exécuter la manoeuvre inverse. Allumage : étincelle sans raté 6 mm. à partir de 150 tr/m. l’éclairage étant en fonctionnement.
 
-**Capacité du condensateur** : 0,38 à 0,32 microfarad. à&#137;clairage : lampe à employer, 6 volt 28 w pour le phare, 6 volt navette pour le feu AR. La tension de 6 volt est atteinte vers 3.000 tr/rn. à&#137;cartement des contacts de rupteur – 0,3 à 0,4!10. Distance d’arrachement 3 à 6 mm . le point optimum étant vers 4 à 8 mm.
+# Capacité du condensateur** : 0,38 à 0,32 microfarad. à&#137;clairage : lampe à employer, 6 volt 28 w pour le phare, 6 volt navette pour le feu AR. La tension de 6 volt est atteinte vers 3.000 tr/rn. à&#137;cartement des contacts de rupteur – 0,3 à 0,4!10. Distance d’arrachement 3 à 6 mm . le point optimum étant vers 4 à 8 mm.
 
 Pour conclure nous vous rappelons une fois de plus qu’un bon allumage évite la plupart des ennuis de démarrage et vous assure une consommation normale. D’abord soignez votre bougie et assurez-vous périodiquement que les électrodes sont bien réglée à 4/10 de mm, Ensuite, en vous inspirant des conseils que nous venons de vous donner.; assurez régulièrement le nettoyage de votre volant ce qui vous permettra des démarrages impeccables au premier coup de kick.
 

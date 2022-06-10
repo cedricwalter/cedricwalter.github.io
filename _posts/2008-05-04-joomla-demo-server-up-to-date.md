@@ -14,13 +14,13 @@ image: /wp-content/uploads/2008/05/demo_header_short_thumb.jpg
 Demo site renewed to latest #Joomla version (1.0.15) and loaded with my latest components,   
 modules, plugins versions
 
-**login/password** to [administrator panel](http://demo.waltercedric.com/administrator) is **visitor**
+# login/password** to [administrator panel](http://demo.waltercedric.com/administrator) is **visitor**
 
 [![demo2.waltercedric.com-withText](/assets/images/2008/05/demo2.waltercedric.comwithText_thumb.jpg)](/assets/images/2008/05/demo2.waltercedric.comwithText.jpg)
 
 Demo2 site renewed to latest #Joomla version (1.5.3) and loaded with my latest components,   
  modules, plugins versions
 
-**login/password** to [administrator panel](http://demo2.waltercedric.com/administrator) is **xxxxx**
+# login/password** to [administrator panel](http://demo2.waltercedric.com/administrator) is **xxxxx**
 
-**I need some more time to secure the #Joomla! 1.5 demo server. login/password will follow in a few hours**
+# I need some more time to secure the #Joomla! 1.5 demo server. login/password will follow in a few hours**

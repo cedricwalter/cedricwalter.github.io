@@ -31,7 +31,7 @@ Serial Number X8 4068524
 
 [![Atari_7800_ProSystem_video_game_console_04](/assets/images/2011/06/Atari_7800_ProSystem_video_game_console_04_thumb.jpg "Atari_7800_ProSystem_video_game_console_04")](http://www.waltercedric.com/images/Atari-2800_B88A/Atari_7800_ProSystem_video_game_console_04.jpg)
 
-**Links**
+# Links**
 
 - [http://fr.wikipedia.org/wiki/Atari\_7800](http://fr.wikipedia.org/wiki/Atari_7800)
 - [http://en.wikipedia.org/wiki/Atari\_7800](http://en.wikipedia.org/wiki/Atari_7800)

@@ -15,7 +15,7 @@ tags:
 
 <a>It starts today. The winner will be announced on October 31, 2010, before Midnight GMT+1.</a>
 
-**Win a book PacktPub “**Joomla! 1.5 Development Cookbook book**”**
+# Win a book PacktPub “**Joomla! 1.5 Development Cookbook book**”**
 
  Solve real world #Joomla! 1.5 development problems with over 130 simple but incredibly useful recipes.
 
@@ -31,13 +31,13 @@ Here are the basics but PLEASE read all the rules.
 5. The prize will be awarded on October 31, 2011
 6. **I will ship the book anywhere in the world free of charge** but if you live outside Europe you are responsible for any taxes, custom duties in the event you win.
 
-**Here’s the tweet you should send…**
+# Here’s the tweet you should send…**
 
 > *Win a book Packt Publishing “Joomla! 1.5 Development Cookbook book” from Cédric Walter. Pls RT. Info at: http://bit.ly/oqIgFa*
 
 I will We keep a record of each tweet in a database and then a random number generator picks the winner. Due to limited time, I cannot and will not answer ANY questions about the contest on Twitter or via e-mail. The information you need is all right here.
 
-**Here’s some of the fine print – PLEASE READ IT CAREFULLY.**    
+# Here’s some of the fine print – PLEASE READ IT CAREFULLY.**    
 If you’d like to enter to win, first, go to Twitter and if you don’t already have an account there, set one up. It’s free. Then follow me – Cedric Walter. Go to <http://www.twitter.com/cedricwalter> and click on the Follow button that appears under my profile.
 
 That’s it. Just follow me on Twitter. (<http://www.twitter.com/cedricwalter>). Send out the tweet listed above – and you’re done.

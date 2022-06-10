@@ -9,10 +9,10 @@ permalink: /gadget/comment-installer-un-tool-dacces-a-distance-sur-votre-pc/
 image: /wp-content/uploads/2005/04/tightvnc_logo.jpg
 ---
 
-**Comment installer un tool d’accés à distance sur votre PC…  
+# Comment installer un tool d’accés à distance sur votre PC…  
 Version 1.0, copyright Walter Cedric, [Licence FDL](http://www.gnu.org/copyleft/fdl.html) (GNU Free Documentation License)
 
-**Pourquoi?**
+# Pourquoi?**
 
 - Si vous avez un copain (Rémy informaticien) qui peut vous aider mais qui habite trop loin pour venir vous aider sur votre ordinateur a un moment donne,
 - Pour administrer des machines sans écran,

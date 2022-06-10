@@ -12,15 +12,15 @@ permalink: /java/apache-log4j/
 
 Log4j homepage: <http://jakarta.apache.org/log4j/>
 
-**Reference book on log4j:**
+# Reference book on log4j:**
 
 | ![](images/stories/log4jBook.jpg) | **The Complete Log4j Manual**      by Ceki Gulcu   Edition: Paperback |
 |---|---|
 
-**Introduction**  
+# Introduction**  
 Log4j is an open source tool ([OSS](http://www.opensource.org/)) developed for inserting logs statements into your application and was developed by people at [Apache fundation](http://www.apache.org/). It’s speed and flexibility allows log statements to remain in shipped code while giving the user the ability to enable logging at runtime without modifying any of the application binary. All of this while not incurring a high performance cost/loss.  
   
-**Requirements**
+# Requirements**
 
 - Log4j need at least a compatible JDK 1.1.x to run.
 - The <font face="Courier New" size="2">DOMConfigurator is based on the DOM Level 1 API. The <font face="Courier New" size="2">DOMConfigurator.c<font face="Courier New" size="2">onfigure(Element) method will work with any XML parser that will pass it a DOM tree. The <font face="Courier New" size="2">DOMConfigurator.configure(String filename) method and its variants require a JAXP compatible XML parser, for example Xerces or Sun’s parser. Compiling the DOMConfigurator requires the presence of a JAXP parser in the classpath.
@@ -28,13 +28,13 @@ Log4j is an open source tool ([OSS](http://www.opensource.org/)) developed for i
 - The <font face="Courier New" size="2">org.apache.log4j.net.JMSAppender requires the presence of the JMS API as well as JNDI.
 - Log4j test code relies on the JUnit testing framework in order to maintain quality of release.
 
-**Why inserting log statement or rely on this (old) technology?**
+# Why inserting log statement or rely on this (old) technology?**
 
  <center> | **Advantages** | **Drawbacks** |
 |---|---|
 | It offers several advantages. It provides precise context about a run of the application.    **Once inserted into the code:**- It Help developer to develop and correct bugs, - Generation of logging output requires no human intervention, - Log output can be saved in persistent medium to be studied at a later time, - Rich logging package can also be viewed as an auditing tool, for example to determine performance… - Debugging statements stay with the program (for years) while debugging sessions are always transient (lifetime of bug resolution). - Log can make the glue between developer within a development environment and specialist within a production environment. The know how or description in log statements can help the production specialist to undestand how your application work. | **But**   - It can/May slow down an application. - If the program verbosity is high, it can pollute reader’s mind, or lead to misanalyse of a problems.        For example:        – saying something false in a log statement can have tremendous effects…       – Writing too much info (irrelevent), can hide some major error. |
 
-**Why choosing Log4J?** (From [apache.org](http://www.apache.org/))
+# Why choosing Log4J?** (From [apache.org](http://www.apache.org/))
 
 - log4j is optimized for speed. The system write has been rewrite for efficiency and is now asynchrone (compare to System.err)
 - log4j is based on a named logger hierarchy. (category)
@@ -53,7 +53,7 @@ Log4j is an open source tool ([OSS](http://www.opensource.org/)) developed for i
 - The log4j code is likely to be better than code you’d write yourself and is l ikely to improve over time.
 - Ports to other languages are: C++, Eifel, Perl, .NET, Python, Rubyâ&#128;¦more than 57 languages are supported
 
-**Log4j concepts**
+# Log4j concepts**
 
  <center> | **Logger** | **Logger** are responsible for handling the majority of log operations. The logger is the core component of the logging process. |
 |---|---|
@@ -108,11 +108,11 @@ The FAQ of log4J is a must to read, here are the most important points:
 > 
 > However, this is not the only way for naming loggers. A common alternative is to name loggers by functional areas. For example, the “database” logger, “RMI” logger, “security” logger, or the “XML” logger. You are totally free in choosing the names of your loggers. The log4j package merely allows you to manage your names in a hierarchy. However, it is your responsibility to define this hierarchy. Note by naming loggers by locality one tends to name things by functionality, since in most cases the locality relates closely to functionality.
 
-**Remote logging over TCP**  
+# Remote logging over TCP**  
 Read carefully: <http://jakarta.apache.org/log4j/docs/api/org/apache/log4j/net/SocketAppender.html> and   
 <http://jakarta.apache.org/log4j/docs/api/org/apache/log4j/net/SocketHubAppender.html>
 
-**Starting the server** .**Chainsaw**  
+# Starting the server** .**Chainsaw**  
 Chainsaw is a graphical logging client, where you can see, sort and filter logs data.  
 Documentation can be read here: <http://jakarta.apache.org/log4j/docs/api/org/apache/log4j/chainsaw/package-summary.html> and it is a part of <font face="Courier New" size="2">log4j.jar
 
@@ -147,10 +147,10 @@ Start your application, without doing any change in your code or recompiling it,
   
 <font size="5">**Configuring log4j**  
   
-**Location of configuration file**  
+# Location of configuration file**  
 The configuration files of log4j must be in classpath, if more than one are in classpath, the first found will be used. Log4j require to have a compatible parser in classpath in order to read the configuration file. As default, Logj use <font face="Courier New" size="2">Crimson.jar  
   
-**Location of DTD**  
+# Location of DTD**  
 The DTD is needed in order to initialize log4j, 2 solutions are available:
 
  <center> | **Public DTD, the file must be on internet or on network** | **System path, but with a fix path (URI)** |
@@ -159,7 +159,7 @@ The DTD is needed in order to initialize log4j, 2 solutions are available:
 
 <font size="5">**Extending log4j**
 
-**Defining your application specific loggers, appenders and layouts**  
+# Defining your application specific loggers, appenders and layouts**  
 You can look at the Log4j API to see how to implement a logger, appender and layout.
 
 <font size="5">**Conclusions**  
@@ -178,7 +178,7 @@ Example of configuration files:
 |---|
 | <font color="#0000ff" face="Courier New" size="2">\###########################################################################   \#    \# log4Java properties   \#   \# Documentation can be found at [<font color="#0000ff" face="Courier New" size="2">http://jakarta.apache.org/log4j/docs/api/index.html](http://jakarta.apache.org/log4j/docs/api/index.html)<font color="#0000ff" face="Courier New" size="2">    \# There is no other documentation except forum, a commercial book is due (oreilly)   \#   \# To permit reloading during runtime, the LogDecorator will test each 60s if the file has changed   \# and update configuration of log4j if needed   \#   \# Ascending prioriy INFO < WARNING < DEBUG < ERROR < FATAL   \# log visible only if current log level >= defined level   \#   \# current layout can be: DateLayout, HTMLLayout, PatternLayout, SimpleLayout, XMLLayout   \#    \###########################################################################      \# Set root logger level to \[FATAL\|ERROR\|WARN\|INFO\|DEBUG\], and provide default appender<font face="Courier New" size="2">   log4j.rootLogger=DEBUG, stdout      <font color="#0000ff" face="Courier New" size="2">\############################   \# define category (and their level \[INHERITED\|FATAL\|ERROR\|WARN\|INFO\|DEBUG\] and appender)    \# category should be fully qualified class name or incomplete package name   \# Note that you inherit from the root logger otherwise specified (set addtivity flag)   \#   \# additivity= true (default) all request will also be forwarded to the hierarchy    \# -> log twice if the same appender is already in the hierarchy   \# additivity= false do not forward to ancestor appenders   \#   \# INHERITED can be optionally specified which means that named category should inherit   \# its priority from the category hierarchy. If you add the flag additivity to false,   \# you do not inherit of appender    \##<font face="Courier New" size="2">   log4j.category.com.waltercedric.account=INHERIT, log1   log4j.additivity.com.waltercedric.account=false      log4j.category.com.waltercedric=DEBUG, log1      <font color="#0000ff" face="Courier New" size="2">\########################################################   \# You Can defined as many appender as you want   \########################################################      \############################   \# stdout is set to be a ConsoleAppender.   \##<font face="Courier New" size="2">   log4j.appender.stdout=org.apache.log4j.ConsoleAppender   log4j.appender.stdout.layout=org.apache.log4j.PatternLayout   <font color="#0000ff" face="Courier New" size="2">\#see http://jakarta.apache.org/log4j/docs/api/org/apache/log4j/PatternLayout.html<font face="Courier New" size="2">   log4j.appender.stdout.layout.ConversionPattern=%d %r \[%t\] %-5p %c – %m%n      <font color="#0000ff" face="Courier New" size="2">\##################################   \# log1 is set to be a file by date<font face="Courier New" size="2">   log4j.appender.log1=org.apache.log4j.DailyRollingFileAppender   <font color="#0000ff" face="Courier New" size="2">\#rollover each day at midnight, see DailyRollingFileAppender object<font face="Courier New" size="2">   log4j.appender.log1.DatePattern=’.’yyyy-MM- dd   <font color="#0000ff" face="Courier New" size="2">\#by size   \##log4j.appender.log1=org.apache.log4j.RollingFileAppender   \##log4j.appender.log1.MaxFileSize=100KB   \##log4j.appender.log1.MaxBackupIndex=1<font face="Courier New" size="2">      <font color="#0000ff" face="Courier New" size="2">\#/WEB-INF/conf/Log4j.properties<font face="Courier New" size="2">   log4j.appender.log1.File=c://VirtualTransport.log   log4j.appender.log1.append = true   log4j.appender.log1.layout=org.apache.log4j.PatternLayout   <font color="#0000ff" face="Courier New" size="2">\#see http://jakarta.apache.org/log4j/docs/api/org/apache/log4j/PatternLayout.html   \#-4r \[%t\] %-5p %c %x – %m%n lead to 331 \[main\] ERROR com.waltercedric.account – classCastexception–><font face="Courier New" size="2">   log4j.appender.log1.layout.ConversionPattern=%p %t %c – %m%n      <font color="#0000ff" face="Courier New" size="2">\############################   \# eMail logging   \#   \# SMTPAppender will store all the logging events on an   \# internal cache and it will send all the messages when   \# the TriggeringEventEvaluator you set with the   \# setEvaluatorMethod or the constructor parameter return true.   \# By default the evaluator is set with an instance of   \# DefaultEvaluator wich is a package-private class   \# defined in the same compilation unit of SMTPAppender.   \# This evaluator will return true only when the logging   \# event has a priority greater or equal than ERROR.   \##<font face="Courier New" size="2">   log4j.appender.email=org.apache.log4j.net.SMTPAppender   log4j.appender.email.Threshold=FATAL   log4j.appender.email.SMTPHost=XXX.XXX.XXX.XXX   log4j.appender.email.To=name@company.com   log4j.appender.email.From=name@company.com   log4j.appender.email.Subject=A Fatal error has occured in your application   log4j.appender.email.BufferSize=1   log4j.appender.email.layout=org.apache.log4j.PatternLayout   <font color="#0000ff" face="Courier New" size="2">\#see http://jakarta.apache.org/log4j/docs/api/org/apache/log4j/PatternLayout.html<font face="Courier New" size="2">   log4j.appender.email.ConversionPattern=%d{ABSOLUTE} (%F:%L) – %m%n      <font color="#0000ff" face="Courier New" size="2">\############################   \# remote socket server logging   \#   \# The SocketAppender has the following properties:    \# please read: http://jakarta.apache.org/log4j/docs/api/org/apache/log4j/net/SocketAppender.html   \#   \# If you want to have a server that listen, you can start the following utilities Chainsaw   \# (swing gui) read how at http://jakarta.apache.org/log4j/docs/api/org/apache/log4j/chainsaw/package-summary.html   \# Chainsaw is a particular server!   \##<font face="Courier New" size="2">   log4j.appender.CHAINSAW\_CLIENT=org.apache.log4j.net.SocketAppender   log4j.appender.CHAINSAW\_CLIENT.RemoteHost=localhost   log4j.appender.CHAINSAW\_CLIENT.Port=5000   log4j.appender.CHAINSAW\_CLIENT.LocationInfo=true |
 
-**Resources**
+# Resources**
 
 - # Join the #Eclipse Platform community and download the Platform at eclipse.org. The #Eclipse Platform source code is licensed under the Common Public License. At eclipse.org, you’ll also find a glossary of terms and descriptions of #Eclipse projects, along with technical articles and newsgroups. The #Eclipse Platform white paper details the major components and functions of #Eclipse.
 - <http://jakarta.apache.org/log4j/> Homepage:

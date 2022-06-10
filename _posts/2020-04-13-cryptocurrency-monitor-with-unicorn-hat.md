@@ -44,7 +44,7 @@ and a Unicorn HAT from <https://shop.pimoroni.com/products/unicorn-hat> I’ve g
 
 ## BUILDING THE SD CARD
 
-**[Raspbian](https://waltercedric.com/tag/Raspbian/)** is THE official operating system for **all** models of the [Raspberry pi](https://waltercedric.com/?s=raspberry).
+# [Raspbian](https://waltercedric.com/tag/Raspbian/)** is THE official operating system for **all** models of the [Raspberry pi](https://waltercedric.com/?s=raspberry).
 
 > **Raspbian** is a Debian-based (32 bit) computer operating system for Raspberry Pi. There are several versions of Raspbian including Raspbian Buster and Raspbian Stretch. Since 2015 it has been officially provided by the Raspberry Pi Foundation as the primary operating system for the family of Raspberry Pi single-board computers.
 > 

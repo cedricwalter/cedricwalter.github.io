@@ -26,4 +26,4 @@ I am able to:
 
 If any developer of wikimedia read this, and want to help, You can contact me. I have the technology to bring captcha security (which is relative remembr there is some OCR program to defat them) very fast.
 
-**References** [List of existing MediaWiki extensions](http://meta.wikimedia.org/wiki/Category:Mediawiki_Extensions)
+# References** [List of existing MediaWiki extensions](http://meta.wikimedia.org/wiki/Category:Mediawiki_Extensions)

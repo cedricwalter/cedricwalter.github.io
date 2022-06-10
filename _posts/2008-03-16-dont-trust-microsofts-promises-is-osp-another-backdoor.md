@@ -9,11 +9,11 @@ permalink: /software/dont-trust-microsofts-promises-is-osp-another-backdoor/
 image: /wp-content/uploads/2008/03/gplv3logored_thumb.png
 ---
 
-**From the software Freedom Law Center**
+# From the software Freedom Law Center**
 
 *There has been much discussion in the free software community and in the press about the inadequacy of Microsoft’s Office Open XML (OOXML) as a standard, including good analysis of some of the shortcomings of Microsoft’s Open Specification Promise (OSP), a promise that is supposed to protect projects from patent risk. Nonetheless, following the close of the ISO-BRM meeting in Geneva, SFLC’s clients and colleagues have continued to express uncertainty as to whether the OSP would adequately apply to implementations licensed under the GNU General Public License (GPL). In response to these requests for clarification, we publicly conclude that the OSP provides no assurance to GPL developers and that it is unsafe to rely upon the OSP for any free software implementation, whether under the GPL or another free software license.*
 
-**[Read More HERE](http://www.softwarefreedom.org/resources/2008/osp-gpl.html)** at [www.softwarefreedom.org](http://www.softwarefreedom.org)
+# [Read More HERE](http://www.softwarefreedom.org/resources/2008/osp-gpl.html)** at [www.softwarefreedom.org](http://www.softwarefreedom.org)
 
 Note that all my #Joomla! components are now covered by the GPL v3
 

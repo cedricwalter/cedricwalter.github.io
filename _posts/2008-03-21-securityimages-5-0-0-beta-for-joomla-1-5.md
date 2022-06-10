@@ -9,7 +9,7 @@ permalink: /joomla/securityimages-5-0-0-beta-for-joomla-1-5/
 image: /wp-content/uploads/2008/03/checkingYourSystem_thumb.gif
 ---
 
-**The beta is finally HERE!**
+# The beta is finally HERE!**
 
 You’ll have to install the component: **com\_securityimages5.0.0beta.zip** AND the system plugin **plugin\_system\_securityimages5.0.zip**
 

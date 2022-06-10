@@ -18,19 +18,19 @@ tags:
 
 - - - - - -
 
-**NEW**: Search Engine Optimization (SEO) friendly. You can now select to either embed links in your HTML page (so search engine can easily find all your URL) or leave them outside on your server
+# NEW**: Search Engine Optimization (SEO) friendly. You can now select to either embed links in your HTML page (so search engine can easily find all your URL) or leave them outside on your server
 
 ![nimbus.1.1.0.seo](/assets/images/2009/12/nimbus.1.1.0.seo_3.png "nimbus.1.1.0.seo")
 
 Be careful with size of data embedded: do not display too much tags or the size of your homepage may explode.
 
-**NEW**: refactoring, now really object oriented (OO), comment added to code, easier to understand and maintain.
+# NEW**: refactoring, now really object oriented (OO), comment added to code, easier to understand and maintain.
 
-**NEW**: check that file can be written, that you have installed #Joomla tags from Phil Taylor, This will reduce the number of support requests.
+# NEW**: check that file can be written, that you have installed #Joomla tags from Phil Taylor, This will reduce the number of support requests.
 
 ![nimbus.1.1.0.error](/assets/images/2009/12/nimbus.1.1.0.error_5.png "nimbus.1.1.0.error")
 
-**NEW**: powered by Nimbus can be removed by changing a switch in the backend.
+# NEW**: powered by Nimbus can be removed by changing a switch in the backend.
 
 ### Links
 

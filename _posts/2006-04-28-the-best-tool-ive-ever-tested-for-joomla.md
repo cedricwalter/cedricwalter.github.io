@@ -14,7 +14,7 @@ tags:
  Ive tried 10 minutes ago [Blogg-X](http://www.iobinary.com/) and I can assure **You that it rocks**!  
 Blogg-X is a fat java application running under windows or macintosh, that can connect to your #Joomla site using Apache XML-RPC (remote procedure call) and a bunch of other open source frameworks. This allow You to write, delete, and create new articles without using the admin back panel!!!!!
 
-**YES I was dreaming of such a tool and found it by luck on #Joomla Forge!**
+# YES I was dreaming of such a tool and found it by luck on #Joomla Forge!**
 
 It provide a WYSIWYG editor but no check spell (that the only negative I can say about it). All You have to do is to install a Mambot. There is currently no working #Linux installation, But I will provide one and send it to the author in a few hours 🙂
 

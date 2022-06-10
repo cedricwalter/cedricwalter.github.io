@@ -9,8 +9,8 @@ permalink: /motorcycles/shark-rsf2-nexus-blue/
 image: /wp-content/uploads/2010/12/Shark-RSF2-Nexus-Blue.jpg
 ---
 
-**Casque précédent:** Nolan N81E blue, âge: mi2002-mi2005, 11000km  
-**Casque actuel:** Shark RSF2 Nexus Blue**,** 180km
+# Casque précédent:** Nolan N81E blue, âge: mi2002-mi2005, 11000km  
+# Casque actuel:** Shark RSF2 Nexus Blue**,** 180km
 
 /assets/images/Ne l’acheter surtout pas! voir ci-dessous…
 
@@ -23,7 +23,7 @@ Bon un peu plus de kilomètre et deux mal de cranes apres un ride de 35km aller 
 
 Pour les photos de ce casque shoei XR-1000 badge T5, regarder l’autre article…
 
-**Un grand Merci à la concession Yamaha Free Bike de Mulhouse (Alsace). Voila un bel exemple de conscience professionnelle!**
+# Un grand Merci à la concession Yamaha Free Bike de Mulhouse (Alsace). Voila un bel exemple de conscience professionnelle!**
 
  Pour tout ceux qui ont souffert ou souffre encore du bruit avec ce casque…a moins que mon problème soit un cas isolé
 

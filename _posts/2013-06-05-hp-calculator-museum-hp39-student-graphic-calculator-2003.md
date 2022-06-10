@@ -16,7 +16,7 @@ tags:
     - scientific
 ---
 
-***HP-39g series calculators*** are the successors of HP-38G.
+# *HP-39g series calculators*** are the successors of HP-38G.
 
 There are five calculators in the 39 series of HP graphing calculators. These calculators have algebraic entry modes, and can perform numeric analysis together with varying degrees of symbolic calculation. All calculators in this series are aimed at high school level students and are characterised by their ability to download (via cable or infra-red) APLETs or E-lessons. These are programs of varying complexity which are generally intended to be used in the classroom to enhance the learning of mathematics by the graphical and/or numerical exploration of concepts. Some hundreds of these can be found on various websites
 

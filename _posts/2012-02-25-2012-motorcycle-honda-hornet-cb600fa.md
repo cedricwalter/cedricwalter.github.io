@@ -12,7 +12,7 @@ permalink: /motorcycles/2012-motorcycle-honda-hornet-cb600fa/
 
 Since it first shook up the street fighter scene in 1998, the CB600F Hornet has become one of the most influential middleweight Naked motorcycles. A close blood relative of the race-winning CBR600RR, the first CB600F presented an unprecedented package of sporty performance and light, user-friendly handling.
 
-**Note: I am a happy owner of a 2001 Hornet CB600.**
+# Note: I am a happy owner of a 2001 Hornet CB600.**
 
 The 2012 CB600F will come in three color versions, including a sophisticated new matt grey metallic and a vibrant new pearlescent blue. Each color is highlighted by its striking contrast with the solid, mechanical look of the CB600F’s Axis Grey Metallic wheels and prominent engine.
 

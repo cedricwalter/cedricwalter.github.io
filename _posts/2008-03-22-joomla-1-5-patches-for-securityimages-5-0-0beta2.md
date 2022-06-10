@@ -13,7 +13,7 @@ I always dislike doing this (changing core file of #Joomla!) but here they AREâ€
 
 If any core developer of #Joomla! read this, canâ€™t we look together to have more event hook (in views, more in controller) in #Joomla! core?
 
-**Patches:**
+# Patches:**
 
 - Allow login views, login modules, register, lost password, lost user account and contact section to be protected by SecurityImages
 - Are for #Joomla! 1.5.1 only and SecurityImages 5.0.0Beta2

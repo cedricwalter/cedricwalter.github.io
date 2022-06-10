@@ -44,7 +44,7 @@ public void act_arrange_assert() {
 }
 ```
 
-**Notes** LogAccessorLogLevel is optionnal
+# Notes** LogAccessorLogLevel is optionnal
 
 Define a new annotation LogAccessorLogLevel .java:
 

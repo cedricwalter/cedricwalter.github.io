@@ -20,7 +20,7 @@ This release contains 66 bug fixes, one low-level security fix, and one moderate
 
 ##### [**Click here to find an update package. »**](http://joomlacode.org/gf/project/joomla/frs/?action=FrsReleaseBrowse&frs_package_id=4460)
 
-**Statistics for the 1.5.10 release period:**
+# Statistics for the 1.5.10 release period:**
 
 - Joomla 1.5.10 contains: 
     - 68 issues fixed in SVN

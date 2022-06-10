@@ -27,18 +27,18 @@ But I am using a proprietary tagging solutions: **Joomla Tags from Phil Taylor (
 
 That’s why I decide to dump Joomulus, and mix both solutions (Joomulus, #Joomla tags) to create a new module: Nimbus (Free GPl v3)
 
-**So for resuming**
+# So for resuming**
 
 - You want to use/have a license of #Joomla! tags from Phil Taylor ([http://www.joomla-tags.com](http://www.joomla-tags.com/)): You can use the module Nimbus to have a great visual effect
 - You dont want to pay for a tagging solution, go for Joomulus (<http://extensions.joomla.org/extensions/6493/details>) or #Joomla! Tags (<http://www.joomlatags.org/>)
 
 ## What’s new
 
-**NEW**: version 1.6.0 is only for [Joomla!](http://www.joomla.org/) 1.6   
-**NEW**: This version use the #Joomla! build in update manager, just browse to the page **Extension Manager: Update** (at yoursite/administrator/index.php?option=com\_installer&amp;view=update) to fetch and update this extension with one click   
-**NEW:** Use #Joomla! templating best practices   
-**NEW:** Now use the /media directory   
-**NEW:** Embeded documentation windows to [live wiki page for always up to date documentation](http://wiki.waltercedric.com/index.php?title=NimbusForJoomlaTags)
+# NEW**: version 1.6.0 is only for [Joomla!](http://www.joomla.org/) 1.6   
+# NEW**: This version use the #Joomla! build in update manager, just browse to the page **Extension Manager: Update** (at yoursite/administrator/index.php?option=com\_installer&amp;view=update) to fetch and update this extension with one click   
+# NEW:** Use #Joomla! templating best practices   
+# NEW:** Now use the /media directory   
+# NEW:** Embeded documentation windows to [live wiki page for always up to date documentation](http://wiki.waltercedric.com/index.php?title=NimbusForJoomlaTags)
 
 ## Features
 

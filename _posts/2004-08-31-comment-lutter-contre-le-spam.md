@@ -12,7 +12,7 @@ tags:
     - spammer
 ---
 
-**Definition**: On défnit le *spam* comme étant l’envoi non solicité de mails à des centaines, des milliers ou des millions d’utilisateurs au hasard. Ces messages propose des biens matériels, des services financiers, des fichiers importants et même de la pornographie. Les technologies internet étant en perpétuelle évolution, le spam évolue en même temps. On a même vu des *spammeurs* attaquer des forums de discussions en y postant des messages sans rapport avec les sujets.
+# Definition**: On défnit le *spam* comme étant l’envoi non solicité de mails à des centaines, des milliers ou des millions d’utilisateurs au hasard. Ces messages propose des biens matériels, des services financiers, des fichiers importants et même de la pornographie. Les technologies internet étant en perpétuelle évolution, le spam évolue en même temps. On a même vu des *spammeurs* attaquer des forums de discussions en y postant des messages sans rapport avec les sujets.
 
 Cette page va être constamment mise à jour, je ne donne pas de documentions sur le fonctionnement des logiciels présentés, simplement des pistes de départ pour lutter contre le spam, en général le fabricant ou la société possède déja un tutorial sur son programme.
 
@@ -22,13 +22,13 @@ Webwasher est gratuit pour un usage personnelle [www.webwasher.com](http://www.w
 
 ![](/assets/images/2004/08/rondBleu.gif) **Firewall: filtrer l’accés aux ports du pc**
 
-**Toujours installer un firewall,** il s’agit d’un logiciel qui filtre les ports de communications de votres pc et permet de définir des règles d’autorisation, vour verrez alors:
+# Toujours installer un firewall,** il s’agit d’un logiciel qui filtre les ports de communications de votres pc et permet de définir des règles d’autorisation, vour verrez alors:
 
 - Quelquefois votre pc envoyer des donnees vers des sites étranges alors que vous ne browser pas de page, il s’agit de scripts qui renvoie des *cookies* (petit fichiers texte qui contiennent des informations sur vos habitudes, ou qui sont nécessaires au bon fonctionnement des sites de ventes) de tracing.
 - Des programmes de votre disque qui envoient des données alors que vous leur interdisez! Media Player 9, winamp3, XML Spy,…. etc c’est honteux
 - Des personnes qui envoient des requtes sur la pile tcip ou sur le system (port 445 par exemple) il s’agit de worms, chevaux de troie, virus divers. En fait les virus se propagent de machine infectées à machine infectées sans la moindre actions de l’utilisateur. La plupart de ces vers, s’installent et ouvrent des accés a votre machine à distance. Les plus évolués exploitent des failles ou coupe tout simplemeent le firewall!
 
-**Firewall gratuit:** Kerio personal [www.kerio.com](http://www.kerio.com/)
+# Firewall gratuit:** Kerio personal [www.kerio.com](http://www.kerio.com/)
 
 ![](/assets/images/2004/08/rondBleu.gif) **Autres browser**
 

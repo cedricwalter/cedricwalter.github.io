@@ -8,7 +8,7 @@ guid: 'https://waltercedric.com/new/?p=540'
 permalink: /java/parser-incompatibility-or-parser-order-in-classpath/
 ---
 
-**Parser incompatibility or Parser order in Classpath, classloader, loading sequence in a highly complex and distributed environment**.
+# Parser incompatibility or Parser order in Classpath, classloader, loading sequence in a highly complex and distributed environment**.
 
 Especially in a distributed environment, order of parser found is a major problem during the walk of the JVM in classpath. For example, Different versions of the parser SAX are co-existing in the classpath due to components restrictions :
 

@@ -32,7 +32,7 @@ So the equation: VirtueMart 1.2 + SecurityImages 5.x/4.x is working $.
 
 [![virtuemart1.2.patch.securityimages](/assets/images/2008/08/virtuemart1.2.patch_.securityimages_thumb.png)](/assets/images/2008/08/virtuemart1.2.patch_.securityimages.png) Download [VirtueMart1.1.2.and.SecurityImages5.patch.zip](https://waltercedric.com/new/?p=2473)
 
-**Only 3 files altered:**
+# Only 3 files altered:**
 
 - *admin.user\_field\_form.php*
 - *ps\_shopper.php*

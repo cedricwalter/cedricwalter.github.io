@@ -35,7 +35,7 @@ Simply plug in your [Jakks](http://www.jakkspacific.com/) [Namco](http://www.nam
 
 ![digdug](/assets/images/2011/06/digdug_thumb.gif "digdug")![pacman](/assets/images/2011/06/pacman_thumb.gif "pacman")![rallyx](/assets/images/2011/06/rallyx_thumb.gif "rallyx")
 
-**Links**
+# Links**
 
 - <http://www.namcobandaigames.com/>
 - <http://www.jakkspacific.com/>

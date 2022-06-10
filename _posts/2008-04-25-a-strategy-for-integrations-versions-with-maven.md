@@ -80,7 +80,7 @@ The example given is very interesting…
 > promote it to a milestone status, for example. this promotion indicates that you should keep track of  
 > this version in a long period, to be able to come back to it and create a branch if needed.*
 
-**Note** this is the strategy at #Eclipse.org, where a **nightly build** (N20080420) can be promoted to an **Maintenance**  
+# Note** this is the strategy at #Eclipse.org, where a **nightly build** (N20080420) can be promoted to an **Maintenance**  
 release if quality is good enough. Below I’ve put an extract of a presentation document from © 2006 by Alex Blewitt;  
 made available under the EPL v1.0 | 2006-03-20 | <http://www.rcpapps.org/>
 

@@ -12,7 +12,7 @@ tags:
     - 'RC helicopter'
 ---
 
-**Tail Rotor:**
+# Tail Rotor:**
 
 | **Effects:** | **Excessive slope in tail control system** |
 |---|---|

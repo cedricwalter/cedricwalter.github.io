@@ -18,18 +18,18 @@ image: /wp-content/uploads/2005/04/hashcashlogo.png
 @component: com\_hashcash  
 @copyright (C) 2005 Walter Cedric for Mambo Integration  
 @license http://www.gnu.org/copyleft/gpl.html GNU/GPL  
-**Free Software**
+# Free Software**
 
-**3rd partly Javascript**
+# 3rd partly Javascript**
 
 - **RSA**: [http://www.ohdave.com/rsa/](http://www.ohdave.com/rsa/)
 - **SHA1/MD5/MD4:** [http://pajhome.org.uk/crypt/md5/index.html](http://pajhome.org.uk/crypt/md5/index.html)
 
-**3rd partly PHP**
+# 3rd partly PHP**
 
 - **MD5/RSA/SHA1** part of PHP language.
 
-**Based on:**
+# Based on:**
 
 - **Plugin Name:** WordPress Hashcash Manual Version
 - **Plugin URI:** [http://dev.wp-plugins.org/wiki/wp-hashcash](http://dev.wp-plugins.org/wiki/wp-hashcash)
@@ -50,7 +50,7 @@ image: /wp-content/uploads/2005/04/hashcashlogo.png
 
 Kudo to all developer above! Thanks to GPL I do not have to reinvent the wheel…
 
-**Links**:
+# Links**:
 
 - [http://dev.wp-plugins.org/browser/wp-hashcash/trunk/](http://dev.wp-plugins.org/browser/wp-hashcash/trunk/) 
 - [http://www.cypherspace.org/adam/hashcash/](http://www.cypherspace.org/adam/hashcash/) 
@@ -90,7 +90,7 @@ You Can switch ON/OFF this feature in Admin control panel under the tab posting 
 
 ## **Configuring HashCash**
 
-**open file /com\_hashcash/settings.php with Your favorite text editor:**
+# open file /com\_hashcash/settings.php with Your favorite text editor:**
 
 | <font face="Trebuchet MS">**key in file** | <font face="Trebuchet MS">**values** | <font face="Trebuchet MS">**notes** |  |
 |---|---|---|---|
@@ -103,11 +103,11 @@ You Can switch ON/OFF this feature in Admin control panel under the tab posting 
 | $hashcash\_log\_size | integer | each 64kb a mail will be sent to admin with the content of logs |  |
 | $hashcash\_AdminEmail | valid email | admin email |  |
 
-**Note: An Administrator frontend will be shipped with release 1.0**
+# Note: An Administrator frontend will be shipped with release 1.0**
 
 ![](/assets/images/2005/04/hashcashpanel.jpg)
 
-**Protecting Your Mambo Forms against Spammers and Robots**
+# Protecting Your Mambo Forms against Spammers and Robots**
 
 | **php code send to the client (in the code where You create the form)** |
 |---|
@@ -121,4 +121,4 @@ You Can switch ON/OFF this feature in Admin control panel under the tab posting 
 
 ## **Changelog:**
 
-**Real object model, abstract class and factory still missing…**
+# Real object model, abstract class and factory still missing…**

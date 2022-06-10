@@ -27,7 +27,7 @@ tags:
     - vulnerabilities
 ---
 
-**This article is extracted from:** [**Joomla! Web Security**](http://www.packtpub.com/joomla-web-security-guide/book/hp/joomlaweb-abr/0908)
+# This article is extracted from:** [**Joomla! Web Security**](http://www.packtpub.com/joomla-web-security-guide/book/hp/joomlaweb-abr/0908)
 
 Secure your #Joomla! website from common security threats with this easy-to-use guide
 
@@ -41,7 +41,7 @@ Joomla!, a very popular content management system (CMS) is as you may know an ea
 
 Joomla! itself is inherently safe, but misconfigurations of the CMS, vulnerable components, hosts that are poorly configured, and weak passwords can all contribute to the downfall of your site. Hence, it’s always better to ensure the security of your site.
 
-**In this article by Tom Canavan, we will take a look at how SQL injection attacks can occur to your #Joomla website, how we can test for SQL injection attacks, and how to stop SQL injection.**
+# In this article by Tom Canavan, we will take a look at how SQL injection attacks can occur to your #Joomla website, how we can test for SQL injection attacks, and how to stop SQL injection.**
 
 ### Introduction
 
@@ -64,7 +64,7 @@ The top issues in PHP-based websites are:
 
 SQL databases are the heart of Joomla! CMS. The database holds the content, the users’ IDs, the settings, and more. To gain access to this valuable resource is the ultimate prize of the hacker. Accessing this can gain him/her an administrative access that can gather private information such as usernames and passwords, and can allow any number of bad things to happen. When you make a request of a page on Joomla!, it forms a “query” or a question for the database. The database is unsuspecting that you may be asking a malformed question and will attempt to process whatever the query is. Often, the developers do not construct their code to watch for this type of an attack. In fact, in the month of February 2008, twenty-one new SQL Injection vulnerabilities were discovered in the Joomla! land. The following are some examples presented for your edification. Using any of these for any purpose is solely your responsibility and not mine:
 
-**Example 1**
+# Example 1**
 
 ```
 index.php?option=com_****&Itemid=name&cmd=section§ion=-
@@ -82,7 +82,7 @@ index.php?option=com_****&Itemid=name&cmd=section§ion=-
     concat(username,0x3a,password)<span class="rem">/**/from<span class="rem">/**/jos_users/*
 ```
 
-**Example 2**
+# Example 2**
 
 ```
 index.php?option=com_****&task=****&Itemid=name&catid=97&aid=-
@@ -175,7 +175,7 @@ VALUES (<span class="str">'johndoe@email.com',<span class="str">'default',<span 
 
 - - - - - -
 
-**This article is extracted from:** [**Joomla! Web Security**](http://www.packtpub.com/joomla-web-security-guide/book/hp/joomlaweb-abr/0908)
+# This article is extracted from:** [**Joomla! Web Security**](http://www.packtpub.com/joomla-web-security-guide/book/hp/joomlaweb-abr/0908)
 
 Secure your Joomla! website from common security threats with this easy-to-use guide
 

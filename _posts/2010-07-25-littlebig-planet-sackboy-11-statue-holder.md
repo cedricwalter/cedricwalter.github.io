@@ -23,6 +23,6 @@ They cost 30€ each, a small prize if you consider all the low quality Sackboy 
 > 
 > Keep your console controller, portable gaming system, mobile phone -or any thing you like – safe with this 11″ Sackboy holder.
 
-**This product is officially made by Sony under license from the Copyright holder.**
+# This product is officially made by Sony under license from the Copyright holder.**
 
-**[Link to Play.com shop (32.50 euro)](http://www.play.com/Gadgets/Gadgets/4-/13635091/LittleBigPlanet-11-Sackboy-Holder-/Product.html#)**
+# [Link to Play.com shop (32.50 euro)](http://www.play.com/Gadgets/Gadgets/4-/13635091/LittleBigPlanet-11-Sackboy-Holder-/Product.html#)**

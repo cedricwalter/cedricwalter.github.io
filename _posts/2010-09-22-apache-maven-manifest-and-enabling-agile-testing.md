@@ -53,7 +53,7 @@ Built-By: agent1
  Build-Jdk: 1.6.0_20 Specification-Title: Unnamed - com.waltercedric:web:war:1.0.0-SNAPSHOT Specification-Version: 1.0.0-SNAPSHOT Specification-Vendor: waltercedric Implementation-Title: Unnamed - com.waltercedric:web:war:1.0.0-SNAPSHOT 
 ```
 
-**Implementation-Version: 1.0.0-SNAPSHOT**
+# Implementation-Version: 1.0.0-SNAPSHOT**
 
 ```
  Implementation-Vendor-Id: com.waltercedric Implementation-Vendor: waltercedric 

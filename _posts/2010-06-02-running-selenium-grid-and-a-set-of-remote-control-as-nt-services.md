@@ -14,9 +14,9 @@ tags:
     - test
 ---
 
-**[![seleniumhq](/assets/images/2010/06/seleniumhq_thumb.jpg "seleniumhq")](/assets/images/2010/06/seleniumhq_2.jpg)**
+# [![seleniumhq](/assets/images/2010/06/seleniumhq_thumb.jpg "seleniumhq")](/assets/images/2010/06/seleniumhq_2.jpg)**
 
-**Selenium** has various projects that can be combined with each other to create a robust testing environment.
+# Selenium** has various projects that can be combined with each other to create a robust testing environment.
 
 - **Selenium IDE**: a Firefox add-on to record and playback tests in Firefox.
 - **Selenium Remote Control**: a client/server system to control web browsers locally or on other computers, using almost any programming language and testing framework.
@@ -27,7 +27,7 @@ Also there are **Selenium** projects specifically for Rails, Ruby &amp; #Eclipse
 
 Today I will show you how to make run some components of Selenium as Windows Services. I am using a Selenium HUB and 4 Selenium RC running all on the same server (while not recommended for performance reasons, it is the easiest setup)
 
-**In this small how to I provide you at the end of the article a ready to use Selenium Grid 0.7 zip file**
+# In this small how to I provide you at the end of the article a ready to use Selenium Grid 0.7 zip file**
 
 ### Running selenium HUB as an NT service
 
@@ -161,7 +161,7 @@ Anyway head to the download section and use a ready to use package
 
 ### How to give the selenium user the permission to “**Start a session as a service**“.
 
-**Thanks to Eric Bouchut for submission**
+# Thanks to Eric Bouchut for submission**
 
 You need to give the selenium user the permission to start the session as a service, If you don’t do this, the service won’t start at least on Windows XP/SP 3.   
 Here it is.   

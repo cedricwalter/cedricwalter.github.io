@@ -39,7 +39,7 @@ Each registered User can customize Tux Droid messages or choose different [Attit
 
 > [Attitunes](http://www.kysoh.com/tux-droid/who-is-tux-droid/attitunes) *are robot animations you can create combining movement, sound, Text-To-Speech and fun. From functional to fun-ctional. Make Tux Droid sing ‘Dancing in the rain’ or make him cry when you didn’t receive any new E-mail.*
 
-**Some quick info**
+# Some quick info**
 
 - Code is GPL v3.0
 - It is version 0.0.1,

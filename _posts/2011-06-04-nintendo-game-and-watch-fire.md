@@ -19,7 +19,7 @@ tags:
     - was
 ---
 
-***[![Nintendo_Game_and_Watch_Fire_00](/assets/images/2011/06/Nintendo_Game_and_Watch_Fire_00_thumb.jpg "Nintendo_Game_and_Watch_Fire_00")](/assets/images/2011/06/Nintendo_Game_and_Watch_Fire_00.jpg)***
+# *[![Nintendo_Game_and_Watch_Fire_00](/assets/images/2011/06/Nintendo_Game_and_Watch_Fire_00_thumb.jpg "Nintendo_Game_and_Watch_Fire_00")](/assets/images/2011/06/Nintendo_Game_and_Watch_Fire_00.jpg)***
 
 > ***Fire*** was the fourth Game &amp; Watch game to be released. It was made by Nintendo Research &amp; Development 1 and released on July 31, 1980 (product number RC-04 under the Silver series). It was one of the most popular games in the Game &amp; Watch series. Due to Fire’s popularity, another version was released on December 4, 1981 (product number FR-27, shown on the photo). That version was part of the Wide Screen series.
 > 

@@ -14,11 +14,11 @@ tags:
 
 From 0 to [Splunk](https://www.splunk.com) in 5 minutes using Docker and Compose
 
-**Splunk** is an American multinational corporation headquartered in San Francisco, California, which produces software for searching, monitoring, and analyzing machine-generated big data, via a web-style interface.
+# Splunk** is an American multinational corporation headquartered in San Francisco, California, which produces software for searching, monitoring, and analyzing machine-generated big data, via a web-style interface.
 
-***Docker*** is an open source software platform to create, deploy and manage virtualized application containers on a common operating system (OS), with an ecosystem of allied tools.
+# *Docker*** is an open source software platform to create, deploy and manage virtualized application containers on a common operating system (OS), with an ecosystem of allied tools.
 
-***Compose*** is a tool for *defining* and running multi-container *Docker* applications. With *Compose*, you use a YAML file to configure your application’s services. Then, with a single command, you create and start all the services from your configuration.
+# *Compose*** is a tool for *defining* and running multi-container *Docker* applications. With *Compose*, you use a YAML file to configure your application’s services. Then, with a single command, you create and start all the services from your configuration.
 
 ## Install docker and docker-compose
 

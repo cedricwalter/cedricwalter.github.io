@@ -15,7 +15,7 @@ tags:
 I am proud to announce You that security images is now multi CAPTCHA core enable!  
 You can now choose in the admin panel between the core engine (I develop) and Freecap (a very nice GPL engine from [Howard Yeend](http://www.puremango.co.uk/))
 
-**Advantages**: You can run multiple core engine, or from various provider (it took me more time to do the Jooma admin panel than integrate the code).
+# Advantages**: You can run multiple core engine, or from various provider (it took me more time to do the Jooma admin panel than integrate the code).
 
 | **Plugins** | **versions** | **Admin panel** | **Results** |
 |:-:|:-:|:-:|:-:|
@@ -24,7 +24,7 @@ You can now choose in the admin panel between the core engine (I develop) and Fr
 
 Code is already commited to [CVS at #Joomla](http://developer.joomla.org/sf/sfmain/do/home)
 
-**It wont be release** before I finished the reload function and do some test. (below a screenshot of akocommentPlus)
+# It wont be release** before I finished the reload function and do some test. (below a screenshot of akocommentPlus)
 
 ![](/assets/images/2005/11/securityImagesReloadCapctha.gif)
 

@@ -22,7 +22,7 @@ tags:
 
 Click <span class="readon"> Read more…<span style="font-style: italic;"> to see my experience with it:
 
-**Install easyPHP** EasyPHP is a complete software package allowing to use all the power and the flexibility that offers the dynamic language PHP and the effecient use of databases under Windows. Package includes an Apache server, a MySQL database, a fully PHP execution, as well as easy development tools for your web site or your applications.
+# Install easyPHP** EasyPHP is a complete software package allowing to use all the power and the flexibility that offers the dynamic language PHP and the effecient use of databases under Windows. Package includes an Apache server, a MySQL database, a fully PHP execution, as well as easy development tools for your web site or your applications.
 
 | ![](/assets/images/2005/01/easyPHP.jpg) | The latest stable version (v1.7) is made of: - Apache 1.3.27 - PHP 4.3.3 - MySQL 4.0.15 - PhpMyAdmin 2.5.3  and can be downloaded at: <http://www.easyphp.org/> |
 |:-:|---|

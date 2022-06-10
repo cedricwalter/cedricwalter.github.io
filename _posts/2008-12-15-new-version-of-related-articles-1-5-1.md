@@ -15,7 +15,7 @@ As requested
 
 “I like your plugin so much and I have a request if it’s possible. I need the items to have the correct SEF links as it displayed in the site”
 
-**BUG**: SEF URL’s were not properly translated, now corrected thanks to a bit bigger SQL
+# BUG**: SEF URL’s were not properly translated, now corrected thanks to a bit bigger SQL
 
 <font face="Courier" size="2">SELECT 
 
@@ -31,9 +31,9 @@ As requested
 
 😉
 
-**NEW**: plugin renamed to Content – Related Articles for more clarity in backend panel
+# NEW**: plugin renamed to Content – Related Articles for more clarity in backend panel
 
-**NEW**: back link to my site for helping me keeping program GPL and covering cost of hosting (this help me keeping a high page rank). Can be switch off in plugin settings
+# NEW**: back link to my site for helping me keeping program GPL and covering cost of hosting (this help me keeping a high page rank). Can be switch off in plugin settings
 
 This version is now running on my site….
 

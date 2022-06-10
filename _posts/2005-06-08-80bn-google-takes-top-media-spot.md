@@ -11,7 +11,7 @@ tags:
     - 'search engine'
 ---
 
-***Internet search phenomenon Google has overtaken a swathe of venerable rivals to become the world’s biggest media company by stock market value.**   
+# *Internet search phenomenon Google has overtaken a swathe of venerable rivals to become the world’s biggest media company by stock market value.**   
 …  
 Some analysts believe Google’s shares are now overpriced, a rerun of the heady valuations seen during the internet boom of the late 1990s.   
 …* *Initially, Google got 10,000 queries per day compared with 200 million today.*   

@@ -66,7 +66,7 @@ I am now using the recommended SVN layout: /trunk /tags /branches
 > own development line and plan.
 
 I recommend you [using #Eclipse PDT (free),](http://www.eclipse.org/pdt/) So I have created 2 new PHP project in eclipse:   
-**securityimages4** (Joomla! 1.4) and **securityimages5** (Joomla! 1.5). For eaxmple **securityimages5**
+# securityimages4** (Joomla! 1.4) and **securityimages5** (Joomla! 1.5). For eaxmple **securityimages5**
 
 - Contains #Joomla 1.5.3, my code is sometimes highly dependent on a specific #Joomla API version,   
     or may break if #Joomla! release a new version, so it has to be tested against some specific version of it

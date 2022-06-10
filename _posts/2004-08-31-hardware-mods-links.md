@@ -20,7 +20,7 @@ tags:
 
 Â
 
-**Â** ![](/assets/images/2004/08/ngani.gif)
+# Â** ![](/assets/images/2004/08/ngani.gif)
 
 | [**http://www.snocud.pf/zerofil/neogeo.htm**](http://www.snocud.pf/zerofil/neogeo.htm) | **Convert a NeoGeo pad and use it on your PC.** |
 |---|---|

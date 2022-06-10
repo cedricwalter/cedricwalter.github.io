@@ -12,7 +12,7 @@ tags:
 
 Â
 
-**![](java/im/T7.gif)Java Coding guidelines![](java/im/logo_right.gif)**
+# ![](java/im/T7.gif)Java Coding guidelines![](java/im/logo_right.gif)**
 
 I won't give you here all explanations on how to improve your code, only some references to external ressources, a lot of people have done a good job (hard work, respect!). **Feel the need to improve your code**, and you will follow more or less the same road
 
@@ -28,7 +28,7 @@ Kent Beck often makes a statement about himself, "*I'm not a great programmer; I
 
 ![](java/guidelines/dilbert.jpg)
 
-**Things you may do to improve your code**
+# Things you may do to improve your code**
 
 - Respect the #Java guidelines, a lot of white papers can be found on internet.
 - Never return a collection (Vector or Hashtable or) in java, prefer to return a class which hide the real collection, better return an interface, this will allow to refactor the code if performances issues are found. Difficulty is of course to define a good contract between your code and client which will use it (good interface). Never use a Vector and let the client cast or extract Object type, let the compiler protect yourself against runtime error!!!!
@@ -42,7 +42,7 @@ Kent Beck often makes a statement about himself, "*I'm not a great programmer; I
 - Use XML! yes it is memory consuming, slow to read (not always) but it has a so much advantages that they can not be listed here (or not now),
 - Prefer lossely coupled system or process, for example try to create a meta descriptions data storage if you have a lot of layers in your system or use webservices
 
-**Optimizations**:
+# Optimizations**:
 
 Of course some habits of coding are really bad, but nearly all compilers are catching them, and can do some agressive optimizations… you will never thinks of, moreover some JVM can optimized the bytecode on the fly (HOTSPOT) or do second pass during compile time. Do you really think that you will speed up your program when you take care of writing rules or try to use a non readable algorithm which contains a lot of tricks? if you do so, you will not see the evil loop where your system will hang for seconds….Keep always in minds:
 
@@ -54,7 +54,7 @@ Of course some habits of coding are really bad, but nearly all compilers are cat
 - JVM parameters tuning: after using the profiler, you can determine the optimal size of heap and stack, turn hotspot on or cut it off because sometimes it has some bad effects.
 - User determine if a system is slow, or after loading the applications you can decide to improve your code if needed (memory used, cpu used, io used …). Remember end users are humans (not always 😉 for me), you can disturb them or make the wait look shorter if you use a hourglass or vertical slider, system must be responsive to user interactions! display something but do not hangs during seconds. A small javascript code can give you 40% more "hanging" time with great users acceptance
 
-**Things you may read to improve your code**
+# Things you may read to improve your code**
 
 - Read news about java technologies: [www.javaworld.com](http://www.javaworld.com/), project hosted at [www.soundforge.net](http://www.soudforge.net/) and so on. You must keep yourself inform about the latest state of the art.
 - Register at <http://developer.java.sun.com/developer/> a lot of great forums, and a knowledge database can be freely browsed.
@@ -67,7 +67,7 @@ Of course some habits of coding are really bad, but nearly all compilers are cat
 - AntiPatterns provide a common vocabulary for identifying problems and discussing solutions.
 - AntiPatterns support the holistic resolution of conflicts, utilizing organizational resources atÂ several levels, where possible.
 - AntiPatterns provide stress release in the form of shared misery for the most common pitfallsÂ in the software industry" from
-**Reference book is AntiPatterns Refactoring Software, Architectures, and Projects in Crisis William J. BrownÂ – Raphael C. MalveauÂ -Â Hays W. McCormick III – Thomas J. Mowbray -Â John Wiley &amp; Sons, Inc.**
+# Reference book is AntiPatterns Refactoring Software, Architectures, and Projects in Crisis William J. BrownÂ – Raphael C. MalveauÂ -Â Hays W. McCormick III – Thomas J. Mowbray -Â John Wiley &amp; Sons, Inc.**
 
 
 - [www.extremeprogramming.com](http://www.extremeprogramming.com/) follow this rules to respect deadlines and work in an ambitious project.

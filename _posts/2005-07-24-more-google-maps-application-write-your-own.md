@@ -12,7 +12,7 @@ tags:
     - programming
 ---
 
-**More sites using Google maps:**
+# More sites using Google maps:**
 
 - [Geolocate where the server is on Google Maps](http://www.parsec.it/whereis/index.php), for example: [www.waltercedric.com](http://www.waltercedric.com/) server is in Paris 😉
 - [Find free WIFI hotspot](http://web.njit.edu/~st7/gwifi/)

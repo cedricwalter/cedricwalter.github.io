@@ -10,7 +10,7 @@ tags:
     - 'RC helicopter'
 ---
 
-***Taken from*** [***http://volkul.tripod.com/pages/misc/helihumor.htm***](http://volkul.tripod.com/pages/misc/helihumor.htm)
+# *Taken from*** [***http://volkul.tripod.com/pages/misc/helihumor.htm***](http://volkul.tripod.com/pages/misc/helihumor.htm)
 
 - **It isn't a crash- it's an upgrade opportunity**
 - **I only work to pay for more fuel……and blades…….and the occasional tail boom………and main shaft…….ain't gravity a Bitch!**

@@ -31,7 +31,7 @@ But **you may still want to manage your own MongoDB cluster** on Azure.
 
 ## Creating Virtual machines
 
-****Firstly****, You will create VMs, at least 3, ideally in a different zone but sharing the same virtual network.
+# **Firstly****, You will create VMs, at least 3, ideally in a different zone but sharing the same virtual network.
 
 The primary receives all write operations. While Secondaries replicate operations from the primary to maintain an identical data set. Because of that Secondaries may have additional configurations for special usage profiles.
 

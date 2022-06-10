@@ -25,7 +25,7 @@ NETGEAR DG834 has NEVER work more than 8 hours without interruption! after 5 bio
 
 The latest I’ve bought, 13 months ago at [www.spartacus.ch](http://www.spartacus.ch) (company is no more existing, [www.brack.ch](http://www.brack.ch) is now in charge of customer care) has just died 5 minutes ago. I should be happy, according to forums, most of these router die after 4/6/8 months…
 
-**It was just 125 euro (201 CHF) thrown in the air…**
+# It was just 125 euro (201 CHF) thrown in the air…**
 
 Unfortunately it seems that I am not the only one as seen in many forums, [just Google for “Green Ring of Death”](http://www.google.com/search?hl=en&rlz=1C1GGLS_enCH291&q=netgear+Green+Ring+of+Death&btnG=Search)
 
@@ -37,7 +37,7 @@ You can also try hard reset method
 |---|---|
 | **NETGEAR WNR854T** | **NETGEAR DG834G** |
 
-**NETGEAR you’ll never see me AGAIN: I promise and you wont get my friends money either!**
+# NETGEAR you’ll never see me AGAIN: I promise and you wont get my friends money either!**
 
 I hope I will be able to sell my NETGEAR WN121T RangeMax Next Wireless-N USB 2.0 Adapter before it die
 

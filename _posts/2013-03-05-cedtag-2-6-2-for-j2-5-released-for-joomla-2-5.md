@@ -17,17 +17,17 @@ tags:
 
 # What’s NEW
 
-**NEW**: Adding a debug switch in administrator configuration area, this will write a file at logs/cedtag.php that contains some debug information that may be useful to spot difficult bugs,
+# NEW**: Adding a debug switch in administrator configuration area, this will write a file at logs/cedtag.php that contains some debug information that may be useful to spot difficult bugs,
 
-**NEW: **a new css file (/media/com\_cedtag/css/blog.css) is added to the blog layout to give you more control on the rendering of top and bottom publicity,
+# NEW: **a new css file (/media/com\_cedtag/css/blog.css) is added to the blog layout to give you more control on the rendering of top and bottom publicity,
 
-**BUG** cedtag was adding ul no matter if tags were available for the current article.
+# BUG** cedtag was adding ul no matter if tags were available for the current article.
 
-**BUG** title of html page was not translated correctly and was displayed wrongly like this
+# BUG** title of html page was not translated correctly and was displayed wrongly like this
 
 <title>%1$s items tagged with %2$s | created %3$s | Hits: %4$sjoomla | test</title>
 
-**BUG** solve cedtag: Warning: Missing argument 8 for plgContentCedTag::execute(), called in /htdocs/public/www/plugins/content/cedtag/cedtag.php on line 72 and   
+# BUG** solve cedtag: Warning: Missing argument 8 for plgContentCedTag::execute(), called in /htdocs/public/www/plugins/content/cedtag/cedtag.php on line 72 and   
 defined in /htdocs/public/www/plugins/content/cedtag/cedtag.php on line 136 Fatal error: Call to a member function get()   
 on a non-object in /htdocs/public/www/plugins/content/pagenavigation/pagenavigation.php on line 30
 

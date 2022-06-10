@@ -12,7 +12,7 @@ tags:
     - 'RC helicopter'
 ---
 
-**FUTABA**
+# FUTABA**
 
 - **Training cord cost 160 FF** **build 28 FF**
 

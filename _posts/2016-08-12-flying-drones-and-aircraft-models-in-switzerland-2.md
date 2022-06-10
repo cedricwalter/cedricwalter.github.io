@@ -15,7 +15,7 @@ The pilot must have the flying object within his field of vision at all time. Au
 
 Flying drones and flight models close to airports is restricted and it is prohibited to fly them within 5 kilometers of runways.
 
-**Red zones (airport) and yellow zones (A control zone CTR or controlled traffic region) are forbidden**
+# Red zones (airport) and yellow zones (A control zone CTR or controlled traffic region) are forbidden**
 
 [![image](/assets/images/2016/08/image_3.png "image")](http://map.drohnenverband.ch/)
 

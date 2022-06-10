@@ -20,7 +20,7 @@ tags:
 |---|---|---|---|---|
 | [**Rocky Mountain**](http://rockymountainatv.com/) | [**Pro Armor**](http://proarmor.com/) | [**Durablue**](http://www.durablue.com/) | [**Ron Wood**](http://www.rotax.net/) | [**TBR**](http://www.tbrproducts.com/) |
 
-**Exhaust pipe**
+# Exhaust pipe**
 
 - [Ron Wood](http://www.rotax.net/ds650f650.htm) it’s name say everything…
 - [CTracing](http://www.ctracing.com/ds6501.htm) Pipe that won the Baja 2000   
@@ -28,7 +28,7 @@ tags:
 - [**HMF performance**](http://www.hmfengineering.com/ds650.html)  
     [![](images/stories/quad/ds650/exhaus1.jpg)](http://www.hmfengineering.com/ds650.html)
 
-**Parts**
+# Parts**
 
 - [Parts – Bombardier ATV – DS650](http://www.atvmx.com/Parts_BombardierATV_DS650.htm) the biggest list of parts for Your Ds650
 - [DS650 Radiator Shroud (set)](http://www.ctracing.com/ds6501.htm)

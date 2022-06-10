@@ -45,7 +45,7 @@ After careful search it is pretty sure that we are running into this problem: <h
 Summary:   
 when you try to download stuff with chromium it works (even from unsecure sources), this is why the first connect is okay. however chromium interrupts the download to hand it over to android download manager (this is why actually displaying pictures works, despite the fact that they are delivered though the same pipeline, e.g. skye code, tomcat version, apache and ssl). this is also why we see two downloads per click in the log files. Problem is however that android download manager does NOT NEVER EVER download stuff from unsecure sources (e.g. selfsigned certs) and thus the final download fails. this is also true for the default andoid browser, because they also use the android download manager.
 
-**Solution**: the only solution was be to upgrade to valid SSL certificates (Verizon, Verisign or any other) instead of self signed. This increase the number of Android device working but unfortunately some Android devices were still NOT able to download resources with a valid SSL cert…
+# Solution**: the only solution was be to upgrade to valid SSL certificates (Verizon, Verisign or any other) instead of self signed. This increase the number of Android device working but unfortunately some Android devices were still NOT able to download resources with a valid SSL cert…
 
 By using the Android SDK debug console (adb.exe logcat > file.txt) of android, we saw the following:
 
@@ -55,7 +55,7 @@ ne 7487: D/DownloadManager( 3054): [1] Starting 	Line 7489: W/DownloadManager( 3
 
 This show again that the initial connect to our server happen correctly but return partial content but is then forwarded to the download manager that try to build another connection that is still fail
 
-**Solution**: change Apache cipher suite according to the table below.
+# Solution**: change Apache cipher suite according to the table below.
 
 ### Android compatibility table
 

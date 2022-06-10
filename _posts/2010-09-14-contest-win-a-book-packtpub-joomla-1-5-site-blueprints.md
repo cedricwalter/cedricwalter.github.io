@@ -14,7 +14,7 @@ tags:
 
 It starts today. The winner will be announced on September 25, 2010, before Midnight GMT+1.
 
-**Win a book PacktPub “Joomla! 1.5 Site Blueprints”**
+# Win a book PacktPub “Joomla! 1.5 Site Blueprints”**
 
 ![pakct.joomla.1.5.blueprint](/assets/images/2010/09/pakct.joomla.1.5.blueprint_846a6ecf1698d5c665620fab4792955a.jpg "pakct.joomla.1.5.blueprint")   
 Here are the basics but PLEASE read all the rules.
@@ -25,13 +25,13 @@ Here are the basics but PLEASE read all the rules.
 4. The prize will be awarded on September 25, 2010
 5. **I will ship the book anywhere in the world free of charge** but if you live outside Europe you are responsible for any taxes, custom duties in the event you win.
 
-**Here’s the tweet you should send…**
+# Here’s the tweet you should send…**
 
 > *Win a book Packt Publishing “Joomla! 1.5 Site Blueprints” from Cédric Walter. Pls RT. Info at: [http://tinyurl.com/32cu8up](http://tinyurl.com/32cu8up "http://tinyurl.com/32cu8up")*
 
 I will We keep a record of each tweet in a database and then a random number generator picks the winner. Due to limited time, I cannot and will not answer ANY questions about the contest on Twitter or via e-mail. The information you need is all right here.
 
-**Here’s some of the fine print – PLEASE READ IT CAREFULLY.**    
+# Here’s some of the fine print – PLEASE READ IT CAREFULLY.**    
 If you’d like to enter to win, first, go to Twitter and if you don’t already have an account there, set one up. It’s free. Then follow me – Cedric Walter. Go to <http://www.twitter.com/cedricwalter> and click on the Follow button that appears under my profile.
 
 That’s it. Just follow me on Twitter. ([](http://www.twitter.com/cedricwalter)<http://www.twitter.com/cedricwalter>). Send out the tweet listed above – and you’re done.

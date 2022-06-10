@@ -40,7 +40,7 @@ Only my #Linux box was not working. . .([http://teamcity.waltercedric.com](http:
 
 After that I did materialize the eclipse project of #maven-php-plugin and even built a custom version that I’ve deployed without any effort to my Artifactory (<http://maven.waltercedric.com>)
 
-**And what is the solution?**
+# And what is the solution?**
 
 it my server configuration and paranoia 🙂
 

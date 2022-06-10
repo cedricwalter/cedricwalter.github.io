@@ -23,7 +23,7 @@ A lot more check are also done NOW in the Diagnostics page:
 - Reload count configured will be displayed,
 - A way to create automated error reporting (cut and paste) for better support in my forums
 
-**AND**
+# AND**
 
 A new API inspired from recaptcha.net that will allow me to integrate new system in future without being limited to an image (why not having a flash or video in future?). This API fully use **the #Joomla! event system** so **less code** to write for all 3rd party developers and **less dependencies**.
 

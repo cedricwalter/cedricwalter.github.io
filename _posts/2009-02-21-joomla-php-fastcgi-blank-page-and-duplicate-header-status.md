@@ -24,7 +24,7 @@ The error is located in the file /libraries/joomla/environment/response.php, at 
 
 The way header has to be send is different when using PHP FastCgi, strange that #Joomla! 1.5.9 still do not have this in main stream code…
 
-**Old code**
+# Old code**
 
 ```
  <span class="kwrd">function sendHeadersOld()  {   <span class="kwrd">if (!headers_sent())   {    <span class="kwrd">foreach ($GLOBALS[<span class="str">'_JRESPONSE']->headers <span class="kwrd">as $header)    {     <span class="kwrd">if (<span class="str">'status' == strtolower($header[<span class="str">'name']))     {      <span class="rem">// 'status' headers indicate an HTTP status, and need to be handled 

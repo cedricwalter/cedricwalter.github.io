@@ -10,13 +10,13 @@ permalink: /java/eclipse-plugins/
 
 My platform of development is Suse 9.0 and #Eclipse 3.0M4
 
-**eclipse launcher (link)**
+# eclipse launcher (link)**
 
 The best eclipse launcher available as today, written in smalltalk by my friends of [www.xdreamteam.ch](http://www.xdreamteam.ch/)
 
 [**xdt Eclipse Launcher V1.0 RC2**](java/eclipse/EclipseLauncherinstall.zip) (761 KB) ist ein Tool fÃ¼r #Java-Entwickler die mit #Eclipse arbeiten.Mit dem xdt Eclipse Launcher verwalten Sie ihre Workspaces und kÃ¶nnen diese von einem Ort aus starten. Der xdt #Eclipse Launcher startet als System-Tray Program, von wo Sie die MÃ¶glichkeit haben neue Definitionen einzutragen, oder die bestehenden Definitionen einfach und schnell zu starten.
 
-**HP Nimius/E3 launcher**
+# HP Nimius/E3 launcher**
 
 > Plugin for starting a HP Nimius application, Hewlett Packard Nimius informations can be found at [www.hpnimius.com](http://www.hpnimius.com/) This plugin was originally developped at work, and has been totally rewritten to avoid any copyright infrigment.  
 >  Why is the difference with a #Eclipse Launcher? you have 3 icons…
@@ -49,7 +49,7 @@ The best eclipse launcher available as today, written in smalltalk by my friends
 
 FAQ:
 
-**Starting Tomcat in eclipse**
+# Starting Tomcat in eclipse**
 
 i get the following exceptions:
 

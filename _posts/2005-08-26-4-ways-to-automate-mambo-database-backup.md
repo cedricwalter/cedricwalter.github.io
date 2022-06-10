@@ -53,7 +53,7 @@ Values that are allowed to be use:
 
 We need at least 3 tasks
 
-**1. A task which extract all data from the database (here starting at 12:00)**
+# 1. A task which extract all data from the database (here starting at 12:00)**
 
 | Minute | Hour | Day of the Month | Month | Day of the Week | Command |
 |---|---|---|---|---|---|
@@ -65,18 +65,18 @@ We need at least 3 tasks
 TABLE is the Mambo table You want to backup  
 */home/httpd/vhosts/waltercedric.com/private/dbbackups/mambobackup.txt* is a file in a directory outside /httpdocs chmod to 700 (or rwx——\_)
 
-**2. A task which create a zip of the resulting file (here starting at 12:05)**
+# 2. A task which create a zip of the resulting file (here starting at 12:05)**
 
 | Minute | Hour | Day of the Month | Month | Day of the Week | Command |
 |---|---|---|---|---|---|
 | 5 | 0 | \* | \* | \* | *gzip -9 -f /home/httpd/vhosts/waltercedric.com/private/dbbackups/mambobackup.txt* |
 
-**Notes**
+# Notes**
 
 1. You can also **combine task 2 and 3** in one line and without temporary file (*mambobackup.txt*) by defining task:  */usr/local/mysql/bin/mysqldump* -uXXXX -pYYYY -q -hHOST TABLE *| gzip -9 > /home/httpd/vhosts/waltercedric.com/private/dbbackups/mambobackup.txt.gz*
 2. *File mambobackup.txt* is overwritten at each execution of the task -> may be not a goo idea 🙁
 
-**3. A task which send an email of the result (here starting at 12:10)**
+# 3. A task which send an email of the result (here starting at 12:10)**
 
 | Minute | Hour | Day of the Month | Month | Day of the Week | Command |
 |---|---|---|---|---|---|

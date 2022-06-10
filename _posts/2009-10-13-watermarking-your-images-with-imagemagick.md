@@ -10,7 +10,7 @@ permalink: /joomla/watermarking-your-images-with-imagemagick/
 
 [![joomla_cms](/assets/images/2006/01/joomla_cms_thumb.png "joomla_cms")](/assets/images/2009/10/joomla_cms.png)
 
-**![](/assets/images/2009/10/taticelinuxtux10409_thumb.png) *Digital watermarking*** *is the process of possibly irreversibly embedding information into a digital signal. The signal may be audio, pictures or video, for example. If the signal is copied, then the information is also carried in the copy. In visible watermarking, the information is visible in the picture or video. Typically, the information is text or a logo which identifies the owner of the media.* \[[Wikipedia](http://en.wikipedia.org/wiki/Image_watermarking)\]
+# ![](/assets/images/2009/10/taticelinuxtux10409_thumb.png) *Digital watermarking*** *is the process of possibly irreversibly embedding information into a digital signal. The signal may be audio, pictures or video, for example. If the signal is copied, then the information is also carried in the copy. In visible watermarking, the information is visible in the picture or video. Typically, the information is text or a logo which identifies the owner of the media.* \[[Wikipedia](http://en.wikipedia.org/wiki/Image_watermarking)\]
 
 I decide to go with **an offline watermarking first**, but you can let any #Joomla!® extension watermark picture on the fly using php and .htaccess (at the cost of additional CPU server resources).
 

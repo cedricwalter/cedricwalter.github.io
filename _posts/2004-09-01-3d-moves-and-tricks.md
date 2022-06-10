@@ -10,8 +10,9 @@ tags:
     - 'RC helicopter'
     - Techniques
 ---
+# 3D moves and tricks
 
-nullMake sure you have the basics down before getting too ahead of yourself…
+Make sure you have the basics down before getting too ahead of yourself…
 
 - <http://www.scotiabladerunners.ca/techman3d.htm>
 - <http://www.littlerotors.com/flyinglessons/>

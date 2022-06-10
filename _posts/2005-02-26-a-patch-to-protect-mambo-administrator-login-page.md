@@ -14,7 +14,7 @@ tags:
 
  A Patch to protect Mambo administrator login page against <span style="font-weight: bold;">brute force password attack!
 
-**How it is working?**
+# How it is working?**
 
 1. It is a component com\_hashcash containing alls script to create a MD5 key in PHP and javascript, and verifying a challenge.
 2. The server is sending inside a hidden field a MD5 value which is directly linked to the server, user sessionid, time.
@@ -23,10 +23,10 @@ tags:
 5. All successful/unsucessful submit are logged in a file.
 6. When the file get bigger as 64kb, an email is sent to the admin.
 
-**Installation:**  
+# Installation:**  
  This component has no administration panel! Simply overwrite the file on Your server with the content of the zip. A component package install is on the way.
 
-**Original Mambo file affected for the login page:**
+# Original Mambo file affected for the login page:**
 
 - /administrator/index.php <- add verification of the challenge
 - administrator\\templates\\mambo\_admin\\login.php <- insert hidden fields, and reference to MD5 javascript

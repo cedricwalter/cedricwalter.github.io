@@ -17,9 +17,9 @@ tags:
     - vintagegaming
 ---
 
-**![pokemon_logo](/assets/images/2011/08/pokemon_logo.png "pokemon_logo")**
+# ![pokemon_logo](/assets/images/2011/08/pokemon_logo.png "pokemon_logo")**
 
-**Pokémon** is a media franchise published and owned by the video game company Nintendo and created by Satoshi Tajiri in 1996. Originally released as a pair of interlink able Game Boy role-playing video games developed by Game Freak, Pokémon has since become the second most successful and lucrative video game-based media franchise in the world, behind only Nintendo’s own *Mario* series. \[[From WikiPedia](http://en.wikipedia.org/wiki/Pok%C3%A9mon)\]
+# Pokémon** is a media franchise published and owned by the video game company Nintendo and created by Satoshi Tajiri in 1996. Originally released as a pair of interlink able Game Boy role-playing video games developed by Game Freak, Pokémon has since become the second most successful and lucrative video game-based media franchise in the world, behind only Nintendo’s own *Mario* series. \[[From WikiPedia](http://en.wikipedia.org/wiki/Pok%C3%A9mon)\]
 
 [![nintendo_pokemon_00](/assets/images/2011/08/nintendo_pokemon_00_thumb.jpg "nintendo_pokemon_00")](/assets/images/2011/08/nintendo_pokemon_00.jpg)[![nintendo_pokemon_01](/assets/images/2011/08/nintendo_pokemon_01_thumb.jpg "nintendo_pokemon_01")](/assets/images/2011/08/nintendo_pokemon_01.jpg)
 

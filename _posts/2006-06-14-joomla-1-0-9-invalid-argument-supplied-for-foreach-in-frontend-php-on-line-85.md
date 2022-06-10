@@ -13,7 +13,7 @@ tags:
 
  ![](/assets/images/2006/05/Joomla.logo_.png) In order to solve to following issues in #Joomla 1.0.9
 
-**Warning**: Invalid argument supplied for foreach() in **/var/www/vhosts/waltercedric.com/httpdocs/includes/frontend.php** on line **85**
+# Warning**: Invalid argument supplied for foreach() in **/var/www/vhosts/waltercedric.com/httpdocs/includes/frontend.php** on line **85**
 
 Edit the file **includes/frontend.php** , this is the correct code:<span style="color: rgb(255, 0, 0);"><span style="font-weight: bold;"> 
 

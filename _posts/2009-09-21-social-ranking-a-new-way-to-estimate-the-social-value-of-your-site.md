@@ -25,7 +25,7 @@ Interesting are some figures of my home page, like indexed pages in some search 
 - Yahoo!: **46,200 pages**
 - Bing: **35,300 pages**
 
-**waltercedric.com Social Rank: **3/10****
+# waltercedric.com Social Rank: **3/10****
 
 but what catch my eyes was the estimated value: **$ 2,058,000 (**[**Value (beta): $2,058,000**](http://buildstats.com/waltercedric.com)**), yes 2 MILLIONS DOLLARS 🙂**
 

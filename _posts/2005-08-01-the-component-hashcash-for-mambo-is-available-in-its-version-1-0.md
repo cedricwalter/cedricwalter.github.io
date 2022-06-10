@@ -40,7 +40,7 @@ install them, in the right order, as specified below (click Read More first).
 | **1.0 Update** **of an existing hashcash** |
 | 1. Remove the old version of *Hashcash for Mambo,* using the admin panel as usual 2. Install the latest version of *Hashcash for Mambo,* it is a regular component, use the admin panel as usual |
 
-**2.0 Manuals changes**
+# 2.0 Manuals changes**
 
 You have to do these changes manually as the Mambo component installer can not do it for You
 
@@ -48,7 +48,7 @@ You have to do these changes manually as the Mambo component installer can not d
 2. add after the html <font face="Courier New" size="2"><head> tag this line:  
     <font face="Courier New" size="2"><?php include($mosConfig\_absolute\_path."/components/com\_hashcash/includes/head.inc"); ?>
 
-**3.0 manuals Changes required because of log4php**
+# 3.0 manuals Changes required because of log4php**
 
 This tell log4php where the config file is, and include for the whole site a reference to the LoggerManager.
 
@@ -56,7 +56,7 @@ This tell log4php where the config file is, and include for the whole site a ref
 |---|
 | <font face="Courier New" size="2">include\_once( ‘globals.php’ );   require\_once( ‘configuration.php’ );    **define(‘LOG4PHP\_CONFIGURATION’, $mosConfig\_absolute\_path.’/components/com\_log4php/log4php.properties’);   define(‘LOG4PHP\_DIR’, $mosConfig\_absolute\_path.’/components/com\_log4php/api’);   require\_once(LOG4PHP\_DIR . ‘/LoggerManager.php’);** |
 
-**4.0 AkoComment**: **(optionnal)**
+# 4.0 AkoComment**: **(optionnal)**
 
 | **First install of akocomment** |
 |---|
@@ -66,9 +66,9 @@ This tell log4php where the config file is, and include for the whole site a ref
 | 1. Using data from inside the zip, overwrite carefully each file on the server using FTP |
 
 If install succeeded You should see in the comment section this new footer  
-**Powered by AkoComment 2.0! and Hashcash 1.0**
+# Powered by AkoComment 2.0! and Hashcash 1.0**
 
-**5.0 AkoBook** **(optionnal)**
+# 5.0 AkoBook** **(optionnal)**
 
 | **First install of akobook** |
 |---|
@@ -78,9 +78,9 @@ If install succeeded You should see in the comment section this new footer
 | 1. Using data from inside the zip, overwrite carefully each file on the server using FTP |
 
 If install succeeded You should see in the Guestbok section this new footer  
-**Powered by AkoBook V3.42 + hashcash 1.0**
+# Powered by AkoBook V3.42 + hashcash 1.0**
 
-**Know Bugs:**
+# Know Bugs:**
 
 – the CryptoStrategy factory sometimes return MD5 instead of the right cryptographic algorithm (waht a mess PHP4). As a result, If you Want to use SHA1, You will have to overwrite these lines in CryptoStrategy::encrypt($string)
 

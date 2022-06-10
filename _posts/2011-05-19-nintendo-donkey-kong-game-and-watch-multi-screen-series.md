@@ -21,7 +21,7 @@ tags:
 
 I am really happy to add these 2 game &amp; watch to my collection of vintage video games, as I was playing with them in 1984
 
-**Donkey Kong** was developed by Nintendo R&amp;D1 as part of the *Game &amp; Watch Multi Screen* series, featuring two LCD display screens. Released in 1982, it is a port of the arcade game, where Mario is a carpenter attempting to rescue his girlfriend from an evil donkey.
+# Donkey Kong** was developed by Nintendo R&amp;D1 as part of the *Game &amp; Watch Multi Screen* series, featuring two LCD display screens. Released in 1982, it is a port of the arcade game, where Mario is a carpenter attempting to rescue his girlfriend from an evil donkey.
 
 Like the arcade Donkey Kong, Mario must climb a building while avoiding barrels; The player must trigger a lever on the upper screen, activating a hook, which Mario must then jump and catch. If the player succeeds, a peg will be removed and Mario will return to the starting point, but if the player does not, Mario will fall to the ground and lose a life. Removing all available pegs in this manner will cause Donkey Kong’s platform to collapse, and he will fall to the ground.
 

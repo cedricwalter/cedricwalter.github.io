@@ -13,7 +13,7 @@ tags:
 
 I have just committed the latest code **Hashcash 1.0** and 3rd party components AkoComment, Akobook from Arthur Konze to cvs.hashcash.mamboforge.net (cvs tag: v01\_00\_00)
 
-**I have also**
+# I have also**
 
 - Created a new administrator component for security images (GNU/GPL release). <font color="#ff0000" style="BACKGROUND-COLOR: #ffff00">com\_securityimages, done and tested
 - Modified successfuly AkoComment and AkoBook, done and tested

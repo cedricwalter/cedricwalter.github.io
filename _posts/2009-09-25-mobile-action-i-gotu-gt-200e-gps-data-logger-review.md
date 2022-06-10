@@ -29,7 +29,7 @@ tags:
 
 i-gotU is a GPS Device that can record the trace of your journey, auto-add GPS information on the photos taken on your journey, present it in 3rd dimension and export in multiple sharable file formats. i-gotU not only is compatible with all digital cameras &amp; camera phones available in the market, providing you the coolest GPS tracking gadget while saving you extra expenses on other equipments
 
-**Forewords**
+# Forewords**
 
 I was greatly surprised to be contacted by [Mobile Action](http://global.mobileaction.com).I would like to thank them for having send me a free sample for that review and of course, I encourage all companies around the world to do the same ;-))
 

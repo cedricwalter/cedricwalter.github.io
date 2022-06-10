@@ -26,7 +26,7 @@ tags:
 
 It will cost you 0$ (DDOS, CDN) to 20$ or more and offer you the following advantages
 
-**DDoS** is short for Distributed Denial of Service. **DDoS**is a type of DOS attack where multiple compromised systems, which are often infected with a Trojan, are used to target a single system causing a Denial of Service (DoS) attack.
+# DDoS** is short for Distributed Denial of Service. **DDoS**is a type of DOS attack where multiple compromised systems, which are often infected with a Trojan, are used to target a single system causing a Denial of Service (DoS) attack.
 
 A content delivery network (**CDN**) is a system of distributed servers (network) that deliver pages and other web content to a user, based on the geographic locations of the user, the origin of the webpage and the content delivery server.
 

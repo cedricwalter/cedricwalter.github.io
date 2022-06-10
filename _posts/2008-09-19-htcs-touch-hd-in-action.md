@@ -15,7 +15,7 @@ With a nice comparison with the [Apple IPhone](http://www.apple.com/iphone/) sid
 
 For me a real [Apple IPhone](http://www.apple.com/iphone/) killer would be a HTC Touch HD bundled with [Google Android](http://code.google.com/android/)
 
-**Key Touch HD product specifications:** • Size: 115 x 62.8 x 12 mm   
+# Key Touch HD product specifications:** • Size: 115 x 62.8 x 12 mm   
 • Weight: 146.4 grams/5.164 oz with battery   
 • Connectivity: Quad-band GSM/GPRS/EDGE: 850/900/1800/1900 MHz WCDMA / HSPA: 900/2100MHz. HSDPA 7.2 Mbps   
 • Software/Operating system: HTC Touch FLO 3D with Windows Mobile® 6.1 Professional   
@@ -32,6 +32,6 @@ For me a real [Apple IPhone](http://www.apple.com/iphone/) killer would be a HTC
 • Standby time: WCDMA: Up to 450 hours\*\*\* / GSM: Up to 390 hours\*\*\*   
 • Chipset: Qualcomm® MSM7201a™ 528 MHz
 
-**Size comparison:**
+# Size comparison:**
 
 [![htc.touch.hd.size.comparison](/assets/images/2008/09/htc.touch_.hd_.size_.comparison_thumb.jpg)](/assets/images/2008/09/htc.touch_.hd_.size_.comparison.jpg)

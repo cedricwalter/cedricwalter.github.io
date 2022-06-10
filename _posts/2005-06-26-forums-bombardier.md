@@ -17,7 +17,7 @@ tags:
 
 Here is a list of all forums around the world dedicated to ATV Bombardier line of products
 
-**![](/assets/images/2005/06/flag-French.gif) French**
+# ![](/assets/images/2005/06/flag-French.gif) French**
 
 - <http://www.quadlib.com/forum/forum18.php>
 - <http://www.journal-du-quad.com/phpBB2/forum/viewforum.php?f=13>

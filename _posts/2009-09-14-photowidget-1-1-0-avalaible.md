@@ -27,21 +27,21 @@ But it also contains some new interesting features! Below is an example of Photo
 
 # What’s new
 
-**BUG**: by clicking on Smugmug/Picasa/Flickr thumbnail, it drive you to the correct gallery
+# BUG**: by clicking on Smugmug/Picasa/Flickr thumbnail, it drive you to the correct gallery
 
-**NEW**: Code use SimplePie and no more my custom RSS parser, this mean more compatibility, speed, and quality of RSS parsing/caching.
+# NEW**: Code use SimplePie and no more my custom RSS parser, this mean more compatibility, speed, and quality of RSS parsing/caching.
 
-**NEW**: if you don’t like the flash output, you can now output pictures from an RSS feed in a full HTML badge manner. It will just fill the space you give in the module as seen below
+# NEW**: if you don’t like the flash output, you can now output pictures from an RSS feed in a full HTML badge manner. It will just fill the space you give in the module as seen below
 
 ![photowidgetSmugmugHTML](/assets/images/2009/09/photowidgetSmugmugHTML.png "photowidgetSmugmugHTML")
 
-**NEW**: Flickr thumbnail picture size can now be selected
+# NEW**: Flickr thumbnail picture size can now be selected
 
-**NEW**: Picasa thumbnail picture size can now be selected
+# NEW**: Picasa thumbnail picture size can now be selected
 
-**![photowidget-Picasa-Flickr.size](/assets/images/2009/09/photowidgetPicasaFlickr.size_.png "photowidget-Picasa-Flickr.size")** 
+# ![photowidget-Picasa-Flickr.size](/assets/images/2009/09/photowidgetPicasaFlickr.size_.png "photowidget-Picasa-Flickr.size")** 
 
-**NEW**: You can copy this module many times and use it at different places in your layout (before only one instances was able to run for each Joomla!) at the condition to use an unique id for each.
+# NEW**: You can copy this module many times and use it at different places in your layout (before only one instances was able to run for each Joomla!) at the condition to use an unique id for each.
 
 ![photowidget-UniqueID](/assets/images/2009/09/photowidgetUniqueID.png "photowidget-UniqueID")
 

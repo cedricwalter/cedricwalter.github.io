@@ -41,7 +41,7 @@ As it use [Apache Lucene](http://lucene.apache.org/) internally you can build so
 
 [![eclipse_instasearch_02](/assets/images/2011/12/eclipse_instasearch_02_thumb.png "eclipse_instasearch_02")](/assets/images/2011/12/eclipse_instasearch_02.png)
 
-**Main Features**
+# Main Features**
 
 - Instantly shows search results
 - Shows suggestions using auto-completion

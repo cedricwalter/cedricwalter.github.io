@@ -20,7 +20,7 @@ tags:
  There has been a lot of chatter recently about engine damage, but the greater danger is in overspeeding the head itself. Aerodynamics will limit how fast the rotor will turn without engine power because drag increases exponentially as the airflow accelerates the blade, so there is a natural ‘air brake’ of sorts.  
  However, when the rotor is spinning up via aerodynamic power, the engine is free to really give it shove into the ‘red’ zone. Spitting a rotor blade is a much more serious event than spitting a connecting rod.
 
-**> What other benefits do you reap from installing one into your heli?**  
+# > What other benefits do you reap from installing one into your heli?**  
  One of the vexing things about model heli’s up until recently was attempting to provide for some type of ‘synthetic’ governing of engine speed. Early on it was with interconnected linkages and later with our friend the ‘throttle’ curve . .. . no matter how many points there are on a throttle curve, it is still a  
  static curve and cannot adapt to the various conflicting conditions found different flight maneuvers. Therefore, throttle ‘mixes’ are used to attempt to  
  give the basic curve some ability to adapt to situations that require more or less power than the basic static curve provides.  

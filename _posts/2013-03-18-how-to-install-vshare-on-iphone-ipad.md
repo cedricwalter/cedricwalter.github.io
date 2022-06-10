@@ -11,7 +11,7 @@ image: /wp-content/uploads/2013/03/vshare.png
 
 ![vshare](/assets/images/2013/03/vshare.png "vshare")
 
-**Disclaimer**: I don’t recommend [vShare](http://v.appvv.com/en/ "Designed for iPad, iPhone and iPod Touch. One touch to install, update or delete apps.") or any other alternatives to Install .IPA files. The only reason of this post is to help users try out paid apps before they decide to purchase them. This post do not support piracy or piracy-related apps.
+# Disclaimer**: I don’t recommend [vShare](http://v.appvv.com/en/ "Designed for iPad, iPhone and iPod Touch. One touch to install, update or delete apps.") or any other alternatives to Install .IPA files. The only reason of this post is to help users try out paid apps before they decide to purchase them. This post do not support piracy or piracy-related apps.
 
 I recommend you to use instead [Android](http://www.android.com/) since you can test any paid application for 24h and get a refund if you are not satisfied!
 

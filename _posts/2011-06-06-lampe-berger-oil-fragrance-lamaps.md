@@ -22,7 +22,7 @@ Lampe Berger was born in 1898 when Maurice Berger discovered a process to purify
 
 {% include image-gallery.html folder="/assets/images/LampeBerger" %}
 
-**Related posts**
+# Related posts**
 
 - [7 New Lampe Berger Oils are now part of my collection](http://www.waltercedric.com/hobbies/collectibles-mainmenu-86/385-lampe-berger/1708-7-new-lampe-berger-oils-are-now-part-of-my-collection.html)
 - [Fragrance Lampe Berger 26 to 30](http://www.waltercedric.com/hobbies/collectibles-mainmenu-86/385-lampe-berger/1773-fragrance-lampe-berger-26-to-30.html)

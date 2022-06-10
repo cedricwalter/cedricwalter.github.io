@@ -27,4 +27,4 @@ tags:
 
 - **Connect CSM 10 to a futaba FF8 or to any game or serial adapter** FF8- 6 pin DIN plug (60 degree pins) pins 4 and 5 linked in plug, pin 2 to 3.5mm mono jack tip and metal outer of DIN plug to body of 3.5mm jack.
 
-**![](/assets/images/2004/09/FF8toCSM.jpg)**
+# ![](/assets/images/2004/09/FF8toCSM.jpg)**

@@ -10,8 +10,8 @@ tags:
     - 'RC helicopter'
     - Techniques
 ---
-
-nullIf you have 15/16 percent (nitro/oil) mix fuel and want to go for 20% oil – it can made help the OS .32 to run cooler and have a little more top-end power.
+# Adding oil to you fuel
+If you have 15/16 percent (nitro/oil) mix fuel and want to go for 20% oil – it can made help the OS .32 to run cooler and have a little more top-end power.
 
 a = 1.28(d – c)/(1 – d/100)
 

@@ -32,7 +32,7 @@ My component will be able to use following Bayesian Naive Filter core: (planned 
 
 Each technology may contains many core engine, or different versions. I will fill this table with possible candidate (You can heelp me by suggesting or speeding development).
 
-**Core requirement:**
+# Core requirement:**
 
 - Use mySQL,
 - Most of internet provider allow the use of CGI-BIN, PERL, JAVA

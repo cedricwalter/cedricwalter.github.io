@@ -24,7 +24,7 @@ tags:
     - simulator
 ---
 
-***Do not buy now or use this simulator, prefer Reflex XTR (www.reflex-sim.de)***
+# *Do not buy now or use this simulator, prefer Reflex XTR (www.reflex-sim.de)***
 
 ## ***Pros***
 
@@ -53,11 +53,11 @@ tags:
 
 ## ***Technical section*** 
 
-***Connect CSM 10 to a futaba FF9 :*** You must own the dongle, we only want to bypass the use of the jack connector and use a DIN..or connect to the proprietary connector..
+# *Connect CSM 10 to a futaba FF9 :*** You must own the dongle, we only want to bypass the use of the jack connector and use a DIN..or connect to the proprietary connector..
 
 ![](/assets/images/2004/09/csmFF9.jpg)## ***Run CSM in Windows 2000***
 
-**This is only a small extract of a newsgroup post by Andrew Powell (CSM).**
+# This is only a small extract of a newsgroup post by Andrew Powell (CSM).**
 
 1\. Download and install the RainbowSSD539 sentinel driver from <http://www.rainbow.com/tech/download.html>
 

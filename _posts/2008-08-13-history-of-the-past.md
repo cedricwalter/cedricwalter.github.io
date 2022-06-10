@@ -36,7 +36,7 @@ In 15 years…
 - [![](/assets/images/2020/04/my-pc-1.jpg)](/assets/images/2020/04/my-pc-1.jpg)
 - [![](/assets/images/2020/04/my-pc-2.jpg)](/assets/images/2020/04/my-pc-2.jpg)
 
-***[Instructions per second (IPS)](http://en.wikipedia.org/wiki/Instructions_per_second)*** *is a measure of a computer’s processor speed. Many reported IPS  
+# *[Instructions per second (IPS)](http://en.wikipedia.org/wiki/Instructions_per_second)*** *is a measure of a computer’s processor speed. Many reported IPS  
 values have represented “peak” execution rates on artificial instruction sequences with few branches,  
 whereas realistic workloads consist of a mix of instructions and even applications, some of which take  
 longer to execute than others. The performance of the memory hierarchy also greatly affects processor  

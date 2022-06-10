@@ -31,11 +31,11 @@ tags:
     - vintagegaming
 ---
 
-**The [UNIVERSE BIOS](http://unibios.free.fr/) is for owners of SNK MVS or AES hardware that want an easy way to change country region or between Arcade or Console mode on boot. Also included are other features that are not possible using the standard MVS bios.  
+# The [UNIVERSE BIOS](http://unibios.free.fr/) is for owners of SNK MVS or AES hardware that want an easy way to change country region or between Arcade or Console mode on boot. Also included are other features that are not possible using the standard MVS bios.  
    
 The [UNIVERSE BIOS](http://unibios.free.fr/) is also designed to give easy access to things like inserting coins, test mode and memory card management when using the joystick ports only. Of course the BIOS still allows standard operation too.**
 
-**The free [UNIVERSE BIOS](http://unibios.free.fr/) versions below can be used for personal use only, before downloading you must accept and agree to the following terms;**
+# The free [UNIVERSE BIOS](http://unibios.free.fr/) versions below can be used for personal use only, before downloading you must accept and agree to the following terms;**
 
 - That you own an original NeoGeo MVS, NeoGeo AES or CD system.
 - The [UNIVERSE BIOS](http://unibios.free.fr/) will be for your sole personal use only.
@@ -47,7 +47,7 @@ The [UNIVERSE BIOS](http://unibios.free.fr/) is also designed to give easy acces
 
 Download it [HERE](http://unibios.free.fr/download.html)
 
-**The following codes should be used on the 1up controller while the splash screen is showing or held during power up if the splash screen is disabled;**
+# The following codes should be used on the 1up controller while the splash screen is showing or held during power up if the splash screen is disabled;**
 
 ```
      (A)+(B)+(C)		</strong>UNIVERSE BIOS Menu<strong>
@@ -65,7 +65,7 @@ Download it [HERE](http://unibios.free.fr/download.html)
      (A)+(B)+(C)+(D)	</strong>Controller Test (AES only)
 ```
 
-**The following codes are available in game only, they will not work if you have disabled the in game menu (general bios settings);**
+# The following codes are available in game only, they will not work if you have disabled the in game menu (general bios settings);**
 
 ```
     (START)+(SELECT)	</strong>In Game Menu<strong>

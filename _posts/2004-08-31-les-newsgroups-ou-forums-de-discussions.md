@@ -13,7 +13,7 @@ tags:
     - tutorial
 ---
 
-**Plan :**   
+# Plan :**   
  [**1. Les NEWSGROUPS :**](recherche/newsgroups.html#Introduction%20:)   
  [**Introduction :**](http://recherche/newsgroups.html#Introduction%20:)   
  [**Comment à§a marche?**](http://recherche/newsgroups.html#Comment)   

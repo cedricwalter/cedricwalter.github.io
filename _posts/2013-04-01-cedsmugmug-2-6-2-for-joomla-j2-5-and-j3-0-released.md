@@ -22,7 +22,7 @@ You can visit also the [blog of CedSmugmug for joomla](http://www.waltercedric.c
 
 NEW compatibility improved for [Joomla](http://www.joomla.org/ "Joomla is one of the world’ s most popular open source CMS (content management system).") 2.5 and also now for [Joomla](http://www.joomla.org/ "Joomla is one of the world’ s most popular open source CMS (content management system).") 3.0
 
-**BUG** Button in the backend was always working properly while when being logged in the the frontend of the site, It was returning an error 404.
+# BUG** Button in the backend was always working properly while when being logged in the the frontend of the site, It was returning an error 404.
 
 ## First time installation
 

@@ -19,7 +19,7 @@ Why you may want to start embedding images in CSS ?
 - CSS is cached by browsers and these images can be reused with a CSS selector/class (<li> are obvious candidate if they use images)
 - Attention Internet Explorer 5 to Internet Explorer 7 do not support inline images!
 
-**NOTA**: [Drupal](http://drupal.org/) has a module “[CSS Embedded Images](http://drupal.org/project/css_emimage)” to automatize the inclusion of external images in CSS, while [Joomla](http://www.joomla.org) has nothing ![Sad smile](/assets/images/2012/01/wlEmoticon-sadsmile.png) something that could be done in #Joomla platform, in an extension like [JFinalizer](http://extensions.joomla.org/extensions/site-management/site-performance/11366)….or in the [Gantry framework](http://www.gantry-framework.org/)!
+# NOTA**: [Drupal](http://drupal.org/) has a module “[CSS Embedded Images](http://drupal.org/project/css_emimage)” to automatize the inclusion of external images in CSS, while [Joomla](http://www.joomla.org) has nothing ![Sad smile](/assets/images/2012/01/wlEmoticon-sadsmile.png) something that could be done in #Joomla platform, in an extension like [JFinalizer](http://extensions.joomla.org/extensions/site-management/site-performance/11366)….or in the [Gantry framework](http://www.gantry-framework.org/)!
 
 I did start looking at the code of “[CSS Embedded Images](http://drupal.org/project/css_emimage)” and I am trying to make it a class for #Joomla 2.5
 

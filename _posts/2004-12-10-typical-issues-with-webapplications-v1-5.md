@@ -16,7 +16,7 @@ It may be sometimes good to understand all the technicals terms that try to expl
 If something is not accurate or you want to provide a better example, please contact me…  
 This page should be considered as a start, I have currently no plan to transform my homepage into a security portal, as it is a full time work for specialized company or group of individuals. After looking at this page, You may be frighten by the number of issues in todays softwares…
 
-**Attack Categories:** from the thread "Attack Categories" on mailing list "Web Application Security Mailing List Archiv" at [<font color="#0000ff" size="2">http://lists.virus.org/](http://lists.virus.org/)#  
+# Attack Categories:** from the thread "Attack Categories" on mailing list "Web Application Security Mailing List Archiv" at [<font color="#0000ff" size="2">http://lists.virus.org/](http://lists.virus.org/)#  
 
 - **Client side trust issues** 
     - Input Validation 
@@ -65,7 +65,7 @@ This page should be considered as a start, I have currently no plan to transform
 - Buffer Overflows
 - Unicode Attacks
 
-**Bad design Attacks**
+# Bad design Attacks**
 
 - **Unsecure design:** 
     - **Examples:**
@@ -114,7 +114,7 @@ This page should be considered as a start, I have currently no plan to transform
         - **Eprouved cryptographic implementation.,**
     - **Links:**
 
-**Bad coding Attacks**
+# Bad coding Attacks**
 
 - **Unsecure bad Coding habits:** unsecure way of implementing which create securities concerns. 
     - **Examples**
@@ -137,7 +137,7 @@ This page should be considered as a start, I have currently no plan to transform
         - **Framework for memory management**
     - **Links:**
 
-**Fooling the user**
+# Fooling the user**
 
 - **Cross-site scripting** occurs when a web application gathers malicious data from a user and is a way to theft cookies 
     - *"Attackers will inject JavaScript, VBScript, ActiveX, HTML, or Flash into a vulnerable application to fool a user (Read below for further details) in order to gather data from them. Everything from account hijacking, changing of user settings, cookie theft/poisoning, or false advertising is possible. New malicious uses are being found every day for XSS attacks.***"** *more at* [*http://www.cgisecurity.com/articles/xss-faq.shtml*](http://www.cgisecurity.com/articles/xss-faq.shtml)
@@ -146,7 +146,7 @@ This page should be considered as a start, I have currently no plan to transform
         - **Observe how the link looks like before clicking on it!**
     - **Links:**
 
-**Fooling the application**
+# Fooling the application**
 
 - **Form/hidden field manipulation : a common (weak design) to store persistent data for a user is to use a HTML hidden field: it is a text variable store in the page that may use the application for its own business logic.** 
     - **Hacker will modify them and post page to the server till they get the expected result**
@@ -183,9 +183,9 @@ This page should be considered as a start, I have currently no plan to transform
         - **blocking attackers via Input Validation**
     - **Links: netcontinuum** [https://www.netcontinuum.com/securityCentral/TopThreatTypes/details.cfm?n=3](https://www.netcontinuum.com/securityCentral/TopThreatTypes/details.cfm?n=3)
 
-**Cookies Attacks**
+# Cookies Attacks**
 
-**During Web application logons, user credentials are authenticated against the Web server using standard HTTP protocols and cookies to maintains connections persistence since HTTP alone was not intended to be persistent. Cookies are small text file that track your browsing habits or store some passwords, inernal login parameters.**
+# During Web application logons, user credentials are authenticated against the Web server using standard HTTP protocols and cookies to maintains connections persistence since HTTP alone was not intended to be persistent. Cookies are small text file that track your browsing habits or store some passwords, inernal login parameters.**
 
 17. **Cookie poisoning:** Injecting new data or modifying some data inside a cookie in order to steal a user identity/ fake the login mechanism of a server. 
     - If the cookie is *Persistent* (the cookie does not "die" when You close the browser and contains most of the times a *expiration* date), hackers may use a cookie editor or any text editor (Notepad) to change data in it.

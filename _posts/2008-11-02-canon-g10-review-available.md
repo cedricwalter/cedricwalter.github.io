@@ -20,7 +20,7 @@ This feature-packed camera is a great buy, and perhaps the best compact non-SLR 
 - *[DPReview pre review](http://www.dpreview.com/news/0809/08091702canon_g10.asp)*
 - For the unboxing, [I found this gallery at picasaweb](http://picasaweb.google.com/sani.nassif/Powershot10608515PM#)
 
-**Specifications**
+# Specifications**
 
 Compact digital still camera with built-in flash, 5x Optical/4x Digital/20x Combined Zoom with Optical Image Stabilizer System
 

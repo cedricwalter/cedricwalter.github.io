@@ -21,38 +21,38 @@ dynamic language that is especially suited for development of web applications a
 
 I have prepared a HowTo also for eclipse PDT, but it is still not ready for prime time.
 
-**DBG**
+# DBG**
 
 |  | 1. Native debugger. 2. Debug locally or remotely 3. JIT. When enabled it can start debugging Just In Time when an error happens. 4. Supports back-trace, e.g. displays a list of all procedures with their local variables, 5. Step-in, step-out, step-over, run to cursor, change execution point withing current scope…), evaluate any valid php expression(s) or inspect arrays, classes and simple variables, modify their values on the fly and even create any new variables. 6. Supports conditional breakpoints and even global ones 7. Allows to change execution point 8. has embedded profiler, 9. Allows multiple debugger processes running simultaneously. 10. Has open COM interfaces for integration with win32-based 3rd party IDEs. 11. Linux, BSD, SunOs, MacOs and Win32 are supported. |
 |---|---|
 
-**XDEBUG**
+# XDEBUG**
 
 |  | **Xdebug** provides:  - [stack traces](http://xdebug.org/docs/stack_trace) and [function traces](http://xdebug.org/docs/execution_trace) in error messages with:      - full [parameter display](http://xdebug.org/docs/display) for user defined functions     - function name, file name and line indications     - support for member functions - memory allocation - protection for infinite recursions - [profiling](http://xdebug.org/docs/profiler) information for PHP scripts - [code coverage analysis](http://xdebug.org/docs/code_coverage) - capabilities to [debug your scripts interactively](http://xdebug.org/docs/remote) with a debug client |
 |---|---|
 
-**ZEND**
+# ZEND**
 
 Debugger Extension can be downloaded from [Zend Downloads](http://downloads.zend.com/pdt/server-debugger/)
 
 | <div class="wlWriterSmartContent" id="scid:32a77b7a-5ea4-47be-84fc-ff7471384e10:f804bb84-f797-4734-a4c4-652dea294f1f" style="padding-right: 0px; display: inline; padding-left: 0px; padding-bottom: 0px; margin: 0px; padding-top: 0px">[![](/assets/images/2008/03/3433d4e09c154bdab168cf2c1c685f0d.jpg)](http://www.zend.com/) | Zend debugger in #Eclipse also works for MySQL statements! |
 |---|---|
 
-****
+# **
 
 ## Installing ZEND debugger in #Eclipse
 
 The Zend Executable Debugger #Eclipse plugin adds PHP debugging capabilities to the #Eclipse environment.
 
-**Add the following remote location to the eclipse manager, even if you have eclipse PDT**
+# Add the following remote location to the eclipse manager, even if you have eclipse PDT**
 
 ```
 <a href="http://downloads.zend.com/pdt">http://downloads.zend.com/pdt</a>
 ```
 
-**[![zend.debugger.in.eclipse](/assets/images/2008/03/zend.debugger.in_.eclipse_thumb.gif)](/assets/images/2008/03/zend.debugger.in_.eclipse.gif) **
+# [![zend.debugger.in.eclipse](/assets/images/2008/03/zend.debugger.in_.eclipse_thumb.gif)](/assets/images/2008/03/zend.debugger.in_.eclipse.gif) **
 
-****
+# **
 
 ## ZEND debugging mysql statement
 
@@ -78,7 +78,7 @@ In the zip file, you’ll see multiple directories
 ![zend.debugger.install](/assets/images/2008/03/zend.debugger.install.gif)
 
 Use the version that match the one in XAMPP (you have note at chapter A, for me 5.2.3 so copy files from 5\_2\_x\_comp) and copy the dll in   
-**xampp\_path**\\php\\extensions\\
+# xampp\_path**\\php\\extensions\\
 
 [![zend.debugger.php.5.2.x](/assets/images/2008/03/zend.debugger.php_.5.2.x_thumb.gif)](/assets/images/2008/03/zend.debugger.php_.5.2.x.gif)
 
@@ -96,7 +96,7 @@ zend\_debugger.expose\_remotely=always
 ; this is to see output while debugging implicit_flush = On 
 ```
 
-**Switch off all other debugger as it may conflict with Zen**
+# Switch off all other debugger as it may conflict with Zen**
 
 ```
 eaccelerator.enable="0"

@@ -30,7 +30,7 @@ Requirements for Nimbus
 - You need to have a license of Joomla Tags, or Nimbus won’t work nor make sense.
 - You need currently to have a way to define CRON on your server
 
-**Notes**:
+# Notes**:
 
 Nimbus, Joomulus is based on Roy Tanck’s wp-cumulus [http://www.roytanck.com,](http://www.roytanck.com,/) a wonderful Word Press 3D flash tag cloud plug-in.
 

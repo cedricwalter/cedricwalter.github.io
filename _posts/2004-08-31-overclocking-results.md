@@ -11,7 +11,7 @@ image: /wp-content/uploads/2004/08/InPlace1.jpg
 
 Â
 
-**Result from overclocking**
+# Result from overclocking**
 
 [XP1700(1470MHz) @2350Mhz](mailto:XP1700@2350Mhz)  
 Nforce2 Asus A7N8X deluxe -512 Mb  

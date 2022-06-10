@@ -15,7 +15,7 @@ Atlassian just acquired [GreenHopper](http://atlassiansales.createsend2.com/t/r/
 
 GreenHopper is a JIRA plug-in that adds a broad collection of agile project management capabilities to JIRA, and extends JIRA as a powerful platform for agile development teams. GreenHopper simplifies the planning and organization of tasks, workflows and reporting for agile teams.
 
-**It introduce** **in JIRA**
+# It introduce** **in JIRA**
 
 - [Card management](http://www.atlassian.com/greenhopper/features/default.jsp): Visualise issues, tasks and user stories as graphical "cards", color-coded and dynamically editable.
 - [Planning Board](http://www.atlassian.com/greenhopper/features/planning-board.jsp): Quickly create, assemble, sort and prioritize project tasks with drag-and-drop simplicity.

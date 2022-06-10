@@ -42,7 +42,7 @@ Language: Italian*
 - [![](/assets/images/2020/04/portofino-higher-point.jpg)](/assets/images/2020/04/portofino-higher-point.jpg)
 - [![](/assets/images/2020/04/portofino-higher-point2.jpg)](/assets/images/2020/04/portofino-higher-point2.jpg)
 
-***Portofino has a Mediterranean climate with hot and dry summers. Even in Winter the weather is never cold.***
+# *Portofino has a Mediterranean climate with hot and dry summers. Even in Winter the weather is never cold.***
 
 - [A VILLAGE OF RARE BEAUTY IN THE MEDITERRANEAN”](http://www.comune.portofino.genova.it/)
 - [Parco Naturale Regionale di Portofino](http://www.parks.it/parco.portofino/Eindex.html)

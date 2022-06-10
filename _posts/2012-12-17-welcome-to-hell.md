@@ -29,5 +29,5 @@ tags:
 
 En cas de délit de chauffard, **le permis de conduire est retiré pour au moins deux ans**. **Il est retiré définitivement pour les récidivistes**. Une restitution exceptionnelle après 10 ans n’est possible que si une expertise psychologique favorable a été délivrée. Par ailleurs, les peines appliquées en cas de délit de chauffard deviennent plus sévères. Désormais, la peine privative de liberté est d’un an au minimum et de 4 ans au maximum.
 
-**Confiscation et réalisation de véhicules automobiles**   
+# Confiscation et réalisation de véhicules automobiles**   
 En cas d’infraction grave aux règles de la circulation routière, par exemple un excès de vitesse important, **le véhicule peut être confisqué et réalisé**, pour autant que cette mesure permette d’empêcher le contrevenant de commettre d’autres délits.

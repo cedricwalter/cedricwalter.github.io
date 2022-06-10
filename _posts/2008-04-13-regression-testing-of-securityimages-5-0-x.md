@@ -16,7 +16,7 @@ release quality and avoid manual testing of SecurityImages
 at every release, I release Selenium testcases so anybody/   
 any developer can run them against their homepage.
 
-**Prerequisites**
+# Prerequisites**
 
 - Extract this zip file in a new directory (link soon available)
 - Load the test suite (set of tests) named *securityimages.testsuite   
@@ -35,7 +35,7 @@ any developer can run them against their homepage.
 
 The next step is to put everything in XINC…
 
-**Read also**
+# Read also**
 
 - [Develop web testcases using Selenium IDE in Firefox for Joomla!](https://waltercedric.com/new/?p=3399)
 - [Record testcases with Selenium IDE](https://waltercedric.com/new/?p=3408)

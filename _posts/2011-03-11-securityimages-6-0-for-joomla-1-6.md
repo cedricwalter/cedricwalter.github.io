@@ -39,7 +39,7 @@ For all those that still don’t know what a [CAPTCHA](http://www.captcha.net/) 
 
 ## KeyCaptcha
 
-**Require to create a free account and register** your site at <https://www.keycaptcha.com/>
+# Require to create a free account and register** your site at <https://www.keycaptcha.com/>
 
 - Spam-bots are powerless against KeyCAPTCHA
 - It isn’t possible to transfer it to third parties for recognition
@@ -53,7 +53,7 @@ For all those that still don’t know what a [CAPTCHA](http://www.captcha.net/) 
 
 ## NUCaptcha
 
-**Require to create a free account and register** your site at <http://www.nucaptcha.com/>
+# Require to create a free account and register** your site at <http://www.nucaptcha.com/>
 
 [![securityimages.nucaptcha.joomla.1.6](/assets/images/2011/03/securityimages.nucaptcha.joomla.1.6_thumb.png "securityimages.nucaptcha.joomla.1.6")](/assets/images/2011/03/securityimages.nucaptcha.joomla.1.6.png)
 
@@ -61,7 +61,7 @@ For all those that still don’t know what a [CAPTCHA](http://www.captcha.net/) 
 
 reCAPTCHA is a free CAPTCHA service that helps to digitize books, newspapers and old time radio shows.
 
-**Require to create a free account and register** your site at <http://www.google.com/recaptcha/whyrecaptcha>
+# Require to create a free account and register** your site at <http://www.google.com/recaptcha/whyrecaptcha>
 
 [![securityimages.recaptcha.joomla.1.6](/assets/images/2011/03/securityimages.recaptcha.joomla.1.6_thumb.png "securityimages.recaptcha.joomla.1.6")](/assets/images/2011/03/securityimages.recaptcha.joomla.1.6.png)
 

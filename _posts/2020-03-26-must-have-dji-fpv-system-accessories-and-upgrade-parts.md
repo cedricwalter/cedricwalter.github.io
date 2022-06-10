@@ -87,7 +87,7 @@ You can print them yourself at <https://www.thingiverse.com/thing:3840374>
 
 [![](/assets/images/2020/03/URUAV-Pogoda-Triple-Feed-Patch-2-V2-5.8Ghz-9dBi-LHCP-Antenna-for-DJI-Digital-Goggles-FPV-Monitor-Receiver-Fatshark.png)](https://www.banggood.com/?zf=24421201) Using LHCP circular polarization antenna for receiving, can avoid the interference of most RHCP transceiver signal.This antenna uses specially processed PCB as the feed surface, and fully compatible with DJI FPV goggles ,with no need for adapter.
 
-**Specification**
+# Specification**
 
 - Diameter : 60mm
 - Weight : 13.5g

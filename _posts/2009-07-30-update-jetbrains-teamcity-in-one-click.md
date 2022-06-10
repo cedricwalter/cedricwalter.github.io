@@ -34,7 +34,7 @@ tags:
 
 ### Limitations
 
-**This script only work if**
+# This script only work if**
 
 - You run TeamCity using the standalone package provided at <http://www.jetbrains.com/teamcity/download/index.html#linux> under #Linux
 - You use MYSQL as an external DB

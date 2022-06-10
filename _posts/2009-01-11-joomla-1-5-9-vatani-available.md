@@ -15,7 +15,7 @@ It has been around two months since [Joomla 1.5.8 was released](http://www.jooml
 
 Unnoficial [Mirror download here](http://mirror.waltercedric.com/)
 
-**Statistics for the 1.5.9 release period:**
+# Statistics for the 1.5.9 release period:**
 
 - Joomla 1.5.9 contains: 
     - 81 issues fixed in SVN

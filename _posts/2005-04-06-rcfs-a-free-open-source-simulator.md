@@ -12,7 +12,7 @@ tags:
 ---
 
 [RCFS](http://rcfs.sourceforge.net), a free open source simulatorunder BSD licence now at [sourceforge.net](sourceforge.net)  
-**Features**
+# Features**
 
 - High quality graphics
 - Runs on older machines with reduced graphics quality

@@ -34,7 +34,7 @@ I decide to buy the professional edition instead of downloading all cd from [ftp
 |  | \* [GeeXbox](http://www.geexbox.org/) turns your PC into a dedicated media player. It boots a version of the #Linux kernel, and then uses the popular mplayer to allow you to play DVDs, VCDs, or regular audio CDs. It also allows you to play pretty much any multimedia file from your hard drive, and can mount Samba shares as well. Best of all, the ISO is a mere 4.3 megabytes…    [Download it HERE](http://www.pclinuxonline.com/pclos/download.html) |
 |  | After knoppix…welcome flonix    “a linux system that can reside on a USB key!!!! (use less than 60Mo). It is based on knoppix and let you start linux everywhere if you can boot on USB!     You can:     – play dvd, burn CD, watch and edit pictures, scan, browse internet,     word processing, sync a Palm PDA,     read PDF files, start a webserver and more….     read more here:     <http://linuxdocs.tuxfamily.org/flonix/doc/wakka.php?wiki=EnPresentation> |
 
-**\* can be download freely**
+# \* can be download freely**
 
 <font face="Arial Black" size="4">![](/assets/images/2004/08/susebullet.gif) Test system:
 
@@ -53,7 +53,7 @@ I decide to buy the professional edition instead of downloading all cd from [ftp
 
 <font face="Arial Black" size="4">![](/assets/images/2004/08/susebullet.gif) Some sentences you may hear about #Linux:
 
-**Linux user interface is ugly, Xp is better!**  
+# Linux user interface is ugly, Xp is better!**  
  Who can still says this?, look at this KDE 3.2 pictures
 
  | [![](/assets/images/2004/08/tnkde3.gif)](/assets/images/2004/08/kde3.jpg) |
@@ -62,7 +62,7 @@ I decide to buy the professional edition instead of downloading all cd from [ftp
 
 Moreover you can choose another desktop manager, instead of **KDE**, a lot of people prefer **Gnome.** If you still can’t live without Windows, try this windows manager under linux [**http://www.xpde.com/index.php**](http://www.xpde.com/index.php)
 
-**Suse (or #Linux in general) is difficult to use!**  
+# Suse (or #Linux in general) is difficult to use!**  
  Not so much, in fact the tool **YAST**: “Yet Another Setup Tool” do a great job when dealing with the configuration of your computer, softwares and hardware can be configured in a hierarchical control panel. I found it even better than the equivalent of “Windows world”. What can be disturbing is the organisation of files and program on disk. I would say that someone who never use Windows before will have the same learning curve and encounter more or less the same difficulties with linux, the only drawback I see is that no so much friends can help you (and give you tools for which you have no licence 😉 ) since #Linux as a desktop is not so much floating around. Now if you are a Windows user like me (since 10 years), you will encounter some difficulties, I prefer to say “forget some bad Windows habits”, like
 
 - Windows make no differences between upper and lower case filename, but #Linux does! which is normal because we also make this distinction when we write letters and office documents.
@@ -235,4 +235,4 @@ These applications are installed as default,
 |  | <http://www.distrowatch.com/> ![](/assets/images/2004/08/smallnew.gif) |
 | [http://www.linuxiso.org](http://www.linuxiso.org/) | [Here](http://www.linuxiso.org/forums/viewtopic.php?t=16245&highlight=walter+cedric) |
 
-**![](/assets/images/2004/08/pnew.gif)** **When you finish this article, You may want to read the** [**round 2 HERE** ](images/pc/suse/migrationToLinux.htm)**![](/assets/images/2004/08/pnew.gif)**
+# ![](/assets/images/2004/08/pnew.gif)** **When you finish this article, You may want to read the** [**round 2 HERE** ](images/pc/suse/migrationToLinux.htm)**![](/assets/images/2004/08/pnew.gif)**

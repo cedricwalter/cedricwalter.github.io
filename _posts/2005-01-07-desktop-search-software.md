@@ -14,7 +14,7 @@ tags:
 
 Here is a list of all desktop **FREE** search tool I have found so far, I am personaly using Google, but regret that there is no #Linux version of it…
 
-**Windows only ![](/assets/images/2005/01/logoxp.gif)**
+# Windows only ![](/assets/images/2005/01/logoxp.gif)**
 
 - [Copernic desktop search software,](http://www.copernic.com/en/products/desktop-search/index.html) (applications)
 - [Google desktop search software,](http://desktop.google.com/?promo=app-gds-en-us) ![](/assets/images/2005/01/ie_logo.gif) and limited with ![](/assets/images/2005/01/firefox_logo.gif) ![](/assets/images/2005/01/netscape_logo.png) , a ![](images/stories/logo/logomac.png) is also [planned](http://arstechnica.com/news.ars/post/20041029-4360.html)
@@ -23,7 +23,7 @@ Here is a list of all desktop **FREE** search tool I have found so far, I am per
 - Yahoo desktop search software, Yahoo! has partnered with [X1](http://www.x1.com/) to deliver a world-class consumer desktop search product leveraging X1’s award-winning technology. <span style="font-weight: bold;">This product do not exist yet.
 - [HotBot desktop](http://www.hotbot.com/tools/desktop/) ![](/assets/images/2005/01/ie_logo.gif)
 
-**Plattform independant ![](images/stories/logo/logolinux.png) ![](images/stories/logo/logomac.png) ![](/assets/images/2005/01/logoxp.gif)**
+# Plattform independant ![](images/stories/logo/logolinux.png) ![](images/stories/logo/logomac.png) ![](/assets/images/2005/01/logoxp.gif)**
 
 [x-friend’s **![](images/stories/logo/java_logo.png)**](http://www.x-friend.de/en/start/introduction/)![](/assets/images/2005/01/ie_logo.gif)![](/assets/images/2005/01/firefox_logo.gif) ![](/assets/images/2005/01/safari_logo.gif) ![](/assets/images/2005/01/netscape_logo.png) (0.2.1 beta) search functionality includes full text search (using apache Lucene) and meta data search. Search results will be displayed within seconds and can be categorized by file type, date, size etc.
 
@@ -39,7 +39,7 @@ Lucidity (http://almaw.com/java/wiki/LuciditySearch) "<span style="font-style: i
 
 Another program based on apache Lucene: http://www.peerfear.org/rss/permalink/2004/10/28/LotsOfInterestInLuceneDesktop/
 
-**Not FREE**
+# Not FREE**
 
 - [ISYS:desktop product](http://isysusa.com/solutions/personalsearch.html), Corporate usage, search over 125 file formats!
 - <http://www.dtsearch.com/> 199$ home user

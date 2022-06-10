@@ -28,6 +28,6 @@ What is also interesting me a lot is the possibility to make [XDepend](http://ww
 
 [Spring analyzed by XDepend](http://forge.octo.com/confluence/display/XDEPDOC/XDepend+2.10+documentation)
 
-**More to come later**
+# More to come later**
 
 Note: .Net is also having a similar tools [NDepend](http://www.ndepend.com/), build on the same engine developed by [Patrick Smacchia](http://codebetter.com/blogs/patricksmacchia/).

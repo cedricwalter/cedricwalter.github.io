@@ -33,9 +33,9 @@ Some facts, easy to verify Yourself:
 4. Yes it is possible TODAY to try Linux without hurting your computer: [Knoppix](http://www.knopper.net/) and 130 others live Linux distributions [are here](http://www.frozentech.com/content/livecd.php) to convince You
 
 So do You need to switch now from windows to linux? **NO**, switch only for [some good reasons,](http://www.mandrake.tips.4.free.fr/switchsuccess.html) as there is still some open issues, mainly because a lot of company do not support Linux when they release drivers for their peripherals.   
-**Remember**, as in real life, it is not always the best companies, persons, or applications which wins, it is not because 90% of people use IE or M$, that it is the only browser choice. It is crazy but 400 years ago, all people were convince that the earth was flat….
+# Remember**, as in real life, it is not always the best companies, persons, or applications which wins, it is not because 90% of people use IE or M$, that it is the only browser choice. It is crazy but 400 years ago, all people were convince that the earth was flat….
 
-**Links**:  
+# Links**:  
 if you are concerned by security, these sites are worth the visit:  
 [Secunia – Security and Virus Information](http://secunia.com/)  
 [Linux security](http://www.linuxsecurity.com/)  

@@ -14,7 +14,7 @@ tags:
 
 The Roswell Flyer or Draganflyer or HMX-4 flyer were designed by Mike Dammar at [www.spectrolutions.com](http://www.spectrolutions.com/) (a very cool man) They all shared a same design, just strong enough to fly indoor. It is the greatest machine i’ve ever flown, and all friends or people in the street agreed. The price is very high (as expensive as a picollo) but the price range is the same with all rc helicopter : all price can be easily divided by 2! I regret that only a few people can buy this wonderful machine but if you can afford one, do not hesitate : buy one, it is very stable in the air (3 gyro) but still required some helicopter knowledge.
 
-**Clone**
+# Clone**
 
 | ![](/assets/images/2004/09/roswellflyer.jpg) | This is the **Roswell Flyer** or **HMX-4 flyer**.    The old manufacturer of the Roswell Flyer    ([www.afot.com](http://www.waltercedric.com/Helico/roswell/www.afot.com)) disapear, but you can still    aquire the HMX-4 at [www.spectrolutions.com](http://www.spectrolutions.com/).    Model is discontinued and can not be bought. |
 |---|---|
@@ -29,6 +29,6 @@ The Roswell Flyer or Draganflyer or HMX-4 flyer were designed by Mike Dammar at 
 | ![](/assets/images/2004/09/keyence.jpg)    ![](/assets/images/2004/09/keyenceSmall.jpg) | **ENGAGER GS III E-770**    500mm X 400mm, Height 120mm,    Rotor size: 330mm,    Weight: 300g,     Ni-Cd-Akku 7,2V, 500mAh, 120g  **GYRO SAUCER II E-570** 250mm, width 250mm, Height 75mm,    Rotor size: 133mm,    Weight: 85g,    Ni-Cd-Akku 7,2V, 120mAh |
 | [![](/assets/images/2004/09/KlausMichaelDothDanielGurdan.jpg)](http://www.jugend-forscht.de/html/wet/i_lis.php?id=1389&stichwort=&plz=&bundesland=Bayern&jahr=2003&fachgebiet=Technik) | [http://www.jugend-forscht.de/html/wet/i\_lis.php](http://www.jugend-forscht.de/html/wet/i_lis.php?id=1389&stichwort=&plz=&bundesland=Bayern&jahr=2003&fachgebiet=Technik)   [?id=1389&amp;stichwort=&amp;plz=&amp;bundesland=Bayern&amp;](http://www.jugend-forscht.de/html/wet/i_lis.php?id=1389&stichwort=&plz=&bundesland=Bayern&jahr=2003&fachgebiet=Technik)   [jahr=2003&amp;fachgebiet=Technik](http://www.jugend-forscht.de/html/wet/i_lis.php?id=1389&stichwort=&plz=&bundesland=Bayern&jahr=2003&fachgebiet=Technik)     Fuzzy controler and fast processor.    Controlled with a hand glove. |
 
-**Reviews**
+# Reviews**
 
 Great machine, except flight duration (3-4 or 5 minutes!). I hope that new generation of li-ion will help.

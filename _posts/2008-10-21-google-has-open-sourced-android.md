@@ -24,7 +24,7 @@ Try android emulator for FREE
 
 [![free.android.emulator](/assets/images/2008/10/free.android.emulator_thumb.png)](/assets/images/2008/10/free.android.emulator.png)
 
-**Important links:**
+# Important links:**
 
 - [Android Developer Home Page](http://code.google.com/android/)
 - [Android Developer Documentation, including the Getting Started Guide, and the API Reference](http://code.google.com/android/documentation.html)

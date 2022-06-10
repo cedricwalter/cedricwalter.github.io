@@ -36,7 +36,7 @@ After reading this great article https://medium.com/@pstehlik/evaluating-blockch
 
 The tool save regularly all your entries into browser Local Storage, so it will restore them after browser crashes, tabs closings and other disasters.
 
-**The vision**
+# The vision**
 
 If you agree to tick the checkbox to share, all your data will be persisted to the server, in a format that later allow the Blockchain community **to query, compare and read token canvas** (these features are in development).
 

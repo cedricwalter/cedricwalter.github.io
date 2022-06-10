@@ -21,7 +21,7 @@ tags:
 
 The author of the book recounts the examples of how to quickly create a variety of web projects using CMS [Joomla!](http://www.joomla.org/). From the book you will learn how to edit menu, set extensions, work with the extensions, setting up the comments and maps from Google Map’s and much more.
 
-**I will offer this book randomly to one of my twitter follower!!!! more details in next post.**
+# I will offer this book randomly to one of my twitter follower!!!! more details in next post.**
 
 It present how to build 10 different sites with more or less complexity. Something that will greatly help the beginner that is starting without any prior knowledge.
 
@@ -45,9 +45,9 @@ Picture and illustrations are of a good size, and all steps are well documented.
 
 ### [Buy online at PacktPub.com](http://www.packtpub.com/joomla-1-5-site-blueprints/book/mid/250610gn280p?utm_source=waltercedric.com&utm_medium=bookrev&utm_content=blog&utm_campaign=mdb_003736)
 
-**Language :** English   
-**Paperback :** 270 pages \[ 235mm x 191mm \]   
-**Release Date :** May 2010   
-**ISBN :** 1849511705   
-**ISBN 13 :** 978-1-849511-70-4   
-**Author(s) :** Timi Ogunjobi
+# Language :** English   
+# Paperback :** 270 pages \[ 235mm x 191mm \]   
+# Release Date :** May 2010   
+# ISBN :** 1849511705   
+# ISBN 13 :** 978-1-849511-70-4   
+# Author(s) :** Timi Ogunjobi

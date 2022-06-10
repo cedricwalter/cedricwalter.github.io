@@ -52,18 +52,18 @@ Acheter a l’etranger: Japon, USA…Prix scandaleux en france!
 
 Exemple révoltant: la canopy du raptor 30: 48€ en france, $15.5 (+20€ de port) au japon, faites en venir 3, 2 seront presque gratuite! regroupez vous. Commander en quantité, regrouper vous dans votre club et voler sur la même machine!
 
-**Remarques:**
+# Remarques:**
 
 - Le magasin francais est prit en Belgique, car c’est un des rares magasins a avoir un site ou les prix des pièces pour le caliber 30 sont visible. Ces prix sont dans la moyenne et je dirai même moins cher vu qu’il se spécialise dans la vente sur internet..
 - Il faut commander beaucoup pour que cela reste rentable, ne serait que à cause du port.
 - Le cours de l’euro est avantageux en ce moment (31.05.2003) il est de 1.17
 
-**Chez qui commander?**
+# Chez qui commander?**
 
 <http://www.hobbynet-jp.com/> pièces de kyosho caliber, pièces tamiya. Anglais uniquement.  
  [http://www.cyberheli.com](http://www.cyberheli.com/) tout pour l’hélico rc, rapide, fiable, mondialement reconnus. Francais, Allemand (écrire a <tom@cyberheli.com> ), Anglais.
 
-**Conclusions:**
+# Conclusions:**
 
 - Le magasin au Japon vit aussi et fait ses marges…ok avec moins de charges, et du personnel a 100 euro le mois…
 - Non non le business du loisir n’est pas un prétexte à tous les excès.

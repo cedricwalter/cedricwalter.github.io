@@ -17,7 +17,7 @@ tags:
 
 After seing [Wp-Thumbie](http://www.blogsdna.com/5038/wp-thumbie-wordpress-plugin-from-blogsdna-lab.htm) for WordPress, I decide to change my #Joomla! content plugin related articles to support the same level of functionalities. The CSS is the same, the code is written from scratch. As always, I made this for my site, and now I provide it for free under GPL v3.
 
-**This version 2.0 now display a list of Thumbnail related posts for the current post!**
+# This version 2.0 now display a list of Thumbnail related posts for the current post!**
 
 I rewrite totally the code, its object oriented, CSS driven, and quite readable (300 lines of code).
 

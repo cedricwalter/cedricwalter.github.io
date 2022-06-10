@@ -14,7 +14,7 @@ tags:
     - simulator
 ---
 
-**Helicopters I own, flight log and Crash log click on the picture to jump to the section**
+# Helicopters I own, flight log and Crash log click on the picture to jump to the section**
 
 | ***1***<sup>***st***</sup> ***Caliber 30*** | ***Raptor 60*** | ***2***<sup>***nd***</sup> ***Caliber 30*** |
 |---|---|---|

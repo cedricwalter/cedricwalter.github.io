@@ -23,5 +23,5 @@ The switch has occured during the night from 23:00PM to 00:50AM, a big thank to 
 
 I highly recommend You to look at [Cineteck](www.cineteck-fr.com) if You plan to host a [Joomla](http://www.joomla.org/)/[Mambo](http://www.mamboserver.com/) site. Their prices are very interesting and their support top!
 
-**Note:**  
+# Note:**  
 My site is also now available using HTTPS (SSL 3.0, RC4 with 128 bit encryption (High); RSA with 2048 bit exchange) a new setting only possible in Plesk 7.5.4: *Use a single directory for housing SSL and non-SSL content*

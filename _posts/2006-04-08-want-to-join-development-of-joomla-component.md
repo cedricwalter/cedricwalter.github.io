@@ -37,7 +37,7 @@ How to join the development?
 
 As You see a lot of things to do before ever being able to write code. In order to help You, I have decide to open:
 
-**A new project at #Joomla Forge (It must be accepted first by the forge)**   
+# A new project at #Joomla Forge (It must be accepted first by the forge)**   
 I found another project which aimed at the same result:
 
 <div class="HeaderText"><small>**PHP Development Studio** </small><small><span style="FONT-STYLE: italic">[Joomla/Mambo PHP Development Studio is a pre-packaged #Eclipse version aimed at the PHP /MySQL developer.](http://forge.joomla.org/sf/projects/php_development_studio) Includes tools like: PHPEclipse, Clay database modeller, SQL Explorer, QuickRex, Subversion client and FTP&amp;WebDAV client. Serveral licenses apply. </small>[](http://www.joomlatwork.com/)

@@ -17,7 +17,7 @@ tags:
 
 Thanks to Margus Pala, a security Flaw has been reported and corrected in SecurityImages version 5.1.2 and previous
 
-**The flaw is of moderate level, in register forms, spammers are able to register without solving the Captcha**!
+# The flaw is of moderate level, in register forms, spammers are able to register without solving the Captcha**!
 
 - It affect only SecurityImages 5.x for #Joomla! 1.5
 - SecurityImages 6.x for #Joomla! 1.6 is not affected
@@ -26,7 +26,7 @@ In order to resolve this issue, you don’t have to install any new version of S
 
 - Update your blog with the right version of the [joomla!](http://www.joomla.org/) patches, the all end with #Joomla\_1.5.x-Stable-Full\_PackageForSecurityImages5.y.z\_**v01.03.00**
 
-**OR**
+# OR**
 
 - Edit the file components\\com\_user\\controller.php and remove the line 274 ($this->register())
 

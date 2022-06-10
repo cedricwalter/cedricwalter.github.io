@@ -14,7 +14,7 @@ tags:
 
 I will also release a new version of akocomment, and resolve the logged in user bugs that many people have reported me.
 
-**release 2.2.0 to be released soon**
+# release 2.2.0 to be released soon**
 
 - **All** **–** **Security patches**: add missing index.html and PHP missing header: *defined( ‘\_VALID\_MOS’ ) or die( ‘Direct Access to this location is not allowed.’ );*
 - **Plugin core** is now able to output image to PNG, JPG or GIF selection in admin core settings
@@ -38,7 +38,7 @@ I will also release a new version of akocomment, and resolve the logged in user 
 - **Plugin core** **– Bug** correct the contrast of 2 images bg-L-5.png and bg-L-18.png : there were too dark!
 - **All** **–** A new menu entry "Check if latest version" has been add, I only have to finish the server code.-> it is not working right now but soon.
 
-**AkoComment**
+# AkoComment**
 
 Administrator mail UTF8 support patch by Karel Neugebauer jr. – http://itx.cz
 

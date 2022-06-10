@@ -20,7 +20,7 @@ Since the 2.5 update the PS3 has a Recovery menu with the following options:
 - Restore PS3 System: Fresh restore; Deletes everything and starts from Scratch.
 - System Update: Update the PLAYSTATION®3 System
 
-**How to get access to service mode**
+# How to get access to service mode**
 
 1. Make sure the PS3 is turned off,
 2. Press and hold the power button on the PS3 it will power on then power off.

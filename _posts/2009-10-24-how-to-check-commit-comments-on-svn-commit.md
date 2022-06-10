@@ -79,7 +79,7 @@ Save this file in /data/svn-repos/{yourRepository}/hooks/checkCommentNotEmpty.sh
 #!/bin/sh REPOS="$1" TXN="$2" SVNLOOK=/usr/bin/svnlook  if [`$SVNLOOK log -t $TXN $REPOS` != ""]; then   echo "" 1>&2   echo "*** Your commit has been blocked because you did not give any log message or your log message was too short." 1>&2   echo "Please write a log message describing the purpose of your changes and then try committing again." 1>&2   exit 1 else   exit 0 fi
 ```
 
-**Example in Eclipse, if you break the rule**
+# Example in Eclipse, if you break the rule**
 
 [![noEmptySVNCommitComment](/assets/images/2009/10/noEmptySVNCommitComment_thumb.png "noEmptySVNCommitComment")](http://www.waltercedric.com/images/stories/HowtoaddcheckforCommentsonSVNCommit_14916/noEmptySVNCommitComment.png)
 
@@ -95,7 +95,7 @@ If any developer try to use a commit statement not starting with for example PRO
 #!/bin/sh REPOS="$1" TXN="$2" SVNLOOK=/usr/bin/svnlook regex="PRODUCT-[0-9]*"  if [[ `$SVNLOOK log -t $TXN $REPOS` =~ ${regex} ]]; then   exit 0 else   echo "" 1>&2   echo "*** Your commit has been blocked because you give an invalid commit comment" 1>&2   echo "Please make your commit comment start with PRODUCT-XXX" 1>&2  exit 1 fi
 ```
 
-**Example in Eclipse, if you break the rule**
+# Example in Eclipse, if you break the rule**
 
 [![checkSVNCommitCommentWithRegularExpressions](/assets/images/2009/10/checkSVNCommitCommentWithRegularExpressions_thumb.png "checkSVNCommitCommentWithRegularExpressions")](http://www.waltercedric.com/images/stories/HowtoaddcheckforCommentsonSVNCommit_14916/checkSVNCommitCommentWithRegularExpressions.png)
 

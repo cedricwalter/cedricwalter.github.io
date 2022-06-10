@@ -30,7 +30,7 @@ Flight simulators
  FMS [http://simulator.home.pages.de](http://simulator.home.pages.de/)   
  RCSimSikorsky <http://home.zonnet.nl/blacksphere2/rcsim.html>
 
-**Utility of a simulator :**
+# Utility of a simulator :**
 
 - Save your money : you can do virtual crash.But not too many, otherwise your learning curve will be flat.
 - Fly when it is raining outside !
@@ -39,7 +39,7 @@ Flight simulators
 - Fly for free before you buy a helicopter, if you find it boring you sell the simulator and not your beautiful and expensive "as new heli" on ebay…after 3 hours….
 - Avoid dangerous situation for you and your heli.
 
-**Training :**
+# Training :**
 
 Practice the "Oh My God" recovery : Take the helicopter up, close your eyes, SCRAMBLE the sticks for several seconds, open your eyes, then try to recover the bird.
 
@@ -61,7 +61,7 @@ For basic skills:
  e) backwards figure 8's  
  f) inverted backwards figure 8's
 
-**List of all available RC simulator**
+# List of all available RC simulator**
 
 On this page [http://hem.passagen.se/rasmus-modellflyg/Simulatorer\_eng\_index.html](http://hem.passagen.se/rasmus-modellflyg/Simulatorer_eng_index.html)
 

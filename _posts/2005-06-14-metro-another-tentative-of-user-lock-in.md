@@ -19,4 +19,4 @@ Metro is basically M$ response to the widely use Adobe PDF (Portable Document Fi
 
 [Metro Specification and Reference Guide](http://www.microsoft.com/whdc/device/print/metro.mspx) is available on M$ HERE
 
-**Note**: If You ever want to create, read, modifiy PDF using #Java, there is a huge [list of open source libraries and tools list HERE](http://www.geocities.com/marcoschmidt.geo/java-libraries-pdf.html)
+# Note**: If You ever want to create, read, modifiy PDF using #Java, there is a huge [list of open source libraries and tools list HERE](http://www.geocities.com/marcoschmidt.geo/java-libraries-pdf.html)

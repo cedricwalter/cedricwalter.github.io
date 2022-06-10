@@ -17,4 +17,4 @@ This name was chosen from thousands of recommendations by the community, and eve
 
 *What sets **[Joomla](http://www.joomla.org/)!** apart from the rest is our dedication to keeping things as simple as possible, while providing the most features possible. Finally, non-technical people can have complete control over their websites without paying exhorbitant amounts for closed, proprietary software.*
 
-**[*Joomla*](http://www.joomla.org/)*!*** *is more than just software, it is people. The community behind **[Joomla](http://www.joomla.org/)!** includes developers, designers, systems administrators, translators, content writers, and most importantly the end users. We welcome you to our community, and look forward to the future with great excitement!* from <http://www.joomla.org>
+# [*Joomla*](http://www.joomla.org/)*!*** *is more than just software, it is people. The community behind **[Joomla](http://www.joomla.org/)!** includes developers, designers, systems administrators, translators, content writers, and most importantly the end users. We welcome you to our community, and look forward to the future with great excitement!* from <http://www.joomla.org>

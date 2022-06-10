@@ -21,10 +21,10 @@ New ideas/features/bugs are always welcomed either through forums or by using [f
 
 This release contains the **Last code update:** 2013.08.17 – [v2.0.8 of Add To Home Screen](http://cubiq.org/add-to-home-screen)
 
-**NEW** iOS 7 Support   
-**NEW** Improved CSS   
-**NEW** new installer build and packaged with my [Joomla RAD packager (GitHub)](https://github.com/cedricwalter/joomla-packager "joomla-packager is a generic phing build script to build any 3rd extension, being a set of components, modules, plugins and or libraries, packages in a simple way.")   
-**Bug** Portuguese translation correction
+# NEW** iOS 7 Support   
+# NEW** Improved CSS   
+# NEW** new installer build and packaged with my [Joomla RAD packager (GitHub)](https://github.com/cedricwalter/joomla-packager "joomla-packager is a generic phing build script to build any 3rd extension, being a set of components, modules, plugins and or libraries, packages in a simple way.")   
+# Bug** Portuguese translation correction
 
 See in action on your iOS device at <http://demo-joomla-2.5.waltercedric.com> or <http://demo-joomla-3.0.waltercedric.com/>
 

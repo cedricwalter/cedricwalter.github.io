@@ -21,9 +21,9 @@ New ideas/features/bugs are always welcomed either through forums or by using [f
 
 This release contains the **Last code update:** 2012.07.25 – [v2.0.2 of Add To Home Screen](http://cubiq.org/add-to-home-screen)
 
-**Bug**: correctly detects Chrome browser
+# Bug**: correctly detects Chrome browser
 
-**Bug**: Added support to disable balloon for Chrome iOS browsers
+# Bug**: Added support to disable balloon for Chrome iOS browsers
 
 Full list of changes available in [GIT](http://git-scm.com/) commit [30d197d47a665806dac32fba6ea08d08f6d76ae9](https://github.com/cedricwalter/add2home/commit/30d197d47a665806dac32fba6ea08d08f6d76ae9)
 

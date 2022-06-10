@@ -14,9 +14,9 @@ tags:
     - reference
 ---
 
-**![](/assets/images/2004/08/1stc30DoubleAlim.jpg)**
+# ![](/assets/images/2004/08/1stc30DoubleAlim.jpg)**
 
-** Overall view of my 1st caliber****24.08.2002** Add a dual battery system for more safety. I have no heli with only one battery. Here is why:
+#  Overall view of my 1st caliber****24.08.2002** Add a dual battery system for more safety. I have no heli with only one battery. Here is why:
 
 | ***Problems*** | ***1 battery pack*** | ***2 packs +   mechanic   Switches*** | ***2 packs +   Electronic   switch*** |
 |---|---|---|---|
@@ -28,6 +28,6 @@ tags:
 | Switch failure (assumes between RX and backup sys) | Failure | Redundant | Failure |
 | Battery connector from backup system to the receiver | Failure | Redundant | Failure |
 
-**Build yourself a dual switch**
+# Build yourself a dual switch**
 
 ![](electronic/electronicDualSwitch.jpg)

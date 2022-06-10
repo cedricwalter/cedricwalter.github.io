@@ -103,7 +103,7 @@ Now lets install and start our OSGI bundle
 osgi> install file:target\osgitest-0.1.0-SNAPSHOT.jar start Bundle id is 1 com.waltercedric.osgitest: has started osgi> ss    id   State    Bundle     0   ACTIVE   org.eclipse.osgi_3.6.2.R36x_v20110210     1   ACTIVE   com.waltercedric.osgitest_0.1.0.SNAPSHOT osgi> uninstall 1 com.waltercedric.osgitest: is stopped osgi> close
 ```
 
-**Links**
+# Links**
 
 - [WikiPedia OSGi](http://en.wikipedia.org/wiki/OSGi)
 - [OSGi Alliance community](http://www.osgi.org)

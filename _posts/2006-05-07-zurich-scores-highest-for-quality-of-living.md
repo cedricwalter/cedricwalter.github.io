@@ -38,7 +38,7 @@ From [www.mercerhr.com](http://www.mercerhr.com/)
 
 ## Europe and the Middle East
 
-**Almost half the top 30 scoring cities are in Western Europe. In this region, Vienna follows Zurich and Geneva in 4th position with a score of 107.5. Other highly-rated cities include Düsseldorf (107.2), Frankfurt (107.0) and Munich (106.8) in positions 6, 7 and 8 respectively. Athens remains the lowest scoring city in Western Europe, scoring 86.8 at position 79.**
+# Almost half the top 30 scoring cities are in Western Europe. In this region, Vienna follows Zurich and Geneva in 4th position with a score of 107.5. Other highly-rated cities include Düsseldorf (107.2), Frankfurt (107.0) and Munich (106.8) in positions 6, 7 and 8 respectively. Athens remains the lowest scoring city in Western Europe, scoring 86.8 at position 79.**
 
 *London is the UK&#146;s highest ranking city and is stable at position 39 (score 101.2). The two other UK cities covered in the survey are Birmingham and Glasgow, which both score 98.3 and climb one place to joint 55th position.*
 
@@ -62,7 +62,7 @@ From [www.mercerhr.com](http://www.mercerhr.com/)
 
 ## Asia-Pacific
 
-***Auckland and Wellington have both moved up the rankings from 8th to 5th and 14th to 12th places respectively, mainly due to strong internal stability relative to other cities, while Sydney remains at position 9 with a score of 106.5.***
+# *Auckland and Wellington have both moved up the rankings from 8th to 5th and 14th to 12th places respectively, mainly due to strong internal stability relative to other cities, while Sydney remains at position 9 with a score of 106.5.***
 
 *In Asia, Singapore ranks 34th (score 102.5) followed by Tokyo, Japan&#146;s highest scoring city, at position 35 (score 102.3). Hong Kong&#146;s modern and efficient infrastructure, including its airport (which is considered one of best in the world), has pushed it up from 70th to 68th position with a score of 95.4.*
 

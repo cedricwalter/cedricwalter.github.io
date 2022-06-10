@@ -21,7 +21,7 @@ tags:
     - system
 ---
 
-**Demande adressée au responsable de l’Assistance Technique**
+# Demande adressée au responsable de l’Assistance Technique**
 
 Il y a 10 ans, j’ai change ma version “Fiancée 7.0” par la version “Epouse 1.0” et j’ai observe que le programme a lance une application inattendue appelée “Bébé 1.0” qui prend beaucoup d’espace dans mon disque dur.  
 Or, dans la notice, cette application n’était pas mentionnée.  
@@ -33,7 +33,7 @@ Il semblerait également que certaines fonctionnalités aient des bugs. Par exem
 J’envisage de revenir au programme que j’avais avant, “Fiancée 7.0″, mais le processus de désinstallation d'”Epouse 1.0” me semble fort complexe, et je ne mesure encore pas bien les risques que cela peut comporter pour les autres applicatifs comme “Bébé 1.0”, qui je l’avoue est très convivial.  
 Pouvez-vous m’aider ? Un utilisateur démoralise.
 
-**REPONSE :**   
+# REPONSE :**   
 Cher Utilisateur :  
 Votre plainte est très fréquente parmi les utilisateurs du programme “Epouse 1.0” , mais elle est due la plupart du temps a une erreur basique de conception : Beaucoup d’utilisateurs passent de n’importe quelle version de “Fiancée X.0” a “Epouse 1.0” avec l’idée fausse que “Epouse 1.0” n’est qu’un programme de divertissement et d’utilités diverses.  
 Cependant, “Epouse 1.0” est bien plus que ça : il s’agit d’un OPERATING SYSTEM complet, crée pour contrôler et gérer tout vos applicatifs. Il est presque impossible de désinstaller “Epouse 1.0” et revenir a une version “Fiancée X.0”, car il y a des applications occultes dans ce système qui feraient que “Fiancée X.0” se comporterait comme “Epouse 1.0”, donc vous n’y gagnez rien.  

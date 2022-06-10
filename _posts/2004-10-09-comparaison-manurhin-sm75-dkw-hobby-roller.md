@@ -9,7 +9,7 @@ permalink: /scooter/comparaison-manurhin-sm75-dkw-hobby-roller/
 image: /wp-content/uploads/2004/08/manurhin25082003-2.jpg
 ---
 
-**Comparaison Manurhin SM75 / DKW Hobby Roller**
+# Comparaison Manurhin SM75 / DKW Hobby Roller**
 
 |  | **Manurhin SM75** | **DKW Hobby Roller** |
 |---|---|---|

@@ -15,7 +15,7 @@ tags:
 | ![](/assets/images/2005/07/index.jpg) |  **Fantastic Doll House**\| Dimensions \| \|---\|---\| \| "Lx"Wx"H (includes base)   Everything seen on pictures are included and for sale   Contact me for price \|  **click read more to see more pictures…** |
 |---|
 
-**Details from the outside…**
+# Details from the outside…**
 
 | ![](/assets/images/2005/07/doll-house-2floor-9.jpg) |  |  | ![](/assets/images/2005/07/doll-house-2floor-7.jpg) |
 |---|---|---|---|
@@ -31,7 +31,7 @@ tags:
 |  |  |  |  |
 | ![](/assets/images/2005/07/doll-house-2floor-22.jpg) |  |  | ![](/assets/images/2005/07/doll-house-2floor-6.jpg) |
 
-**Details from the inside…**
+# Details from the inside…**
 
 | ![](/assets/images/2005/07/doll-house-2floor-18.jpg) |  |  | ![](/assets/images/2005/07/doll-house-2floor-17.jpg) |
 |---|---|---|---|

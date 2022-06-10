@@ -13,7 +13,7 @@ image: /wp-content/uploads/2004/09/apache.gif
 |---|
 | **In the next few days, the European Parliament will decide about the legalisation and adoption of so-called "software patents" in Europe, which are already used by large companies    in other countries to put competitors out of business. This can lead to the termination of many GNU/GPL software projects, at least within Europe, because    the holders of the over 30,000 already granted "software patents" (currently without a legal foundation) can claim exclusive rights and collect license fees   for trivial things like "progress bars", "mouseclicks on online order forms", "scrolling within a window" and similar. That way, software developers will have to pay the    "software-patentholders" for using these features, even in their own, completely self-developed applications, which can completely stall the development of innovative software   for small and medium companies. Apart from this, the expense for patent inquiries and legal assistence is high, for even trying to find out if the self-developed software is    possibly violating "software-patents", if you want to continue to market your software. Contrary to real patents, "software-patents" are, in the current draft,    monopolization of business ideas and methods, even without any tangible technical implementation. more on** [**http://bh.udev.org/**](http://bh.udev.org/) |
 
-**Thanks to the open source community!  
+# Thanks to the open source community!  
 This site is existing and running virtually at nearly no licence cost and use top of the art open source technology!!!**
 
 | **![](/assets/images/2004/09/apache.gif)** | **Apache** webserver | [www.apache.com](http://www.apache.com/) |

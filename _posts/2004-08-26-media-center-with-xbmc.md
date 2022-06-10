@@ -19,7 +19,7 @@ into a Media Center <font color="#40ab3d" face="Arial Black" size="3">with XBMC!
 <font color="#40ab3d" face="Arial Black" size="4">![xboxIcon](/assets/images/2004/08/x.gif) <font color="#40ab3d" face="Arial Black" size="3">Legal Issues
 
 It is strictly forbidden to modify your xBox, sell or install mods chip in france. Even opening the XBOX is forbidden.   
-**Remember pirating is a crime, support the developers and film companies.**
+# Remember pirating is a crime, support the developers and film companies.**
 
 <font color="#40ab3d" face="Arial Black" size="4">![xboxIcon](/assets/images/2004/08/x.gif) <font color="#40ab3d" face="Arial Black" size="3">What does XBMC do?
 
@@ -27,7 +27,7 @@ It is strictly forbidden to modify your xBox, sell or install mods chip in franc
 
 <font color="#40ab3d" face="Arial Black" size="4">![xboxIcon](/assets/images/2004/08/x.gif) <font color="#40ab3d" face="Arial Black" size="3">Process
 
-**What you will have to do: (****<font color="#009900">green mandatory,** **blue optional****)**
+# What you will have to do: (****<font color="#009900">green mandatory,** **blue optional****)**
 
 1. <font color="#009900"># **Buy a Xbox**#  
 2. <font color="#009900"># **open the Xbox (void garanty)**#  
@@ -110,8 +110,8 @@ A xBox
 
 <font color="#009900"><font color="#40ab3d" face="Arial Black" size="4">![xboxIcon](/assets/images/2004/08/x.gif)<font color="#40ab3d" face="Arial Black" size="3"> 3. Install a mods chip
 
-**All mods-chips are more or less equal!** I mean that some special restriction, like DVD region, macrovision, disk eject, run signed code (from M$ or 3rd party game company) or unsigned code (Linux, softwares and emulators) etc… **are not controlled by the mod-chip itself** but only by the *BIOS* (Basic Input Output System, this small program is responsibe for initializing devices, starting a kernel, and low level operations)…So what?   
-**Differences are:**
+# All mods-chips are more or less equal!** I mean that some special restriction, like DVD region, macrovision, disk eject, run signed code (from M$ or 3rd party game company) or unsigned code (Linux, softwares and emulators) etc… **are not controlled by the mod-chip itself** but only by the *BIOS* (Basic Input Output System, this small program is responsibe for initializing devices, starting a kernel, and low level operations)…So what?   
+# Differences are:**
 
 - Ease of installation (soldering may be required or not), 1st generation of chips (2000) use to have more than 50 cables, 2rd generation less than 15 cables and 3rd most of the time no soldering.
 - Onboard memory size (up to 2Mb for the latest generation) and number of BIOS you can store (up to 6 with different memory mapping : 6 bios of 256kb or 2 bios of 512kb and 4 of 256kb ….)
@@ -133,7 +133,7 @@ All manufacturer have great **HowTo** sections, for Xbit just follow instruction
 
 <font color="#009900"><font color="#40ab3d" face="Arial Black" size="4">![xboxIcon](/assets/images/2004/08/x.gif) <font color="#40ab3d" face="Arial Black" size="3">4. Flash a Bios on the modchip
 
-**Which BIOS?** Nearly all mod-chip are shipped without a BIOS installed, in best case you get a cromwell BIOS (open source BIOS develop to boot linux), this is because of legal issues: a lot of BIOS are based on M$… hacked version.
+# Which BIOS?** Nearly all mod-chip are shipped without a BIOS installed, in best case you get a cromwell BIOS (open source BIOS develop to boot linux), this is because of legal issues: a lot of BIOS are based on M$… hacked version.
 
 [http://www.xbox-scene.com/bios\_retail.html](http://www.xbox-scene.com/bios_retail.html) Here you can find a comparaison table of all functionnalities with a glossary of technicals terms
 
@@ -179,7 +179,7 @@ Rom = "x2 4981.67",0xb6eb9fb7b79795c962b7f998ee4a8694<font color="#40ab3d" face=
 
 <font color="#009900"><font color="#40ab3d" face="Arial Black" size="4">![xboxIcon](/assets/images/2004/08/x.gif) <font color="#40ab3d" face="Arial Black" size="3">6. Backup original data found on c: with FTP to your PC
 
-**Connect your Xbox to the network!** Using the remote controller or gamepad, you can go in evox "<font color="#000000" face="Courier New">system preferences", this is the place where you can set the FTP server adress, password, DNS, gateway.
+# Connect your Xbox to the network!** Using the remote controller or gamepad, you can go in evox "<font color="#000000" face="Courier New">system preferences", this is the place where you can set the FTP server adress, password, DNS, gateway.
 
 - Use a fix IP, it should be something like 192.168.0.XXX with XXX from 2 to 255, use for example 192.168.0.10
 - Do not set the 2 DNS (Domain Name Server which is normally your router 192.168.0.1) if you do not want to let your XBox have an access to internet.
@@ -187,7 +187,7 @@ Rom = "x2 4981.67",0xb6eb9fb7b79795c962b7f998ee4a8694<font color="#40ab3d" face=
 
 Save all changes (<font color="#000000" face="Courier New">save changes is located at the end of the menu), and **reboot your Xbox**
 
-**Attention:** I use to have some instabilities with 2 different crossed Ethernet cable, in fact the FTP was instable and unusable (disconnect and time out problems), I am using a router-switch in the middle now and everything is working perfectly. This is probably due to a mass problem. 
+# Attention:** I use to have some instabilities with 2 different crossed Ethernet cable, in fact the FTP was instable and unusable (disconnect and time out problems), I am using a router-switch in the middle now and everything is working perfectly. This is probably due to a mass problem. 
 
 Use your favorite FTP client (LeechFTP, CuteFTP, ….) to connect to the XBOX, it is good idea to backup all files found under C: (default dashboard and RSA key pair for your machine)
 
@@ -210,14 +210,14 @@ formats from CD/DVD, HD, a LAN or the internet*."
 For legal reasons, you can only download XBMC source code, but not the binary since the SDK of Microsoft do   
 not allow You to distribute binary. The open-source community is currently creating an open source SDK: the XDK.
 
-**How to find binaries:**
+# How to find binaries:**
 
 - Try to find it on P2P network : eMule, eDonkey or
 - [www.geux.net](http://www.geux.net/) ![](/mambots/editors/images/frFlag.jpg) make a light distribution (without codecs, scripts and skins) or
 - If you want to have always the latest build (risky it may not be a stable version since it reflect the current state of development) : <http://www.azard.firstream.net/> or
 - Compile it yourself with XBOX SDK and Visual C++ if you own a M$ license 😉
 
-**How to install it:**
+# How to install it:**
 
 - XBMC is ONLY a directory, copy it to e:/apps/XBMC for example and add an entry in <font color="#000000" face="Courier New" size="3">c:/evox.ini  
     | section "Root"   {   ..   Item "Multimedia Station","e:/Apps/XBMCdefault.xbe"   …   } |
@@ -251,7 +251,7 @@ can be stored on the XBOX or on the network:
 
 This file contains a documentation and is quite easy to modify.
 
-**Attention** when you copy digital content to the Xbox harddrive with FTP, the filesystem (FAT-X) has a lot   
+# Attention** when you copy digital content to the Xbox harddrive with FTP, the filesystem (FAT-X) has a lot   
 of limitations! no name up to 43 characters, no special character < > = ? : ; " \* + , / | and avoid accents too…
 
 - - - - - -
@@ -378,7 +378,7 @@ Here are some very good tutorials:
 
 <font color="#40ab3d" face="Arial Black" size="4">![xboxIcon](/assets/images/2004/08/x.gif) 15. Frequently asked questions ![](/assets/images/2004/08/smallnew.gif)
 
-**I’ve load a bad/corrupt skins and can not change it in the graphical user interface of XBMC!** Search in <font face="Courier New" size="2">E:/TDATA/ in all directories for a file <font face="Courier New" size="2">settings.xml (on mine Xbox it was in <font face="Courier New" size="2">E:/TDATA/0face008) and edit this file
+# I’ve load a bad/corrupt skins and can not change it in the graphical user interface of XBMC!** Search in <font face="Courier New" size="2">E:/TDATA/ in all directories for a file <font face="Courier New" size="2">settings.xml (on mine Xbox it was in <font face="Courier New" size="2">E:/TDATA/0face008) and edit this file
 
 <font face="Courier New" size="2"><general></general>  
 <skin></skin><font color="#ff0000" face="Courier New" size="2">MayhemWidescreen<font face="Courier New" size="2">  
@@ -404,7 +404,7 @@ You may want to :
 <font color="#009900">{mosgoogle center}
 
 <font color="#009900"><font color="#40ab3d" face="Arial Black" size="4">![xboxIcon](/assets/images/2004/08/x.gif) Helping the community  
-**There is surely something for you!**
+# There is surely something for you!**
 
 - Help at the code level,
 - Create more skins, logos

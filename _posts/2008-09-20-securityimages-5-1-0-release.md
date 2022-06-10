@@ -11,7 +11,7 @@ permalink: /joomla/securityimages-5-1-0-release/
 Starting with SecurityImages 5.1.0, the system plugin is now part of the component, it is installed and published automatically when you install my component. It is also remove automatically when you remove the component.   
 [See list of changes HERE](https://waltercedric.com/new/?p=3815)
 
-**Upgrade path**
+# Upgrade path**
 
 | **Joomla! 1.5** | **Never use SecurityImages 5?** | **Already using    SecurityImages 5RC1!** |
 |---|---|---|

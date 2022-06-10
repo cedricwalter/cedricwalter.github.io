@@ -14,28 +14,28 @@ spammers using recaptcha or securityimages 5 and run natively in #Joomla! 1.5
 
  ![akobook_5_1_2](/assets/images/2008/12/akobook_5_1_2.png)
 
-**BUG**: When using SecurityImages in AkobookPlus, it shows a label called SECURITYIMAGES\_LABEL. Looks like a missing variable.   
+# BUG**: When using SecurityImages in AkobookPlus, it shows a label called SECURITYIMAGES\_LABEL. Looks like a missing variable.   
 missing keys in all languages except english
 
-**BUG**: admin comment form was not able to add smiley as the form name was misspelled in HTML code
+# BUG**: admin comment form was not able to add smiley as the form name was misspelled in HTML code
 
-**NEW**: fully XHTML compliance, for both front end and back end panel, validated with CSE HTML validations and W3C online validations service   
+# NEW**: fully XHTML compliance, for both front end and back end panel, validated with CSE HTML validations and W3C online validations service   
 [![valid.xhtml](/assets/images/2008/12/valid.xhtml_thumb.png)](/assets/images/2008/12/valid.xhtml_.png) ![akobookIsXHTMLCompliant](/assets/images/2008/12/akobookIsXHTMLCompliant.png)
 
-**NEW**: E\_STRICT for PHP reporting errors, so code fully portable and wont generated silent error in logs.
+# NEW**: E\_STRICT for PHP reporting errors, so code fully portable and wont generated silent error in logs.
 
-**NEW**: fully localized including java script popup
+# NEW**: fully localized including java script popup
 
-**NEW**: start of selenium test suite to ensure quality of future release
+# NEW**: start of selenium test suite to ensure quality of future release
 
-**BUG**: unable to edit language files, and misleading error message was displayed
+# BUG**: unable to edit language files, and misleading error message was displayed
 
 > *Your css file is /components/com\_simpleboard/forum.css   
 > You need to chmod this to 766 in order for the config to be updated*
 
-**BUG**: paging through items in admin panel was not working
+# BUG**: paging through items in admin panel was not working
 
-**BUG**: missing translation entries in foreign languages (but not translated)
+# BUG**: missing translation entries in foreign languages (but not translated)
 
 *NOTE: Akobook do not delete existing table -> this is a feature that allow you to safely update akobook without having to backup of your table.*
 

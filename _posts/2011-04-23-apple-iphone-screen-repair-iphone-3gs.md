@@ -32,7 +32,7 @@ I went for the most expensive Kit on ebay.fr, which allow you to replace the bro
 
 By the way I would NEVER send any phone to anyone, how do you think all these private pictures land on forums? removing the sim card is not enough, there are tools to fetch data even after the have been removed!
 
-**Glass + digitizer + LCD + button + speaker** kit mounted with all required tools to perform the repair
+# Glass + digitizer + LCD + button + speaker** kit mounted with all required tools to perform the repair
 
 [![apple-iphone-screen-repair-kit](/assets/images/2011/04/apple-iphone-screen-repair-kit_thumb.jpg "apple-iphone-screen-repair-kit")](http://www.waltercedric.com/images/f4ec7e7105d4_CD65/apple-iphone-screen-repair-kit.jpg)[![apple-iphone-screen-repair-kit2](/assets/images/2011/04/apple-iphone-screen-repair-kit2_thumb.jpg "apple-iphone-screen-repair-kit2")](http://www.waltercedric.com/images/f4ec7e7105d4_CD65/apple-iphone-screen-repair-kit2.jpg)
 

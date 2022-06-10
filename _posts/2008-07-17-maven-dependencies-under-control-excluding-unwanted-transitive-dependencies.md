@@ -142,7 +142,7 @@ So it look like
 [INFO]    xml-apis:xml-apis:jar:1.0.b2:compile
 ```
 
-**With exclusions**
+# With exclusions**
 
 ```
 [dependency:tree] 

@@ -21,7 +21,7 @@ Today, I have meet all my friends which where with me at the[ ESSAIM Engineer sc
 |---|---|
 | The panel showing all students of the promotion MAGELLAN, for the story I made it in 1996… | GlaceHutte (Altitude 860m) in the area of Soultz. We all meet after 3 hours of walk for a picnic, the more courageous walk 2 more hours to go home (I was one of these, the weather was one more time perfect, we have had no rain) |
 
-**The Engineer High school of Mulhouse**  
+# The Engineer High school of Mulhouse**  
 The [ESSAIM](http://www.essaim.uha.fr/) is proposing to the students of level Bac+2, a formation with the trade of engineer in the 4 following fields: Data processing &amp; Networks, Systems &amp; Signals, Textile &amp; Clothing, Mechanics &amp; Systems.
 
-**links**: [www.aae-essaim.org](http://www.aae-essaim.org) – [www.essaim.uha.fr](http://www.essaim.uha.fr)
+# links**: [www.aae-essaim.org](http://www.aae-essaim.org) – [www.essaim.uha.fr](http://www.essaim.uha.fr)

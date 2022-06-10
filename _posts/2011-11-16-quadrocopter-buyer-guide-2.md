@@ -97,7 +97,7 @@ The 12” Propellers fitted to the super efficient 600kv brushless motors and 18
 
 ## Reely QuadroCopter 450 RtB - $350
 
-**[![Reely_QuadroCopter_450_RtB_1](/assets/images/2011/11/Reely_QuadroCopter_450_RtB_1_thumb.jpg "Reely_QuadroCopter_450_RtB_1")](http://www.waltercedric.com/images/QUadroCopter-world_6E41/Reely_QuadroCopter_450_RtB_1.jpg)[![Reely_QuadroCopter_450_RtB_2](/assets/images/2011/11/Reely_QuadroCopter_450_RtB_2_thumb.jpg "Reely_QuadroCopter_450_RtB_2")](http://www.waltercedric.com/images/QUadroCopter-world_6E41/Reely_QuadroCopter_450_RtB_2.jpg)**
+# [![Reely_QuadroCopter_450_RtB_1](/assets/images/2011/11/Reely_QuadroCopter_450_RtB_1_thumb.jpg "Reely_QuadroCopter_450_RtB_1")](http://www.waltercedric.com/images/QUadroCopter-world_6E41/Reely_QuadroCopter_450_RtB_1.jpg)[![Reely_QuadroCopter_450_RtB_2](/assets/images/2011/11/Reely_QuadroCopter_450_RtB_2_thumb.jpg "Reely_QuadroCopter_450_RtB_2")](http://www.waltercedric.com/images/QUadroCopter-world_6E41/Reely_QuadroCopter_450_RtB_2.jpg)**
 
 39. Flight characteristics: 3 different basic outlooks for beginner up to professional
 40. Stabilised through efficient RISC microprocessors

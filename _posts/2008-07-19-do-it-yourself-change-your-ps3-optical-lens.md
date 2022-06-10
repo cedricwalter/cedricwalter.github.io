@@ -9,17 +9,17 @@ permalink: /games/do-it-yourself-change-your-ps3-optical-lens/
 image: /wp-content/uploads/2005/06/sony_playstation_ps3.jpg
 ---
 
-**DISCLAIMER: This tutorial is for information purposes, and I am not responsible or can be held responsible if you screw up your PS3 by following this tutorial. Make sure the PS3 is unplugged from mains power AT ALL TIMES. Mains power is dangerous! Dismantle the Playstation 3 console and follow this tutorial at your own risk!**
+# DISCLAIMER: This tutorial is for information purposes, and I am not responsible or can be held responsible if you screw up your PS3 by following this tutorial. Make sure the PS3 is unplugged from mains power AT ALL TIMES. Mains power is dangerous! Dismantle the Playstation 3 console and follow this tutorial at your own risk!**
 
-**Attention: This operation will void your warranty!!! I recommend you to send it to SONY if bought your PS3 less than a year ago.   
+# Attention: This operation will void your warranty!!! I recommend you to send it to SONY if bought your PS3 less than a year ago.   
 Attention: While this operation require no particular knowledge, don’t try it if you have no patience and feel not confident enough!   
 Attention: Look at other tutorials at the end of my article before starting, I did not represent all steps in details. Use them to complete missing steps (this is my brother’s PS3, mine may die also soon, will complete tutorial then)**
 
 #### Guide how to replace PS3 Laser Lens   
  version 1.0
 
-**Duration: 25 minutes**   
-**Cost:** 35 euro (SONY ask 200 euro, some shops 99 euro with 3 months warranty)
+# Duration: 25 minutes**   
+# Cost:** 35 euro (SONY ask 200 euro, some shops 99 euro with 3 months warranty)
 
 ## **Tool required**
 

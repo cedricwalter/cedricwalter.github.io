@@ -10,7 +10,7 @@ tags:
     - homepage
 ---
 
-**My site is now running the latest #Joomla! 1.5**, while the migration has been very easy, you’ll notice that not all functionalities are present or that the layout is still a bit fuzzy.
+# My site is now running the latest #Joomla! 1.5**, while the migration has been very easy, you’ll notice that not all functionalities are present or that the layout is still a bit fuzzy.
 
 # <strike>The old site is running at **[www.waltercedric.com/site](site)**</strike>
 

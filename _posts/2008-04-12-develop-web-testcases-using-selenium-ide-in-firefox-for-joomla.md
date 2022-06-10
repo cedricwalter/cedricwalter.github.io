@@ -19,7 +19,7 @@ There are two modes of operation for Selenium – [Core](http://selenium.openqa.
 mode also has a related capability called [Selenium Grid](http://selenium.openqa.org/index.html#Selenium_Grid) that allows you to throw hardware at tests   
 to make it all faster.
 
-**This tools is able to:**
+# This tools is able to:**
 
 - Simulate any action a human user may do either with the help of the keyboard or the mouse,   
     this go from entering a text to select values in select list.
@@ -315,14 +315,14 @@ SecurityImages for Joomla create Captcha, so it is quite difficult for a tool to
  admin backend, frontend Joomla! patches. These test will be available in the component itself, so   
  anybody can run them with little efforts.
 
-**Read more at:**
+# Read more at:**
 
 - Selenium homepage <http://selenium-ide.openqa.org/>
 - Selenium [Documentation](http://selenium-ide.openqa.org/documentation.jsp)
 - Selenium [Wiki](http://wiki.openqa.org/display/SIDE/Home)
 - Selenium [User Forums](http://selenium-ide.openqa.org/userForums.jsp)
 
-**Here is the list of all commands, use search in page to quickly find the right command.**
+# Here is the list of all commands, use search in page to quickly find the right command.**
 
 <dl><dt>**addLocationStrategy ( strategyName,functionDefinition )** </dt><dd>Defines a new function for Selenium to locate elements on the page. For example, if you </dd><dd>define the strategy “foo”, and someone runs click(“foo=blah”), we’ll run your function, passing</dd><dd> you the string “blah”, and click on the element that your function returns, or throw an “Element</dd><dd> not found” error if your function returns null. We’ll pass three arguments to your function: - locator: the string the user passed in
 - inWindow: the currently selected window

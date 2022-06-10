@@ -40,7 +40,7 @@ Cardinal Manifestations:
 
 ## Prognosis
 
-**There is currently no effective treatment or cure for PSP**, although some of the symptoms can respond to nonspecific measures. The average age at symptoms onset is 63 and survival from onset averages 7 years with a wide variance.
+# There is currently no effective treatment or cure for PSP**, although some of the symptoms can respond to nonspecific measures. The average age at symptoms onset is 63 and survival from onset averages 7 years with a wide variance.
 
 ## Differential diagnosis
 

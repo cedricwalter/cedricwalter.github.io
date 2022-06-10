@@ -21,31 +21,31 @@ You’ll have to create a free account at <https://bsn.breach.com> to get the re
 \# ./configure   
 \# make
 
-**Copy the library mod\_security2.so to /usr/lib/apache2**
+# Copy the library mod\_security2.so to /usr/lib/apache2**
 
 *\# cp /root/modsecurity-apache\_2.5.7/apache2/.libs/mod\_security2.so /usr/lib/apache2/mod\_security2.so*
 
-**Then copy all latest rules into apache2/conf.d folder**
+# Then copy all latest rules into apache2/conf.d folder**
 
 *\# cp -r /root/modsecurity-apache\_2.5.7/rules/etc/apache2/conf.d/*
 
-**Copy the minimal configuration file into apache2/conf.d folder**
+# Copy the minimal configuration file into apache2/conf.d folder**
 
 *\# cp /root/modsecurity-apache\_2.5.7/modsecurity.conf-minimal /etc/apache2/conf.d/modsecurity2.conf*
 
-**Add this line at the top of modsecurity2.conf**
+# Add this line at the top of modsecurity2.conf**
 
 *LoadModule security2\_module /usr/lib/apache2/mod\_security2.so*
 
-**Restart apache2 by executing**
+# Restart apache2 by executing**
 
 *\# rcapache2 restart*
 
-**Verify proper operations by looking at log files**
+# Verify proper operations by looking at log files**
 
 *\# tail -f /var/log/apache2/modsec\_debug\_log*
 
-**Attention this is my location for log files!**
+# Attention this is my location for log files!**
 
 Change
 

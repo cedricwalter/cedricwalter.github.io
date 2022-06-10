@@ -13,13 +13,13 @@ tags:
     - 'RC helicopter'
 ---
 
-**verify**
+# verify**
 
 - Thrust bearings in the rotor head installed properly (not reverse)?
 - Radial bearings in the head not damaged? -> change them
 - Bearings in the blade holders are moving -> loctite the bearing or replace blade holders, or buy 'upgrade' metal blade holders
 
-**actions**
+# actions**
 
 - Grease the dampener rubbers, this has prove to cure some woof and poof on raptor 30v1
 - …

@@ -14,7 +14,7 @@ tags:
 
 ![](/assets/images/2020/02/smallbox_securityimages.jpg)
 
-**Only for SecurityImages 5.1.x and #Joomla! 1.5.23**    
+# Only for SecurityImages 5.1.x and #Joomla! 1.5.23**    
 Allow login views, login modules, register, lost password, lost user account and contact section to be   
 protected by SecurityImages
 

@@ -16,12 +16,12 @@ null**Costs**
 
  Can be bought at [www.draganfly.com](http://www.draganfly.com/) for 80â&#130;¬ + shipping costs.
 
-**Overall view**
+# Overall view**
 
 | ![](/assets/images/2004/09/OverallView.jpg) | The original frame is weak in many places and was designed more for indoor flying. A lot of people work on the Roswell Flyer and they all designed their own frame using carbon pipes. I decided to buy the carbon upgrade frame. As usual, all models: Roswell Flyer (sold out), HMX4 (copy of previous), Dragnaflyer are sharing the same design and are fully compatible. They were all created by the clever Mike Dammar from [www.spectrolutions.com](http://www.spectrolutions.com/) |
 |---|---|
 
-**Assembling**
+# Assembling**
 
 | [![](/assets/images/2004/09/tn_contentKit.JPG)](http://www.waltercedric.com/Helico/roswell/upgrade/contentKit.JPG) |
 |---|
@@ -35,12 +35,12 @@ The manual given explain everything and is completed. All screws, heat rubber fo
 
 Â
 
-**final throughs**
+# final throughs**
 
 The kit is not overprice and the frame seems to be reliable and light. A must for all old roswell flyer!
 
-**![](/assets/images/2004/09/finished.jpg)**
+# ![](/assets/images/2004/09/finished.jpg)**
 
-**TIPS**
+# TIPS**
 
 - If you think you can not save the machine (crash) stop immediately the power, it will many times save your blades

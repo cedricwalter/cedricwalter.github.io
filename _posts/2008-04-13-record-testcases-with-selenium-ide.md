@@ -34,13 +34,13 @@ image: /wp-content/uploads/2008/04/open.qa_.logo_thumb.gif
 - Into C, You can now cut and paste one or many lines, insert new commands (add more assert)
 - And replay [![seleniumSecurityImages2](/assets/images/2008/04/seleniumSecurityImages2_thumb.png)](http://www.waltercedric.com/images/stories/fb3471ee3ca9_F98F/seleniumSecurityImages2.png) till the bar is green
 
-**Attention:**
+# Attention:**
 
 - Do not abuse XPATH expression as it somehow hard code the previous position of the element in the page.
 - Try to make each test run on its own, do not expect that the test before is successful (so login. test functionality 1, logout)
 - Keep unit test small,
 - Keep all test in a repository (CVS or SVN) or many backup.
 
-**Read also:**
+# Read also:**
 
 - [Develop web testcases using Selenium IDE in Firefox for Joomla!](http://www.waltercedric.com/mambo-mainmenu-102/222-development/1309-develop-web-testcases-using-selenium-ide-in-firefox-for-joomla.html)

@@ -21,7 +21,7 @@ The added value of [Zoogmo](https://www.zoogmo.com) is that anybody has spare di
 
 If you do not have enough friends 🙂 or want to have more node to spare your data, the tool allow you to find anonymous (you just see their login) partner. Anonymous partner have a big disadvantage as many of them can disappear from one day to the other simply because they may simply remove [Zoogmo](https://www.zoogmo.com) of their computer. Currently the tool only run under windows but this kind of tools is quite common now.
 
-**finding anonymous partners**
+# finding anonymous partners**
 
  [![zoogmo.2](/assets/images/2008/03/zoogmo.2_thumb.gif)](/assets/images/2008/03/zoogmo.2.gif)
 

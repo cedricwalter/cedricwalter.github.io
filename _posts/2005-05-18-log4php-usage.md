@@ -52,7 +52,7 @@ $logger->fatal("this is a fatal statement");
 
 A log4PHP file may contains many appenders, layout, logger…
 
-**Different Appenders**
+# Different Appenders**
 
 - Appenders are kind of object outputing their data to device : mail, file, console, database, socket, ….there is no limits
 - Each appender should have a name, which must be unique
@@ -60,7 +60,7 @@ A log4PHP file may contains many appenders, layout, logger…
 - Appenders use a Layout object to filter/alter data before outputing data
 - You can define an unlimited amount of appender in the configuration file.
 
-**Console**
+# Console**
 
  Useful when developing, when log amount bigger than console buffer may be lost
 
@@ -75,7 +75,7 @@ log4php.appender.R.layout=LoggerPatternLayout
 log4php.appender.R.layout.ConversionPattern=%d [%t] %-5p %c - %m%n
 ```
 
-**Mail**
+# Mail**
 
  Send all logs in level bigger or equal as ERROR to a mail adress
 
@@ -96,7 +96,7 @@ log4php.appender.R03.subject="SYSTEM REPORT"
 log4php.appender.R03.threshold=ERROR
 ```
 
-**File**
+# File**
 
  Each day a new file in [c:error\_log.txt](file:///C:/error_log.txt) is created which contains the date in its filename
 
@@ -150,7 +150,7 @@ Layout
 - For example while developing, You may not be interested by the date and time for each log event in logs while in production this is a mandatory information
 - Syntax is inherited from the old C school
 
-**Some common examples**
+# Some common examples**
 
 ```properties
 %d [%t] %-5p %c - %m%n
@@ -179,7 +179,7 @@ log4php.rootLogger=DEBUG, R00
 log4php.logger.CryptoFactory=ERROR, R00
 ```
 
-**Links**
+# Links**
 
 - Log4php Home [http://www.vxr.it/log4php/](http://www.vxr.it/log4php/)
 - Log4j Home [http://jakarta.apache.org/log4j](http://jakarta.apache.org/log4j)

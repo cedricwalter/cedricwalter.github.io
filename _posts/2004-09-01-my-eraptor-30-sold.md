@@ -26,7 +26,7 @@ tags:
     - 'thunder tiger'
 ---
 
-**Equiped with :**
+# Equiped with :**
 
 | **Motor:** | **Brushless Plettenberg 300/24/A3 (old version with optical sensor   less interferences problem) (270** **€** **)** |
 |---|---|
@@ -43,7 +43,7 @@ tags:
 | **Flight time:** | **9:45 slow, 6:00 3D, 11:45 with 2400 battery.** |
 | **Others:** | **TT metal swashplate, CFK-Frame, head button, quick uk rear mount servo** |
 
-**Links where You can buy this machine…**
+# Links where You can buy this machine…**
 
 | [**www.justhelicopter.de**](http://www.justhelicopter.de/) | [**http://www.pherzog.de**](http://www.pherzog.de/) | [**http://www.modellbau-herzog.de**](http://www.modellbau-herzog.de/) | [**http://www.ehelicopter.de**](http://www.ehelicopter.de/) |
 |---|---|---|---|
@@ -70,39 +70,39 @@ The frame is a little bit fragile, maybe because of the number of hole in it…t
 Maybe the GFK version is better (and the price too). Definitively i would recommend a standard frame and   
 an actro. The availability of part is a lot better, price is inexpensive (moreover the actro deliver 1200 Watts and the Plettenberg only! 700 Watts).
 
-**Flight log :**
+# Flight log :**
 
-**7.03.2002**
+# 7.03.2002**
 
 3 flight since now, the sound is really nice but the battery say very rapidly that they are down, 15 seconds  
 and after you must land ! otherwise you will pratice an autorotation. I will confirm this this week end. (I hope  
 the weather will be good enough).
 
-**20.04.2002**
+# 20.04.2002**
 
 Displace the antenna in front of the heli as recommended on [www.mikado.de](http://www.mikado.de/) (they have a page on how to reduce radio interferences).  
 Displace gyro, rx from 7 cm with a carbon plate (far away from motor)  
 add ferrites everywhere, reroute some cables.  
 reduce lengths of connections to battery.
 
-**11.05.2002**
+# 11.05.2002**
 
 I have some problem with the tail belt, it become loose even in flight (I loose control 2 times). I decide to stop the translation of the boom with a metallic Fixation. The machine is very smooth and noise is very low (quiet).
 
-**20.05.2002**
+# 20.05.2002**
 
 Add a pack of 1700mAh (RX), so I can make 8 flight without recharging…The metallic fixation on the tail tube fixed it’s translation. No Problem since.
 
-**25.05.2002**
+# 25.05.2002**
 
 20 flights with the machine without any problem. I must admit that kind of machine is not for a newbie….you must set up a timer and carefully record your flight  
 time (I do not get over 8min30 s for security) and land before loosing control or doing an autorotation (I have no pratice ;-)). On the others hand, i go to the fields **with only battery and a fast charger**…
 
-**02.06.2002**
+# 02.06.2002**
 
 Motor cut off 4 meters above ground ! no damage….the controller was too hot and the journey too (29Â°C). I dissassemble the controller and add thermal coupound and a bigger metal plate. see photos
 
-**TIPS :**
+# TIPS :**
 
 – Tighten carefully the screw that hold the motor in position, if they become loose, then the motor can move too much, this modify the clearance between the motor and the main spur gear : a good way to destruct it….  
 – Set a timer and when power decrease, land immediately ! moreover don’t let your pack discharged, land !  
@@ -110,7 +110,7 @@ Motor cut off 4 meters above ground ! no damage….the controller was too hot an
 – Do not buy RC2400, because the weight capacity ratio is not as good as RC2000 or RC1900  
 – Hight current charging mean high power but less flight time, and low current charging lead to less power but longer flight time.
 
-**Why an electric helicopter ? (from Jason,** [**www.ezonemag.com**](http://www.ezonemag.com/) **taken on newsgroup)**
+# Why an electric helicopter ? (from Jason,** [**www.ezonemag.com**](http://www.ezonemag.com/) **taken on newsgroup)**
 
 *“Youll get a LOT of opinions here….rather than do that, Id like to show the  
 pros and cons before saying one IS better than the other. I personally fly  

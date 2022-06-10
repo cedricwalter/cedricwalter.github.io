@@ -18,16 +18,16 @@ tags:
 
 This game console is part of my growing collection of vintage gaming system, so don’t forget to visit the tag [vintagegaming](http://www.waltercedric.com/component/tag/vintagegaming.html) to not miss any items. I don’t sell anything but you can [contact me for donating/selling me missing items](http://www.waltercedric.com/-contact-me.html). This page will be continually edited if I add new items to my collection.
 
-***[![ArcadeLegends-SegaGenesis6 in1](/assets/images/2010/09/ArcadeLegendsSegaGenesis6in1_thumb.jpg "ArcadeLegends-SegaGenesis6 in1")](/assets/images/2010/09/ArcadeLegendsSegaGenesis6in1.jpg)***
+# *[![ArcadeLegends-SegaGenesis6 in1](/assets/images/2010/09/ArcadeLegendsSegaGenesis6in1_thumb.jpg "ArcadeLegends-SegaGenesis6 in1")](/assets/images/2010/09/ArcadeLegendsSegaGenesis6in1.jpg)***
 
-**Publisher**: Radica (US/EU) / Sega Toys (JP)   
-**Release Date:** July 30, 2004   
-**MSRP:** $15
+# Publisher**: Radica (US/EU) / Sega Toys (JP)   
+# Release Date:** July 30, 2004   
+# MSRP:** $15
 
-**Bought** 2010.09.19   
-**Price paid:** 0.5€
+# Bought** 2010.09.19   
+# Price paid:** 0.5€
 
-***Sega Genesis Collection Volume 1***, also known as *Sega Arcade Legends* and *Sega Mega Drive Collection*, is a game console which is part of the Play TV Legends series. Six games are included which are:
+# *Sega Genesis Collection Volume 1***, also known as *Sega Arcade Legends* and *Sega Mega Drive Collection*, is a game console which is part of the Play TV Legends series. Six games are included which are:
 
 - *Sonic the Hedgehog*,
 - *Dr. Robotnik’s Mean Bean Machine*,

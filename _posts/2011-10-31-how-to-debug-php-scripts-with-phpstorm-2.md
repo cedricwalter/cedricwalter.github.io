@@ -11,9 +11,9 @@ tags:
     - php
 ---
 
-**![phpstorm_header](/assets/images/2011/10/phpstorm_header.png "phpstorm_header")**
+# ![phpstorm_header](/assets/images/2011/10/phpstorm_header.png "phpstorm_header")**
 
-**[JetBrains PhpStorm](http://www.jetbrains.com/phpstorm/)** is a commercial IDE for PHP built on JetBrains’ IntelliJ IDEA platform.
+# [JetBrains PhpStorm](http://www.jetbrains.com/phpstorm/)** is a commercial IDE for PHP built on JetBrains’ IntelliJ IDEA platform.
 
 > [PhpStorm](http://www.jetbrains.com/phpstorm/) provides intelligent editor for PHP code, HTML and #JavaScript with on-the-fly code analysis and automated refactoring for PHP and #JavaScript code. Code completion supports PHP 5.3 including namespaces and closures.
 

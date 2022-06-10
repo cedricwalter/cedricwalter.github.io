@@ -20,7 +20,7 @@ All your local repositories are configured as default with **Snapshot** **Versio
 
 I recommend you to switch to **Non-Unique**. In that mode [Artifactory](http://www.jfrog.org/products.php) should only keep the N latest **Snapshot** of an groupid/artifact/name file. So you’ll be able to keep the repository size under control.
 
-**Note**
+# Note**
 
 - **Deployer-respecting behavior** – [Artifactory](http://www.jfrog.org/) will respect the user snapshot policy, i.e. act as a standard, non-smart, repository.
 - **Non-unique snapshots** – You can limit the number of saved artifacts in this mode

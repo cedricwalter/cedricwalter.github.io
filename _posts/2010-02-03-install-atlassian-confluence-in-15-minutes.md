@@ -23,7 +23,7 @@ In this small post, you will learn how to install [Atlassian Confluence](http://
 
 ### # _Toc250477756">Create user and user group</a>
 
-**ADDED**: Better run these web applications with their own user group and user for more security…This is not required, but follow #Linux best practices, thus highly recommended.
+# ADDED**: Better run these web applications with their own user group and user for more security…This is not required, but follow #Linux best practices, thus highly recommended.
 
 The groupadd command creates a new group account using the values specified on the command line and the default values from the system.
 
@@ -51,13 +51,13 @@ Unpack it
 
 > \# tar –xvf confluence-3.1.1-std.tar.gz
 
-**ADDED**: To avoid having version number and make software updates easier, create a symbolic link (symlink). This will avoid to have in all your scripts a reference to the version number, thus keeping them more or less generic.
+# ADDED**: To avoid having version number and make software updates easier, create a symbolic link (symlink). This will avoid to have in all your scripts a reference to the version number, thus keeping them more or less generic.
 
 > \# ln –s /home/confluence/confluence-3.1.1-std /home/confluence/confluence
 
 ### # _Toc250477758">Customization of profile</a>
 
-**ADDED**: I do not like to type too much, that why all server where I went are full of aliases. This help also other developers to locate quickly interesting functions on the system.
+# ADDED**: I do not like to type too much, that why all server where I went are full of aliases. This help also other developers to locate quickly interesting functions on the system.
 
 > \# cd
 
@@ -148,7 +148,7 @@ and check logs to see if there is no fatal error occurring before visiting your 
 
 ### Create a new init.d script for Confluence
 
-**ADDED**: Are for starting and stopping easily Confluence, in a standard way. This is something missing currently in the manuals. Here I present you maybe the most basic script ever made, but its purpose is just to be called later on by a rc.d as you will see later.
+# ADDED**: Are for starting and stopping easily Confluence, in a standard way. This is something missing currently in the manuals. Here I present you maybe the most basic script ever made, but its purpose is just to be called later on by a rc.d as you will see later.
 
 > \# vi /etc/init.d/confluence
 
@@ -177,7 +177,7 @@ findShutdownPort() {  SHUTDOWN_PORT=`netstat -vatn|grep LISTEN|grep $NORMAL_PORT
 
 ### # _Toc250477761">Rc.d scripts</a>
 
-**ADDED:** This will start automatically Confluence in runlevel 5 if machine if ever restarted
+# ADDED:** This will start automatically Confluence in runlevel 5 if machine if ever restarted
 
 ```bash
  cd /etc/rc5.d

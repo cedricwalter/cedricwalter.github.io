@@ -11,7 +11,7 @@ tags:
     - homepage
 ---
 
-**UPDATE:** issue has been solved!
+# UPDATE:** issue has been solved!
 
 ![download-icon](/assets/images/2009/03/downloadicon.gif "download-icon")
 
@@ -27,13 +27,13 @@ I am still investigating and trying to solve the problem will it may take some t
 - No need to register!
 - Downloads are and will always be GPL v3!
 
-**Solution**
+# Solution**
 
 [Content being pushed down](http://www.rockettheme.com/forum/index.php?f=175&t=54455&rb_v=viewtopic&start=15#p283293)
 
 > Usually the content gets pushed down one of the elements is being too wide. This issue is most common with the various IE browsers.
 
-**Apply to Virtuemart/Docman/forum wrapper**
+# Apply to Virtuemart/Docman/forum wrapper**
 
 In index.php, locate
 

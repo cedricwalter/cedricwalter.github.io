@@ -32,7 +32,7 @@ Maybe You do not know why a Tracker (also called a **bug tracking tool**) is so 
 
 Each time I respond by mail at one of Your request, a lot of people do not access to my answer…
 
-**For resuming:**
+# For resuming:**
 
 - <span style="font-weight: bold;">Change request, functionnal problems -> make a bug report in the corresponding tracker…
 - <span style="font-weight: bold;">Documentation -> I have decide to use a collaborative space: a Wiki, because it is very efficient as soon as all people involved play a fair game. If You find the documentation innacurate or have found a better way to install or use my components, feel free to click the edit button and change texts/images in realtime.

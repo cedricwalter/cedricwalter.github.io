@@ -55,7 +55,7 @@ More than 501 fonts can be used, 15 are proposed as default.
 
 ### New import function
 
-**Import from Joomla Tags** of Phil Taylor (extensions discontinued working only for Joomla 1.5)
+# Import from Joomla Tags** of Phil Taylor (extensions discontinued working only for Joomla 1.5)
 
 ### New Export functions
 

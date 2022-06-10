@@ -17,7 +17,7 @@ tags:
 
 #### Since July 22nd 2009: #Joomla 1.0 has reached end-of-life.
 
-**Reasons for the Move**
+# Reasons for the Move**
 
 - **Security**. Older extensions are often built using older and potentially unsafe coding methods.
 - **Support**. 1.0 has a large number of older and unsupported extensions.

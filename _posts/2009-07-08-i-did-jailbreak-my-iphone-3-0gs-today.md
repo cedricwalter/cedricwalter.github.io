@@ -26,7 +26,7 @@ There are “Still” plenty of reasons to jailbreak that aren’t directly rela
 
 ### I MAKE NO SUPPORT, USE AT YOU OWN RISK
 
-**I just want to share here how simple and how easy it was for ME, it doesnt mean it will work for YOU. Search in Google for a solution in case of disaster (iPhone wont boot up), it seems a backup/restore may save you time and eager.**
+# I just want to share here how simple and how easy it was for ME, it doesnt mean it will work for YOU. Search in Google for a solution in case of disaster (iPhone wont boot up), it seems a backup/restore may save you time and eager.**
 
 ### Jailbreak with Purplera1n <http://purplera1n.com> 
 

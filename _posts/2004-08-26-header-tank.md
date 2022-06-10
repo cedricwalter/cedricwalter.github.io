@@ -27,5 +27,5 @@ On my caliber 2….
 Help to balanced the heli if needed. Won’t work with a raptor 30
 canopy.    **by Steve\_JR**
 ![](/assets/images/2004/08/header4.-by-thejoeker.jpg)  
-**by the Joeker**
+# by the Joeker**
 

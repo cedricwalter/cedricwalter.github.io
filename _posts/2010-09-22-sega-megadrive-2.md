@@ -26,7 +26,7 @@ Rating: DC 10V 1.2A
 Serial No: 120145757
 
  **Bought** 2010.09.19   
-**Price paid:** 30€ with 18 games, 2 IR pads, cables
+# Price paid:** 30€ with 18 games, 2 IR pads, cables
 
 The **Mega Drive** (メガドライブ *Mega Doraibu*) is a fourth-generation video game console released by Sega in Japan in 1988 and Europe, Australia and other PAL regions in 1990. The console was released in North America in 1989 under the name **Sega Genesis**, as Sega was unable to secure legal rights to the Mega Drive name in that region.<sup> </sup>The Mega Drive was Sega’s fifth home console and the successor to the Sega Master System, with which it is electronically compatible. \[[WikiPedia](http://en.wikipedia.org/wiki/Mega_Drive)\]
 
@@ -36,7 +36,7 @@ The **Mega Drive** (メガドライブ *Mega Doraibu*) is a fourth-generation vi
 
 [![IMG_3137](/assets/images/2010/09/IMG_3137_thumb.jpg "IMG_3137")](/assets/images/2010/09/IMG_3137.jpg)[![IMG_3140](/assets/images/2010/09/IMG_3140_thumb.jpg "IMG_3140")](/assets/images/2010/09/IMG_3140.jpg)
 
-**I do own:**
+# I do own:**
 
 - Megadrive Pal-G 1600-18 serial 1100110799
 - Megadrive Pal-G 1601-18 serial 420014242
@@ -80,8 +80,8 @@ The **Mega Drive** (メガドライブ *Mega Doraibu*) is a fourth-generation vi
 - 256×240, 320×240, 256×480, 320×480 (PAL only), 256×192 (SMS games only)
 - Sound: Yamaha YM2612 5 channel FM and 1 channel FM/PCM, Texas Instruments SN76489 4 channel PSG (Programmable Sound Generator)
 
-**Publisher**: Sega   
-**Release Date:**
+# Publisher**: Sega   
+# Release Date:**
 
 - Japan: October 29, 1988
 - USA: August 14, 1989

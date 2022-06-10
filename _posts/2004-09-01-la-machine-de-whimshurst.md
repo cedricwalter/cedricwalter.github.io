@@ -11,7 +11,7 @@ tags:
     - myhobbies
 ---
 
-**250 000V de ddp**
+# 250 000V de ddp**
 
 J'ai construit cette machine en 1997, pour un coÃ»t modique :
 
@@ -24,7 +24,7 @@ J'ai construit cette machine en 1997, pour un coÃ»t modique :
 
 Le plan et les cÃ´tes de la machine me sont propre, mais on trouve dans la littérature des exemples de ces machines.
 
-**Extrait du catalogue Marklin 1900 **(cliquer pour élargir)
+# Extrait du catalogue Marklin 1900 **(cliquer pour élargir)
 
 |  |
 |---|
@@ -32,7 +32,7 @@ Le plan et les cÃ´tes de la machine me sont propre, mais on trouve dans la lit
 | [![](electricity/img/t_whimhurstmarklin.jpg)](http://www.waltercedric.com/electricity/img/whimhurstmarklin.jpg) | \| **Quelques accessoires:** \|  \| \|---\|---\|---\| \| [![](electricity/img/t_acc1.jpg)](http://www.waltercedric.com/electricity/img/acc1.jpg) \| [![](electricity/img/t_acc2.jpg)](http://www.waltercedric.com/electricity/img/acc2.jpg) \| \| [![](electricity/img/t_acc4.jpg)](http://www.waltercedric.com/electricity/img/acc4.jpg) \| [![](electricity/img/t_acc3.jpg)](http://www.waltercedric.com/electricity/img/acc3.jpg) \| |
 |---|
 
-**Principe de fonctionnement :**
+# Principe de fonctionnement :**
 
 ![](electricity/img/principe.jpg)
 
@@ -44,6 +44,6 @@ Le plan et les cÃ´tes de la machine me sont propre, mais on trouve dans la lit
 
 Une vieille photo, il manque les secteurs et le circuit externe . BientÃ´t la finale, juste le temps de développer mes photos !
 
-**Ex de réalisation Science &amp; Vie (rubrique Physique Amusante : Renaud de LA TAILLE)**
+# Ex de réalisation Science &amp; Vie (rubrique Physique Amusante : Renaud de LA TAILLE)**
 
 ![](electricity/img/exs&v.jpg)![](electricity/img/wizz.jpg) **ionisation d'un gaz**

@@ -25,7 +25,7 @@ A very simple module with a great output layout that require flash 9 for properl
 
 ![joomtwitter.smooth](/assets/images/2009/06/joomtwitter.smooth.png "joomtwitter.smooth")
 
-**Some settings:**
+# Some settings:**
 
 ![joomtwitter](/assets/images/2009/06/joomtwitter.png "joomtwitter")
 

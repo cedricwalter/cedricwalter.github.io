@@ -23,7 +23,7 @@ Development Status: 5 – Production/Stable
 - Topic: Board Games
 - User Interface: #Java AWT
 
-**I have already done a lot of small things…thanks to eclipse and it’s integrated refactoring browser**
+# I have already done a lot of small things…thanks to eclipse and it’s integrated refactoring browser**
 
 - Huge refactoring : 12 new packages, no magic values in code, interface, factories, abstractions, and so on…
 - Add log4j support,

@@ -32,13 +32,13 @@ Install the plugin using the Plugin manager, and do not forget to publish it
 
 Then you’ll need a client software running locally:
 
-**Linux**
+# Linux**
 
 - [BlogGTK](http://blogtk.sourceforge.net/)
 - [Gnome-Blog](http://www.gnome.org/%7Eseth/gnome-blog/)
 - [Drivel](http://www.dropline.net/drivel/)
 
-**Windows**
+# Windows**
 
 - w.Bloggar (opensource – [http://www.wbloggar.com/](http://www.wbloggar.com/ "http://www.wbloggar.com/"))
 - Using Flock web browser ( <http://www.flock.com/> )

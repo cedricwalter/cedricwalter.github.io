@@ -22,4 +22,4 @@ tags:
 |---|---|
 | You can still try  <font color="#000000" size="2">[the open-source Googlebar](http://googlebar.mozdev.org/), developed and supported by Google fans:   ![](/assets/images/2005/07/googlebar.png) |     |
 
-**Update**: the boutton "Agree and install" is not working, it is complaining about my firefox even with the latest version 1.0.4, so here is the link:  Found with view HTM source 😉<http://toolbar.google.com/firefox/extensions/toolbar/google-toolbar.xpi>
+# Update**: the boutton "Agree and install" is not working, it is complaining about my firefox even with the latest version 1.0.4, so here is the link:  Found with view HTM source 😉<http://toolbar.google.com/firefox/extensions/toolbar/google-toolbar.xpi>

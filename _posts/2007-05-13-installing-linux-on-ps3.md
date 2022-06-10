@@ -19,7 +19,7 @@ tags:
 
 These instructions show you how to install LINUX on a Playstation 3 with the latest firmware.
 
-**Downloading a #Linux flavor**
+# Downloading a #Linux flavor**
 
 Download one of these #Linux versions:
 
@@ -39,7 +39,7 @@ Download one of these #Linux versions:
 
 Burn the iso-file onto a CD/DVD depending on the size of the distribution
 
-**Preparing the PS3**
+# Preparing the PS3**
 
 In this step we will format the PlayStation 3 and create two partitions, one for the XMB (the PS3 operating system) and one for Linux. Before formatting the PS3, you MUST backup your games saved data.
 
@@ -47,7 +47,7 @@ In this step we will format the PlayStation 3 and create two partitions, one for
 - Choose *Custom* partition setting and *Allot 10GB to the Other OS*. Perform a *Quick Format*.
 - Reboot the PS3 by pressing X on your controller.
 
-**Preparing to run the LiveCD**
+# Preparing to run the LiveCD**
 
 - Insert the Linux CD/DVD you burned into your Playstation 3.
 - Go to *Settings > System Settings > Install* *Other OS*.
@@ -60,6 +60,6 @@ Once the system is up and running from the disc, you may choose to install Linux
 - Double click the install icon on the desktop.
 - Select Manual partitioning, and choose the 10.7GB drive.
 
-**Back to normal operations under XMB**
+# Back to normal operations under XMB**
 
 To boot back to the XMB environment, type *boot-game-os* at the kboot: prompt.

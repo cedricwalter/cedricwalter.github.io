@@ -28,19 +28,19 @@ tags:
 - Darrell Beaujon<span> **<span>(Aruba – **Antilles islands<span>) – homepage [<tt>www.e-senseit.com</tt>](http://www.e-senseit.com/html/index.php)<span>, a<font face="mon" size="4"><span> [<tt>ViaVerio hosting reseller</tt>](http://www.viaverio.com/index.cfm?page_id=16)<tt>, </tt><span>has <font face="monospace" size="4"><span>proposed <tt>me a VPS at cost price.</tt> 
 
  I will be hosting my new homepage at [**www.strato.de**](http://www.strato.de/)**<span> ** along with the [***<font color="blue" size="4">THE xDreamTeam***](http://www.xdreamteam.ch/index.php)** ****<span>BUT All of You will have a "free banner and links" for 1 years on my new site, and my support, in order to thanks You all !!!**  
-**<span>  
+# <span>  
 Templates**  
  
 
 - **<span>Colin (Canada)** from [www.coffeecrew.com](http://www.coffeecrew.com/) has offered me to do a new templates, so the previous orange templates will disappear during the migration to the new server.
 
  **<span>Load  
-** 
+#  
 
 - While I can not reduce the number of visitors, I will contact developer of [www.open-sef.org](http://www.open-sef.org/) and will help them in their development (temporary I have too many things to do) and optimize the speed of their SEO/SEF engine (probably serializing rules in htaccess)…. 
 
  **<span>Deadline  
-** 
+#  
 
 - **<span>Server MR2 has been ordered, hope to be online end of next week**
 

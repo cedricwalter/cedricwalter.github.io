@@ -339,9 +339,9 @@ screen -S TezosAccuser
 
 You need to set your own fee in whatever software you use to manage payouts. There are 2 tools that I recommend you to try:
 
-**TRD** is a software for distributing staking rewards of delegators introduced in detail in this [Medium article](https://medium.com/@huseyinabanox/tezos-reward-distributor-e6588c4d27e7). This is not a script but a full scale application which can continuously run in the background as a Linux service. It can track cycles and make payments. However it does not have to be used as a service, but it can also be used interactively. The documentation can be found [here](https://habanoz.github.io/tezos-reward-distributor/). [https://github.com/habanoz/tezos-reward-distributor ](https://github.com/habanoz/tezos-reward-distributor)
+# TRD** is a software for distributing staking rewards of delegators introduced in detail in this [Medium article](https://medium.com/@huseyinabanox/tezos-reward-distributor-e6588c4d27e7). This is not a script but a full scale application which can continuously run in the background as a Linux service. It can track cycles and make payments. However it does not have to be used as a service, but it can also be used interactively. The documentation can be found [here](https://habanoz.github.io/tezos-reward-distributor/). [https://github.com/habanoz/tezos-reward-distributor ](https://github.com/habanoz/tezos-reward-distributor)
 
-**Bäckerei** is tooling written by Cryptium Tezos Bäckerei. At a high level it manages the payments from the baker, to your delegators. Bäckerei is initialised with a TZ1 address which is used for baking. When run, it connects to a full-node and scans the entire transaction history to determine who the delegators are and how much they should get paid. Note that this full-node must be trusted. <https://github.com/cryptiumlabs/backerei>
+# Bäckerei** is tooling written by Cryptium Tezos Bäckerei. At a high level it manages the payments from the baker, to your delegators. Bäckerei is initialised with a TZ1 address which is used for baking. When run, it connects to a full-node and scans the entire transaction history to determine who the delegators are and how much they should get paid. Note that this full-node must be trusted. <https://github.com/cryptiumlabs/backerei>
 
 ### Useful commands
 

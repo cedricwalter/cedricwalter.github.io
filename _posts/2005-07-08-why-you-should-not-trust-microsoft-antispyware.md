@@ -14,7 +14,7 @@ tags:
 
 Strange the definition itself of [spyware (Wikipedia)](http://en.wikipedia.org/wiki/Spyware) is changing at Microsoft Headquarter constantly…
 
-**Microsoft sets Claria to "Ignore"** where [a person explains in its blog](http://sunbeltblog.blogspot.com/2005/07/microsoft-sets-claria-to-ignore.html) how Microsoft decide to change the level of threat of a spyware company (Claria) from quarantine to ignore. So there is only 2 possibility for me:
+# Microsoft sets Claria to "Ignore"** where [a person explains in its blog](http://sunbeltblog.blogspot.com/2005/07/microsoft-sets-claria-to-ignore.html) how Microsoft decide to change the level of threat of a spyware company (Claria) from quarantine to ignore. So there is only 2 possibility for me:
 
 - <div class="post-title">1. Claria is not a spyware company anymore, I dont think so since *Gator* spyware is still their main product,
 - <div class="post-title">2. Claria fund/discuss with X for not blocking them,

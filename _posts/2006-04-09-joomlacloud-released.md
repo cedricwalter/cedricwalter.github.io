@@ -21,6 +21,6 @@ JoomlaCloud is the FIRST component to bring tag clouds to #Joomla!
 
 *A Tag Cloud is a text-based depiction of tags across a body of content to show frequency of tag usage and enable topic browsing. In general, the more commonly used tags are displayed with a larger font or stronger emphasis. Each term in the tag cloud is a link to the collection of items that have that tag.* \[from Wikipedia\]
 
-**Your feedback is welcomed, You can submit me interesting CSS, languages translations, ideas…**
+# Your feedback is welcomed, You can submit me interesting CSS, languages translations, ideas…**
 
 next release will be OpenComment 1.0.0 😉

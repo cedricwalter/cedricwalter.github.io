@@ -13,9 +13,9 @@ tags:
     - google
 ---
 
-**![google-chrome](/assets/images/2010/01/google-chrome_3.jpg "google-chrome")**
+# ![google-chrome](/assets/images/2010/01/google-chrome_3.jpg "google-chrome")**
 
-**![google.chrome](/assets/images/2010/01/google.chrome_3.png "google.chrome")   
+# ![google.chrome](/assets/images/2010/01/google.chrome_3.png "google.chrome")   
 Google Chrome** is a web browser developed by [Google](http://en.wikipedia.org/wiki/Google) that uses the WebKit layout engine and application framework. This lightning fast browser has some interesting hidden page only available by typing some special URL in the navigation bar.
 
 1. about:version

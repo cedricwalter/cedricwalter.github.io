@@ -27,9 +27,9 @@ You will end up with this laconic text: “There are no Vista drivers available 
 
 Although [there is an alternate way](http://www.p4c.philips.com/cgi-bin/dcbint/faqview.pl?ctn=PCVC740K&dct=QAC&new_tmpl=1&refdisplay=WEBCAM_QAC_66387&refnr=0066387&scy=US&slg=AEN), that only work with Windows Vista, the solution I propose you is to just make the driver think that it has another webcam plugged in! This work since the reality is that most webcam out there have seen no big hardware changes since many many years. (except packaging/prize and blinking led)
 
-**DISCLAIMER !!! I’m not responsible for damages you could cause to your webcam because of errors in realizing the described firmware upgrade…**
+# DISCLAIMER !!! I’m not responsible for damages you could cause to your webcam because of errors in realizing the described firmware upgrade…**
 
-** **
+#  **
 
 ## Success story
 

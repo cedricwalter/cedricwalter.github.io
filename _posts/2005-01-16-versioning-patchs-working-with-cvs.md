@@ -18,7 +18,7 @@ I present You here some tips to deal with CVS integration into eclipse.
 
 - The tutorial ship with #Eclipse is quite good, take a look in HELP or search (cvs) into the help for articles..
 
-**Rules:**
+# Rules:**
 
 - If You have a huge number of Projects in Your workspace, always try to have closed version of these especially if you are not supposed to change them.
 - <span style="font-weight: bold;">Releases should follows an X.Y.Z convention where:

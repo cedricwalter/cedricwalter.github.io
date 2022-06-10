@@ -20,7 +20,7 @@ tags:
 ---
 
 Seen at the **[www.swiss-moto.ch](http://www.swiss-moto.ch)
-** show, sculpture and art can be bought at **[www.recycleart.ch](http://www.recycleart.ch)**
+#  show, sculpture and art can be bought at **[www.recycleart.ch](http://www.recycleart.ch)**
 
 Big items for REAL fans with a lot of space and deep wallet
 

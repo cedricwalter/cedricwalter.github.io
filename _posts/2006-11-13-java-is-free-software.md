@@ -21,7 +21,7 @@ tags:
 
 So what does this actually mean? What is the benefit to open source Java? How will things change? Here’s what I think will change and what won’t. I say this as my own opinion, not an official statement from Sun. I also say this as someone new to Sun, coming to Sun two years ago from an open source background. I’m sure that engineers with more experience than I will have different opinions. So with that, let’s hear it:
 
-**How will open source change #Java**
+# How will open source change #Java**
 
 - **Real bugs will be fixed** faster and non-bugs will be closed faster than ever.
 - **Java won’t fork**. Few developers will have incentive to fork Java. It’s a lot of work for little gain. Branches for new features or new platform support: yes. A true fork: no. Not even MS has much to gain from this anymore.

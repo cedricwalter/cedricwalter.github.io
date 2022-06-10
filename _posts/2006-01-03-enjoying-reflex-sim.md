@@ -12,7 +12,7 @@ tags:
     - simulator
 ---
 
-**TERRIFIC**! I was training 1 hours using the simulator REFLEX on a 4meter display (projector panasonic PT900).
+# TERRIFIC**! I was training 1 hours using the simulator REFLEX on a 4meter display (projector panasonic PT900).
 
 Picture will follow soon
 

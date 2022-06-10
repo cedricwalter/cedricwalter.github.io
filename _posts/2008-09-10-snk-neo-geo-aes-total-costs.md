@@ -21,8 +21,8 @@ tags:
 | [](http://www.waltercedric.com/snk/amoi/NeoGeoAES.jpg)[![](/assets/images/2004/08/tn_NeoGeoAES.jpg)](http://www.waltercedric.com/snk/amoi/NeoGeoAES.jpg)    **![](/assets/images/2004/08/ani_marco.gif)**![](/assets/images/2004/08/terry.gif) ![](/assets/images/2004/08/terry.gif)![](/assets/images/2004/08/terry.gif) | The Neo Geo is a cartridge-based arcade and home video game system released in 1990 by Japanese game company SNK. The system offered comparatively colorful 2D graphics and high-quality sound. A major platform for arcade games at the time, the system was also available as a costly home console. The two versions of the system were known as the AES (Advanced Entertainment System, the home version) and the MVS (Multi Video System, the arcade version). The Neo Geo was marketed as 24-bit, though it was technically an 8/16/32-bit multiprocessing system. \[[WikiPedia](http://en.wikipedia.org/wiki/Neo_Geo_(console))\] |
 |---|---|
 
-**   
-**I found a sheet of paper sitting around in a book since 10 years, it shows how much I did pay for my SNK NEO-GEO from 1991 to 1997…
+#    
+# I found a sheet of paper sitting around in a book since 10 years, it shows how much I did pay for my SNK NEO-GEO from 1991 to 1997…
 
 I publish it here mainly for the history..
 

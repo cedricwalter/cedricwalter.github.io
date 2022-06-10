@@ -13,7 +13,7 @@ tags:
 
 *I was hoping you could help me connect my xbox to my Apple computer. I have tried every FTP program I could get my hands on, including the built in FTP in the operating system. My Xbox has an Xecuter MOD running Evolution X. I cannot get the Xbox to network with my iMac no matter what I do. Any suggestions?*
 
-**XBOX, XBMC troubleshootings…**
+# XBOX, XBMC troubleshootings…**
 
 {mosgoogle center}
 
@@ -28,7 +28,7 @@ tags:
 | See if FTP port is reachable | *telnet AAA.BBB.CCC.DDD 21* | The XBOX port is open,    You network let FTP through,    No firewall blocck the outgoing port FTP (21) | Look at firewall settings if any is installed |
 |  |  |  |  |
 
-**Glossary of barbarians terms:**
+# Glossary of barbarians terms:**
 
 | **DHCP** | Short for Dynamic Host Configuration Protocol, a protocol for assigning dynamic IP addresses to devices on a network. With dynamic addressing, a device can have a different IP address every time it connects to the network. In some systems, the device’s IP address can even change while it is still connected. DHCP also supports a mix of static and dynamic IP addresses. Dynamic addressing simplifies network administration because the software keeps track of IP addresses rather than requiring an administrator to manage the task. This means that a new computer can be added to a network without the hassle of changing configuration. |
 |---|---|

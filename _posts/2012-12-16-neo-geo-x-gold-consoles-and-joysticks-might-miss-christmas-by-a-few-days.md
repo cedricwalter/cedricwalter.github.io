@@ -18,13 +18,13 @@ tags:
     - vintagegaming
 ---
 
-**![](/assets/images/2012/12/NeoGeoXGold-008.jpg)**
+# ![](/assets/images/2012/12/NeoGeoXGold-008.jpg)**
 
-**From:** Jason Cooper <jason.cooper @ blazeretro.net>   
-**Date:** Tue, 11th Dec 2012   
-**To:** xxxxxx
+# From:** Jason Cooper <jason.cooper @ blazeretro.net>   
+# Date:** Tue, 11th Dec 2012   
+# To:** xxxxxx
 
-**Subject:** NEOGEO X Gold System Revised Release Date
+# Subject:** NEOGEO X Gold System Revised Release Date
 
 Dear xxxxxx,   
 We are collecting the NeoGeo X consoles and joysticks directly from the manufacturer between the 19<sup>th</sup> – 22<sup>nd</sup> December. We are going to air freight these over (may I add at great expense) on a priority chartered service.

@@ -17,6 +17,6 @@ This extension for #Joomla! 2.5 allow you to inline a set of images from your fa
 
 # Whats New
 
-**BUG** Button in the backend was always working properly while when being logged in the the frontend of the site, It was returning an error 404.
+# BUG** Button in the backend was always working properly while when being logged in the the frontend of the site, It was returning an error 404.
 
 [![](/assets/images/2011/11/download-zip.png)](http://www.waltercedric.com/downloads/photofeed.html)[![](/assets/images/2013/03/documentation.jpg)](http://wiki.waltercedric.com/index.php?title=Photofeed_fo_Joomla)[![](/assets/images/2011/12/support.png)](http://forums.waltercedric.com/)

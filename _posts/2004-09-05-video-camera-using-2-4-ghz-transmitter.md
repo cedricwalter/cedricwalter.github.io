@@ -14,13 +14,13 @@ tags:
 
  **Be careful ! in France you are not allowed to transmit in realtime video from an aircraft !**
 
-**You need :**
+# You need :**
 
 - **Velleman 2.4 GHz wireless surveillance system 1700 Fr**
 
-**include a high res color video camera, ability to have 4 different TX, built in microphone, and 300 feet range.**
+# include a high res color video camera, ability to have 4 different TX, built in microphone, and 300 feet range.**
 
-**![boite 64 Ko](/assets/images/2004/09/boite.jpg)**
+# ![boite 64 Ko](/assets/images/2004/09/boite.jpg)**
 
 - Accus (2 \* 9V) **296 Fr**
 - 1 voltage regulator : 7812 (12V) + micro switch **7 Fr**
@@ -44,10 +44,10 @@ tags:
 
 ![](images/Helico/elec/lcdtft.jpg)
 
-**Some Pictures :**
+# Some Pictures :**
 
-**SOON**
+# SOON**
 
-**Conclusions :**
+# Conclusions :**
 
 this is the best system, but the price is expensive. size could be reduce, weight is 215 grams (accu + camera).

@@ -36,7 +36,7 @@ New features are in yellow
 
 ## Notes
 
-**This module use TimThumb 2.8.0 that must be installed as a #Joomla! library**
+# This module use TimThumb 2.8.0 that must be installed as a #Joomla! library**
 
 - Install lib\_[TimThumb\_j16\_j17.zip](https://waltercedric.com/new/?p=2391) for #Joomla! 1.6 / 1.7 using the installer
 - For #Joomla! 1.5, unpack [lib\_TimThumb\_j15.zip](https://waltercedric.com/new/?p=2391) in /libraries/

@@ -10,7 +10,7 @@ permalink: /joomla/related-articles-1-5-0-content-plugin/
 
 [![joomla_cms](/assets/images/2006/01/joomla_cms_thumb.png "joomla_cms")](/assets/images/2008/02/joomla_cms.png)
 
-**relatedArticles 1.5.0**
+# relatedArticles 1.5.0**
 
 Created by Hien Cao 2005 and converted to #Joomla 1.5 API by Cédric Walter 2008
 

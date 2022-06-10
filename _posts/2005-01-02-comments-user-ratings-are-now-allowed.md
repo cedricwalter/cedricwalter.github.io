@@ -11,7 +11,7 @@ tags:
     - personal
 ---
 
-**You can now post comments everywhere** and react to my articles (feel free to do it 😉 ), but please respect following guidelines:
+# You can now post comments everywhere** and react to my articles (feel free to do it 😉 ), but please respect following guidelines:
 
 - Please keep the topic of messages relevant to the subject of the article.
 - Please keep your comments and language G-rated; because it can be read by everyone!

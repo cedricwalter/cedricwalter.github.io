@@ -13,17 +13,17 @@ tags:
     - reference
 ---
 
-**all credits to Authors**
+# all credits to Authors**
 
-**keywords**
+# keywords**
 
 table html scrolling rows body
 
-**Purpose**
+# Purpose**
 
 If you want to create a table with a fixed header row and a scrolling body.
 
-**Links:**
+# Links:**
 
 - <http://www.htmlcodetutorial.com/tables/> all about tables
 - <http://www.w3.org/TR/REC-html40/struct/tables.html> Examples of advanced layouts in HTML tables

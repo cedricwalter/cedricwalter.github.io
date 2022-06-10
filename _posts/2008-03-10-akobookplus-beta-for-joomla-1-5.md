@@ -17,4 +17,4 @@ No no No Akobookplus is not dead, after more than 5 years of duty Akobookplus is
 - It is still the same crappy code without MVC separation of concerns, it is not worth the effort right now to rewrite everything.
 - *It is a BETA version so backup and test at your own risks!*
 
-***Download the Beta version in my download section.***
+# *Download the Beta version in my download section.***

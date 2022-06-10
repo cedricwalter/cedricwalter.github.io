@@ -13,7 +13,7 @@ tags:
 
 Let’s have a look at what some smart guys are developing using Google Maps…
 
-**Google Maps** is Google’s latest product offering which provides a super cool mapping application for US street maps, driving directions, and local search.
+# Google Maps** is Google’s latest product offering which provides a super cool mapping application for US street maps, driving directions, and local search.
 
 - [*Foundcity*](http://www.foundcity.net/) *is a social mapping tool for creating a* **personalized map of your life on-the-fly***. Using your mobile phone, you "tag" or capture photos throughout the day, label them with any words you want, and send them to your map. At home, you access and customize your map, which you can share with friends, keep private, or publish openly. As a visitor to the Foundcity site, you view a map of all tags and connect with the people and places that share your interests. By plugging in to the network of Foundcity users, you learn what others value in the city as you surf their hotspots. By publishing your own tags, you share what you know about your city.* [http://www.foundcity.net/](http://www.foundcity.net/)
 - **Central London Traffic Cameras**, [http://www.gmaptrack.com/map/locations/24/44](http://www.gmaptrack.com/map/locations/24/44)

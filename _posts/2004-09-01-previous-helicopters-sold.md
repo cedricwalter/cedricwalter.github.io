@@ -15,7 +15,7 @@ tags:
     - 'RC helicopter'
 ---
 
-**in order of use, sold now**
+# in order of use, sold now**
 
 | ***1***<sup>***st***</sup> ***Raptor 30*** | ***Moskito XXL 50's*** | ***Futura Se*** |
 |---|---|---|
@@ -30,7 +30,7 @@ tags:
 | ![](/assets/images/2004/09/DSC00336.JPG) |  |  |
 | 34 flights    Great concept    flight time too limited    as 11.03.2002 |  |  |
 
-**Why do I already have so much helicopters? because it is very difficult to find an helicopter that   
+# Why do I already have so much helicopters? because it is very difficult to find an helicopter that   
  match your needs : easy to maintain, part not too expensive (ex: Futura), not too much high end, not too   
  complex to maintain (ex. Moskito), easy avaibility of parts (worse for heaven), bad friend's advices, want to try electric (mistake on NiCad)….  
  Contact me if you need more details about one of these machines…**

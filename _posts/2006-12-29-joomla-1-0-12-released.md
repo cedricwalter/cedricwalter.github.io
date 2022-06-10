@@ -10,7 +10,7 @@ tags:
     - joomla
 ---
 
-**Joomla! 1.0.12**<span style="font-style: italic;"> \[ Sunfire \] is available as of Monday the 25th of December 2006 1:00 UTC for [download here](http://forge.joomla.org/sf/frs/do/viewRelease/projects.joomla/frs.joomla_1_0.1_0_12)<span style="font-style: italic;">. 
+# Joomla! 1.0.12**<span style="font-style: italic;"> \[ Sunfire \] is available as of Monday the 25th of December 2006 1:00 UTC for [download here](http://forge.joomla.org/sf/frs/do/viewRelease/projects.joomla/frs.joomla_1_0.1_0_12)<span style="font-style: italic;">. 
 
 We suggest that all #Joomla! users upgrade to this version.
 

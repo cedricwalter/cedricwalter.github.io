@@ -51,7 +51,7 @@ The warranty was 90 days. After 90 days you had to ship the unit plus a $35 mone
 
 ![](/assets/images/2020/03/fidelity-chess-computer-6.jpg)<figcaption>Fidelity chess computer</figcaption>The manual indicated that the Chess Challenger could be upgraded after June 1, 1977 by sending the unit back to them and a money order for US$ 75.00
 
-**“…the game analyzes each position and, after considering all possible chess moves, makes a decision which is determined to be the best available move.  
+# “…the game analyzes each position and, after considering all possible chess moves, makes a decision which is determined to be the best available move.  
 The sophisticated program used in this decision-making process is thoroughly tested, and each game manufactured acts like all other games. Thus, CHESS CHALLENGER cannot make a fundamental error.  
 Initially you may find that CHESS CHALLENGER may appear to be making an illegal move. However, this is highly unlikely.”**
 

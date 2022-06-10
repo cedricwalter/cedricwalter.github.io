@@ -11,7 +11,7 @@ tags:
     - 'Home Cinema'
 ---
 
-**720p, 1080i and 1080p** are shorthand name for a category of video modes.  
+# 720p, 1080i and 1080p** are shorthand name for a category of video modes.  
 720p is a smaller HD resolution than 1080p. <span style="font-weight: bold;">720p is made up of 1280 (horizontal) x 720 (vertical) pixels. <span style="font-weight: bold;">1080p is made up of 1920 (horizontal) x 1080 (vertical) or 1440 (horizontal) x 1080 (vertical) pixels in <span style="font-weight: bold;">1080i.  
 In other words, if you compare 720p and 1080p movies on a 42" TV, you will notice that the 1080p most likely looks better. The pixel size in 720p is much larger on a 42" TV than 1080p. The smaller the pixel size the sharper the picture is.  
 [WikiPedia 720p](http://en.wikipedia.org/wiki/720p)[ ](http://en.wikipedia.org/wiki/720p)– [WikiPedia 1080p](http://en.wikipedia.org/wiki/1080p) – [WikiPedia 1080i](http://en.wikipedia.org/wiki/1080i)

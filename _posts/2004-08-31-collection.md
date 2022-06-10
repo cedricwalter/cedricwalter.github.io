@@ -69,14 +69,14 @@ Neo Geo Pocket 0016263 – Private collection Cédric Walter – www.waltercedri
 
 ### Promoting games flyer
 
-\* Eight Man  
-\* World Heroes  
-\* 2X Aero Fighter 2  
-\* 2X King of Fighter 94  
-\* Samurai Showdown 2  
-\* Sengoku 2  
-\* King of Monster 2  
-\* Andros Dunos  
-\* Super Sidekick 2
+* Eight Man  
+* World Heroes  
+* 2X Aero Fighter 2  
+* 2X King of Fighter 94  
+* Samurai Showdown 2  
+* Sengoku 2  
+* King of Monster 2  
+* Andros Dunos  
+* Super Sidekick 2
 
 ![](/assets/images/2004/08/tableau1.jpg)

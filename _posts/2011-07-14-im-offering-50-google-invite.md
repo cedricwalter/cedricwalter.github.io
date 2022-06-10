@@ -19,7 +19,7 @@ tags:
 
 Google+ is a new social media platform currently in limited Field Trial only. You can only join Google Plus after invitation from a Google Plus user.
 
-**How to get an invite?**
+# How to get an invite?**
 
 Send me your either your Gmail address/ Facebook email together with your website (if you have one) so I can verify that you won’t be selling them afterward on eBay. Do not publish your email on my blog in the comments below, send them to:
 

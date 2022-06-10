@@ -39,7 +39,7 @@ RewriteCond %{HTTP\_REFERER} !^[http://(www\\.)?mirror.waltercedric.com(/)?.\*](
 RewriteCond %{HTTP\_REFERER} !^[http://(www\\.)?images.google.com(/)?.\*](http://(www\.)?images.google.com(/)?.*)$ \[NC\]   
 RewriteRule .\*\\.(jpg|jpeg|gif|png|bmp|zip|css)$ <http://www.waltercedric.com/bandwidthStealing.html> \[R,NC\]
 
-**Notes:**
+# Notes:**
 
 - I want to allow cross linking between all my Subdomains wiki,demo, bugs, forums … so I have a bigger list of allowed Referer than usual to enter…
 - I do not allow hotlinking of the following resources for obvious reasons: jpg|jpeg|gif|png|bmp|zip|css
@@ -49,7 +49,7 @@ RewriteRule .\*\\.(jpg|jpeg|gif|png|bmp|zip|css)$ <http://www.waltercedric.com/b
 
 There is a useful online generator with a lot more explanation online at the bottom of this page http://www.htmlbasix.com/disablehotlinking.shtml . This is active on my server since 2 weeks, and I’ve see a performance in response time.
 
-**More tips**
+# More tips**
 
 - To have an insight on resources stealing in nearly real time, simply put a statistics marker with for example [Google Analytics](https://www.google.com/analytics) to see how many people are landing on that page per week or months!
 - To generate money (better than nothing), dot forget also to put advertisements publicity on your redirect hot linking page

@@ -77,7 +77,7 @@ if you run the goal compile
 > mvn compile
 
 on a simple multi module project, EVERY modules, one after the others, will go through these phases   
-**validate** –> **generate**–**sources –> **process**–**sources** –> **generate**–**resources** –> **process**–**resources –> **compile******
+# validate** –> **generate**–**sources –> **process**–**sources** –> **generate**–**resources** –> **process**–**resources –> **compile******
 
 ### Apache Maven reactor
 
@@ -154,7 +154,7 @@ It start to be complicated when you provide a list of profile using [Apache Mave
 mvn post-integration-test –PdeployWeb,createDatabase,runSelenium,deployMonitoring
 ```
 
-**Chances are high** that you will get profile executed in wrong order, too early or too late..
+# Chances are high** that you will get profile executed in wrong order, too early or too late..
 
 ## Rule #1 profiles are activated (if found) following reactor modules order
 

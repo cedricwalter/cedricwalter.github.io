@@ -17,7 +17,7 @@ tags:
 
  {mosgoogle center}
 
-**Usage:**
+# Usage:**
 
  You can create as many profile as needed, open a browser and go to the login page (Here I choose [www.runryder.com](http://www.runryder.com/) as an example)
 
@@ -30,7 +30,7 @@ tags:
 
  {mosgoogle center}
 
-**Bad:**
+# Bad:**
 
 - Only working in Internet explorer, not working in any other browser: [Opera](http://www.opera.com/) or [Mozilla](http://www.mozilla.org/)   
     **NEW**: U.are.U is working in Firefox 1.0 but Microsoft fingerprint NOT
@@ -51,7 +51,7 @@ tags:
 
 ![](/assets/images/2004/08/sensorfront.jpg)
 
-**Good:**
+# Good:**
 
 - Work perfectly with Windows, no problems with: lotus notes login, windows logon, web browsing…   
     | ![](/assets/images/2004/08/idok.jpg) | ![](/assets/images/2004/08/idnotok.jpg) |
@@ -68,9 +68,9 @@ tags:
 
 ![](/assets/images/2004/08/sensorrear.jpg)
 
-**{mosgoogle center}**
+# {mosgoogle center}**
 
-**Conclusions/What I would like to see**
+# Conclusions/What I would like to see**
 
 - Open source the code!!!!
 - Working with other browser, Mozilla has 18% of market now, all together alternate browser have less than 30% (see [google geist here](http://www.google.com/press/zeitgeist.html))
@@ -93,11 +93,11 @@ I would stay away from the Microsoft version as long as they do not integrate ne
 
 {mosgoogle center}
 
-**Overall**
+# Overall**
 
 A product for geek, but due to lack of peer reviews on algorithms, it is certainly not a corporate device in any means. For example: why attacking the keystore if you can hook a backdoor to the activeX component in use? (should be easy to do with all Internet explorer issues…)
 
-**Links**
+# Links**
 
 purpletiger22000@yahoo.com sell them in usa at a good prices, also on ebay.com as well
 
@@ -129,7 +129,7 @@ purpletiger22000@yahoo.com sell them in usa at a good prices, also on ebay.com a
 	<a href="/Mambo/mambots/editors/htmlarea2/popups/www.comediatech.com" rel="noopener noreferrer" target="_self">www.comediatech.com</a> 
 ```
 
-**Others reviews:**
+# Others reviews:**
 
 - <http://www.dansdata.com/uareu.htm> A very good review with some tips how to fake the sensor
 - **Microsoft Device**

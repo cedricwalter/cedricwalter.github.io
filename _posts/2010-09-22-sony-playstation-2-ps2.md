@@ -21,9 +21,9 @@ This game console is part of my growing collection of vintage gaming system, so 
 
 [![sony.playstation2](/assets/images/2010/09/sony.playstation2_thumb.jpg "sony.playstation2")](/assets/images/2010/09/sony.playstation2.jpg)
 
-**Sony Playstation 2   
+# Sony Playstation 2   
 Bought** 2010.09.19   
-**Price paid:** 10€   
+# Price paid:** 10€   
 Game console + 3 games + 2 pad + cables + box &amp; notice
 
 > The **PlayStation 2** (プレイステーション2 *Pureisutēshon Tsū*, officially abbreviated **PS2**) is a sixth-generation video game console manufactured by Sony. The successor to the PlayStation, and the predecessor to the PlayStation 3, the PlayStation 2 forms part of the PlayStation series of video game consoles. Its development was announced in March 1999 and it was released a year later in Japan. Its primary competitors were Sega’s Dreamcast, Microsoft’s Xbox, and Nintendo’s GameCube.

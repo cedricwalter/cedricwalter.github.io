@@ -49,7 +49,7 @@ PDT + Zend in one package thanks to Zend.com (118MB), highly recommended
 - [Download all-in-one for Windows](http://downloads.zend.com/pdt/all-in-one/pdt-2.0.0GA_debugger-5.2.15.v20081217-all-in-one-win32.zip)
 - [Download all-in-one for MacOS ](http://downloads.zend.com/pdt/all-in-one/pdt-2.0.0RC1_debugger-5.2.14.v20080602-all-in-one-macosx-carbon.tar.gz)
 
-**OR** PDT (105MB) and add Zend debugger through software update later
+# OR** PDT (105MB) and add Zend debugger through software update later
 
 - Open #Eclipse and go to Help-> Software Updates-> Find and Install
 - Select “Search for new features to install” and click “Next”
@@ -68,7 +68,7 @@ and add the following
 zend\_extension\_ts=**E:\\php\\bin\\eclipse\\plugins\\org.zend.php.debug.debugger.win32.x86\_5.2.15.v20081217\\resources\\php5\\ZendDebugger.dll** zend\_debugger.allow\_hosts=127.0.0.1/192.168.1.100  
 zend\_debugger.expose\_remotely=always
 
-**Notes**:
+# Notes**:
 
 - Only one key zend\_extension\_ts is allowed per php.ini file, un-comment all other or it wont work,
 - Attention: I did not move ZendDebugger.dll but use the one coming with eclipse Zend plugin, this may cause issues, if you update this plugin and the path change…
@@ -83,7 +83,7 @@ Put now a breakpoint in index.php of any Joomla! installation or deeper in any c
 
 And right click on index.php, debug as PHP Web Page (Alt-Shift-D, W)
 
-**Attention**
+# Attention**
 
 While the first page get properly rendered in the internal browser of eclipse PDT, I was getting some strange rendering issues (html code produced look fine), by using an external browser like Chrome, Firefox, the problem has disappear.
 

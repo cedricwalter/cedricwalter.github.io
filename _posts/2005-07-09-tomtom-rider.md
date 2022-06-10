@@ -32,7 +32,7 @@ Sorties prévu: septembre 2005. Essai complet sur mon site dès sa sortie. Je pr
 - Récepteur GPS intégré conforme Ã SiRF Star III avec suivi de 20 canaux tous visibles
 - <span style="color: #191970; font-size: small;"><span class="spnMessageText"><span style="font-family: arial,helvetica,sans-serif;">Options de montage pour fixation sur toute moto ou tout scooter
 
-**Site officiel (shop):**
+# Site officiel (shop):**
 
 - [TomTom Rider Fr](http://www.tomtom.com/products/product.php?ID=71&Language=2)
 - [Tom Tom Rider Us](http://www.tomtom.com/products/product.php?ID=71)

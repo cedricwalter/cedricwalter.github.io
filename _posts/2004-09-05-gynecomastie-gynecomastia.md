@@ -17,7 +17,7 @@ tags:
 
 Bon voici mon expérience….chez moi ma gynécomastie est de famille ou plutot cela vient de mon arrière grand-père…un cadeau de l’héridité (espérons que c’est le seul)
 
-**A lire**
+# A lire**
 
 Ces deux pages expliquent bien ce qu’est la gynécomastie, les questions, les risques et comment on la supprime tant que cela est possible par méthode “douce”, comprenez par la sans bistouri.
 
@@ -26,7 +26,7 @@ Ces deux pages expliquent bien ce qu’est la gynécomastie, les questions, les 
 
 Si les sites ci dessus n’existent plus, vous pouvez me contacter, je possède des copies de ces pages. Si rien ne marche, il ne reste plus que la voie chirurgicale…
 
-**Jeudi 11 Mars 2004**
+# Jeudi 11 Mars 2004**
 
 7h00: Arrivé Ã jeun Ã l’hôpital Emile Muller (Mulhouse – Alsace) au service de Chirurgie Plastique. On me place dans une chambre, manque de chance j’arrive le jour ou il y a une grève des brancardiers (mais on m’assure jamais des médecins).
 
@@ -54,7 +54,7 @@ De toute facon je n’ai jamais eu mal, à chaque occasion on me demande si j’
 
 Visite du médecin qui m’a opéré, tout va bien
 
-**Vendredi (+1j)**
+# Vendredi (+1j)**
 
 Je peut aller dans la salle de bain le lendemain me voir dans la glace, en effet je suis couvert de bleu et d’échimoses sur le devant et sous les bras. Cela vient de la canulle du médecin qui a dut aspirer la composante graisseuse de ma gynécomastie (une banale liposuccion). Je me ballade dans la chambre avec mes bouteilles, c’est pas le meilleur jour de ma vie, mais cela va.
 
@@ -66,7 +66,7 @@ Néanmoins, on m’enlève la perfusion, les antalgiques (DAFALGAN 1000mg) seron
 
 Visite du médecin chef, il est d’avis aussi de me garder jusqu’a demain.
 
-**Samedi (+2j)**
+# Samedi (+2j)**
 
 Mes bouteilles: gauche 50ml, droite 150ml
 
@@ -76,36 +76,36 @@ Vers 11h on me retire les pansements, les ouvertures péri-aréolaires sont déj
 
 Je badigeonne les échimoses d’arnica avec plus ou moins de résultats. les douleurs s’estompent.
 
-**Dimanche (+3j)**
+# Dimanche (+3j)**
 
 Un peu avant 12h, j’écrit cette rubrique. Impossible de lever les bras ou de porter ne serait qu’un livre.
 
-**Jeudi (+7j)**
+# Jeudi (+7j)**
 
 J’arrive a me lever sans avoir mal et à me déplacer sans douleurs musculaires.
 
-**Vendredi (+8j)**
+# Vendredi (+8j)**
 
 Visite de contrôle et changement des pansements. j’apprend que on m’a retiré 876 grammes de graisse!!! incroyable…quand aux 2 nodules ils sont à l’anapath pour étude afin de déterminer si il y a malignité (Le cancer est rare et unilatérale chez l’homme). Je paye **Coà»t de l’opération: 156€ (K50+K50/2) incluant l’anésthésie, une misère!** La chambre coutera 550€ la journée. Le tout est pris en charge à 100% par la sécurité sociale.
 
-**Vendredi (+15j)**
+# Vendredi (+15j)**
 
 Visite est prise pour ôter les fils de coutures.
 
-**Encore une fois, toutes les infirmières ont fait un travail FORMIDABLE , aimable, à l’écoute et dévoué dans leur travail qui ne doit pas être toujours très rigolo. On aimerait presque y retourné plus souvent, non je plaisante… à peine**
+# Encore une fois, toutes les infirmières ont fait un travail FORMIDABLE , aimable, à l’écoute et dévoué dans leur travail qui ne doit pas être toujours très rigolo. On aimerait presque y retourné plus souvent, non je plaisante… à peine**
 
-**Je pensais que tout etait fini mais non…**
+# Je pensais que tout etait fini mais non…**
 
-**Cicatrices adhérentes!**
+# Cicatrices adhérentes!**
 
 Le chirurgien se rend compte que mes cicatrices sont adhérentes: la peau colle aux muscles alors que normalement elle devrait glisser sur une fine couche de graisse intersticielle. Résultat? je peut à peine lever les bras ou m’habiller tout seul….
 
-**Quels en sont les causes chez moi:**
+# Quels en sont les causes chez moi:**
 
 - Pour des raisons de commodités (télévision, manger, me lever plus facilement en roulant sur le coté), j’ai incliner le dossier de mon lit à l’hopital pendant 3 jours, puis à la maison aussi (j’ai un lit électrique aussi), résultat, un plis naturel s’est formé aux niveaux des 2 aréoles….
 - J’ai beaucoup saigné sous la peau, donc des adhérences importantes jusqu’aux côtes,
 
-**Les solutions?**
+# Les solutions?**
 
 - une ordonnance de 10 séances de kinésithérapie:   
      au programme: 
@@ -118,24 +118,24 @@ Le chirurgien se rend compte que mes cicatrices sont adhérentes: la peau colle 
 - Le jet de la douche en position forte sur les plaies pour ramollir un peu avant les massages le soir
 - je fait des haltères pour tirer sur la peau.jusqu’a avoir mal.
 
-**Vendredi (+2 mois)**
+# Vendredi (+2 mois)**
 
 Visite de contrôle chez le chirurgien, si les adhérences sont encore la, il faudra rouvrir chirurgicalement mais dans 1 an…..rien a signaler, son avis est d’attendre encore d’ici novembre 2004
 
 Entretemps, j’ai perdu du poids, et cela parce que je mange moins (j’élimine surtout tout les trucs sucrés) et fait pas mal de sport (piscine, velo et bientot running) et de la musculation, plus de 10kg de perdu et stable. J’aime a penser que cela est aussi catalysé par changement hormonal profond de mon organisme. Mes cicatrices sont inexistantes, et l aspect n’est pas encore parfait: un peu trop de peau et pas encore assez de pectoraux. Mais j’ai bon espoir de reussir.
 
-**Aujourd’hui (+11 mois)**
+# Aujourd’hui (+11 mois)**
 
 Rien a signaler, j’ai perdu pas mal de poids (-11kg mais est ce lié? je ne pense pas), c’est plutot la piscine, le velo, le jogging, la musculation qui ont aidé. Quoi qu’il en soit, je suis content du resultat même si cela adhère un tout petit peut de temps en temps (je suis informaticien et avachi sur ma chaise 🙂 )  
  
 
-**<span style="font-weight: normal;">Eventuellement et si le creux est trop important sous l’aréole, il est possible d’injecter de la graisse,   
+# <span style="font-weight: normal;">Eventuellement et si le creux est trop important sous l’aréole, il est possible d’injecter de la graisse,   
  <span style="font-weight: normal;">mais moi cela me va.**
 
 | <span style="font-weight: bold;">Avant Mars 2004 (poids 94kg) | <span style="font-weight: bold;">Apres septembre 2004 (poids 87kg) |
 |---|---|
 
-**25.01.2005 83kg**
+# 25.01.2005 83kg**
 
 # **Liens** 
 

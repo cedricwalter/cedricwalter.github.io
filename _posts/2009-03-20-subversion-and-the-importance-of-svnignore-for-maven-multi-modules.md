@@ -45,7 +45,7 @@ Will clean /target directories, and thus force the SVN daemon to mark files as c
 
 Typically it is recommended to hide [Eclipse](http://www.eclipse.org/) project artifacts and [Maven](http://maven.apache.org/) build targets from Subversion/CVS. M2Eclipse like to change the .classpath file (sometimes some entries are 3 times available in this file BUG?), this is one more reason not to commit these files.
 
-**If you use CVS**
+# If you use CVS**
 
 First Check in your project using the [Eclipse](http://www.eclipse.org/) team support (select from the context menu Team > Share Project), but only check what is needed. You should have a *.cvsignore* file, prior to commit, with the following entries for each module:
 
@@ -55,7 +55,7 @@ First Check in your project using the [Eclipse](http://www.eclipse.org/) team su
 .wtpmodules  
 target*
 
-**If you use SVN,** you can set the svn:ignore property on all shared module and project by
+# If you use SVN,** you can set the svn:ignore property on all shared module and project by
 
 - First Check in your project using the [Eclipse](http://www.eclipse.org/) team support (select from the context menu Team > Share Project), but only check what is needed.
 - Then select all [Maven](http://maven.apache.org/) projects and [Maven](http://maven.apache.org/) modules,
@@ -70,7 +70,7 @@ target*
 
 You will see that the specified files and directories are now being ignored by Subversion.
 
-**Note**
+# Note**
 
 1. Eclipse will automatically generate a new simple *.project*-file/ .classpath-file when you check out the project from the repository.
 2. I would like to see [M2Eclipse](http://m2eclipse.codehaus.org/) being able to automatically remove the target directory from SVN/CVS while sharing…

@@ -15,7 +15,7 @@ A lot of Mambo/Joomla site has been hacked last week, since I’ve already help 
 
  Some steps are common sense while others are not.
 
-**But:**
+# But:**
 
 - Do not think that doing all steps below will protect You! nothing is secure in the computer world! or not very long…
 - Do not think that after doing all steps below, #Joomla will be as user friendly for You as before! we are restricting rights, changing some behaviours of the webserver, **it will be** more difficult to publish content, on the other side, articles and content will be safer.
@@ -55,7 +55,7 @@ Congratulations, You have now a lot more secure Joomla/Mambo secure homepage!
 
 Comments are as usual welcomed, use the contact section of this site!
 
-**# Annexes"></a>Annexes**
+# # Annexes"></a>Annexes**
 
 |  |  |
 |---|---|

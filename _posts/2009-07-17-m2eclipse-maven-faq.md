@@ -19,14 +19,14 @@ These things have disturbed us (The developer Team at [Innoveo.com](http://www.i
 
 ### Someone create a new #maven module, after updating from SVN the module is not visible as a separate project.
 
-**Scenario:**
+# Scenario:**
 
 1. User A checks out a #maven project from SVN using “Checkout as #Maven Project”. All modules are now listed as separate projects in #Eclipse
 2. User B creates a new module in the project, and checks it into SVN
 3. User A updates project
 4. New module does not show up as a separate project.
 
-**Solution**:
+# Solution**:
 
 1. Work around found by selecting the parent project
 2. Do Import -> #Maven.
@@ -35,11 +35,11 @@ These things have disturbed us (The developer Team at [Innoveo.com](http://www.i
 
 ### In SVN perspective, when I choose “Checkout as #Maven Project” on #maven projectA, I get an exception saying that #maven.123457896 can not be renamed
 
-**Scenario:**
+# Scenario:**
 
 This error occur sometime, especially if you ever kill eclipse during a previous #maven checkout (as sometimes it seems to hang forever). In fact the error message can be misleading,as M2Eclipse can not renamed #maven.1234567896 to projectA as it may partially exist on disk.
 
-**Solution:**
+# Solution:**
 
 1. Stop eclipse
 2. Go to the workspace location {workpsace\_loc}
@@ -49,11 +49,11 @@ This error occur sometime, especially if you ever kill eclipse during a previous
 
 ### .classpath or .project are not committed in SVN, how to add them?
 
-**Scenario**:
+# Scenario**:
 
 You may have add a svn:ignore on some directories, or some someone may have committed a recursive svn:ignore properties on some module in the hierarchy. While we should never commit any .classpath to SVN, there is some rare case where it is still needed. For example if you ever add special runtime server libraries that may not be coming from #Maven Dependencies.
 
-**Solution:**
+# Solution:**
 
 Even if there is a svn:ignore on a #maven module, or if a module has applied svn:ignore properties to all its child, you can always put a file under version control by doing the following
 

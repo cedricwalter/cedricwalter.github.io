@@ -32,10 +32,10 @@ All my latest blue screens of Windows 7 Ultimate 64 bits, 48 inches of blue wall
 
 [![00.windows7.x64.8.06.2010](/assets/images/2010/07/00.windows7.x64.8.06.2010_thumb_0565b24d499f1cadf1e840574a1b619e.jpg "00.windows7.x64.8.06.2010")](/assets/images/2010/07/00.windows7.x64.8.06.2010_960e902c64bd32902ce9534c726b9837.jpg) [![01.windows7.x64.8.06.2010](/assets/images/2010/07/01.windows7.x64.8.06.2010_thumb.jpg "01.windows7.x64.8.06.2010")](/assets/images/2010/07/01.windows7.x64.8.06.2010.jpg) [![03.windows7.x64.8.06.2010](/assets/images/2010/07/03.windows7.x64.8.06.2010_thumb.jpg "03.windows7.x64.8.06.2010")](/assets/images/2010/07/03.windows7.x64.8.06.2010.jpg)
 
-**Do i get more and more blue screens?**
+# Do i get more and more blue screens?**
 
 YES, the first 5 months none, (installed Windows 7 in november 2009), now i get some…2 per months, maybe it’s time to reinstall the whole operating system 🙂
 
-**Would I still recommend Windows 7 64 bits?**
+# Would I still recommend Windows 7 64 bits?**
 
 Yes still, if you want to start #Eclipse with 2GB of RAM, you have no other choice! except switching to #Linux or Mac 🙂

@@ -27,7 +27,7 @@ tags:
 - Software Raid benchmark
 - Hardware Raid benchmark
 
-**I know I have to:**
+# I know I have to:**
 
 - Finish the porting of OpenComment to #Joomla 1.5, and use AJAX where it make sense: comments rating, comments filtering ….etc…
 - Do some support, mainly closing bugs in the tracker…

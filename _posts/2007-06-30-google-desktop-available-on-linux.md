@@ -12,7 +12,7 @@ tags:
     - software
 ---
 
-**![](/assets/images/2007/06/google.desktop.search.for_.linux_.jpg)**
+# ![](/assets/images/2007/06/google.desktop.search.for_.linux_.jpg)**
 
  **Google was set to launch late on Wednesday a beta version of Google Desktop search for #Linux in a sign of encouragement by the search giant for #Linux on the desktop.**
 

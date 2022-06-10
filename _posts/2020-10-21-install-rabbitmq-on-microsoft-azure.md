@@ -8,7 +8,8 @@ guid: 'https://www.waltercedric.com/?p=13736'
 permalink: /development/install-rabbitmq-on-microsoft-azure/
 ngg_post_thumbnail:
     - '0'
-image: /wp-content/uploads/2020/10/rabbitMQ.jpg
+header:
+    teaser: "/wp-content/uploads/2020/10/rabbitMQ.jpg"
 tags:
     - azure
     - cloud

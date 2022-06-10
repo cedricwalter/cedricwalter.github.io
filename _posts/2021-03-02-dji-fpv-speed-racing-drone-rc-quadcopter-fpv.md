@@ -8,7 +8,8 @@ guid: 'https://www.waltercedric.com/?p=13828'
 permalink: /hobbies/dji-fpv-speed-racing-drone-rc-quadcopter-fpv/
 ngg_post_thumbnail:
     - '0'
-image: /wp-content/uploads/2021/02/DJI-FPV-Racing-Drone-RC-Quadcopter-FPV-3.png
+header:
+    teaser: "/assets/images/2021/02/DJI-FPV-Racing-Drone-RC-Quadcopter-FPV-3.png"
 tags:
     - dji
     - drone

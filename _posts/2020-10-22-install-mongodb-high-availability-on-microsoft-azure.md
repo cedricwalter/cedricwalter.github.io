@@ -8,7 +8,8 @@ guid: 'https://www.waltercedric.com/?p=13741'
 permalink: /development/install-mongodb-high-availability-on-microsoft-azure/
 ngg_post_thumbnail:
     - '0'
-image: /wp-content/uploads/2020/10/mongodb.png
+header:
+  teaser: "/wp-content/uploads/2020/10/mongodb.png"
 tags:
     - azure
     - database

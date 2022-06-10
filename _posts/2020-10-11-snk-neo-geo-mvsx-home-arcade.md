@@ -8,7 +8,8 @@ guid: 'https://www.waltercedric.com/?p=13710'
 permalink: /games/snk-neo-geo-mvsx-home-arcade/
 ngg_post_thumbnail:
     - '0'
-image: /wp-content/uploads/2020/10/snk-neogeo-mvsx.jpg
+header:
+  teaser: "/wp-content/uploads/2020/10/snk-neogeo-mvsx.jpg"
 tags:
     - arcade
     - mvs

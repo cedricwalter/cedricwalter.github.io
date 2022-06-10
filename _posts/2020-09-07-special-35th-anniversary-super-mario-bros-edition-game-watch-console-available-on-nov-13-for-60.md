@@ -8,7 +8,8 @@ guid: 'https://www.waltercedric.com/?p=13653'
 permalink: /gadget/special-35th-anniversary-super-mario-bros-edition-game-watch-console-available-on-nov-13-for-60/
 ngg_post_thumbnail:
     - '0'
-image: /wp-content/uploads/2020/09/super-mario-35th-anniversary-game-and-watch-e1610896625125.png
+header:
+    teaser: "/assets/images/2020/09/super-mario-35th-anniversary-game-and-watch-e1610896625125.png"
 tags:
     - 'game&amp;watch'
     - games

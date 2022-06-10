@@ -8,7 +8,8 @@ guid: 'https://www.waltercedric.com/?p=13663'
 permalink: /development/m-clippy-won-migros-category-prize-in-european-biggest-hackathon-hack-zurich-2020/
 ngg_post_thumbnail:
     - '0'
-image: /wp-content/uploads/2020/09/DSC_1549.jpg
+header:
+    teaser: "/assets/images/2020/09/DSC_1549.jpg"
 tags:
     - dotNet
     - hackathon

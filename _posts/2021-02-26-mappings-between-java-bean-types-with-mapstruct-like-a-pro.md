@@ -8,7 +8,8 @@ guid: 'https://www.waltercedric.com/?p=13837'
 permalink: /java/mappings-between-java-bean-types-with-mapstruct-like-a-pro/
 ngg_post_thumbnail:
     - '0'
-image: /wp-content/uploads/2021/02/mapstruct-logo.png
+header:
+    teaser: "/wp-content/uploads/2021/02/mapstruct-logo.png"
 tags:
     - bean
     - mapping

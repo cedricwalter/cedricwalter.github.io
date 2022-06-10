@@ -8,7 +8,8 @@ guid: 'https://www.waltercedric.com/?p=13795'
 permalink: /java/embedded-mongodb-provide-a-platform-neutral-way-for-running-mongodb-in-java-unittests/
 ngg_post_thumbnail:
     - '0'
-image: /wp-content/uploads/2020/10/mongodb.png
+header:
+    teaser: "/wp-content/uploads/2020/10/mongodb.png"
 tags:
     - HowTo
     - java

@@ -1,0 +1,19 @@
+---
+id: 88
+title: 'Quest for the missing screws'
+date: '2004-08-26T21:42:15+02:00'
+author: 'Cédric Walter'
+
+guid: 'https://waltercedric.com/new/?p=88'
+permalink: /hobbies/quest-for-the-missing-screws/
+image: /wp-content/uploads/2004/08/missingScrew1.jpg
+tags:
+    - kyosho
+    - 'RC helicopter'
+---
+
+# missingscrew"><font color="#000000" size="4">  
+
+
+| ![](/assets/images/2004/08/missingScrew1.jpg).. ![](/assets/images/2004/08/missingScrew2.jpg).. ![](/assets/images/2004/08/missingScrew3.jpg) | ![](/assets/images/2004/08/updated.gif) In Red, existing screw in ARF Kit    In blue, missing screws. Hole is prepared for them but empty   **Do not forget to replace with the same “set screw”     to avoid unbalanced tail rotor!** |
+|:-:|---|

@@ -1,0 +1,26 @@
+---
+id: 11818
+title: 'Berlin Altes Museum'
+date: '2020-03-31T12:48:20+02:00'
+author: 'Cédric Walter'
+
+guid: 'https://waltercedric.com/?p=11818'
+permalink: /holidays/berlin-altes-museum/
+ngg_post_thumbnail:
+    - '0'
+image: /wp-content/uploads/2020/03/berlin-Altes-Museum-2.jpg
+tags:
+    - berlin
+    - germany
+    - holidays
+    - travel
+---
+
+ The Altes Museum is a museum building on Museum Island in Berlin, Germany. Since restoration work in 2010–11, it houses the Antikensammlung of the Berlin State Museums.
+
+ It is located between Neues Museum and Berlin Cathedral Address: Bodestraße 1-3, 10178 Berlin, Germany
+
+- [![](/assets/images/2020/03/berlin-Altes-Museum-1.jpg)](/assets/images/2020/03/berlin-Altes-Museum-1.jpg)
+- [![](/assets/images/2020/03/berlin-Altes-Museum-2.jpg)](/assets/images/2020/03/berlin-Altes-Museum-2.jpg)
+- [![](/assets/images/2020/03/berlin-Altes-Museum-3.jpg)](/assets/images/2020/03/berlin-Altes-Museum-3.jpg)
+

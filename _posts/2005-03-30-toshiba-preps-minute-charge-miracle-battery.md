@@ -1,0 +1,17 @@
+---
+id: 1659
+title: 'Toshiba preps minute-charge &#8216;miracle&#8217; battery'
+date: '2005-03-30T19:34:12+02:00'
+author: 'Cédric Walter'
+
+guid: 'https://waltercedric.com/new/?p=1659'
+permalink: /hobbies/toshiba-preps-minute-charge-miracle-battery/
+image: /wp-content/uploads/2005/03/tosh_cell.jpg
+tags:
+    - 'RC helicopter'
+---
+
+| ![](/assets/images/2005/03/tosh_cell.jpg) | *Toshiba has developed a Lithium-Ion battery capable of being charged to 80 per cent of its full capacity in under 60 seconds. Filling it up takes just "a few more minutes", the company boasted today. That’s considerably faster than today’s Li-ion rechargeables which can take 1-4 hours to reach 80 per cent capacity, and even longer to fill completely.* [more here](http://www.theregister.co.uk/2005/03/29/toshiba_li-ion_battery/) |
+|---|---|
+
+[](http://www.theregister.co.uk/2005/03/29/toshiba_li-ion_battery/)

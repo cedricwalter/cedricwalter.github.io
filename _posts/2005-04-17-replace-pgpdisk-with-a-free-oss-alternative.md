@@ -1,0 +1,29 @@
+---
+id: 1690
+title: 'Replace PGPdisk with a free OSS alternative'
+date: '2005-04-17T17:35:27+02:00'
+author: 'Cédric Walter'
+
+guid: 'https://waltercedric.com/new/?p=1690'
+permalink: /open-source/replace-pgpdisk-with-a-free-oss-alternative/
+tags:
+    - algorithms
+    - development
+    - encrypted
+    - encryption
+---
+
+<font face="Verdana">**[TrueCrypt](http://truecrypt.sourceforge.net/): a Free open-source disk encryption for Windows XP/2000/2003**  
+<font face="Verdana">**Main Features:**
+
+- <font face="Verdana">**It can create a virtual encrypted disk within a file and mount it as a real disk.**  
+    
+- **<font face="Verdana">It can encrypt an entire hard disk partition or a device, such as USB memory stick, floppy disk, etc.**<font face="Verdana">  
+    
+- Provides two levels of **plausible deniability**, in case an adversary forces you to reveal the password:  
+    1) **Hidden volume**   
+    2) No TrueCrypt volume can be identified (TrueCrypt volumes cannot be distinguished from random data).
+- Encryption algorithms: AES-256, Blowfish (448-bit key), CAST5, Serpent (256-bit key), Triple DES, and Twofish (256-bit key). Supports cascading (e.g., AES-Twofish-Serpent).
+- Based on Encryption for the Masses (E4M) 2.02a, which was conceived in 1997.
+
+A linux client is in development….

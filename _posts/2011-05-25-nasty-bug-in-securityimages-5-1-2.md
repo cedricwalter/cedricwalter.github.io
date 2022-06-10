@@ -28,7 +28,7 @@ In order to resolve this issue, you don’t have to install any new version of S
 
 **OR**
 
-- Edit the file components\\com\_user\\controller.php and remove the line 274 ($this-&gt;register())
+- Edit the file components\\com\_user\\controller.php and remove the line 274 ($this->register())
 
 ```
 if ($useSecurityImagesInRegister && !$this->checkSecurityImagesCaptcha()) {   JError::raiseWarning('', JText::_('SECURITYIMAGES REJECT USER ENTRY'));     <strike>$this->register();</strike>   return false; }

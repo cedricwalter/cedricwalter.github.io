@@ -44,7 +44,7 @@ A huge portion of that page was first published in raw HTML in 1998! (without CS
 > 
 > Now, with this program, all the available memory can be used (even the port 2-3-4-5) instead of the 128kb based-ram memory…Another example :
 > 
-> By the past, to edit a 20kb rpl-program, you need 3 times the memory to edit the files, and after pressing the Edit key, you wait 3 minutes, now, you wait at worst 10 seconds !!! (all the -&gt;STR functions were rewritten) …
+> By the past, to edit a 20kb rpl-program, you need 3 times the memory to edit the files, and after pressing the Edit key, you wait 3 minutes, now, you wait at worst 10 seconds !!! (all the ->STR functions were rewritten) …
 > 
 > The memory manager was also rewritten , to edit a text file , you just need twice the text size of the memory ! Forget the Insufficient-Memory message, if your program is just on the stack , it”s always possible to edit it ! .
 > 
@@ -124,8 +124,8 @@ Program to convert the startext file under Windows 95 into Ascii format and back
 
 - [**TermHp** by Jean Yves Avenard. (1.2Ko)](http://www.epita.fr:8000/%7Eavenar_j/hp/product/termhp.html) TermHP is a terminal emulator for your HP48GX. TermHP is very small (1.2kb), and may be the only terminal for your HP48, which won’t lose  
     any characters. Full-Duplex, you can type and receive characters at the same time.
-- [**Tools** (1Ko)](/assets/images/2004/09/tools2conv.zip) 4 tools to switch between the different format: Grob&lt;-&gt;font,external &lt;-&gt;liste.included with the package.
-- [**Mkutils** (7 Ko)](MetaKernel/progs/mkutil.lib) Man utils : flags, bzk, grob-&gt;font and much more.
+- [**Tools** (1Ko)](/assets/images/2004/09/tools2conv.zip) 4 tools to switch between the different format: Grob<->font,external <->liste.included with the package.
+- [**Mkutils** (7 Ko)](MetaKernel/progs/mkutil.lib) Man utils : flags, bzk, grob->font and much more.
 - [**Gker** (2Ko)](MetaKernel/progs/GKER.LIB) Improve stack viewing with grey grob. included with the package.
 - [**Kerutils** (3Ko)](MetaKernel/progs/mkf20.lib) Many good utils written in asm.
 - [**MkFlags32** (3Ko)](MetaKernel/progs/mkflg32.lib) by Stephen JANNIN Manage hp48 flags and MDGker easily.HomePage: [http://wwwperso.hol.fr/~janninst/](http://wwwperso.hol.fr/%7Ejanninst/)

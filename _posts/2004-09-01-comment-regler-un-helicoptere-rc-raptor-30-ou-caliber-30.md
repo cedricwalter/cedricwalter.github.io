@@ -41,7 +41,7 @@ L’auteur ne pourra en aucun cas Ãªtre tenu responsable de tout accidents ou 
 
 - Monter les servos dans leurs emplacements sans jamais trop serrer les caoutchoucs car sinon ils n’amortiront pas les vibrations.
 - Privilégier un servo puissant (au moins 5kg voire plus) pour le collectif (Voie 6) si vous souhaiter chahuter votre hélico.
-- Privilégier un servo rapide pour la commande d’anticouple (au moins &lt; 0.11s) si vous souhaiter monter un bon gyroscope heading lock (csm 540, gy501 par ex). Mais associer le tout avec une commande d’anticouple en carbone, seul rigide et garante de n’avoir aucun jeu. Si vous avez un de ces 3 composants qui manquent, rien ne sers d’acheter seulement un bon servo, ou seulement un gyro. Vous etes Debutant ? ne le faites pas car c’est un investissement lourd et vous avez, c’est triste a dire mais plus de 70% de malchance d’abandonner ce hobby (pour raison d’argent ou de decouragement) avant 6 mois.
+- Privilégier un servo rapide pour la commande d’anticouple (au moins < 0.11s) si vous souhaiter monter un bon gyroscope heading lock (csm 540, gy501 par ex). Mais associer le tout avec une commande d’anticouple en carbone, seul rigide et garante de n’avoir aucun jeu. Si vous avez un de ces 3 composants qui manquent, rien ne sers d’acheter seulement un bon servo, ou seulement un gyro. Vous etes Debutant ? ne le faites pas car c’est un investissement lourd et vous avez, c’est triste a dire mais plus de 70% de malchance d’abandonner ce hobby (pour raison d’argent ou de decouragement) avant 6 mois.
 - Pour un hélico CCPM 120Â°, n’utiliser que 3 servos identiques, de màªme marque et référence. On peut s’accomoder de trois servo de moyenne gamme étant donné que le pas ou pitch est le résultat conjugués du mouvement des 3 servos (puissant)
 
 ## **1.2 Assignations des voies sur le recepteur futaba:**
@@ -184,10 +184,10 @@ Je recommande d’utiliser un tachymètre optique ou de se le faire préter. Voi
 **5.3 Calcul de la vitesse idéale du rotor:**
 
 - Regarder ce que préconise le fabriquant pour la vitesse rotor ou demander sur les forums ce que les pilotes expérimentés ont trouvé comme vitesse idéale (fonction du moteur, des pales, du type de vol (hover, translation, 3D, FAI)). Noter cette vitesse en tr/min c’est notre objectif.
-- Pour la retrouver, Si le moteur est idéalement utilisés, par exemple pour un OS32 : il tournera idéalement à 18000 tr/min (1,2HP) il suffit de diviser par le ratio de réduction du train du rotor principale = par ex 9.6 =&gt; 18000 / 9,6 = 1875 =&gt; 1875 tr/min devrait àªtre idéal pour le moteur et à fortiori pour le rotor si le fabricant recommande ce moteur et le taux de réduction de 9.6.
+- Pour la retrouver, Si le moteur est idéalement utilisés, par exemple pour un OS32 : il tournera idéalement à 18000 tr/min (1,2HP) il suffit de diviser par le ratio de réduction du train du rotor principale = par ex 9.6 => 18000 / 9,6 = 1875 => 1875 tr/min devrait àªtre idéal pour le moteur et à fortiori pour le rotor si le fabricant recommande ce moteur et le taux de réduction de 9.6.
 
 **5.4 Conséquences si non respect:**  
-Survitesse du rotor, efficacité réduite, au pire, vous tombez sur une des fréquence propre du rotor qui amplifie les vibrations, destruction des blades (&gt;2200 tr/min), fatigues excessives etc….
+Survitesse du rotor, efficacité réduite, au pire, vous tombez sur une des fréquence propre du rotor qui amplifie les vibrations, destruction des blades (>2200 tr/min), fatigues excessives etc….
 
 **5.5 remarques:**
 
@@ -249,7 +249,7 @@ C’est la vitesse que vous souhaiter pour le stick de gazs a 1/4 de sa course t
 
 **Courbe de gazs en V ?**
 
-C’est tres simple le moteur tourne quasiment tout le temps a fond en iddleup 2 (car on lui met +-9Â° de charge en 3D) mais lorsque le pas est proche de -3Â° 0Â° 3Â° le rotor risque de rentrer en survitesse alors on reduit donc les gazs -&gt; courbe de gazs en V
+C’est tres simple le moteur tourne quasiment tout le temps a fond en iddleup 2 (car on lui met +-9Â° de charge en 3D) mais lorsque le pas est proche de -3Â° 0Â° 3Â° le rotor risque de rentrer en survitesse alors on reduit donc les gazs -> courbe de gazs en V
 
 **10. Finir le montage**
 

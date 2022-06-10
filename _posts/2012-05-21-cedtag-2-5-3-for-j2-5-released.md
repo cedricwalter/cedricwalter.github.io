@@ -28,7 +28,7 @@ CedTag is the continuation of the GPL component #Joomla Tags ([www.joomlatags.or
 **NEW**: cedTag is now having no warnings/errors in PHP error level E\_STRICT   
 **BUG**: I cant disable [cedTag](http://wiki.waltercedric.com/index.php?title=Taxonomies_and_Tags_support_for_Joomla) on front page when i disable it any thing not change…i want show tags only on full article view…   
 **BUG**: Working update manager: starting at version 2.5.3 you can update with one click in the update manager.   
-**BUG**: Did remove a hack of me for testing -&gt; it was not possible to switch off the add tags button in frontend since i fixcoded to true 🙁   
+**BUG**: Did remove a hack of me for testing -> it was not possible to switch off the add tags button in frontend since i fixcoded to true 🙁   
 **BUG**: Correct issue in editor xtd plugin blocking users to edit/view articles in frontend
 
 #### Code cleaning

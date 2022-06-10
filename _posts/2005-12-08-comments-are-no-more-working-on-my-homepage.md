@@ -23,8 +23,8 @@ which currently is not able to rewrite correctly URL of the component akocomment
 
 **I’ve solved the issue with openSEF by promptly deactivating it** when the user submit a for from akocomment or akobook. All You have to do is siimply edit the file */component/com\_sef/sef.php*
 
-| before   (Line 26) | $sefEnabled = (file\_exists( $sefConfigFile ) &amp;&amp; filesize( $sefConfigFile ) &gt; 0);   if ($sefEnabled &amp;&amp; $\_SERVER\[‘REQUEST\_METHOD’\] == ‘POST’ &amp;&amp; !empty( $\_POST\[‘option’\] ))    $sefEnabled = !($\_POST\[‘option’\] == ‘login’ \|\| $\_POST\[‘option’\] == ‘login’ \|\| $\_POST\[‘option’\] == ‘com\_phpshop’); |
+| before   (Line 26) | $sefEnabled = (file\_exists( $sefConfigFile ) &amp;&amp; filesize( $sefConfigFile ) > 0);   if ($sefEnabled &amp;&amp; $\_SERVER\[‘REQUEST\_METHOD’\] == ‘POST’ &amp;&amp; !empty( $\_POST\[‘option’\] ))    $sefEnabled = !($\_POST\[‘option’\] == ‘login’ \|\| $\_POST\[‘option’\] == ‘login’ \|\| $\_POST\[‘option’\] == ‘com\_phpshop’); |
 |---|---|
-| after | $sefEnabled = (file\_exists( $sefConfigFile ) &amp;&amp; filesize( $sefConfigFile ) &gt; 0);   if ($sefEnabled &amp;&amp; $\_SERVER\[‘REQUEST\_METHOD’\] == ‘POST’ &amp;&amp; !empty( $\_POST\[‘option’\] ))    $sefEnabled = !($\_POST\[‘option’\] == ‘login’ \|\| $\_POST\[‘option’\] == ‘login’ \|\| $\_POST\[‘option’\] == ‘com\_phpshop’) \|\| $\_POST\[‘option’\] == ‘com\_akocomment’ \|\| $\_POST\[‘option’\] == ‘com\_akobook’); |
+| after | $sefEnabled = (file\_exists( $sefConfigFile ) &amp;&amp; filesize( $sefConfigFile ) > 0);   if ($sefEnabled &amp;&amp; $\_SERVER\[‘REQUEST\_METHOD’\] == ‘POST’ &amp;&amp; !empty( $\_POST\[‘option’\] ))    $sefEnabled = !($\_POST\[‘option’\] == ‘login’ \|\| $\_POST\[‘option’\] == ‘login’ \|\| $\_POST\[‘option’\] == ‘com\_phpshop’) \|\| $\_POST\[‘option’\] == ‘com\_akocomment’ \|\| $\_POST\[‘option’\] == ‘com\_akobook’); |
 
 This is of course a hack and not a correct solution, akocomment URL won’t be SEO friendly ! I Will have to inverst more time to write a custom extension for OpenSEF….

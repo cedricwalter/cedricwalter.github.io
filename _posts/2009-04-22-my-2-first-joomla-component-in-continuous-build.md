@@ -26,11 +26,11 @@ image: /wp-content/uploads/2009/04/teamcity.joomla.png
     
     So binding your code to a new version or old version is as simple as changing in your component pom.xml
     
-    &lt;dependency&gt;   
-     &lt;groupId&gt;org.joomla&lt;/groupId&gt;   
-     &lt;artifactId&gt;joomla&lt;/artifactId&gt;   
-     &lt;version&gt;1.5.10&lt;/version&gt;   
-    &lt;/dependency&gt;
+    <dependency>   
+     <groupId>org.joomla</groupId>   
+     <artifactId>joomla</artifactId>   
+     <version>1.5.10</version>   
+    </dependency>
 
 - Test case are automatically started (PHP Unit) by maven surefire.
 - [SolarJoomla](http://www.waltercedric.com/component/tag/solarjoomla.html) has Mylyn (Bugzilla supported and is the reference implementation for Mylyn) running and configured to connect to my JIRA repositories <http://jira.waltercedric.com>

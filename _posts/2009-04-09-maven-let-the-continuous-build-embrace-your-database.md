@@ -41,8 +41,8 @@ The PDF cannot be downloaded, fortunately I‘ve made a backup just in case 2 ye
     - and what .sql revision svn it was
     - so they can only run delta scripts
     - ex: version 1.0 in prod, but bug appear 
-        - -&gt; open a branch
-        - -&gt; automatic run of branch sql scripts also to trunk
+        - -> open a branch
+        - -> automatic run of branch sql scripts also to trunk
     - **Idempotent**
         - but the same script apply twice on different database status do not gibe the same result 
             - so they have to make script idempotent by checking/handling all previous versions
@@ -70,7 +70,7 @@ The PDF cannot be downloaded, fortunately I‘ve made a backup just in case 2 ye
     - multi modules 
         - different classpath (test and main) between eclipse and #maven
         - they use propertes in pom.xml and variable in properties 
-            - -&gt; filter
+            - -> filter
 - done by teslekurs 
     - they have 70 modules
     - netcetera.ch

@@ -19,12 +19,12 @@ Note: Subversive is part of Galileo, but the first time you sync your code, you 
 
 Selected SVN connector library is not available or cannot be loaded.   
 If you selected native #JavaHL connector, please check if binaries are available or install and select pure #Java Subversion connector from the plug-in connectors update site.   
-If connectors already installed then you can change the selected one at: Window-&gt;Preferences-&gt;Team-&gt;SVN-&gt;SVN Client.
+If connectors already installed then you can change the selected one at: Window->Preferences->Team->SVN->SVN Client.
 
 That’s because SVN connectors are not part of Galileo…
 
 - Subversive Update Site is a part of Galileo Update Site.   
-    Look at Help &gt; Install New Software… &gt; select Galileo – http://download.eclipse.org/release/galileo &gt; Collaboration Tools
+    Look at Help > Install New Software… > select Galileo – http://download.eclipse.org/release/galileo > Collaboration Tools
 - And install Subversive
 - Add now the following update site:   
     <http://community.polarion.com/projects/subversive/download/eclipse/2.0/galileo-site/> – \[required\] Subversive SVN Connectors   

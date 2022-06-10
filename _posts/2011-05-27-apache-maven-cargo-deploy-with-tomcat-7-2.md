@@ -33,10 +33,10 @@ Following the post about [Deploy to Tomcat 6 using #Maven](https://waltercedric.
 
 |  | **Tomcat 7** | **Tomcat 6** |
 |---|---|---|
-| containerId | &lt;containerId&gt;tomcat7x&lt;/containerId&gt; | &lt;containerId&gt;tomcat6x&lt;/containerId&gt; |
-| Url of Tomcat manager | &lt;cargo.remote.uri&gt; | &lt;cargo.tomcat.manager.url&gt; |
+| containerId | <containerId>tomcat7x</containerId> | <containerId>tomcat6x</containerId> |
+| Url of Tomcat manager | <cargo.remote.uri> | <cargo.tomcat.manager.url> |
 | example | http://host..com/manager/text/ | http://host..com/manager/ |
-| tomcat-users.xml | &lt;tomcat-users&gt;    &lt;role rolename=”manager-gui”/&gt;    &lt;role rolename=”manager-script”/&gt;    &lt;role rolename=”manager-jmx”/&gt;    &lt;role rolename=”manager-status”/&gt;    &lt;user username=”admin” password=”admin” roles=”manager-gui,manager-script”/&gt;    &lt;/tomcat-users&gt; | &lt;tomcat-users&gt;     &lt;role rolename=”manager”/&gt;     &lt;user username=”admin” password=”admin” roles=”manager”/&gt;    &lt;/tomcat-users&gt; |
+| tomcat-users.xml | <tomcat-users>    <role rolename=”manager-gui”/>    <role rolename=”manager-script”/>    <role rolename=”manager-jmx”/>    <role rolename=”manager-status”/>    <user username=”admin” password=”admin” roles=”manager-gui,manager-script”/>    </tomcat-users> | <tomcat-users>     <role rolename=”manager”/>     <user username=”admin” password=”admin” roles=”manager”/>    </tomcat-users> |
 
 And finally a snippet of an Apache #Maven pom.xml ready to use in a profile, so you can reuse this profile like a method call
 

@@ -28,7 +28,7 @@ if abcde is the password….
 - d=b/2
 - e+d=a+c
 - a+b+c+d+e=26
-- b&gt;e
+- b>e
 
 Valid solutions are
 

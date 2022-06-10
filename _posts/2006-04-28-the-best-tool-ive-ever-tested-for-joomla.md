@@ -18,7 +18,7 @@ Blogg-X is a fat java application running under windows or macintosh, that can c
 
 It provide a WYSIWYG editor but no check spell (that the only negative I can say about it). All You have to do is to install a Mambot. There is currently no working #Linux installation, But I will provide one and send it to the author in a few hours 🙂
 
-*![](/assets/images/2006/04/bloggx_65.png)&gt; Blogg-X is a cross platform (Windows XP SP2, Apple OSX 10.4.3 and #Linux) content management utility for web sites based on the #Joomla! Open Source Content Management System (CMS). Blogg-X is written in #Java, this provides Blogg-X the ability to work with a variety of systems that have #Java runtimes available and installed. Blogg-X eliminates the need to log into your #Joomla! site via an internet browser. Once Blogg-X is configured your site settings are remembered and posts can quickly be posted, modified and deleted all without using the #Joomla! interface.*
+*![](/assets/images/2006/04/bloggx_65.png)> Blogg-X is a cross platform (Windows XP SP2, Apple OSX 10.4.3 and #Linux) content management utility for web sites based on the #Joomla! Open Source Content Management System (CMS). Blogg-X is written in #Java, this provides Blogg-X the ability to work with a variety of systems that have #Java runtimes available and installed. Blogg-X eliminates the need to log into your #Joomla! site via an internet browser. Once Blogg-X is configured your site settings are remembered and posts can quickly be posted, modified and deleted all without using the #Joomla! interface.*
 
 Since #Java is my prefered language since 7 years, I may even submit patch to the project…  
 Please donate to the project if You appreciate the hard work of **Chris Campbell**

@@ -35,4 +35,4 @@ Export all your email for archiving on disk with [Windows Live Mail Desktop](htt
 Get multiple e-mail accounts in one program – Hotmail, Gmail, Yahoo!\* and more. And now Windows Live Mail has a calendar, too. Mail combines the ease of use of Outlook Express, with the speed of Windows Live.
 
 Outlook won’t let you connect officially, you need to pay! but [Windows Live Mail Desktop](http://download.live.com/wlmail) allow you to connect to your free Hotmail accounts, and drag mail into IMAP mail accounts as well as "Local Folders".   
-it stores local copies of your mails in a folder (which you can configure using Tools -&gt; Advanced Options), so you’ll end up with many directories containing \*.eml files. Perfect for archiving your old emails.
+it stores local copies of your mails in a folder (which you can configure using Tools -> Advanced Options), so you’ll end up with many directories containing \*.eml files. Perfect for archiving your old emails.

@@ -33,12 +33,12 @@ All the keywords of the current Article are searched against all the keywords of
 
 Is a famous PHP library for manipulating images. WideImage is a lot better than TimThumb for that job,.
 
-<div class="attention"><div class="typo-icon">Note that #Joomla 2.5 though **JImage support images manipulations**, this new extension will let you the choice to use JImage or WideImage. It support both!<div class="alert"><div class="typo-icon">Attention **JImage** do not support manipulation of remote file. If your articles, in introtext or fulltext, have images not located on your #Joomla host, it will be better to use WideImage.\* -&gt; Security Fix   
-\# -&gt; Bug Fix   
-\+ -&gt; Addition   
-^ -&gt; Change   
-– -&gt; Removed   
-! –&gt; Note
+<div class="attention"><div class="typo-icon">Note that #Joomla 2.5 though **JImage support images manipulations**, this new extension will let you the choice to use JImage or WideImage. It support both!<div class="alert"><div class="typo-icon">Attention **JImage** do not support manipulation of remote file. If your articles, in introtext or fulltext, have images not located on your #Joomla host, it will be better to use WideImage.\* -> Security Fix   
+\# -> Bug Fix   
+\+ -> Addition   
+^ -> Change   
+– -> Removed   
+! –> Note
 
 – Remove support for TimThumb,   
 \+ Support for #Joomla 2.5 JImage class.   

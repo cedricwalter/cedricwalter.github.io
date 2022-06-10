@@ -17,7 +17,7 @@ I have just committed the latest code **Hashcash 1.0** and 3rd party components 
 
 - Created a new administrator component for security images (GNU/GPL release). <font color="#ff0000" style="BACKGROUND-COLOR: #ffff00">com\_securityimages, done and tested
 - Modified successfuly AkoComment and AkoBook, done and tested
-- Create an admin panel-&gt; not tested. It is really a pain to create stunning admin backend panel….
+- Create an admin panel-> not tested. It is really a pain to create stunning admin backend panel….
 
 I will soon publish this code to mamboforge, maybe in a new project. Only problem, by designing Mambo framework components, I still have a strong dependencies tree:
 

@@ -36,12 +36,12 @@ Ex: Rémy informaticien eut aider son ami novice, Régis qui à des problèmes s
 | [http://www.tightvnc.com/download.html](http://www.tightvnc.com/download.html)par exemple: (le numéro de version importe peu)  Windows tightvnc-1.2.9-setup.exe | Télecharger Tight VNC serveur |
 |---|---|
 | ![](/assets/images/2005/04/tightvnc_install.jpg) | Double clicker sur l’icone pour lancer l’installation |
-| ![](/assets/images/2005/04/tightvnc_installstarting.jpg) | Une fenêtre apparait, appuyer simplement sur suivant (bouton Next &gt; ) |
-| ![](/assets/images/2005/04/tightvnc_licence.jpg) | Lire la licence et l’accepter en cliquant sur suivant (bouton Next &gt; ) |
-| ![](/assets/images/2005/04/tightvnc_installlocation.jpg) | Choisir le répertoire de destination du logiciel que vous êtes en train d’installer.   Le répertoire par défaut convient très bien. Veuiller simplement cliquer sur suivant (bouton Next &gt; ) |
+| ![](/assets/images/2005/04/tightvnc_installstarting.jpg) | Une fenêtre apparait, appuyer simplement sur suivant (bouton Next > ) |
+| ![](/assets/images/2005/04/tightvnc_licence.jpg) | Lire la licence et l’accepter en cliquant sur suivant (bouton Next > ) |
+| ![](/assets/images/2005/04/tightvnc_installlocation.jpg) | Choisir le répertoire de destination du logiciel que vous êtes en train d’installer.   Le répertoire par défaut convient très bien. Veuiller simplement cliquer sur suivant (bouton Next > ) |
 | ![](/assets/images/2005/04/tightvnc_choosingComponents.jpg) | Vous pouvez sélectionner tous les composants (si vous voulez accéder à des machines distantes) ou juste la partie    serveur (comme sur l’image à gauche ) si vous voulez être aider. |
-| ![](/assets/images/2005/04/tightvnc_next.jpg) | Valider ssimplement sur ce masque en cliquant sur suivant (bouton Next &gt; ) |
-| ![](/assets/images/2005/04/tightvnc_register.jpg) | Les deux doivent être selectionner avant de cliquer sur suivant (bouton Next &gt; ) |
+| ![](/assets/images/2005/04/tightvnc_next.jpg) | Valider ssimplement sur ce masque en cliquant sur suivant (bouton Next > ) |
+| ![](/assets/images/2005/04/tightvnc_register.jpg) | Les deux doivent être selectionner avant de cliquer sur suivant (bouton Next > ) |
 | ![](/assets/images/2005/04/tightvnc_completinginstall.jpg) | Confirmer tous les choix précédents et laisser l’installation se terminer… |
 | ![](/assets/images/2005/04/tightvnc_afterinstall.jpg) | attendez jusque cette fenêtre apparaisse… |
 | ![](/assets/images/2005/04/tightvnc_choosingpassword.jpg) | **Point 1A**Il s’agit maintenant de définir un password que seule **vous** et **votre collègue** connaitra. Une phrase est une bonne idée de départ.   Pensez à mélanger des chiffres et des caractères. Il faut entrer ce password deux fois aux 2 elipses comme sur l’image de gauche.  Une fois choisi il faut noter ce password et le donner à votre ami de confiance qui va vous aider. |

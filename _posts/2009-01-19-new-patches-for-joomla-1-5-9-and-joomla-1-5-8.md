@@ -12,7 +12,7 @@ image: /wp-content/uploads/2009/01/smallbox_securityimages_thumb.jpg
 [![smallbox_securityimages](/assets/images/2009/01/smallbox_securityimages_thumb.jpg)](/assets/images/2020/02/smallbox_securityimages.jpg) Some people have reported issue [in the forum](http://forums.waltercedric.com)
 
 I’ve found the error in my code in some views but not all:   
- img src=”&lt;?php echo JURI :: root() ?&gt;**/**index.php?   
+ img src=”<?php echo JURI :: root() ?>**/**index.php?   
 as a result, there is in image URL a double / which cause issues on some web host (no image displayed)
 
 I now provide a new patches versions for #Joomla! 1.5.8 and 1.5.9 that can be downloaded:

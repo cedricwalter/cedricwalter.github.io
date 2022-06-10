@@ -38,7 +38,7 @@ In a multi modules project where you have write API or common code for unit test
 The solution is to create additional test jar for each module, this is done by putting in the   
 parent pom (lets call it parent-pom.xml)
 
-inside the &lt;build&gt;&lt;/build&gt; tags the following:
+inside the <build></build> tags the following:
 
 ```
 <plugin>

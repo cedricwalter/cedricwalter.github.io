@@ -18,9 +18,9 @@ tags:
 - AJAX code is not running in the #Joomla sessions! so I have to re implement some low level operations like accessing the database (while already done in #Joomla)<span style="color: rgb(0, 102, 0); font-weight: bold;">
 - <span style="color: rgb(0, 102, 0); font-weight: bold;">Who protect comment against replaying rating up attack? I will introduce a <span style="font-weight: bold;">public key per article which has to be submitted to the server, and a <span style="font-weight: bold;">private key store in the session, which will be destruct after the first operation.
 - <span style="font-weight: bold; color: rgb(0, 102, 0);">How to make sure that the asynchronous operation on a comment is originated from a submitted page of my server?  
-    -&gt; I will introduce a <span style="font-weight: bold;">server challenges keys: a cryptographic fields which is highly depending of the following: server name, URL, time, and random part. This ticket will also have a time stamp in it, if you wait more than, lets say 20 minutes, you won’t be able to rate or operate on comment. This is similar with com\_hashcash, so nothing really new to me.
+    -> I will introduce a <span style="font-weight: bold;">server challenges keys: a cryptographic fields which is highly depending of the following: server name, URL, time, and random part. This ticket will also have a time stamp in it, if you wait more than, lets say 20 minutes, you won’t be able to rate or operate on comment. This is similar with com\_hashcash, so nothing really new to me.
 - <span style="font-weight: bold; color: rgb(0, 102, 0);">Avoid that a rating up operation for a comment A get hacked by injecting new parameters for comment B?  
-    -&gt; Comments will be identified by their UUID (and not a simple ID like in akocomment)  
-    -&gt; Users would have to know it to make an attack on multiple joomla site at the same time.
+    -> Comments will be identified by their UUID (and not a simple ID like in akocomment)  
+    -> Users would have to know it to make an attack on multiple joomla site at the same time.
 
  If You see something else or know a similar code or algorithm in the open source world, contact me or post your remarks below.

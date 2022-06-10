@@ -12,7 +12,7 @@ tags:
 
 [![Valid HTML 4.01 Frameset](http://www.w3.org/Icons/valid-html401)](http://validator.w3.org/check?uri=referer) [![opera](/assets/images/2009/06/opera_thumb.gif "opera")](/assets/images/2009/06/opera.gif) [![safari](/assets/images/2009/06/safari_thumb.gif "safari")](/assets/images/2009/06/safari.gif) [![chrome](/assets/images/2009/06/chrome_thumb.gif "chrome")](/assets/images/2009/06/chrome.gif) [![firefox](/assets/images/2009/06/firefox_thumb.gif "firefox")](/assets/images/2009/06/firefox.gif) [![ie](/assets/images/2009/06/ie_thumb.gif "ie")](/assets/images/2009/06/ie.gif)
 
-I did learn a lot today while trying to validating my new sub domain: [http://websitesasgraphs.waltercedric.com/](http://websitesasgraphs.waltercedric.com/ "Display web page as 2D graphs") I found a huge number of examples using the tag &lt;applet&gt; which has been deprecated and create errors and warning in W3C validation engine. But no example using the the new HTML &lt;object&gt; tag. Hence I decide to publish this small post.
+I did learn a lot today while trying to validating my new sub domain: [http://websitesasgraphs.waltercedric.com/](http://websitesasgraphs.waltercedric.com/ "Display web page as 2D graphs") I found a huge number of examples using the tag <applet> which has been deprecated and create errors and warning in W3C validation engine. But no example using the the new HTML <object> tag. Hence I decide to publish this small post.
 
 The following page are now XHTM 1.0
 
@@ -33,7 +33,7 @@ The source code websiteasgraph.v01.00.00.zip has been changed and is available h
 
 ### References
 
-- HTML tag &lt;object&gt; <http://www.w3.org/TR/REC-html40/struct/objects.html#edef-OBJECT>
+- HTML tag <object> <http://www.w3.org/TR/REC-html40/struct/objects.html#edef-OBJECT>
 - [http://www.w3schools.com/tags/tag\_doctype.asp](http://www.w3schools.com/tags/tag_doctype.asp)
 - Character encoding [Character sets &amp; encodings in XHTML, HTML and CSS](<Character sets & encodings in XHTML, HTML and CSS>)
 - Insert Flash <http://www.alistapart.com/articles/flashsatay>

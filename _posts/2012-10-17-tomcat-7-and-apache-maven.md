@@ -75,7 +75,7 @@ With the following examples, you will be able to start an instance of Tomcat 7 r
 
 # Using Maven Ant Plugin
 
-[Maven Ant plugin](http://maven.apache.org/plugins/maven-antrun-plugin/) provides the ability to run Ant tasks from within Maven. You can even embed your Ant scripts in the POM! It is *not* the intention of this plugin to provide a means of polluting the POM, so it’s encouraged to move all your Ant tasks to a build.xml file and just call it from the POM using Ant’s &lt;ant/&gt; task. One of the main purposes of this plugin is to facilitate the migration from Ant based projects to Maven. Some projects may not currently be able to migrate because they depend on custom build functionality that Maven doesn’t provide by default.
+[Maven Ant plugin](http://maven.apache.org/plugins/maven-antrun-plugin/) provides the ability to run Ant tasks from within Maven. You can even embed your Ant scripts in the POM! It is *not* the intention of this plugin to provide a means of polluting the POM, so it’s encouraged to move all your Ant tasks to a build.xml file and just call it from the POM using Ant’s <ant/> task. One of the main purposes of this plugin is to facilitate the migration from Ant based projects to Maven. Some projects may not currently be able to migrate because they depend on custom build functionality that Maven doesn’t provide by default.
 
 Thank to Ant exec task you are able to start any process like ${CATALINA\_HOME}\\bin\\startup.bat
 

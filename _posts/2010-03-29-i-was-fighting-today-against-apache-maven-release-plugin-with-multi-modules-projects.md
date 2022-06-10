@@ -47,7 +47,7 @@ release:clean release:prepare release:perform -Dusername=xxxxxxx -Dpassword=yyyy
 
 ### Latest SVN client is recommended
 
-You need the latest [SVN](http://subversion.tigris.org/) command line client on all [TeamCity](http://www.jetbrains.com/teamcity/) agent, or at least not any [SVN](http://subversion.tigris.org/) command line client &gt; 1.5.x which don’t work (but 1.5.0 would have). We were using 1.5.1 of course on all our server (Murphy’s laws)
+You need the latest [SVN](http://subversion.tigris.org/) command line client on all [TeamCity](http://www.jetbrains.com/teamcity/) agent, or at least not any [SVN](http://subversion.tigris.org/) command line client > 1.5.x which don’t work (but 1.5.0 would have). We were using 1.5.1 of course on all our server (Murphy’s laws)
 
 Use at least a [Subversion SVN](http://subversion.tigris.org/) client (1.6.6 as for today).
 
@@ -122,13 +122,13 @@ at least once and accepting permanently the certificate (break the command after
 
 ### Maven 2.2.1 wrongly calculate SCM commit URL
 
-You can not use in &lt;scm&gt; tag this kind of URL’s https://user:passwd@svn.xxxxxxx.com like in the example below:
+You can not use in <scm> tag this kind of URL’s https://user:passwd@svn.xxxxxxx.com like in the example below:
 
-> &lt;scm&gt;   
-> &lt;connection&gt;scm:svn:https://username:password@svn.xxxxx.com/svn/yyyyy/skye/trunk/**skye**&lt;/connection&gt;   
-> &lt;developerConnection&gt;scm:svn:https://username:password@svn.xxxx.com/svn/yyyyy/skye/trunk/**skye**&lt;/developerConnection&gt;   
-> &lt;url&gt;scm:svn:https://username:password@svn.xxxx.com/svn/yyyyy/skye/trunk/**skye**&lt;/url&gt;   
-> &lt;/scm&gt;
+> <scm>   
+> <connection>scm:svn:https://username:password@svn.xxxxx.com/svn/yyyyy/skye/trunk/**skye**</connection>   
+> <developerConnection>scm:svn:https://username:password@svn.xxxx.com/svn/yyyyy/skye/trunk/**skye**</developerConnection>   
+> <url>scm:svn:https://username:password@svn.xxxx.com/svn/yyyyy/skye/trunk/**skye**</url>   
+> </scm>
 
 Even if the documentation state otherwise, as the [maven-release-plugin](http://maven.apache.org/plugins/maven-release-plugin/) go “crazy” by concatenating wrongly the tagging URL.
 
@@ -155,7 +155,7 @@ I found a workaround by adding environment variables in the TeamCity build in th
 
 > [SCM](http://maven.apache.org/pom.html#SCM) (Software Configuration Management, also called Source Code/Control Management or, succinctly, version control) is an integral part of any healthy project. If your Maven project uses an SCM system (it does, doesn’t it?) then here is where you would place that information into the POM.
 
-A lot of example are floating around in internet about &lt;scm&gt; values that look like this:
+A lot of example are floating around in internet about <scm> values that look like this:
 
 ```
 <scm> 

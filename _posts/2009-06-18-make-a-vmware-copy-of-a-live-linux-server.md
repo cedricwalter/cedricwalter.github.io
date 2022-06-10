@@ -108,7 +108,7 @@ That should allow Converter to work. And you can revert this all very easily by 
 
 ## Solution 3: cloning with VMware vCenter Converter (awful workaround raid)
 
-Another solution would be to break the Software RAID mirroring, just temporary to make a snapshot, but that would also require me to boot the server –&gt; not acceptable for me!
+Another solution would be to break the Software RAID mirroring, just temporary to make a snapshot, but that would also require me to boot the server –> not acceptable for me!
 
 ## Solution 4 cloning with clonesys
 

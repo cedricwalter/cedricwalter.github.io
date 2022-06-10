@@ -49,7 +49,7 @@ Copy Your webserver root to: EasyPHP1-7www
 | ![](/assets/images/2005/01/phpMyAdmin.jpg) | Start a browser and go to <http://127.0.0.1/mysql/> |
 |---|---|
 | ![](/assets/images/2005/01/phpMyAdmin-1.jpg)    ![](/assets/images/2005/01/phpMyAdmin-2.jpg) | Restore the Data in your new database by importing the SQL file. - Bloc by bloc (see picture) or - By importing the SQL zip file         (not working for me as the browser is doing timeout         since my Databse is quite big) |
-| ![](/assets/images/2005/01/easyPHP-4.jpg) | If the restore is successful, create a user, as found in the configuration file of Mambo. Create a User - Of the same name and password, or - Create a new user (better because of security concerns) ut then do not forget to adapt the configuration.php accordingly.  \| in Mambo/configuration.php    ocate the mySQL login and password mambo is using \| \| &lt;?php     $mosConfig\_offline = ‘0’;    $mosConfig\_host = ‘localhost’;    $mosConfig\_user = ‘**XXXX**‘;    $mosConfig\_password = ‘**XXXXX**‘;    . \| |
+| ![](/assets/images/2005/01/easyPHP-4.jpg) | If the restore is successful, create a user, as found in the configuration file of Mambo. Create a User - Of the same name and password, or - Create a new user (better because of security concerns) ut then do not forget to adapt the configuration.php accordingly.  \| in Mambo/configuration.php    ocate the mySQL login and password mambo is using \| \| <?php     $mosConfig\_offline = ‘0’;    $mosConfig\_host = ‘localhost’;    $mosConfig\_user = ‘**XXXX**‘;    $mosConfig\_password = ‘**XXXXX**‘;    . \| |
 |---|
 | ![](/assets/images/2005/01/easyPHP-5.jpg) | Grant this user all rights by clicking edit. |
 

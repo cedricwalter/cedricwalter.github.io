@@ -29,8 +29,8 @@ The new repository will contain a folder for every merged repository
 
 The script adds remotes for every project and then merges in every branch and tag. These are renamed to have the origin project name as a prefix
 
-Usage: mergeGitRepositories.sh &lt;new\_project&gt; &lt;my\_repo\_urls.lst&gt;  
+Usage: mergeGitRepositories.sh <new\_project> <my\_repo\_urls.lst>  
 Where
 
-- &lt;new\_project&gt; is the name of the new project to create
-- &lt;my\_repo\_urls.lst&gt; is a file contaning the URLs to the respositories which are to be merged on separate lines.
+- <new\_project> is the name of the new project to create
+- <my\_repo\_urls.lst> is a file contaning the URLs to the respositories which are to be merged on separate lines.

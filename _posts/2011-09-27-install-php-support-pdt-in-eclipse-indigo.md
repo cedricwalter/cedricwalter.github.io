@@ -22,7 +22,7 @@ Developed by [Zend](http://www.zend.com) and [IBM](http://www.ibm.com), [Eclipse
 How to install PDT
 
 * Download any version of #Eclipse 3.7 Indigo from <http://www.eclipse.org/downloads/> and install.
-* Once installed, launch #Eclipse and navigate to Help-&gt;Install new Software.
+* Once installed, launch #Eclipse and navigate to Help->Install new Software.
 * Add the Indigo update site <http://download.eclipse.org/releases/indigo> if you don’t find it in the list.
 * Once the Indigo Update Site is added, add the PDT 3.0 Update Site <http://download.eclipse.org/tools/pdt/updates/3.0/milestones/>
 

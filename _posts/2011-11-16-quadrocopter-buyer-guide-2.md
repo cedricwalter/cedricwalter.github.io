@@ -144,7 +144,7 @@ The 12” Propellers fitted to the super efficient 600kv brushless motors and 18
     
     [![draganfly](/assets/images/2011/11/draganfly_thumb.png "draganfly")](http://www.waltercedric.com/images/QUadroCopter-world_6E41/draganfly.png)
     
-    ## [mikrokopter.de](http://mikrokopter.de/) $450 to &gt; $2000
+    ## [mikrokopter.de](http://mikrokopter.de/) $450 to > $2000
     
     I really like their design, they offer kit for Quadcopter, Hexacopter and their build look really professional. The one to go if budget is not an issue! Look first on [ebay.de](http://www.ebay.de) for some used one ([search for Mikrokopter](http://www.ebay.de/sch/i.html?_from=R40&_trksid=p5197.m570.l1313&_nkw=mikrokopter&_sacat=See-All-Categories)).
     

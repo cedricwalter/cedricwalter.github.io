@@ -38,7 +38,7 @@ Small change request can always be integrated, please use my forum and create a 
 
 **BUG:** [Akobook Fix for Number of Guest Entries and Pages](http://forums.waltercedric.com/index.php?topic=549.msg2025#msg2025) thanks to user **[mygeek911](http://forums.waltercedric.com/index.php?action=profile;u=724)**
 
-**BUG:** on some host blank page during install or in some menu has been resolved, it was old code having php code embedded starting with &lt;? … ?&gt; (PHP4 support both) instead of &lt;?php … ?&gt; (PHP5 only support this)
+**BUG:** on some host blank page during install or in some menu has been resolved, it was old code having php code embedded starting with <? … ?> (PHP4 support both) instead of <?php … ?> (PHP5 only support this)
 
 **BUG****:** layout bug in all front end page solved, not all view were using 100% of the view 
 
@@ -54,6 +54,6 @@ Small change request can always be integrated, please use my forum and create a 
 **NEW**: a new menu entry that can check if you are running the latest version of this software   
 [![akobookPlus5CheckForLatest](/assets/images/2008/09/akobookPlus5CheckForLatest_thumb.png)](/assets/images/2008/09/akobookPlus5CheckForLatest.png) [![akobookPlus5CheckForLatesthtml](/assets/images/2008/09/akobookPlus5CheckForLatesthtml_thumb.png)](/assets/images/2008/09/akobookPlus5CheckForLatesthtml.png)
 
-**NEW**: refactoring but can be considered daily part of the work -&gt; this code is not MVC at all, and has to be turn into a real #Joomla! 1.5 extension. I consider anti spamming and security more important in the TODO list at the moment than making the code MVC.
+**NEW**: refactoring but can be considered daily part of the work -> this code is not MVC at all, and has to be turn into a real #Joomla! 1.5 extension. I consider anti spamming and security more important in the TODO list at the moment than making the code MVC.
 
 Hurry up any post in this forum <http://forums.waltercedric.com/index.php?board=46.0> may enter into that release as well 🙂

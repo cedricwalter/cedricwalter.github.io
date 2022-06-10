@@ -52,13 +52,13 @@ tags:
     - **BUG**: cedTag will not let you manage tags from backend, if you are not logged in frontend, because of function canUserDoTagOperations in /helper/helper.php
     - **BUG**: When i press Enter to add the tag, it not only adds the tag, but refreshes inner page and load there /administrator/index.php
     - **NEW**: Enable choosing part of the sef url ('cedtag' to 'tag' or whatever, in cedTagSef.php) from backend
-    - **NEW**: Customized and clickable Breadcrumbs. So, it now look something like: Home-&gt;Tags-&gt;ANYTAG
+    - **NEW**: Customized and clickable Breadcrumbs. So, it now look something like: Home->Tags->ANYTAG
     
      Евгений has also some proposal for future work as well, some that went in 2.5.6
     
     
     1. Use content plugins for blog layout for a tag
-    2. <strike>Use Breadcrumbs. So, it should look something like: Home-&gt;Tags-&gt;ANYTAG</strike>
+    2. <strike>Use Breadcrumbs. So, it should look something like: Home->Tags->ANYTAG</strike>
     
      Your ideas are important, [feel free to contact me](http://www.waltercedric.com/contact.html "Contact me") and ask for new features!
     

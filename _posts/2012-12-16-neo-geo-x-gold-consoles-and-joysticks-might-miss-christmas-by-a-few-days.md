@@ -20,7 +20,7 @@ tags:
 
 **![](/assets/images/2012/12/NeoGeoXGold-008.jpg)**
 
-**From:** Jason Cooper &lt;jason.cooper @ blazeretro.net&gt;   
+**From:** Jason Cooper <jason.cooper @ blazeretro.net>   
 **Date:** Tue, 11th Dec 2012   
 **To:** xxxxxx
 

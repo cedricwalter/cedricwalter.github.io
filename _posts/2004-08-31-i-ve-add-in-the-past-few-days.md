@@ -11,9 +11,9 @@ tags:
     - gallery
 ---
 
-&lt;&gt;I ve add in the past few days a lot of content to the new system,see the main menu.  
+<>I ve add in the past few days a lot of content to the new system,see the main menu.  
  – Counter , Gallery, Search, Guestbook …  
  nearly 25% of old content is now in the new system  
- &gt;
+ >
 
 enjoy….

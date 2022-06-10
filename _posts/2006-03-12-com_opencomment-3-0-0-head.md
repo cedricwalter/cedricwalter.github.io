@@ -17,7 +17,7 @@ You can see here the state of com\_opencomment cvs HEAD after a coding marathon�
 
 Dont be so enthousiast, there is some nasty bugs in it…and not all functionalities are in place (email, rating) but the opencommentbot is more than finished…
 
-The feature show/hide a la Phil Taylor (many request) is working but do not forget that it use a trick: it only change wih javascript the visibility of a DIV element -&gt; the user is still loading all comments and the page is still as heavy as before, the only win is that the user do not get disturb by the number of comments…
+The feature show/hide a la Phil Taylor (many request) is working but do not forget that it use a trick: it only change wih javascript the visibility of a DIV element -> the user is still loading all comments and the page is still as heavy as before, the only win is that the user do not get disturb by the number of comments…
 
 Concerning existing comments, no worry, I will provide during the install scripts to rename, alter the akocomment tables.
 

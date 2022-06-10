@@ -20,7 +20,7 @@ Old i-gotu (i-gotU) gt-200e/gt-120 gps receiver work with the #raspberry pi just
 | Dimension | 44.5 x 28.5 x 13 mm |
 |---|---|
 | Weight | 20g |
-| GPS | SiRF Star IV Low Power chipset   Hot Start: &lt; 1 sec   Warm Start: &lt; 35sec   Cold Start: &lt; 35sec   WASS &amp; EGNOS support |
+| GPS | SiRF Star IV Low Power chipset   Hot Start: < 1 sec   Warm Start: < 35sec   Cold Start: < 35sec   WASS &amp; EGNOS support |
 | GPS Antenna | Built-in GPS patch antenna |
 | Interface | USB 1.1 |
 | Water Resistant | Yes |

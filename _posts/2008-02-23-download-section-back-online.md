@@ -32,7 +32,7 @@ By clicking read more, you’ll also be able to view the number of downloads you
 | 10 | JoomlaPatches for Joomla 1.0.13 for securityimages 4.x only | **5036** |
 | 11 | SecurityImages 3.0.8 | **4906** |
 | 12 | Joomla 1.0.12 patches for SecurityImages 4.x | **4753** |
-| 13 | Akobookplus 2.0.4 for securityimages &lt; 4.X | **3946** |
+| 13 | Akobookplus 2.0.4 for securityimages < 4.X | **3946** |
 | 14 | module joomlacloud 1.0.1 | **3838** |
 | 15 | SecurityImages 3.0.7 | **3809** |
 | 16 | opencomment 3.0.30 | **3643** |
@@ -40,7 +40,7 @@ By clicking read more, you’ll also be able to view the number of downloads you
 | 18 | mosSociable | **3018** |
 | 19 | Patch or Joomla 1.0.11 v1.0.2 for securityimages 3.x | **2747** |
 | 20 | Module latest comments 1.0.0 | **2704** |
-| 21 | AkoBookPlus 2.0.6 for securityimages &gt;= 4.X | **2286** |
+| 21 | AkoBookPlus 2.0.6 for securityimages >= 4.X | **2286** |
 | 22 | Askimet4joomla v1.1.0 | **1943** |
 | 23 | component log4php 1.1.0 | **1768** |
 | 24 | module\_rssfriends 1.0.0 | **1766** |
@@ -53,7 +53,7 @@ By clicking read more, you’ll also be able to view the number of downloads you
 | 31 | Joomla 1.0.12 patches for SecurityImages 3.x | **1038** |
 | 32 | Thunder Tiger Raptor 60 | **1035** |
 | 33 | Joomla patches1.0.9 to 1.0.10 with securityimages | **1015** |
-| 34 | Akobookplus 2.2.0 for securityimages &lt; 4.X | **1000** |
+| 34 | Akobookplus 2.2.0 for securityimages < 4.X | **1000** |
 | 35 | Robbe Moskito XXL | **957** |
 | 36 | Gensmantel Heaven micro helicopter | **942** |
 | 37 | Thunder Tiger EK4 S2 | **885** |

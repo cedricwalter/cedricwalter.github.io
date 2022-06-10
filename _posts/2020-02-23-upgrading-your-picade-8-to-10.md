@@ -53,7 +53,7 @@ This 10.1 inch High-resolution 1366\*768 LCD display module kit is especially de
 - Contrast Ratio: 800:1 (Min.)
 - Display Colors (16bit): 65K
 - Response Time (Tr+Td): 30
-- Viewing Angle (CR&gt;10): 85/85/85/85
+- Viewing Angle (CR>10): 85/85/85/85
 - Operating voltage: 12V (current requirement 1A-2A)
 - Rated power: 6-7W
 - Signal input: AV + VGA + HDMI (HDMI 1.2)
@@ -189,7 +189,7 @@ I lost many HOURS, going crazy, and after many attempts (erase sdcard, and redo 
 
 - Check physical wiring connections: nothing must be loose
 - Check proper red/black (+/-) connections in case they were backwards
-- Power the PI and connect a Phone to the jack to check proper output of music -&gt; this validate the whole hardware connection
+- Power the PI and connect a Phone to the jack to check proper output of music -> this validate the whole hardware connection
 
 #### Software 
 

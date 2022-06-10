@@ -23,7 +23,7 @@ With [Splunk](https://www.splunk.com) You will be able to
 
 ## Add a new HTTP Event Collector
 
-you need to enable the [Splunk](https://www.splunk.com) HTTP Event Collector. In the Splunk UI, go to ***Settings*** -&gt; ***Data Inputs*** -&gt; ***HTTP Event Collector*** -&gt; ***Global Settings***.
+you need to enable the [Splunk](https://www.splunk.com) HTTP Event Collector. In the Splunk UI, go to ***Settings*** -> ***Data Inputs*** -> ***HTTP Event Collector*** -> ***Global Settings***.
 
 Click **Enabled** alongside ‘**All Tokens**’, and **enable SSL**. This will enable the HTTP Event Collector on port 8088 (the default), using the [Splunk](https://www.splunk.com) default certificate.
 

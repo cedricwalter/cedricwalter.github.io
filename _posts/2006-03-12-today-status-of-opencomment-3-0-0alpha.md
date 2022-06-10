@@ -16,7 +16,7 @@ tags:
 
 - The threshold filtering is working,
 - The comment sorting is working,
-- opencomment mambots is fully language independent -&gt; localized through language php files,
+- opencomment mambots is fully language independent -> localized through language php files,
 - The rating mechanism is in place, I am beat right now by an obvious bug,
 - Refactoring, refactoring….
 

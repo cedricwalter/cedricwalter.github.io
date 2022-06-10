@@ -17,13 +17,13 @@ tags:
 
 **NEW**: The function that detect images in your articles is now clever and now support better fallbacks. It now support [Joomla](http://www.joomla.org/ "Joomla is one of the world’ s most popular open source CMS (content management system).") articles metadata (intro image and full article image). With the first option selected the system will always find at least one image to render as thumbnail. Priority is from left to right.
 
-- search in intro text -&gt; use intro image -&gt; in full text -&gt; use full article image (**NEW**) it’s the default,
+- search in intro text -> use intro image -> in full text -> use full article image (**NEW**) it’s the default,
 - search in intro text only,
-- search in intro text -&gt; use intro image (**NEW**),
+- search in intro text -> use intro image (**NEW**),
 - search in full text only,
-- search in full text -&gt; use full article image (**NEW**),
-- search in intro text -&gt; in full text,
-- search in full text -&gt; in intro text,
+- search in full text -> use full article image (**NEW**),
+- search in intro text -> in full text,
+- search in full text -> in intro text,
 
 If no images are found, despite going through intro text, full text, intro image and full article image, the system will fallback to a default image that can be set up per modules/plugins.
 

@@ -39,7 +39,7 @@ The obvious things to do first in no particular order
 - Carefully review your dependencies as the less Apache #Maven has to load while building the faster it will get. 
     - Are they all needed?
     - No duplicates dependencies?
-    - Do you miss some &lt;exclusions&gt;? are all these transitive dependencies to your 3rd party needed?
+    - Do you miss some <exclusions>? are all these transitive dependencies to your 3rd party needed?
     - No dependencies cycles? check the order in reactor. A developer **should understand**, and **not be surprised** by the order of the modules calculated by #Maven (as long as you have layers in your software, you expect some modules to be build before some others) .
 - Review ALL logs files 
     - The one created by #Maven to avoid any warnings and

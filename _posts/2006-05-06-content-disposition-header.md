@@ -146,7 +146,7 @@ RFC 2183 Content-Disposition August 1997
  ; contents MUST be an RFC 822 `date-time’  
  ; numeric timezones (+HHMM or -HHMM) MUST be used
 
- NOTE ON PARAMETER VALUE LENGHTS: A short (length &lt;= 78 characters)  
+ NOTE ON PARAMETER VALUE LENGHTS: A short (length <= 78 characters)  
  parameter value containing only non-`tspecials’ characters SHOULD be  
  represented as a single `token’. A short parameter value containing  
  only ASCII characters, but including `tspecials’ characters, SHOULD  

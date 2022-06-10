@@ -82,7 +82,7 @@ to version also the container (Joomla!) where your code run.
 
 While working in a team, not all file has to be committed to /trunk
 
-The configuration.php for example is a default one (mine), anybody can make change but shall not commit it to the trunk! -&gt;   
+The configuration.php for example is a default one (mine), anybody can make change but shall not commit it to the trunk! ->   
 Not all developer use XAMPP at the same location or may use another DB user (this is another topic among a team of developer:   
 standardize developer environment). I’ve commit dummy login/password for administrator panel is admin:admin   
 The login for MYSQL in configuration.php is root: empty.

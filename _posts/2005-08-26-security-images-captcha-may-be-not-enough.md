@@ -16,17 +16,17 @@ Anyway this page is giving me enough idea at how to tune my code to avoid/disall
 
 Among others, [from this page](http://www.brains-n-brawn.com/default.aspx?vDir=aicaptcha):
 
-- render the characters with different colors **-&gt; I will do it, easy**
+- render the characters with different colors **-> I will do it, easy**
 - make some characters darker than the background, and some lighter
 - use gradient colors for the backgrounds and the characters
-- dont align all the characters vertically **-&gt; Possible in current implementation**
-- dont make the answers words, so that a dictionary could be used **-&gt; already random**
-- use more characters and symbols **-&gt; done**
-- use uppercase and lowercase characters **-&gt; already done**
-- use a different number of characters each time **-&gt;done**
-- rotate some of the characters more drastically (i.e. upside down) -&gt; will try
+- dont align all the characters vertically **-> Possible in current implementation**
+- dont make the answers words, so that a dictionary could be used **-> already random**
+- use more characters and symbols **-> done**
+- use uppercase and lowercase characters **-> already done**
+- use a different number of characters each time **->done**
+- rotate some of the characters more drastically (i.e. upside down) -> will try
 - do more overlapping of characters
-- Add a grid **-&gt;done**
+- Add a grid **->done**
 - make some pixels of a single character not touching
 - have grid lines that cross over the characters with their same color
 - consider asking natural language questions

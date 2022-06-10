@@ -19,7 +19,7 @@ This page was last modified on Mon, 16 Aug 2004 17:06:24 GMT
  | **GNU Free Documentation License** – Copyright (c) 2003 Walter CÃ©dric.  Permission is granted to copy, distribute and/or modify this document    under the terms of the GNU Free Documentation License, Version 1.2    or any later version published by the Free Software Foundation;    with no Invariant Sections, no Front-Cover Texts, and no Back-Cover    Texts. A copy of the license is included in the section entitled     “[GNU Free Documentation License](http://www.gnu.org/licenses/fdl.html)“. |
 |---|
 
--&gt; this page is getting bigger and bigger with the time, I will also start **soon** a SUSE section and divide this page into smaller sections.
+-> this page is getting bigger and bigger with the time, I will also start **soon** a SUSE section and divide this page into smaller sections.
 
 I decide to buy the professional edition instead of downloading all cd from [ftp.suse](ftp://ftp.suse/) even if I have a 2MB internet line. You must support company like Suse or Mandrake which develop linux distributions and buy their package. All versions or patchs can be acquire freely and download from their FTP or HTTP mirror..
 

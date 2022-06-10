@@ -19,12 +19,12 @@ that the archive is damaged.
 Only Internet Explorer users were having issues, this is because of Internet explorer not able to handle   
 compression of all file types. I solved the issue by changing my mod\_deflate.conf which now look like the following:
 
-&lt;Location /&gt;   
+<Location />   
 AddOutputFilterByType DEFLATE text/html text/plain text/xml text/css application/x-javascript 
 
 # Make sure proxies don’t deliver the wrong content   
 Header append Vary User-Agent env=!dont-vary   
-&lt;/Location&gt;
+</Location>
 
 I found that I had to use application/x-javascript instead of application/javascript to actually get javascript files on my   
 server to be served compressed.

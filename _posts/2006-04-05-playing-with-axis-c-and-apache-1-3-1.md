@@ -34,7 +34,7 @@ Note: try to avoid space in path, it has always been proved to be a mess under W
 
 | Apache 1.3in <span style="FONT-STYLE: italic">c:\\apache\\conf\\http.conf | Apache 2.0in <span style="FONT-STYLE: italic">c:\\apache\\conf\\http.conf |
 |---|---|
-| LoadModule axis\_module ../axis/lib/modules/mod\_axis.dll   &lt;Location /axis&gt;   SetHandler axis   &lt;/Location&gt; | LoadModule axis\_module ../axis/lib/mod\_axis2.dll   &lt;Location /axis&gt;   SetHandler axis   &lt;/Location&gt; |
+| LoadModule axis\_module ../axis/lib/modules/mod\_axis.dll   <Location /axis>   SetHandler axis   </Location> | LoadModule axis\_module ../axis/lib/mod\_axis2.dll   <Location /axis>   SetHandler axis   </Location> |
 
 <big>4. Now it is starting to be interesting,</big> both <span style="FONT-STYLE: italic">mod\_axis.dll and <span style="FONT-STYLE: italic">mod\_axis2.dll have dependencies to an old dll which do no more exist since windows 98 ! <span style="FONT-STYLE: italic">msjava.dll
 
@@ -61,7 +61,7 @@ Modify all path to DLL accordingly. Note that relative path or absolute path als
 
 | Example of <span style="FONT-STYLE: italic">c:\\axis\\conf\\server.wsdd |
 |---|
-| &lt;?xml version="1.0" encoding="UTF-8"?&gt;   &lt;!– The Entity, wspath in the following internal subset allows setting a     path for the webservices location –&gt;   &lt;!DOCTYPE vars \[ &lt;!ENTITY wspath "/home/sanjaya/Axis/webservices/"&gt; \]&gt; &lt;deployment xmlns="http://xml.apache.org/axis/wsdd/"     xmlns:C="http://xml.apache.org/axis/wsdd/providers/C"     xmlns:CPP="http://xml.apache.org/axis/wsdd/providers/CPP"&gt;    &lt;globalConfiguration&gt;    &lt;/globalConfiguration&gt;    &lt;service name="transportProperties"     provider="CPP:DOCUMENT"     description="This is a simple test"&gt;    &lt;parameter name="className"     value="c:\\axis\\dll\\calculator.dll"/&gt;    &lt;parameter name="allowedMethods" value="add subtract"/&gt;    &lt;/service&gt;   &lt;/deployment&gt; |
+| <?xml version="1.0" encoding="UTF-8"?>   <!– The Entity, wspath in the following internal subset allows setting a     path for the webservices location –>   <!DOCTYPE vars \[ <!ENTITY wspath "/home/sanjaya/Axis/webservices/"> \]> <deployment xmlns="http://xml.apache.org/axis/wsdd/"     xmlns:C="http://xml.apache.org/axis/wsdd/providers/C"     xmlns:CPP="http://xml.apache.org/axis/wsdd/providers/CPP">    <globalConfiguration>    </globalConfiguration>    <service name="transportProperties"     provider="CPP:DOCUMENT"     description="This is a simple test">    <parameter name="className"     value="c:\\axis\\dll\\calculator.dll"/>    <parameter name="allowedMethods" value="add subtract"/>    </service>   </deployment> |
 
 <big>Use script 6</big>. to start Apache, if you get an exception, read it or verify DLL dependencies with [DLL dependency walker](http://www.google.com/url?sa=U&start=1&q=http://www.dependencywalker.com/&e=9797)
 

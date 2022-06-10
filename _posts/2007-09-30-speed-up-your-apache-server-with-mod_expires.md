@@ -21,7 +21,7 @@ tags:
  config is rough right now, but it is better than nothing,put the following in the file
 
  <span style="font-family: courier new,courier">LoadModule evasive20\_module /usr/lib/apache2/mod\_expires.so  
- &lt;IfModule mod\_expires.c&gt;  
+ <IfModule mod\_expires.c>  
  ExpiresActive On
 
  ExpiresDefault "access plus 1 month"  
@@ -31,7 +31,7 @@ tags:
  #ExpiresByType image/jpg "modification plus 1 month"   
  #ExpiresByType text/css "access plus 1 month 15 days 2 hours"  
  #ExpiresByType text/javascript "access plus 1 month 15 days 2 hours"  
- &lt;/IfModule&gt;
+ </IfModule>
 
  You can also set the expire header by type, but it wa snot working in my case, that is why I use the ExpiresDefault directive
 

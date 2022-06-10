@@ -40,7 +40,7 @@ In windows use the binary installer and put the graphwiz/bin in your PATH enviro
 
 ## Configure your POM
 
-Ideally put this in your parent pom inside the &lt;build&gt; &lt;/build&gt; tag
+Ideally put this in your parent pom inside the <build> </build> tag
 
 ```
 <plugin>
@@ -71,7 +71,7 @@ Add in the Maven runner of every TeamCity Build
 - **depgraph:depgraph** Can be used to draw a dependency graph from the project, the mojo is executed in. It traverses all dependencies and creates a graph using Graphviz. It draws a dependency graph just for your project. For a simple POM with no submodules, it draws a graph of all dependencies (including transitive ones) below it. For a POM with submodules, goes into each leaf POM and generates a separate graph for it.
 - **depgraph:fullgraph** Can be used to draw a dependency graph from the project, the mojo is executed in. It traverses all dependencies and creates a graph using Graphviz. It draws a graph for all the modules as they are interconnected. Same as depgraph for a simple POM, but for a POM with submodules, generates a combined dependency graph incorporating all modules.
 
-You may also want to let developer look at modules dependencies graph in TeamCity, so you may want to add to artifact path \*\*/site/images/\*.png =&gt; dependenciesGraph
+You may also want to let developer look at modules dependencies graph in TeamCity, so you may want to add to artifact path \*\*/site/images/\*.png => dependenciesGraph
 
 > Artifacts are files produced by a build. After finishing a build, TeamCity searches for artifacts in the build’s [checkout directory](http://www.jetbrains.net/confluence/display/TCD4/Build+Checkout+Directory) according to the specified artifact patterns. Matching files are then uploaded to the server, where they become available for download. [More ..](http://www.jetbrains.net/confluence/display/TCD4/Build+Artifact)
 

@@ -28,4 +28,4 @@ Code is already commited to [CVS at #Joomla](http://developer.joomla.org/sf/sfma
 
 ![](/assets/images/2005/11/securityImagesReloadCapctha.gif)
 
--&gt; I will need YOU soon dear beta tester 🙂
+-> I will need YOU soon dear beta tester 🙂

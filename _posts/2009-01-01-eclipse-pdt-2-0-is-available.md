@@ -51,7 +51,7 @@ PDT + Zend in one package thanks to Zend.com (118MB), highly recommended
 
 **OR** PDT (105MB) and add Zend debugger through software update later
 
-- Open #Eclipse and go to Help-&gt; Software Updates-&gt; Find and Install
+- Open #Eclipse and go to Help-> Software Updates-> Find and Install
 - Select “Search for new features to install” and click “Next”
 - Create a New Remote Site with the following details:
 - Name: PDT

@@ -70,7 +70,7 @@ function &initModules() {
 ```
 
  <span style="color: rgb(255, 0, 0); background-color: rgb(255, 255, 0); font-weight: bold;">In yellow <span style="font-weight: bold;">what has changed in that method (extract)  
-# . "\\n AND m.access &lt;= <span style="background-color: rgb(255, 255, 0);">‘". $my-&gt;gid ."’"  
+# . "\\n AND m.access <= <span style="background-color: rgb(255, 255, 0);">‘". $my->gid ."’"  
 <span style="font-weight: bold;">and  
 . "\\n AND ( mm.menuid = <span style="background-color: rgb(255, 255, 0);">‘".$Itemid<span style="background-color: rgb(255, 255, 0);">."’ OR mm.menuid = 0 )"
 

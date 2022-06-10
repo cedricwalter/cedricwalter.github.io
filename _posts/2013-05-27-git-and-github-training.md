@@ -334,7 +334,7 @@ My notes are still under reviews, but are available at <http://gittraining.walte
     - git log –format= email
     - git log –format=raw 
         - useful for training
-        - relationship tree -&gt; parent -&gt; author -&gt; committer 
+        - relationship tree -> parent -> author -> committer 
             - it is a graph 
                 - important to understand
             - git log –graph
@@ -352,7 +352,7 @@ My notes are still under reviews, but are available at <http://gittraining.walte
                 
                 ![](http://gittraining.waltercedric.com/images/GIT%20training_2354008536894185700.jpeg)
         - git lg 
-            - git config –global alias.lg “log –graph –pretty=format:’%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)&lt;%an&gt;%Creset’ –abbrev-commit –all” ![](http://gittraining.waltercedric.com/images/GIT%20training_8492003915828502756.jpeg)
+            - git config –global alias.lg “log –graph –pretty=format:’%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset’ –abbrev-commit –all” ![](http://gittraining.waltercedric.com/images/GIT%20training_8492003915828502756.jpeg)
 - <span style="color: rgb(255, 0, 0); font-size: 133%; font-family: SansSerif,sans-serif; font-weight: bold;">3. Diff
     - git diff
     - git diff –staged 
@@ -369,7 +369,7 @@ My notes are still under reviews, but are available at <http://gittraining.walte
     - git show ec7674
 - <span style="color: rgb(255, 0, 0); font-size: 133%; font-family: SansSerif,sans-serif; font-weight: bold;">4. move and rename
     - remove a file from VCS and keep local copy 
-        - git rm –cached — &lt;filename&gt;
+        - git rm –cached — <filename>
         - git commit -m “remove from vcs”
     - GIT integrity check 
         - each commit contains at least one tree and one or more blobs

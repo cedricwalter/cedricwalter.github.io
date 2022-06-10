@@ -28,16 +28,16 @@ tags:
 
 **Original Mambo file affected for the login page:**
 
-- /administrator/index.php &lt;- add verification of the challenge
-- administrator\\templates\\mambo\_admin\\login.php &lt;- insert hidden fields, and reference to MD5 javascript
-- administrator\\templates\\mambo\_admin\_blue\\login.php &lt;- insert hidden fields, and reference to MD5 javascript
+- /administrator/index.php <- add verification of the challenge
+- administrator\\templates\\mambo\_admin\\login.php <- insert hidden fields, and reference to MD5 javascript
+- administrator\\templates\\mambo\_admin\_blue\\login.php <- insert hidden fields, and reference to MD5 javascript
 
 <span style="font-weight: bold;"> Future?  
 
 
 - Many cryptographic algorithm, SHA1 on the way,
 - A mambots for changing on the fly all FORM before submit,
-- Ako\_comment has been already patched, and tested -&gt; Waiting OK from Arthur Konze for releasing.
+- Ako\_comment has been already patched, and tested -> Waiting OK from Arthur Konze for releasing.
 - Ako\_guestbok must be changed  
     <span style="font-weight: bold;">
 

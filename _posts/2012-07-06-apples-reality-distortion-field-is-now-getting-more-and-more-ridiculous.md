@@ -26,9 +26,9 @@ the Internet.” from <http://www.apple.com/pr/pdf/110415samsungcomplaint.pdf>
 Apple seems to not understand anymore the concept of evolution
 
 - Smaller and lighter is something that any industry is doing all the time
-- Better embedded CPU –&gt; lead to faster experience and more capabilities(browser)
-- Development of cell phones network –&gt; internet is slowly possible
-- Better battery technology –&gt; lead to Bigger screen
+- Better embedded CPU –> lead to faster experience and more capabilities(browser)
+- Development of cell phones network –> internet is slowly possible
+- Better battery technology –> lead to Bigger screen
 - Cheaper euh no Apple is not well known for that ![Smile](/assets/images/2011/02/wlEmoticon-smile.png)
 
 [![phones (1)](/assets/images/2012/07/phones-1_thumb.jpg "phones (1)")](/assets/images/2012/07/phones-1.jpg)

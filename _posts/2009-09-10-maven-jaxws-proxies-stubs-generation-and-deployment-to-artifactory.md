@@ -92,7 +92,7 @@ If you now run mvn jaxws:wsimport or mvn install, the maven plugin will get the 
 
 # How to compile your maven project or module against a specific version of Java
 
-Just put inside the &lt;plugins&gt; section of &lt;build&gt;, use at least java 1.5. Obviously I choose 1.6 in the example below
+Just put inside the <plugins> section of <build>, use at least java 1.5. Obviously I choose 1.6 in the example below
 
 ```
 <plugin>
@@ -117,7 +117,7 @@ Just put inside the &lt;plugins&gt; section of &lt;build&gt;, use at least java 
 
 # How to attach source code of your project with the binary artifact using Maven Sources Plugin
 
-This small plugin will create a new jar file in /target with a classifier “sources” for you. Note that with &lt;finalName/&gt; you can deviate from standard naming scheme, which is of course not recommended.
+This small plugin will create a new jar file in /target with a classifier “sources” for you. Note that with <finalName/> you can deviate from standard naming scheme, which is of course not recommended.
 
 “A Maven 2 plugin that creates a project-version-sources.jar right along side the project-version.jar in the target directory. We are using the verify phase here because it is the phase that comes before the install phase, thus making sure that the sources jar has been created before the install takes place.”
 
@@ -158,7 +158,7 @@ Add to your pom.xml the following
 </distributionManagement>
 ```
 
-And to your settings.xml your administrator credentials (note don’t try admin/password against my artifactory repository, I use way more complex passwords). Note that the maven deploy plugin is able to detect if your artifact contains the word SNAPSHOT, if yes it will use the &lt;<span class="html">snapshotRepository&gt;&lt;/<span class="html">snapshotRepository&gt; and internal.repo.snapshot credentials
+And to your settings.xml your administrator credentials (note don’t try admin/password against my artifactory repository, I use way more complex passwords). Note that the maven deploy plugin is able to detect if your artifact contains the word SNAPSHOT, if yes it will use the <<span class="html">snapshotRepository></<span class="html">snapshotRepository> and internal.repo.snapshot credentials
 
 ```
 <servers>

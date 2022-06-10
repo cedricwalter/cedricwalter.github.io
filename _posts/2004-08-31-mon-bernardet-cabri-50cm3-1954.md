@@ -17,7 +17,7 @@ tags:
 
  **Bernardet cabri 50cm**<sup>**3**</sup> **1954**
 
- **Je recherche un cabri 98 cm**<sup>**3**</sup> **etat concours, je paye un tres bon prix.** [&lt;me contacter ici&gt;](comment.html)
+ **Je recherche un cabri 98 cm**<sup>**3**</sup> **etat concours, je paye un tres bon prix.** [<me contacter ici>](comment.html)
 
 Le Cabri, est un modèle de scooter individuel sorti en juillet 1954.qui ne pèse que 34 kg et possède des petites roues de 3 x 8″.  
 Un gros tube de 45 mm de diamètre sert d’ossature ; y sont fixés le tablier en tôle et la plate-forme repose-pieds en aluminium.

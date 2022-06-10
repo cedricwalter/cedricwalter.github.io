@@ -33,7 +33,7 @@ tags:
 
  component / module / plugins
 
-- add in `<menu>` support for attribute value img="class:banners"&gt;
+- add in `<menu>` support for attribute value img="class:banners">
 - add in `<menu>` support for attribute value view="anyString"
 - add in `<menu>` support for attribute value alt="anyString"
 - add to `type="cmsVersionType"` version 3.1
@@ -57,7 +57,7 @@ tags:
 - allow `<field>` to have new attribute `extension=com_*` (contactcreator.xml)
 - In `<media>` attribute destination value is now optional
 - In `<fieldset>` add optional`addfieldpath=""` and validate that it is a valid path
-- In “`&lt;option value="" empty values are now allowed
+- In “`<option value="" empty values are now allowed
 - `<updateservers>` is now available in plugins manifests
 - In `<field>` type now support `type="modal_article"` or from enum (using xsd union)
 

@@ -81,6 +81,6 @@ docker pull wagoodman/dive
 
 then just provide your image tag/id/digest
 
-docker run –rm -it -v /var/run/docker.sock:/var/run/docker.sock wagoodman/dive:latest &lt;your-image&gt;
+docker run –rm -it -v /var/run/docker.sock:/var/run/docker.sock wagoodman/dive:latest <your-image>
 
 Get more by visiting the project page <https://github.com/wagoodman/dive>

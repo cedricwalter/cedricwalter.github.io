@@ -117,9 +117,9 @@ Grant access to root from any host, this is insecure for production machine but 
 Let root connect not only from localhost by running
 
 > # mysql –u root –p   
-> mysql&gt; use mysql;   
-> mysql&gt; update user set host = ‘%’ where user = ‘root’ and host=’127.0.0.1′   
-> mysql&gt; flush privileges;
+> mysql> use mysql;   
+> mysql> update user set host = ‘%’ where user = ‘root’ and host=’127.0.0.1′   
+> mysql> flush privileges;
 
 Bad written code (DAO) will sometimes forces you to start MYSQL using insensitive casing table. In windows it will always work as the operating system do not make any difference between lower and upper case. In Linux, either you change your DAO’s or if you can’t, use this kind of trick:
 

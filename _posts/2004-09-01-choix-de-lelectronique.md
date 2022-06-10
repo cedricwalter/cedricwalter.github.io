@@ -18,7 +18,7 @@ Batteries
 
 - Jamais de controleur de batteries a une seule led ! parce ce que le temps que le systeme change de couleur et ton hélicoptère est au sol, toujours un controleur a bargraph.
 - On ne vole pas sans moniteur de batterie, de plus il faut leur accorder une confiance toute relative et ne mesurer l’etat du pack que sour une charge (faire des cercles avec les deux sticks et ne tenir compte que de la LED la plus basse)
-- Seul les accus sanyo avec un R dans leur libellés supportent la charge rapide. ex : 1700 SCR, ampérage maxi pour une charge rapide 4\*capacité ex : 1700mAh -&gt; 6.8A max
+- Seul les accus sanyo avec un R dans leur libellés supportent la charge rapide. ex : 1700 SCR, ampérage maxi pour une charge rapide 4\*capacité ex : 1700mAh -> 6.8A max
 - Les batteries se stockent déchargés et au frigo pour ralentir la réaction chimique! (ben oui)
 - Acheter des le départ une double alimentation. cela évitera une chute de la machine pour un probleme de batterie.
 

@@ -17,7 +17,7 @@ tags:
 
 ### Warning
 
-**IT IS MANDATORAY TO COMPLETELY REMOVE ALL VERSION &lt; 2.6.0 BEFORE INSTALLING THIS NEW ONE! Go to the Extension Manager under the tab Manage, enter in filter "tag", select all and click Actions – Uninstall**   
+**IT IS MANDATORAY TO COMPLETELY REMOVE ALL VERSION < 2.6.0 BEFORE INSTALLING THIS NEW ONE! Go to the Extension Manager under the tab Manage, enter in filter "tag", select all and click Actions – Uninstall**   
 Reason: I did change a lot of folder name and file casing casing to be more #Joomla compliant   
 Don’t be scared you will not loose any Tags or data from your database! uninstalling do not remove currently any tables!
 

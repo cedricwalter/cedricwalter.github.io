@@ -19,7 +19,7 @@ tags:
 
  Solaris itself while being a rock solid operating system, is not really needed for a NAS server (oversized). What has increase my interest in it, is [ZFS, the Zetabyte File System](http://www.opensolaris.org/os/community/zfs/). This is an extract of [opensolaris.org](http://opensolaris.org/) all arguments fits nicely to my need:
 
-&lt;quote&gt;
+<quote>
 
 - *ZFS is a new kind of filesystem that provides simple administration, transactional semantics, end-to-end data integrity, and immense scalability. ZFS is not an incremental improvement to existing technology; it is a fundamentally new approach to data management. We’ve blown away 20 years of obsolete assumptions, eliminated complexity at the source, and created a storage system that’s actually a pleasure to use.*
 - *ZFS presents a pooled storage model that completely eliminates the concept of volumes and the associated problems of partitions, provisioning, wasted bandwidth and stranded storage. Thousands of filesystems can draw from a common storage pool, each one consuming only as much space as it actually needs. The combined I/O bandwidth of all devices in the pool is available to all filesystems at all times.*
@@ -34,7 +34,7 @@ tags:
 - *In addition to filesystems, ZFS storage pools can provide volumes for applications that need raw-device semantics. ZFS volumes can be used as swap devices, for example. And if you enable compression on a swap volume, you now have compressed virtual memory.*
 - *ZFS administration is both simple and powerful.*
 
-&lt;/quote&gt;
+</quote>
 
  This speak by itself, Ive seen [2 Demos HERE](http://www.opensolaris.org/os/community/zfs/demos/), and while the hardware support is not that great, I’ve decide to give it a try. Note that linux may have a port of ZFS port before July 2006, as it is a sponsored Google summer of code project.
 
@@ -61,7 +61,7 @@ tags:
 | Hardware Raid |  |
 | Interface | None - Remote login is deactivated but can be re-enable: You need to comment out the line "<tt>CONSOLE=/dev/console</tt>" in the file <tt>/etc/default/login</tt> to allow remote root login. - maybe VNC remote access. |
 | Size | ?? |
-| Can be installed | - Live CD -&gt; but mount point has to e recreated   On hard disk only because of its size |
+| Can be installed | - Live CD -> but mount point has to e recreated   On hard disk only because of its size |
 | File system | EXT2/EXT3, ZFS |
 | HardDrive | ATA/SATA, SCSI, USB and Firewire |
 | Network | not well… |

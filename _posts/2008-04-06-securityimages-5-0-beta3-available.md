@@ -49,7 +49,7 @@ BUG: the reload button was not working properly, in fact only once, this is due 
 
 Work for all plugin. Text can be changed in Language
 
-| **reload hit &lt; 10 (default)** | **reload hit &gt; 10 (default)** |
+| **reload hit < 10 (default)** | **reload hit > 10 (default)** |
 |---|---|
 | [![reloadOK](/assets/images/2008/04/reloadOK_thumb.png)](/assets/images/2008/04/reloadOK.png) | [![reloadLimitExcedeed](/assets/images/2008/04/reloadLimitExcedeed_thumb.png)](/assets/images/2008/04/reloadLimitExcedeed.png) |
 

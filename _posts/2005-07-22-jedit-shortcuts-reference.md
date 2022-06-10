@@ -227,8 +227,8 @@ Within a regular expression, the following characters have special meaning:
 - <tt>$</tt> matches at the end of a line
 - <tt>\\b</tt> matches at a word break
 - <tt>\\B</tt> matches at a non-word break
-- <tt>\\&lt;</tt> matches at the start of a word
-- <tt>\\&gt;</tt> matches at the end of a word
+- <tt>\\<</tt> matches at the start of a word
+- <tt>\\></tt> matches at the end of a word
 
 #### # id2875549"></a>One-Character Operators
 
@@ -268,8 +268,8 @@ Within a regular expression, the following characters have special meaning:
 - <tt>(?#</tt>*<tt>...</tt>*) embedded comment, ignored by engine
 - <tt>(?=</tt>*<tt>...</tt>*) positive lookahead; the regular expression will match if the text in the brackets matches, but that text will not be considered part of the match
 - <tt>(?!</tt>*<tt>...</tt>*) negative lookahead; the regular expression will match if the text in the brackets does not match, and that text will not be considered part of the match
-- <tt>\\</tt>*<tt>n</tt>* where 0 &lt; *<tt>n</tt>* &lt; 10, matches the same thing the *<tt>n</tt>*th subexpression matched. Can only be used in the search string
-- <tt>$</tt>*<tt>n</tt>* where 0 &lt; *<tt>n</tt>* &lt; 10, substituted with the text matched by the *<tt>n</tt>*th subexpression. Can only be used in the replacement string
+- <tt>\\</tt>*<tt>n</tt>* where 0 < *<tt>n</tt>* < 10, matches the same thing the *<tt>n</tt>*th subexpression matched. Can only be used in the search string
+- <tt>$</tt>*<tt>n</tt>* where 0 < *<tt>n</tt>* < 10, substituted with the text matched by the *<tt>n</tt>*th subexpression. Can only be used in the replacement string
 
 #### # id2876215"></a>Branching (Alternation) Operator
 

@@ -25,9 +25,9 @@ Not all 3rd party Joomla modules are using caching. This means that in worst cas
 
 You’ll see that 90% of all modules (except official Joomla! modules which are able to deal with caching) are NOT supporting caching. We will change that now:
 
-For every module without cache, open the xml file at /modules/mod\_xxxxxxx/mod\_xxxxxxx.xml and add between &lt;params&gt; .. &lt;/params&gt;
+For every module without cache, open the xml file at /modules/mod\_xxxxxxx/mod\_xxxxxxx.xml and add between <params> .. </params>
 
-Note that if &lt;params&gt; .. &lt;/params&gt; do not exist, just add it like below
+Note that if <params> .. </params> do not exist, just add it like below
 
 Visit or reload the admin panel of that module and set the **Enable Cache** to **Yes.** Click Save/Apply at least once.
 

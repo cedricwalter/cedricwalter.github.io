@@ -24,7 +24,7 @@ These are original #Joomla 1.0.13 files modified to support com\_securityimages 
 
  First upgrade Your site to #Joomla 1.0.13, thn apply this patch with FTP/SCP by overwriting one more time files
 
-–&gt; [Download HERE](https://waltercedric.com/new/?p=1152)
+–> [Download HERE](https://waltercedric.com/new/?p=1152)
 
 ```
 <strong>

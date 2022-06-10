@@ -21,7 +21,7 @@ The current skins is configured in LocalSettings.php
 
 <style type="text/css">  .csharpcode, .csharpcode pre { 	font-size: small; 	color: black; 	font-family: consolas, "Courier New", courier, monospace; 	background-color: #ffffff; 	/*white-space: pre;*/ } .csharpcode pre { margin: 0em; } .csharpcode .rem { color: #008000; } .csharpcode .kwrd { color: #0000ff; } .csharpcode .str { color: #006080; } .csharpcode .op { color: #0000c0; } .csharpcode .preproc { color: #cc6633; } .csharpcode .asp { background-color: #ffff00; } .csharpcode .html { color: #800000; } .csharpcode .attr { color: #ff0000; } .csharpcode .alt  { 	background-color: #f4f4f4; 	width: 100%; 	margin: 0em; } .csharpcode .lnum { color: #606060; }</style>Head to {mediawiki\_root}/skins and edit the right skins, for me it is MonoBook.php
 
-Just add your analytics scripts before the &lt;/body&gt;. Now MediaWiki will add the marker in every page
+Just add your analytics scripts before the </body>. Now MediaWiki will add the marker in every page
 
 **Before**
 

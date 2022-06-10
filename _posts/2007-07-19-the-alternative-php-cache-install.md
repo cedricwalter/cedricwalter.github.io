@@ -261,8 +261,8 @@ users should consider tuning the following parameters:
  if you compiled APC against PHP 5.2.0 or later. When enabled  
  any file uploads which includes a field called  
  APC\_UPLOAD\_PROGRESS before the file field in an upload form  
- will cause APC to automatically create an upload\_&lt;key&gt;  
- user cache entry where &lt;key&gt; is the value of the  
+ will cause APC to automatically create an upload\_<key>  
+ user cache entry where <key> is the value of the  
  APC\_UPLOAD\_PROGRESS form entry.
 
  Note that the file upload tracking is not threadsafe at this  

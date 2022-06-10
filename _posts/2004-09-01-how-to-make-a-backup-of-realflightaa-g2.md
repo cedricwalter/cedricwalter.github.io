@@ -24,7 +24,7 @@ Realflight<sup>Â©Â®</sup> is protected with "Safedisk 2.0" (why the hell did
 
 To know if you can successfuly burn a working copy, look at you CD burner, it must handle the EFM technology, otherwise you can simulate the EFM with clone CD built-in function AWS (Amplify Weak Sector). The key of success with "Safedisk 2.0" is to burn the image very slowly, max 4X
 
-I used CloneCD to both read and write the software successfully. Of course this should only be done to make personal backup copies, and for no illegal purposes. With clone Cd &gt; 4.0.19, you must choose the profile: protected CD and use at least a burner that support DAO RAW (Best) or RAW SAO + SUB  
+I used CloneCD to both read and write the software successfully. Of course this should only be done to make personal backup copies, and for no illegal purposes. With clone Cd > 4.0.19, you must choose the profile: protected CD and use at least a burner that support DAO RAW (Best) or RAW SAO + SUB  
  Personnaly, I do not recommend to do a backup in this way: I prefer to store the image on disk (a lot of us has more than 100Go) and simulate the CD drive with daemon tool. Advantage, the program is starting in 5 seconds, vs 45 seconds with the original CD. You can create a virtual drive, let say L: and modify the file *fileread.ini* in *realflight/* to point to L:
 
 Try to upgrade your simulator to the version 533, because it will not ask you each 2 days to insert/swap all CD. Do not upgrade to the latest version since they introduce a new protection scheme *rfdcdverify.exe* (someone report that alcohol 120% outpassed this new security, but I did not test it)

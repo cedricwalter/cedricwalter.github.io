@@ -29,8 +29,8 @@ I simply love my PS3, so quiet and open to changes…
 <span style="font-weight: bold;"> The PS3 Internet Browser
 
 - The browser is usable, but even better as soon as you use a bluetooth keyboard,
-- Some page do not render or get displayed because of some internal scripts (flash? javascript?) -&gt; Sony please use Firefox or better Opera
-- The bookmark (select button) is useful as long as you do not have too much entries, as it is not possible to search or organize entries in directory (bookmark is just a list of site title) -&gt; Sony why not using Google bookmark
+- Some page do not render or get displayed because of some internal scripts (flash? javascript?) -> Sony please use Firefox or better Opera
+- The bookmark (select button) is useful as long as you do not have too much entries, as it is not possible to search or organize entries in directory (bookmark is just a list of site title) -> Sony why not using Google bookmark
 - When a site open popup windows, browsing is starting to be difficult, Sony I need tabs to see what is going on in the background
 
  <span style="font-weight: bold;"> What XMB is lacking

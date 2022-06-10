@@ -13,7 +13,7 @@ tags:
 <span style="font-weight: bold;">Only for #Joomla! 1.X
 
 - <span style="color: rgb(255, 0, 0); font-weight: bold;">BUG: wrong name for component: rename to <span style="font-weight: bold;">com\_akismet
-- <span style="color: rgb(255, 0, 0); font-weight: bold;">BUG register global off patch -&gt; better for security
+- <span style="color: rgb(255, 0, 0); font-weight: bold;">BUG register global off patch -> better for security
 - <span style="color: rgb(255, 0, 0); font-weight: bold;">BUG:<span style="color: rgb(0, 0, 0);"> errors in documentation
 - <span style="color: rgb(255, 0, 0); font-weight: bold;">BUG: <span style="color: rgb(0, 0, 0);">error in configuration panel
 - <span style="color: rgb(255, 0, 0); font-weight: bold;">BUG: <span style="color: rgb(0, 0, 0);">check update URL was false, release management category and descriptions up to date

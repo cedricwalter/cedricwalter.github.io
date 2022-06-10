@@ -93,8 +93,8 @@ You can print them yourself at <https://www.thingiverse.com/thing:3840374>
 - Weight : 13.5g
 - Frequency : 5.8 GHz
 - Width : 660 MHz(5.47 – 6.13 GHz)
-- Match : S11 &lt; -20db, VSWR&lt; 1.22(in center frequency)
-- Axis Scaling : &lt; 1.3dBi : 9.8DBI
+- Match : S11 < -20db, VSWR< 1.22(in center frequency)
+- Axis Scaling : < 1.3dBi : 9.8DBI
 - HPBW :55°(horizontal and vertical)
 - Radiant Efficiency :83.5
 - Polarization : LHCP
@@ -113,7 +113,7 @@ You can print them yourself at <https://www.thingiverse.com/thing:3840374>
 - Cross-Polar Rejection: -15 to -30dB (1.9%)
 - Bandwidth: 5.6GHz-6.0GHz
 - Radiation Efficiency: 99%
-- SWR: &lt;=1.5:1
+- SWR: <=1.5:1
 - Weight: 3.7 g
 - Size: 12.7mm x 20mm
 - Connector: RP-SMA
@@ -132,7 +132,7 @@ You can print them yourself at <https://www.thingiverse.com/thing:3840374>
 
 ### Maple Wireless 5.8 GHz 8.5 dBi Directional Circular Polarized Flat FPV Antenna
 
-[![](/assets/images/2020/03/4pcs-Maple-Wireless-5.8GHz-8.5dBi-Directional-Circular-Polarized-Flat-FPV-Antenna2pcs-Extended-Range-Antenna-RHCP-LHCP.png)](https://www.banggood.com/?zf=24421201) Circular Polarized maple wireless FPV antennaFrequency (MHz): 5500-5800Input impedance (Ω): 50Standing wave ratio coefficient: &lt;1.5Gain (dBi): 8.5Half po&amp;wer beam: 75°H-plane 75°E-planeFront to back ratio (dB): &gt;10Po&amp;wer capacity (W): 10Polarization mode: RHCP Circular PolarizedConnector: RP-SMA Male, SMA Male (Optional)Ambient temperature (°C): -40~+60Antenna size: Φ44\*10Weight: 16g
+[![](/assets/images/2020/03/4pcs-Maple-Wireless-5.8GHz-8.5dBi-Directional-Circular-Polarized-Flat-FPV-Antenna2pcs-Extended-Range-Antenna-RHCP-LHCP.png)](https://www.banggood.com/?zf=24421201) Circular Polarized maple wireless FPV antennaFrequency (MHz): 5500-5800Input impedance (Ω): 50Standing wave ratio coefficient: <1.5Gain (dBi): 8.5Half po&amp;wer beam: 75°H-plane 75°E-planeFront to back ratio (dB): >10Po&amp;wer capacity (W): 10Polarization mode: RHCP Circular PolarizedConnector: RP-SMA Male, SMA Male (Optional)Ambient temperature (°C): -40~+60Antenna size: Φ44\*10Weight: 16g
 
 ####  Where To Buy 
 

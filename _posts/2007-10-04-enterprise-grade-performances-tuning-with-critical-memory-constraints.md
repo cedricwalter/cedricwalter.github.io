@@ -17,7 +17,7 @@ tags:
 - Run on 2 JVM with 4Gb (Tomcat/Application server) of RAM each!
 - Run on 2 Double core AMD 64 bits server,
 - Linux 64bits,
-- Has a lot of parallel users and &gt; 10000 are registered
+- Has a lot of parallel users and > 10000 are registered
 - Use a product meta model which separate definition from implementation data.
 - Java server faces, java, ajax
 
@@ -76,11 +76,11 @@ tags:
 
  <span style="font-weight: bold; font-family: Arial Black">JVM tuning
 
- Java 1.5 and java 1.6 have made a lot of progress, and the [JIT compiler](http://en.wikipedia.org/wiki/Just-in-time_compilation) found in JAVA 1.5/1.6 is getting more and more aggressive…The basic rule is to turn the GC JVM log on (by adding –<span style="font-family: Courier New,Courier,monospace">Xloggc:&lt;file&gt; \[-XX:+PrintGCDetails\]` `) and analyze it offline with a tool like [GCViewer](http://www.tagtraum.com/gcviewer.html) (free). The JIT is doing a pretty good job as the application run more and more faster with the time, but it is just a feeling 😉  
+ Java 1.5 and java 1.6 have made a lot of progress, and the [JIT compiler](http://en.wikipedia.org/wiki/Just-in-time_compilation) found in JAVA 1.5/1.6 is getting more and more aggressive…The basic rule is to turn the GC JVM log on (by adding –<span style="font-family: Courier New,Courier,monospace">Xloggc:<file> \[-XX:+PrintGCDetails\]` `) and analyze it offline with a tool like [GCViewer](http://www.tagtraum.com/gcviewer.html) (free). The JIT is doing a pretty good job as the application run more and more faster with the time, but it is just a feeling 😉  
  By analyzing the GC logs we were able to optimize and avoid big mis configurations mistakes, one more time a lot of articles and books are available on how to tune a JVM. Sadly java has no advisor at the moment or is not using genetic algorithms to tune itself…It remains a dream for now.
 
  By using an empiric approach, which means:   
- 1 changing JVM parameters -&gt; running test cases -&gt;deciding if we give CPU away or minimize RAM usage -&gt; go back to 1
+ 1 changing JVM parameters -> running test cases ->deciding if we give CPU away or minimize RAM usage -> go back to 1
 
  We come down to the following exotic parameters (Xms and Xmx are not of any help since it is really depending on your application and how memory is managed internally)
 

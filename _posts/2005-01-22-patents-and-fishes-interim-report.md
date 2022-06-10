@@ -10,7 +10,7 @@ tags:
     - instructions
 ---
 
-<span style="font-weight: bold;"> Copy of the letter I have received from FFII &lt;<feedback@ffii.org>&gt;
+<span style="font-weight: bold;"> Copy of the letter I have received from FFII <<feedback@ffii.org>>
 
 Dear FFII supporter \[1\],
 

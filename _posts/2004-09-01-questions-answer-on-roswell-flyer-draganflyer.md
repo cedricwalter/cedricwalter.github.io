@@ -31,7 +31,7 @@ tags:
      The key of success is the quantities of air you can move to increase accuracy of controlling…you can discuss with the builder of the roswell flyer, he is open, his name is mike Dammar his site is at [www.spectrolutions.com](http://www.spectrolutions.com/)
 - Do you know of webreferences to instructions to make them ?  
      no you must build them. Mario who build Micro heli and sell nice engineered upgrades parts send me a message, here is a copy:  
-     *De: &lt;MIADsgns@aol.com&gt;  
+     *De: <MIADsgns@aol.com>  
      Objet: Re: heli blades  
      DateÂ : Donnerstag, 7. Juni 2001 20:35  Hi Cedric,
     

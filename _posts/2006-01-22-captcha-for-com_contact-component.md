@@ -20,7 +20,7 @@ thanks for the compliments I always appreciate 🙂<span style="font-style: ital
 <span style="font-weight: bold;">Some remarqs:
 
 - <span style="font-style: italic;">com\_contact is a core component of Mambo/Joomla
-- <span style="font-style: italic;">com\_contact has no extension mechanism, no way till today to plug code on the fly -&gt; I must add 8 lines of ly code in a portion of code manually. I am doing this for You, and publish the latest #Joomla version at joomlaforge
+- <span style="font-style: italic;">com\_contact has no extension mechanism, no way till today to plug code on the fly -> I must add 8 lines of ly code in a portion of code manually. I am doing this for You, and publish the latest #Joomla version at joomlaforge
 - I have never tried to deinstall <span style="font-style: italic;">com\_contact, (You can try if you want), and use the installer to install my modified version, I personnally prefer using FTP and overwrite files at the right place…since I am a developer I feel I have more control
 
 <span style="font-weight: bold;">Download: [com\_contact HERE ](http://forge.joomla.org/sf/go/projects.com_securityimages/frs.3rd_party_or_core_components)(choose the right version for You #Joomla install) and overwrite file on your server

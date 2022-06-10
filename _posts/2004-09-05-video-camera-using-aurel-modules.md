@@ -32,7 +32,7 @@ tags:
 
 - **Mini color video cam** **890 Fr**
 
-| \| \\| \\\| Characteristics \\\| \\\|---\\\| \\\| Video system \\\| PAL \\\| \\\| Effective pixel \\\| 628\*582 \\\| \\\| Synchro \\\| internal \\\| \\\| Resolution (TV lines) \\\| 380 \\\| \\\| S/N Ration \\\| &gt; 42 dB \\\| \\\| Mill Illumination \\\| 3 lux at F1.2 \\\| \\\| Electronic shutter \\\| 1/50 – 1/150 000 \\\| \\\| Video output \\\| 1V , 75 Ohms \\\| \\\| Lens \\\| 3.6 mm – 5 mm (F 2 -&gt; 4.5) \\\| \\\| Lens Angle \\\| 92Â° -&gt; 65Â° \\\| \\\| Power current \\\| 50 mA \\\| \\\| Power Source \\\| DC12V \\\| \\| \\|---\\| \| \|---\| | \| \\| \\\| Pin-Out \\\| \\\|---\\\|---\\\| \\\| Red \\\| +12v \\\| \\\| Yellow \\\| signal \\\| \\\| Black \\\| Ground \\\| \\| \\|---\\| \| \|---\| | ![](/assets/images/2004/09/camera.jpg) |
+| \| \\| \\\| Characteristics \\\| \\\|---\\\| \\\| Video system \\\| PAL \\\| \\\| Effective pixel \\\| 628\*582 \\\| \\\| Synchro \\\| internal \\\| \\\| Resolution (TV lines) \\\| 380 \\\| \\\| S/N Ration \\\| > 42 dB \\\| \\\| Mill Illumination \\\| 3 lux at F1.2 \\\| \\\| Electronic shutter \\\| 1/50 – 1/150 000 \\\| \\\| Video output \\\| 1V , 75 Ohms \\\| \\\| Lens \\\| 3.6 mm – 5 mm (F 2 -> 4.5) \\\| \\\| Lens Angle \\\| 92Â° -> 65Â° \\\| \\\| Power current \\\| 50 mA \\\| \\\| Power Source \\\| DC12V \\\| \\| \\|---\\| \| \|---\| | \| \\| \\\| Pin-Out \\\| \\\|---\\\|---\\\| \\\| Red \\\| +12v \\\| \\\| Yellow \\\| signal \\\| \\\| Black \\\| Ground \\\| \\| \\|---\\| \| \|---\| | ![](/assets/images/2004/09/camera.jpg) |
 |---|---|
 
 - a good and safety box (in case of crash) **18 Fr**

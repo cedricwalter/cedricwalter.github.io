@@ -16,7 +16,7 @@ tags:
 
 Please try to be patient, My homepage will encounter some instabilities till the end of the week end….
 
-- I have remove XANEON -&gt; so URL rewriting and SEO is switched off, will try to solve this issue (mod\_rewrite not active on server)
+- I have remove XANEON -> so URL rewriting and SEO is switched off, will try to solve this issue (mod\_rewrite not active on server)
 - The new gallery is online, expect major upload of images soon
 
 New version of my components will soon be deployed to #Joomla, in between you can enjoy pictures of boxes below:

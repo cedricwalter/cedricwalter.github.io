@@ -29,7 +29,7 @@ Wednesday 5 December 2007
 
 Friday 14 December 2007
 
-- in Melbourne Sydney -&gt; Melbourne by plane
+- in Melbourne Sydney -> Melbourne by plane
 
 Tuesday 18 December 2007
 

@@ -23,5 +23,5 @@ I commit the **latest source code** of my 2 components for Mambo, You can no gra
 3. More OO code as before (I am stucked with PHP 4.2 which is not so OO as PHP 5.0).
 4. I have also committed AkoComment, AkoBook, Mambots and templates example of hashcash use
 
-The current code in HEAD is working, but only in MD5 mode, SHA1 is giving me some problem since my PHP factory is not working for some obscure reason -&gt; The *CodeInliner.php* plugins sometimes create a *HahCashGenerator.php* with the default encryption scheme.   
+The current code in HEAD is working, but only in MD5 mode, SHA1 is giving me some problem since my PHP factory is not working for some obscure reason -> The *CodeInliner.php* plugins sometimes create a *HahCashGenerator.php* with the default encryption scheme.   
 **Attention** Hashcash require Log4PHP for Mambo!

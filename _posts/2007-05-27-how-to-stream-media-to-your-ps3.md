@@ -73,7 +73,7 @@ PS3 owners will be able to upgrade their PS3 with the latest Version 1.80 firmwa
 
 - - - - - -
 
- &amp;title=<span style="font-weight: bold;">Preparing your local network<span style="font-weight: bold;">” /&gt;Preparing your local network You must check if your router has “UPnP enabled for automatic device configuration”. Connect to the router administrator panel http://192.168.1.1 (only for Netgear, consult the notice for the correct admin adress if you are unsure)
+ &amp;title=<span style="font-weight: bold;">Preparing your local network<span style="font-weight: bold;">” />Preparing your local network You must check if your router has “UPnP enabled for automatic device configuration”. Connect to the router administrator panel http://192.168.1.1 (only for Netgear, consult the notice for the correct admin adress if you are unsure)
 
 ![](/assets/images/2007/05/upnp.enabled.netgear.admin_.gif)
 
@@ -89,7 +89,7 @@ PS3 owners will be able to upgrade their PS3 with the latest Version 1.80 firmwa
 
 - - - - - -
 
- &amp;title=<span style="font-weight: bold;">Installing a UPNP server<span style="font-weight: bold;">” /&gt;Installing a UPNP server The challenge is now to find a server UPNP implementation for your operating system.  
+ &amp;title=<span style="font-weight: bold;">Installing a UPNP server<span style="font-weight: bold;">” />Installing a UPNP server The challenge is now to find a server UPNP implementation for your operating system.  
 ![](/assets/images/2007/05/linux.jpg)![](/assets/images/2007/05/MacLogo.jpg)![](/assets/images/2007/05/windowsVista.png)<span style="font-weight: bold;"> 
 
 | [TwonkyVision](http://www.twonkyvision.com/) |  |
@@ -109,7 +109,7 @@ PS3 owners will be able to upgrade their PS3 with the latest Version 1.80 firmwa
 
 - - - - - -
 
- Windows only<span style="font-weight: bold;"> <span style="font-weight: bold;">&amp;title=<span style="font-weight: bold;"> <span style="font-weight: bold;">Windows only<span style="font-weight: bold;">” /&gt;<span style="font-weight: bold;">Windows only<span style="font-weight: bold;"> ![](/assets/images/2007/05/windowsVista.png)
+ Windows only<span style="font-weight: bold;"> <span style="font-weight: bold;">&amp;title=<span style="font-weight: bold;"> <span style="font-weight: bold;">Windows only<span style="font-weight: bold;">” /><span style="font-weight: bold;">Windows only<span style="font-weight: bold;"> ![](/assets/images/2007/05/windowsVista.png)
 
 | <span style="font-weight: bold;">Windows Media Player 11 | Not recommended as it install a hell of DRM, links, zune or napster shops. While a normal user wont see it, it is more than innaceptable. You say do not assign Media player to your media, but it do it anyway. Clippled graphical user interface. it do not play all kind of exotic format, but download missing codecs (and even after some file do not work)    Install it only if you want to view video on your PC, but you may be better served with [Videolan (VLC)](http://www.videolan.org/) as it open nearly anything and do to support DRM.  1. Download and install Windows Media Player 11    2. Click on the Library tab     3. On the left you’ll see a tree structure. Right click on Library in the tree structure.     4. Click Media Sharing     5. Enable your options, what folders, devices, etc.     6. When your PS3 turns on and scans, Windows will pop up and ask if it’s ok to allow the device. Allow it.    |
 |---|---|
@@ -123,7 +123,7 @@ PS3 owners will be able to upgrade their PS3 with the latest Version 1.80 firmwa
 
 - - - - - -
 
- &amp;title=<span style="font-weight: bold;">Results<span style="font-weight: bold;">” /&gt;Results ![](/assets/images/2007/05/streaming.to_.ps3_.result.jpg) 2 UPNP server found
+ &amp;title=<span style="font-weight: bold;">Results<span style="font-weight: bold;">” />Results ![](/assets/images/2007/05/streaming.to_.ps3_.result.jpg) 2 UPNP server found
 
 ![](/assets/images/2007/05/streaming.to_.ps3_.result-1.jpg) mp3 albums fund  
 ![](/assets/images/2007/05/streaming.to_.ps3_.result-2.jpg) pictures browsing

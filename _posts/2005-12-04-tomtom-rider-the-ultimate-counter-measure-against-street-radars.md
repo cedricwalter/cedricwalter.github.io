@@ -20,12 +20,12 @@ image: /wp-content/uploads/2005/07/tomtomrider.jpg
 
 |  | **Inner City** | **Outside City** | **On Highway** |
 |---|---|---|---|
-| <span style="color: #000000; font-size: small;">**&gt; 1 – 5 km/h** | <span style="color: #000000; font-size: small;">**40** | <span style="color: #000000; font-size: small;">**40**  | <span style="color: #000000; font-size: small;">**20** |
-| <span style="color: #000000; font-size: small;">**&gt; 6 – 10 km/h** | <span style="color: #000000; font-size: small;">**120** | <span style="color: #000000; font-size: small;">**100** | <span style="color: #000000; font-size: small;">**60** |
-| <span style="color: #000000; font-size: small;">**&gt; 11 – 15 km/h** | <span style="color: #000000; font-size: small;">**250** | <span style="color: #000000; font-size: small;">**160** | <span style="color: #000000; font-size: small;">**120** |
-| <span style="color: #000000; font-size: small;">**&gt; 16 – 20 km/h** | **Tribunal** | <span style="color: #000000; font-size: small;">**240** | <span style="color: #000000; font-size: small;">**180** |
-| <span style="color: #000000; font-size: small;">**&gt; 21 – 25 km/h** |  | **Tribunal** | <span style="color: #000000; font-size: small;">**260** |
-| <span style="color: #000000; font-size: small;">**&gt; 25 km/h** |  |  | **Tribunal** |
+| <span style="color: #000000; font-size: small;">**> 1 – 5 km/h** | <span style="color: #000000; font-size: small;">**40** | <span style="color: #000000; font-size: small;">**40**  | <span style="color: #000000; font-size: small;">**20** |
+| <span style="color: #000000; font-size: small;">**> 6 – 10 km/h** | <span style="color: #000000; font-size: small;">**120** | <span style="color: #000000; font-size: small;">**100** | <span style="color: #000000; font-size: small;">**60** |
+| <span style="color: #000000; font-size: small;">**> 11 – 15 km/h** | <span style="color: #000000; font-size: small;">**250** | <span style="color: #000000; font-size: small;">**160** | <span style="color: #000000; font-size: small;">**120** |
+| <span style="color: #000000; font-size: small;">**> 16 – 20 km/h** | **Tribunal** | <span style="color: #000000; font-size: small;">**240** | <span style="color: #000000; font-size: small;">**180** |
+| <span style="color: #000000; font-size: small;">**> 21 – 25 km/h** |  | **Tribunal** | <span style="color: #000000; font-size: small;">**260** |
+| <span style="color: #000000; font-size: small;">**> 25 km/h** |  |  | **Tribunal** |
 
 <span style="font-family: Arial Black; font-size: medium;">What the law say:
 
@@ -107,11 +107,11 @@ Why? Because You may be not alerted if the GPS do not think You are on the same 
 
 What is really interesting is that Tom Tom use heavily Open Source software and redistribute as state by the GPL the modified source code (More to read at [www.tomtom.com/gpl](http://www.tomtom.com/gpl) )
 
-- Blowfish (The Blowfish Encryption Algorithm) -&gt; Maybe for encrypting the ROM or some sensitive data like MAPs
+- Blowfish (The Blowfish Encryption Algorithm) -> Maybe for encrypting the ROM or some sensitive data like MAPs
 - ClipUtils (The Cohen-Sutherland line clipping algorithm)
 - CoRDiC (Coordinate Rotation Digital Computer)
 - MD5 (MD5 message-digest algorithm)
-- Ogg-Vorbis (Tremor-variable)-&gt; Even If I have found no ogg vobis compatible file, wav seems to be supported through…
+- Ogg-Vorbis (Tremor-variable)-> Even If I have found no ogg vobis compatible file, wav seems to be supported through…
 
 <span style="color: #0000ff; font-family: Arial Black; font-size: large;"><span style="font-size: large;"><span style="color: #333333; font-family: Arial Black;"><span style="font-family: Arial Black; font-size: large;">![](/assets/images/2005/12/titel.jpg) **Where to Find POI Radars database?**
 
@@ -136,7 +136,7 @@ Download**: A free list can be download at [www.radars-fixes.com](http://www.rad
 <span style="font-family: Arial Black; font-size: large;">radarfalle.de
 
 **Map: France ![](/assets/images/2005/12/france.gif) Germany ![](/assets/images/2005/12/germany.gif) Switzerland, others… (Europe)  
-Download**: A list (&lt;10euro per year) can be dowmload at [www.radarfalle.de](http://www.radarfalle.de/) in the [download section](http://www.alertegps.com/Download_index.asp?a=ar&s=)  
+Download**: A list (<10euro per year) can be dowmload at [www.radarfalle.de](http://www.radarfalle.de/) in the [download section](http://www.alertegps.com/Download_index.asp?a=ar&s=)  
 **Updates**: Daily!  
 **Quality of data:**
 
@@ -173,7 +173,7 @@ Download**: A list (&lt;10euro per year) can be dowmload at [www.radarfalle.de](
 **Map: France ![](/assets/images/2005/12/france.gif) Download at** [http://www.gpspassion.com/forumsen/topic.asp?TOPIC\_ID=21763](http://www.gpspassion.com/forumsen/topic.asp?TOPIC_ID=21763)  
 **Updates** are **Monthly** (“Standard”) or BiMonthly (named “+” If You are a club member) **Quality of data**
 
-| \* Ventilation: **non** – <span style="color: #ff0000; font-size: small;">par vitesse   \* Parametrage auto: **non** – <span style="color: #ff0000; font-size: small;">Oui   \* Revision: **33** – <span style="color: #ff0000; font-size: small;">33.1   \* Radars Fixes: **580** – <span style="color: #ff0000; font-size: small;">623   \* Radars Mobiles: **1**,**000** – <span style="color: #ff0000; font-size: small;">8,785   \* Radars Feu Rouge: **47** – <span style="color: #ff0000; font-size: small;">55   \* Radars de Distance: **11** – <span style="color: #ff0000; font-size: small;">11 |
+| \* Ventilation: **non** – par vitesse   \* Parametrage auto: **non** – Oui   \* Revision: **33** – 33.1   \* Radars Fixes: **580** – 623   \* Radars Mobiles: **1**,**000** – 8,785   \* Radars Feu Rouge: **47** – 55   \* Radars de Distance: **11** – 11 |
 |---|
 
 **Legend**:

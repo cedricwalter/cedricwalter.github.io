@@ -105,14 +105,14 @@ Copy this drivers into tomcat shared lib, aka into /home/confluence/confluence/l
 
 ```
 > \# mysql –u root –p   
-> mysql&gt; `create database <strong><font color="#ff8000">confluence </strong>character set utf8; 
+> mysql> `create database <strong><font color="#ff8000">confluence </strong>character set utf8; 
 
-`mysql&gt; `CREATE USER <a href="mailto:'confluence'@'localhost'">'<strong>confluence</strong>'@'localhost'</a> 
+`mysql> `CREATE USER <a href="mailto:'confluence'@'localhost'">'<strong>confluence</strong>'@'localhost'</a> 
 
         IDENTIFIED BY '<strong>xxxxxxxxxx</strong>';`   
-> mysql&gt; `GRANT ALL PRIVILEGES ON confluence  TO '<strong>confluence</strong>'@'localhost' WITH GRANT OPTION; 
+> mysql> `GRANT ALL PRIVILEGES ON confluence  TO '<strong>confluence</strong>'@'localhost' WITH GRANT OPTION; 
 
-`mysql&gt; `FLUSH PRIVILEGES;`
+`mysql> `FLUSH PRIVILEGES;`
 ```
 
 ### Configure Confluence to connect to this new database
@@ -130,7 +130,7 @@ driverClassName=”com.mysql.jdbc.Driver”
 url=”jdbc:mysql://localhost:3306/**<font color="#ff8000">confluence**?autoReconnect=true&amp;useUnicode=true&amp;characterEncoding=UTF8″   
 maxActive=”20″   
 maxIdle=”7″   
-validationQuery=”select 1″ /&gt;   
+validationQuery=”select 1″ />   
 </context>  
 </host>  
 </engine>

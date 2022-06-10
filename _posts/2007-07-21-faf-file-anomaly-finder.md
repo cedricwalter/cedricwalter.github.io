@@ -90,7 +90,7 @@ A very informative article explaining the problem on a concrete example (Gallery
 then all files has to be ` rw- --- ---` and directory `r-x------
 
 `Advantages:` `you can use Joomla! administrator panel  
-BUT: any bug in PHP code, attack can read or overwrite any files! -&gt; highly insecure  
+BUT: any bug in PHP code, attack can read or overwrite any files! -> highly insecure  
 ``  
 <span style="font-weight: bold;">Better would be for all files/dir in your HTTP directory to changes accordingly to the right web user!  
 `# chown -R cedric .

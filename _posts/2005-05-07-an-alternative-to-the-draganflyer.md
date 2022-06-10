@@ -15,7 +15,7 @@ tags:
     - specification
 ---
 
-| ![](/assets/images/2005/05/x_ufo_cen.jpg) &lt;&gt;&lt;&gt;&lt;&gt;&lt;&gt; /&gt; /&gt; /&gt; /&gt; /&gt; /&gt; /&gt; /&gt; /&gt;&gt;
+| ![](/assets/images/2005/05/x_ufo_cen.jpg) <><><><> /> /> /> /> /> /> /> /> />>
 
 |
 |---|

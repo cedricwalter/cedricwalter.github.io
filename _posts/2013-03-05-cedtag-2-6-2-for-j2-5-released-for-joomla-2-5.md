@@ -25,7 +25,7 @@ tags:
 
 **BUG** title of html page was not translated correctly and was displayed wrongly like this
 
-&lt;title&gt;%1$s items tagged with %2$s | created %3$s | Hits: %4$sjoomla | test&lt;/title&gt;
+<title>%1$s items tagged with %2$s | created %3$s | Hits: %4$sjoomla | test</title>
 
 **BUG** solve cedtag: Warning: Missing argument 8 for plgContentCedTag::execute(), called in /htdocs/public/www/plugins/content/cedtag/cedtag.php on line 72 and   
 defined in /htdocs/public/www/plugins/content/cedtag/cedtag.php on line 136 Fatal error: Call to a member function get()   

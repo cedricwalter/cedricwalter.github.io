@@ -18,8 +18,8 @@ tags:
 |---|---|---|---|
 | <span style="COLOR: rgb(51,51,255)">mosMenuBar::startTable(); | <span style="COLOR: rgb(0,102,0)">JMenuBar::startTable(); | PHP code |  |
 | <span style="COLOR: rgb(51,51,255)">defined(‘\_VALID\_MOS’) or die(‘Direct Access to this location is not allowed.’); | <span style="COLOR: rgb(0,102,0)">defined( ‘\_JEXEC’ ) or die( ‘Restricted access’ ); | PHP code |  |
-| require\_once( <span style="COLOR: rgb(51,51,255)">$mainframe-&gt;getPath( ‘toolbar\_html’ ) ); | require\_once(<span style="COLOR: rgb(0,102,0)"> JApplicationHelper::getPath( ‘toolbar\_html’ ) ); | PHP code |  |
-| &lt;?xml version="1.0" encoding="iso-8859-1"?&gt;   &lt;<span style="COLOR: rgb(51,51,255)">mosinstall type="component" version="1.0.0"&gt;   …. | &lt;?xml version="1.0" encoding="iso-8859-1"?&gt;   &lt;<span style="COLOR: rgb(0,102,0)">install type="component" version="1.0.0"&gt;   …. | Installer XML file |  |
+| require\_once( <span style="COLOR: rgb(51,51,255)">$mainframe->getPath( ‘toolbar\_html’ ) ); | require\_once(<span style="COLOR: rgb(0,102,0)"> JApplicationHelper::getPath( ‘toolbar\_html’ ) ); | PHP code |  |
+| <?xml version="1.0" encoding="iso-8859-1"?>   <<span style="COLOR: rgb(51,51,255)">mosinstall type="component" version="1.0.0">   …. | <?xml version="1.0" encoding="iso-8859-1"?>   <<span style="COLOR: rgb(0,102,0)">install type="component" version="1.0.0">   …. | Installer XML file |  |
 | More to come… |  |  |  |
 |  |  |  |  |
 

@@ -20,8 +20,8 @@ Be patient, the package 1.1 of captcha for mambo will be soon available. click r
 |---|---|---|
 | **bug:** |  | since imageGenerator.php was in /administrator/components/com\_securityimages it was impossible to have a file .htaccess to protect this zone (admin panel). I have move moved this file to /components/com\_securityimages (in semi public zone) |
 | **bug:** |  | error while viewing logfile |
-| **bug:** |  | in Mambo installer, not all file were copied -&gt; false XMl deployment descriptor |
-| **bug:** |  | not checking that security.txt has write right before opening it -&gt; a warning is also in the settings panel |
+| **bug:** |  | in Mambo installer, not all file were copied -> false XMl deployment descriptor |
+| **bug:** |  | not checking that security.txt has write right before opening it -> a warning is also in the settings panel |
 | **new:** | ![](/assets/images/2005/08/emptyTable.gif) | in database panel, empty temporary table and get an idea of pending post (statistics) |
 | **new:** | ![](/assets/images/2005/08/previewBkgImages.gif) | available backgound image preview |
 | **new:** | ![](/assets/images/2005/08/interval.gif) | better documentation |

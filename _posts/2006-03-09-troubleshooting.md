@@ -13,7 +13,7 @@ tags:
 ---
 
 <span style="FONT-WEIGHT: bold; COLOR: rgb(255,0,0); FONT-FAMILY: Arial Black">Golden Rules  
-Do not contact me directly, this component is used worldwide (&gt; 20 000 installations as today 2006.03.04) and I can not help personally all people.
+Do not contact me directly, this component is used worldwide (> 20 000 installations as today 2006.03.04) and I can not help personally all people.
 
 <span style="FONT-WEIGHT: bold; COLOR: rgb(255,0,0); FONT-FAMILY: Arial Black">If some problems arise
 

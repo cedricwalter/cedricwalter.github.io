@@ -23,8 +23,8 @@ were found more than one time in apache error.log
 
 Remember You should ASAP update the following components to their latest version:
 
-- <span style="font-weight: bold;">com\_securityimages &lt; 3.0.5 use at least a version &gt; 3.0.6
-- <span style="font-weight: bold;">com\_hashcash &lt; 1.2.1 use at least a version &gt; 1.2.2
+- <span style="font-weight: bold;">com\_securityimages < 3.0.5 use at least a version > 3.0.6
+- <span style="font-weight: bold;">com\_hashcash < 1.2.1 use at least a version > 1.2.2
 - <span style="font-weight: bold;">com\_bayesiannaivefilter has been developed but never release as a component, but it is still available at #Joomla forge developer tree.
 
 This attack is trying to execute a scripts, locate at <span style="font-style: italic;">http://recon.reschat.dk/images/gallery/tool25.txt. If You go there, You’ll find that th script is readable and contains a header.

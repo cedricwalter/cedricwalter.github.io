@@ -375,7 +375,7 @@ cache and a faster CD controller (not a double-speed drive).
  The MVS Cart you want to convert  
  MAS Systems’ number is at the bottom of the FAQ. Almost all of the so-called ‘prototypes’ out there are   
  merely converted carts. One can tell converted carts, because when opened they contain tons of re-wiring;   
- regular cartridges are clean inside. Jeff Kurtz had a list of what “sacrifice” carts are needed for MVS-&gt;Home   
+ regular cartridges are clean inside. Jeff Kurtz had a list of what “sacrifice” carts are needed for MVS->Home   
  conversion, of which the list can be found with an adequate internet search.
 
 ## —-Are you sure about the “converted” carts? Are they worth buying?
@@ -473,11 +473,11 @@ cache and a faster CD controller (not a double-speed drive).
  fit in my home system. The original reason why SNK made the MVS and Home Cartridges incompatible, by   
  the way, is because arcade operators couldn’t buy the “cheap” home games for arcade use.
 
-## —-What about an MVS-&gt;Home Cart converter?
+## —-What about an MVS->Home Cart converter?
 
  There have been some made as of late that has piqued my attention (the !Arcade! adapter for example),   
  however, long-term reliability concerns of these units are abound. There are reports of them not working   
- with every game, and failure rates exceed that of the Neo CDZ. I’d say FORGET about these MVS-&gt;Home   
+ with every game, and failure rates exceed that of the Neo CDZ. I’d say FORGET about these MVS->Home   
  cart adapters, as one won’t get the full functionality of the MVS system. This option is for the people who   
  want the best of both by saving space, but for the cost of this thing, one can probably get a full size MVS   
  cabinet.
@@ -522,7 +522,7 @@ cache and a faster CD controller (not a double-speed drive).
  Cartridge. One can’t put the MVS Trackball game cart into a regular MVS board, as it will not work. There are   
  no other games planned on the trackball platform.
 
-## —-I want to get an MVS system (Arcade machine or Super Gun-&gt;MVS board), but where, or how do I go   
+## —-I want to get an MVS system (Arcade machine or Super Gun->MVS board), but where, or how do I go   
  about finding one?
 
  That’s a tough call. First, decide if you have enough money ($600 or so for a newer 1-slot machine with a 25″   

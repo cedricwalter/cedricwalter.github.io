@@ -178,7 +178,7 @@ i.e. the application could still function properly even if they were not correct
 ## Installing PMD in Eclipse
 
 1. Start Eclipse.
-2. Start the installation procedure : select the Help&gt;Software Updates&gt;Find and Install… menu item.
+2. Start the installation procedure : select the Help>Software Updates>Find and Install… menu item.
 3. Select “Search for new features to install” option and click Next.
 4. Click New Remote Site…
 5. Give a name (ie PMD Eclipse Site), enter the URL <http://pmd.sf.net/eclipse>

@@ -98,10 +98,10 @@ uninstall Un-install Package
 update-channels Update the Channel List   
 upgrade Upgrade Package   
 upgrade-all Upgrade All Packages   
-Usage: pear \[options\] command \[command-options\] &lt;parameters&gt;   
+Usage: pear \[options\] command \[command-options\] <parameters>   
 Type "pear help options" to list all options.   
 Type "pear help shortcuts" to list all command shortcuts.   
-Type "pear help &lt;command&gt;" to get the help for the specified command. 
+Type "pear help <command>" to get the help for the specified command. 
 
 #### Pear References
 

@@ -58,7 +58,7 @@ I personaly recommend TomTom but any GPS device is able to do the Job
 | [<font color="#0000ff" size="1">Vendor ](http://www.radarfalle.de/) | [<font color="#0000ff" size="1">Vendor](http://www.navigating.de/)  | [<font color="#0000ff" size="1">Vendor](http://www.poiedit.com/) |
 | [Installation](http://www.radarfalle.de/software/tomtom_installation.php) (TomTom) |  |  |
 | ![](/assets/images/2005/11/radarfalle-example.gif) | [![](/assets/images/2005/11/poiwarner.gif)](http://www.navigating.de/TomTom_en/POI/Index.htm) |  |
-| &lt;10euro yearly fees | Also available for TomTom   Allow internet update for free if you   have a licence | A tool for Your PC manages all of your poi |
+| <10euro yearly fees | Also available for TomTom   Allow internet update for free if you   have a licence | A tool for Your PC manages all of your poi |
 |  | **Reviews**:   [french tutorial for TomTom](http://www.universpocketpc.com/umnet_fr/pages_php/p_aidcon_conseils/index.php?FM=POI_Warner_TT.htm) | **Reviews**:   [French tutorial on pocket PC](http://www.universpocketpc.com/umnet_fr/pages_php/p_aidcon_conseils/index.php?FM=POIEdit_TT.htm) |
 
 ![](/assets/images/2005/11/dot.jpg) **How to enter a new camera position**
@@ -76,5 +76,5 @@ For an up to date database, the system is only working as long as You receive da
 
 **![](/assets/images/2005/11/dot.jpg) Some links….**
 
-- [www.radarfalle.de](http://www.radarfalle.de/) is providing for &lt;10euro/Year a subscription which allow YOu to download their plugins for all major GPS unit
+- [www.radarfalle.de](http://www.radarfalle.de/) is providing for <10euro/Year a subscription which allow YOu to download their plugins for all major GPS unit
 - [http://www.radarsfixes.com/](http://www.radarsfixes.com/) Les emplacements des radars fixes en France, classÃ&#131;Â©s pas dÃ&#131;Â©partements et par routes. TÃ&#131;Â©lÃ&#131;Â©charger la carte des radars et la liste des coordonnÃ&#131;Â©es GPS.

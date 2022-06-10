@@ -20,8 +20,8 @@ tags:
 
 | **Type/    Description** | **Prix unitaire  Japon    (Hobby-Net)    $** | **Prix unitaire     France    (Belgique)    €** | **QuantitÃ©** | **Total japon    $** | **Total france    €** | **DiffÃ©rences** |
 |---|---|---|---|---|---|---|
-| CA3025 Frame gauche | 11 | 25 | 2 | 22 | 50 | &gt;50% |
-| CA3026 Frame droit | 11 | 25 | 2 | 22 | 50 | &gt;50% |
+| CA3025 Frame gauche | 11 | 25 | 2 | 22 | 50 | >50% |
+| CA3026 Frame droit | 11 | 25 | 2 | 22 | 50 | >50% |
 | CA3012 Mixing arms | 5 | 12.5 | 5 | 25 | 62.5 |  |
 | CA3020 main Mast | 7 | 15 | 5 | 35 | 75 |  |
 | CA3019 Main gear | 5 | 14 | 5 | 25 | 70 |  |

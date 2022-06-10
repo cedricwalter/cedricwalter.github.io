@@ -77,7 +77,7 @@ This page should be considered as a start, I have currently no plan to transform
         -
     - **Links:** 
         - [**Web Application Security Fundamentals**](http://msdn.microsoft.com/library/en-us/secmod/html/secmod74.asp) 
-        - [**Architectural Patterns for Enabling Application Security (2004) slides \[pdf &gt;**](http://eclipse.ime.usp.br/cursos/OO/security.pdf) **from Joe Yoder at IME/USP**
+        - [**Architectural Patterns for Enabling Application Security (2004) slides \[pdf >**](http://eclipse.ime.usp.br/cursos/OO/security.pdf) **from Joe Yoder at IME/USP**
         - **IBM Javaworks has a free Structural Analysis Tool**
 
 - **Back doors and debug options:** Back doors are path in the application not documented or not intended to be use directly by the user, debug options are switch place by the developer to understand or correct the application if it behave not correctly. 
@@ -195,7 +195,7 @@ This page should be considered as a start, I have currently no plan to transform
     - **Links:** [Hacking Web Applications Using Cookie Poisoning (pdf)](http://www.cgisecurity.com/lib/CookiePoisoningByline.pdf)
 18. **Cookie Snooping:** attack unencrypted cookies not digitally signed or only protected by a timestamp
     - Most of the time, cookie are only encrypted in BASE64
-    - **Solution: encrypts, signs and time-stamps your cookies! avoid also -&gt;****Parameter Tampering**
+    - **Solution: encrypts, signs and time-stamps your cookies! avoid also ->****Parameter Tampering**
 19. **Cookie brute force attack:** inspecting content of cookie and by guessing via a brute force attack on a parameter entering into a system.
 20. **Cookie manipulations:** 
     - 

@@ -51,7 +51,7 @@ echo Stopping old instance
 ./atlassian-jira-enterprise-$old-standalone/bin/shutdown.sh
 
 echo dumping old database version   
-mysqldump –opt $db\_name &gt; $db\_name.sql
+mysqldump –opt $db\_name > $db\_name.sql
 
 echo Retrieving latest version   
 wget [http://www.atlassian.com/software/jira/downloads/binary/atlassian-jira-enterprise-$new-standalone.tar.gz](http://www.atlassian.com/software/jira/downloads/binary/atlassian-jira-enterprise-$new-standalone.tar.gz)

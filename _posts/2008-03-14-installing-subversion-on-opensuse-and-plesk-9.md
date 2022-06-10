@@ -108,7 +108,7 @@ And change some settings
 > ErrorDocument 501 default  
 > ErrorDocument 502 default  
 > ErrorDocument 503 default   
->  &lt;Location /&gt;  
+>  <Location />  
 >  DAV svn  
 >  SVNParentPath /srv/svn/repos  
 >  SVNListParentPath on  
@@ -117,12 +117,12 @@ And change some settings
 >  AuthBasicProvider file  
 >  AuthUserFile /srv/svn/auth/svn.htpasswd  
 >  SetOutputFilter DEFLATE  
->  &lt;LimitExcept GET PROPFIND OPTIONS REPORT&gt;  
+>  <LimitExcept GET PROPFIND OPTIONS REPORT>  
 >  Require valid-user  
->  &lt;/LimitExcept&gt;  
->  &lt;/Location&gt; 
+>  </LimitExcept>  
+>  </Location> 
 > 
-> &lt;/IfModule&gt;
+> </IfModule>
 
 To reread and include overridden vhost.conf, and tell [Plesk](http://www.parallels.com/eu/products/plesk/) that you have create new vhost.conf, run at least once   
 \# /usr/local/psa/admin/sbin/websrvmng

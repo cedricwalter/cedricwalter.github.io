@@ -13,6 +13,6 @@ tags:
     - 'RC helicopter'
 ---
 
-- ![](/assets/images/2004/08/sm_doc_rouge.gif) Graisse au silicone pour graisser les caoutchouc amortisseur de têtes rotor, pas autre chose les autres huiles ou graisse a base de pétrole détruisent le caoutchouc.
-- ![](/assets/images/2004/08/sm_doc_rouge.gif) Graisse au téflon pour les roulements, on ne graisse que les roulements en boitier, les courrones externes jamais car la poussière s’accrocherait et ferait abrasif.
+-  Graisse au silicone pour graisser les caoutchouc amortisseur de têtes rotor, pas autre chose les autres huiles ou graisse a base de pétrole détruisent le caoutchouc.
+-  Graisse au téflon pour les roulements, on ne graisse que les roulements en boitier, les courrones externes jamais car la poussière s’accrocherait et ferait abrasif.
 - La roue libre doit être bien nettoyée à intervalle régulier (tout les 50 vols sur le caliber 30, moins sur d’autre machine) sinon elle risque de se bloquer

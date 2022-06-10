@@ -23,7 +23,7 @@ Ungeöffnete, Factory Sealed. Versiegelt, Neuware, Verschweisst, Fabrikneu!
 Zu allen bekannten Älteren Konsolen wie:   
 Playstation 1 oder 2, Super Nintendo, Nintendo64, Sega Master System, Sega Mega Drive, Saturn, Dreamcast, Atari Jaguar und alle anderen…
 
-### [–&gt; Kontakt &lt;--](http://www.waltercedric.com/-contact-me.html)
+### [–> Kontakt <--](http://www.waltercedric.com/-contact-me.html)
 
 ![140-consoles-jeux-videos](/assets/images/2010/10/140consolesjeuxvideos_997cc3ead233563d9ab489a73612b94f.jpg "140-consoles-jeux-videos")
 

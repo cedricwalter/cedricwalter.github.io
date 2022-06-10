@@ -33,4 +33,4 @@ I use to have a raptor in 2000 but it has a so strong woof and poof… and since
 - Choose upgrades that can increase SECURITY of your model and persons, nothing else. Upgrades part can break or usually bend in a crash (metal swashplate….)
 - You can increase security by only changing some parts in your heli or following some advices/tips from experimented pilot or forums.
 - A crash can occur at ANY TIME, don't play poker with your life ! always sacrify the heli ! it is just a mechanical toy and you can buy many parts to repair it, it is not the case for your body or for replacing killed people…..
-- Cause of crash in increasing order : external events (birds, collision with airplane) -&gt; mechanical failures -&gt; radio glitches -&gt; pilot MISTAKES
+- Cause of crash in increasing order : external events (birds, collision with airplane) -> mechanical failures -> radio glitches -> pilot MISTAKES

@@ -175,7 +175,7 @@ tags:
 | trade | &#153; | &amp;#8482; | trade mark sign, U+2122 ISOnum |
 | alefsym | ℵ | &amp;#8501; | alef symbol = first transfinite cardinal, |
 | larr | ← | &amp;#8592; | leftwards arrow, U+2190 ISOnum |
-| uarr | ↑ | &amp;#8593; | upwards arrow, U+2191 ISOnum–&gt; |
+| uarr | ↑ | &amp;#8593; | upwards arrow, U+2191 ISOnum–> |
 | rarr | → | &amp;#8594; | rightwards arrow, U+2192 ISOnum |
 | darr | ↓ | &amp;#8595; | downwards arrow, U+2193 ISOnum |
 | harr | ↔ | &amp;#8596; | left right arrow, U+2194 ISOamsa |
@@ -236,8 +236,8 @@ tags:
 | diams | ♦ | &amp;#9830; | black diamond suit, U+2666 ISOpub |
 | quot | " | &amp;#34; | quotation mark = APL quote, |
 | amp | &amp; | &amp;#38; | ampersand, U+0026 ISOnum |
-| lt | &lt; | &amp;#60; | less-than sign, U+003C ISOnum |
-| gt | &gt; | &amp;#62; | greater-than sign, U+003E ISOnum |
+| lt | < | &amp;#60; | less-than sign, U+003C ISOnum |
+| gt | > | &amp;#62; | greater-than sign, U+003E ISOnum |
 | OElig | &#140; | &amp;#338; | latin capital ligature OE, |
 | oelig | &#156; | &amp;#339; | latin small ligature oe, U+0153 ISOlat2 |
 | Scaron | &#138; | &amp;#352; | latin capital letter S with caron, |

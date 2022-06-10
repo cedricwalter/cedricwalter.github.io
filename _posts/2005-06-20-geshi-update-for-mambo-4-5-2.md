@@ -53,7 +53,7 @@ to change the value of these flags: open the file */mambots/content/geshi.php* a
 ```
 
 OR  
- specify for each &lt;pre&gt; &lt;/pre&gt; tag ther value see "example of use"
+ specify for each <pre> </pre> tag ther value see "example of use"
 
 **\### use a CSS ###**  
 – Point a browser to [www.yoursite.com/mambots/content/geshi/cssgen.php](http://www.yoursite.com/mambots/content/geshi/cssgen.php)  
@@ -115,7 +115,7 @@ afterward, even if I think it is not a big security issue…
   lang="" is recommended since geshi can not detect thhe language automatically:
 
  **example with java:**  
- &lt;pre lang="java" useCSS="false" useHeader="false"&gt;  
+ <pre lang="java" useCSS="false" useHeader="false">  
  private long startStatistics() {  
  long before = System.currentTimeMillis();  
  if (logger.isDebugEnabled()) {  
@@ -123,7 +123,7 @@ afterward, even if I think it is not a big security issue…
  }  
  return before;  
  }  
- &lt;/pre&gt;
+ </pre>
 
  publish of course the Geshi mambots in Mambo!
 

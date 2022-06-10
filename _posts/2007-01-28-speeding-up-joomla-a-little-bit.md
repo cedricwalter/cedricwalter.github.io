@@ -74,7 +74,7 @@ solution:
  but spammers were still able to insert comments, so I edit the file components/com\_zoom/lib/image.class.php   
 //add because of spammers   
 header(“HTTP/1.0 403 Forbidden”);   
-//$database-&gt;setQuery(“INSERT INTO #\_\_zoom\_comments (imgid,cmtname,cmtcontent,cmtdate) VALUES (‘”.mysql\_escape\_str
+//$database->setQuery(“INSERT INTO #\_\_zoom\_comments (imgid,cmtname,cmtcontent,cmtdate) VALUES (‘”.mysql\_escape\_str
 
 Note: I recommend You to use also mod\_evasive and mod\_security (root access needed), see aprevious article on my site
   

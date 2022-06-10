@@ -11,7 +11,7 @@ image: /wp-content/uploads/2016/10/blockchain.jpg
 
 ![](/assets/images/2016/10/blockchain.jpg)
 
-Lykke Wallet Immediate settlement. Direct ownership. One touch. 0% commission . Their marketplace utilizes the blockchain technology pioneered by Bitcoin to offer immediate settlement and direct ownership.&gt;
+Lykke Wallet Immediate settlement. Direct ownership. One touch. 0% commission . Their marketplace utilizes the blockchain technology pioneered by Bitcoin to offer immediate settlement and direct ownership.>
 
 - <https://lykke.com/>
 - [Lykke Exchange: Architecture, First Experiences and Outlook](https://lykke.com/Whitepaper_LykkeExchange.pdf)

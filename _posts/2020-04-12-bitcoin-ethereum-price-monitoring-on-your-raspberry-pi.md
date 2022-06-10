@@ -117,7 +117,7 @@ sudo systemctl reload nginx
 
 ## Disable screensaver
 
-Go to **Preferences** &gt; **Screensaver** and disable the screensaver.
+Go to **Preferences** > **Screensaver** and disable the screensaver.
 
 ## Choose your cryptocurrency
 

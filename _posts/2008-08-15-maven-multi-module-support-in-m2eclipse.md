@@ -39,9 +39,9 @@ You can get in troubles if you try to make a lot of #maven projects in eclipse, 
 of people have gone that path, and this may work if you use the relativePath trick
 
 - parent (contains the super pom)
-- common-api, reference the parent using the &lt;relativePath&gt;../parent/pom.xml&lt;/relativePath&gt;
-- common-core reference the parent using the &lt;relativePath&gt;../parent/pom.xml&lt;/relativePath&gt;
-- common-spring reference the parent using the &lt;relativePath&gt;../parent/pom.xml&lt;/relativePath&gt;
+- common-api, reference the parent using the <relativePath>../parent/pom.xml</relativePath>
+- common-core reference the parent using the <relativePath>../parent/pom.xml</relativePath>
+- common-spring reference the parent using the <relativePath>../parent/pom.xml</relativePath>
 - services-api …you get the idea
 - services-core
 - services-spring

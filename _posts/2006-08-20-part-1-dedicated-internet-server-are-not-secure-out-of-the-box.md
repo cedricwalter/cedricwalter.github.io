@@ -16,8 +16,8 @@ Strato is of course not responsible for that, but what I do not understand is wh
 <span style="font-weight: bold;">  
 <big>First SSH is not correctly configured</big>
 
-<small>X11Forwarding yes</small> a non sense for a server -&gt; ive change it to no  
-<small>PasswordAuthentication yes</small> a non sense for a server -&gt; ive change it to yes to allow only strong logging with RSA public private keys.  
+<small>X11Forwarding yes</small> a non sense for a server -> ive change it to no  
+<small>PasswordAuthentication yes</small> a non sense for a server -> ive change it to yes to allow only strong logging with RSA public private keys.  
 i’ve change some other values according to the table below:
 
   The <tt class="filename">/etc/ssh/sshd\_config</tt> file is the system-wide configuration file for OpenSSH which allows you to set options that modify the operation of the daemon. This file contains keyword-value pairs, one per line, with keywords being case insensitive.

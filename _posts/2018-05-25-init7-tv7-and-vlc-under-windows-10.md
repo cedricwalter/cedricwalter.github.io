@@ -33,7 +33,7 @@ You can watch channels using any software or device as long as it supports multi
 
 **You have the following options:**
 
-1. You open the URL directly from within VLC (Open -&gt; Network and then paste the URL from the above link), so you always have the latest updated channel list.
+1. You open the URL directly from within VLC (Open -> Network and then paste the URL from the above link), so you always have the latest updated channel list.
 2. Download the file to your computer and open it in VLC.
 3. Download the file to your computer and open it in a text editor to search for the respective multicast addresses of channels to use with another box or program that does not support XSPF playlists.
 

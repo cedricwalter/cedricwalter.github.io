@@ -27,4 +27,4 @@ They also [link to a migration guide](http://www.php.net/manual/en/migration5.ph
 Visiting [www.gophp5.org](http://www.gophp5.org) may also help in your migration   
 *Since the launch of GoPHP5.org, **over 100 software projects and over 200 web hosts** have come on board to support the adoption of PHP 5.2.*
 
-<div class="wlWriterSmartContent" id="scid:32a77b7a-5ea4-47be-84fc-ff7471384e10:40b80b73-16df-483e-b3c1-5048d466a060" style="padding-right: 0px; display: inline; padding-left: 0px; padding-bottom: 0px; margin: 0px; padding-top: 0px">[&lt;](http://www.gophp5.org/)
+<div class="wlWriterSmartContent" id="scid:32a77b7a-5ea4-47be-84fc-ff7471384e10:40b80b73-16df-483e-b3c1-5048d466a060" style="padding-right: 0px; display: inline; padding-left: 0px; padding-bottom: 0px; margin: 0px; padding-top: 0px">[<](http://www.gophp5.org/)

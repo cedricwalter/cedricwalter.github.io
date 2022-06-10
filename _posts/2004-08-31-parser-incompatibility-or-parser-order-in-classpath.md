@@ -25,7 +25,7 @@ Try to draw a graph or parser dependancy: determine for all components in your a
 > > 
 > > - **Extract from BEA website:**  
 > >     *"Apache XML Parser  
-> >     The XML WebLogic Server 6.0 -&gt; 6.1 parser has been updated and is now based on the Apache Xerces 1.3.1 parser. The parser implements version 2 of the SAX and DOM interfaces. Users who used older parsers that were shipped in previous versions may receive deprecation messages."*
+> >     The XML WebLogic Server 6.0 -> 6.1 parser has been updated and is now based on the Apache Xerces 1.3.1 parser. The parser implements version 2 of the SAX and DOM interfaces. Users who used older parsers that were shipped in previous versions may receive deprecation messages."*
 > > - **Solutions :**  
 > >     – Displace the jar file in the classpath, so it will be load after the sax2 compliant parser….
 > > - **And ?**  

@@ -16,8 +16,8 @@ tags:
 **verify**
 
 - Thrust bearings in the rotor head installed properly (not reverse)?
-- Radial bearings in the head not damaged? -&gt; change them
-- Bearings in the blade holders are moving -&gt; loctite the bearing or replace blade holders, or buy 'upgrade' metal blade holders
+- Radial bearings in the head not damaged? -> change them
+- Bearings in the blade holders are moving -> loctite the bearing or replace blade holders, or buy 'upgrade' metal blade holders
 
 **actions**
 

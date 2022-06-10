@@ -29,7 +29,7 @@ These things have disturbed us (The developer Team at [Innoveo.com](http://www.i
 **Solution**:
 
 1. Work around found by selecting the parent project
-2. Do Import -&gt; #Maven.
+2. Do Import -> #Maven.
 3. Select then the same name template and most modules should be grayed out because of name conflicts. But you should see the missing module in the list
 4. Tick the one (new) module and import it.
 

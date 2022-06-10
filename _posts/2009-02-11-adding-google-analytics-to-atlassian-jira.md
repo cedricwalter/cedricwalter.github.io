@@ -14,14 +14,14 @@ Edit the file <font face="Fixedsys">atlassian-jira/includes/decorators/styleshee
 
 This file is responsible for adding CSS links in html and is included in all pages. Now put the usual code you get after creating a new analytics profile
 
-> &lt;script type=”text/javascript”&gt;   
+> <script type=”text/javascript”>   
 > var gaJsHost = ((“https:” == document.location.protocol) ? “[https://ssl.”](https://ssl.) : “[http://www.”);](http://www.)   
 > document.write(unescape(“%3Cscript src='” + gaJsHost + “google-analytics.com/ga.js’ type=’text/javascript’%3E%3C/script%3E”));   
-> &lt;/script&gt;   
-> &lt;script type=”text/javascript”&gt;   
+> </script>   
+> <script type=”text/javascript”>   
 > try {   
 > var pageTracker = \_gat.\_getTracker(“UA-88600-8”);   
 > pageTracker.\_trackPageview();   
-> } catch(err) {}&lt;/script&gt;
+> } catch(err) {}</script>
 
-While not ideal, this method add the #JavaScript in the HTML &lt;head&gt; instead of the HTML &lt;body&gt;, it simply work as expected and let you get insight about JIRA usage using Google Analytics.
+While not ideal, this method add the #JavaScript in the HTML <head> instead of the HTML <body>, it simply work as expected and let you get insight about JIRA usage using Google Analytics.

@@ -23,7 +23,7 @@ je trouve une personne qui vend un “Boîtier Nikon D700+70-300mm+24-120mm+GP-1
 
 ## Contact
 
-Je contacte cette personne Laurent &lt;lrntb4@gmail.com&gt; … et voila sa réponse:
+Je contacte cette personne Laurent <lrntb4@gmail.com> … et voila sa réponse:
 
 > Bonjour,   
 > Je vous remercie de votre intérêt dans mon annonce. Si vous êtes intéressé à faire un achat rapide, le prix est 1300euros. Maintenant pour le début, je vous expliquerai comment faire cette transaction. J’ai l’article également affiché sur [ebay.fr](http://ebay.fr) et je préfère faire la transaction à travers ebay, pour plus de sécurité.Ainsi, si vous êtes vraiment intéressé à faire cette affaire, tout que vous devez faire est de m’envoyer exactement ces détails :   

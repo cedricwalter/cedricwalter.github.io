@@ -53,19 +53,19 @@ So now many french flyer like me have the same problem, the **woof and poof** (t
 – I change the wash out for a metal one (ace)  
 – I change the swash plate for a metal one (not from ace, quick uk)  
 – I change the main blade for fiber one (quick uk)  
-*-&gt; woof and poof still remained*
+*-> woof and poof still remained*
 
 I decide to add some weight in the canopy : install dual bat + another pack of battery (it may change Eigen frequency of the whole system)  
-*-&gt; woof and poof still remained*
+*-> woof and poof still remained*
 
 Another flyer add a shim to remove the slope as described on many site  
-*-&gt; woof and poof still remained but isn’t anymore so enormous….not an 100% solution*
+*-> woof and poof still remained but isn’t anymore so enormous….not an 100% solution*
 
 So i decide to change the main rotor grip + flat damper (not so expensive in fact)  
-*-&gt; woof and poof still remained*
+*-> woof and poof still remained*
 
 Delta 0  
-*-&gt; less woof and poof but still present….*
+*-> less woof and poof but still present….*
 
 One friend cure it: glue the rotor head with CA to the main mast !!!!!!
 

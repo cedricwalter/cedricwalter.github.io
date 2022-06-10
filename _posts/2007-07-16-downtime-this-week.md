@@ -22,14 +22,14 @@ I need one day or more to reinstall the server.
 - Backup the filesystem
 - Scan the backup for exploits ad spyware, crapware, rootkit
 - Reinstall the server with Suse 10.0 and Plesk 8.2
-- Increase security -&gt; ssh only with PKI and protocol 2, permissions.d, appArmor, se linux
-- Review Plesk packages -&gt; no PHP4, mySQL4 for example
+- Increase security -> ssh only with PKI and protocol 2, permissions.d, appArmor, se linux
+- Review Plesk packages -> no PHP4, mySQL4 for example
 - Install required modules in Apache: mod\_evasive, mod\_security, mod\_limitip, php5 runing with fastcgi and suexec
 - Maybe install http://www.hardened-php.net/hardening\_patch.14.html#what\_is\_the\_hardening-patch
 - Domains and Subdomains will be newly created
-- Restore evrything -&gt; all password will be changed
+- Restore evrything -> all password will be changed
 - Alle administrator panel (Joomla, + plesk) will be with htaccess protected
-- Crontab -&gt; chkrootkit, exploit.sh, rkhunter,
+- Crontab -> chkrootkit, exploit.sh, rkhunter,
 
 So it will be a very intensive day…sorry for the downtime
 

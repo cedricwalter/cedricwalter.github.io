@@ -39,4 +39,4 @@ YSlow analyzes web pages and tells you why they’re slow based on the [rules fo
 - [mod\_deflate and mod\_expires small howto](http://howto.gumph.org/content/reduce-webserver-bandwidth/)
 - compressing javascript or [how to compress javascript with htaccess](http://joseph.randomnetworks.com/archives/2006/07/13/compressed-javascript/), useful if you can’t touch the apache configuration.
 
- Be careful! a lot of host get pretty low metering (just test your favorite internet site), but are still <span style="font-weight: bold;">very fast -&gt; this tools do not tell You their infrastructure: memcache server, multiple db server, multiple file server for static content and so on.
+ Be careful! a lot of host get pretty low metering (just test your favorite internet site), but are still <span style="font-weight: bold;">very fast -> this tools do not tell You their infrastructure: memcache server, multiple db server, multiple file server for static content and so on.

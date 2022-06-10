@@ -37,8 +37,8 @@ I am still investigating and trying to solve the problem will it may take some t
 
 In index.php, locate
 
-&lt;jdoc:include type="component" /&gt;
+<jdoc:include type="component" />
 
 and replace it with
 
-&lt;table width="100%"&gt;&lt;tr&gt;&lt;td&gt; &lt;jdoc:include type="component" /&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+<table width="100%"><tr><td> <jdoc:include type="component" /> </td></tr></table>

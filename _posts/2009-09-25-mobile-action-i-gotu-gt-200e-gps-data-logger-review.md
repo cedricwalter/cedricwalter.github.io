@@ -93,8 +93,8 @@ The front of the [i-gotU 200E](http://www.i-gotu.com/) has two LED (red and blue
     | Antenna | Built-in GPS patch antenna |
     | Battery | Built-in 750 mAh Lithium-ion battery |
     | LED indicators | Blue &amp; Red |
-    | Cold start | &lt; 35 seconds |
-    | Warm start | &lt; 35 seconds |
+    | Cold start | < 35 seconds |
+    | Warm start | < 35 seconds |
     | Connection interface | USB 1.1 for PC connection; |
     | Bluetooth | V2.0 EDR Class 2 for PDA &amp; mobile phones |
     | Operation temperature | -10 °C to + 50 °C |

@@ -50,7 +50,7 @@ For the most advanced of us, which understand Unix and have shell access
 
 \# mysql –udblogin -p
 
-mysql&gt; use **joom**;
+mysql> use **joom**;
 
 ```
 mysql> REPAIR TABLE jos_session;

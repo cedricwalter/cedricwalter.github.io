@@ -17,7 +17,7 @@ All You have to do is to drop a file named .htaccess in Your /administrator dire
 
 | Here is a templates of .htaccess You can use |
 |---|
-| \# Do not allow any user to access this file – to copy in all .htaccess   &lt;Files .htaccess&gt;   order allow,deny   deny from all   &lt;/Files&gt; \#force admin area with .htaccess password   AuthType Basic   AuthUserFile /**pathto**/.htpasswd   AuthGroupFile /dev/null   AuthName "Walter Cedric Administrator Area"   &lt;Limit GET POST&gt;   require valid-user   &lt;/Limit&gt;   |
+| \# Do not allow any user to access this file – to copy in all .htaccess   <Files .htaccess>   order allow,deny   deny from all   </Files> \#force admin area with .htaccess password   AuthType Basic   AuthUserFile /**pathto**/.htpasswd   AuthGroupFile /dev/null   AuthName "Walter Cedric Administrator Area"   <Limit GET POST>   require valid-user   </Limit>   |
 
 - **pathto** should normally be outside you public webserver directory!  
     In plesk, that means outside the httpdocs directory!
@@ -57,11 +57,11 @@ I recommend You to google a little bit to find some exhaustive articles like thi
 
 If Youre using my component hashcash or any statistics log tools on YOur server, YOu may know the IP of the bad guys which try to break Your site. There is a way to block these attacking zombies at the server level. Just extends the section Limit of the .htaccess file
 
- ******&lt;Limit GET POST&gt;  
+ ******<Limit GET POST>  
 order allow,deny  
 allow from all  
 deny from****** XXX.XXX.XXX.XXX  
 ******deny from .microsoft.com******   
-**&lt;/Limit&gt;**
+**</Limit>**
 
 where XXX.XXX.XXX.XXX is the IP or part of the IP (XXX or XXX.XXX or XXX.XXX.XXX), but it can be a DNS. You can add as many lines as You want.

@@ -35,7 +35,7 @@ Only 2 steps are required
 Install
 
 1. Open [Cydia](http://cydia.saurik.com/ "Cydia is an alternative to Apple's App Store for jailbroken devices")
-2. Go to *Manage -&gt; Sources -&gt; Edit -&gt;* and tap on Add
+2. Go to *Manage -> Sources -> Edit ->* and tap on Add
 3. Type repo.hackyouriphone.org and tap on Add Source to add the repo
 4. Now search for “AppSync for iOS 6″ and install it
 

@@ -43,7 +43,7 @@ TLD tests (JSFUnitStaticAnalysisFacesConfigTest.java)
 
 ## Install
 
-Put the following in your web project pom.xml (the pom.xml with &lt;packaging&gt;war&lt;/packaging&gt;) between &lt;dependencies&gt; .. &lt;/dependencies&gt;, Note that this dependency is only available in scope “test”
+Put the following in your web project pom.xml (the pom.xml with <packaging>war</packaging>) between <dependencies> .. </dependencies>, Note that this dependency is only available in scope “test”
 
 ```
 <dependencies>

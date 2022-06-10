@@ -43,8 +43,8 @@ I will update[ the data regularly](https://ico.tokens-economy.com/distribution/)
 ### How it was done
 
 - Data are stored in Google Sheet, 2190 ICO, read from Whitepapers using PDFBox.
-- A category parser read and match token distribution categories (&gt; 1936 unique words/sentences) and their respective values
-- A category reducer reduce the number of categories to a more manageable number by mapping similar category together. E.g. Early Bird investors -&gt; preico
+- A category parser read and match token distribution categories (> 1936 unique words/sentences) and their respective values
+- A category reducer reduce the number of categories to a more manageable number by mapping similar category together. E.g. Early Bird investors -> preico
 - A category analyzer can query these data using multiple category selector strategies.
 
 ### What’s next?

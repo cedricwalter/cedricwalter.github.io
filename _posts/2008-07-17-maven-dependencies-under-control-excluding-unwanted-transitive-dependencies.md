@@ -81,7 +81,7 @@ Transitive dependency mediation
 > Maven 2.0.4 it was not defined which one would win, but since Maven 2.0.5 it’s the order in the declaration that counts: the   
 > first declaration wins.   
 > “nearest definition” means that the version used will be the closest one to your project in the tree of dependencies, eg. if   
-> dependencies for A, B, and C are defined as A -&gt; B -&gt; C -&gt; D 2.0 and A -&gt; E -&gt; D 1.0, then D 1.0 will be used when building A   
+> dependencies for A, B, and C are defined as A -> B -> C -> D 2.0 and A -> E -> D 1.0, then D 1.0 will be used when building A   
 > because the path from A to D through E is shorter. You could explicitly add a dependency to D 2.0 in A to force the use of D 2.0
 
 ## find out what the transitive dependencies are?

@@ -63,7 +63,7 @@ I am living in Zurich in the beautiful country of Switzerland but I am french an
 
 Joomla work: a lot of project, at joomla extension (<http://extensions.joomla.org>) my developer name is cedric\_walter
 
-**-&gt; #Joomla! 1.0 projects owner** all are more now in maintenance mode, as I am adding new features in #Joomla! 1.5 native versions only, but most of them, if not all, work in legacy mode.
+**-> #Joomla! 1.0 projects owner** all are more now in maintenance mode, as I am adding new features in #Joomla! 1.5 native versions only, but most of them, if not all, work in legacy mode.
 
 - com\_akoBookPlus a guest book
 - com\_akoCommentPlus commenting system with anti spammer protection
@@ -78,7 +78,7 @@ Joomla work: a lot of project, at joomla extension (<http://extensions.joomla.or
 - mod\_opensourcesupportt show your dedication to open source project
 - mod\_rssfriends add site to most used RSS feeder
 
-**-&gt; #Joomla! 1.5 projects owner**
+**-> #Joomla! 1.5 projects owner**
 
 - com\_akoBookPlus a guest book
 - com\_akoCommentPlus commenting system with anti spammer protection
@@ -96,7 +96,7 @@ MosSociable [http://extensions.joomla.org/extensions/clients-&amp;-groupware/soc
 RelatedArticles [http://extensions.joomla.org/extensions/search-&amp;-indexing/related-items/6209/details](http://extensions.joomla.org/extensions/search-&-indexing/related-items/6209/details)  
 joomlaCloud [http://extensions.joomla.org/extensions/search-&amp;-indexing/tags-&amp;-clouds/1215/details](http://extensions.joomla.org/extensions/search-&-indexing/tags-&-clouds/1215/details)
 
-**-&gt; Projects where I am also developer**
+**-> Projects where I am also developer**
 
 !joomlcomment [http://joomlacode.org/gf/project/joomagecomment/](http://joomlacode.org/gf/project/joomagecomment/) (commenting system ajax)  
 com\_version manager [http://joomlacode.org/gf/project/version\_manager/](http://joomlacode.org/gf/project/version_manager/) (From Soeren of Virtuemart)  

@@ -24,40 +24,41 @@ tags:
  Below the diff command between a standard MySQL install
 
  <span style="font-family: courier new,courier">\# diff my.cnf my-beforeOptimizations.cnf  
- <span style="font-family: courier new,courier">30c30  
- &lt; key\_buffer = 50M  
+```
+ < key\_buffer = 50M  
  —  
- &gt; key\_buffer = 16M  
+ > key\_buffer = 16M  
  32,33c32,33  
- &lt; table\_cache = 1500  
- &lt; sort\_buffer\_size = 4M   
+ < table\_cache = 1500  
+ < sort\_buffer\_size = 4M   
  —  
- &gt; table\_cache = 64  
- &gt; sort\_buffer\_size = 512K  
+ > table\_cache = 64  
+ > sort\_buffer\_size = 512K  
  35,46c35,37  
- &lt; read\_buffer\_size = 4M  
- &lt; read\_rnd\_buffer\_size = 1024K  
- &lt; myisam\_sort\_buffer\_size = 64M  
- &lt; join\_buffer\_size = 4M  
- &lt; thread\_cache\_size = 128  
- &lt; wait\_timeout = 14400  
- &lt; connect\_timeout = 10  
- &lt; max\_connect\_errors = 10  
- &lt; query\_cache\_limit = 2M  
- &lt; query\_cache\_size = 128M  
- &lt; query\_cache\_type = 1  
- &lt; thread\_concurrency=4  
+ < read\_buffer\_size = 4M  
+ < read\_rnd\_buffer\_size = 1024K  
+ < myisam\_sort\_buffer\_size = 64M  
+ < join\_buffer\_size = 4M  
+ < thread\_cache\_size = 128  
+ < wait\_timeout = 14400  
+ < connect\_timeout = 10  
+ < max\_connect\_errors = 10  
+ < query\_cache\_limit = 2M  
+ < query\_cache\_size = 128M  
+ < query\_cache\_type = 1  
+ < thread\_concurrency=4  
  —  
- &gt; read\_buffer\_size = 256K  
- &gt; read\_rnd\_buffer\_size = 512K  
- &gt; myisam\_sort\_buffer\_size = 8M  
+ > read\_buffer\_size = 256K  
+ > read\_rnd\_buffer\_size = 512K  
+ > myisam\_sort\_buffer\_size = 8M  
  163,166c154,157  
- &lt; key\_buffer = 64M  
- &lt; sort\_buffer = 64M  
- &lt; read\_buffer = 16M  
- &lt; write\_buffer = 16M  
+ < key\_buffer = 64M  
+ < sort\_buffer = 64M  
+ < read\_buffer = 16M  
+ < write\_buffer = 16M  
  —  
- &gt; key\_buffer = 20M  
- &gt; sort\_buffer\_size = 20M  
- &gt; read\_buffer = 2M  
- &gt; write\_buffer = 2M
+ > key\_buffer = 20M  
+ > sort\_buffer\_size = 20M  
+ > read\_buffer = 2M  
+ > write\_buffer = 2M
+```

@@ -22,8 +22,8 @@ Feel free to send me corrections or point me to ressource links that may help me
 |---|---|---|
 | <span style="color: #3333ff;">mosMenuBar::startTable(); | <span style="color: #006600;">JMenuBar::startTable(); | PHP code |
 | <span style="color: #3333ff;">defined(‘\_VALID\_MOS’) or die(‘Direct Access to this location is not allowed.’); | <span style="color: #006600;">defined( ‘\_JEXEC’ ) or die( ‘Restricted access’ ); | PHP code |
-| require\_once( <span style="color: #3333ff;">$mainframe-&gt;getPath( ‘toolbar\_html’ ) ); | require\_once(<span style="color: #006600;"> JApplicationHelper::getPath( ‘toolbar\_html’ ) ); | PHP code |
-| &lt;?xml version=”1.0″ encoding=”iso-8859-1″?&gt;   &lt;<span style="color: #3333ff;">mosinstall type=”component” version=”1.0.0″&gt;   …. | &lt;?xml version=”1.0″ encoding=”iso-8859-1″?&gt;   &lt;<span style="color: #006600;">install type=”component” version=”1.0.0″&gt;   …. | Installer XML file |
+| require\_once( <span style="color: #3333ff;">$mainframe->getPath( ‘toolbar\_html’ ) ); | require\_once(<span style="color: #006600;"> JApplicationHelper::getPath( ‘toolbar\_html’ ) ); | PHP code |
+| <?xml version=”1.0″ encoding=”iso-8859-1″?>   <<span style="color: #3333ff;">mosinstall type=”component” version=”1.0.0″>   …. | <?xml version=”1.0″ encoding=”iso-8859-1″?>   <<span style="color: #006600;">install type=”component” version=”1.0.0″>   …. | Installer XML file |
 | `global $database` | `$database = & JFactory::getDBO();` | PHP code |
 | `$mosConfig_live_site` | `JURL_SITE` | PHP code |
 | `$mosConfig_absolute_path` | `JPATH_SITE` | PHP code |
@@ -112,9 +112,9 @@ DEFINE("JOOMLA_ASKIMET_ASKIMET_KEY_L", "Website or Blog URL, if different than t
 
     This software is released under the terms and conditions of the
 
-    &lt;a href="http://www.gnu.org/copyleft/gpl.html"
+    <a href="http://www.gnu.org/copyleft/gpl.html"
 
-      target="_blank"&gt;GNU General Public License&lt;/a&gt;.
+      target="_blank">GNU General Public License</a>.
 
     For more information, please see the LICENCE file accompanying
 
@@ -126,7 +126,7 @@ DEFINE("JOOMLA_ASKIMET_ASKIMET_KEY_L", "Website or Blog URL, if different than t
 
     <warning>
 
-  Warranty&lt;br /&gt;
+  Warranty<br />
 
   This program is distributed in the hope that it will be useful, but WITHOUT ANY
 
@@ -134,7 +134,7 @@ DEFINE("JOOMLA_ASKIMET_ASKIMET_KEY_L", "Website or Blog URL, if different than t
 
   PARTICULAR PURPOSE.
 
-  &lt;p&gt;&lt;a href="http://wiki.waltercedric.com" target="_blank"&gt;Online documentation&lt;/a&gt;, and my forum at  which is updated
+  <p><a href="http://wiki.waltercedric.com" target="_blank">Online documentation</a>, and my forum at  which is updated
 
   regurarly as we receive bug reports.
 

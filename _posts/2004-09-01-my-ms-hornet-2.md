@@ -51,7 +51,7 @@ Do you need so much upgrades? certainly not! I would say that the carbon frame, 
 
 Rotor blades are way to overpriced for that kind of heli, and cost as much as 30 size blades and sometimes more!!!! crazy I list here the less expensives, I encourage You to discuss this on forums or [contact me](../../Helico/comment.html) if you find a better source.
 
-- [W Blades &gt;&gt;&gt; Symmetrical &lt;&lt;&lt; MS CP Hornet, Piccolo Pro, Dragonfly Tandem Hummingbird Elite CP Main Blades](http://www.deeteeenterprises.com/NS.ms_hornet.main.blades.CP.php) $27.49
+- [W Blades >>> Symmetrical <<< MS CP Hornet, Piccolo Pro, Dragonfly Tandem Hummingbird Elite CP Main Blades](http://www.deeteeenterprises.com/NS.ms_hornet.main.blades.CP.php) $27.49
 
 ![](../../Helico/hornet/hornet2/im/bullet-hornet.gif) Manuals
 

@@ -28,7 +28,7 @@ What is even more clever is that thanks to a special embedded tags in your html 
    <span class="kwrd"></<span class="html">script<span class="kwrd">> <span class="kwrd"></<span class="html">body<span class="kwrd">>
 ```
 
-Adding this tag in &lt;head&gt; section of your blog is for users running Internet Explorer with Google Chrome Frame installed. This will automatically render yours pages with Google Chrome Frame instead of IE.
+Adding this tag in <head> section of your blog is for users running Internet Explorer with Google Chrome Frame installed. This will automatically render yours pages with Google Chrome Frame instead of IE.
 
 ```
  <span class="kwrd"><<span class="html">meta <span class="attr">http-equiv<span class="kwrd">="X-UA-Compatible" <span class="attr">content<span class="kwrd">="chrome=1"<span class="kwrd">>

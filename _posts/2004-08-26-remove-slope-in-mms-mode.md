@@ -14,7 +14,7 @@ tags:
 ---
 
 # removigSlopeMMS"></a>  
- Originally found by Jason (www.jason.net). Cut in an aluminium can, two shim for removing slope of the sliding tray.&gt;
+ Originally found by Jason (www.jason.net). Cut in an aluminium can, two shim for removing slope of the sliding tray.>
 
  | ![](/assets/images/2004/08/lateralSlopeMMS.jpg) | Originally found by Jason (all credit to Him : [www.jason.net](http://www.jason.net)).     Cut in an aluminium can, two shim for removing slope of the    sliding tray and insert them in the red place in pic. |
 |---|---|

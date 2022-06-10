@@ -62,8 +62,8 @@ Click now the \[Update\] button, the URL query Builder present you the text belo
 >  components/com\_securityimages/js/securityImages.js <small>(opens in new window)</small>
 > 
 > HTML   
-> &lt;script type="text/javascript" src="/components/com\_minify/b=Joomla1.5.8&amp;amp;f=media/system/js/mootools.js,   
->  media/system/js/caption.js,components/com\_securityimages/js/securityImages.js"&gt;&lt;/script&gt;
+> <script type="text/javascript" src="/components/com\_minify/b=Joomla1.5.8&amp;amp;f=media/system/js/mootools.js,   
+>  media/system/js/caption.js,components/com\_securityimages/js/securityImages.js"></script>
 > 
 > **How to serve these files as a group**
 > 
@@ -77,7 +77,7 @@ Click now the \[Update\] button, the URL query Builder present you the text belo
 
 > ```
 > 
->  ‘keyName’ =&gt; array(‘//Joomla1.5.8/media/system/js/mootools.js’,   
+>  ‘keyName’ => array(‘//Joomla1.5.8/media/system/js/mootools.js’,   
 > ‘//Joomla1.5.8/media/system/js/caption.js’,   
 > ‘//Joomla1.5.8/components/com\_securityimages/js/securityImages.js’),`        
 
@@ -88,11 +88,11 @@ Click now the \[Update\] button, the URL query Builder present you the text belo
 ### In your Joomla! templates /templates/xxxxxxx/index.php
 
 1. Remove all reference to static JavaScript include by first commenting them if you have no backup.
-2. Add this line in the &lt;head&gt; of your template   
-    &lt;script type="text/javascript" src="/components/com\_minify/b=Joomla1.5.8&amp;amp;   
-     f=media/system/js/mootools.js,media/system/js/caption.js,components/com\_securityimages/js/securityImages.js"&gt;&lt;/script&gt;   
+2. Add this line in the <head> of your template   
+    <script type="text/javascript" src="/components/com\_minify/b=Joomla1.5.8&amp;amp;   
+     f=media/system/js/mootools.js,media/system/js/caption.js,components/com\_securityimages/js/securityImages.js"></script>   
     or better this one if you did defined a group fjs (**f**rontend**js**)   
-    &lt;script src="/Joomla1.5.8/components/com\_minify/?g=fjs" type="text/javascript"&gt;&lt;/script&gt;
+    <script src="/Joomla1.5.8/components/com\_minify/?g=fjs" type="text/javascript"></script>
 3. Remove all dynamically added JavaScript by : see later in article
 
 You did avoid 3 HTTP requests for including JavaScript, and only need one now!
@@ -100,7 +100,7 @@ You did avoid 3 HTTP requests for including JavaScript, and only need one now!
 Do the same for all CSS, here it is 6 CSS file for the default templates rhuk\_milkyway
 
 27. Remove all reference to static CSS include
-28. Add this line in the &lt;head&gt; of your template ```
+28. Add this line in the <head> of your template ```
     <link rel="stylesheet" href="/Joomla1.5.8/components/com_minify/index.php?g=css" />
     ```
     

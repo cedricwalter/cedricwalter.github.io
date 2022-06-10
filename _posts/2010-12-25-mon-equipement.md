@@ -40,14 +40,14 @@ Nice added value when you ride, “may help” in case of crash.
 
 ![Dainese Back Space 3](/assets/images/2009/04/DaineseBackSpace3.jpg)<figcaption>Dainese Back Space 3</figcaption>### Dainese protective back space 2
 
-**113 euro** 2001 -&gt; 2008
+**113 euro** 2001 -> 2008
 
 - Transmit only 8.03 kN to the body when hit with a normalize crash EN 1621-1 (european norm)
 - The best choice, best performances
 
 ### [Dainese V Neck 2 closer pictures](component/content/article/1627.html)
 
-![jacket-wave-v2_neck_all](/assets/images/2009/04/jacketwavev2_neck_all.jpg)<figcaption>jacket-wave-v2\_neck\_all</figcaption>**340 euro** [2009 –&gt; today ](component/content/article/1627.html)
+![jacket-wave-v2_neck_all](/assets/images/2009/04/jacketwavev2_neck_all.jpg)<figcaption>jacket-wave-v2\_neck\_all</figcaption>**340 euro** [2009 –> today ](component/content/article/1627.html)
 
 # Helmet
 

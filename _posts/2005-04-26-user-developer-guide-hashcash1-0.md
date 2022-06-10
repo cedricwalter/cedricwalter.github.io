@@ -97,7 +97,7 @@ You Can switch ON/OFF this feature in Admin control panel under the tab posting 
 | $hashcash\_use = ‘md5’ | ‘md4′,’md5’ or ‘sha1’ | md4, md5 or sha1 |  |
 | $hashcash\_debug | true/false | Will write all informations in page by from submit |  |
 | $hashcash\_log\_active | true/false | Spams submission will be written to logs |  |
-| $hashcash\_log\_all | true/false | Log accepted and refused post -&gt; be careful with size of logs! |  |
+| $hashcash\_log\_all | true/false | Log accepted and refused post -> be careful with size of logs! |  |
 | $hashcash\_log\_file | $GLOBALS\[‘mosConfig\_absolute\_path’\] . "/components/com\_hashcash/hashcash.log" | Location of the logs file |  |
 | $hashcash\_Notify\_Admin | true/false | Notify an administrator by email? |  |
 | $hashcash\_log\_size | integer | each 64kb a mail will be sent to admin with the content of logs |  |
@@ -111,13 +111,13 @@ You Can switch ON/OFF this feature in Admin control panel under the tab posting 
 
 | **php code send to the client (in the code where You create the form)** |
 |---|
-| \# include and instance of Object, in the portion of code where Hashcash is needed, note that I have here a strong reference to the algorithm…(Here MD5)   \# This will be soon a factory   include($mosConfig\_absolute\_path.’/components/com\_hashcash/plugins/md5/php/CodeInliner.php’);   $MD5CodeInliner =&amp; new MD5CodeInliner(true); …  \#Insert this JS (**js1**), the browser will use this js during submit to localize the random hidden field name, and encrypt its value   echo $MD5CodeInliner-&gt;insertHashCashJavascript(false);  …  \#Insert this code in your submit or validation JS method, this will call **js1**   echo $MD5CodeInliner-&gt;insertSubmitJavascript();  …  \#add the hascash input field in Your form   echo $MD5CodeInliner-&gt;insertHiddenField($contentid); |
+| \# include and instance of Object, in the portion of code where Hashcash is needed, note that I have here a strong reference to the algorithm…(Here MD5)   \# This will be soon a factory   include($mosConfig\_absolute\_path.’/components/com\_hashcash/plugins/md5/php/CodeInliner.php’);   $MD5CodeInliner =&amp; new MD5CodeInliner(true); …  \#Insert this JS (**js1**), the browser will use this js during submit to localize the random hidden field name, and encrypt its value   echo $MD5CodeInliner->insertHashCashJavascript(false);  …  \#Insert this code in your submit or validation JS method, this will call **js1**   echo $MD5CodeInliner->insertSubmitJavascript();  …  \#add the hascash input field in Your form   echo $MD5CodeInliner->insertHiddenField($contentid); |
 
 ### Verifying on the server in Your code that the user submission can be accepted
 
 | **in the code where You validate and do somethig interesting with the submission** |
 |---|
-| include($mosConfig\_absolute\_path.’/components/com\_hashcash/HashcashChecker.php’);   $HashcashChecker =&amp; new HashcashChecker(); $submission = $HashcashChecker-&gt;check($submission, $contentid);  $commentIsAccepted = strlen($submission) != 0;  if ($commentIsAccepted)   {  …  }  else |
+| include($mosConfig\_absolute\_path.’/components/com\_hashcash/HashcashChecker.php’);   $HashcashChecker =&amp; new HashcashChecker(); $submission = $HashcashChecker->check($submission, $contentid);  $commentIsAccepted = strlen($submission) != 0;  if ($commentIsAccepted)   {  …  }  else |
 
 ## **Changelog:**
 

@@ -49,4 +49,4 @@ Now open any files with the HTML editor/JSP editor, in fact it will work now wit
 
 You do not need to install Jboss Tools (I recommend it through) but what about Icefaces support?
 
-Icefaces provide a plugin 3.5.0 that support auto completion of tags in #Eclipse Galileo (3.5) for icefaces 1.8.2. While #Eclipse Helios is only supported with icefaces 2.0 (plugin &gt; 3.6.2)
+Icefaces provide a plugin 3.5.0 that support auto completion of tags in #Eclipse Galileo (3.5) for icefaces 1.8.2. While #Eclipse Helios is only supported with icefaces 2.0 (plugin > 3.6.2)

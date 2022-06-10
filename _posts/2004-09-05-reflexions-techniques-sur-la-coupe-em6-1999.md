@@ -58,7 +58,7 @@ On peut dire que la majorité des pannes, même pour notre robot, provient du ma
 
 - Notre robot n’intégrait que deux capteurs pour le suivi de ligne, alors que d’autres avec 5 capteurs élaboraient des tables de vérité, qui autorisaient un déplacement rapide et moins "crabesque".
 
-- Les capteurs incrémentaux relatifs faisait la loi et certaines équipes annonÃ§aient plus de 10000 pas par tours interpolés (ENS Cachan) !, d’autre suite Ã des problèmes techniques ont bricolé en hate des codeurs composés d’un disque en plastique munis de boulons qui frappaient un capteur mécanique de fin de course (ESIAE) ! pour un résultat plutÃ´t honorable (précision &lt;3mm). Ces capteurs étaient en appuis sous le robot sur la piste ou plus généralement sur les axes des moteurs.
+- Les capteurs incrémentaux relatifs faisait la loi et certaines équipes annonÃ§aient plus de 10000 pas par tours interpolés (ENS Cachan) !, d’autre suite Ã des problèmes techniques ont bricolé en hate des codeurs composés d’un disque en plastique munis de boulons qui frappaient un capteur mécanique de fin de course (ESIAE) ! pour un résultat plutÃ´t honorable (précision <3mm). Ces capteurs étaient en appuis sous le robot sur la piste ou plus généralement sur les axes des moteurs.
 
 - Une équipe a incorporé un gyroscope piézo-électrique ? (30OFF dans radiospares mais on murmure que 150OFF permet d’avoir un super capteur avec conditionnement) mais un manque de rigueur ? ou une mauvaise implémentation sur le robot ? provoquait une dérive inexpliquée de +- 10% (résultat plus qu’honorable car on m’a dit que l’on peut avoir 70’/s d’erreur sans filtre de kalmann).
 

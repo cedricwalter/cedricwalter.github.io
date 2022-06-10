@@ -77,7 +77,7 @@ if you run the goal compile
 > mvn compile
 
 on a simple multi module project, EVERY modules, one after the others, will go through these phases   
-**validate** –&gt; **generate**–**sources –&gt; **process**–**sources** –&gt; **generate**–**resources** –&gt; **process**–**resources –&gt; **compile******
+**validate** –> **generate**–**sources –> **process**–**sources** –> **generate**–**resources** –> **process**–**resources –> **compile******
 
 ### Apache Maven reactor
 

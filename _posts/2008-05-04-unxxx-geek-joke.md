@@ -11,7 +11,7 @@ image: /wp-content/uploads/2008/05/linuxgraffiti_thumb.jpg
 
 who | grep -i brunette| date;   
 cd ~; unzip; touch; head ; strip; top;   
- finger; mount; gasp &lt; yes &amp; yes; fsck;   
+ finger; mount; gasp < yes &amp; yes; fsck;   
  more; yes; uptime; umount; sleep
 
 Yeah simply born to be root…   

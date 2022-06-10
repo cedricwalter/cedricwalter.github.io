@@ -18,7 +18,7 @@ If you want to pratice (hard) 3d, you need a good power to weight ratio, no 30 s
 - You can buy a real 50, this is the way to go.
 
 The best 50 heli on the market as today is definitely the raptor 50v2: best because   
-\+ part are inexpensive -&gt; learning 3D is costly,   
+\+ part are inexpensive -> learning 3D is costly,   
 \+ support a lot of crash (frame wont break as easily as with the caliber 30 frame), the plastic head seems to be immortal   
 \+ you will appreciate the reliability and durability of part.   
 \+ A lot of pilots use the raptor for training.+ you can buy a V2 then acquire the conversion kit or acquire the 50 and go back to a 30 after  
@@ -27,7 +27,7 @@ The best 50 heli on the market as today is definitely the raptor 50v2: best beca
 
  The TT50 is a good engine and require no so much tuning as the os50, through I will recommend you to wait for the new os50 with the new carb. Here we are flying with 1% nitro (!) because in europe, nitro can cost an arm and a leg, even with 1% the TT50 run with stuning performance.  
  If you like the EMS setup as I do (120Â° ccpm), you may want to have it on the raptor too, a compagny is now selling a unofficial conversion kit. Consider this as an upgrade.  
- I do not know the sceadu 50, so I can not help you, maybe you can ask on runryder, there is a hirobo section for sure. The machine is old and all problems are known-&gt; this is good  
+ I do not know the sceadu 50, so I can not help you, maybe you can ask on runryder, there is a hirobo section for sure. The machine is old and all problems are known-> this is good  
  If you are in a club, you may also take the same heli as your colleague if they are at the same level as you. It is always more fun to tune or pratice on the same machine.  
  If you do not know this page [www.raptortechnique.com](http://www.raptortechnique.com/) I recommend you to visit it.
 

@@ -12,18 +12,18 @@ permalink: /development/adding-google-analytics-to-atlassian-bamboo/
 
 As I found no better tutorial on Internet, here is a very very short how to add [Google analytics](http://www.google.com/analytics/) to *Atlassian* Bamboo, it require a bit of hacking, and these kind of changes will be lost after each upgrade of Bamboo..
 
-Edit the file webapps/ROOT/start.ftl Now put the usual code you get after creating a new analytics profile just before the &lt;/body&gt;
+Edit the file webapps/ROOT/start.ftl Now put the usual code you get after creating a new analytics profile just before the </body>
 
-> &lt;script type="text/javascript"&gt;   
+> <script type="text/javascript">   
 > var gaJsHost = (("https:" == document.location.protocol) ? "[https://ssl."](https://ssl.) : "[http://www.");](http://www.)   
 > document.write(unescape("%3Cscript src=’" + gaJsHost +   
 >  "google-analytics.com/ga.js’ type=’text/javascript’%3E%3C/script%3E"));   
-> &lt;/script&gt;   
-> &lt;script type="text/javascript"&gt;   
+> </script>   
+> <script type="text/javascript">   
 > try {   
 > var pageTracker = \_gat.\_getTracker("UA-88600-10");   
 > pageTracker.\_trackPageview();   
-> } catch(err) {}&lt;/script&gt;
+> } catch(err) {}</script>
 
 While not ideal, it simply work as expected and let you get insight about [Atlassian Bamboo](http://www.atlassian.com/software/bamboo/) usage using [Google analytics](http://www.google.com/analytics/).
 

@@ -16,7 +16,7 @@ Data URI scheme is a URI scheme that provides a way to include data in line in w
 Why you may want to start embedding images in CSS ?
 
 - It reduce the number of http requests: instead of 1+N HTTP requests (1 for aggregated CSS file and N for images) you’ll get 1+1 requests (1 for aggregated CSS file and one for CSS file with all images), which gives you faster page loading and lower server load.
-- CSS is cached by browsers and these images can be reused with a CSS selector/class (&lt;li&gt; are obvious candidate if they use images)
+- CSS is cached by browsers and these images can be reused with a CSS selector/class (<li> are obvious candidate if they use images)
 - Attention Internet Explorer 5 to Internet Explorer 7 do not support inline images!
 
 **NOTA**: [Drupal](http://drupal.org/) has a module “[CSS Embedded Images](http://drupal.org/project/css_emimage)” to automatize the inclusion of external images in CSS, while [Joomla](http://www.joomla.org) has nothing ![Sad smile](/assets/images/2012/01/wlEmoticon-sadsmile.png) something that could be done in #Joomla platform, in an extension like [JFinalizer](http://extensions.joomla.org/extensions/site-management/site-performance/11366)….or in the [Gantry framework](http://www.gantry-framework.org/)!

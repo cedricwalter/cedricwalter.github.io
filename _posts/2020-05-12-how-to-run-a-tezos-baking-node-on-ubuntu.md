@@ -198,7 +198,7 @@ You can use the more expensive (has a lot more features and can run 100 apps/coi
 
 On Linux you need first to create a set of udev rules to allow device access. So Follow <https://support.ledger.com/hc/en-us/articles/115005165269-Fix-connection-issues>
 
-Install Ledger Live, initialize properly the Ledger Nano S. Install [Tezos](https://tezos.com/) Baking on your Ledger Nano S. If you are using Ledger live, go to Settings -&gt; Toggle ‘Developer Mode’ on. Then, go to Manager and install ‘Tezos Baking’ app.
+Install Ledger Live, initialize properly the Ledger Nano S. Install [Tezos](https://tezos.com/) Baking on your Ledger Nano S. If you are using Ledger live, go to Settings -> Toggle ‘Developer Mode’ on. Then, go to Manager and install ‘Tezos Baking’ app.
 
 Open the [Tezos](https://tezos.com/) Baking app on your ledger device.
 

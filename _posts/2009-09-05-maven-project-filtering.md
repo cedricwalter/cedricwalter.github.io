@@ -28,7 +28,7 @@ And that your software is somehow configurable, can be through properties files,
 
 if you have stage specific values pair key (login/password/paths) in pom.xml, you have to
 
-- use key/value pair properties in pom.xml (between &lt;properties&gt;&lt;/properties&gt;) or
+- use key/value pair properties in pom.xml (between <properties></properties>) or
 - use key/value pair properties that you override in pom.xml/settings.xml profiles or
 - use environment variables (not very efficient by the way and messy if you have too many)
 
@@ -53,13 +53,13 @@ ATTENTION: resources in module with packaging pom are not filtered nor copied to
 
 ### Tell Maven what to filter
 
-In order to use filters you must specify a resource directory and set filtering to true. The remaining elements are not required. Activate filtering for all files found in /src/main/resources. All files which contains the denotation ${some.property.name} will be replaced by the building property value defined in &lt;properties&gt;&lt;/properties&gt;
+In order to use filters you must specify a resource directory and set filtering to true. The remaining elements are not required. Activate filtering for all files found in /src/main/resources. All files which contains the denotation ${some.property.name} will be replaced by the building property value defined in <properties></properties>
 
 Warning: Do not filter files with binary content like images, PDF, ZIP, GIF, JPG: This will most likely result in corrupt output. If you have both text files and binary files as resources, you need to declare two mutually exclusive resource sets.
 
 Notes
 
-- Resources filtering definition has to be place between &lt;build&gt; and &lt;/build&gt; , If you have a [Maven](http://maven.apache.org/) project and a parent pom, it may belong to that particular pom.xml in order to avoid redundant definitions in all child pom.
+- Resources filtering definition has to be place between <build> and </build> , If you have a [Maven](http://maven.apache.org/) project and a parent pom, it may belong to that particular pom.xml in order to avoid redundant definitions in all child pom.
 - if you want to filter all \*.xxx files at any level in directory hierarchy you need both \*.xxx (current level) and \*\*/\*.xxx (any level deeper)
 - The first resource set defines the files to be filtered and the other resource set defines the files to copy unaltered as illustrated below:
 
@@ -146,7 +146,7 @@ You can add a filters in your parent pom.xml by adding, I name these filter stat
  </filters>
 ```
 
-&lt;filter&gt; should be a file, usually a properties file that contains key/values pair that will be replaced at runtime.
+<filter> should be a file, usually a properties file that contains key/values pair that will be replaced at runtime.
 
 Note here that in order to be able to build against different target runtime, I do use a profile key/value pair properties
 
@@ -178,8 +178,8 @@ I create
 
 You will have to put keys and their values to have the following valid configurations
 
-- common.properties + jboss.properties –&gt; replace all keys and make your application work in Jboss
-- common.properties + eclipse.properties –&gt; replace all keys and make your application work in eclipse
+- common.properties + jboss.properties –> replace all keys and make your application work in Jboss
+- common.properties + eclipse.properties –> replace all keys and make your application work in eclipse
 
 I now define in settings.xml the following profiles
 

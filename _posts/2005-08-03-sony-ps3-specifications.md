@@ -38,7 +38,7 @@ Memory
 Main RAM 25.6GB/s  
 VRAM 22.4GB/s  
 RSX 20GB/s (write) + 15GB/s (read)   
-SB&lt; 2.5GB/s (write) + 2.5GB/s (read)
+SB< 2.5GB/s (write) + 2.5GB/s (read)
 
 **System Floating Point Performance**   
 2 TFLOPS

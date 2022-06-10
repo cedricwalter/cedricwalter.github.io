@@ -16,8 +16,8 @@ tags:
 ![](/assets/images/2004/09/board.jpg)
 
 - Les hélices sont Ã pas fixes comme sur un avion, plus elles tournent vite et plus la portance crée est importante.
-- le Draganflyer possède 4 moteurs indépendants -&gt; il y a 4 contrÃ´leurs de vitesse qui fonctionnent sur le principe de variation de la valeur de tension continue (PWM: pulse wide modulation). L’interface de puissance est réalisé au moyen des 4 transistors indépendants.
-- le Draganflyer possède 3 asservisements: lacets, roulis et tangage -&gt; il y a 3 gyroscopes piézo-électrique de marque TOKIN (ce sont les 3 polygones argentés sur la photo)
+- le Draganflyer possède 4 moteurs indépendants -> il y a 4 contrÃ´leurs de vitesse qui fonctionnent sur le principe de variation de la valeur de tension continue (PWM: pulse wide modulation). L’interface de puissance est réalisé au moyen des 4 transistors indépendants.
+- le Draganflyer possède 3 asservisements: lacets, roulis et tangage -> il y a 3 gyroscopes piézo-électrique de marque TOKIN (ce sont les 3 polygones argentés sur la photo)
 - Le tout est controlé par un processeur (PIC: programmable interrupt controler) qui contient le code de décodage des signaux, les asservissements. Le programme est protégé en lecture.
 - 4 voies suffisent pour contrÃ´ler le modèle.
 - Le mode de pilotage est celui d’un hélico radiocommandé (donc très difficile) avec en plus des problèmes de pertes d’orientation du Ã la symétrie de l’appareil.

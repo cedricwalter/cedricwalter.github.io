@@ -32,7 +32,7 @@ This release marks an important milestone for the #Joomla Project due to the upg
  **Download**
 
 - [Download #Joomla 1.5.12 (Full package)](http://joomlacode.org/gf/download/frsrelease/10547/41305/Joomla_1.5.12-Stable-Full_Package.zip)
-- [Download #Joomla 1.5.11 &gt; 1.5.12 update package](http://joomlacode.org/gf/download/frsrelease/10548/41314/Joomla_1.5.11_to_1.5.12-Stable-Patch_Package.zip)
+- [Download #Joomla 1.5.11 > 1.5.12 update package](http://joomlacode.org/gf/download/frsrelease/10548/41314/Joomla_1.5.11_to_1.5.12-Stable-Patch_Package.zip)
 - [All 1.5.12 Packages](http://joomlacode.org/gf/project/joomla/frs/?action=FrsReleaseView&release_id=10548)
 
 NOTE: [My personal mirror is also up to date](http://mirror.waltercedric.com)

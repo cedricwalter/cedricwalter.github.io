@@ -73,10 +73,10 @@ This is exactly where artifact classifier may help you, but lets first look at t
 
 Maven is also introducing some conventions:
 
--&gt; name is most of the time the artifactId   
--&gt; version being the version number of the artifact, simply don’t use something containing SNAPSHOTS   
+-> name is most of the time the artifactId   
+-> version being the version number of the artifact, simply don’t use something containing SNAPSHOTS   
  in it as it is considered being non stable by some plugin (maven-release-plugin for example)   
--&gt; classifier is either
+-> classifier is either
 
 - empty like for ex: jaxb-1.2.jar and then it will contains the binary package of the library jaxb
 - source like for ex: jaxb-1.2-source.jar
@@ -86,8 +86,8 @@ Maven is also introducing some conventions:
     classifier more as a way to categorize artifact in a module.
 
 You’ll find a lot of artifact across Internet not following these guidelines, this is not an issue as Maven repositories are   
-able to search for pom.properties or project.xml or pom.xml in jar if they exist and use the right <span style="font-family: Courier;">&lt;groupId&gt; and   
-&lt;artifactId&gt;
+able to search for pom.properties or project.xml or pom.xml in jar if they exist and use the right <span style="font-family: Courier;"><groupId> and   
+<artifactId>
 
 Back to code reuse of test classes across modules, the trick is to tell maven to make a jar of every module test code so   
 you can depend on it in others modules.
@@ -100,7 +100,7 @@ a normal build of componentA, would create:
 /.m2/repository/com/waltercedric/maven/moduleB/0.0.1.SNAPSHOTS/moduleB-0.0.1.SNAPSHOTS.jar
 ```
 
-where by just adding to componentA/pom.xml the following inside the &lt;build&gt;&lt;/build&gt;:
+where by just adding to componentA/pom.xml the following inside the <build></build>:
 
 ```
 <!--  this create jar file of code from src/test/java so modules with tests can share code -->

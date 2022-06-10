@@ -13,7 +13,7 @@ tags:
 This are my mod\_evasive settings:  
    
 <span style="font-style: italic;">LoadModule evasive20\_module /usr/lib/apache2/mod\_evasive20.so  
-<span style="font-style: italic;">&lt;IfModule mod\_evasive20.c&gt;  
+<span style="font-style: italic;"><IfModule mod\_evasive20.c>  
 <span style="font-style: italic;"> DOSHashTableSize 3097  
 <span style="font-style: italic;"> DOSPageCount 5  
 <span style="font-style: italic;"> DOSSiteCount 100  
@@ -21,7 +21,7 @@ This are my mod\_evasive settings:
 <span style="font-style: italic;"> DOSSiteInterval 2  
 <span style="font-style: italic;"> DOSBlockingPeriod 600  
 <span style="font-style: italic;"> DOSEmailNotify xxx@xxx.com  
-<span style="font-style: italic;">&lt;/IfModule&gt;
+<span style="font-style: italic;"></IfModule>
 
 And this is a small documentation I’ve forget to add in the previous article:
 

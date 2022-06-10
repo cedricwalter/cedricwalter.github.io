@@ -44,14 +44,14 @@ from /var/log/apache2/svn.waltercedric.com-error\_log, I saw the rule
 
 in /srv/www/vhosts/waltercedric.com/subdomains/svn/conf/vhost.conf add the following section, to switch off the rule specifically
 
-> &lt;IfModule mod\_security2.c&gt; 
+> <IfModule mod\_security2.c> 
 > 
-> &lt;Directory /srv/www/vhosts/waltercedric.com/subdomains/svn/httpdocs&gt;   
-> \# SecRuleEngine Off &lt;- dont switch off mod security totally, way too unsecure   
+> <Directory /srv/www/vhosts/waltercedric.com/subdomains/svn/httpdocs>   
+> \# SecRuleEngine Off <- dont switch off mod security totally, way too unsecure   
 > SecRuleRemoveByID **960010**   
-> &lt;/Directory&gt; 
+> </Directory> 
 > 
-> &lt;/IfModule&gt;
+> </IfModule>
 
 #### Creating a new configuration rules files
 
@@ -69,10 +69,10 @@ Since my /etc/apache2/conf.d/modsecurity2.conf load all files from there (Includ
 
 This solution will allow HTTP requests to contains any of the above keyword. This may lead to a small windows of security issues in all other applications running on the server. Another solution is to add these new rules in the vhost.conf, so it look like
 
-> &lt;IfModule mod\_security2.c&gt; 
+> <IfModule mod\_security2.c> 
 > 
-> &lt;Directory /srv/www/vhosts/waltercedric.com/subdomains/svn/httpdocs&gt;   
-> \# SecRuleEngine Off &lt;- dont switch off mod security totally, way too unsecure   
+> <Directory /srv/www/vhosts/waltercedric.com/subdomains/svn/httpdocs>   
+> \# SecRuleEngine Off <- dont switch off mod security totally, way too unsecure   
 > SecRuleRemoveByID **960010**
 > 
 >  SecRule REQUEST\_METHOD "^(PROPFIND|PROPPATCH)$" allow   
@@ -80,8 +80,8 @@ This solution will allow HTTP requests to contains any of the above keyword. Thi
 > SecRule REQUEST\_METHOD "^(MKACTIVITY|CHECKOUT)$" allow   
 > SecRule REQUEST\_METHOD "^(PUT|DELETE|MERGE)$" allow   
 > SecRule REQUEST\_METHOD "^(MKCOL)$" allow   
-> &lt;/Directory&gt; 
+> </Directory> 
 > 
-> &lt;/IfModule&gt;
+> </IfModule>
 
 So only the sub domain <http://svn.waltercedric.com> wont trigger any mod security error.

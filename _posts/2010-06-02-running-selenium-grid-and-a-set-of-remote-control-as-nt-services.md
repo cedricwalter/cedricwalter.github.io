@@ -102,7 +102,7 @@ If it’s not working, you’ll probably see error messages about how the JVM wa
 
 Once it’s running with the SeleniumGrid.bat file, you can install the **service** by running the InstallSeleniumGrid-NT.bat file.
 
-To start the **service**, you can use the command line (net start selenium-grid-hub) or the GUI (Start-&gt;Administrative Tools-&gt;Services).
+To start the **service**, you can use the command line (net start selenium-grid-hub) or the GUI (Start->Administrative Tools->Services).
 
 ### Running multiple selenium RC as NT services
 
@@ -155,7 +155,7 @@ wrapper.ntservice.account=.\selenium wrapper.ntservice.password=xxxxxxxx
 
 Once it’s running with the RemoteControl.bat file, you can install the **service** by running the InstallRemoteControl-NT.bat file.
 
-To start the **service**, you can use the command line (net start selenium-chrome) or the GUI (Start-&gt;Administrative Tools-&gt;Services).
+To start the **service**, you can use the command line (net start selenium-chrome) or the GUI (Start->Administrative Tools->Services).
 
 Anyway head to the download section and use a ready to use package
 

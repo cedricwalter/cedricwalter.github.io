@@ -47,7 +47,7 @@ Typically it is recommended to hide [Eclipse](http://www.eclipse.org/) project a
 
 **If you use CVS**
 
-First Check in your project using the [Eclipse](http://www.eclipse.org/) team support (select from the context menu Team &gt; Share Project), but only check what is needed. You should have a *.cvsignore* file, prior to commit, with the following entries for each module:
+First Check in your project using the [Eclipse](http://www.eclipse.org/) team support (select from the context menu Team > Share Project), but only check what is needed. You should have a *.cvsignore* file, prior to commit, with the following entries for each module:
 
 *.project  
 .classpath  
@@ -57,7 +57,7 @@ target*
 
 **If you use SVN,** you can set the svn:ignore property on all shared module and project by
 
-- First Check in your project using the [Eclipse](http://www.eclipse.org/) team support (select from the context menu Team &gt; Share Project), but only check what is needed.
+- First Check in your project using the [Eclipse](http://www.eclipse.org/) team support (select from the context menu Team > Share Project), but only check what is needed.
 - Then select all [Maven](http://maven.apache.org/) projects and [Maven](http://maven.apache.org/) modules,
 - Right clicking on them while selected,
 - Select **Team** – **Set Property**  

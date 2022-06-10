@@ -13,7 +13,7 @@ tags:
 
 <font size="6"><font color="#000000" size="6"> <font size="6">**![](java/logo_right.gif)**
 
- &lt;&gt;Articles:&gt;
+ <>Articles:>
 
 A very good document, if you want to improve your code, Click [HERE](http://www.objectarchitects.de/arcus/cookbook/exhandling/index.htm) to download it
 

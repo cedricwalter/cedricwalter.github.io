@@ -37,6 +37,6 @@ Better than a Barton XP3200+
 | Athlon XP 2000+ | 266 | 1.67 GHz | 12.5x | 1.60V |
 | Athlon XP 1900+ | 266 | 1.60 GHz | 12.0x | 1.50V |
 | Athlon XP 1800+ | 266 | 1.53 GHz | 11.5x | 1.50V |
-| **-&gt;Athlon XP 1700+** | 266 | 1.47 GHz | **11.0x** | 1.50V |
+| **->Athlon XP 1700+** | 266 | 1.47 GHz | **11.0x** | 1.50V |
 
 ![](/assets/images/2004/08/InPlace1.jpg)

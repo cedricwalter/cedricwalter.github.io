@@ -162,11 +162,11 @@ As soon as you create one items, you can see the state of that sensor in
 
 http://openhabianpi:8080/<span style="font-size: 12.16px;">paperui/index.html#/control or http://ip-of-pi:8080/paperui/index.html#/control
 
-If only -NaN or NaN is displayed, you have to either wait or wake up the sensor by pressing once on it button near the dongle (less &lt; 1 meter)
+If only -NaN or NaN is displayed, you have to either wait or wake up the sensor by pressing once on it button near the dongle (less < 1 meter)
 
 ## Strange behaviors
 
-- Removing a “Things” do not remove its “Items” -&gt; you need to manualy remove them
+- Removing a “Things” do not remove its “Items” -> you need to manualy remove them
 - sometimes you can remove a Things or Items, an error 404 is displayed in the right bottom corner, do a restart and these Things or Items wont be there
 
  TO BE continued work in progress – not a final version

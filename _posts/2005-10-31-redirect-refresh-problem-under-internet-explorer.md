@@ -25,12 +25,12 @@ The following file has work since recently, under IE but suddenly stop 3 days ag
 
 | **Content of index.html** \| endless redirect loop \| \|:-:\| |
 |---|
-| &lt;html&gt;   &lt;head&gt;   &lt;title&gt;&lt;/title&gt;   &lt;META HTTP-EQUIV="refresh" content="0 ; /Mambo/index.php"&gt;   &lt;/head&gt;   &lt;body&gt;&lt;/body&gt;   &lt;/html&gt; |
+| <html>   <head>   <title></title>   <META HTTP-EQUIV="refresh" content="0 ; /Mambo/index.php">   </head>   <body></body>   </html> |
 
 Firefox has no difficulties with the file above. After a quick Look at the [W3C consortium for HTML normalisation](http://www.w3.org/MarkUp/), I found the following code
 
 | **Content of index.html (working)** |
 |---|
-| &lt;html&gt;   &lt;head&gt;   &lt;title&gt;&lt;/title&gt;   &lt;META HTTP-EQUIV="refresh" content="1;URL=/Mambo/index.php"&gt;   &lt;/head&gt;   &lt;body&gt;&lt;/body&gt;   &lt;/html&gt; |
+| <html>   <head>   <title></title>   <META HTTP-EQUIV="refresh" content="1;URL=/Mambo/index.php">   </head>   <body></body>   </html> |
 
 So to resume, a coding error, lazy standard and **ME** only testing under firefox…I apologize for inconvenience…and will try to avoid such situation in future.

@@ -168,7 +168,7 @@ Logger
 - Logger are in a hierarchy of logger, rootlogger being the top logger which cannot be overwritten (Do You feel the power of Log4j/Log4PHP?)
 - Loggers are subclass of rootLogger and inheriting from him/each other (Do You feel the power of Log4j/Log4PHP?)
 - Logger must have at least ONE appender, but can output to many at the same! (Do You feel the power of Log4j/Log4PHP?)
-- It is better to name logger with the same name as Classname -&gt; the granularity of Log amount is then at the class level…For example: You may need in a class a lot of logs during a debugging session (set it to DEBUG, while You aren’t interested by all the other class around: set the rootLogger to ERROR)
+- It is better to name logger with the same name as Classname -> the granularity of Log amount is then at the class level…For example: You may need in a class a lot of logs during a debugging session (set it to DEBUG, while You aren’t interested by all the other class around: set the rootLogger to ERROR)
 
  Here the root logger is in DEBUG mode and output to R00
 

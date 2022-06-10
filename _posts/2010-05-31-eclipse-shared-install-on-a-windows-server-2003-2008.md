@@ -45,7 +45,7 @@ I did develop this solution at work for our internal purpose at [www.innoveo.com
 
 ## Drawbacks
 
-- A shared developer environment is a **Single point of failure** –&gt; you need a very good backup, and eventually hardware fallback machine in hot standby!
+- A shared developer environment is a **Single point of failure** –> you need a very good backup, and eventually hardware fallback machine in hot standby!
 - You can not work if developer have no or limited internet access, in train for example.
 - It required a bit of initial engineering, hence this article.
 

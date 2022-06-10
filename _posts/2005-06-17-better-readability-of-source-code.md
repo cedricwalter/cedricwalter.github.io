@@ -11,7 +11,7 @@ tags:
     - javascript
 ---
 
-I just activated the mambots [Geshi](http://qbnz.com/highlighter/index.php) (standard in Mambo 4.5.2 ) on my Homepage, now all code in my pages (between &lt;pre&gt; and &lt;/pre&gt; ) will be automaticaly highlighted and colored. More than 38 languages are now supported on my homepage!
+I just activated the mambots [Geshi](http://qbnz.com/highlighter/index.php) (standard in Mambo 4.5.2 ) on my Homepage, now all code in my pages (between <pre> and </pre> ) will be automaticaly highlighted and colored. More than 38 languages are now supported on my homepage!
 
 actionscript – ada – apache – asm – asp – bash – c – c\_mac – caddcl – cadlisp – cpp – csharp – css – delphi – html4strict – java – javascript – lisp – lua – mpasm – nsis – objc – oobas – oracle8 – pascal – perl – php-brief – php – python – qbasic – smarty – sql – vb – vbnet – visualfoxpro – xml
 

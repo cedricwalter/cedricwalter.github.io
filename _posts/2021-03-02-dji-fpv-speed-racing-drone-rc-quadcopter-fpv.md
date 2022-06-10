@@ -71,7 +71,7 @@ Here are the specs. waiting to order mine 🙂 on 2nd march
 | **Sensing System** | Forward | Precision Measurement Range: 0.5-18 m    Obstacle Sensing: Available in N mode only   FOV: 56° (horizontal), 71° (vertical) |
 | Downward (dual vision sensors + TOF) | TOF Effective Sensing Height: 10 m    Hovering Range: 0.5-15 m    Vision Sensor Hovering Range: 0.5-30 m |
 | Downward Auxillary Light | Single LED |
-| Operating Environment | Refers to non-reflective, discernible surfaces  Diffuse reflectivity &gt;20% (e.g. walls, trees, people)   Adequate lighting conditions (lux &gt;15 in normal indoor lighting conditions) |
+| Operating Environment | Refers to non-reflective, discernible surfaces  Diffuse reflectivity >20% (e.g. walls, trees, people)   Adequate lighting conditions (lux >15 in normal indoor lighting conditions) |
 | **Video Transmission** | Operating Frequency | 2.400-2.4835 GHz   5.725-5.850 GHz |
 | Communication Bandwidth | 40 MHz (Max.) |
 | Live View Mode | Low-Latency Mode: 810p/120fps ≤ 28ms   High-Quality Mode: 810p/60fps ≤ 40ms |
@@ -82,7 +82,7 @@ Here are the specs. waiting to order mine 🙂 on 2nd march
 | Dimensions | 184×122×110 mm (antennas excluded)    202×126×110 mm (antennas included) |
 | Screen Size | 2-inches (×2) |
 | Screen Refresh Rate | 144 Hz |
-| Communication Frequency &lt;sup&gt;\[1\]&lt;/sup&gt; | 2.400-2.4835 GHz   5.725-5.850 GHz |
+| Communication Frequency <sup>\[1\]</sup> | 2.400-2.4835 GHz   5.725-5.850 GHz |
 | Transmitter Power (EIRP) | 2.400-2.4835 GHz   FCC: ≤ 28.5 dBm  CE: ≤ 20 dBm  SRRC: ≤ 20 dBm  MIC: ≤ 20 dBm     5.725-5.850 GHz   FCC: ≤ 31.5 dBm  CE: ≤ 14 dBm  SRRC: ≤ 19 dBm |
 | Communication Bandwidth | 40 MHz (Max.) |
 | Live View Mode | Low-Latency Mode: 810p/120fps ≤ 28ms\*   High-Quality Mode: 810p/60fps ≤ 40ms\*   \* A 150° FOV is available when shooting at 50 or 100 fps. For other frame rates, the FOV will be 142°. |

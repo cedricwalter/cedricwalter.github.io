@@ -18,7 +18,7 @@ release soon
 
 
 - Depending on settings in admin panel, the logic was reversed for "Display or not the reload button" and "Display or not the sound button (function not implemented)"
-- Remove "image content-type" settings it is not needed -&gt; provide a select boy with gif, jpg, png output possibility instead
+- Remove "image content-type" settings it is not needed -> provide a select boy with gif, jpg, png output possibility instead
 - Logs are now database based. with a query engine to search a specific spam attempt.
 - Logs can be export to CSV, HTML, XML
 - Better localization in admin panel, more keys in english.php

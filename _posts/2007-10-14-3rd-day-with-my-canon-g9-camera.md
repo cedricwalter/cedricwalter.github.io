@@ -27,7 +27,7 @@ tags:
  I recommend you to go with the [DC 55, it protect the G9 camera a lot better as seen on this page.](http://www.powershotvalley.com/65801/150543.html)  
    
  Battery  
- The battery you get from the package is just a shame: 800mAh and it cost between 100CHF (65€) and 141CHF (91€). As seen on [dpreview.com Canon Talk](http://www.dpreview.com/forums/forum.asp?forum=1010), You can spare a lot of money by using generic battery. I’ve ordered 3 battery (7€ each) on [ebay.de](http://search.ebay.de/Canon-Akku-NB-2LH_W0QQ_trksidZm37QQcatrefZC6QQcoactionZcompareQQcoentrypageZsearchQQcopagenumZ1QQfromZR10QQfsooZ2QQfsopZ32QQftrtZ1QQftrvZ1QQga10244Z10425QQlredZCanonQ20AkkuQ20NBQ2d2LHQQrprZ125QQsabfmtsZ1QQsacatZQ2d1QQsaobfmtsZinsifQQsaprchiZQQsaprcloZQQsatitleZCanonQ20AkkuQ20NBQ2d2LH) for a total of 21€ . Each battery being rate at 2500mAh -&gt; 3 more times capacity equal to 3 times more fun!  
+ The battery you get from the package is just a shame: 800mAh and it cost between 100CHF (65€) and 141CHF (91€). As seen on [dpreview.com Canon Talk](http://www.dpreview.com/forums/forum.asp?forum=1010), You can spare a lot of money by using generic battery. I’ve ordered 3 battery (7€ each) on [ebay.de](http://search.ebay.de/Canon-Akku-NB-2LH_W0QQ_trksidZm37QQcatrefZC6QQcoactionZcompareQQcoentrypageZsearchQQcopagenumZ1QQfromZR10QQfsooZ2QQfsopZ32QQftrtZ1QQftrvZ1QQga10244Z10425QQlredZCanonQ20AkkuQ20NBQ2d2LHQQrprZ125QQsabfmtsZ1QQsacatZQ2d1QQsaobfmtsZinsifQQsaprchiZQQsaprcloZQQsatitleZCanonQ20AkkuQ20NBQ2d2LH) for a total of 21€ . Each battery being rate at 2500mAh -> 3 more times capacity equal to 3 times more fun!  
  What You must take into account before buying them on ebay (point 1,2 is common sense):
 
 1. A well know ebay power seller

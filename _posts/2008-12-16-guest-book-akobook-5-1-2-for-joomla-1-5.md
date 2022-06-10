@@ -37,6 +37,6 @@ missing keys in all languages except english
 
 **BUG**: missing translation entries in foreign languages (but not translated)
 
-*NOTE: Akobook do not delete existing table -&gt; this is a feature that allow you to safely update akobook without having to backup of your table.*
+*NOTE: Akobook do not delete existing table -> this is a feature that allow you to safely update akobook without having to backup of your table.*
 
 *![akobookPlus](/assets/images/2008/12/akobookPlus.png)* [Download HERE](updater.php?option=com_versions&catid=2)

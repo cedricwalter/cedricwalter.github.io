@@ -46,7 +46,7 @@ Now you can copy the content of the ./bin directory to any web root and you are 
 
 These are all the error I havve encounter and how I did solve them
 
-### TypeError: Object #&lt;Object&gt; has no method ‘existsSync’
+### TypeError: Object #<Object> has no method ‘existsSync’
 
 This is because your version of nodejs is tool old: nodejs 0.6 moved `path.existsSync` to `fs.existsSync`, so if you’re using an old version of node then `fs.existsSync` will be broken.
 

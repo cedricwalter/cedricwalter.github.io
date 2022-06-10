@@ -44,7 +44,7 @@ Quick backup of file system
 
 Quick backup of database
 
-\# mysqldump –u*User* -p*Password* *Schema* &gt; /home/teamcity.4.0.2/teamcity.sql
+\# mysqldump –u*User* -p*Password* *Schema* > /home/teamcity.4.0.2/teamcity.sql
 
 Get the latest version
 

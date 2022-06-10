@@ -20,7 +20,7 @@ The first release of my Smugmug Video Player module running natively against the
 
 This #Joomla! 1.6 module displays Smugmug videos using flash and Smugmug API.
 
-**NEW**: #Joomla! 1.6 native support only for version &gt;= 1.6.0  
+**NEW**: #Joomla! 1.6 native support only for version >= 1.6.0  
 **NEW**: [Wiki page](http://wiki.waltercedric.com/index.php?title=Smugmug_Video_Player_module) is now integrated in backend  
 **NEW**: Integrated #Joomla! 1.6 one click update extension is available!
 

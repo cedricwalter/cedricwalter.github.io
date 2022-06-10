@@ -24,4 +24,4 @@ tags:
 
  First upgrade Your site to #Joomla 1.0.14, th4n apply this patch with FTP/SCP by overwriting one more time all files with zip content
 
- <span style="font-size: 12pt">[ –&gt; Download HERE](https://waltercedric.com/new/?p=184)
+ <span style="font-size: 12pt">[ –> Download HERE](https://waltercedric.com/new/?p=184)

@@ -12,7 +12,7 @@ This tutorial will show you how to accept Bitcoin on a website with SSL signed p
 
 - A webserver serving static HTML
 - A SSL certificate (signed by a CA)
-- Electrum version &gt;= 2.6
+- Electrum version >= 2.6
 
 Install dependencies:  
 <tt></tt>
@@ -30,6 +30,6 @@ then run on your server
 electrum create electrum daemon start electrum setconfig ssl_privkey /etc/letsencrypt/live/xxxxxx.com/privkey.pem electrum setconfig ssl_chain /etc/letsencrypt/live/xxxxxx.com/cert.pem  electrum setconfig requests_dir /home/xxxxxx.com/httpdocs/r electrum setconfig url_rewrite "['file:///home/xxxxxx.com/httpdocs/','https://www.xxxxxx.com/']" electrum addrequest 0.015 -m "Payment for Acme.inc service" 
 ```
 
-this will return a json with the URL to present to your customers. eg. &gt;<span class="s2">https://www.xxxxxx<span class="s2">.org/r/index.html?id=7c2888541a
+this will return a json with the URL to present to your customers. eg. ><span class="s2">https://www.xxxxxx<span class="s2">.org/r/index.html?id=7c2888541a
 
 <span class="s2">[More here](http://docs.electrum.org/en/latest/merchant.html)  

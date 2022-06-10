@@ -369,13 +369,13 @@ By clicking read more, You’ll be able to go through the checklist as text, or 
             - check for rootkit periodically 
                 - everyday at 1AM
                     
-                    0 1 \* \* \* nice -n 19 /usr/local/bin/rkhunter –checkall 2&gt;&amp;1 | mail -s “rkhunter output” youremail@gmail.com
+                    0 1 \* \* \* nice -n 19 /usr/local/bin/rkhunter –checkall 2>&amp;1 | mail -s “rkhunter output” youremail@gmail.com
             - too late if alarm
             - [~ read more HERE](https://waltercedric.com/new/?p=3023)
         - chkrootkit 
             - check for rootkit periodically 
                 - everyday at 1AM
-                - 0 1 \* \* \* nice -n 19 /sbin/chkrootkit 2&gt;&amp;1 | mail -s “rkhunter output” youremail@gmail.com
+                - 0 1 \* \* \* nice -n 19 /sbin/chkrootkit 2>&amp;1 | mail -s “rkhunter output” youremail@gmail.com
             - too late if alarm
             - [~ read more HERE](https://waltercedric.com/new/?p=3022)
         - tripwire 

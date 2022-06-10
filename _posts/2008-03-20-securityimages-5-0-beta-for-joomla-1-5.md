@@ -16,7 +16,7 @@ image: /wp-content/uploads/2008/03/index.php_thumb.jpg
 **NEW:** No HTML warning, XHTML compliant   
 **NEW:** GPL v3 The FSF Compliance Lab has published [A Quick Guide to GPLv3](http://www.fsf.org/licensing/licenses/quick-guide-gplv3.html), a developer-friendly article explaining the new features and benefits of GPLv3. Be sure to check it out.   
 **NEW**: full translation now possible of static pages about.html, developer.html and troubles.html   
-**NEW**: migration to #Joomla! 1.5 API, security, database factory, logging, installer -&gt; reduction of code   
+**NEW**: migration to #Joomla! 1.5 API, security, database factory, logging, installer -> reduction of code   
 **NEW**: unique language files following #Joomla! 1.5 convention (ini files)   
 **NEW**: utf8 support   
 **NEW**: no PHP warning in logs
@@ -42,7 +42,7 @@ To check what the user has entered:
 
 <font color="#0000bb">$return <font color="#007700">= <font color="#0000bb">false<font color="#007700">;   
 <font color="#0000bb">$securityImagesJoomlaContactUserTry <font color="#007700">= <font color="#0000bb">JRequest<font color="#007700">::<font color="#0000bb">getVar<font color="#007700">(<font color="#dd0000">‘securityImagesJoomlaContactUserTry’<font color="#007700">, <font color="#0000bb">false<font color="#007700">, <font color="#dd0000">”<font color="#007700">, <font color="#dd0000">‘CMD’<font color="#007700">);   
-<font color="#0000bb">$mainframe<font color="#007700">-&gt;<font color="#0000bb">triggerEvent<font color="#007700">(<font color="#dd0000">‘<font color="#dd0000">onSecurityImagesCheck<font color="#dd0000">‘<font color="#007700">, array(<font color="#0000bb">$securityImagesJoomlaContactUserTry<font color="#007700"> &amp;<font color="#0000bb">$return<font color="#007700">));
+<font color="#0000bb">$mainframe<font color="#007700">-><font color="#0000bb">triggerEvent<font color="#007700">(<font color="#dd0000">‘<font color="#dd0000">onSecurityImagesCheck<font color="#dd0000">‘<font color="#007700">, array(<font color="#0000bb">$securityImagesJoomlaContactUserTry<font color="#007700"> &amp;<font color="#0000bb">$return<font color="#007700">));
 
 <font face="Trebuchet MS">If return is true, then the user / bots has solved the captcha correctly.
 

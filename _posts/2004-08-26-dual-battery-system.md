@@ -16,7 +16,7 @@ tags:
 
 **![](/assets/images/2004/08/1stc30DoubleAlim.jpg)**
 
-<div align="center" style="margin-left: 40px">** Overall view of my 1st caliber****24.08.2002** Add a dual battery system for more safety. I have no heli with only one battery. Here is why:
+** Overall view of my 1st caliber****24.08.2002** Add a dual battery system for more safety. I have no heli with only one battery. Here is why:
 
 | ***Problems*** | ***1 battery pack*** | ***2 packs +   mechanic   Switches*** | ***2 packs +   Electronic   switch*** |
 |---|---|---|---|

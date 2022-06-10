@@ -56,7 +56,7 @@ I can only work during the week-end, expect to have a runnable device in 2-3 wee
 
 **Drawning:**
 
-**RX part: Document in Powerpoint, feel free to modify it, and send it back with suggestions -&gt;**[**CLICK HERE**](http://www.waltercedric.com/Helico/elec/tachometer/docs/RXAurelTachometer.ppt)
+**RX part: Document in Powerpoint, feel free to modify it, and send it back with suggestions ->**[**CLICK HERE**](http://www.waltercedric.com/Helico/elec/tachometer/docs/RXAurelTachometer.ppt)
 
 ![](/assets/images/2004/09/ImplRX.gif)
 
@@ -64,15 +64,15 @@ I can only work during the week-end, expect to have a runnable device in 2-3 wee
 
 **Right now, I do not know:**
 
-- **if I need a comparator after the digital data output. -&gt; it is integrated in the receiver. Output is 0Volt OR 3,8Volts (dicrete values)**
+- **if I need a comparator after the digital data output. -> it is integrated in the receiver. Output is 0Volt OR 3,8Volts (dicrete values)**
 - **if I need an antenna. Range test to be done and incocuity of device (no interferences in PPM and PCM mode)**
 
 **The transistor is not switching, bad value of ib and rb, rc (11.01.2003)**
 
-- **Rc** found for IC = IC1 = 10 mA and VCE = VCE1 = 1 V. lead to RC = (VCC-VCE1)/Ic1= (1,53 -1)/0.01=&gt; **Rc= 50 Ohms**
-- **Rb** found for IB = IB1 = 100 ÂµA . Vcde = 5 V. lead to Rb = (Vcde-Vbe)/ IB1, Vbe=0.7V for Silicium Transistor =&gt; **Rb=44KOhms**
+- **Rc** found for IC = IC1 = 10 mA and VCE = VCE1 = 1 V. lead to RC = (VCC-VCE1)/Ic1= (1,53 -1)/0.01=> **Rc= 50 Ohms**
+- **Rb** found for IB = IB1 = 100 ÂµA . Vcde = 5 V. lead to Rb = (Vcde-Vbe)/ IB1, Vbe=0.7V for Silicium Transistor => **Rb=44KOhms**
 
-**TX part: Document in Powerpoint, feel free to modify it, and send it back with suggestions -&gt;**[**CLICK HERE**](http://www.waltercedric.com/Helico/elec/tachometer/docs/TXAurelTachometer.ppt)
+**TX part: Document in Powerpoint, feel free to modify it, and send it back with suggestions ->**[**CLICK HERE**](http://www.waltercedric.com/Helico/elec/tachometer/docs/TXAurelTachometer.ppt)
 
 **Right now, I do not know:**
 

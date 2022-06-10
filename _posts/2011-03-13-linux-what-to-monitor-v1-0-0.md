@@ -134,7 +134,7 @@ This mind map is an ongoing work, that is why it has also a version number in it
             
             If too much failed attempts in log file
             
-            -&gt; may be hacker brute forcing login
+            -> may be hacker brute forcing login
             
             
             - block with IPTable

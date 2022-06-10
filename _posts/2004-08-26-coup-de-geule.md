@@ -25,23 +25,23 @@ Oui la route tue, c’est un fait mais ne soyons pas hypocrite ou démagogique n
 - Vous je sait pas mais moi je vis en alsace, et beaucoup de route sont passés de 90km/h Ã 70km/h et maintenant 50km/h, tellement sont Ã 50km/h que j’ai l’impression d’aller en ville en vélo tellement on se traine. (oui je respecte les limites de vitesse en voiture).
 - Enfin les politiques ou urbanistes de notre ville ont l’intention de rendre la ville au pietons (on retrécit les carrefours, rond point etc…), intention louable (et a la mode) mais qui a comme résultat de me faire prendre plus la moto, et de me faire aller en grande surface, car j’en ai marre le week-end des bouchons, horodateurs Ã 2â?¬ de l’heure, des PV de staionnement? etc… Ces personnes tuent le centre ville c’est tout.
 - Beaucoup de personne chez moi se prennent des arbres sur une petite route, pourquoi ne pas couper les arbres? personne n’a jamais avoué que la route est tout aussi dangeureuse que les conducteurs! un tracé, une propension a stocker l’eau sur les bas cotés, revetement usés, son manque de visibilité (merci aux buttes avec monuments Ã la c.., haies de feuillus planté aux carrefours, économies de feux rouges alors qu’a d’autres endroits beaucoup sont inutiles), la proximité d’un étang générateur de brumes, de verglas, de feuilles mortes sur la route…etc
-- ![](/assets/images/2004/08/sm_doc_rouge.gif) Que se passe t’il sur les routes de mulhouse? pourquoi tant de lignes discontinues deviennent tout a coup continues? je ne vois que ces explications:
+- Que se passe t’il sur les routes de mulhouse? pourquoi tant de lignes discontinues deviennent tout a coup continues? je ne vois que ces explications:
     - C’est surement un bug informatique de la traceuse, une rémanence du bug de l’an 2000 ou alors 
     - L’etat soudainement n’aime plus les trous ailleurs que dans ses caisses publiques ou alors
     - Les stocks de peinture blanche sont trop important: “c’est pour pas gacher” c Guy Roux ou alors
     - Les fabriquants de peinture blanche font des lots promotionnels…
     
     C’est sur a 50km/h (voire 30km/h !!!!) et sans le droit de doubler mÃªme sur des superbe lignes droite Ã la visibilité parfaite (sur des km et des km) les accidents vont baisser…..Noter que quand je roule sur un de mes vieux scooter (manurhin 45km/h en pointe sur du plat) TOUS les automobilistes franchissent les lignes continues alors qu moi mÃªme en moto je ne le fait pas (eh oui)
-- ![](/assets/images/2004/08/sm_doc_rouge.gif) Les radars sont sur les routes les plus accidentogène: poudre aux yeux de la communication, ils sont toujours dans mon agglomeration au meme endroit: ligne droite, devenues continues (sic), 90 puis 70 puis 50km/h et ou le dernier accident mortel remonte a plus de 20 ans.
-- ![](/assets/images/2004/08/sm_doc_rouge.gif) Dernier exemple qui montre que la justice est aveugle mais que cela sert d’avoir des copains: un député prit a plus de 100km/h au lieu de 50km/h condamner Ã un retrait de permis de une semaine (si quelqu’un retrouve son nom je serai heureux de le signaler ici, la presse en a assez parlé…). Vous penserez a cela lorsqu’on vous interdira de permis pour 3 ans devant un tribunal…
-- ![](/assets/images/2004/08/sm_doc_rouge.gif) Depuis le début de l’année les conditions météo ont été exceptionnelle (pas de pluie) donc forcèment les chiffres sont plus bas que l’année dernière, et cela c’est un fait, pas besoin de la méthode Sarkozi, attendons l’hiver pour voir les vrais chiffres, mÃªme si je suis persuadé que on ne connaitras jamais les vrais chiffres.
-- ![](/assets/images/2004/08/sm_doc_rouge.gif) Les gens roulent moins vite par peur des gendarmes, avec un effet pervers inatendu: on ne meurrent plus mais on crée des tétraplégiques et des légumes. En effet se prendre un arbre Ã 100km/h ou Ã 50km/h ne fait pas gagner grand chose.
+-  Les radars sont sur les routes les plus accidentogène: poudre aux yeux de la communication, ils sont toujours dans mon agglomeration au meme endroit: ligne droite, devenues continues (sic), 90 puis 70 puis 50km/h et ou le dernier accident mortel remonte a plus de 20 ans.
+-  Dernier exemple qui montre que la justice est aveugle mais que cela sert d’avoir des copains: un député prit a plus de 100km/h au lieu de 50km/h condamner Ã un retrait de permis de une semaine (si quelqu’un retrouve son nom je serai heureux de le signaler ici, la presse en a assez parlé…). Vous penserez a cela lorsqu’on vous interdira de permis pour 3 ans devant un tribunal…
+-  Depuis le début de l’année les conditions météo ont été exceptionnelle (pas de pluie) donc forcèment les chiffres sont plus bas que l’année dernière, et cela c’est un fait, pas besoin de la méthode Sarkozi, attendons l’hiver pour voir les vrais chiffres, mÃªme si je suis persuadé que on ne connaitras jamais les vrais chiffres.
+-  Les gens roulent moins vite par peur des gendarmes, avec un effet pervers inatendu: on ne meurrent plus mais on crée des tétraplégiques et des légumes. En effet se prendre un arbre Ã 100km/h ou Ã 50km/h ne fait pas gagner grand chose.
 
-**En conclusions**:
+# En conclusions
 
-- Les chiffres, on peut leur faire dire ce que l’on veut: un exemple? 25 milions de véhicules roulent par an en france, 158000 victimes =&gt;0,6% d’accidents sur le parc par an… oui c’est con comme calcul, mais ont peut le faire et dans ce cas on pourrait dire: “très peu d’acccident en france”, cela resterait sérieux.
+- Les chiffres, on peut leur faire dire ce que l’on veut: un exemple? 25 milions de véhicules roulent par an en france, 158000 victimes =>0,6% d’accidents sur le parc par an… oui c’est con comme calcul, mais ont peut le faire et dans ce cas on pourrait dire: “très peu d’acccident en france”, cela resterait sérieux.
 
-**Mes prédictions:**
+# Mes prédictions
 
 - Résultat positif pour le marché de l’occasion, les missiles sol-sol (ducati 996, cbr 900r, hayabusa, ninja etc..) vont fleurir en occasion (car leur conducteur seront soit en prison ou sans permis). 
 - Les ventes neuves de moto/auto puissantes vont s’écrouler. (ou alors trouveront preneur chez les ministres). La consommation d’essences va baisser car on roulera moins vite (ce qui n’est pas une mauvaise chose en soi de moins consommer du pétrole), 
@@ -49,10 +49,10 @@ Oui la route tue, c’est un fait mais ne soyons pas hypocrite ou démagogique n
 - Les constructeurs vont devoir ravaler leurs moteurs puissants et livrer des voitures aux moteurs aseptisés.  
      
 
-**Mes solutions:** 
+# Mes solutions
 
 - Limiter tout les moteurs Ã 35CV et en électrique (ziiiiiiii ou lieu de vroum vroum beurk), vous je sais pas mais moi je change de pays le lendemain ou cette loi passe…
 - interroger les services d’urgences et demander leur ou ils ramassent le plus de blessés ou de morts, ensuite interroger vous sur les causes et trouver des solutions.
 - Assureur Ã quand des prix raisonnables sur des assurances type circuit privé ou on pourrait enfin **s’amuser** en sécurité?
 - L’état francais et les départements devrait ouvrir les circuits de compétition le week-end et proposer des formules d’abonnements Ã la carte.
-- ![](/assets/images/2004/08/sm_doc_rouge.gif) Allèger les voitures, énergie cinétique moindre en cas de choc. Tant que les loi d’inertie régirons les mouvements des mobiles, il y aura très peut de paramètres sur lesquelles agir.
+- Allèger les voitures, énergie cinétique moindre en cas de choc. Tant que les loi d’inertie régirons les mouvements des mobiles, il y aura très peut de paramètres sur lesquelles agir.

@@ -252,7 +252,7 @@ can be stored on the XBOX or on the network:
 This file contains a documentation and is quite easy to modify.
 
 **Attention** when you copy digital content to the Xbox harddrive with FTP, the filesystem (FAT-X) has a lot   
-of limitations! no name up to 43 characters, no special character &lt; &gt; = ? : ; " \* + , / | and avoid accents too…
+of limitations! no name up to 43 characters, no special character < > = ? : ; " \* + , / | and avoid accents too…
 
 - - - - - -
 

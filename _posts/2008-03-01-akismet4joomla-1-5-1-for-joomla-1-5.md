@@ -33,7 +33,7 @@ NEW: New API more like in #Joomla! 1.5, but the old one is still working
 
 <span style="font-family: Courier New,Courier,monospace">require\_once (\_JOOMLA\_AKISMET\_ADMIN\_BASE . ‘/akismetJoomlaAPI.php’);  
 <span style="font-family: Courier New,Courier,monospace">$JoomlaAkismetAPI = #JoomlaAkismetAPI::getJoomlaAkismetAPI();  
-<span style="font-family: Courier New,Courier,monospace">$JoomlaAkismetAPI-&gt;isKeyValid(“123456789”);
+<span style="font-family: Courier New,Courier,monospace">$JoomlaAkismetAPI->isKeyValid(“123456789”);
 
 <span style="color: #3333ff; font-weight: bold">NEW: Using [Akismet](http://akismet.com/) PHP 5 engine version 0.4 (author Alex Potsides [http://www.achingbrain.net/)](http://www.achingbrain.net/)
 

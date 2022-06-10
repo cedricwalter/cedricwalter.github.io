@@ -18,7 +18,7 @@ En février 99, après avoir lu un article sur [www.kikumaru.jp](http://www.kiku
 | 1 DFI P2XBL/D |  | **1154 FRF** |
 |---|---|---|
 | 2 Celeron PPGA 300A |  | **2x 470 FRF** |
-| 2 Adaptateurs MSI 6905 (ppga-&gt;slot1) | ![](/assets/images/2004/08/msi6905.jpg) | **330 FRF** avec le port |
+| 2 Adaptateurs MSI 6905 (ppga->slot1) | ![](/assets/images/2004/08/msi6905.jpg) | **330 FRF** avec le port |
 | 2 ventilateurs STANDARD |  | 2x **60 FRF** |
 | Total    ce qui restait le prix d'un P2 300 avec 1 carte mère. |  | **2544 FRF** |
 

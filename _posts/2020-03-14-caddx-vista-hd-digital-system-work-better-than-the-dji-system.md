@@ -21,8 +21,8 @@ tags:
 <iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" loading="lazy" src="https://www.youtube.com/embed/t7GaVfzN0uo" width="560"></iframe>- Brand Name: Caddx
 - Item Name: Vista Kit
 - Operating Frequency: 5.725-5.850GHz
-- Transmitter Power(EIRP): FCC/SRRC/MIC: &lt;30dBm,
-- CE: &lt;14dBmMin. Latency (end-to-end):
+- Transmitter Power(EIRP): FCC/SRRC/MIC: <30dBm,
+- CE: <14dBmMin. Latency (end-to-end):
 - Low Latency Mode(720p 120fps): 21-28ms,
 - High Quality Mode(720p 60fps): 30-40msMax.
 - Transmission Distance: FCC/SRRC: 4km, CE: 0.7kmI/O

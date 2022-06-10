@@ -67,4 +67,4 @@ Launch configurations stored in modules may also be duplicated in the menus and 
 
 ## About “Hide folders of physically nested modules (experimental)”
 
-There is experimental option to hide folders of physically nested modules (see Window-&gt;Preferences-&gt;Maven), but it relies on optional eclipse APIs and does not guarantee all plugins will actually ignore hidden resources. Make sure to reimport all projects into workspace if you decide to try this. Platform debug and subversive are expected to respect IResource#isHidden state, so you should not see any duplicates when this flag is on.
+There is experimental option to hide folders of physically nested modules (see Window->Preferences->Maven), but it relies on optional eclipse APIs and does not guarantee all plugins will actually ignore hidden resources. Make sure to reimport all projects into workspace if you decide to try this. Platform debug and subversive are expected to respect IResource#isHidden state, so you should not see any duplicates when this flag is on.

@@ -94,7 +94,7 @@ As a result on my PC nearly every visual enhancement are switch off, but that is
 
 **What I have noted on PC 2**  
 – If you deactivate nearly everything, the FPS (frame per second) counter seem to reach limit value which is near 90 fps.  
-– Grass is consuming alone &gt; 20 fps !  
+– Grass is consuming alone > 20 fps !  
 – People and in fact increasing number of object to the max let you go between 40 and 45 fps (was below 20 fps on PC 1), which should be enough, but the problem is the frontier between 80 fps and 45 fps, some glitches are encountered and when flying you feel the changes.
 
 ## **My Conclusion** 
@@ -125,7 +125,7 @@ Other keys can be emulated with the keyboard….
 - The controller is entirely in the plug (CMS component) and the quality is professional.
 - Only regret, it can only controls 4 channels + 1 switch.
 - GREAT to use your real TX, feeling is a lot better ! (weight of TX, tension of sticks, position of fingers etc…)
-- It is a lot cheaper than the interface provided by Realflight (&gt;230€ in France).
+- It is a lot cheaper than the interface provided by Realflight (>230€ in France).
 
 **Raptor 60 tweaking :** credit to [**Twobeers**](http://runryder.com/member.htm?action=mailform&userid=1510) **(RunRyder)**
 

@@ -47,7 +47,7 @@ when you try to download stuff with chromium it works (even from unsecure source
 
 **Solution**: the only solution was be to upgrade to valid SSL certificates (Verizon, Verisign or any other) instead of self signed. This increase the number of Android device working but unfortunately some Android devices were still NOT able to download resources with a valid SSL cert…
 
-By using the Android SDK debug console (adb.exe logcat &gt; file.txt) of android, we saw the following:
+By using the Android SDK debug console (adb.exe logcat > file.txt) of android, we saw the following:
 
 ```
 ne 7487: D/DownloadManager( 3054): [1] Starting 	Line 7489: W/DownloadManager( 3054): [1] Stop requested with status HTTP_DATA_ERROR: Handshake failed 	Line 7491: D/DownloadManager( 3054): [1] Finished with status WAITING_TO_RETRY

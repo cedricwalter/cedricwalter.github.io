@@ -133,16 +133,16 @@ include($mosConfig_absolute_path.'/logger.php');
 ```
 
 **<font style="BACKGROUND-COLOR: rgb(255,255,0)">3. Open /includes/database.php and replace line 261 what’s in bold**global $mosConfig\_debug;  
- if ($this-&gt;\_limit &gt; 0 || $this-&gt;\_offset &gt; 0) {  
- $this-&gt;\_sql .= "\\nLIMIT $this-&gt;\_offset, $this-&gt;\_limit";  
+ if ($this->\_limit > 0 || $this->\_offset > 0) {  
+ $this->\_sql .= "\\nLIMIT $this->\_offset, $this->\_limit";  
  }  
- $this-&gt;\_errorNum = 0;  
- $this-&gt;\_errorMsg = ”;  
- **if ($this-&gt;\_debug) {  
- $this-&gt;\_ticker++;  
- $this-&gt;\_log\[\] = $this-&gt;\_sql;  
+ $this->\_errorNum = 0;  
+ $this->\_errorMsg = ”;  
+ **if ($this->\_debug) {  
+ $this->\_ticker++;  
+ $this->\_log\[\] = $this->\_sql;  
  }   
- $this-&gt;\_cursor = mysql\_query( $this-&gt;\_sql, $this-&gt;\_resource );****<font style="BACKGROUND-COLOR: rgb(255,255,0)">by:**
+ $this->\_cursor = mysql\_query( $this->\_sql, $this->\_resource );****<font style="BACKGROUND-COLOR: rgb(255,255,0)">by:**
 
 ```
 //add by waltercedric.com

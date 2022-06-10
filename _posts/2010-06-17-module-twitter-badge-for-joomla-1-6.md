@@ -19,7 +19,7 @@ tags:
 
 The first release of my Twitter module running natively against the latest beta/trunk of #Joomla! 1.6
 
-**NEW**: #Joomla! 1.6 native support only for version &gt; 1.6.0  
+**NEW**: #Joomla! 1.6 native support only for version > 1.6.0  
 **NEW**: [Wiki page](http://wiki.waltercedric.com/index.php?title=Joomtwitter_for_Joomla!) is now integrated in backend  
 **NEW**: 16 modules settings  
 **NEW**: Integrated #Joomla! 1.6 one click update extension is available!

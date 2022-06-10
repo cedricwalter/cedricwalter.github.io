@@ -19,12 +19,12 @@ The focus on this release is to make the install more easier, as it is one major
 **NEW: **Italian translations thanks to   
 **NEW**: icons are back in menu for more clarity   
 **BUG**: one variable not set in /components/com\_user/controller.php; line 48 : captcha not displayed as a result.   
-**BUG**: Reload limit not taken into account. Reload limit is configured in the SecurityImages system plugin Extensions-&gt;Plugin Manager-&gt;System – SecurityImages-&gt;Plugin Parameters-&gt;Reload captcha count   
+**BUG**: Reload limit not taken into account. Reload limit is configured in the SecurityImages system plugin Extensions->Plugin Manager->System – SecurityImages->Plugin Parameters->Reload captcha count   
 **BUG**: Several subtle bugs discovered by **[svert](http://forums.waltercedric.com/index.php?action=profile;u=753)** (forum [HERE](http://forums.waltercedric.com/index.php?topic=575.msg2123#msg2123))
 
 **NEW**: Better check you system page checking now permissions. Remark, securityimages5 just require read permissions, so for 99% of your php files r–r–r– (chmod 444) is more than enough! configuration file must have rw-r–r– (chmod 644) or you wont be able to change configuration file with the #Joomla GUI. NEVER NEVER use chmod 777 on any directory or file!
 
-**NEW**: #Joomla! Patches are now fully configurable -&gt; you can decide to activate captcha on some area or not   
+**NEW**: #Joomla! Patches are now fully configurable -> you can decide to activate captcha on some area or not   
 (require to install new patches **#Joomla\_1.5.x-Stable-Full\_PackageForSecurityImages5.1.0\_v01.00.00.zip** )
 
 Note the version PackageForSecurityImages5.1.0

@@ -18,11 +18,11 @@ permalink: /gadget/smileys-list/
 
 :-I Indifferent smiley. Better than a `:-(‘ but not quite as good as a `:-)’.
 
-:-&gt; User just made a really biting sarcastic remark. Worse than a `;-)’.
+:-> User just made a really biting sarcastic remark. Worse than a `;-)’.
 
-&gt;:-&gt; User just made a really devilish remark.
+>:-> User just made a really devilish remark.
 
-&gt;;-&gt; Winky and devil combined. A very lewd remark was just made.
+>;-> Winky and devil combined. A very lewd remark was just made.
 
 **Most used smileys**
 
@@ -82,7 +82,7 @@ B-) User wears horn-rimmed glasses.
 
 :\_) User’s nose is sliding off of his face.
 
-:&lt;) User is from an Ivy League School.
+:<) User is from an Ivy League School.
 
 :-&amp; User is tongue tied.
 
@@ -122,9 +122,9 @@ O 🙂 User is an angel (at heart, at least).
 
 :-C User is really bummed.
 
-&lt;|-) User is Chinese.
+<|-) User is Chinese.
 
-&lt;|-( User is Chinese and doesn’t like these kind of jokes.
+<|-( User is Chinese and doesn’t like these kind of jokes.
 
 :-/ User is skeptical.
 
@@ -132,7 +132,7 @@ C=:-) User is a chef.
 
 @= User is pro-nuclear war.
 
-\*&lt;:-) User is wearing a Santa Claus Hat.
+\*<:-) User is wearing a Santa Claus Hat.
 
 😮 Uh oh!
 
@@ -156,7 +156,7 @@ E-:-) User is a Ham radio operator.
 
 (:I User is an egghead.
 
-&lt;:-I User is a dunce.
+<:-I User is a dunce.
 
 K:P User is a little kid with a propeller beenie.
 
@@ -188,7 +188,7 @@ X-( User just died.
 
 🙂 Happy.
 
-:&gt; What?
+:> What?
 
 :@ What?
 
@@ -200,7 +200,7 @@ X-( User just died.
 
 :\[ Real Downer.
 
-:&lt; What?
+:< What?
 
 :{ What?
 
@@ -240,7 +240,7 @@ E-:-I Net.ham-radio
 
 |-D ho ho
 
-:-&gt; hey hey
+:-> hey hey
 
 🙁 boo hoo
 

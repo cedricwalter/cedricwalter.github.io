@@ -17,7 +17,7 @@ I am storing no pictures at the moment, mainly because **I love them all** (espe
 |---|---|
 | <http://www.darkangeltheseries.com/> | DARK ANGEL – The Official Web Site |
 | <http://www.darkangelzone.co.uk/> | Dark Angel zone |
-| <http://www.darkangelfan.com/> | E y e s &lt;-&gt; &lt;-&gt; O n l y |
+| <http://www.darkangelfan.com/> | E y e s <-> <-> O n l y |
 | <http://www.jessicaalba.net/> | Jessica Alba FanSite (site where you can find all pictures of this beauty) |
 | <http://members.tripod.com/allaboutdarkangel/> | The Unofficial Guide to Fox’s Dark Angel Television Show |
 | <http://www.jamponyxpress.com/> |  |

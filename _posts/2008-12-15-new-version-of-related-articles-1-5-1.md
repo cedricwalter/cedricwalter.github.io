@@ -27,7 +27,7 @@ As requested
 
 <font face="Courier" size="2">WHERE ( state = ‘1’ AND a.checked\_out = 0 ) AND a.state = 1 AND u.published = 1 AND b.published = 1 AND ( publish\_up = ‘0000-00-00 00:00:00’ OR
 
-<font face="Courier" size="2">publish\_up = ‘2008-12-15 19:38:19’ ) AND catid = 1 AND a.id &lt; 6 ORDER BY id DESC LIMIT 10
+<font face="Courier" size="2">publish\_up = ‘2008-12-15 19:38:19’ ) AND catid = 1 AND a.id < 6 ORDER BY id DESC LIMIT 10
 
 😉
 

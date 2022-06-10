@@ -12,6 +12,6 @@ tags:
 ---
 
 Origine des vibrations sur un hélico rc :  
- – basse fréquence -&gt; rotor principal (tracking, balourd)  
- – moyenne fréquence -&gt; rotor d’anticouple (transmission, balourd)  
- – haute fréquence -&gt; moteur (balourd embrayage, indice thermique de la bougie)
+ – basse fréquence -> rotor principal (tracking, balourd)  
+ – moyenne fréquence -> rotor d’anticouple (transmission, balourd)  
+ – haute fréquence -> moteur (balourd embrayage, indice thermique de la bougie)

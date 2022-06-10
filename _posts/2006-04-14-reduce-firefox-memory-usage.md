@@ -18,7 +18,7 @@ it is not inusual for my firefox to eat more than 400Mb of RAM and this because 
 The Hack below will improve (but not fix the problem) by unloading Firefox as much as possible from memory and saving it to disk when you minimize its windows.
 
 1. Open Firefox and go to the Address Bar. And Type in the URL bar ***about:config*** and then press Enter.
-2. Right Click in the page and select *New -&gt; Boolean*.
+2. Right Click in the page and select *New -> Boolean*.
  ![](/assets/images/2006/04/firefox-logo.jpg)
 
 it is not inusual for my firefox to eat more than 400Mb of RAM and this because I rarely closed it down and/or work with many windows at the same time. Memory leaks is a known problem and some action are currently taken by the developers…
@@ -26,7 +26,7 @@ it is not inusual for my firefox to eat more than 400Mb of RAM and this because 
 The Hack below will improve (but not fix the problem) by unloading Firefox as much as possible from memory and saving it to disk when you minimize its windows.
 
 1. Open Firefox and go to the Address Bar. And Type in the URL bar ***about:config*** and then press Enter.
-2. Right Click in the page and select *New -&gt; Boolean*.
+2. Right Click in the page and select *New -> Boolean*.
 3. In the box that pops up enter ***config.trim\_on\_minimize***. Press Enter.
 4. Now select ***True*** and then press Enter.
 5. Restart Firefox.

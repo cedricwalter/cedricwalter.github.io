@@ -41,7 +41,7 @@ and for a total of 80 files ….
 
 
 - Testing administrator panel, I assume it is 70% correct
-- Testing installer -&gt; only boring, modifying XML by hand
+- Testing installer -> only boring, modifying XML by hand
 - Testing module and mambots, maybe some more code to write
 
 Everything is checked daily in CVS

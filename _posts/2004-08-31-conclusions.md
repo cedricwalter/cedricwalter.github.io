@@ -21,7 +21,7 @@ tags:
 **PC1: true Xp2800+ (not Barton) on Nforce2 Asus A7N8X deluxe – 1024Mb  
 PC2: true XP1700+@2350MHz on Nforce2 Asus A7N8X deluxe -512 Mb**
 
-click here to hear my system running on &lt;[1 Fan](images/pc/)&gt; &lt;[2 Fans](images/pc/)&gt; &lt;[No Fan](images/pc/)&gt;
+click here to hear my system running on <[1 Fan](images/pc/)> <[2 Fans](images/pc/)> <[No Fan](images/pc/)>
 
 **Rating**
 

@@ -45,7 +45,7 @@ L’avenir de l’hélico passe par la motorisation électrique mais pas encore 
 | **Facilité d’emploi** | Moyen | Trés facile |
 | **Investissement** | Peu élevée mais les consommables coutent cher sur la distance, Ã 30â&#130;¬ les 10 litres. | Tres élevée, mais peu de consommables par la suite a acquérir |
 | **Sécurité** | Bonne mais attention les moteurs thermiques vibrent plus | Faites attention aux interférences du contrôleur et aux tops radio qui peuvent faire démarrer le moteur n’importe quand ! |
-| **Bruit** | Elevé &gt; 80dB | Bruit moyen et presque agréable. Il devient possible de voler sous le vent à proximité de résidences. |
+| **Bruit** | Elevé > 80dB | Bruit moyen et presque agréable. Il devient possible de voler sous le vent à proximité de résidences. |
 | **Pollution** | Le nitrométhane est très toxique au contact et a l’inhalation: affection pulmonaire et Cancer | Pas d’émission toxiques en fonctionnement hormis si il y a rejet des batteries dans la nature.    Radiation ElectroMagnétique trés forte mais diminuant rapidement avec la distance |
 | **Simplicité** | Engrenages et réduction sont sources de vibration, | Légereté de la mécanique sans accus, simplicité car souvent un embrayage direct sans cloche |
 | **Conclusions** | L’avenir de l’hélico passe par la motorisation électrique mais pas encore aujourd’hui, 5 a 10 ans de patience a mon avis. Le temps que les piles à conbustibles soient disponible. En attendant et si vous savez piloter, considérer un helico électrique en 10 ou max 16 élts, surtout pas en 24 ou 30 élts, ce sont de vrai gouffre financier. |

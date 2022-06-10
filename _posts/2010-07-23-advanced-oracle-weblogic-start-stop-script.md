@@ -88,25 +88,25 @@ and paste inside the following
 > 
 > **startWeblogic**()   
 > {   
-> su – $WLS\_OWNER -c “nohup $WLS\_NODE\_HOME/startNodeManager.sh &gt; ${WLS\_LOG\_START} 2&gt;&amp;1 &amp;”   
+> su – $WLS\_OWNER -c “nohup $WLS\_NODE\_HOME/startNodeManager.sh > ${WLS\_LOG\_START} 2>&amp;1 &amp;”   
 > sleep 10   
-> su – $WLS\_OWNER -c “nohup $WLS\_HOME/startWebLogic.sh &gt;&gt; ${WLS\_LOG\_START} 2&gt;&amp;1 &amp;”   
+> su – $WLS\_OWNER -c “nohup $WLS\_HOME/startWebLogic.sh >> ${WLS\_LOG\_START} 2>&amp;1 &amp;”   
 > sleep 10   
-> su – $WLS\_OWNER -c “nohup $WLS\_HOME/bin/startManagedServer.sh &gt;&gt; ${WLS\_LOG\_START} 2&gt;&amp;1 &amp;”   
+> su – $WLS\_OWNER -c “nohup $WLS\_HOME/bin/startManagedServer.sh >> ${WLS\_LOG\_START} 2>&amp;1 &amp;”   
 > sleep 10   
-> su – $WLS\_OWNER -c “nohup $WLS\_HOME/bin/startManagedServer.sh &gt;&gt; ${WLS\_LOG\_START} 2&gt;&amp;1 &amp;”   
+> su – $WLS\_OWNER -c “nohup $WLS\_HOME/bin/startManagedServer.sh >> ${WLS\_LOG\_START} 2>&amp;1 &amp;”   
 > return 0   
 > } 
 > 
 > **stopWeblogic**()   
 > {   
-> su – $WLS\_OWNER -c “nohup $WLS\_NODE\_HOME/stopNodeManager.sh &gt; ${WLS\_LOG\_STOP} 2&gt;&amp;1 &amp;”   
+> su – $WLS\_OWNER -c “nohup $WLS\_NODE\_HOME/stopNodeManager.sh > ${WLS\_LOG\_STOP} 2>&amp;1 &amp;”   
 > sleep 10   
-> su – $WLS\_OWNER -c “nohup $WLS\_HOME/bin/stopManagedWebLogic.sh <font color="#ff8000">$<font color="#ff8000">WLS\_MANAGED\_SERVER1 t3://localhost:$WLS\_ADMIN\_PORT ${WLS\_ADMIN\_LOGIN} ${WLS\_ADMIN\_PWD} &gt;&gt; ${WLS\_LOG\_STOP} 2&gt;&amp;1 &amp;”   
+> su – $WLS\_OWNER -c “nohup $WLS\_HOME/bin/stopManagedWebLogic.sh <font color="#ff8000">$<font color="#ff8000">WLS\_MANAGED\_SERVER1 t3://localhost:$WLS\_ADMIN\_PORT ${WLS\_ADMIN\_LOGIN} ${WLS\_ADMIN\_PWD} >> ${WLS\_LOG\_STOP} 2>&amp;1 &amp;”   
 > sleep 10   
-> su – $WLS\_OWNER -c “nohup $WLS\_HOME/bin/stopManagedWebLogic.sh <font color="#ff8000">$<font color="#ff8000">WLS\_MANAGED\_SERVER2  t3://localhost:$WLS\_ADMIN\_PORT ${WLS\_ADMIN\_LOGIN} ${WLS\_ADMIN\_PWD} &gt;&gt; ${WLS\_LOG\_STOP} 2&gt;&amp;1 &amp;”   
+> su – $WLS\_OWNER -c “nohup $WLS\_HOME/bin/stopManagedWebLogic.sh <font color="#ff8000">$<font color="#ff8000">WLS\_MANAGED\_SERVER2  t3://localhost:$WLS\_ADMIN\_PORT ${WLS\_ADMIN\_LOGIN} ${WLS\_ADMIN\_PWD} >> ${WLS\_LOG\_STOP} 2>&amp;1 &amp;”   
 > sleep 10   
-> su – $WLS\_OWNER -c “nohup $WLS\_HOME/bin/stopWebLogic.sh &gt;&gt; ${WLS\_LOG\_STOP} 2&gt;&amp;1 &amp;”   
+> su – $WLS\_OWNER -c “nohup $WLS\_HOME/bin/stopWebLogic.sh >> ${WLS\_LOG\_STOP} 2>&amp;1 &amp;”   
 > return 0   
 > } 
 > 

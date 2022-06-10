@@ -26,7 +26,7 @@ Note: Jedit is recognizing 134 different languages, if YOu have some spare timeâ
 
 | Type in html text view |
 |---|
-| <font color="#b1b100">&lt;pre lang="apacheant"&gt;    &lt;target name="deploy apache" depends="cst eclipse"&gt;   &lt;antcall target="deploy tasks"&gt;   &lt;param name="source" value="${cvs}/${Tomcat}/${application}"/&gt;   &lt;param name="dest.dir" value="${deploy.tomcat.htdocs.dir}"/&gt;   &lt;param name="pattern.set" value="tomcat.htdocs.files"/&gt;   &lt;param name="exists" value="deploy.tomcat.htdocs.dir"/&gt;   &lt;param name="action" value="copy"/&gt;   &lt;param name="clear" value="true"/&gt;   &lt;/antcall&gt;&lt;/pre&gt; |
+| <font color="#b1b100"><pre lang="apacheant">    <target name="deploy apache" depends="cst eclipse">   <antcall target="deploy tasks">   <param name="source" value="${cvs}/${Tomcat}/${application}"/>   <param name="dest.dir" value="${deploy.tomcat.htdocs.dir}"/>   <param name="pattern.set" value="tomcat.htdocs.files"/>   <param name="exists" value="deploy.tomcat.htdocs.dir"/>   <param name="action" value="copy"/>   <param name="clear" value="true"/>   </antcall></pre> |
 | Result |
 | ``` <target depends="cst eclipse" name="deploy apache"></target> <antcall target="deploy tasks"></antcall> <param name="source" value="${cvs}/${Tomcat}/${application}"></param> <param name="dest.dir" value="${deploy.tomcat.htdocs.dir}"></param> <param name="pattern.set" value="tomcat.htdocs.files"></param> <param name="exists" value="deploy.tomcat.htdocs.dir"></param> <param name="action" value="copy"></param> <param name="clear" value="true"></param>  ``` |
 

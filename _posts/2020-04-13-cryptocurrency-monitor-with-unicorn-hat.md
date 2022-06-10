@@ -40,7 +40,7 @@ and a Unicorn HAT from <https://shop.pimoroni.com/products/unicorn-hat> I’ve g
 - Comes fully assembled
 - **Warning**: WS2812 LEDs are bright enough to cause eye pain, do not look at them directly when brightly lit. is recommended to use a [diffuser](https://shop.pimoroni.com/products/pibow-modification-layers).
 - **Photo-sensitivity warning**: flashing, strobing, and patterns of lights may cause epileptic seizures. Always take care and immediately stop using if you feel unwell (dizziness, nausea, affected vision, eye twitching, disorientation).
-- **Power**: Unicorn HAT requires a &gt;2A microUSB power supply for your Pi.
+- **Power**: Unicorn HAT requires a >2A microUSB power supply for your Pi.
 
 ## BUILDING THE SD CARD
 

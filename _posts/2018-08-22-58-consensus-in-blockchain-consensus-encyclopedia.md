@@ -41,7 +41,7 @@ And the consensus algorithm plays a crucial role in maintaining the safety and e
 The trilemma claims that blockchain systems can only at most have two of the following three properties:
 
 1. Decentralization (defined as the system being able to run in a scenario where each participant only has access to O(c) resources, i.e. a regular laptop or small VPS)
-2. Scalability (defined as being able to process O(n) &gt; O(c) transactions)
+2. Scalability (defined as being able to process O(n) > O(c) transactions)
 3. Security (defined as being secure against attackers with up to O(n) resources)
 
 Each consensus algorithm has its own application scenario. There is no absolute good or bad. The choice of which consensus to use for implementing the blockchain depends on the type of network and data.

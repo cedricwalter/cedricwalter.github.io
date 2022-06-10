@@ -17,7 +17,7 @@ New ideas/features/bugs are always welcomed either through [forums](http://forum
 
 #### What’s new?
 
-- **BUG**: Latest Articles module for the doesn’t take the pictures after the "readmore"hr &lt;hr id="system-readmore" /&gt;.   
+- **BUG**: Latest Articles module for the doesn’t take the pictures after the "readmore"hr <hr id="system-readmore" />.   
      is only using the images within the intro text.
 - **BUG**: Most Popular with thumbnails module.
 - **BUG:** was also in plugin, it is also solved there.

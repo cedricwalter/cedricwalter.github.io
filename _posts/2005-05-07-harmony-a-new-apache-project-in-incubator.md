@@ -18,7 +18,7 @@ The [Apache software fundation](http://www.apache.org/) has put a new project in
 
 **A free open source #Java virtual machine and classes librairies!!!**
 
-Right now it is only [” target=”\_blank”&gt;FAQ](<http://mail-archives.apache.org/mod_mbox/incubator-general/200505.mbox/<CA4BEB82-3D84-457D-9531-1477DD749919@apache.org>” target=”_blank”>a thread</a>, and a <a href=>)…an[ interesting discussion](http://developers.slashdot.org/developers/05/05/07/1254211.shtml?tid=108&tid=8) has start on [Slashdot.org](http://slashdot.org/)
+Right now it is only [” target=”\_blank”>FAQ](<http://mail-archives.apache.org/mod_mbox/incubator-general/200505.mbox/<CA4BEB82-3D84-457D-9531-1477DD749919@apache.org>” target=”_blank”>a thread</a>, and a <a href=>)…an[ interesting discussion](http://developers.slashdot.org/developers/05/05/07/1254211.shtml?tid=108&tid=8) has start on [Slashdot.org](http://slashdot.org/)
 
 Purpose of this project is to create and use an open source, compatible implementation of J2SE  
 5, the latest version of the #Java 2 Standard Edition specification.

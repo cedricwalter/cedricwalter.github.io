@@ -39,7 +39,7 @@ What I’ve solved
  <span style="font-weight: bold;">But under following limitations:
 
 - I am using some computational PHP functions (bcadd, bcmul, bcdiv), so libbcmath must be installed on your server.
-- OpenComment use XAJAX, a very good AJAX framework, so good that it will be part of the next [Joomla!](http://www.joomla.org/) 1.5 version (beta to be release for 10 October 2006). The major problem is that XAJAX do not allow more than one component, module, mambot enabled AJAX. [See Here.](http://www.xajax-joomla.com/)In clear text for all non technicians, if 2 #Joomla! plugins use XAJAX on the same page, it wont work! -&gt; I am forced to use a trick and change some code for the next OpenComment version (3.0.11).
+- OpenComment use XAJAX, a very good AJAX framework, so good that it will be part of the next [Joomla!](http://www.joomla.org/) 1.5 version (beta to be release for 10 October 2006). The major problem is that XAJAX do not allow more than one component, module, mambot enabled AJAX. [See Here.](http://www.xajax-joomla.com/)In clear text for all non technicians, if 2 #Joomla! plugins use XAJAX on the same page, it wont work! -> I am forced to use a trick and change some code for the next OpenComment version (3.0.11).
 
  Please use the forum [forums.waltercedric.com](http://forums.waltercedric.com) to report problems, ideas …
 

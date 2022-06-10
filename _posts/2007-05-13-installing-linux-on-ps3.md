@@ -43,16 +43,16 @@ Burn the iso-file onto a CD/DVD depending on the size of the distribution
 
 In this step we will format the PlayStation 3 and create two partitions, one for the XMB (the PS3 operating system) and one for Linux. Before formatting the PS3, you MUST backup your games saved data.
 
-- In the XMB go to *Settings &gt; System Settings &gt; Format Utility &gt; Format Hard Disk*. Choose Yes.
+- In the XMB go to *Settings > System Settings > Format Utility > Format Hard Disk*. Choose Yes.
 - Choose *Custom* partition setting and *Allot 10GB to the Other OS*. Perform a *Quick Format*.
 - Reboot the PS3 by pressing X on your controller.
 
 **Preparing to run the LiveCD**
 
 - Insert the Linux CD/DVD you burned into your Playstation 3.
-- Go to *Settings &gt; System Settings &gt; Install* *Other OS*.
+- Go to *Settings > System Settings > Install* *Other OS*.
 - The system will detect a file called otheros.bld on your disk. Hit X to start the installer.
-- Go to *Settings &gt; System Settings &gt; Default System*. Set it to *Other OS*. Restart your PS3 by clicking X.
+- Go to *Settings > System Settings > Default System*. Set it to *Other OS*. Restart your PS3 by clicking X.
 - At the kboot: prompt, hit Enter. Linux will boot, slowly, from the CD.
 
 Once the system is up and running from the disc, you may choose to install Linux permanently.

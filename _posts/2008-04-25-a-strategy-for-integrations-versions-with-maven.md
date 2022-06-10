@@ -107,10 +107,10 @@ We are now using the same naming convention at [INNOVEO](http://www.innoveo.com/
 > To keep the #Eclipse ecosystem in step, everything is tagged
 > 
 > - Part of the build process tags the current code with vI20060320
-> - A build is only promoted from N-&gt;I if there are no build failures
-> - A build is promoted from I-&gt;M if there are no failures and all the  
+> - A build is only promoted from N->I if there are no build failures
+> - A build is promoted from I->M if there are no failures and all the  
 >     functionality works to a satisfactory level
-> - A build is promoted from M-&gt;R at the end of a release cycle and  
+> - A build is promoted from M->R at the end of a release cycle and  
 >     the quality is suitably high
 
 *On the other hand, the main drawback of this solution is that it can produce a lot of intermediate  

@@ -71,7 +71,7 @@ From the source file chrome\_switches.cc at [http://src.chromium.org/svn/trunk/s
 | –restore-last-session | Indicates the last session should be restored on startup. This overrides    the preferences value and is primarily intended for testing. |
 | –record-mode    –playback-mode | Chrome supports a playback and record mode. Record mode saves \*everything\*    to the cache. Playback mode reads data exclusively from the cache. This    allows us to record a session into the cache and then replay it at will. |
 | –no-events | Don’t record/playback events when using record &amp; playback. |
-| –hide-icons    –show-icons | Make Windows happy by allowing it to show "Enable access to this program"    checkbox in Add/Remove Programs-&gt;Set Program Access and Defaults. This    only shows an error box because the only way to hide Chrome is by    uninstalling it. |
+| –hide-icons    –show-icons | Make Windows happy by allowing it to show "Enable access to this program"    checkbox in Add/Remove Programs->Set Program Access and Defaults. This    only shows an error box because the only way to hide Chrome is by    uninstalling it. |
 | –make-default-browser | Make Chrome default browser |
 | –proxy-server | Use a specified proxy server, overrides system settings. This switch only    affects HTTP and HTTPS requests. |
 | –dns-log-details    –dns-prefetch-disable | Chrome will support prefetching of DNS information. Until this becomes    the default, we’ll provide a command line switch. |

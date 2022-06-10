@@ -23,6 +23,7 @@ twitter_username: cedricwalter
 github_username: cedricwalter
 minimal_mistakes_skin: air
 search: true
+breadcrumbs: true  # disabled by default
 
 # Build settings
 markdown: kramdown
@@ -56,6 +57,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-archives
 
 author:
   name   : "Cédric Walter"
@@ -67,13 +69,13 @@ author:
       url: "https://"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/cedricwalter"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/cedricwalter"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/cedricwalter"
 
 footer:
   links:
@@ -99,6 +101,7 @@ defaults:
       comments: true
       share: true
       related: true
+      show_date: true
   # _pages
   - scope:
       path: "_pages"

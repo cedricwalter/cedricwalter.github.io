@@ -5,7 +5,7 @@ date: '2020-03-14T21:47:53+01:00'
 author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/?p=10242'
-permalink: /today-on-earth/coronavirus-interactive-dashboard/
+
 ngg_post_thumbnail:
     - '0'
 header:

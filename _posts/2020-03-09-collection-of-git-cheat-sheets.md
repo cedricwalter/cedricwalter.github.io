@@ -5,7 +5,7 @@ date: '2020-03-09T10:51:09+01:00'
 author: 'Cédric Walter'
 
 guid: 'https://waltercedric.com/new/?p=7502'
-permalink: /development/collection-of-git-cheat-sheets/
+
 header:
   teaser: /assets/images/2017/04/git-logo.jpg
 tags:

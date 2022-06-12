@@ -15,6 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: "Cédric Walter blog"
 email:
+logo: "/assets/images/cedricwalter-logo-blue-1.svg"
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -112,8 +113,41 @@ defaults:
       author_profile: true
 
 category_archive:
-  type: liquid
+  type: jekyll-archives
   path: /categories/
 tag_archive:
-  type: liquid
+  type: jekyll-archives
   path: /tags/
+jekyll-archives:
+  enabled:
+    - categories
+    - tags
+  layouts:
+    category: archive-taxonomy
+    tag: archive-taxonomy
+  permalinks:
+    category: /categories/:name/
+    tag: /tags/:name/
+
+comments:
+  provider: "disqus"
+  disqus:
+    shortname: "welcometothecedricwalterhome"
+
+lunr:
+  search_within_pages: true
+
+social:
+  type:  Person
+  name:  Cédric Walter
+  links:
+    - "https://twitter.com/cedricwalter"
+    - "https://www.facebook.com/cedricwalter"
+    - "https://instagram.com/cedricwalter"
+    - "https://www.linkedin.com/in/cedricwalter"
+
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "UA-88600-1"
+    anonymize_ip: false # default

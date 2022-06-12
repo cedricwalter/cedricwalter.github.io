@@ -1,0 +1,17 @@
+---
+id: 2733
+title: 'Firefox 2.0 AVAILABLE'
+date: '2006-10-25T07:05:01+02:00'
+author: 'Cédric Walter'
+
+guid: 'https://waltercedric.com/new/?p=2733'
+
+header:
+  teaser: /assets/images/2006/04/firefox-logo.jpg
+tags:
+    - browser
+    - navigator
+---
+
+| ![](/assets/images/2006/04/firefox-logo.jpg) | The award-winning Web browser is now faster, more secure, and fully customizable to your online life. With Firefox 2, we&#146;ve added powerful new features that make your online experience even better.   <script type="text/javascript">     &amp;lt;!--         // Rotate the main image         rotateBackgroundForDiv('main-feature-background');     //--&amp;gt;     </script> <script type="text/javascript">     &amp;lt;!--       // Configure the Firefox download write script       var gDownloadItemTemplate = &amp;quot;&amp;lt;a href=\&amp;quot;%DOWNLOAD_URL%\&amp;quot; class=\&amp;quot;download-link download-firefox\&amp;quot;&amp;gt;&amp;lt;span&amp;gt;&amp;lt;strong&amp;gt;Download Firefox - Free&amp;lt;\/strong&amp;gt; &amp;lt;em&amp;gt;%VERSION% for %PLATFORM_NAME%, %LANGUAGE_NAME%&amp;amp;nbsp;(%FILE_SIZE%)&amp;lt;\/em&amp;gt;&amp;lt;\/span&amp;gt;&amp;lt;\/a&amp;gt;&amp;quot;;       var gDownloadItemMacOS9 = &amp;quot;&amp;lt;a href=\&amp;quot;\&amp;quot;&amp;gt;MacOS 9 and earlier are not supported&amp;lt;\/a&amp;gt;&amp;quot;;       var gDownloadItemOtherPlatform = &amp;quot;&amp;lt;a href=\&amp;quot;/en-US/firefox/2.0/releasenotes/#othersystems\&amp;quot;&amp;gt;Free Download&amp;lt;\/a&amp;gt;&amp;quot;        document.writeln(&amp;quot;&amp;lt;div class=\&amp;quot;home-download\&amp;quot;&amp;gt;&amp;quot;);       writeDownloadItems(&amp;quot;fx&amp;quot;);       document.writeln(&amp;quot;&amp;lt;\/div&amp;gt;&amp;quot;);       document.writeln(&amp;quot;&amp;lt;div class=\&amp;quot;download-other\&amp;quot;&amp;gt;&amp;lt;span class=\&amp;quot;other\&amp;quot;&amp;gt;&amp;quot;); 	  document.writeln(&amp;quot;&amp;lt;a class=\&amp;quot;ancilliaryLink\&amp;quot; href=\&amp;quot;system-requirements.html\&amp;quot;&amp;gt;System&amp;amp;nbsp;Requirements&amp;lt;\/a&amp;gt;&amp;quot;); 	  document.writeln(&amp;quot; - &amp;lt;a class=\&amp;quot;ancilliaryLink\&amp;quot; href=\&amp;quot;\/en-US\/firefox\/2.0\/releasenotes\/\&amp;quot;&amp;gt;Release&amp;amp;nbsp;Notes&amp;lt;\/a&amp;gt;&amp;quot;); 	  document.writeln(&amp;quot; - &amp;lt;a class=\&amp;quot;ancilliaryLink\&amp;quot; href=\&amp;quot;\/en-US\/firefox\/all.html\&amp;quot;&amp;gt;Other&amp;amp;nbsp;Systems&amp;amp;nbsp;&amp;amp;amp;&amp;amp;nbsp;Languages&amp;lt;\/a&amp;gt;&amp;quot;);       document.writeln(&amp;quot;&amp;lt;\/div&amp;gt;&amp;quot;);       document.writeln(&amp;quot;&amp;lt;\/span&amp;gt;&amp;lt;\/div&amp;gt;&amp;quot;);       //--&amp;gt;      </script>  <div class="home-download"> [<span>**Download Firefox – Free** *2.0 for Windows, English (5.6MB)*](http://www.mozilla.com/products/download.html?product=firefox-2.0&os=win&lang=en-US) <div class="download-other"><span class="other"> [System Requirements](http://www.mozilla.com/en-US/firefox/system-requirements.html) – [Release Notes](http://www.mozilla.com/en-US/firefox/2.0/releasenotes/) – [Other Systems &amp; Languages](http://www.mozilla.com/en-US/firefox/all.html)  |
+|---|---|

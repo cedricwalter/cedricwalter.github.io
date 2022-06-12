@@ -24,3 +24,6 @@ bundle exec jekyll serve --baseurl="" --incremental
 
 
 repository: "cedricwalter/cedricwalter.github.io"
+
+
+grep -lir 'joomla' * | xargs mv -t joomla

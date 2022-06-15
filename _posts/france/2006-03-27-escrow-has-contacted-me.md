@@ -13,7 +13,7 @@ tags:
 - spammer
 ---
 
-# Escrow, Escrow, Escrow, Escrow, Escrow, Escrow, Escrow, Escrow, Escrow, Escrow, Escrow, Escrow**
+# Scammer
 
 *Hello,  
 good day seller in an respond to your via advert found in the internet on my search . i hereby which to inform u that i
@@ -28,7 +28,5 @@ le bon vendeur de jour dans un répond à votre via l’annonce trouvée dans l�
 qui informer l’u que je m’intéresse dans l’achat de votre m’obtient gentillement votre meilleure offre et votre
 meilleure image. Le paiement sera fait par un chèque. j’ai un client de mine qui sera prête vous envoyer le paiement
 quand nous sommes les deux consenti sur le paiement Meilleur considère +1206-337-0464*
-
-# Escrow, Escrow, Escrow, Escrow, Escrow, Escrow, Escrow, Escrow, Escrow, Escrow, Escrow, Escrow**
 
 # [And How they operate](/internet_www/escroqueries,_cybercriminalite/ne_soyez_pas_un_pigeon...de_plus.html)**

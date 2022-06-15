@@ -18,7 +18,6 @@ In CE mode, the maximum output is limited to 25 mW, and there are only 4 channel
 numbers are increased to 700 mW and 8 channels.
 
 # NOTE
-
 that you should follow your local regulations regarding which mode to use.
 
 ## How to switch to FCC mode from CE mode
@@ -40,6 +39,5 @@ that you should follow your local regulations regarding which mode to use.
 in the Player menu you should see now 8 channels.
 
 # Attention
-
 updating the firmware on your DJI FPV goggles and Air Unit will always reset the power setting back to the default
 settings according to your region!

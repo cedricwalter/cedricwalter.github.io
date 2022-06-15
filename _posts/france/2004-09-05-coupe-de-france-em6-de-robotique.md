@@ -16,6 +16,8 @@ tags:
 - Robotic
 - vacation
 ---
+# Dans les journaux
+![](images/em6 /Alsace_em6.jpg)
 
 ## 11.12.13 Mai à la Ferté Bernard 1999,
 

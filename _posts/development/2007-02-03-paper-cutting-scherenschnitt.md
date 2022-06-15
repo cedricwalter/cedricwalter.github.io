@@ -1,5 +1,5 @@
 ---
-id: 2865
+
 title: 'Paper cutting (scherenschnitt)'
 date: '2007-02-03T22:11:43+01:00'
 author: 'Cédric Walter'

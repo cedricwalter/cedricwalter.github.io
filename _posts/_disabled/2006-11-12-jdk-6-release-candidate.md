@@ -1,5 +1,5 @@
 ---
-id: 2758
+
 title: 'JDK 6 Release Candidate'
 date: '2006-11-12T19:54:39+01:00'
 author: 'Cédric Walter'

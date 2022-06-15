@@ -1,5 +1,5 @@
 ---
-id: 1897
+
 title: 'Shark RSF2 Nexus Blue'
 date: '2005-07-09T20:50:24+02:00'
 author: 'Cédric Walter'

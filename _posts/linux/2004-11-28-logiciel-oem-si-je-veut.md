@@ -1,5 +1,5 @@
 ---
-id: 1390
+
 title: 'Logiciel OEM si je veut!!!'
 date: '2004-11-28T23:33:45+01:00'
 author: 'Cédric Walter'

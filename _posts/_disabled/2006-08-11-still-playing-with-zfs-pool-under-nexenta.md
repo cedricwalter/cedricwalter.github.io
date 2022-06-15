@@ -1,5 +1,5 @@
 ---
-id: 2679
+
 title: 'Still playing with ZFS pool under Nexenta'
 date: '2006-08-11T22:50:05+02:00'
 author: 'Cédric Walter'

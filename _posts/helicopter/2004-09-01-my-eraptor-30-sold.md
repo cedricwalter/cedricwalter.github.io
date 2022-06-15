@@ -1,5 +1,5 @@
 ---
-id: 813
+
 title: 'My eRaptor 30 (sold)'
 date: '2004-09-01T22:51:58+02:00'
 author: 'Cédric Walter'

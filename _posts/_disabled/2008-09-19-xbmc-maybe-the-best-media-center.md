@@ -1,5 +1,5 @@
 ---
-id: 3801
+
 title: 'XBMC: maybe the best media center'
 date: '2008-09-19T13:30:56+02:00'
 author: 'Cédric Walter'

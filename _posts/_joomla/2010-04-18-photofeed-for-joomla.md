@@ -1,5 +1,5 @@
 ---
-id: 5131
+
 title: 'Photofeed for Joomla!'
 date: '2010-04-18T19:18:02+02:00'
 author: 'Cédric Walter'

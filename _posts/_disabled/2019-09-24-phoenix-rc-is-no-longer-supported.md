@@ -1,5 +1,5 @@
 ---
-id: 8773
+
 title: 'Phoenix RC is no longer supported'
 date: '2019-09-24T16:12:51+02:00'
 author: 'Cédric Walter'

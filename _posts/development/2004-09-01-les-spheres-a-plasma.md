@@ -1,5 +1,5 @@
 ---
-id: 693
+
 title: 'Les sphères à plasma'
 date: '2004-09-01T19:28:41+02:00'
 author: 'Cédric Walter'

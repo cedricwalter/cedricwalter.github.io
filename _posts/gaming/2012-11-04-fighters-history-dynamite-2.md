@@ -1,5 +1,5 @@
 ---
-id: 7913
+
 title: 'Fighter&#8217;s History Dynamite'
 date: '2012-11-04T18:37:36+01:00'
 author: 'Cédric Walter'

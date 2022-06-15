@@ -1,5 +1,5 @@
 ---
-id: 2892
+
 title: 'Speed up your apache server running PHP'
 date: '2007-02-25T22:56:43+01:00'
 author: 'Cédric Walter'

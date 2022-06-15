@@ -1,5 +1,5 @@
 ---
-id: 4210
+
 title: 'Joomla tags from Phil Taylor meet Adobe Flash'
 date: '2009-03-21T23:00:01+01:00'
 author: 'Cédric Walter'

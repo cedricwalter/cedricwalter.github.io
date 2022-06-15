@@ -1,5 +1,5 @@
 ---
-id: 8572
+
 title: 'Flying drones and aircraft models in Switzerland'
 date: '2016-08-12T13:42:11+02:00'
 author: 'Cédric Walter'

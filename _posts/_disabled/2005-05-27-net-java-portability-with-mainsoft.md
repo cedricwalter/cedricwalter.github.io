@@ -1,5 +1,5 @@
 ---
-id: 1764
+
 title: '.NET / Java portability with Mainsoft'
 date: '2005-05-27T13:05:01+02:00'
 author: 'Cédric Walter'

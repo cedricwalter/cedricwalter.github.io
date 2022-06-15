@@ -1,5 +1,5 @@
 ---
-id: 129
+
 title: 'Mounting a CSM 540'
 date: '2004-08-26T22:04:42+02:00'
 author: 'Cédric Walter'

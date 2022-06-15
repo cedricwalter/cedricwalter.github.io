@@ -1,5 +1,5 @@
 ---
-id: 13949
+
 title: "Swifi won Trust Square biggest blockchain Hackathon #SBHACK21"
 date: '2022-02-24T16:33:05+01:00'
 author: 'Cédric Walter'

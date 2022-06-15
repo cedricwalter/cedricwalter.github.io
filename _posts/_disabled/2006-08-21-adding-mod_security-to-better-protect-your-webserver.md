@@ -1,5 +1,5 @@
 ---
-id: 2687
+
 title: 'Adding mod_security to better protect your webserver'
 date: '2006-08-21T19:32:50+02:00'
 author: 'Cédric Walter'

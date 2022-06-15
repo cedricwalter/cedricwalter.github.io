@@ -1,5 +1,5 @@
 ---
-id: 2822
+
 title: 'Xbox 360 is running Linux?'
 date: '2007-01-04T21:24:24+01:00'
 author: 'Cédric Walter'

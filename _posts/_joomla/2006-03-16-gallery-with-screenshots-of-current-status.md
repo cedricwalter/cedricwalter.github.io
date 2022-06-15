@@ -1,5 +1,5 @@
 ---
-id: 2372
+
 title: 'Gallery with screenshots of current status'
 date: '2006-03-16T23:05:50+01:00'
 author: 'Cédric Walter'

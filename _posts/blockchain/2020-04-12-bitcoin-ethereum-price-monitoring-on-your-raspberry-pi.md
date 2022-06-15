@@ -1,5 +1,5 @@
 ---
-id: 12980
+
 title: 'Bitcoin, Ethereum price Monitoring on your raspberry Pi'
 date: '2020-04-12T11:58:56+02:00'
 author: 'Cédric Walter'

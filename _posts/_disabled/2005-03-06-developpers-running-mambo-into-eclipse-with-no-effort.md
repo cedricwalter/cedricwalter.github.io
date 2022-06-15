@@ -1,5 +1,5 @@
 ---
-id: 1605
+
 title: 'Developpers: Running Mambo into eclipse with no effort'
 date: '2005-03-06T20:04:21+01:00'
 author: 'Cédric Walter'

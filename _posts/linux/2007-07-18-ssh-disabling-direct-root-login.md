@@ -1,5 +1,5 @@
 ---
-id: 3018
+
 title: 'SSH Disabling Direct Root Login'
 date: '2007-07-18T21:34:27+02:00'
 author: 'Cédric Walter'

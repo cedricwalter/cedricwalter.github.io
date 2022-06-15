@@ -1,5 +1,5 @@
 ---
-id: 6986
+
 title: 'HP calculator museum: Hewlett Packard HP 49g Graphing Calculator'
 date: '2011-08-01T08:23:13+02:00'
 author: 'Cédric Walter'
@@ -19,10 +19,9 @@ tags:
 - rpn
 - scientific
 ---
+HP calculator museum: Hewlett Packard HP 49g Graphing Calculator
 
-![hewlett_packard_49g_calculator_museum_00](/assets/images/2011/08/hewlett_packard_49g_calculator_museum_00.jpg "hewlett_packard_49g_calculator_museum_00")
-
-I recently added a HP 49g to [my collection of HP calculators](https://waltercedric.com/new/?p=1399) (Price paid: 3
+I recently added a HP 49g to [my collection of HP calculators](https://waltercedric.com/new/?p=1399) (Price pa
 euro). This model is not very loved by owner and is sometimes described as the worst model of HP calculator for the
 following reasons:
 
@@ -36,7 +35,9 @@ following reasons:
 
 The latest operating system ROM are available at <http://www.hpcalc.org/hp49/pc/rom/>
 
-Highlights
+![hewlett_packard_49g_calculator_museum_00](/assets/images/2011/08/hewlett_packard_49g_calculator_museum_00.jpg "hewlett_packard_49g_calculator_museum_00")
+
+## Highlights
 
 - Over 2,300 built-in functions for algebra, geometry, trigonometry, statistics/data analysis, calculus, science,
   engineering

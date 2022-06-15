@@ -1,5 +1,5 @@
 ---
-id: 4921
+
 title: 'Related Articles now available as module for Joomla!'
 date: '2009-12-25T10:46:30+01:00'
 author: 'Cédric Walter'

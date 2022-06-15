@@ -1,5 +1,5 @@
 ---
-id: 7443
+
 title: 'NEW FEATURES IN JOOMLA! 2.5'
 date: '2012-01-23T20:14:01+01:00'
 author: 'Cédric Walter'

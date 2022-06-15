@@ -1,5 +1,5 @@
 ---
-id: 6946
+
 title: 'Give a new life to your Synology disk station: change its cooling fan'
 date: '2011-07-26T20:29:34+02:00'
 author: 'Cédric Walter'

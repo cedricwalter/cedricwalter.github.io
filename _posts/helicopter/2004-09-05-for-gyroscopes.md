@@ -1,5 +1,5 @@
 ---
-id: 1012
+
 title: 'For gyroscopes'
 date: '2004-09-05T16:56:31+02:00'
 author: 'Cédric Walter'

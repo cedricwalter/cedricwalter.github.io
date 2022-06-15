@@ -1,5 +1,5 @@
 ---
-id: 4074
+
 title: 'GuestBook for Joomla! version 5.1.3'
 date: '2009-01-28T21:21:12+01:00'
 author: 'Cédric Walter'

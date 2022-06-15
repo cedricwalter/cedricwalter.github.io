@@ -1,5 +1,5 @@
 ---
-id: 7880
+
 title: 'King of Fighters &#8217;99, The'
 date: '2012-11-04T18:35:05+01:00'
 author: 'Cédric Walter'

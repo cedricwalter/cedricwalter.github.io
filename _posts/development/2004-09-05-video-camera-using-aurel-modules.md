@@ -1,5 +1,5 @@
 ---
-id: 1022
+
 title: 'Video Camera: using Aurel modules.'
 date: '2004-09-05T17:01:31+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 10242
+
 title: 'Coronavirus interactive dashboard'
 date: '2020-03-14T21:47:53+01:00'
 author: 'Cédric Walter'

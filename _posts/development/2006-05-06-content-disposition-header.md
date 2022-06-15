@@ -1,5 +1,5 @@
 ---
-id: 2509
+
 title: 'Content-Disposition header'
 date: '2006-05-06T15:09:33+02:00'
 author: 'Cédric Walter'

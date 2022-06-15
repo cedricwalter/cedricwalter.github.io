@@ -1,5 +1,5 @@
 ---
-id: 6392
+
 title: 'All Super Mario video game'
 date: '2010-12-01T20:45:44+01:00'
 author: 'Cédric Walter'

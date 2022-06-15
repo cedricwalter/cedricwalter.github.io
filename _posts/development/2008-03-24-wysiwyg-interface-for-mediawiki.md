@@ -1,5 +1,5 @@
 ---
-id: 3304
+
 title: 'WYSIWYG interface for MediaWiki'
 date: '2008-03-24T17:11:40+01:00'
 author: 'Cédric Walter'

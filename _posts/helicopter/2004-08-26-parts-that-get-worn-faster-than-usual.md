@@ -1,5 +1,5 @@
 ---
-id: 75
+
 title: 'Parts that get worn faster than usual:'
 date: '2004-08-26T21:37:41+02:00'
 author: 'Cédric Walter'

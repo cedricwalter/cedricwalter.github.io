@@ -1,5 +1,5 @@
 ---
-id: 6770
+
 title: 'Atari 7800 ProSystem video game console by Atari Corporation'
 date: '2011-06-04T12:14:59+02:00'
 author: 'Cédric Walter'

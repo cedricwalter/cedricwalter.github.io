@@ -1,5 +1,5 @@
 ---
-id: 1726
+
 title: 'A mini 4WD quad? need more sensation?'
 date: '2005-05-15T20:51:19+02:00'
 author: 'Cédric Walter'

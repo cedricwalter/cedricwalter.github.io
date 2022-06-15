@@ -1,5 +1,5 @@
 ---
-id: 1649
+
 title: 'Streaming multimedia content to your television'
 date: '2005-03-27T23:13:08+02:00'
 author: 'Cédric Walter'

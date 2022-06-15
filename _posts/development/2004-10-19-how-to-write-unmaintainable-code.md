@@ -1,5 +1,5 @@
 ---
-id: 1333
+
 title: 'How To Write Unmaintainable Code'
 date: '2004-10-19T17:50:59+02:00'
 author: 'Cédric Walter'

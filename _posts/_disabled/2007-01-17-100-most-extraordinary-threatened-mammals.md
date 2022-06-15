@@ -1,5 +1,5 @@
 ---
-id: 2841
+
 title: '100 most extraordinary threatened mammals'
 date: '2007-01-17T23:18:12+01:00'
 author: 'Cédric Walter'

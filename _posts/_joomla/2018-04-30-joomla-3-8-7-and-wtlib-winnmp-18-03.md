@@ -1,5 +1,5 @@
 ---
-id: 8720
+
 title: 'Joomla 3.8.7 and WTLib WinNMP 18.03'
 date: '2018-04-30T18:55:00+02:00'
 author: 'Cédric Walter'

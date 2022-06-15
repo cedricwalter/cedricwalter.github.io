@@ -1,5 +1,5 @@
 ---
-id: 11825
+
 title: 'Switzerland Interlaken'
 date: '2020-03-31T12:59:59+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 4328
+
 title: 'Last Day Dream'
 date: '2009-05-18T15:51:01+02:00'
 author: 'Cédric Walter'

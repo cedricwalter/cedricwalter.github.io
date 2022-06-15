@@ -1,5 +1,5 @@
 ---
-id: 2951
+
 title: 'SihlCity, a temple dedicated to shopping'
 date: '2007-03-24T21:50:51+01:00'
 author: 'Cédric Walter'

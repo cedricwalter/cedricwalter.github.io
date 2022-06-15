@@ -1,5 +1,5 @@
 ---
-id: 3993
+
 title: 'Tic-Tac-Toe machine in little big planet'
 date: '2008-12-21T12:13:40+01:00'
 author: 'Cédric Walter'

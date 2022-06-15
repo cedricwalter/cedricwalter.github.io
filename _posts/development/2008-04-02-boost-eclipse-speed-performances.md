@@ -1,5 +1,5 @@
 ---
-id: 3322
+
 title: 'Boost Eclipse speed performances'
 date: '2008-04-02T22:49:19+02:00'
 author: 'Cédric Walter'

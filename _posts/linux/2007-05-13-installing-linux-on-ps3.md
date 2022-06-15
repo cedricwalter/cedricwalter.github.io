@@ -1,5 +1,5 @@
 ---
-id: 2966
+
 title: 'Installing Linux on PS3'
 date: '2007-05-13T14:05:54+02:00'
 author: 'Cédric Walter'

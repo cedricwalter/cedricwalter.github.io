@@ -1,5 +1,5 @@
 ---
-id: 2469
+
 title: 'New Wiki subdomains'
 date: '2006-04-16T22:18:41+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 6544
+
 title: 'Nintendo 64 &#8211; Pikachu'
 date: '2011-02-18T21:26:40+01:00'
 author: 'Cédric Walter'

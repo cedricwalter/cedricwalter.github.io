@@ -1,5 +1,5 @@
 ---
-id: 3558
+
 title: 'Do it Yourself: change your PS3 optical lens'
 date: '2008-07-19T01:03:48+02:00'
 author: 'Cédric Walter'

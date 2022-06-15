@@ -1,5 +1,5 @@
 ---
-id: 8043
+
 title: 'Free open source tethering software for Nikon/Canon DSLR cameras'
 date: '2013-05-23T21:29:53+02:00'
 author: 'Cédric Walter'

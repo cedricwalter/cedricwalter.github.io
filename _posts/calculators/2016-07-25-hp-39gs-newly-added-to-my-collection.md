@@ -1,5 +1,5 @@
 ---
-id: 8490
+
 title: 'HP calculator museum: Hewlett Packard HP 39GS newly added to my collection'
 date: '2016-07-25T11:47:02+02:00'
 author: 'Cédric Walter'

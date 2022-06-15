@@ -1,5 +1,5 @@
 ---
-id: 6272
+
 title: 'Speeding up Apache Maven Builds'
 date: '2010-09-23T19:59:46+02:00'
 author: 'Cédric Walter'

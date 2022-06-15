@@ -1,5 +1,5 @@
 ---
-id: 2971
+
 title: 'Free WEB 2.0 Alternative to Microsoft VISIO'
 date: '2007-05-27T11:50:16+02:00'
 author: 'Cédric Walter'

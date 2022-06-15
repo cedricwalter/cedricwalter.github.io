@@ -1,5 +1,5 @@
 ---
-id: 3819
+
 title: 'Joomla Components troubleshootings, support, help'
 date: '2008-09-20T19:27:20+02:00'
 author: 'Cédric Walter'

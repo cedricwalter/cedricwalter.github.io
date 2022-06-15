@@ -1,5 +1,5 @@
 ---
-id: 4422
+
 title: 'Showcase Joomla! site is up to date'
 date: '2009-06-14T18:17:55+02:00'
 author: 'Cédric Walter'

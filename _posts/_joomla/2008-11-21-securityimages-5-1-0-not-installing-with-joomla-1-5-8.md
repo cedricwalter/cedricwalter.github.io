@@ -1,5 +1,5 @@
 ---
-id: 3932
+
 title: 'Securityimages 5.1.0 not installing with Joomla 1.5.8'
 date: '2008-11-21T13:52:52+01:00'
 author: 'Cédric Walter'

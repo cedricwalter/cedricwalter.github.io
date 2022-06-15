@@ -1,5 +1,5 @@
 ---
-id: 6885
+
 title: 'HTML5/JavaScript Gameboy Emulator that run in a browser'
 date: '2011-06-14T20:58:08+02:00'
 author: 'Cédric Walter'

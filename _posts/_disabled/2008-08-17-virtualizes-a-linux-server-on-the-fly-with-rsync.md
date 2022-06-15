@@ -1,5 +1,5 @@
 ---
-id: 3703
+
 title: 'Virtualizes a Linux server on the fly with RSYNC'
 date: '2008-08-17T20:28:34+02:00'
 author: 'Cédric Walter'

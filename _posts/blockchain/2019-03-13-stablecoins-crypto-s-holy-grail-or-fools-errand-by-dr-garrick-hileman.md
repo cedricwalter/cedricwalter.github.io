@@ -1,5 +1,5 @@
 ---
-id: 8750
+
 title: 'Stablecoins: Crypto&#8217;s Holy Grail or Fools’ Errand? by Dr Garrick Hileman'
 date: '2019-03-13T18:38:37+01:00'
 author: 'Cédric Walter'

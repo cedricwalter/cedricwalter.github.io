@@ -1,5 +1,5 @@
 ---
-id: 2297
+
 title: 'Audigy 2 ZS notebook under Linux'
 date: '2006-01-29T14:09:50+01:00'
 author: 'Cédric Walter'

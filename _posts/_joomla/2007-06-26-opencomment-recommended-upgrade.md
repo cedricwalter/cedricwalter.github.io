@@ -1,5 +1,5 @@
 ---
-id: 2994
+
 title: 'OpenComment recommended upgrade'
 date: '2007-06-26T21:32:47+02:00'
 author: 'Cédric Walter'

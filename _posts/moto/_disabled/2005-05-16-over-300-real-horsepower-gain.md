@@ -1,5 +1,5 @@
 ---
-id: 1736
+
 title: 'Over 300% Real Horsepower gain!'
 date: '2005-05-16T19:42:47+02:00'
 author: 'Cédric Walter'

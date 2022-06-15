@@ -1,5 +1,5 @@
 ---
-id: 2885
+
 title: 'whoah effect but wait its crazy'
 date: '2007-02-19T23:49:04+01:00'
 author: 'Cédric Walter'

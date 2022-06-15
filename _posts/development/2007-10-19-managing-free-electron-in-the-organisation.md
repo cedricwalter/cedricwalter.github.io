@@ -1,5 +1,5 @@
 ---
-id: 3088
+
 title: 'Managing Free Electron in the organisation'
 date: '2007-10-19T23:16:39+02:00'
 author: 'Cédric Walter'

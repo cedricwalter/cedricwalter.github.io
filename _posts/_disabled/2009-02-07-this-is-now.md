@@ -1,5 +1,5 @@
 ---
-id: 4112
+
 title: 'This is Now'
 date: '2009-02-07T21:41:40+01:00'
 author: 'Cédric Walter'

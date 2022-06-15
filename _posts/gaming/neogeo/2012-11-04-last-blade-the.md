@@ -1,5 +1,5 @@
 ---
-id: 7874
+
 title: 'Last Blade, The'
 date: '2012-11-04T18:33:32+01:00'
 author: 'Cédric Walter'

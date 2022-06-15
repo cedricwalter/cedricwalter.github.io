@@ -1,5 +1,5 @@
 ---
-id: 7715
+
 title: 'Orthopantomogram cost 22.90 € in France, a MRI start at only 69€'
 date: '2012-06-20T21:22:05+02:00'
 author: 'Cédric Walter'

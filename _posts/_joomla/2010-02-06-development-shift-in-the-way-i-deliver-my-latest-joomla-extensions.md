@@ -1,5 +1,5 @@
 ---
-id: 5033
+
 title: 'Development shift in the way I deliver my latest Joomla! extensions'
 date: '2010-02-06T10:49:39+01:00'
 author: 'Cédric Walter'

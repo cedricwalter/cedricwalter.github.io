@@ -1,5 +1,5 @@
 ---
-id: 2463
+
 title: 'SUSE Linux 10.1 Codename Agama Lizard RC1'
 date: '2006-04-14T21:50:55+02:00'
 author: 'Cédric Walter'

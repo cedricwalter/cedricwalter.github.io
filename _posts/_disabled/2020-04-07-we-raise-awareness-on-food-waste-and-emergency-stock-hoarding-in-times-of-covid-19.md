@@ -1,5 +1,5 @@
 ---
-id: 12543
+
 title: 'Versus Virus Hackathon'
 date: '2020-04-07T11:28:19+02:00'
 author: 'Cédric Walter'

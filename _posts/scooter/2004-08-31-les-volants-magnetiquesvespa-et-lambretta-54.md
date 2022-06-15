@@ -1,5 +1,5 @@
 ---
-id: 534
+
 title: 'LES VOLANTS MAGNETIQUES:VESPA ET LAMBRETTA 54'
 date: '2004-08-31T22:29:08+02:00'
 author: 'Cédric Walter'

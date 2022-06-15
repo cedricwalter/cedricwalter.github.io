@@ -1,5 +1,5 @@
 ---
-id: 6268
+
 title: 'Spiderman Plug &#038; Play 5-in-1 TV Game'
 date: '2010-09-22T18:23:04+02:00'
 author: 'Cédric Walter'

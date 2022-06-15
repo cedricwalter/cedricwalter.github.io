@@ -1,5 +1,5 @@
 ---
-id: 3916
+
 title: 'Preventing SQL Injection Attacks on your Joomla! Websites'
 date: '2008-11-12T06:42:45+01:00'
 author: 'Cédric Walter'

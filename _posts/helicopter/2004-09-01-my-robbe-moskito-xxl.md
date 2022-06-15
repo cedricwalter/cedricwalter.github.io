@@ -1,5 +1,5 @@
 ---
-id: 858
+
 title: 'My Robbe Moskito XXL'
 date: '2004-09-01T23:07:34+02:00'
 author: 'Cédric Walter'

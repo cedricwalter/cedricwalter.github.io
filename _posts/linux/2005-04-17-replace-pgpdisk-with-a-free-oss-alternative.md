@@ -1,5 +1,5 @@
 ---
-id: 1690
+
 title: 'Replace PGPdisk with a free OSS alternative'
 date: '2005-04-17T17:35:27+02:00'
 author: 'Cédric Walter'

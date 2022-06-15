@@ -1,5 +1,5 @@
 ---
-id: 4122
+
 title: 'Seitz Roundshot VR Drive Panoramic Set'
 date: '2009-02-08T14:44:57+01:00'
 author: 'Cédric Walter'

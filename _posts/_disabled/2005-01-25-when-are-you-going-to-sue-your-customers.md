@@ -1,5 +1,5 @@
 ---
-id: 1522
+
 title: 'When are you going to sue your customers?'
 date: '2005-01-25T20:07:55+01:00'
 author: 'Cédric Walter'

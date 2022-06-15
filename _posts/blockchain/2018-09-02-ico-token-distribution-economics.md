@@ -1,5 +1,5 @@
 ---
-id: 8743
+
 title: 'ICO TOKEN DISTRIBUTION &#038; ECONOMICS'
 date: '2018-09-02T18:10:46+02:00'
 author: 'Cédric Walter'

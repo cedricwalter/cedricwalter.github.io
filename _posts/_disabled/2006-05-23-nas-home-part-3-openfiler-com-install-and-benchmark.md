@@ -1,5 +1,5 @@
 ---
-id: 2616
+
 title: 'NAS @ HOME part 3 openfiler.com install and benchmark'
 date: '2006-05-23T23:19:58+02:00'
 author: 'Cédric Walter'

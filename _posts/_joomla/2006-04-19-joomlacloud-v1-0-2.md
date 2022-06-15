@@ -1,5 +1,5 @@
 ---
-id: 2470
+
 title: 'JoomlaCloud v1.0.2'
 date: '2006-04-19T19:26:15+02:00'
 author: 'Cédric Walter'

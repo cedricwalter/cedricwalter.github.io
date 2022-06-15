@@ -1,5 +1,5 @@
 ---
-id: 2916
+
 title: 'Microsoft not competing in a fair way'
 date: '2007-03-23T22:28:28+01:00'
 author: 'Cédric Walter'

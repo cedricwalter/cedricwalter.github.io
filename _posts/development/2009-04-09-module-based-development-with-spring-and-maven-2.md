@@ -1,5 +1,5 @@
 ---
-id: 4242
+
 title: 'Module-based development with Spring and Maven 2'
 date: '2009-04-09T11:56:32+02:00'
 author: 'Cédric Walter'

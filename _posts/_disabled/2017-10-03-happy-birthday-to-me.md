@@ -1,5 +1,5 @@
 ---
-id: 8678
+
 title: 'Happy Birthday to… Me!'
 date: '2017-10-03T11:43:02+02:00'
 author: 'Cédric Walter'

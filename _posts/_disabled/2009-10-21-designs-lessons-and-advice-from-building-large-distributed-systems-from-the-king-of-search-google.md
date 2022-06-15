@@ -1,5 +1,5 @@
 ---
-id: 4787
+
 title: 'Designs, Lessons and Advice from Building Large Distributed Systems from the king of search Google'
 date: '2009-10-21T16:10:17+02:00'
 author: 'Cédric Walter'

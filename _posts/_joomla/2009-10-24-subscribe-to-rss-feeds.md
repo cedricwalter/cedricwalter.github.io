@@ -1,5 +1,5 @@
 ---
-id: 4825
+
 title: 'Subscribe to RSS Feeds'
 date: '2009-10-24T21:41:10+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 932
+
 title: Maintenance
 date: '2004-09-01T23:46:31+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 108
+
 title: 'Glue your grips on the blade !'
 date: '2004-08-26T21:46:18+02:00'
 author: 'Cédric Walter'

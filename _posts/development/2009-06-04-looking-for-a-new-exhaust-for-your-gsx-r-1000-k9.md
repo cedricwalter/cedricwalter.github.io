@@ -1,5 +1,5 @@
 ---
-id: 4371
+
 title: 'Looking for a new exhaust for your GSX-R 1000 K9 ?'
 date: '2009-06-04T18:13:00+02:00'
 author: 'Cédric Walter'

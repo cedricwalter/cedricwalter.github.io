@@ -1,5 +1,5 @@
 ---
-id: 438
+
 title: Presentation
 date: '2004-08-29T12:20:39+02:00'
 author: 'Cédric Walter'

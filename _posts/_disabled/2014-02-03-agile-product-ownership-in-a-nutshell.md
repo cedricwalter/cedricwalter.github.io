@@ -1,5 +1,5 @@
 ---
-id: 8183
+
 title: 'Agile Product Ownership in a Nutshell'
 date: '2014-02-03T21:31:16+01:00'
 author: 'Cédric Walter'

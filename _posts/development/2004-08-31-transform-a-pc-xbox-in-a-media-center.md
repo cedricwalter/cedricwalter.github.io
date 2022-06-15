@@ -1,5 +1,5 @@
 ---
-id: 621
+
 title: 'Transform a PC Xbox in a media center'
 date: '2004-08-31T23:37:51+02:00'
 author: 'Cédric Walter'

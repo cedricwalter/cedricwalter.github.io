@@ -1,5 +1,5 @@
 ---
-id: 920
+
 title: 'La partie réception'
 date: '2004-09-01T23:41:15+02:00'
 author: 'Cédric Walter'

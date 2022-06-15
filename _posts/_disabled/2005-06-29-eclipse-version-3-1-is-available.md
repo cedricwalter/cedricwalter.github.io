@@ -1,5 +1,5 @@
 ---
-id: 1808
+
 title: 'Eclipse version 3.1 is AVAILABLE'
 date: '2005-06-29T17:23:07+02:00'
 author: 'Cédric Walter'

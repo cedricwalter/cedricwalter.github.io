@@ -1,5 +1,5 @@
 ---
-id: 8697
+
 title: 'But what *is* a Neural Network?'
 date: '2018-03-18T20:27:52+01:00'
 author: 'Cédric Walter'

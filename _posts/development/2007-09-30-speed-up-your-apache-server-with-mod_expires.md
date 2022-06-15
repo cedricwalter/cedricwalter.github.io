@@ -1,5 +1,5 @@
 ---
-id: 3063
+
 title: 'Speed up your apache server with mod_expires'
 date: '2007-09-30T20:18:43+02:00'
 author: 'Cédric Walter'

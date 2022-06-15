@@ -1,5 +1,5 @@
 ---
-id: 5354
+
 title: 'Module Twitter badge for Joomla! 1.6'
 date: '2010-06-17T19:04:47+02:00'
 author: 'Cédric Walter'

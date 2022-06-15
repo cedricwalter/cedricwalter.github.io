@@ -1,5 +1,5 @@
 ---
-id: 1689
+
 title: 'Réparer/bricoler un draganflyer'
 date: '2005-04-17T17:17:09+02:00'
 author: 'Cédric Walter'

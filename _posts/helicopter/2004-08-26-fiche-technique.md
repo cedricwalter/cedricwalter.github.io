@@ -1,5 +1,5 @@
 ---
-id: 186
+
 title: 'Fiche Technique'
 date: '2004-08-26T22:49:43+02:00'
 author: 'Cédric Walter'

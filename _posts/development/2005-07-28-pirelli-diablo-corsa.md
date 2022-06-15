@@ -1,5 +1,5 @@
 ---
-id: 1962
+
 title: 'Pirelli Diablo Corsa'
 date: '2005-07-28T12:10:16+02:00'
 author: 'Cédric Walter'

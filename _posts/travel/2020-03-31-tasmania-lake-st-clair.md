@@ -1,5 +1,5 @@
 ---
-id: 12259
+
 title: 'Tasmania Lake St Clair'
 date: '2020-03-31T16:32:03+02:00'
 author: 'Cédric Walter'

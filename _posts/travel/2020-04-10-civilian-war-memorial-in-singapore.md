@@ -1,5 +1,5 @@
 ---
-id: 12895
+
 title: 'Civilian War Memorial in SIngapore'
 date: '2020-04-10T17:31:17+02:00'
 author: 'Cédric Walter'

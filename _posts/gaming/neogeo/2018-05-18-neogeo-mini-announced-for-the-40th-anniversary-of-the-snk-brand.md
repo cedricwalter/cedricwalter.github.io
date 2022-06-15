@@ -1,5 +1,5 @@
 ---
-id: 8726
+
 title: 'NEOGEO mini announced for the 40th anniversary of the SNK brand!'
 date: '2018-05-18T05:56:09+02:00'
 author: 'Cédric Walter'

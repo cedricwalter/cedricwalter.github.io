@@ -1,5 +1,5 @@
 ---
-id: 8715
+
 title: 'The cryptocurrency hack of Bob'
 date: '2018-04-01T12:34:19+02:00'
 author: 'Cédric Walter'

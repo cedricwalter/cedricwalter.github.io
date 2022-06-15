@@ -1,5 +1,5 @@
 ---
-id: 2441
+
 title: 'Unusual Police vehicle'
 date: '2006-04-08T17:50:07+02:00'
 author: 'Cédric Walter'

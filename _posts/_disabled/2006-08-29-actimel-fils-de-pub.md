@@ -1,5 +1,5 @@
 ---
-id: 2690
+
 title: 'Actimel, fils de pub'
 date: '2006-08-29T13:56:25+02:00'
 author: 'Cédric Walter'

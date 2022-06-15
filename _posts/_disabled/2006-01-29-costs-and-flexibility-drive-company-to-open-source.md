@@ -1,5 +1,5 @@
 ---
-id: 2299
+
 title: 'costs and flexibility drive company to open source'
 date: '2006-01-29T16:11:30+01:00'
 author: 'Cédric Walter'

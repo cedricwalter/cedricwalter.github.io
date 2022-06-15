@@ -1,5 +1,5 @@
 ---
-id: 3716
+
 title: 'Doris &#038; Lorenz Trauung'
 date: '2008-08-25T11:03:21+02:00'
 author: 'Cédric Walter'

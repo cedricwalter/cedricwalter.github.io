@@ -1,5 +1,5 @@
 ---
-id: 7267
+
 title: 'Running Joomla! on Synology NAS'
 date: '2011-11-11T17:00:57+01:00'
 author: 'Cédric Walter'

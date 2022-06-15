@@ -1,5 +1,5 @@
 ---
-id: 3272
+
 title: 'SecurityImages 5.0 BETA for Joomla! 1.5'
 date: '2008-03-20T17:52:43+01:00'
 author: 'Cédric Walter'

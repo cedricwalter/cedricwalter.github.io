@@ -1,5 +1,5 @@
 ---
-id: 1790
+
 title: 'A collaborative development lead to success!'
 date: '2005-06-11T23:55:20+02:00'
 author: 'Cédric Walter'

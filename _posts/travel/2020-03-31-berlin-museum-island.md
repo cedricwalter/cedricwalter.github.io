@@ -1,5 +1,5 @@
 ---
-id: 11775
+
 title: 'Berlin Museum Island'
 date: '2020-03-31T12:28:50+02:00'
 author: 'Cédric Walter'

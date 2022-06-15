@@ -1,5 +1,5 @@
 ---
-id: 6733
+
 title: 'KDE Ships First 4.7 Beta'
 date: '2011-05-27T19:12:48+02:00'
 author: 'Cédric Walter'

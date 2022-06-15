@@ -1,5 +1,5 @@
 ---
-id: 8558
+
 title: 'Paying Taxes 2016 in Europe, France soon at last position'
 date: '2016-08-12T12:40:02+02:00'
 author: 'Cédric Walter'

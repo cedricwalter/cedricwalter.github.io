@@ -1,5 +1,5 @@
 ---
-id: 1229
+
 title: 'Usage Statistics&#8230;'
 date: '2004-09-19T19:38:10+02:00'
 author: 'Cédric Walter'

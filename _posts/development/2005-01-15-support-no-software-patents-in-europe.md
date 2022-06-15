@@ -1,5 +1,5 @@
 ---
-id: 1479
+
 title: 'Support NO software patents in Europe!'
 date: '2005-01-15T21:01:39+01:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 4606
+
 title: 'Run Acunetix WVS as Maven plugin in TeamCity'
 date: '2009-09-05T16:55:55+02:00'
 author: 'Cédric Walter'

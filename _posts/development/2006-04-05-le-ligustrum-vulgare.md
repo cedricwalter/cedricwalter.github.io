@@ -1,5 +1,5 @@
 ---
-id: 2426
+
 title: 'Le ligustrum vulgare'
 date: '2006-04-05T21:13:58+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 3765
+
 title: 'SNK NEO GEO AES total costs'
 date: '2008-09-10T22:50:26+02:00'
 author: 'Cédric Walter'

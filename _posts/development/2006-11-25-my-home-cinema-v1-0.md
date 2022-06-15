@@ -1,5 +1,5 @@
 ---
-id: 2762
+
 title: 'My Home cinema&#8230; v1.0'
 date: '2006-11-25T20:57:36+01:00'
 author: 'Cédric Walter'

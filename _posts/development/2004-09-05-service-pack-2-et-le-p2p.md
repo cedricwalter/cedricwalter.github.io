@@ -1,5 +1,5 @@
 ---
-id: 1111
+
 title: 'Service pack 2 et le P2P'
 date: '2004-09-05T23:34:34+02:00'
 author: 'Cédric Walter'

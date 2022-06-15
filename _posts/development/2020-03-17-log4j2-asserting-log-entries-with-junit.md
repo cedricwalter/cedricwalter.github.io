@@ -1,5 +1,5 @@
 ---
-id: 8316
+
 title: 'Log4j 2 asserting log entries with Junit'
 date: '2020-03-17T14:59:03+01:00'
 author: 'Cédric Walter'

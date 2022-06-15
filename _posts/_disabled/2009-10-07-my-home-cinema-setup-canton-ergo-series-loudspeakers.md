@@ -1,5 +1,5 @@
 ---
-id: 4762
+
 title: 'my home cinema setup: Canton Ergo series loudspeakers'
 date: '2009-10-07T00:00:00+02:00'
 author: 'Cédric Walter'

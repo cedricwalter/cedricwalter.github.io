@@ -1,5 +1,5 @@
 ---
-id: 6550
+
 title: 'BMW S 1000 RR ABS/DTC model 2011'
 date: '2011-02-24T21:25:26+01:00'
 author: 'Cédric Walter'

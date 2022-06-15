@@ -1,5 +1,5 @@
 ---
-id: 94
+
 title: 'Danger part ca3035 main mast stopper caliber 30'
 date: '2004-08-26T21:42:46+02:00'
 author: 'Cédric Walter'

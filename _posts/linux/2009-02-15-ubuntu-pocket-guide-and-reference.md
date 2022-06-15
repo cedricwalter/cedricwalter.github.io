@@ -1,5 +1,5 @@
 ---
-id: 4158
+
 title: 'Ubuntu Pocket 
 date: '2009-02-15T10:38:56+01:00'
 author: 'Cédric Walter'

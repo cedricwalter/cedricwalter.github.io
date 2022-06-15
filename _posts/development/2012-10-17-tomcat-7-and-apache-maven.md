@@ -1,5 +1,5 @@
 ---
-id: 7804
+
 title: 'Tomcat 7 and Apache Maven'
 date: '2012-10-17T20:29:56+02:00'
 author: 'Cédric Walter'

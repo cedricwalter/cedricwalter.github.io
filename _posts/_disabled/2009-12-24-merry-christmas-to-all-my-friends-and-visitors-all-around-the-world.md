@@ -1,5 +1,5 @@
 ---
-id: 4913
+
 title: 'Merry Christmas to all my friends and visitors all around the world!'
 date: '2009-12-24T12:47:59+01:00'
 author: 'Cédric Walter'

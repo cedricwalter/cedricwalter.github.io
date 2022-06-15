@@ -1,5 +1,5 @@
 ---
-id: 5797
+
 title: 'Keep your software stack up to date with the Apache Maven Versions Plugin'
 date: '2010-08-28T13:57:28+02:00'
 author: 'Cédric Walter'

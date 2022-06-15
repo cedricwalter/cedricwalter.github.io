@@ -1,5 +1,5 @@
 ---
-id: 4098
+
 title: 'Adding Google Analytics To MediaWiki'
 date: '2009-02-06T23:48:43+01:00'
 author: 'Cédric Walter'

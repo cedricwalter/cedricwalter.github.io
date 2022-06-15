@@ -1,5 +1,5 @@
 ---
-id: 7931
+
 title: 'PHP Code Snippet to retrieve Data from WikiPedia'
 date: '2012-12-17T15:35:50+01:00'
 author: 'Cédric Walter'

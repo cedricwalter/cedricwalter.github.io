@@ -1,5 +1,5 @@
 ---
-id: 12479
+
 title: 'Lake Burbury In Tasmania'
 date: '2020-04-01T17:13:41+02:00'
 author: 'Cédric Walter'

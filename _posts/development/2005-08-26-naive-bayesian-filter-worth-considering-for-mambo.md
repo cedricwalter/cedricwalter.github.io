@@ -1,5 +1,5 @@
 ---
-id: 2007
+
 title: 'Naive Bayesian filter worth considering for Mambo?'
 date: '2005-08-26T19:15:15+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 2109
+
 title: 'Security Images 2.0 to be shipped soon with Login and registration patch for Joomla'
 date: '2005-11-15T20:19:01+01:00'
 author: 'Cédric Walter'

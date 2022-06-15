@@ -1,5 +1,5 @@
 ---
-id: 4091
+
 title: 'Want to advertise on www.waltercedric.com?'
 date: '2009-02-05T19:34:10+01:00'
 author: 'Cédric Walter'

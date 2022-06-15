@@ -1,5 +1,5 @@
 ---
-id: 2295
+
 title: 'Web Authoring Statistics'
 date: '2006-01-29T13:57:47+01:00'
 author: 'Cédric Walter'

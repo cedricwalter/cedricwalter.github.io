@@ -1,5 +1,5 @@
 ---
-id: 2813
+
 title: 'The perfect remote controller under 250euro??'
 date: '2006-12-29T10:36:30+01:00'
 author: 'Cédric Walter'

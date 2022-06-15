@@ -1,5 +1,5 @@
 ---
-id: 1937
+
 title: 'Jedit shortcuts reference'
 date: '2005-07-22T20:13:04+02:00'
 author: 'Cédric Walter'

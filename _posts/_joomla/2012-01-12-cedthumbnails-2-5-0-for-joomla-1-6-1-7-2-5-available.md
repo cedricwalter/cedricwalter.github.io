@@ -1,5 +1,5 @@
 ---
-id: 7429
+
 title: 'CedThumbnails 2.5.0 for Joomla 1.6/1.7/2.5 available'
 date: '2012-01-12T20:47:13+01:00'
 author: 'Cédric Walter'

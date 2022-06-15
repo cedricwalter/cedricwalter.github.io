@@ -1,5 +1,5 @@
 ---
-id: 1040
+
 title: 'Coupe de France E=M6 de Robotique'
 date: '2004-09-05T17:59:01+02:00'
 author: 'Cédric Walter'

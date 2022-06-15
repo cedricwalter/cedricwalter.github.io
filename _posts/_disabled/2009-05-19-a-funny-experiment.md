@@ -1,5 +1,5 @@
 ---
-id: 4332
+
 title: 'A funny experiment'
 date: '2009-05-19T19:48:33+02:00'
 author: 'Cédric Walter'

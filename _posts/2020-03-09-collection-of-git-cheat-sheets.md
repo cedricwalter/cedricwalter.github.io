@@ -1,5 +1,5 @@
 ---
-id: 7502
+
 title: 'Collection of Git Cheat Sheets'
 date: '2020-03-09T10:51:09+01:00'
 author: 'Cédric Walter'

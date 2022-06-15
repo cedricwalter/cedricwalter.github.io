@@ -1,5 +1,5 @@
 ---
-id: 3297
+
 title: 'Joomla! 1.5 patches for SecurityImages 5.0.0Beta2'
 date: '2008-03-22T18:01:33+01:00'
 author: 'Cédric Walter'

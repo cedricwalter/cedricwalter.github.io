@@ -1,5 +1,5 @@
 ---
-id: 6261
+
 title: 'Sega Megadrive'
 date: '2010-09-22T18:21:47+02:00'
 author: 'Cédric Walter'

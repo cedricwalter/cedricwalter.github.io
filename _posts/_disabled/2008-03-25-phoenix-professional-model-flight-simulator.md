@@ -1,5 +1,5 @@
 ---
-id: 3308
+
 title: 'Phoenix Professional Model Flight Simulator'
 date: '2008-03-25T22:00:21+01:00'
 author: 'Cédric Walter'

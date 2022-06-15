@@ -1,5 +1,5 @@
 ---
-id: 8594
+
 title: 'The deployment master How to perform 0 down-time deployments using containers'
 date: '2016-10-05T20:47:08+02:00'
 author: 'Cédric Walter'

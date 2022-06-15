@@ -1,5 +1,5 @@
 ---
-id: 5077
+
 title: 'Old Philips Webcam under Windows Vista/ Windows 7'
 date: '2010-03-19T20:51:07+01:00'
 author: 'Cédric Walter'

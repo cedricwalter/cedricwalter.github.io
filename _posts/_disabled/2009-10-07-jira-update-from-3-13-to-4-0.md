@@ -1,5 +1,5 @@
 ---
-id: 4764
+
 title: 'JIRA update from 3.13 to 4.0'
 date: '2009-10-07T14:21:37+02:00'
 author: 'Cédric Walter'

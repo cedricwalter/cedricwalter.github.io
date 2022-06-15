@@ -1,5 +1,5 @@
 ---
-id: 1224
+
 title: 'If you are interested by OO design, here are some good links&#8230;'
 date: '2004-09-17T22:02:21+02:00'
 author: 'Cédric Walter'

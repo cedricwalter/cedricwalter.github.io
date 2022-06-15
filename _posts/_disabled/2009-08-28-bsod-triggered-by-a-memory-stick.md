@@ -1,5 +1,5 @@
 ---
-id: 4598
+
 title: 'BSoD triggered by a memory stick'
 date: '2009-08-28T16:32:56+02:00'
 author: 'Cédric Walter'

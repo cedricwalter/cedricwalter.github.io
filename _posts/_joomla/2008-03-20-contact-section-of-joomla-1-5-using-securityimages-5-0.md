@@ -1,5 +1,5 @@
 ---
-id: 3275
+
 title: 'Contact section of Joomla! 1.5 using SecurityImages 5.0'
 date: '2008-03-20T19:38:47+01:00'
 author: 'Cédric Walter'

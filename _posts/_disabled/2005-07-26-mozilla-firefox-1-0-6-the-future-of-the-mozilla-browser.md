@@ -1,5 +1,5 @@
 ---
-id: 1958
+
 title: 'Mozilla Firefox 1.0.6 &#8211; The future of the Mozilla browser'
 date: '2005-07-26T20:44:04+02:00'
 author: 'Cédric Walter'

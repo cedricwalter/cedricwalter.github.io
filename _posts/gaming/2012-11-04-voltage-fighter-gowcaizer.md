@@ -1,5 +1,5 @@
 ---
-id: 7850
+
 title: 'Voltage Fighter Gowcaizer'
 date: '2012-11-04T18:26:58+01:00'
 author: 'Cédric Walter'

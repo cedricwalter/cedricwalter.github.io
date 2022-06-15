@@ -1,5 +1,5 @@
 ---
-id: 3921
+
 title: 'Developer cartoons'
 date: '2008-11-14T21:33:59+01:00'
 author: 'Cédric Walter'

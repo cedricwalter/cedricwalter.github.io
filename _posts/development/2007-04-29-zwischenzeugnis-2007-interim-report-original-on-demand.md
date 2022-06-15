@@ -1,5 +1,5 @@
 ---
-id: 2961
+
 title: 'Zwischenzeugnis 2007 (Interim Report, original on demand)'
 date: '2007-04-29T19:34:15+02:00'
 author: 'Cédric Walter'

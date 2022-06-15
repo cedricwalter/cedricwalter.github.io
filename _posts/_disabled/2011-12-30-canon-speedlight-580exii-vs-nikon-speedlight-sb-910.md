@@ -1,5 +1,5 @@
 ---
-id: 7406
+
 title: 'Canon Speedlight 580ExII vs Nikon Speedlight SB-910'
 date: '2011-12-30T14:29:02+01:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 988
+
 title: 'Check List après le vol'
 date: '2004-09-03T12:38:27+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 13512
+
 title: 'Setting up an Ethereum 2.0 Validator Node on Prysm Topaz Testnet'
 date: '2020-05-23T17:34:11+02:00'
 author: 'Cédric Walter'

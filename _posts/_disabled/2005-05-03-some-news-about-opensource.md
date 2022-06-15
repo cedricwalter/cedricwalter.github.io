@@ -1,5 +1,5 @@
 ---
-id: 1707
+
 title: 'Some news about OpenSOurce'
 date: '2005-05-03T20:44:46+02:00'
 author: 'Cédric Walter'

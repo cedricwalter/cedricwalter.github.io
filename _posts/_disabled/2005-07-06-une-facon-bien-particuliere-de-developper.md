@@ -1,5 +1,5 @@
 ---
-id: 1815
+
 title: 'Une facon bien particulière de developper?'
 date: '2005-07-06T09:23:47+02:00'
 author: 'Cédric Walter'

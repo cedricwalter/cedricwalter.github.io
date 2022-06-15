@@ -1,5 +1,5 @@
 ---
-id: 1661
+
 title: 'Code regression testing? any?'
 date: '2005-04-01T14:21:25+02:00'
 author: 'Cédric Walter'

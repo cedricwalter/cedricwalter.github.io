@@ -1,5 +1,5 @@
 ---
-id: 8591
+
 title: 'Blockchain, cryptography, and consensus'
 date: '2016-10-05T20:47:08+02:00'
 author: 'Cédric Walter'

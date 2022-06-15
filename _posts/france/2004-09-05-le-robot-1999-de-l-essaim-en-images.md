@@ -1,5 +1,5 @@
 ---
-id: 1103
+
 title: 'le robot 1999 de l ESSAIM en images'
 date: '2004-09-05T18:10:18+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 1149
+
 title: 'Converting raptor to OS50sx'
 date: '2004-09-08T23:22:45+02:00'
 author: 'Cédric Walter'

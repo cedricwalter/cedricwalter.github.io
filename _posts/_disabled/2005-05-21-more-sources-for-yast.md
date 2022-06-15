@@ -1,5 +1,5 @@
 ---
-id: 1757
+
 title: 'More sources for Yast'
 date: '2005-05-21T17:15:15+02:00'
 author: 'Cédric Walter'

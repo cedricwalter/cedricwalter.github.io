@@ -1,5 +1,5 @@
 ---
-id: 1457
+
 title: 'My Provider has changed their DNS'
 date: '2005-01-07T19:06:41+01:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 3378
+
 title: 'Continuous build with Apache Maven'
 date: '2008-04-10T14:51:53+02:00'
 author: 'Cédric Walter'

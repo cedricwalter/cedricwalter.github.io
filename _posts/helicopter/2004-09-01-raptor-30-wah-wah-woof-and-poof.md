@@ -1,5 +1,5 @@
 ---
-id: 914
+
 title: 'Raptor 30 Wah Wah, Woof and poof'
 date: '2004-09-01T23:35:23+02:00'
 author: 'Cédric Walter'

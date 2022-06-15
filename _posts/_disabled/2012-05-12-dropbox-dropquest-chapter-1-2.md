@@ -1,5 +1,5 @@
 ---
-id: 7718
+
 title: 'Dropbox Dropquest chapter 1'
 date: '2012-05-12T20:46:50+02:00'
 author: 'Cédric Walter'

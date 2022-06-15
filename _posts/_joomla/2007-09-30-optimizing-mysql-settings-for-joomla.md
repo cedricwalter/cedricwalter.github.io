@@ -1,5 +1,5 @@
 ---
-id: 3062
+
 title: 'Optimizing MySQL settings for Joomla'
 date: '2007-09-30T20:10:40+02:00'
 author: 'Cédric Walter'

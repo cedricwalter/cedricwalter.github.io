@@ -1,5 +1,5 @@
 ---
-id: 3175
+
 title: 'Joomla 1.0.13! admin session issues'
 date: '2008-02-03T12:45:15+01:00'
 author: 'Cédric Walter'

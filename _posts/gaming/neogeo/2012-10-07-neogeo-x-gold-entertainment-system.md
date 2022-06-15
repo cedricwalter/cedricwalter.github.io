@@ -1,5 +1,5 @@
 ---
-id: 7785
+
 title: 'NEOGEO X GOLD ENTERTAINMENT SYSTEM'
 date: '2012-10-07T16:37:33+02:00'
 author: 'Cédric Walter'

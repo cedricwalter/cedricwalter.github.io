@@ -1,5 +1,5 @@
 ---
-id: 2901
+
 title: 'Microsoft wireless entertainment keyboad 7000'
 date: '2007-03-10T13:33:46+01:00'
 author: 'Cédric Walter'

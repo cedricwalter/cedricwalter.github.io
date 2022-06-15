@@ -1,5 +1,5 @@
 ---
-id: 1900
+
 title: 'Live Backups of MySQL Using Replication'
 date: '2005-07-10T11:49:35+02:00'
 author: 'Cédric Walter'

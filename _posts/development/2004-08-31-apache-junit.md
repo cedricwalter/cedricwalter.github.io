@@ -1,5 +1,5 @@
 ---
-id: 550
+
 title: 'Apache Junit'
 date: '2004-08-31T22:52:36+02:00'
 author: 'Cédric Walter'

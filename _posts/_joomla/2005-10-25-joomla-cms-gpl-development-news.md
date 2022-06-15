@@ -1,5 +1,5 @@
 ---
-id: 2067
+
 title: 'Joomla CMS GPL development news'
 date: '2005-10-25T21:20:57+02:00'
 author: 'Cédric Walter'

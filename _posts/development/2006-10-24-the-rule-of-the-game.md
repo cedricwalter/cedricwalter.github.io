@@ -1,5 +1,5 @@
 ---
-id: 2732
+
 title: 'The rule of the game'
 date: '2006-10-24T21:06:10+02:00'
 author: 'Cédric Walter'

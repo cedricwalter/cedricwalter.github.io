@@ -1,5 +1,5 @@
 ---
-id: 2914
+
 title: 'Everything about apple TV'
 date: '2007-03-23T21:57:32+01:00'
 author: 'Cédric Walter'

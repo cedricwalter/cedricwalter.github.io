@@ -1,5 +1,5 @@
 ---
-id: 999
+
 title: 'Lost in switzerland or in Zurich?'
 date: '2004-09-05T13:18:12+02:00'
 author: 'Cédric Walter'

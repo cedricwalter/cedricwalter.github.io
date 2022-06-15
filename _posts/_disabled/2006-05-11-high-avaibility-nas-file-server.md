@@ -1,5 +1,5 @@
 ---
-id: 2524
+
 title: 'High avaibility NAS File Server'
 date: '2006-05-11T18:27:58+02:00'
 author: 'Cédric Walter'

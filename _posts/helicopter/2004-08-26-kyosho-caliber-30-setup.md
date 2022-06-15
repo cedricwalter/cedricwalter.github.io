@@ -1,5 +1,5 @@
 ---
-id: 432
+
 title: 'Kyosho Caliber 30 Setup'
 date: '2004-08-26T23:36:15+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 7808
+
 title: 'Apple ‘s Distortion Field : Prior Art of Apple Pinch-to-Zoom Patent'
 date: '2012-08-25T17:37:52+02:00'
 author: 'Cédric Walter'

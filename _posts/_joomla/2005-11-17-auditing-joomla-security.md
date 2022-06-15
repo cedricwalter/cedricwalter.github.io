@@ -1,5 +1,5 @@
 ---
-id: 2112
+
 title: 'Auditing Joomla security'
 date: '2005-11-17T23:37:38+01:00'
 author: 'Cédric Walter'

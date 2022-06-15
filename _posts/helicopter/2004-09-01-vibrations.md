@@ -1,5 +1,5 @@
 ---
-id: 925
+
 title: Vibrations
 date: '2004-09-01T23:43:29+02:00'
 author: 'Cédric Walter'

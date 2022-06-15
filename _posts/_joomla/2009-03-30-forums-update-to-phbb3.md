@@ -1,5 +1,5 @@
 ---
-id: 4240
+
 title: 'Forums update to …… PHBB3'
 date: '2009-03-30T00:51:27+02:00'
 author: 'Cédric Walter'

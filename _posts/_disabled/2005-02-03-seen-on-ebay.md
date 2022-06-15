@@ -1,5 +1,5 @@
 ---
-id: 1562
+
 title: 'Seen on ebay&#8230;'
 date: '2005-02-03T23:07:28+01:00'
 author: 'Cédric Walter'

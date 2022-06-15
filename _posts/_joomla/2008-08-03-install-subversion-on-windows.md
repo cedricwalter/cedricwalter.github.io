@@ -1,5 +1,5 @@
 ---
-id: 3594
+
 title: 'Install subversion on windows'
 date: '2008-08-03T16:53:05+02:00'
 author: 'Cédric Walter'

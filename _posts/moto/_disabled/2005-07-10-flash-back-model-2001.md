@@ -1,5 +1,5 @@
 ---
-id: 1915
+
 title: 'Flash back model 2001'
 date: '2005-07-10T23:48:16+02:00'
 author: 'Cédric Walter'

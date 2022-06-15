@@ -1,5 +1,5 @@
 ---
-id: 1203
+
 title: 'Optical sensor for the GV1 governor'
 date: '2004-09-09T22:17:18+02:00'
 author: 'Cédric Walter'

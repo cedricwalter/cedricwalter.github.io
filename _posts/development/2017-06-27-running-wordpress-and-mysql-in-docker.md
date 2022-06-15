@@ -1,5 +1,5 @@
 ---
-id: 8636
+
 title: 'Running WordPress and MySql in Docker'
 date: '2017-06-27T14:13:52+02:00'
 author: 'Cédric Walter'

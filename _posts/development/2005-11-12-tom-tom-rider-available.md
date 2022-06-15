@@ -1,5 +1,5 @@
 ---
-id: 2103
+
 title: 'Tom tom rider available'
 date: '2005-11-12T19:43:47+01:00'
 author: 'Cédric Walter'

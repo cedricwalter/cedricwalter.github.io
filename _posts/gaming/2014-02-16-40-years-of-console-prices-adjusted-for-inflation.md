@@ -1,5 +1,5 @@
 ---
-id: 8201
+
 title: '40 Years Of Console Prices, Adjusted For Inflation'
 date: '2014-02-16T14:40:23+01:00'
 author: 'Cédric Walter'

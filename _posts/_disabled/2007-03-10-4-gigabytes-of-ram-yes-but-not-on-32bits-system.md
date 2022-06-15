@@ -1,5 +1,5 @@
 ---
-id: 2903
+
 title: '4 gigabytes of RAM, yes but not on 32bits system'
 date: '2007-03-10T22:12:07+01:00'
 author: 'Cédric Walter'

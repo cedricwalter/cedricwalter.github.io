@@ -1,5 +1,5 @@
 ---
-id: 1640
+
 title: 'All bombardier ds 650 models'
 date: '2005-03-25T13:20:39+01:00'
 author: 'Cédric Walter'

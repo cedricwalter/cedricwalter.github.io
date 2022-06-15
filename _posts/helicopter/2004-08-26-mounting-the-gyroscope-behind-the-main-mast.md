@@ -1,5 +1,5 @@
 ---
-id: 127
+
 title: 'Mounting the gyroscope behind the main mast'
 date: '2004-08-26T22:04:18+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 994
+
 title: 'Apache Log4j'
 date: '2004-09-03T16:32:29+02:00'
 author: 'Cédric Walter'

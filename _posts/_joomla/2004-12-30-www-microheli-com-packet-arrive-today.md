@@ -1,5 +1,5 @@
 ---
-id: 1453
+
 title: 'www.microheli.com packet arrive today!'
 date: '2004-12-30T14:46:35+01:00'
 author: 'Cédric Walter'

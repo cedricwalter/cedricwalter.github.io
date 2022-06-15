@@ -1,5 +1,5 @@
 ---
-id: 909
+
 title: 'Lexique (fr)'
 date: '2004-09-01T23:28:32+02:00'
 author: 'Cédric Walter'

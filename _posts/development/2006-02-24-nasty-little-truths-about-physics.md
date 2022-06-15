@@ -1,5 +1,5 @@
 ---
-id: 2326
+
 title: 'Nasty Little Truths About Physics'
 date: '2006-02-24T22:55:15+01:00'
 author: 'Cédric Walter'

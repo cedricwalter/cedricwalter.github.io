@@ -1,5 +1,5 @@
 ---
-id: 4235
+
 title: 'Joomla! unofficial mirror updated'
 date: '2009-03-29T21:31:20+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 3164
+
 title: 'Securityimages in Joomla! 1.5'
 date: '2007-11-27T12:42:46+01:00'
 author: 'Cédric Walter'

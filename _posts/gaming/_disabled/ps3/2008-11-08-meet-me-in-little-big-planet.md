@@ -1,5 +1,5 @@
 ---
-id: 3906
+
 title: 'Meet me in Little Big Planet :-)'
 date: '2008-11-08T21:53:20+01:00'
 author: 'Cédric Walter'
@@ -10,7 +10,7 @@ header:
   teaser: /assets/images/2008/11/Happiest_thumb.png
 ---
 
-| [![Happiest](/assets/images/2008/11/Happiest_thumb.png)](/assets/images/2008/11/Happiest.png) | I am currently playing a lot with [Little Big Planet](http://www.waltercedric.com/tags/littlebigplanet.html), you can find me there with my    PSN ID:    **MagicianLord** PSN ID is a reference to ELTA the last Magician Lord in the 1991 SNK game |
+| [![Happiest](/assets/images/2008/11/Happiest_thumb.png)](/assets/images/2008/11/Happiest.png) | I am currently playing a lot with [Little Big Planet](http://www.waltercedric.com/tags/littlebigplanet.html), you can find me there with my    PSN 
 |---|---|
 
 In between …

@@ -1,5 +1,5 @@
 ---
-id: 1388
+
 title: 'Visitor counter inflate but it was needed'
 date: '2004-11-25T23:29:05+01:00'
 author: 'Cédric Walter'

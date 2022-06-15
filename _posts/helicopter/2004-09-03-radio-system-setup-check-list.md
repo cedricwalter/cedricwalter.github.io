@@ -1,5 +1,5 @@
 ---
-id: 992
+
 title: 'Radio System Setup Check List'
 date: '2004-09-03T12:41:44+02:00'
 author: 'Cédric Walter'

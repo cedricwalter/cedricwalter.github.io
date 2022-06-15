@@ -1,5 +1,5 @@
 ---
-id: 12457
+
 title: 'Hahndorf a small town in the Adelaide Hills region of South Australia'
 date: '2020-04-01T16:53:05+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 1765
+
 title: 'Nokia and open source'
 date: '2005-05-27T13:14:09+02:00'
 author: 'Cédric Walter'

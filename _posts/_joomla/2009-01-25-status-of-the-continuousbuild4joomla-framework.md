@@ -1,5 +1,5 @@
 ---
-id: 4059
+
 title: 'Status of the ContinuousBuild4Joomla framework'
 date: '2009-01-25T19:38:21+01:00'
 author: 'Cédric Walter'

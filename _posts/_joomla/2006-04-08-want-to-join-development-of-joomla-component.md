@@ -1,5 +1,5 @@
 ---
-id: 2436
+
 title: 'Want to join development of Joomla component'
 date: '2006-04-08T09:14:49+02:00'
 author: 'Cédric Walter'

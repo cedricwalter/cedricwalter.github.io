@@ -1,5 +1,5 @@
 ---
-id: 12844
+
 title: 'explore Chinatown &#8211; visit singapore'
 date: '2020-04-10T16:34:33+02:00'
 author: 'Cédric Walter'

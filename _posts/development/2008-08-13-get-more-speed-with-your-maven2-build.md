@@ -1,5 +1,5 @@
 ---
-id: 3663
+
 title: 'Get more speed with your MAVEN2 build'
 date: '2008-08-13T19:17:51+02:00'
 author: 'Cédric Walter'

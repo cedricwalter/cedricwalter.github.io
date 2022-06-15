@@ -1,5 +1,5 @@
 ---
-id: 5927
+
 title: 'Become a supporter of KDE!'
 date: '2010-09-01T18:56:26+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 8687
+
 title: 'Tiny-RSS update in background using SystemD'
 date: '2017-10-26T22:21:45+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 2434
+
 title: '2006 SourceForge.net Community Choice Awards results'
 date: '2006-04-07T21:17:35+02:00'
 author: 'Cédric Walter'

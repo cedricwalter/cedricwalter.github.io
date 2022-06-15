@@ -1,5 +1,5 @@
 ---
-id: 6373
+
 title: 'Joomla! 1.5.22 Released'
 date: '2010-11-05T20:37:01+01:00'
 author: 'Cédric Walter'

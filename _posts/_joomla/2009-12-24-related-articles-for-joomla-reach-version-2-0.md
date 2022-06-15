@@ -1,5 +1,5 @@
 ---
-id: 4911
+
 title: 'Related Articles for Joomla! reach version 2.0'
 date: '2009-12-24T11:41:27+01:00'
 author: 'Cédric Walter'

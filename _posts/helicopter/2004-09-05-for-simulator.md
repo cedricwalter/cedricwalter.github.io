@@ -1,5 +1,5 @@
 ---
-id: 1018
+
 title: 'For Simulator'
 date: '2004-09-05T16:59:27+02:00'
 author: 'Cédric Walter'

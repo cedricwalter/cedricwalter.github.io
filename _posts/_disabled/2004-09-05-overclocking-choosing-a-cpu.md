@@ -1,5 +1,5 @@
 ---
-id: 1001
+
 title: 'Overclocking: choosing a CPU'
 date: '2004-09-05T16:27:19+02:00'
 author: 'Cédric Walter'

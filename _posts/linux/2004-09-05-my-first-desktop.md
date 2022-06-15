@@ -1,5 +1,5 @@
 ---
-id: 1038
+
 title: 'My first desktop'
 date: '2004-09-05T17:15:23+02:00'
 author: 'Cédric Walter'

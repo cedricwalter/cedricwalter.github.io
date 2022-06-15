@@ -1,5 +1,5 @@
 ---
-id: 8167
+
 title: 'Roads Kill interactive map'
 date: '2013-09-12T12:10:43+02:00'
 author: 'Cédric Walter'

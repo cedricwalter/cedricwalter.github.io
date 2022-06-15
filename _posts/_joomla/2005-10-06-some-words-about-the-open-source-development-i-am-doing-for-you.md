@@ -1,5 +1,5 @@
 ---
-id: 2042
+
 title: 'Some words about the Open-source development I am doing for You'
 date: '2005-10-06T23:25:25+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 1273
+
 title: 'Mode d emploi Vespa 1955'
 date: '2004-10-09T20:57:11+02:00'
 author: 'Cédric Walter'

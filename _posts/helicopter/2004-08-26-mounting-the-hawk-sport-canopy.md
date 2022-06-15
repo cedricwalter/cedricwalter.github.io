@@ -1,5 +1,5 @@
 ---
-id: 140
+
 title: 'Mounting the Hawk Sport canopy'
 date: '2004-08-26T22:06:17+02:00'
 author: 'Cédric Walter'

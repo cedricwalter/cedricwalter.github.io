@@ -1,5 +1,5 @@
 ---
-id: 1235
+
 title: 'Reflex XTR, effort communautaire'
 date: '2004-09-27T20:07:18+02:00'
 author: 'Cédric Walter'

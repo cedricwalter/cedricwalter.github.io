@@ -1,5 +1,5 @@
 ---
-id: 4780
+
 title: 'Future review of Joomla!® 1.5 Development Cookbook and Build and Manage Applications with Maven, Continuum, and Archiva'
 date: '2009-10-16T15:13:32+02:00'
 author: 'Cédric Walter'

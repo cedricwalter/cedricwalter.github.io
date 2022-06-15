@@ -1,5 +1,5 @@
 ---
-id: 2475
+
 title: 'NHC: Notebook Hardware Control'
 date: '2006-04-23T18:36:10+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 2045
+
 title: 'The Graphical Editing Framework (GEF)'
 date: '2005-10-07T16:00:51+02:00'
 author: 'Cédric Walter'

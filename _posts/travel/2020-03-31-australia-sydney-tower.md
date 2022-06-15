@@ -1,5 +1,5 @@
 ---
-id: 11921
+
 title: 'Australia Sydney Tower'
 date: '2020-03-31T14:59:27+02:00'
 author: 'Cédric Walter'

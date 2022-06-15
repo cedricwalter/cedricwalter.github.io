@@ -1,5 +1,5 @@
 ---
-id: 1481
+
 title: 'Statistics August to december 2004'
 date: '2005-01-16T19:34:50+01:00'
 author: 'Cédric Walter'

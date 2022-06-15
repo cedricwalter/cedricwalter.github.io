@@ -1,5 +1,5 @@
 ---
-id: 931
+
 title: 'Les upgrades'
 date: '2004-09-01T23:46:03+02:00'
 author: 'Cédric Walter'

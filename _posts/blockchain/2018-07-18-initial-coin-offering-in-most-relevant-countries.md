@@ -1,5 +1,5 @@
 ---
-id: 8739
+
 title: 'Initial Coin Offering in most relevant countries'
 date: '2018-07-18T20:44:24+02:00'
 author: 'Cédric Walter'

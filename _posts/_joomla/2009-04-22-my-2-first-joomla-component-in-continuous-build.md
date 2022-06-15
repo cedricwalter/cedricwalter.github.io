@@ -1,5 +1,5 @@
 ---
-id: 4291
+
 title: 'My 2 first Joomla! component in continuous build'
 date: '2009-04-22T19:29:25+02:00'
 author: 'Cédric Walter'

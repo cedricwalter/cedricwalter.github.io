@@ -1,5 +1,5 @@
 ---
-id: 12450
+
 title: 'Alice springs in australia’s northern territory'
 date: '2020-04-01T16:42:36+02:00'
 author: 'Cédric Walter'

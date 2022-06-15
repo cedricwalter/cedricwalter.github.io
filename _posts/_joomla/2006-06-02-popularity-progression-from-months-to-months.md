@@ -1,5 +1,5 @@
 ---
-id: 2636
+
 title: 'Popularity Progression from months to months'
 date: '2006-06-02T14:40:01+02:00'
 author: 'Cédric Walter'

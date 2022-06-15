@@ -1,5 +1,5 @@
 ---
-id: 12974
+
 title: 'Cryptocurrencies Graph price using  a Raspberry Pi and 3.5” LCD Display'
 date: '2020-04-11T20:04:18+02:00'
 author: 'Cédric Walter'

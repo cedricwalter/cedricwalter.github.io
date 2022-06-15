@@ -1,5 +1,5 @@
 ---
-id: 3447
+
 title: 'UN*XXX geek joke'
 date: '2008-05-04T14:42:52+02:00'
 author: 'Cédric Walter'

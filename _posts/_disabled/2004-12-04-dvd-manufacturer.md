@@ -1,5 +1,5 @@
 ---
-id: 1432
+
 title: 'DVD manufacturer'
 date: '2004-12-04T21:32:56+01:00'
 author: 'Cédric Walter'

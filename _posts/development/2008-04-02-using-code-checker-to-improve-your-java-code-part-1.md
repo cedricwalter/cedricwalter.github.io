@@ -1,5 +1,5 @@
 ---
-id: 3336
+
 title: 'Using Code Checker to improve your Java code (Part 1)'
 date: '2008-04-02T23:44:28+02:00'
 author: 'Cédric Walter'

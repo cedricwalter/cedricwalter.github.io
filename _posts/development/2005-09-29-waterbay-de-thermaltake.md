@@ -1,5 +1,5 @@
 ---
-id: 2036
+
 title: 'Waterbay de Thermaltake'
 date: '2005-09-29T20:21:34+02:00'
 author: 'Cédric Walter'

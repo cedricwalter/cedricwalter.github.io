@@ -1,5 +1,5 @@
 ---
-id: 6007
+
 title: 'Contest &#8211; Win a book PacktPub “Joomla! 1.5 Site Blueprints”'
 date: '2010-09-14T18:33:59+02:00'
 author: 'Cédric Walter'

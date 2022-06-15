@@ -1,5 +1,5 @@
 ---
-id: 3086
+
 title: '3rd day with my Canon G9 camera'
 date: '2007-10-14T11:57:00+02:00'
 author: 'Cédric Walter'

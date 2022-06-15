@@ -1,5 +1,5 @@
 ---
-id: 2344
+
 title: 'com_HashCash 1.2.0 released'
 date: '2006-03-03T22:21:46+01:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 1970
+
 title: 'Sony PS3 Specifications'
 date: '2005-08-03T18:36:50+02:00'
 author: 'Cédric Walter'

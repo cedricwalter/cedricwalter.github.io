@@ -1,5 +1,5 @@
 ---
-id: 7440
+
 title: 'Should I Upgrade my Website To Joomla! 2.5? [Infographic]'
 date: '2012-01-23T20:09:49+01:00'
 author: 'Cédric Walter'

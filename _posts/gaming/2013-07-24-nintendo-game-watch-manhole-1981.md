@@ -1,5 +1,5 @@
 ---
-id: 8128
+
 title: 'Nintendo Game &#038; Watch Manhole (1981)'
 date: '2013-07-24T17:39:45+02:00'
 author: 'Cédric Walter'

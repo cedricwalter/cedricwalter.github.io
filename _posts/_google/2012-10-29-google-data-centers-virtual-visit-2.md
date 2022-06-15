@@ -1,5 +1,5 @@
 ---
-id: 7856
+
 title: 'Google Data Centers virtual visit'
 date: '2012-10-29T23:45:27+01:00'
 author: 'Cédric Walter'

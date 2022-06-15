@@ -1,5 +1,5 @@
 ---
-id: 4007
+
 title: 'Installing PHPUnit / Selenium in XAMPP'
 date: '2008-12-31T14:08:56+01:00'
 author: 'Cédric Walter'

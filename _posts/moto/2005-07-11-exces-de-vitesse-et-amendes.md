@@ -1,5 +1,5 @@
 ---
-id: 1916
+
 title: 'Excès de vitesse et amendes'
 date: '2005-07-11T00:34:54+02:00'
 author: 'Cédric Walter'

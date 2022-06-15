@@ -1,5 +1,5 @@
 ---
-id: 2491
+
 title: 'Site down 10-02-2006 but revival soon'
 date: '2006-04-29T12:31:48+02:00'
 author: 'Cédric Walter'

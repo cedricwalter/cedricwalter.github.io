@@ -1,5 +1,5 @@
 ---
-id: 1596
+
 title: 'JVC Everio GZ-MC500 reviews'
 date: '2005-03-04T22:53:13+01:00'
 author: 'Cédric Walter'

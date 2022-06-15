@@ -1,5 +1,5 @@
 ---
-id: 2484
+
 title: 'bypass the latest Microsoft Anti-Piracy effort'
 date: '2006-04-28T20:09:51+02:00'
 author: 'Cédric Walter'

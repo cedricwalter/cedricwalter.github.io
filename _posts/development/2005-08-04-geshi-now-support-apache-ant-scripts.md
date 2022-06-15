@@ -1,5 +1,5 @@
 ---
-id: 1977
+
 title: 'Geshi now support Apache Ant scripts!'
 date: '2005-08-04T18:27:11+02:00'
 author: 'Cédric Walter'

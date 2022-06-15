@@ -1,5 +1,5 @@
 ---
-id: 3196
+
 title: 'CAPTCHA security system from Yahoo hacked'
 date: '2008-02-27T20:24:03+01:00'
 author: 'Cédric Walter'

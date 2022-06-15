@@ -1,5 +1,5 @@
 ---
-id: 7404
+
 title: 'SocialSharingLive for Joomla 1.5/1.6/1.7/2.5 Released'
 date: '2011-12-30T12:49:33+01:00'
 author: 'Cédric Walter'

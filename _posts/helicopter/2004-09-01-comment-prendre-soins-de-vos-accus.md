@@ -1,5 +1,5 @@
 ---
-id: 888
+
 title: 'Comment prendre soins de vos accus&#8230;..'
 date: '2004-09-01T23:22:00+02:00'
 author: 'Cédric Walter'

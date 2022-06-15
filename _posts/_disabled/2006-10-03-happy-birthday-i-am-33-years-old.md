@@ -1,5 +1,5 @@
 ---
-id: 2711
+
 title: 'happy birthday: I am 33 years old'
 date: '2006-10-03T23:55:23+02:00'
 author: 'Cédric Walter'

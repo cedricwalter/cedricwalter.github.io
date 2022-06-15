@@ -1,5 +1,5 @@
 ---
-id: 2394
+
 title: 'Converting your component from Joomla 1.0.8 to Joomla 1.1.X'
 date: '2006-03-24T20:12:25+01:00'
 author: 'Cédric Walter'

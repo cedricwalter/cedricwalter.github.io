@@ -1,5 +1,5 @@
 ---
-id: 4184
+
 title: 'Vintage Vespa for sale'
 date: '2009-02-22T22:04:37+01:00'
 author: 'Cédric Walter'

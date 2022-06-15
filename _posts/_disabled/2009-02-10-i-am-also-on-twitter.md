@@ -1,5 +1,5 @@
 ---
-id: 4135
+
 title: 'I am also on twitter'
 date: '2009-02-10T23:19:32+01:00'
 author: 'Cédric Walter'

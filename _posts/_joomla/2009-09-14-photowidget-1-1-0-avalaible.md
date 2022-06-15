@@ -1,5 +1,5 @@
 ---
-id: 4621
+
 title: 'PhotoWidget 1.1.0 avalaible'
 date: '2009-09-14T16:55:25+02:00'
 author: 'Cédric Walter'

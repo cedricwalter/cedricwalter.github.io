@@ -1,5 +1,5 @@
 ---
-id: 3489
+
 title: 'Eclipse IDE shortcuts'
 date: '2008-06-19T21:47:37+02:00'
 author: 'Cédric Walter'

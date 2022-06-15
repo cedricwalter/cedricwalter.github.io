@@ -1,5 +1,5 @@
 ---
-id: 8116
+
 title: 'HP calculator museum: Hewlett Packard HP48s/sx Graphing Calculator, 1990'
 date: '2013-07-17T20:21:36+02:00'
 author: 'Cédric Walter'
@@ -17,6 +17,7 @@ tags:
 - rpn
 - scientific
 ---
+HP calculator museum: Hewlett Packard HP48s/sx Graphing Calculator, 1990
 
 The HP-48 is a series of graphing calculators using Reverse Polish notation (RPN) and the RPL programming language,
 produced by Hewlett-Packard (HP) from 1990 until 2003. The series include the HP-48S, HP-48SX, HP-48G, 

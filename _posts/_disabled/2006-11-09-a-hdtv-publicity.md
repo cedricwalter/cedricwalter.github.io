@@ -1,5 +1,5 @@
 ---
-id: 2753
+
 title: 'A HDTV publicity&#8230;'
 date: '2006-11-09T22:21:42+01:00'
 author: 'Cédric Walter'

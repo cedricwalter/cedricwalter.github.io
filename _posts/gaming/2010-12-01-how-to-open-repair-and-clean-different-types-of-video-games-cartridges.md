@@ -1,5 +1,5 @@
 ---
-id: 6413
+
 title: 'How to open, repair, and clean different types of video games cartridges'
 date: '2010-12-01T22:11:49+01:00'
 author: 'Cédric Walter'

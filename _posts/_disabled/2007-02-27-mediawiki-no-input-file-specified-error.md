@@ -1,5 +1,5 @@
 ---
-id: 2895
+
 title: 'MediaWiki No input file specified. error'
 date: '2007-02-27T23:18:20+01:00'
 author: 'Cédric Walter'

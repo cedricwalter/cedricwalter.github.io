@@ -1,5 +1,5 @@
 ---
-id: 2652
+
 title: 'OpenComment security: I need Your feedback'
 date: '2006-06-15T20:49:31+02:00'
 author: 'Cédric Walter'

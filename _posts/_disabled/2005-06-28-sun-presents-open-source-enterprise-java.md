@@ -1,5 +1,5 @@
 ---
-id: 1805
+
 title: 'Sun Presents Open-Source Enterprise Java'
 date: '2005-06-28T16:28:02+02:00'
 author: 'Cédric Walter'

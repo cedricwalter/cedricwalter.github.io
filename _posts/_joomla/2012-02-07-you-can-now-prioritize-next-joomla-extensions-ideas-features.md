@@ -1,5 +1,5 @@
 ---
-id: 7496
+
 title: 'You can now prioritize next Joomla extensions ideas/features'
 date: '2012-02-07T21:00:41+01:00'
 author: 'Cédric Walter'

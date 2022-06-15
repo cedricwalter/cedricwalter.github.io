@@ -1,5 +1,5 @@
 ---
-id: 8652
+
 title: 'My Computer Build for 2017 and beyond'
 date: '2017-08-23T19:40:24+02:00'
 author: 'Cédric Walter'

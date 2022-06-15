@@ -1,5 +1,5 @@
 ---
-id: 2689
+
 title: 'The future is robotic'
 date: '2006-08-28T23:03:40+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 234
+
 title: 'A desktop review'
 date: '2004-08-26T23:08:39+02:00'
 author: 'Cédric Walter'

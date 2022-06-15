@@ -1,5 +1,5 @@
 ---
-id: 1442
+
 title: 'Standard Linux was 36% lower overall TCO than MicrosoftÂ´s platforms and applications'
 date: '2004-12-14T21:55:42+01:00'
 author: 'Cédric Walter'

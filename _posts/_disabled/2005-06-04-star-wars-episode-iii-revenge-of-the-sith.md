@@ -1,5 +1,5 @@
 ---
-id: 1773
+
 title: 'Star Wars: Episode III &#8211; Revenge of The Sith'
 date: '2005-06-04T12:12:55+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 2029
+
 title: 'linux kmobiletools sync at glance'
 date: '2005-09-10T23:42:28+02:00'
 author: 'Cédric Walter'

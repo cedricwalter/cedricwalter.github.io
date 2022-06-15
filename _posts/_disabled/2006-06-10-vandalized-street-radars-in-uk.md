@@ -1,5 +1,5 @@
 ---
-id: 2647
+
 title: 'vandalized street radars in UK'
 date: '2006-06-10T14:13:01+02:00'
 author: 'Cédric Walter'

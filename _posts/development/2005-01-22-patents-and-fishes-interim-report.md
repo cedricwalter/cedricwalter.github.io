@@ -1,5 +1,5 @@
 ---
-id: 1516
+
 title: 'Patents and Fishes: Interim Report'
 date: '2005-01-22T20:06:41+01:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 1780
+
 title: 'Satellite views search engine'
 date: '2005-06-05T22:37:17+02:00'
 author: 'Cédric Walter'

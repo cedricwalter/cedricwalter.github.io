@@ -1,5 +1,5 @@
 ---
-id: 2072
+
 title: 'Rootkit threat in windows environment'
 date: '2005-10-26T20:54:52+02:00'
 author: 'Cédric Walter'

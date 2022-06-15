@@ -1,5 +1,5 @@
 ---
-id: 8049
+
 title: 'Apache POI contribution patches'
 date: '2013-06-01T11:34:03+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 2395
+
 title: 'Microsoft Vista: Not &#8216;People Ready&#8217;'
 date: '2006-03-24T20:59:58+01:00'
 author: 'Cédric Walter'

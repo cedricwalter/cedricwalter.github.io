@@ -1,5 +1,5 @@
 ---
-id: 8333
+
 title: 'Employee satisfaction survey'
 date: '2016-03-11T20:12:38+01:00'
 author: 'Cédric Walter'

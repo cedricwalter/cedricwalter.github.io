@@ -1,5 +1,5 @@
 ---
-id: 8003
+
 title: 'Apache POI list of Excel supported functions'
 date: '2013-04-15T09:33:02+02:00'
 author: 'Cédric Walter'

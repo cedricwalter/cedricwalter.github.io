@@ -1,5 +1,5 @@
 ---
-id: 12663
+
 title: 'Singapore Gardens by the Bay'
 date: '2020-04-08T14:03:40+02:00'
 author: 'Cédric Walter'

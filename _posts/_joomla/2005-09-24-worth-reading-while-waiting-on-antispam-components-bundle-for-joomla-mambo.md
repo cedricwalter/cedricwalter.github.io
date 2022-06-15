@@ -1,5 +1,5 @@
 ---
-id: 2033
+
 title: 'Worth reading while waiting on Antispam components bundle for Joomla/Mambo'
 date: '2005-09-24T00:08:49+02:00'
 author: 'Cédric Walter'

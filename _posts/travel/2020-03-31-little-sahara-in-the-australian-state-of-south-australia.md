@@ -1,5 +1,5 @@
 ---
-id: 12335
+
 title: 'Little Sahara in the Australian state of South Australia'
 date: '2020-03-31T17:25:42+02:00'
 author: 'Cédric Walter'

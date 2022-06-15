@@ -1,5 +1,5 @@
 ---
-id: 4053
+
 title: 'PS3 Firmware 2.60 brings photo gallery and DivX 3.11'
 date: '2009-01-20T23:01:21+01:00'
 author: 'Cédric Walter'

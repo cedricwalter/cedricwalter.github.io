@@ -1,5 +1,5 @@
 ---
-id: 3969
+
 title: 'ContinuousBuild4Joomla project submitted to JoomlaCode.org'
 date: '2008-12-09T20:46:51+01:00'
 author: 'Cédric Walter'

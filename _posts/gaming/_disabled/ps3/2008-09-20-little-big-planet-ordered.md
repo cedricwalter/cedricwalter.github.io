@@ -1,5 +1,5 @@
 ---
-id: 3823
+
 title: 'Little Big Planet ordered'
 date: '2008-09-20T20:21:32+02:00'
 author: 'Cédric Walter'

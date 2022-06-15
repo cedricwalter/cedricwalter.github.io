@@ -1,5 +1,5 @@
 ---
-id: 11758
+
 title: 'Berlin Cathedral'
 date: '2020-03-31T12:31:12+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 1984
+
 title: 'Latest hashcash, akocomment, akobook code commited'
 date: '2005-08-12T23:47:21+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 8496
+
 title: 'Beware of Certificate Warnings'
 date: '2016-07-27T12:54:50+02:00'
 author: 'Cédric Walter'

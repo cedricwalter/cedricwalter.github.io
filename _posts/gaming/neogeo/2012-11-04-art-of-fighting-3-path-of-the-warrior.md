@@ -1,5 +1,5 @@
 ---
-id: 7912
+
 title: 'Art of Fighting 3: Path of the Warrior'
 date: '2012-11-04T18:43:09+01:00'
 author: 'Cédric Walter'

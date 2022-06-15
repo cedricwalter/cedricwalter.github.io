@@ -1,5 +1,5 @@
 ---
-id: 530
+
 title: 'Mon Bernardet cabri 50cm3 1954'
 date: '2004-08-31T22:19:25+02:00'
 author: 'Cédric Walter'

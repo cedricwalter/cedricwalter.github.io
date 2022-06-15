@@ -1,5 +1,5 @@
 ---
-id: 8150
+
 title: 'Add2Home 1.7.5 for J2.5 / J3.0 / J3.1 Released'
 date: '2013-08-29T20:33:47+02:00'
 author: 'Cédric Walter'

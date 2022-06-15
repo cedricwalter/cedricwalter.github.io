@@ -1,5 +1,5 @@
 ---
-id: 2215
+
 title: 'new version of akocommentPlus'
 date: '2005-12-13T19:48:34+01:00'
 author: 'Cédric Walter'

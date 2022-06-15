@@ -1,5 +1,5 @@
 ---
-id: 5573
+
 title: 'Basic operations with XEN server: export, import of VM templates and guests'
 date: '2010-07-23T21:55:45+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 2561
+
 title: 'NAS @ HOME part 1 building'
 date: '2006-05-23T22:31:03+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 5212
+
 title: 'When using Maven jetty:run, CSS and JavaScript files are never updated'
 date: '2010-05-31T18:08:30+02:00'
 author: 'Cédric Walter'

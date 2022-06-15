@@ -1,5 +1,5 @@
 ---
-id: 1346
+
 title: 'A linux cluster using XBOX'
 date: '2004-11-11T20:09:37+01:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 3439
+
 title: 'MXcomment v1.0.7 now support securityimages 5.X and 4.X'
 date: '2008-05-03T20:37:05+02:00'
 author: 'Cédric Walter'

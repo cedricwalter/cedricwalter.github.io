@@ -1,5 +1,5 @@
 ---
-id: 1894
+
 title: 'What is Linux?'
 date: '2005-07-08T22:00:20+02:00'
 author: 'Cédric Walter'

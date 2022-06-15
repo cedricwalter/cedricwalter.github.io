@@ -1,5 +1,5 @@
 ---
-id: 2052
+
 title: 'Opening and maintaining a new homepage'
 date: '2005-10-08T20:03:44+02:00'
 author: 'Cédric Walter'

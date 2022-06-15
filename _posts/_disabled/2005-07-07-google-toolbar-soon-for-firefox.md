@@ -1,5 +1,5 @@
 ---
-id: 1891
+
 title: 'Google toolbar soon for firefox!'
 date: '2005-07-07T09:37:20+02:00'
 author: 'Cédric Walter'

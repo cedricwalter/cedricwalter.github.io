@@ -1,5 +1,5 @@
 ---
-id: 2653
+
 title: 'Experience OpenComment live on demo.waltercedric.com'
 date: '2006-06-18T16:02:15+02:00'
 author: 'Cédric Walter'

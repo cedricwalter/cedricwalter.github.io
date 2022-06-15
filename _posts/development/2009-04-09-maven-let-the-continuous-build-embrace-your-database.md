@@ -1,5 +1,5 @@
 ---
-id: 4247
+
 title: 'Maven: Let the Continuous Build Embrace Your Database'
 date: '2009-04-09T12:06:43+02:00'
 author: 'Cédric Walter'

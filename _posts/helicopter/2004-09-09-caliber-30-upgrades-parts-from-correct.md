@@ -1,5 +1,5 @@
 ---
-id: 1214
+
 title: 'Caliber 30 upgrades parts from Correct'
 date: '2004-09-09T22:29:03+02:00'
 author: 'Cédric Walter'

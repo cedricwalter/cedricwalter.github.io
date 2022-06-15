@@ -1,5 +1,5 @@
 ---
-id: 2404
+
 title: 'Fiche Ligustrum'
 date: '2006-04-05T19:38:30+02:00'
 author: 'Cédric Walter'

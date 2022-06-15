@@ -1,5 +1,5 @@
 ---
-id: 6978
+
 title: 'Antec Skeleton Design Case'
 date: '2011-07-26T21:17:24+02:00'
 author: 'Cédric Walter'

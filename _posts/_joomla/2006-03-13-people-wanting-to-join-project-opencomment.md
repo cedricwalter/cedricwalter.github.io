@@ -1,5 +1,5 @@
 ---
-id: 2370
+
 title: 'People wanting to join project opencomment'
 date: '2006-03-13T16:20:15+01:00'
 author: 'Cédric Walter'

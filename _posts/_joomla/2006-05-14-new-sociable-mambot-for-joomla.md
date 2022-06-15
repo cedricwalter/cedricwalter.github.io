@@ -1,5 +1,5 @@
 ---
-id: 2528
+
 title: 'new Sociable mambot for Joomla'
 date: '2006-05-14T14:23:21+02:00'
 author: 'Cédric Walter'

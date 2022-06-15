@@ -1,5 +1,5 @@
 ---
-id: 8188
+
 title: 'Start Android Development in 5 Minutes'
 date: '2014-02-03T22:21:51+01:00'
 author: 'Cédric Walter'

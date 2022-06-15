@@ -1,5 +1,5 @@
 ---
-id: 139
+
 title: 'Install a raptor 30 canopy or any other canopy'
 date: '2004-08-26T22:06:01+02:00'
 author: 'Cédric Walter'

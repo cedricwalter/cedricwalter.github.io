@@ -1,5 +1,5 @@
 ---
-id: 4470
+
 title: 'Useful Unix/Linux bash functions'
 date: '2009-06-22T20:41:52+02:00'
 author: 'Cédric Walter'

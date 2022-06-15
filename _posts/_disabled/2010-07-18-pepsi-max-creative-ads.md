@@ -1,5 +1,5 @@
 ---
-id: 5558
+
 title: 'Pepsi Max creative ads'
 date: '2010-07-18T13:33:38+02:00'
 author: 'Cédric Walter'

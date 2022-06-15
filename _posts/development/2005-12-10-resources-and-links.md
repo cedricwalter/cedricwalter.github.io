@@ -1,5 +1,5 @@
 ---
-id: 2198
+
 title: 'Resources and links'
 date: '2005-12-10T22:59:50+01:00'
 author: 'Cédric Walter'

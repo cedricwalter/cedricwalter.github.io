@@ -1,5 +1,5 @@
 ---
-id: 2968
+
 title: 'Welcome to the install of opencomment 3.0.30 BETA'
 date: '2007-05-18T12:48:18+02:00'
 author: 'Cédric Walter'

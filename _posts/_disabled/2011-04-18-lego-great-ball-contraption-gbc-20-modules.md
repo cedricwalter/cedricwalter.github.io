@@ -1,5 +1,5 @@
 ---
-id: 6607
+
 title: 'LEGO Great Ball Contraption (GBC) 20 modules'
 date: '2011-04-18T11:56:43+02:00'
 author: 'Cédric Walter'

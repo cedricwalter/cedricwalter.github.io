@@ -1,5 +1,5 @@
 ---
-id: 4323
+
 title: 'Working in support forum'
 date: '2009-05-09T11:26:13+02:00'
 author: 'Cédric Walter'

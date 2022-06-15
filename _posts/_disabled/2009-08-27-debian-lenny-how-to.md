@@ -1,5 +1,5 @@
 ---
-id: 4580
+
 title: 'Debian Lenny how to'
 date: '2009-08-27T18:07:39+02:00'
 author: 'Cédric Walter'

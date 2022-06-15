@@ -1,5 +1,5 @@
 ---
-id: 4454
+
 title: 'Enterprise Open Source Directory Establishes Advisory Board'
 date: '2009-06-18T09:38:01+02:00'
 author: 'Cédric Walter'

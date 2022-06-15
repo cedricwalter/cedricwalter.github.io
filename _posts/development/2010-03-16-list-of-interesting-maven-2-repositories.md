@@ -1,5 +1,5 @@
 ---
-id: 5063
+
 title: 'List of interesting Maven 2 repositories'
 date: '2010-03-16T21:10:38+01:00'
 author: 'Cédric Walter'

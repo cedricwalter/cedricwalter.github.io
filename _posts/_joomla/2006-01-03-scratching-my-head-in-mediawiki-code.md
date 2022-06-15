@@ -1,5 +1,5 @@
 ---
-id: 2254
+
 title: 'scratching my head in mediawiki code'
 date: '2006-01-03T23:59:31+01:00'
 author: 'Cédric Walter'

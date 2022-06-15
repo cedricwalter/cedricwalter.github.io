@@ -1,5 +1,5 @@
 ---
-id: 4593
+
 title: 'Maven dependencies graph plugin in TeamCity and Eclipse'
 date: '2009-08-27T19:27:39+02:00'
 author: 'Cédric Walter'

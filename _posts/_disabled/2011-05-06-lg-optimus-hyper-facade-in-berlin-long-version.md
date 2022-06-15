@@ -1,5 +1,5 @@
 ---
-id: 6675
+
 title: 'LG Optimus Hyper Facade in Berlin &#8211; Long Version'
 date: '2011-05-06T15:45:09+02:00'
 author: 'Cédric Walter'

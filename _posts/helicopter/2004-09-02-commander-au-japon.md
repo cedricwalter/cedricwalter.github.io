@@ -1,5 +1,5 @@
 ---
-id: 945
+
 title: 'Commander au Japon!'
 date: '2004-09-02T21:58:20+02:00'
 author: 'Cédric Walter'

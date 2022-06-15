@@ -1,5 +1,5 @@
 ---
-id: 3775
+
 title: 'NETGEAR WNR854T, Wireless Router, RangeMax NEXT, Gigabit'
 date: '2008-09-15T14:32:47+02:00'
 author: 'Cédric Walter'

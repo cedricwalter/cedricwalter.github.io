@@ -1,5 +1,5 @@
 ---
-id: 1944
+
 title: 'Google Research Publications'
 date: '2005-07-24T19:51:08+02:00'
 author: 'Cédric Walter'

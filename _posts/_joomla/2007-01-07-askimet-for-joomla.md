@@ -1,5 +1,5 @@
 ---
-id: 2833
+
 title: 'Askimet for Joomla!'
 date: '2007-01-07T11:11:51+01:00'
 author: 'Cédric Walter'

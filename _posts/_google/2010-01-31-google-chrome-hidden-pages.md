@@ -1,5 +1,5 @@
 ---
-id: 5003
+
 title: 'Google Chrome hidden pages'
 date: '2010-01-31T21:34:40+01:00'
 author: 'Cédric Walter'

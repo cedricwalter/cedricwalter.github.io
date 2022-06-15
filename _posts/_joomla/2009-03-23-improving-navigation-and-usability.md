@@ -1,5 +1,5 @@
 ---
-id: 4216
+
 title: 'Improving navigation and usability'
 date: '2009-03-23T18:05:51+01:00'
 author: 'Cédric Walter'

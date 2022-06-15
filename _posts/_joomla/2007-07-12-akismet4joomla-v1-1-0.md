@@ -1,5 +1,5 @@
 ---
-id: 3006
+
 title: 'Akismet4Joomla! v1.1.0'
 date: '2007-07-12T16:16:02+02:00'
 author: 'Cédric Walter'

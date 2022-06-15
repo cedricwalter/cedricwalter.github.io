@@ -1,5 +1,5 @@
 ---
-id: 4322
+
 title: 'Installing Subversion on OpenSuse and Plesk 9'
 date: '2008-03-14T16:02:55+01:00'
 author: 'Cédric Walter'

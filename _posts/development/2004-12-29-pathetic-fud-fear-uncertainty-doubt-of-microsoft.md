@@ -1,5 +1,5 @@
 ---
-id: 1452
+
 title: 'Pathetic (FUD) Fear Uncertainty Doubt of Microsoft'
 date: '2004-12-29T22:29:35+01:00'
 author: 'Cédric Walter'

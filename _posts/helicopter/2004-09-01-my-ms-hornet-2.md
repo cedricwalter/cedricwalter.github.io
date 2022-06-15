@@ -1,5 +1,5 @@
 ---
-id: 843
+
 title: 'My MS Hornet 2'
 date: '2004-09-01T23:03:25+02:00'
 author: 'Cédric Walter'

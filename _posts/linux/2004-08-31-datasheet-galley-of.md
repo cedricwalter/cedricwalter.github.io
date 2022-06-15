@@ -1,5 +1,5 @@
 ---
-id: 492
+
 title: 'Datasheet (galley of)'
 date: '2004-08-31T22:02:50+02:00'
 author: 'Cédric Walter'

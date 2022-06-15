@@ -1,5 +1,5 @@
 ---
-id: 2521
+
 title: 'Interview with Joomla CMS developer team'
 date: '2006-05-10T23:39:55+02:00'
 author: 'Cédric Walter'

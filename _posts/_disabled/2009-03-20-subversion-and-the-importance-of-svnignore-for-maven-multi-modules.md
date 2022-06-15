@@ -1,5 +1,5 @@
 ---
-id: 4201
+
 title: 'Subversion and the importance of svn:ignore for MAVEN multi modules'
 date: '2009-03-20T20:08:55+01:00'
 author: 'Cédric Walter'

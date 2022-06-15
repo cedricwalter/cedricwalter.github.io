@@ -1,5 +1,5 @@
 ---
-id: 4110
+
 title: Doodlebuzz
 date: '2009-02-07T21:07:39+01:00'
 author: 'Cédric Walter'

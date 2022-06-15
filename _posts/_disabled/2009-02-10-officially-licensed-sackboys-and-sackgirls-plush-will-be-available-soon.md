@@ -1,5 +1,5 @@
 ---
-id: 4132
+
 title: 'Officially licensed SackBoys (and SackGirls) plush will be available soon!'
 date: '2009-02-10T23:00:18+01:00'
 author: 'Cédric Walter'

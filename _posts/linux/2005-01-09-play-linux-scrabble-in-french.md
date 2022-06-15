@@ -1,5 +1,5 @@
 ---
-id: 1468
+
 title: 'Play Linux scrabble in french'
 date: '2005-01-09T22:02:59+01:00'
 author: 'Cédric Walter'

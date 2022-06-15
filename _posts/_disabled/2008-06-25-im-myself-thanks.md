@@ -1,5 +1,5 @@
 ---
-id: 3503
+
 title: 'I’m myself, thanks.'
 date: '2008-06-25T00:39:13+02:00'
 author: 'Cédric Walter'

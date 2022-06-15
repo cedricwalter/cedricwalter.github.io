@@ -1,5 +1,5 @@
 ---
-id: 182
+
 title: 'Add a harddisk led to Your XBOX'
 date: '2004-08-26T22:38:17+02:00'
 author: 'Cédric Walter'

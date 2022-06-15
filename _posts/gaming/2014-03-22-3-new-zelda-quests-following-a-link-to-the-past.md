@@ -1,5 +1,5 @@
 ---
-id: 8233
+
 title: '3 New Zelda Quests following a link to the Past'
 date: '2014-03-22T08:57:15+01:00'
 author: 'Cédric Walter'

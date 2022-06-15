@@ -1,5 +1,5 @@
 ---
-id: 8583
+
 title: 'HP calculator museum: Hewlett Packard HP 11C Scientific Calculator'
 date: '2016-09-04T12:07:26+02:00'
 author: 'Cédric Walter'

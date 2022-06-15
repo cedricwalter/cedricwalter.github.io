@@ -1,5 +1,5 @@
 ---
-id: 3067
+
 title: 'Recommended web.xml for JSF'
 date: '2007-09-30T22:05:46+02:00'
 author: 'Cédric Walter'

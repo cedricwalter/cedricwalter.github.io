@@ -1,5 +1,5 @@
 ---
-id: 3069
+
 title: 'Offertsystem VP deployed to production'
 date: '2007-10-01T19:47:05+02:00'
 author: 'Cédric Walter'

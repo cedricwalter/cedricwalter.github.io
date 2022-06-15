@@ -1,5 +1,5 @@
 ---
-id: 1659
+
 title: 'Toshiba preps minute-charge &#8216;miracle&#8217; battery'
 date: '2005-03-30T19:34:12+02:00'
 author: 'Cédric Walter'

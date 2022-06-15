@@ -1,5 +1,5 @@
 ---
-id: 3713
+
 title: 'My new Toy: T-REX 450SE V2'
 date: '2008-08-17T21:23:44+02:00'
 author: 'Cédric Walter'

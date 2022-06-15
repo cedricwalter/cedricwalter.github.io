@@ -1,5 +1,5 @@
 ---
-id: 4829
+
 title: 'Canon PowerShot G11 10MP Digital Camera reviews'
 date: '2009-10-24T22:10:58+02:00'
 author: 'Cédric Walter'

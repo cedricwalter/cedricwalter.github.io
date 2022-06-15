@@ -1,5 +1,5 @@
 ---
-id: 3077
+
 title: 'Debunking some myths about CF / SD memory cards'
 date: '2007-10-06T14:34:44+02:00'
 author: 'Cédric Walter'

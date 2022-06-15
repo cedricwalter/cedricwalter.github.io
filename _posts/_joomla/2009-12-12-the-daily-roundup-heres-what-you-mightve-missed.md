@@ -1,5 +1,5 @@
 ---
-id: 4906
+
 title: 'The daily roundup: here&#8217;s what you might&#8217;ve missed'
 date: '2009-12-12T19:02:10+01:00'
 author: 'Cédric Walter'

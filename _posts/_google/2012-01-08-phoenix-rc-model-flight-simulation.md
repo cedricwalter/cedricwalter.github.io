@@ -1,5 +1,5 @@
 ---
-id: 7418
+
 title: 'Phoenix RC model flight simulation'
 date: '2012-01-08T14:51:00+01:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 2251
+
 title: 'A big thank to the team of www.cineteck-fr.com'
 date: '2006-01-03T14:22:57+01:00'
 author: 'Cédric Walter'

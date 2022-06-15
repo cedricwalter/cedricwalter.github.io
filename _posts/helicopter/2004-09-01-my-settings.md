@@ -1,5 +1,5 @@
 ---
-id: 762
+
 title: 'My Settings'
 date: '2004-09-01T22:41:28+02:00'
 author: 'Cédric Walter'

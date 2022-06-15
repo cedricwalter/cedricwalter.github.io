@@ -1,5 +1,5 @@
 ---
-id: 6279
+
 title: 'I want one of these Dual Tracked Vehicle!'
 date: '2010-09-23T20:20:58+02:00'
 author: 'Cédric Walter'

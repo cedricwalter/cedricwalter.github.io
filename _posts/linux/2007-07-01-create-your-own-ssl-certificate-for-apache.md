@@ -1,5 +1,5 @@
 ---
-id: 3001
+
 title: 'Create Your own SSL certificate for Apache'
 date: '2007-07-01T22:51:39+02:00'
 author: 'Cédric Walter'

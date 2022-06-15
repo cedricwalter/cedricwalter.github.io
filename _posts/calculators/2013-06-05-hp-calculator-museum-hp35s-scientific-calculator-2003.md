@@ -1,5 +1,5 @@
 ---
-id: 8056
+
 title: 'HP calculator museum: Hewlett Packard HP35s Scientific Calculator, 2003'
 date: '2013-06-05T21:22:39+02:00'
 author: 'Cédric Walter'
@@ -17,16 +17,17 @@ tags:
 - rpn
 - scientific
 ---
+HP calculator museum: Hewlett Packard HP35s Scientific Calculator, 2003
 
-![hp35_header](/assets/images/2013/06/hp35_header.png "hp35_header")
-
-The HP 35s is Hewlett-Packard’s top-of-the-line pocket scientific calculator, celebrating the 35th anniversary of the HP
+The HP 35s is Hewlett-Packard’s top-of-the-line pocket scientific calculator. It is celebrating the 35th anniversary of the HP
 35, the first pocket scientific calculator, which was introduced in 1972. It is the successor to the 33s and the famous
 32SII, among others.
 
 Over the 33s, the 35s adds enhanced complex number support, better programmability, EOS instead of AOS-style input in
 algebraic mode, and support for vectors, among other improvements. Essentially, it appears to take a 33s, give it a more
 traditional appearance, and add some of the most important features from the 15C and 42S.
+
+![hp35_header](/assets/images/2013/06/hp35_header.png "hp35_header")
 
 The 35s is also the most powerful calculator approved for use on the NCEES exams.
 

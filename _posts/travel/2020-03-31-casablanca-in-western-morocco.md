@@ -1,5 +1,5 @@
 ---
-id: 11716
+
 title: 'casablanca in western Morocco'
 date: '2020-03-31T12:13:14+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 8745
+
 title: 'MAJOR BLOCKCHAIN CONSENSUS ALGORITHMS AS AN INFOGRAPHICS'
 date: '2019-03-13T18:26:20+01:00'
 author: 'Cédric Walter'

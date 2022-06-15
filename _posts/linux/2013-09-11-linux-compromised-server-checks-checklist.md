@@ -1,5 +1,5 @@
 ---
-id: 8165
+
 title: 'Linux Compromised server checks checklist'
 date: '2013-09-11T13:24:10+02:00'
 author: 'Cédric Walter'

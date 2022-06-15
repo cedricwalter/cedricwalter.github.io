@@ -1,5 +1,5 @@
 ---
-id: 7236
+
 title: 'HP calculator museum: Hewlett Packard HP 40G Graphing Calculator'
 date: '2011-10-22T12:17:45+02:00'
 author: 'Cédric Walter'
@@ -20,6 +20,8 @@ tags:
 - rpn
 - scientific
 ---
+
+HP calculator museum: Hewlett Packard HP 40G Graphing Calculator
 
 ![HP_calculator_museum_Hewlett_Packard_HP40G_Graphing_Calculator](/assets/images/2011/10/HP_calculator_museum_Hewlett_Packard_HP40G_Graphing_Calculator.png "HP_calculator_museum_Hewlett_Packard_HP40G_Graphing_Calculator")
 

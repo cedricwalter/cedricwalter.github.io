@@ -1,5 +1,5 @@
 ---
-id: 59
+
 title: 'Main 92 T gear keeps getting striped.'
 date: '2004-08-26T21:34:29+02:00'
 author: 'Cédric Walter'

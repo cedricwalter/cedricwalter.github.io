@@ -1,5 +1,5 @@
 ---
-id: 4120
+
 title: 'Zurich air traffic on Google maps'
 date: '2009-02-08T00:13:00+01:00'
 author: 'Cédric Walter'

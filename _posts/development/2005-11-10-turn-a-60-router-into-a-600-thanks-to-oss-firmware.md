@@ -1,5 +1,5 @@
 ---
-id: 2102
+
 title: 'Turn a $60 router into a $600 thanks to OSS firmware'
 date: '2005-11-10T23:20:28+01:00'
 author: 'Cédric Walter'

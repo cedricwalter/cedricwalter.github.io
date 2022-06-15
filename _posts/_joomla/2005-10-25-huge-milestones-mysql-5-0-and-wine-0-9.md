@@ -1,5 +1,5 @@
 ---
-id: 2066
+
 title: 'Huge milestones: mysql 5.0 and Wine 0.9'
 date: '2005-10-25T19:13:36+02:00'
 author: 'Cédric Walter'

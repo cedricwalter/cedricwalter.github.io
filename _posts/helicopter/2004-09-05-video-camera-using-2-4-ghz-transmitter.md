@@ -1,5 +1,5 @@
 ---
-id: 1028
+
 title: 'Video Camera: using 2.4 GHz transmitter.'
 date: '2004-09-05T17:02:51+02:00'
 author: 'Cédric Walter'

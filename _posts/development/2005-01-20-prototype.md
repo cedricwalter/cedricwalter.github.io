@@ -1,5 +1,5 @@
 ---
-id: 1513
+
 title: Prototype
 date: '2005-01-20T21:43:24+01:00'
 author: 'Cédric Walter'

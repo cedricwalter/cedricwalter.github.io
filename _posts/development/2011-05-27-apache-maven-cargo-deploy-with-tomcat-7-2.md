@@ -1,5 +1,5 @@
 ---
-id: 6772
+
 title: 'Apache Maven Cargo deploy with Tomcat 7'
 date: '2011-05-27T20:33:42+02:00'
 author: 'Cédric Walter'
@@ -111,7 +111,7 @@ And finally a snippet of an Apache #Maven pom.xml ready to use in a profile, so 
         <tomcat.pwd>admin
         </tomcat.pwd> 
         <!-- these properties must be defined as system property or -D --> 
-        <!-- - deployable.artifactid: artifactId of web application to be deployed --> 
+        <!-- - deployable.artifact
         <!-- - deployable.context: web context name -->
     </properties>
 </profile>

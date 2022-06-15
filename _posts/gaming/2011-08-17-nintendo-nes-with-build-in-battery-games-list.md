@@ -1,5 +1,5 @@
 ---
-id: 7024
+
 title: 'Nintendo NES with Build in Battery Games List'
 date: '2011-08-17T07:58:30+02:00'
 author: 'Cédric Walter'

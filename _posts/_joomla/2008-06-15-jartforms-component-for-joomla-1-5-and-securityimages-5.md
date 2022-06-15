@@ -1,5 +1,5 @@
 ---
-id: 3473
+
 title: 'JArtForms component for Joomla 1.5 and SecurityImages 5'
 date: '2008-06-15T19:21:33+02:00'
 author: 'Cédric Walter'

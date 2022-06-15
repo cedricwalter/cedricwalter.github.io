@@ -1,5 +1,5 @@
 ---
-id: 8748
+
 title: 'The State of Stablecoins 2019: Hype vs. Reality in the Race for Stable, Global, Digital Money'
 date: '2019-03-13T18:35:29+01:00'
 author: 'Cédric Walter'

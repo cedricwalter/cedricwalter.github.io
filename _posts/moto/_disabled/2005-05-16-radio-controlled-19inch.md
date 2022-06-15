@@ -1,5 +1,5 @@
 ---
-id: 1745
+
 title: 'Radio controlled 19inch'
 date: '2005-05-16T20:40:47+02:00'
 author: 'Cédric Walter'

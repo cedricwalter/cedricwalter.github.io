@@ -1,5 +1,5 @@
 ---
-id: 5786
+
 title: 'Next frontier Bank Scammers are now using Viadeo, LinkedIn and XING'
 date: '2010-08-26T15:04:18+02:00'
 author: 'Cédric Walter'

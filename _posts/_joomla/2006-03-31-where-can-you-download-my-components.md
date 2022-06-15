@@ -1,5 +1,5 @@
 ---
-id: 2402
+
 title: 'Where can You download my components?'
 date: '2006-03-31T23:52:59+02:00'
 author: 'Cédric Walter'

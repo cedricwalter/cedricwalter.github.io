@@ -1,5 +1,5 @@
 ---
-id: 2060
+
 title: 'Tamiflu, Protection from H5N1'
 date: '2005-10-21T14:13:32+02:00'
 author: 'Cédric Walter'

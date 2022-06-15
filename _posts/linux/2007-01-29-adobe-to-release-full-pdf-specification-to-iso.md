@@ -1,5 +1,5 @@
 ---
-id: 2858
+
 title: 'Adobe To Release Full PDF Specification to ISO'
 date: '2007-01-29T21:49:30+01:00'
 author: 'Cédric Walter'

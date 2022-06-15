@@ -1,5 +1,5 @@
 ---
-id: 1893
+
 title: 'Why You should not trust Microsoft antispyware!'
 date: '2005-07-08T10:25:40+02:00'
 author: 'Cédric Walter'

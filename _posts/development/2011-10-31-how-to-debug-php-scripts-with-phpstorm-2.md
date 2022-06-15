@@ -1,5 +1,5 @@
 ---
-id: 7266
+
 title: 'How To Debug PHP scripts with PhpStorm'
 date: '2011-10-31T20:55:56+01:00'
 author: 'Cédric Walter'

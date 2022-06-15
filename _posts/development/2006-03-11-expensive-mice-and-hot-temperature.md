@@ -1,5 +1,5 @@
 ---
-id: 2361
+
 title: 'expensive mice and hot temperature'
 date: '2006-03-11T10:22:10+01:00'
 author: 'Cédric Walter'

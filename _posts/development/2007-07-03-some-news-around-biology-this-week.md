@@ -1,5 +1,5 @@
 ---
-id: 3003
+
 title: 'Some news around biology this week'
 date: '2007-07-03T20:55:14+02:00'
 author: 'Cédric Walter'

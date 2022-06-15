@@ -1,5 +1,5 @@
 ---
-id: 6904
+
 title: 'HP calculator museum: Hewlett Packard HP 50g Graphing Calculator'
 date: '2011-07-14T21:29:00+02:00'
 author: 'Cédric Walter'
@@ -20,12 +20,14 @@ tags:
 - scientific
 ---
 
-[![hp50gGraphingCalculator](/assets/images/2011/07/hp50gGraphingCalculator_thumb.jpg "hp50gGraphingCalculator")](/assets/images/2011/07/hp50gGraphingCalculator.jpg)
+HP calculator museum: Hewlett Packard HP 50g Graphing Calculator
 
 The ultimate graphing calculator for surveying, engineering, math and science professionals and students is even better.
 The new HP 50g graphing calculator features an SD card slot with formatting functions, RPN~, Algebraic and Textbook data
 entry, the largest high-contrast screen with more usable space than ever, serial port and USB and connectivity. Plus, HP
 Solve, structured programming and Computer Algebra System (CAS).
+
+[![hp50gGraphingCalculator](/assets/images/2011/07/hp50gGraphingCalculator_thumb.jpg "hp50gGraphingCalculator")](/assets/images/2011/07/hp50gGraphingCalculator.jpg)
 
 This calculator is also having the MetaKernel build in and the picture I did pixel by pixel on 20th march 1998 signed
 “CW” in the bottom left corner when you cold start it (ON-C no data loss, just a software reset). This work with any

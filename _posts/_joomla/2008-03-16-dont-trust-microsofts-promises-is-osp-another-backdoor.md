@@ -1,5 +1,5 @@
 ---
-id: 3268
+
 title: 'Don&#8217;t trust Microsoft&#8217;s promises: is OSP another  backdoor'
 date: '2008-03-16T21:37:23+01:00'
 author: 'Cédric Walter'

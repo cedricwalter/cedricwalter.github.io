@@ -1,5 +1,5 @@
 ---
-id: 4578
+
 title: 'KDE 4.3 released yesterday'
 date: '2009-08-05T19:36:16+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 2263
+
 title: 'Online Tutorial, remarks concerning install'
 date: '2006-01-06T23:52:14+01:00'
 author: 'Cédric Walter'

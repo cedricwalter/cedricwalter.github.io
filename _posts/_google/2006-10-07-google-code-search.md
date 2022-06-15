@@ -1,5 +1,5 @@
 ---
-id: 2715
+
 title: 'Google code search'
 date: '2006-10-07T10:27:20+02:00'
 author: 'Cédric Walter'

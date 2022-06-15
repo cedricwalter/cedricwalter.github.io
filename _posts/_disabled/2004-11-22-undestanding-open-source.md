@@ -1,5 +1,5 @@
 ---
-id: 1385
+
 title: 'Undestanding open source'
 date: '2004-11-22T23:23:49+01:00'
 author: 'Cédric Walter'

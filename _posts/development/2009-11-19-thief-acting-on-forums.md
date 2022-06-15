@@ -1,5 +1,5 @@
 ---
-id: 4882
+
 title: 'Thief acting on forums'
 date: '2009-11-19T17:55:34+01:00'
 author: 'Cédric Walter'

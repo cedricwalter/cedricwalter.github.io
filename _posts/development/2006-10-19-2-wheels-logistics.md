@@ -1,5 +1,5 @@
 ---
-id: 2726
+
 title: '2 wheels logistics'
 date: '2006-10-19T22:59:42+02:00'
 author: 'Cédric Walter'

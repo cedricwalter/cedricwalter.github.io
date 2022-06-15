@@ -1,5 +1,5 @@
 ---
-id: 1759
+
 title: 'open source IBM Cell processor library?'
 date: '2005-05-25T08:31:26+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 2988
+
 title: 'Commitment to Joomla! 1.5'
 date: '2007-05-27T16:37:19+02:00'
 author: 'Cédric Walter'

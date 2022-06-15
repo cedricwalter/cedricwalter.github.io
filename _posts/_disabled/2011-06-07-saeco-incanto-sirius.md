@@ -1,5 +1,5 @@
 ---
-id: 6829
+
 title: 'Saeco Incanto Sirius'
 date: '2011-06-07T06:19:15+02:00'
 author: 'Cédric Walter'

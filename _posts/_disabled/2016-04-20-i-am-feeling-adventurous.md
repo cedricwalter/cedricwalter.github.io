@@ -1,5 +1,5 @@
 ---
-id: 8370
+
 title: 'I am feeling adventurous'
 date: '2016-04-20T19:42:07+02:00'
 author: 'Cédric Walter'

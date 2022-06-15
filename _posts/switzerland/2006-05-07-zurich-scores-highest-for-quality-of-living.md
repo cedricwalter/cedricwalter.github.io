@@ -1,5 +1,5 @@
 ---
-id: 2518
+
 title: 'Zurich scores highest for quality of living'
 date: '2006-05-07T20:31:29+02:00'
 author: 'Cédric Walter'

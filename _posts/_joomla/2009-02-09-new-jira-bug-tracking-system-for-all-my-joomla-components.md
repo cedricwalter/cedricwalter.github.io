@@ -1,5 +1,5 @@
 ---
-id: 4125
+
 title: 'New JIRA Bug Tracking system for all my Joomla! components!'
 date: '2009-02-09T19:35:32+01:00'
 author: 'Cédric Walter'

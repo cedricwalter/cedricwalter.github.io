@@ -1,5 +1,5 @@
 ---
-id: 1223
+
 title: 'Linux reach new level in usability'
 date: '2004-09-17T21:46:28+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 2375
+
 title: 'Eclipse bundle: welcome Calisto'
 date: '2006-03-17T15:42:12+01:00'
 author: 'Cédric Walter'

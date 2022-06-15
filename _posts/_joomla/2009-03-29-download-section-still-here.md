@@ -1,5 +1,5 @@
 ---
-id: 4237
+
 title: 'Download section still here'
 date: '2009-03-29T22:10:15+02:00'
 author: 'Cédric Walter'

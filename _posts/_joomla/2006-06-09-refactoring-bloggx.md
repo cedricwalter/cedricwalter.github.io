@@ -1,5 +1,5 @@
 ---
-id: 2645
+
 title: 'Refactoring BloggX'
 date: '2006-06-09T18:34:20+02:00'
 author: 'Cédric Walter'

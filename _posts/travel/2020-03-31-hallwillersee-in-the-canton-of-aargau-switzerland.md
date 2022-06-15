@@ -1,5 +1,5 @@
 ---
-id: 11710
+
 title: 'Hallwillersee in the Canton of Aargau, Switzerland'
 date: '2020-03-31T12:04:48+02:00'
 author: 'Cédric Walter'

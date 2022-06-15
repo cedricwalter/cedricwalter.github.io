@@ -1,5 +1,5 @@
 ---
-id: 978
+
 title: 'Hewlett Packard MetaKernel unofficial site'
 date: '2004-09-02T22:17:53+02:00'
 author: 'Cédric Walter'

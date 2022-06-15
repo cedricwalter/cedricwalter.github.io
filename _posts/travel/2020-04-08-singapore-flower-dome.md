@@ -1,5 +1,5 @@
 ---
-id: 12683
+
 title: 'Singapore Flower Dome'
 date: '2020-04-08T14:22:27+02:00'
 author: 'Cédric Walter'

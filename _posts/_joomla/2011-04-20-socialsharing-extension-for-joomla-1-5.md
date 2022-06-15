@@ -1,5 +1,5 @@
 ---
-id: 6624
+
 title: 'socialsharing extension for Joomla! 1.5'
 date: '2011-04-20T20:08:20+02:00'
 author: 'Cédric Walter'

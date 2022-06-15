@@ -1,5 +1,5 @@
 ---
-id: 2270
+
 title: 'New Project: joomlacloud at joomla.org'
 date: '2006-01-08T20:22:51+01:00'
 author: 'Cédric Walter'

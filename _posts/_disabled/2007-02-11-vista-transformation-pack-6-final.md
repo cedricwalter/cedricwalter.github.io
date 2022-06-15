@@ -1,5 +1,5 @@
 ---
-id: 2872
+
 title: 'Vista Transformation Pack 6 Final'
 date: '2007-02-11T21:37:58+01:00'
 author: 'Cédric Walter'

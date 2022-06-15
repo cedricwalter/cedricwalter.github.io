@@ -1,5 +1,5 @@
 ---
-id: 4252
+
 title: 'Migrating from Ant to Maven: A JBoss Perspective'
 date: '2009-04-11T14:35:03+02:00'
 author: 'Cédric Walter'

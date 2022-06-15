@@ -1,5 +1,5 @@
 ---
-id: 7238
+
 title: 'Related Thumb Article plugin 3.1.1 For Joomla 1.7'
 date: '2011-10-24T20:42:30+02:00'
 author: 'Cédric Walter'

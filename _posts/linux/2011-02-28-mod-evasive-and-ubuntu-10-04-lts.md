@@ -1,5 +1,5 @@
 ---
-id: 6560
+
 title: 'Mod-Evasive and Ubuntu 10.04 LTS'
 date: '2011-02-28T20:13:06+01:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 8760
+
 title: 'Star Wars: The Rise Of Skywalker'
 date: '2019-08-26T21:06:02+02:00'
 author: 'Cédric Walter'

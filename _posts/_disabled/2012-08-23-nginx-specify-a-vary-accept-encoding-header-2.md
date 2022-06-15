@@ -1,5 +1,5 @@
 ---
-id: 7805
+
 title: 'Nginx Specify a Vary: Accept-Encoding header'
 date: '2012-08-23T19:33:32+02:00'
 author: 'Cédric Walter'

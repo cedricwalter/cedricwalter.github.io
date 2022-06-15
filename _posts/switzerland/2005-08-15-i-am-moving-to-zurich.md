@@ -1,5 +1,5 @@
 ---
-id: 1995
+
 title: 'I am moving to Zurich!'
 date: '2005-08-15T22:33:20+02:00'
 author: 'Cédric Walter'

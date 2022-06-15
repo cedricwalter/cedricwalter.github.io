@@ -1,5 +1,5 @@
 ---
-id: 1505
+
 title: Flyweight
 date: '2005-01-20T21:35:04+01:00'
 author: 'Cédric Walter'

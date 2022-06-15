@@ -1,5 +1,5 @@
 ---
-id: 3023
+
 title: 'RKHunter &#8211; RootKit Hunter'
 date: '2007-07-20T00:57:13+02:00'
 author: 'Cédric Walter'

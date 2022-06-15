@@ -1,5 +1,5 @@
 ---
-id: 4519
+
 title: 'Photofeed version 1.1'
 date: '2009-07-07T23:25:12+02:00'
 author: 'Cédric Walter'

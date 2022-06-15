@@ -1,5 +1,5 @@
 ---
-id: 6667
+
 title: 'Improving the download section'
 date: '2011-04-26T21:36:50+02:00'
 author: 'Cédric Walter'

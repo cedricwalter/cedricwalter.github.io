@@ -1,5 +1,5 @@
 ---
-id: 3100
+
 title: 'Canon HG10 or Sony SR7/SR8?'
 date: '2007-11-07T18:32:41+01:00'
 author: 'Cédric Walter'

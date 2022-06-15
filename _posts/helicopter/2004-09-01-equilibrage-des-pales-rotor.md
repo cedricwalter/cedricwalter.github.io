@@ -1,5 +1,5 @@
 ---
-id: 937
+
 title: 'Equilibrage des pales rotor'
 date: '2004-09-01T23:48:54+02:00'
 author: 'Cédric Walter'

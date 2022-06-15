@@ -1,5 +1,5 @@
 ---
-id: 12859
+
 title: 'Bar Rouge Singapore in Swissôtel The Stamford'
 date: '2020-04-10T16:59:29+02:00'
 author: 'Cédric Walter'

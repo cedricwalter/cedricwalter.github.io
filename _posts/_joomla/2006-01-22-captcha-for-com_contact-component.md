@@ -1,5 +1,5 @@
 ---
-id: 2288
+
 title: 'captcha for com_contact component'
 date: '2006-01-22T10:53:54+01:00'
 author: 'Cédric Walter'

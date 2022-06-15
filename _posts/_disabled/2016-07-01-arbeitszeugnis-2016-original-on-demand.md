@@ -1,5 +1,5 @@
 ---
-id: 8400
+
 title: 'ArbeitsZeugnis 2016 (original on demand)'
 date: '2016-07-01T10:13:23+02:00'
 author: 'Cédric Walter'

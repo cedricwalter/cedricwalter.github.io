@@ -1,5 +1,5 @@
 ---
-id: 3019
+
 title: 'ConfigServer Security &#038; Firewall (csf)'
 date: '2007-07-18T23:41:01+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 2031
+
 title: 'Sony HS50 ordered'
 date: '2005-09-16T00:43:19+02:00'
 author: 'Cédric Walter'

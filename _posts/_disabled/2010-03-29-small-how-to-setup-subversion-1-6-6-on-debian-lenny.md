@@ -1,5 +1,5 @@
 ---
-id: 5121
+
 title: 'Small How to setup Subversion 1.6.6 on Debian Lenny'
 date: '2010-03-29T17:44:48+02:00'
 author: 'Cédric Walter'

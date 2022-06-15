@@ -1,5 +1,5 @@
 ---
-id: 4100
+
 title: 'Extensions for Google Chrome are Coming'
 date: '2009-02-07T17:47:43+01:00'
 author: 'Cédric Walter'

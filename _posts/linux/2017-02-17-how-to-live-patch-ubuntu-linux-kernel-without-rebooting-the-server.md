@@ -1,5 +1,5 @@
 ---
-id: 8604
+
 title: 'How to live patch Ubuntu Linux Kernel without rebooting the server'
 date: '2017-02-17T09:30:09+01:00'
 author: 'Cédric Walter'
@@ -52,5 +52,5 @@ Successfully enabled device. Using machine-token: 5e37xxxxxxxxxxxxxxxxxxxxxxxxxx
 canonical-livepatch status –verbose
 
 ```
-client-version: "6" machine-id: 6e2xxxxxxxxxxxxxxxxxxxxx machine-token: 0c38xxxxxxxxxxxxxxxxxxxxxxxxxxxx architecture: x86_64 cpu-model: Intel(R) Xeon(R) CPU           W3520  @ 2.67GHz last-check: 2017-02-17T10:18:14.094602474+01:00 boot-time: 2017-02-08T14:40:20+01:00 uptime: 211h38m28s status: - kernel: 4.4.0-62.83-generic   running: true   livepatch:     checkState: checked     patchState: nothing-to-apply     version: ""     fixes: ""
+client-version: "6" machine-
 ```

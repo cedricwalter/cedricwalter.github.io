@@ -1,5 +1,5 @@
 ---
-id: 2735
+
 title: 'Pumpkin Carving'
 date: '2006-10-28T22:30:56+02:00'
 author: 'Cédric Walter'

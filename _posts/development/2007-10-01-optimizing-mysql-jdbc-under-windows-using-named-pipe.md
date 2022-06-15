@@ -1,5 +1,5 @@
 ---
-id: 3071
+
 title: 'Optimizing MySQL jdbc under windows using named pipe'
 date: '2007-10-01T21:48:33+02:00'
 author: 'Cédric Walter'

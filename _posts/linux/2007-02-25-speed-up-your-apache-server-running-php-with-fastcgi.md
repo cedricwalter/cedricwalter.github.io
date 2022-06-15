@@ -1,5 +1,5 @@
 ---
-id: 2891
+
 title: 'Speed up your apache server running PHP with fastCGI'
 date: '2007-02-25T22:21:17+01:00'
 author: 'Cédric Walter'

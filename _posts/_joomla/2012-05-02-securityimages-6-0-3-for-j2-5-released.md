@@ -1,5 +1,5 @@
 ---
-id: 7605
+
 title: 'SecurityImages 6.0.3 for J2.5 Released'
 date: '2012-05-02T20:52:24+02:00'
 author: 'Cédric Walter'

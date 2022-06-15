@@ -1,5 +1,5 @@
 ---
-id: 6019
+
 title: 'Smugmug Random Picture plugin'
 date: '2010-09-14T19:16:28+02:00'
 author: 'Cédric Walter'

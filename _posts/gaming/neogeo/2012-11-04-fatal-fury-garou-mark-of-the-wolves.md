@@ -1,5 +1,5 @@
 ---
-id: 7897
+
 title: 'Fatal Fury: Garou: Mark of the Wolves'
 date: '2012-11-04T18:38:41+01:00'
 author: 'Cédric Walter'

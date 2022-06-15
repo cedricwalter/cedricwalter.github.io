@@ -1,5 +1,5 @@
 ---
-id: 6064
+
 title: 'Arcade Legends – Sega Genesis 6 in 1'
 date: '2010-09-22T18:14:01+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 2828
+
 title: 'Useful XHTML Character Entities'
 date: '2007-01-06T14:05:53+01:00'
 author: 'Cédric Walter'

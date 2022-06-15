@@ -1,5 +1,5 @@
 ---
-id: 6796
+
 title: 'Nintendo Game and Watch GreenHouse'
 date: '2011-06-04T14:14:02+02:00'
 author: 'Cédric Walter'

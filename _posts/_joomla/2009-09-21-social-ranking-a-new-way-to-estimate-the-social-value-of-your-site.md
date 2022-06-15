@@ -1,5 +1,5 @@
 ---
-id: 4627
+
 title: 'Social ranking: a new way to estimate the social value of your site'
 date: '2009-09-21T21:45:03+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 8691
+
 title: 'How to accept Bitcoin on a website using Electrum and Letsencrypt'
 date: '2017-12-14T09:12:46+01:00'
 author: 'Cédric Walter'

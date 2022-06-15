@@ -1,5 +1,5 @@
 ---
-id: 2073
+
 title: 'eBanking applications change their login mechanism'
 date: '2005-10-26T21:39:48+02:00'
 author: 'Cédric Walter'

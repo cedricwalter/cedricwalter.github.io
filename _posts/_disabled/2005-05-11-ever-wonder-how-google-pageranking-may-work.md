@@ -1,5 +1,5 @@
 ---
-id: 1720
+
 title: 'Ever wonder How google pageranking may work?'
 date: '2005-05-11T20:22:31+02:00'
 author: 'Cédric Walter'

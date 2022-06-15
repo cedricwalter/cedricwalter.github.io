@@ -1,5 +1,5 @@
 ---
-id: 3198
+
 title: 'Related Articles 1.5.0 content plugin'
 date: '2008-02-29T21:35:10+01:00'
 author: 'Cédric Walter'

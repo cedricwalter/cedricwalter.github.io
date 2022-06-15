@@ -1,5 +1,5 @@
 ---
-id: 1003
+
 title: 'Features, characteristics'
 date: '2004-09-05T16:36:29+02:00'
 author: 'Cédric Walter'

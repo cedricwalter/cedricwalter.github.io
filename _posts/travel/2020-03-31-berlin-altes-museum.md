@@ -1,5 +1,5 @@
 ---
-id: 11818
+
 title: 'Berlin Altes Museum'
 date: '2020-03-31T12:48:20+02:00'
 author: 'Cédric Walter'

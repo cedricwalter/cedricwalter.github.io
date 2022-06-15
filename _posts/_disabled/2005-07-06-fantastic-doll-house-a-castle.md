@@ -1,5 +1,5 @@
 ---
-id: 1853
+
 title: 'Fantastic Doll House: a castle'
 date: '2005-07-06T19:30:59+02:00'
 author: 'Cédric Walter'

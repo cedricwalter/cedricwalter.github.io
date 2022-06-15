@@ -1,5 +1,5 @@
 ---
-id: 4603
+
 title: 'JSF static analysis in your build with Maven'
 date: '2009-09-05T14:38:55+02:00'
 author: 'Cédric Walter'

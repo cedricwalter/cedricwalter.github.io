@@ -1,5 +1,5 @@
 ---
-id: 2705
+
 title: 'eCenter solutions'
 date: '2006-09-22T10:23:06+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 2505
+
 title: 'ATV Quad Bombardier manuals'
 date: '2006-04-30T20:13:55+02:00'
 author: 'Cédric Walter'

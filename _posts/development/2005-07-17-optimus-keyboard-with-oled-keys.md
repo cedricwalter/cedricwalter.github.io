@@ -1,5 +1,5 @@
 ---
-id: 1923
+
 title: 'Optimus keyboard: with oled keys!'
 date: '2005-07-17T16:30:21+02:00'
 author: 'Cédric Walter'

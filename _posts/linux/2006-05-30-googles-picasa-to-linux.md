@@ -1,5 +1,5 @@
 ---
-id: 2634
+
 title: 'Google&#8217;s Picasa to Linux.'
 date: '2006-05-30T13:15:46+02:00'
 author: 'Cédric Walter'

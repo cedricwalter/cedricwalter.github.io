@@ -1,5 +1,5 @@
 ---
-id: 1810
+
 title: 'SuSE 9.3 reviews'
 date: '2005-07-01T08:33:07+02:00'
 author: 'Cédric Walter'

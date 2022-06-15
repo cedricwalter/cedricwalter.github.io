@@ -1,5 +1,5 @@
 ---
-id: 5182
+
 title: 'Joomla! 1.5.17 released'
 date: '2010-05-03T19:43:42+02:00'
 author: 'Cédric Walter'

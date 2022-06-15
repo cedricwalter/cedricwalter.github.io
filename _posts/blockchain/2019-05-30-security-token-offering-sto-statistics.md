@@ -1,5 +1,5 @@
 ---
-id: 8752
+
 title: 'Security Token Offering (STO) statistics'
 date: '2019-05-30T14:31:39+02:00'
 author: 'Cédric Walter'

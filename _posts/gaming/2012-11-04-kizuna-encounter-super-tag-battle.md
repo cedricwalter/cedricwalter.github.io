@@ -1,5 +1,5 @@
 ---
-id: 7878
+
 title: 'Kizuna Encounter: Super Tag Battle'
 date: '2012-11-04T18:34:27+01:00'
 author: 'Cédric Walter'

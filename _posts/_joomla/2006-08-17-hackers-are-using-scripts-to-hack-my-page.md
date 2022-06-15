@@ -1,5 +1,5 @@
 ---
-id: 2683
+
 title: 'Hackers  are using scripts to hack my page&#8230;'
 date: '2006-08-17T21:38:37+02:00'
 author: 'Cédric Walter'

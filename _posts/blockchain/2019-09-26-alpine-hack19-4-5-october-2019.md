@@ -1,5 +1,5 @@
 ---
-id: 8776
+
 title: "#ALPINE-HACK19 4\_– 5 October, 2019"
 date: '2019-09-26T09:48:42+02:00'
 author: 'Cédric Walter'

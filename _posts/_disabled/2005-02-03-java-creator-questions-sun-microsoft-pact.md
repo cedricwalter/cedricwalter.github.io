@@ -1,5 +1,5 @@
 ---
-id: 1557
+
 title: 'Java creator questions Sun/Microsoft pact'
 date: '2005-02-03T19:50:26+01:00'
 author: 'Cédric Walter'

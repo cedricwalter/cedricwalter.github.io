@@ -1,5 +1,5 @@
 ---
-id: 2032
+
 title: 'Release 1.1! Antispam components bundle for Joomla/Mambo'
 date: '2005-09-21T21:17:52+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 536
+
 title: 'moteur 3300 en eclate'
 date: '2004-08-31T22:33:30+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 4836
+
 title: 'All Neo Geo AES Games'
 date: '2009-10-25T00:42:52+02:00'
 author: 'Cédric Walter'

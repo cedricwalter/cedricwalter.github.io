@@ -1,5 +1,5 @@
 ---
-id: 1157
+
 title: 'Utility of a governor, and throttle curves'
 date: '2004-09-08T23:31:27+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 2345
+
 title: 'Aspect-oriented programming'
 date: '2006-03-04T11:19:56+01:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 8007
+
 title: 'Use the latest nginx in Ubuntu 12.04 Precise Pangolin'
 date: '2013-04-19T20:56:17+02:00'
 author: 'Cédric Walter'

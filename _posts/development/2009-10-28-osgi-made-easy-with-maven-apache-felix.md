@@ -1,5 +1,5 @@
 ---
-id: 4850
+
 title: 'OSGi made easy with Maven Apache Felix'
 date: '2009-10-28T18:01:24+01:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 2196
+
 title: 'XBOX 360 hacking has start and XBOX 1 hack flashback'
 date: '2005-12-05T23:17:22+01:00'
 author: 'Cédric Walter'

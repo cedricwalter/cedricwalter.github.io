@@ -1,5 +1,5 @@
 ---
-id: 1212
+
 title: 'An original way to mount the sensor'
 date: '2004-09-09T22:18:10+02:00'
 author: 'Cédric Walter'

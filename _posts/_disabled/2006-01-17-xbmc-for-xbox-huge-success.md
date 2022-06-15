@@ -1,5 +1,5 @@
 ---
-id: 2285
+
 title: 'XBMC for XBOX: huge success'
 date: '2006-01-17T21:58:53+01:00'
 author: 'Cédric Walter'

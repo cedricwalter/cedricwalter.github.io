@@ -1,5 +1,5 @@
 ---
-id: 2889
+
 title: 'Speed up your apache server with mod_cache'
 date: '2007-02-25T22:06:38+01:00'
 author: 'Cédric Walter'

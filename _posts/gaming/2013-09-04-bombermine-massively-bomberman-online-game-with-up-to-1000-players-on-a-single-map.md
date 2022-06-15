@@ -1,5 +1,5 @@
 ---
-id: 8158
+
 title: 'Bombermine — Massively Bomberman Online game with up to 1000 players on a single map'
 date: '2013-09-04T18:13:48+02:00'
 author: 'Cédric Walter'

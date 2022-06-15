@@ -1,5 +1,5 @@
 ---
-id: 2358
+
 title: 'Com_joomlacloud under heavy development'
 date: '2006-03-09T09:49:10+01:00'
 author: 'Cédric Walter'

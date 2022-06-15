@@ -1,5 +1,5 @@
 ---
-id: 910
+
 title: Autopilot
 date: '2004-09-01T23:29:29+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 12469
+
 title: 'Mount Lofty in South Australia'
 date: '2020-04-01T17:07:45+02:00'
 author: 'Cédric Walter'

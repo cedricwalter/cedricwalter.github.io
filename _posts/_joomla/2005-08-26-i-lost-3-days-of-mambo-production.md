@@ -1,5 +1,5 @@
 ---
-id: 2008
+
 title: 'I lost 3 days of Mambo production'
 date: '2005-08-26T19:17:57+02:00'
 author: 'Cédric Walter'

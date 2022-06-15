@@ -1,5 +1,5 @@
 ---
-id: 150
+
 title: 'header tank'
 date: '2004-08-26T22:11:25+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 8727
+
 title: 'Init7 TV7 and VLC under windows 10'
 date: '2018-05-25T20:17:37+02:00'
 author: 'Cédric Walter'

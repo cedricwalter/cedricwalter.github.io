@@ -1,5 +1,5 @@
 ---
-id: 1238
+
 title: 'Micro Heli T REX 450'
 date: '2004-10-02T20:52:07+02:00'
 author: 'Cédric Walter'

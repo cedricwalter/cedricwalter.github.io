@@ -1,5 +1,5 @@
 ---
-id: 1330
+
 title: 'Notre pÃ¨re Bill Gates'
 date: '2004-10-18T12:03:16+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 8052
+
 title: 'HP calculator museum: Hewlett Packard HP39+ student graphic calculator, 2003'
 date: '2013-06-05T20:58:17+02:00'
 author: 'Cédric Walter'
@@ -17,6 +17,7 @@ tags:
 - rpn
 - scientific
 ---
+HP calculator museum: Hewlett Packard HP39+ student graphic calculator, 2003
 
 # HP-39g series calculators are the successors of HP-38G.
 

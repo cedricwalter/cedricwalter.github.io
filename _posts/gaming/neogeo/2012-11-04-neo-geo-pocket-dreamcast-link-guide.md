@@ -1,5 +1,5 @@
 ---
-id: 7922
+
 title: 'Neo Geo Pocket/Dreamcast Link 
 date: '2012-11-04T18:46:11+01:00'
 author: 'Cédric Walter'

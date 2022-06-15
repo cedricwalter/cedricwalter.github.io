@@ -1,5 +1,5 @@
 ---
-id: 5012
+
 title: 'iPad Keynote in less than 180 Seconds: Incredible, Beautiful, Amazing!'
 date: '2010-02-04T12:27:35+01:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 4693
+
 title: 'Mobile Action i-gotU GT-200E GPS Data logger review'
 date: '2009-09-25T23:53:43+02:00'
 author: 'Cédric Walter'

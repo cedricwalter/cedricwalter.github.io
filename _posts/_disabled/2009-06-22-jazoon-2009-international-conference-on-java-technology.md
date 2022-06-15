@@ -1,5 +1,5 @@
 ---
-id: 4467
+
 title: 'JAZOON 2009: International conference on Java technology'
 date: '2009-06-22T19:56:20+02:00'
 author: 'Cédric Walter'
@@ -39,7 +39,7 @@ Kalanderplatz 8
 - 13:30 – 14:20 Arena 6 [(9021) Metro Web Services Security Usage Scenarios](http://jazoon.com/en/conference/presentations/tl/9021) ([Harold Carr – Sun Microsystems, Inc](http://jazoon.com/en/conference/authors/Harold_Carr) and [Jiandong Guo – Sun Microsystems, Inc](http://jazoon.com/en/conference/authors/Jiandong_Guo))
 - 14:30 – 15:20 Arena 7 [(7460) Automation of Multi-Threaded Testing using Byteman](http://jazoon.com/en/conference/presentations/tl/7460) ([Andrew Dinn – JBoss, A Division of Red Hat](http://jazoon.com/en/conference/authors/Andrew_Dinn) and [Jonathan Halliday – JBoss, A Division of Red Hat](http://jazoon.com/en/conference/authors/Jonathan_Halliday))
 - 16:00 – 16:20 Arena 6 [(6220) Hibernate Envers – Entity Auditing](http://jazoon.com/en/conference/presentations/ts/6220) ([Adam Warski – Level N Consulting](http://jazoon.com/en/conference/authors/Adam_Warski) )
-- 16:30 – 16:50 [(8741) JavaFX / Android: Competing technologies or the ideal partnership?](http://jazoon.com/en/conference/presentations/ts/8741) ([Mike Mannion – Canoo Engineering AG](http://jazoon.com/en/conference/authors/Mike_Mannion) and [Andreas Hölzl – Canoo Engineering AG](http://jazoon.com/en/conference/authors/Andreas_H%f6lzl) )
+- 16:30 – 16:50 [(8741) JavaFX / Andro
 - 17:00 – 17:20 Arena 5 [(9700) DesignWizard: A Tool that Gives Support to Automatically Check Your Code Against Design Rules](http://jazoon.com/en/conference/presentations/rc/9700) ([João Arthur Brunet Monteiro – Federal University of Campina Grande](http://jazoon.com/en/conference/authors/Jo%e3o+Arthur_Brunet+Monteiro) )
 - 17:30 – 17:50 Arena 5 [(8340) Modern Times in Software Quality Engineering](http://jazoon.com/en/conference/presentations/rc/8340) ([Bettina Polasek – AdNovum Informatik AG](http://jazoon.com/en/conference/authors/Bettina_Polasek) )
 - 18:00 – 18:20 [(9760) Showing a real 3D with JavaFX](http://jazoon.com/en/conference/presentations/rc/9760) ([Deni Lukmanul Hakim – Sun Microsystems](http://jazoon.com/en/conference/authors/Deni+Lukmanul_Hakim) )

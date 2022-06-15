@@ -1,5 +1,5 @@
 ---
-id: 3037
+
 title: 'Ebay architecture scalability'
 date: '2007-07-27T22:50:12+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 3279
+
 title: 'SecurityImages 5.0.0Beta2'
 date: '2008-03-22T17:55:01+01:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 8250
+
 title: 'Avoid infamous change &#8211; restart &#8211; wait &#8211; check development lifecycle!'
 date: '2015-01-14T14:36:39+01:00'
 author: 'Cédric Walter'

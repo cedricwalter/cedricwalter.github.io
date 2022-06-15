@@ -1,5 +1,5 @@
 ---
-id: 1595
+
 title: 'Mambo com_akocomment antispam patch'
 date: '2005-03-02T20:01:17+01:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 2291
+
 title: 'Protecting Your Security and Privacy with Firefox'
 date: '2006-01-26T14:36:01+01:00'
 author: 'Cédric Walter'

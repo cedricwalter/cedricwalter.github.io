@@ -1,5 +1,5 @@
 ---
-id: 4331
+
 title: 'Acunetix free edition now available'
 date: '2009-05-18T17:11:29+02:00'
 author: 'Cédric Walter'

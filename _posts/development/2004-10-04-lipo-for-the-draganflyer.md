@@ -1,5 +1,5 @@
 ---
-id: 1245
+
 title: 'LiPo for the Draganflyer'
 date: '2004-10-04T17:10:05+02:00'
 author: 'Cédric Walter'

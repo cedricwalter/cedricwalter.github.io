@@ -1,5 +1,5 @@
 ---
-id: 1476
+
 title: 'a record? 210 users online at the same time'
 date: '2005-01-12T17:52:52+01:00'
 author: 'Cédric Walter'

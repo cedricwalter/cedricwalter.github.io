@@ -1,5 +1,5 @@
 ---
-id: 4492
+
 title: 'Firefox 3.5 available for general consumption'
 date: '2009-06-30T23:29:02+02:00'
 author: 'Cédric Walter'

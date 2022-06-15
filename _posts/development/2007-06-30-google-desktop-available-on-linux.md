@@ -1,5 +1,5 @@
 ---
-id: 2996
+
 title: 'Google Desktop available on Linux'
 date: '2007-06-30T09:53:52+02:00'
 author: 'Cédric Walter'

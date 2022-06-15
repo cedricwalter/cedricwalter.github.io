@@ -1,5 +1,5 @@
 ---
-id: 4767
+
 title: 'beautiful rainbow over Zürich'
 date: '2009-10-12T18:30:09+02:00'
 author: 'Cédric Walter'

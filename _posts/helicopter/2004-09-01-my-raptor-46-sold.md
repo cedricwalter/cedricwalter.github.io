@@ -1,5 +1,5 @@
 ---
-id: 732
+
 title: 'My Thunder Tiger Raptor 46 (sold)'
 date: '2004-09-01T22:27:34+02:00'
 author: 'Cédric Walter'

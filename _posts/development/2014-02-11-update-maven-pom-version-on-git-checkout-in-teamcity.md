@@ -1,5 +1,5 @@
 ---
-id: 8193
+
 title: 'Update Maven pom version on GIT checkout in TeamCity'
 date: '2014-02-11T21:45:43+01:00'
 author: 'Cédric Walter'

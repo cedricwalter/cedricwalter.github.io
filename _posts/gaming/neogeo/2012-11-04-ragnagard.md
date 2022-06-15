@@ -1,5 +1,5 @@
 ---
-id: 7870
+
 title: Ragnagard
 date: '2012-11-04T18:32:50+01:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 1966
+
 title: 'Open sharing of knowledge and informations'
 date: '2005-07-31T14:53:54+02:00'
 author: 'Cédric Walter'

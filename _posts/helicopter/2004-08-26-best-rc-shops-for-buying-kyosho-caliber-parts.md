@@ -1,5 +1,5 @@
 ---
-id: 362
+
 title: 'Best RC shops for buying Kyosho Caliber parts'
 date: '2004-08-26T23:31:37+02:00'
 author: 'Cédric Walter'

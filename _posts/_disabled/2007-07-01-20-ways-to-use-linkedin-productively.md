@@ -1,5 +1,5 @@
 ---
-id: 3000
+
 title: '20 Ways to Use LinkedIn Productively'
 date: '2007-07-01T12:08:41+02:00'
 author: 'Cédric Walter'

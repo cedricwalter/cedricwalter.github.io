@@ -1,5 +1,5 @@
 ---
-id: 7088
+
 title: 'Nintendo Game Boy Color Pokémon'
 date: '2011-08-22T12:52:25+02:00'
 author: 'Cédric Walter'

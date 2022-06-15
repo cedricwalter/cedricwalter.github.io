@@ -1,5 +1,5 @@
 ---
-id: 2502
+
 title: '7 beautiful dollhouses for sales at www.broc-antique.com'
 date: '2006-04-30T18:08:06+02:00'
 author: 'Cédric Walter'

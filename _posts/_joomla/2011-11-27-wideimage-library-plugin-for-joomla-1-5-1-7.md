@@ -1,5 +1,5 @@
 ---
-id: 7320
+
 title: 'WideImage Library Plugin for Joomla 1.5/1.7'
 date: '2011-11-27T13:18:42+01:00'
 author: 'Cédric Walter'

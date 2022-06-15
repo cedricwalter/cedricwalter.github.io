@@ -1,5 +1,5 @@
 ---
-id: 3016
+
 title: 'Downtime this week'
 date: '2007-07-16T14:06:16+02:00'
 author: 'Cédric Walter'

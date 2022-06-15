@@ -1,5 +1,5 @@
 ---
-id: 8327
+
 title: 'Download document on Android devices returns unknown file'
 date: '2016-02-02T14:07:23+01:00'
 author: 'Cédric Walter'

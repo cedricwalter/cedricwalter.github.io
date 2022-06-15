@@ -1,5 +1,5 @@
 ---
-id: 5389
+
 title: 'Fragrance Lampe Berger 26 to 30'
 date: '2010-06-26T18:58:30+02:00'
 author: 'Cédric Walter'

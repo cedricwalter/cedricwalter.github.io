@@ -1,5 +1,5 @@
 ---
-id: 54
+
 title: 'What to lubrificate?'
 date: '2004-08-26T21:30:04+02:00'
 author: 'Cédric Walter'

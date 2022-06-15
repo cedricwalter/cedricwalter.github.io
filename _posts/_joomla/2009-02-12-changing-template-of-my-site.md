@@ -1,5 +1,5 @@
 ---
-id: 4155
+
 title: 'Changing template of my site'
 date: '2009-02-12T21:03:05+01:00'
 author: 'Cédric Walter'

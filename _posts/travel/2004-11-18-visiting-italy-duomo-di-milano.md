@@ -1,5 +1,5 @@
 ---
-id: 1377
+
 title: 'Visiting Italy: Duomo di Milano'
 date: '2004-11-18T20:56:07+01:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 946
+
 title: Sentences
 date: '2004-09-02T21:59:25+02:00'
 author: 'Cédric Walter'

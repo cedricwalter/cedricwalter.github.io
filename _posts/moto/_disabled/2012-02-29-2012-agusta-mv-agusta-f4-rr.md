@@ -1,5 +1,5 @@
 ---
-id: 7541
+
 title: '2012 Agusta MV Agusta F4 RR'
 date: '2012-02-29T20:41:07+01:00'
 author: 'Cédric Walter'

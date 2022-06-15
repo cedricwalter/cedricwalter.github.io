@@ -1,5 +1,5 @@
 ---
-id: 4859
+
 title: 'Google Chrome on your USB stick'
 date: '2009-11-09T17:22:06+01:00'
 author: 'Cédric Walter'

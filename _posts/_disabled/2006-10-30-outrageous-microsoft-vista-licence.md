@@ -1,5 +1,5 @@
 ---
-id: 2748
+
 title: 'Outrageous Microsoft Vista licence'
 date: '2006-10-30T22:13:56+01:00'
 author: 'Cédric Walter'

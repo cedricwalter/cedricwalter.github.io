@@ -1,5 +1,5 @@
 ---
-id: 2365
+
 title: 'com_opencomment 3.0.0 Head'
 date: '2006-03-12T00:15:03+01:00'
 author: 'Cédric Walter'

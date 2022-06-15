@@ -1,5 +1,5 @@
 ---
-id: 8617
+
 title: 'Merging Two Git Repositories Into One Repository Without Losing File History'
 date: '2017-04-13T10:36:22+02:00'
 author: 'Cédric Walter'

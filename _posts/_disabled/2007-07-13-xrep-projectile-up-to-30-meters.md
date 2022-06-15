@@ -1,5 +1,5 @@
 ---
-id: 3010
+
 title: 'XREP projectile up to 30 meters'
 date: '2007-07-13T15:44:20+02:00'
 author: 'Cédric Walter'

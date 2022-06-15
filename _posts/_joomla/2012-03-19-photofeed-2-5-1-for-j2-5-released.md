@@ -1,5 +1,5 @@
 ---
-id: 7576
+
 title: 'Photofeed 2.5.1 for J2.5 Released'
 date: '2012-03-19T21:07:19+01:00'
 author: 'Cédric Walter'

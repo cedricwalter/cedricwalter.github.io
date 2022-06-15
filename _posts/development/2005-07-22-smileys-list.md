@@ -1,5 +1,5 @@
 ---
-id: 1938
+
 title: 'Smileys list'
 date: '2005-07-22T20:22:44+02:00'
 author: 'Cédric Walter'

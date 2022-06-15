@@ -1,5 +1,5 @@
 ---
-id: 2819
+
 title: 'Address space layout randomization in Vista'
 date: '2007-01-04T19:38:57+01:00'
 author: 'Cédric Walter'

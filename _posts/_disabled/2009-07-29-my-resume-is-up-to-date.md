@@ -1,5 +1,5 @@
 ---
-id: 4553
+
 title: 'My résumé is up to date'
 date: '2009-07-29T18:37:50+02:00'
 author: 'Cédric Walter'

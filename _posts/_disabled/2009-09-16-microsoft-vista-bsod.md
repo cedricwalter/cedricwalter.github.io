@@ -1,5 +1,5 @@
 ---
-id: 4623
+
 title: 'Microsoft Vista BSoD'
 date: '2009-09-16T17:57:38+02:00'
 author: 'Cédric Walter'

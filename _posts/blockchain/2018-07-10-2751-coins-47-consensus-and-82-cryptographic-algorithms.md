@@ -1,5 +1,5 @@
 ---
-id: 8737
+
 title: '2751 coins, 47 Consensus and 82 cryptographic algorithms'
 date: '2018-07-10T21:30:55+02:00'
 author: 'Cédric Walter'

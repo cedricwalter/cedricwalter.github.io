@@ -1,5 +1,5 @@
 ---
-id: 6823
+
 title: 'OSGi-Bundle with the Maven-Bundle-Plugin'
 date: '2011-06-06T21:45:17+02:00'
 author: 'Cédric Walter'

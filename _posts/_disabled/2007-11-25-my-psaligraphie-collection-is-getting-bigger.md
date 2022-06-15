@@ -1,5 +1,5 @@
 ---
-id: 3160
+
 title: 'My Psaligraphie  collection is getting bigger'
 date: '2007-11-25T22:17:13+01:00'
 author: 'Cédric Walter'

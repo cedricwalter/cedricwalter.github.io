@@ -1,5 +1,5 @@
 ---
-id: 2650
+
 title: 'Ajax enabled OpenComment online video'
 date: '2006-06-12T23:45:07+02:00'
 author: 'Cédric Walter'

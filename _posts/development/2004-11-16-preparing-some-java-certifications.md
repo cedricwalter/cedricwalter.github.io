@@ -1,5 +1,5 @@
 ---
-id: 1374
+
 title: 'Preparing some Java certifications?'
 date: '2004-11-16T22:35:26+01:00'
 author: 'Cédric Walter'

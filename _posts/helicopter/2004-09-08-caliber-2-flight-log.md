@@ -1,5 +1,5 @@
 ---
-id: 1156
+
 title: 'CALIBER 2 flight log'
 date: '2004-09-08T23:26:54+02:00'
 author: 'Cédric Walter'

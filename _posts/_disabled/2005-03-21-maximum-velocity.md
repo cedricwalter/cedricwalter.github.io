@@ -1,5 +1,5 @@
 ---
-id: 1626
+
 title: 'Maximum Velocity'
 date: '2005-03-21T20:07:56+01:00'
 author: 'Cédric Walter'

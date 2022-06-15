@@ -1,5 +1,5 @@
 ---
-id: 823
+
 title: 'My fleet of helicopter'
 date: '2004-09-01T22:55:34+02:00'
 author: 'Cédric Walter'

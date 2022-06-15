@@ -1,5 +1,5 @@
 ---
-id: 7242
+
 title: 'My experience updating from Joomla! 1.5 to 1.7'
 date: '2011-10-31T20:02:36+01:00'
 author: 'Cédric Walter'

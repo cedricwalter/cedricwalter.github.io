@@ -1,5 +1,5 @@
 ---
-id: 4564
+
 title: 'Dainese V Neck 2 closer pictures'
 date: '2009-07-29T18:58:13+02:00'
 author: 'Cédric Walter'

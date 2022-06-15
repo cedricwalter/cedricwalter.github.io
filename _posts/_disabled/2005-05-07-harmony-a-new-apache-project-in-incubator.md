@@ -1,5 +1,5 @@
 ---
-id: 1713
+
 title: 'Harmony: a new apache project in incubator'
 date: '2005-05-07T18:46:27+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 1749
+
 title: 'Linux and Biometry'
 date: '2005-05-18T19:19:57+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 1591
+
 title: 'A patch to protect Mambo administrator login page'
 date: '2005-02-26T22:58:56+01:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 8576
+
 title: 'Arthur Breitman: Tezos – A Self-Amending Crypto-Ledger'
 date: '2016-09-02T19:53:55+02:00'
 author: 'Cédric Walter'

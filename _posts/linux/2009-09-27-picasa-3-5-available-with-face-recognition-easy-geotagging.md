@@ -1,5 +1,5 @@
 ---
-id: 4708
+
 title: 'Picasa 3.5 available with face recognition / easy geotagging'
 date: '2009-09-27T22:40:28+02:00'
 author: 'Cédric Walter'

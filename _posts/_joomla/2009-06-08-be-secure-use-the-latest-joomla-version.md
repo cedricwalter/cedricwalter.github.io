@@ -1,5 +1,5 @@
 ---
-id: 4387
+
 title: 'Be secure use the latest Joomla! version'
 date: '2009-06-08T10:38:04+02:00'
 author: 'Cédric Walter'

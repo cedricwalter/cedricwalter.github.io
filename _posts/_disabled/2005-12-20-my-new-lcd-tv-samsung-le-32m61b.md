@@ -1,5 +1,5 @@
 ---
-id: 2219
+
 title: 'My New LCD TV: Samsung LE-32M61B'
 date: '2005-12-20T22:07:26+01:00'
 author: 'Cédric Walter'

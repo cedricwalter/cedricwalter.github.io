@@ -1,5 +1,5 @@
 ---
-id: 8404
+
 title: 'IPad buying 
 date: '2016-07-13T19:44:04+02:00'
 author: 'Cédric Walter'

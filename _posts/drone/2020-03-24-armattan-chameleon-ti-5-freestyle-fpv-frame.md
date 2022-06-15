@@ -1,5 +1,5 @@
 ---
-id: 10662
+
 title: 'Armattan Chameleon Ti 5&#8243; Freestyle FPV Frame'
 date: '2020-03-24T18:44:01+01:00'
 author: 'Cédric Walter'

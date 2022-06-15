@@ -1,5 +1,5 @@
 ---
-id: 7533
+
 title: '2012 Superbike Ducati 1199 Panigale S Tricolore'
 date: '2012-02-27T22:49:25+01:00'
 author: 'Cédric Walter'

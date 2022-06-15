@@ -1,5 +1,5 @@
 ---
-id: 8730
+
 title: 'ICO friendliness rating index'
 date: '2018-05-27T20:51:43+02:00'
 author: 'Cédric Walter'

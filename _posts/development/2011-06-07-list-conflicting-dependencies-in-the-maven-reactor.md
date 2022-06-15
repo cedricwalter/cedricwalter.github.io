@@ -1,5 +1,5 @@
 ---
-id: 6841
+
 title: 'List conflicting dependencies in the Maven reactor'
 date: '2011-06-07T19:29:49+02:00'
 author: 'Cédric Walter'

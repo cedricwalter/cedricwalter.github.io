@@ -1,5 +1,5 @@
 ---
-id: 4473
+
 title: 'Twitter meet Google Map'
 date: '2009-06-22T22:38:45+02:00'
 author: 'Cédric Walter'

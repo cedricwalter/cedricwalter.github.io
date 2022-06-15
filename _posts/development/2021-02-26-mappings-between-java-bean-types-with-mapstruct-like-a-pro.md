@@ -1,5 +1,5 @@
 ---
-id: 13837
+
 title: 'mappings between Java bean types with MapStruct like a pro!'
 date: '2021-02-26T19:57:44+01:00'
 author: 'Cédric Walter'

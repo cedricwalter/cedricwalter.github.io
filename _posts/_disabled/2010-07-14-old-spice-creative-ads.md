@@ -1,5 +1,5 @@
 ---
-id: 5552
+
 title: 'Old Spice creative ads'
 date: '2010-07-14T19:16:09+02:00'
 author: 'Cédric Walter'

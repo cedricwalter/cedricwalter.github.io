@@ -1,5 +1,5 @@
 ---
-id: 2287
+
 title: 'Java SSH native support with IBM Secure Shell Library'
 date: '2006-01-21T23:10:03+01:00'
 author: 'Cédric Walter'

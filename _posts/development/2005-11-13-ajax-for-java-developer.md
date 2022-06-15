@@ -1,5 +1,5 @@
 ---
-id: 2104
+
 title: 'AJAX for Java developer'
 date: '2005-11-13T13:22:22+01:00'
 author: 'Cédric Walter'

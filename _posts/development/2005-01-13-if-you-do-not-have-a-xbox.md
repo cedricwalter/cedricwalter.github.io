@@ -1,5 +1,5 @@
 ---
-id: 1478
+
 title: 'If You do not have a XBOX&#8230;'
 date: '2005-01-13T22:58:22+01:00'
 author: 'Cédric Walter'

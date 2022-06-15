@@ -1,5 +1,5 @@
 ---
-id: 1892
+
 title: 'Beagle: the desktop search engine for linux'
 date: '2005-07-08T10:02:17+02:00'
 author: 'Cédric Walter'

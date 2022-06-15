@@ -1,5 +1,5 @@
 ---
-id: 8516
+
 title: 'USB3 external enclosure falsely recognized as DTMB BDA TV USB in windows 10'
 date: '2016-07-29T19:21:56+02:00'
 author: 'Cédric Walter'

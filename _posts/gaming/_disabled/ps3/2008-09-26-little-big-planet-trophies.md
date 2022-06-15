@@ -1,5 +1,5 @@
 ---
-id: 3854
+
 title: 'Little Big Planet trophies'
 date: '2008-09-26T17:13:18+02:00'
 author: 'Cédric Walter'

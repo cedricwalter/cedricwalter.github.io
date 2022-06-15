@@ -1,5 +1,5 @@
 ---
-id: 2525
+
 title: 'Cinq robots mulhousiens dans l&#8217;arène sarthoise.'
 date: '2006-05-11T18:44:29+02:00'
 author: 'Cédric Walter'

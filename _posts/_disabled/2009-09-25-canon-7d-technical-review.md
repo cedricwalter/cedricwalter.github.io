@@ -1,5 +1,5 @@
 ---
-id: 4630
+
 title: 'Canon 7D technical review'
 date: '2009-09-25T13:45:33+02:00'
 author: 'Cédric Walter'

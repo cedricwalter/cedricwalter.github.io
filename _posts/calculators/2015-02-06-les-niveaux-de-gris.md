@@ -1,5 +1,5 @@
 ---
-id: 8251
+
 title: 'Les niveaux de gris sur HP48'
 date: '2015-02-06T09:40:17+01:00'
 author: 'Cédric Walter'
@@ -28,9 +28,9 @@ cours de rafraîchissement et qui décroît de la séparation des menus jusqu’
 ## Le codage des images
 
 Il faut coder les images pour éviter d’avoir une image par nuance, ce qui serait vite intolérable sur une HP48 à la
-mémoire plus que limité. Une méthode consiste a attribuer un numéro à chaque nuance et à le coder en binaire.
+mémoire plus que limité. Une méthode consiste à attribuer un numéro à chaque nuance et à le coder en binaire.
 
-Pour avoir 16 niveaux de gris 4 Images suffisent : (1) si le pixel est allumé et (0) si il est éteint.
+Pour avoir 16 niveaux de gris 4 Images suffisent : (1) si le pixel est allumé et (0) s'il est éteint.
 
 |         |     |     |     |     |
 |---------|-----|-----|-----|-----|
@@ -77,16 +77,16 @@ Pour avoir 16 niveaux de gris 4 Images suffisent : (1) si le pixel est allumé e
 | blanc   | 0   | 0   |
 
 Pour donner une impression de niveaux de gris, il faut que le grob 4 soit afficher 2 fois plus longtemps que le grob 3
-qui lui même est afficher 2 fois plus longtemps que le grob 2 qui lui l’est deux fois plus que le grob 1.
+qui lui-même est affiché 2 fois plus longtemps que le grob 2 qui lui l’est deux fois plus que le grob 1.
 
 En résumé : grob 1 : 1 fois sur 15, grob 2 : 2 fois sur 15, grob 3 : 4 fois sur 15, grob 4 : 8 fois sur 15.
 
-Pour limiter le clignotement on peut faire boucler la suite d’images : 4/3/2/4/3/4/1/4/3/4/2/4/3/4
+Pour limiter le clignotement, on peut faire boucler la suite d’images : 4/3/2/4/3/4/1/4/3/4/2/4/3/4
 
 ## Un exemple de programme…
 
-Ci-joint …un programme qui prend un grob 131\*256 en argument ( les grob 4 , 3 , 2 , 1 sont dans le fichier dans cet
-ordre) et qui l’affiche en 16 niveaux de gris, puis en 8 niveaux et enfin en 4 niveaux apprès chaque appui sur une
+Ci-joint… Un programme qui prend un grob 131\*256 en argument ( les grob 4, 3, 2, 1 sont dans le fichier dans cet
+ordre) et qui l’affiche en 16 niveaux de gris, puis en 8 niveaux et enfin en 4 niveaux après chaque appui sur une
 touche.
 
 ```asm

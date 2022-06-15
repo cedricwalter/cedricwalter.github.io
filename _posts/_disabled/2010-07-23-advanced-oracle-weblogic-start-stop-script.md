@@ -1,5 +1,5 @@
 ---
-id: 5577
+
 title: 'Advanced Oracle Weblogic start/stop script'
 date: '2010-07-23T22:35:39+02:00'
 author: 'Cédric Walter'

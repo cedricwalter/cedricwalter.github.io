@@ -1,5 +1,5 @@
 ---
-id: 7458
+
 title: 'Restrictive Iptables Based Firewall for Webserver script'
 date: '2012-01-29T18:53:06+01:00'
 author: 'Cédric Walter'

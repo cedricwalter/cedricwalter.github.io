@@ -1,5 +1,5 @@
 ---
-id: 6849
+
 title: 'Internet is Best viewed in Chrome 12 Web browser'
 date: '2011-06-08T21:23:43+02:00'
 author: 'Cédric Walter'

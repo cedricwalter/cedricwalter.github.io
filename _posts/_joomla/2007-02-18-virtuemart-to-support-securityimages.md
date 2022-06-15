@@ -1,5 +1,5 @@
 ---
-id: 2882
+
 title: 'Virtuemart to support securityimages'
 date: '2007-02-18T21:50:02+01:00'
 author: 'Cédric Walter'

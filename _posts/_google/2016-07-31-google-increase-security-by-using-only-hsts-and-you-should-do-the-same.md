@@ -1,5 +1,5 @@
 ---
-id: 8537
+
 title: 'Google increase security by using only HSTS and you should do the same'
 date: '2016-07-31T09:33:23+02:00'
 author: 'Cédric Walter'

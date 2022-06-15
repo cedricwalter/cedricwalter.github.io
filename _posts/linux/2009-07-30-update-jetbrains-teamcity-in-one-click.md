@@ -1,5 +1,5 @@
 ---
-id: 4565
+
 title: 'Update JetBrains TeamCity in one click'
 date: '2009-07-30T23:32:43+02:00'
 author: 'Cédric Walter'

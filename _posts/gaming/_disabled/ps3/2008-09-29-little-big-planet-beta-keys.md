@@ -1,5 +1,5 @@
 ---
-id: 3866
+
 title: 'Little Big Planet beta keys'
 date: '2008-09-29T18:19:19+02:00'
 author: 'Cédric Walter'

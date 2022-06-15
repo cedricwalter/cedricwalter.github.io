@@ -1,5 +1,5 @@
 ---
-id: 845
+
 title: 'Knife Edge Realflight G2'
 date: '2004-09-01T23:05:02+02:00'
 author: 'Cédric Walter'

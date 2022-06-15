@@ -1,5 +1,5 @@
 ---
-id: 1367
+
 title: 'Visiting Italy: Pisa'
 date: '2004-11-12T22:44:54+01:00'
 author: 'Cédric Walter'

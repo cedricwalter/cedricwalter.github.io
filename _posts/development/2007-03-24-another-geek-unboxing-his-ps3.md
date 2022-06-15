@@ -1,5 +1,5 @@
 ---
-id: 2947
+
 title: 'Another geek unboxing his PS3'
 date: '2007-03-24T21:01:10+01:00'
 author: 'Cédric Walter'

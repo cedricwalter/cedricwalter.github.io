@@ -1,5 +1,5 @@
 ---
-id: 6927
+
 title: 'Sorry 404 &#8211; The page you were looking for could not be found'
 date: '2011-07-17T16:49:40+02:00'
 author: 'Cédric Walter'

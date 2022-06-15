@@ -1,5 +1,5 @@
 ---
-id: 3173
+
 title: 'securityimages 4.2.3'
 date: '2008-02-03T12:32:28+01:00'
 author: 'Cédric Walter'

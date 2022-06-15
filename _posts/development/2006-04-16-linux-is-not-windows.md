@@ -1,5 +1,5 @@
 ---
-id: 2467
+
 title: 'Linux is Not Windows'
 date: '2006-04-16T13:30:37+02:00'
 author: 'Cédric Walter'

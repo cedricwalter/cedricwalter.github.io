@@ -1,5 +1,5 @@
 ---
-id: 8780
+
 title: 'Dji Mavic Mini'
 date: '2019-10-30T17:19:15+01:00'
 author: 'Cédric Walter'

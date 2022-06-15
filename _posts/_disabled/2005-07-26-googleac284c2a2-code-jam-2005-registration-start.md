@@ -1,5 +1,5 @@
 ---
-id: 1954
+
 title: 'Google Code Jam 2005 registration start!'
 date: '2005-07-26T17:01:47+02:00'
 author: 'Cédric Walter'

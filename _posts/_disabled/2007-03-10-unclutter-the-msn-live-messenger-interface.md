@@ -1,5 +1,5 @@
 ---
-id: 2899
+
 title: 'unclutter the MSN live messenger interface'
 date: '2007-03-10T13:20:07+01:00'
 author: 'Cédric Walter'

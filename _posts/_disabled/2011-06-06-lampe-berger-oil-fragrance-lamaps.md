@@ -1,5 +1,5 @@
 ---
-id: 6816
+
 title: 'Lampe Berger oil fragrance lamaps'
 date: '2011-06-06T20:28:19+02:00'
 author: 'Cédric Walter'

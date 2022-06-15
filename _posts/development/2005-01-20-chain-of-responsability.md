@@ -1,5 +1,5 @@
 ---
-id: 1499
+
 title: 'Chain of responsability'
 date: '2005-01-20T21:29:50+01:00'
 author: 'Cédric Walter'

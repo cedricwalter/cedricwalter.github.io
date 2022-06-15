@@ -1,5 +1,5 @@
 ---
-id: 3050
+
 title: 'Sony PS3 firmware 1.93 update with caution'
 date: '2007-09-14T22:34:57+02:00'
 author: 'Cédric Walter'

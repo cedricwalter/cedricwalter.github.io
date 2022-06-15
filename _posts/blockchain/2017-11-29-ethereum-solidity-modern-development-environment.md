@@ -1,5 +1,5 @@
 ---
-id: 8690
+
 title: 'Ethereum Solidity modern development environment'
 date: '2017-11-29T19:28:06+01:00'
 author: 'Cédric Walter'

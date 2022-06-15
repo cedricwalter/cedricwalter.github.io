@@ -1,5 +1,5 @@
 ---
-id: 342
+
 title: 'reviews and links in no particular order'
 date: '2004-08-26T23:29:49+02:00'
 author: 'Cédric Walter'

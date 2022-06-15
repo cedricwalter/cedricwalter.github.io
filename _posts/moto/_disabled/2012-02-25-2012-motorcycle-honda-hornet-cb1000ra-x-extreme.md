@@ -1,5 +1,5 @@
 ---
-id: 7523
+
 title: '2012 Motorcycle Honda Hornet CB1000RA X Extreme'
 date: '2012-02-25T21:24:07+01:00'
 author: 'Cédric Walter'

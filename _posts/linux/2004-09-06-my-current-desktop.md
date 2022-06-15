@@ -1,5 +1,5 @@
 ---
-id: 1113
+
 title: 'My current desktop'
 date: '2004-09-06T21:46:36+02:00'
 author: 'Cédric Walter'

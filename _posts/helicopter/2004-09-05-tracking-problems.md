@@ -1,5 +1,5 @@
 ---
-id: 1108
+
 title: 'Tracking problems'
 date: '2004-09-05T20:08:49+02:00'
 author: 'Cédric Walter'

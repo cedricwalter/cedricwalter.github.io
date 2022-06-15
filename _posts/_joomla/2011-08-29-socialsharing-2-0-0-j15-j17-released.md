@@ -1,5 +1,5 @@
 ---
-id: 7118
+
 title: 'SocialSharing 2.0.0 (J15/J17) Released'
 date: '2011-08-29T20:32:24+02:00'
 author: 'Cédric Walter'

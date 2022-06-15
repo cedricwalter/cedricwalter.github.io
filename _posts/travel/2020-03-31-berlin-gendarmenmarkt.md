@@ -1,5 +1,5 @@
 ---
-id: 11762
+
 title: 'Berlin &#8211; GendarmenMarkt'
 date: '2020-03-31T12:25:48+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 8500
+
 title: 'Clean Code Development'
 date: '2016-07-29T13:19:52+02:00'
 author: 'Cédric Walter'

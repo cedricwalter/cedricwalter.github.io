@@ -1,5 +1,5 @@
 ---
-id: 1384
+
 title: 'Metrics and Models in Software Quality Engineering  book &#8211; Adisson Westley'
 date: '2004-11-22T11:26:00+01:00'
 author: 'Cédric Walter'

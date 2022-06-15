@@ -1,5 +1,5 @@
 ---
-id: 1660
+
 title: 'The role of WINE in Linux desktop enterprise migration strategies'
 date: '2005-03-30T19:42:12+02:00'
 author: 'Cédric Walter'

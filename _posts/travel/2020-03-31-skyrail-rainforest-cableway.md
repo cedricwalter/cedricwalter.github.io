@@ -1,5 +1,5 @@
 ---
-id: 12385
+
 title: 'Skyrail Rainforest Cableway'
 date: '2020-03-31T18:10:56+02:00'
 author: 'Cédric Walter'

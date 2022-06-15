@@ -1,5 +1,5 @@
 ---
-id: 4746
+
 title: 'today is my birthday!'
 date: '2009-10-05T23:14:55+02:00'
 author: 'Cédric Walter'

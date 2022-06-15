@@ -1,5 +1,5 @@
 ---
-id: 1755
+
 title: 'Whoahhh imaginationcubed.com !'
 date: '2005-05-21T16:54:58+02:00'
 author: 'Cédric Walter'

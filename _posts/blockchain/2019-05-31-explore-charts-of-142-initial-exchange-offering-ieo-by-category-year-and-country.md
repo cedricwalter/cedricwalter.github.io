@@ -1,5 +1,5 @@
 ---
-id: 8753
+
 title: 'Explore 142 Initial Exchange Offering  (IEO) by category, year and country'
 date: '2019-05-31T14:17:16+02:00'
 author: 'Cédric Walter'

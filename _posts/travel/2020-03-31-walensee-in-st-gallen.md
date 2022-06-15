@@ -1,5 +1,5 @@
 ---
-id: 11672
+
 title: 'Walensee in St Gallen'
 date: '2020-03-31T11:44:02+02:00'
 author: 'Cédric Walter'

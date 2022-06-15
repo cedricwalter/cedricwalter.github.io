@@ -1,5 +1,5 @@
 ---
-id: 7853
+
 title: 'Savage Reign'
 date: '2012-11-04T18:27:13+01:00'
 author: 'Cédric Walter'

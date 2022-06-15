@@ -1,5 +1,5 @@
 ---
-id: 6130
+
 title: 'Sony Playstation (PS one)'
 date: '2010-09-22T18:20:43+02:00'
 author: 'Cédric Walter'
@@ -32,7 +32,7 @@ with chipset to play backup games
 
 ### Playstation Gun Controller G-Con
 
-The Guncon known as the G-Con in Europe, is a family of light gun peripherals designed by Namco for the PlayStation. The first Guncon NPC-103 (G-Con 45 in Europe) (Sony ID: SLEH-00007) was bundled with the PlayStation conversion of *Time Crisis*. consoles.
+The Guncon known as the G-Con in Europe, is a family of light gun peripherals designed by Namco for the PlayStation. The first Guncon NPC-103 (G-Con 45 in Europe) (Sony 
 
 [![playstation.namco.gun](/assets/images/2010/09/playstation.namco_.gun_thumb.jpg "playstation.namco.gun")](/assets/images/2010/09/playstation.namco_.gun_.jpg)[![IMG_3033](/assets/images/2010/09/IMG_3033_thumb.jpg "IMG_3033")](/assets/images/2010/09/IMG_3033.jpg)
 

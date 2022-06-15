@@ -1,5 +1,5 @@
 ---
-id: 2445
+
 title: 'JoomlaCloud Released!!'
 date: '2006-04-09T14:23:30+02:00'
 author: 'Cédric Walter'

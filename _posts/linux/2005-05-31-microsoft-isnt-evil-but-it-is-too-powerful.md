@@ -1,5 +1,5 @@
 ---
-id: 1769
+
 title: 'Microsoft isn&#8217;t evil. But it is too powerful'
 date: '2005-05-31T18:02:33+02:00'
 author: 'Cédric Walter'

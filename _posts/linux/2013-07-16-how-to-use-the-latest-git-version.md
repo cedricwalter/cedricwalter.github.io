@@ -1,5 +1,5 @@
 ---
-id: 8093
+
 title: 'How to use the latest Git version'
 date: '2013-07-16T20:58:16+02:00'
 author: 'Cédric Walter'

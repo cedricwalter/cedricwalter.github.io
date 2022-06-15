@@ -1,5 +1,5 @@
 ---
-id: 5585
+
 title: 'LittleBigPlanet 2 available on 16 november 2010'
 date: '2010-07-23T22:55:12+02:00'
 author: 'Cédric Walter'

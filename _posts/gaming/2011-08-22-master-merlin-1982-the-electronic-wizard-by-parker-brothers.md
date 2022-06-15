@@ -1,5 +1,5 @@
 ---
-id: 7058
+
 title: 'Master Merlin (1982) the Electronic Wizard by Parker Brothers'
 date: '2011-08-22T12:06:37+02:00'
 author: 'Cédric Walter'

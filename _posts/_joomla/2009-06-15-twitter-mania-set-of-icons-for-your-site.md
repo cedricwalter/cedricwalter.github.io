@@ -1,5 +1,5 @@
 ---
-id: 4450
+
 title: 'Twitter mania set of icons for your site'
 date: '2009-06-15T21:36:21+02:00'
 author: 'Cédric Walter'

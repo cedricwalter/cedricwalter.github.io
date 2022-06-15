@@ -1,5 +1,5 @@
 ---
-id: 3182
+
 title: 'Ranking civilization by their energy consumption'
 date: '2008-02-10T22:48:03+01:00'
 author: 'Cédric Walter'

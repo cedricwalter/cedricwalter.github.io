@@ -1,5 +1,5 @@
 ---
-id: 1709
+
 title: 'Dealing with Suse 9.3 problems'
 date: '2005-05-06T21:07:11+02:00'
 author: 'Cédric Walter'

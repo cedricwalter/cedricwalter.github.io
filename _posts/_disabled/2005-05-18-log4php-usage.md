@@ -1,5 +1,5 @@
 ---
-id: 1746
+
 title: 'Log4PHP usage'
 date: '2005-05-18T18:45:55+02:00'
 author: 'Cédric Walter'

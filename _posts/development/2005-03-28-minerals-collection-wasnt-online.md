@@ -1,5 +1,5 @@
 ---
-id: 1650
+
 title: 'Minerals collection was&#8217;nt online!'
 date: '2005-03-28T12:28:22+02:00'
 author: 'Cédric Walter'

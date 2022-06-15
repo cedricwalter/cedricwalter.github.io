@@ -1,5 +1,5 @@
 ---
-id: 8298
+
 title: 'Learning Orented Object Programming (OOP) in PHP'
 date: '2015-05-29T09:08:16+02:00'
 author: 'Cédric Walter'

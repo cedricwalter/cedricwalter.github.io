@@ -1,5 +1,5 @@
 ---
-id: 537
+
 title: 'Java Coding 
 date: '2004-08-31T22:39:25+02:00'
 author: 'Cédric Walter'

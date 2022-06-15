@@ -1,5 +1,5 @@
 ---
-id: 3656
+
 title: 'HeliCommand 3D- an AUTOPILOT for RC Helicopter'
 date: '2008-08-08T23:49:19+02:00'
 author: 'Cédric Walter'

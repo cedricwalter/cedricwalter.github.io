@@ -1,5 +1,5 @@
 ---
-id: 1896
+
 title: 'Tom Tom RIDER'
 date: '2005-07-09T09:53:50+02:00'
 author: 'Cédric Walter'

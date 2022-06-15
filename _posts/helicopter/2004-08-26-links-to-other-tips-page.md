@@ -1,5 +1,5 @@
 ---
-id: 83
+
 title: 'Links to other tips page'
 date: '2004-08-26T21:41:41+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 3452
+
 title: 'Joomla demo server up to date'
 date: '2008-05-04T16:18:07+02:00'
 author: 'Cédric Walter'

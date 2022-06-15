@@ -1,5 +1,5 @@
 ---
-id: 5037
+
 title: 'Failed opening required PHPUnit/TextUI/TestRunner.php in Maven For PHP'
 date: '2010-02-08T21:07:09+01:00'
 author: 'Cédric Walter'

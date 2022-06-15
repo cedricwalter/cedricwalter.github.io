@@ -1,5 +1,5 @@
 ---
-id: 2513
+
 title: 'Helvetia Patria VBP events'
 date: '2006-05-07T19:54:19+02:00'
 author: 'Cédric Walter'

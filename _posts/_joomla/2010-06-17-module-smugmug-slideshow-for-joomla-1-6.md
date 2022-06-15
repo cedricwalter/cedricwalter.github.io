@@ -1,5 +1,5 @@
 ---
-id: 5363
+
 title: 'Module Smugmug slideshow for Joomla! 1.6'
 date: '2010-06-17T19:51:28+02:00'
 author: 'Cédric Walter'

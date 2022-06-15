@@ -1,5 +1,5 @@
 ---
-id: 1431
+
 title: 'Visiting Italy: Cinque terre'
 date: '2004-12-04T14:16:56+01:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 4893
+
 title: 'Neo Geo Pocket games list'
 date: '2009-12-07T21:31:53+01:00'
 author: 'Cédric Walter'

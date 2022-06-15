@@ -1,5 +1,5 @@
 ---
-id: 3956
+
 title: 'iPhone Linux'
 date: '2008-12-02T22:17:41+01:00'
 author: 'Cédric Walter'

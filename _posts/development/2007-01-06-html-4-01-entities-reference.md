@@ -1,5 +1,5 @@
 ---
-id: 2829
+
 title: 'HTML 4.01 Entities Reference'
 date: '2007-01-06T14:12:07+01:00'
 author: 'Cédric Walter'

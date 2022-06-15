@@ -1,5 +1,5 @@
 ---
-id: 4107
+
 title: 'OpenStreetMap: editable map of the whole world'
 date: '2009-02-07T18:30:16+01:00'
 author: 'Cédric Walter'

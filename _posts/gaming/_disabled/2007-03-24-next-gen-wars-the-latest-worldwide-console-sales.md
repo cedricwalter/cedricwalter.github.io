@@ -1,5 +1,5 @@
 ---
-id: 2917
+
 title: 'Next Gen Wars &#8211; The Latest Worldwide Console Sales'
 date: '2007-03-24T17:56:20+01:00'
 author: 'Cédric Walter'

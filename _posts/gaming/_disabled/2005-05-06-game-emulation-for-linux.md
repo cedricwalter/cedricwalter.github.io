@@ -1,5 +1,5 @@
 ---
-id: 1712
+
 title: 'Game emulation for linux&#8230;'
 date: '2005-05-06T23:31:22+02:00'
 author: 'Cédric Walter'

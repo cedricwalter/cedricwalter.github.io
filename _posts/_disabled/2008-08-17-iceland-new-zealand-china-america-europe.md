@@ -1,5 +1,5 @@
 ---
-id: 3706
+
 title: 'Iceland, New Zealand, China, America, Europe'
 date: '2008-08-17T21:08:01+02:00'
 author: 'Cédric Walter'

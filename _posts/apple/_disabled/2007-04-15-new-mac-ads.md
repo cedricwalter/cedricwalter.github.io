@@ -1,5 +1,5 @@
 ---
-id: 2958
+
 title: 'new Mac ads'
 date: '2007-04-15T23:45:49+02:00'
 author: 'Cédric Walter'

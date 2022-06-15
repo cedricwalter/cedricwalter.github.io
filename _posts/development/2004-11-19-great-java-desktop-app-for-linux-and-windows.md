@@ -1,5 +1,5 @@
 ---
-id: 1381
+
 title: 'Great java desktop app for linux and windows'
 date: '2004-11-19T10:29:27+01:00'
 author: 'Cédric Walter'

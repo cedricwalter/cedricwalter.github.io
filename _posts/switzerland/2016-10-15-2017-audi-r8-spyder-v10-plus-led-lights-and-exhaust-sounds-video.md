@@ -1,5 +1,5 @@
 ---
-id: 8597
+
 title: '2017 Audi R8 Spyder V10'
 date: '2016-10-15T18:55:15+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 3013
+
 title: 'components code migration to joomla 1.5'
 date: '2007-07-15T20:37:19+02:00'
 author: 'Cédric Walter'
@@ -45,7 +45,7 @@ DEFINE("JOOMLA_ASKIMET_ASKIMET_KEY_L", "Your askimet key, can be request here fo
 
 DEFINE("JOOMLA_ASKIMET_ASKIMET_KEY_L", "Website or Blog URL, if different than the JOOMLA site"); 
 
-?></p>` | Are now plain text files: ex en-GB.com\_aksimet.ini `<span style="color: #006600;"># $Id: en-GB.com_askimet.ini 7177 2007-04-23 06:42:21Z tcp $<br style="color: #006600;">
+?></p>` | Are now plain text files: ex en-GB.com\_aksimet.ini `<span style="color: #006600;"># $
 <span style="color: #006600;"># Akismet4Joomla Project<br style="color: #006600;">
 <span style="color: #006600;"># Copyright (C) 2007 Cédric Walter. All rights reserved.<br style="color: #006600;">
 <span style="color: #006600;"># License http://www.gnu.org/copyleft/gpl.html GNU/GPL, see LICENSE.php<br style="color: #006600;">

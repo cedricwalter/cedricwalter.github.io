@@ -1,5 +1,5 @@
 ---
-id: 2359
+
 title: 'Releasing soon AkoComment 2.2.5'
 date: '2006-03-09T09:51:11+01:00'
 author: 'Cédric Walter'

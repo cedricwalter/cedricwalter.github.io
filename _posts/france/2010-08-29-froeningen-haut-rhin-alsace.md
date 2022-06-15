@@ -1,5 +1,5 @@
 ---
-id: 5891
+
 title: 'Froeningen – Haut-Rhin – Alsace'
 date: '2010-08-29T09:54:57+02:00'
 author: 'Cédric Walter'

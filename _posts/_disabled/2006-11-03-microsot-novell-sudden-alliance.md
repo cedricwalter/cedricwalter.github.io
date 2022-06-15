@@ -1,5 +1,5 @@
 ---
-id: 2749
+
 title: 'Microsot-Novell sudden alliance'
 date: '2006-11-03T22:16:49+01:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 1335
+
 title: 'Why KDE desktop is for me superior than windows desktop'
 date: '2004-10-19T22:37:35+02:00'
 author: 'Cédric Walter'

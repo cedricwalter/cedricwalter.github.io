@@ -1,5 +1,5 @@
 ---
-id: 3666
+
 title: 'History of the past'
 date: '2008-08-13T19:50:45+02:00'
 author: 'Cédric Walter'

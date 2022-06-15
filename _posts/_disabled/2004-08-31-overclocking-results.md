@@ -1,5 +1,5 @@
 ---
-id: 600
+
 title: 'Overclocking results'
 date: '2004-08-31T23:32:47+02:00'
 author: 'Cédric Walter'

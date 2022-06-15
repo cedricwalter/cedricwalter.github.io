@@ -1,5 +1,5 @@
 ---
-id: 911
+
 title: 'Questions/Réponses en vrac'
 date: '2004-09-01T23:33:15+02:00'
 author: 'Cédric Walter'

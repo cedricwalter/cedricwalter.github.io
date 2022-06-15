@@ -1,5 +1,5 @@
 ---
-id: 3661
+
 title: 'waltercedric.com updated to the last version of Joomla! 1.5.6'
 date: '2008-08-13T19:00:55+02:00'
 author: 'Cédric Walter'

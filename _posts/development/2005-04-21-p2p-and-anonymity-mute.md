@@ -1,5 +1,5 @@
 ---
-id: 1695
+
 title: 'P2P and anonymity: MUTE'
 date: '2005-04-21T19:59:28+02:00'
 author: 'Cédric Walter'

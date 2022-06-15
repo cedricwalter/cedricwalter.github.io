@@ -1,5 +1,5 @@
 ---
-id: 4524
+
 title: 'Google will have it own OS powered by Google Chrome and Linux'
 date: '2009-07-08T23:30:55+02:00'
 author: 'Cédric Walter'

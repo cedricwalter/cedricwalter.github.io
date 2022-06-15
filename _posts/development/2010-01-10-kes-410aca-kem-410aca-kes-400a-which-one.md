@@ -1,5 +1,5 @@
 ---
-id: 4948
+
 title: 'KES-410ACA / KEM-410ACA / KES-400a which one?'
 date: '2010-01-10T10:28:33+01:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 3876
+
 title: 'Overview of SecurityImages 5.1.2'
 date: '2008-10-21T21:19:34+02:00'
 author: 'Cédric Walter'

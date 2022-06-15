@@ -1,5 +1,5 @@
 ---
-id: 1036
+
 title: 'Read rc helicopter main rotor RPM realtime'
 date: '2004-09-05T17:04:42+02:00'
 author: 'Cédric Walter'

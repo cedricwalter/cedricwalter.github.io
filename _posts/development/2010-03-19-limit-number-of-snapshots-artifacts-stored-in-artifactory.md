@@ -1,5 +1,5 @@
 ---
-id: 5069
+
 title: 'Limit number of snapshots artifacts stored in Artifactory'
 date: '2010-03-19T20:04:23+01:00'
 author: 'Cédric Walter'

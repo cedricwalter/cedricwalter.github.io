@@ -1,5 +1,5 @@
 ---
-id: 1006
+
 title: 'Sites you MUST visit'
 date: '2004-09-05T16:42:26+02:00'
 author: 'Cédric Walter'

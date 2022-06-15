@@ -1,5 +1,5 @@
 ---
-id: 4853
+
 title: 'Digital watermarking with PHP and GD2'
 date: '2009-10-28T19:23:03+01:00'
 author: 'Cédric Walter'

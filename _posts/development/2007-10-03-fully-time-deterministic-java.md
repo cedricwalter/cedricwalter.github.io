@@ -1,5 +1,5 @@
 ---
-id: 3073
+
 title: 'Fully Time Deterministic Java'
 date: '2007-10-03T20:54:23+02:00'
 author: 'Cédric Walter'

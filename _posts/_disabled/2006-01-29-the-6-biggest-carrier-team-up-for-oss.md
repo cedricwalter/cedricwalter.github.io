@@ -1,5 +1,5 @@
 ---
-id: 2293
+
 title: 'the 6 biggest carrier team up for OSS'
 date: '2006-01-29T13:45:47+01:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 4792
+
 title: 'Windows 7 is out, pathetic Mac ads video'
 date: '2009-10-23T13:17:52+02:00'
 author: 'Cédric Walter'

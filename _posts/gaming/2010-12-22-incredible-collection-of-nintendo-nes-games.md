@@ -1,5 +1,5 @@
 ---
-id: 6420
+
 title: 'Incredible collection of Nintendo NES games'
 date: '2010-12-22T15:19:15+01:00'
 author: 'Cédric Walter'

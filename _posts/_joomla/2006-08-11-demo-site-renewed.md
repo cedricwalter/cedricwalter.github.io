@@ -1,5 +1,5 @@
 ---
-id: 2678
+
 title: 'demo site renewed'
 date: '2006-08-11T22:00:24+02:00'
 author: 'Cédric Walter'

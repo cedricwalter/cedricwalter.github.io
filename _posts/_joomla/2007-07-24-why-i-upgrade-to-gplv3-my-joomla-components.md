@@ -1,5 +1,5 @@
 ---
-id: 3028
+
 title: 'Why I Upgrade to GPLv3 my Joomla components'
 date: '2007-07-24T23:57:04+02:00'
 author: 'Cédric Walter'

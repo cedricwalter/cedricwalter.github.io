@@ -1,5 +1,5 @@
 ---
-id: 4586
+
 title: 'How to replace the damping material of a BOS Oval exhaust'
 date: '2009-08-27T18:55:35+02:00'
 author: 'Cédric Walter'

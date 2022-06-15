@@ -1,5 +1,5 @@
 ---
-id: 2954
+
 title: 'Google Developer Day: Building blocks for better web applications'
 date: '2007-04-12T23:08:31+02:00'
 author: 'Cédric Walter'

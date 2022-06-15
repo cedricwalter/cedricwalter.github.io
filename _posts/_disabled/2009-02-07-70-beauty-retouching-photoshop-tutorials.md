@@ -1,5 +1,5 @@
 ---
-id: 4115
+
 title: '70 Beauty-Retouching Photoshop Tutorials'
 date: '2009-02-07T23:17:31+01:00'
 author: 'Cédric Walter'

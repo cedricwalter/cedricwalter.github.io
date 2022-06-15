@@ -1,5 +1,5 @@
 ---
-id: 5819
+
 title: 'Japanese Manhole Covers'
 date: '2010-08-28T14:28:19+02:00'
 author: 'Cédric Walter'

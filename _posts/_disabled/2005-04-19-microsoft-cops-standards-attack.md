@@ -1,5 +1,5 @@
 ---
-id: 1693
+
 title: 'Microsoft cops standards attack'
 date: '2005-04-19T19:44:14+02:00'
 author: 'Cédric Walter'

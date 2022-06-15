@@ -1,5 +1,5 @@
 ---
-id: 2391
+
 title: 'Access to Joomla CVS forge using eclipse'
 date: '2006-03-23T19:41:47+01:00'
 author: 'Cédric Walter'

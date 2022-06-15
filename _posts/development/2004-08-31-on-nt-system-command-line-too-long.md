@@ -1,5 +1,5 @@
 ---
-id: 539
+
 title: 'on NT system: command line too long'
 date: '2004-08-31T22:42:31+02:00'
 author: 'Cédric Walter'

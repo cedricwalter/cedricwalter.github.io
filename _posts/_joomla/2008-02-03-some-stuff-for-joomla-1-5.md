@@ -1,5 +1,5 @@
 ---
-id: 3176
+
 title: 'some stuff for Joomla! 1.5'
 date: '2008-02-03T17:35:44+01:00'
 author: 'Cédric Walter'

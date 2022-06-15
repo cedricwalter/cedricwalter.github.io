@@ -1,5 +1,5 @@
 ---
-id: 6046
+
 title: 'HTC Desire HD video'
 date: '2010-09-16T20:10:18+02:00'
 author: 'Cédric Walter'

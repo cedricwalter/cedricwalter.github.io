@@ -1,5 +1,5 @@
 ---
-id: 12380
+
 title: 'Kuranda Scenic Railway'
 date: '2020-03-31T17:58:00+02:00'
 author: 'Cédric Walter'

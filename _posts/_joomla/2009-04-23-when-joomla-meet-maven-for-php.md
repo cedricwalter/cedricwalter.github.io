@@ -1,5 +1,5 @@
 ---
-id: 4296
+
 title: 'When Joomla! meet Maven for PHP'
 date: '2009-04-23T21:56:18+02:00'
 author: 'Cédric Walter'

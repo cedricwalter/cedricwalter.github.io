@@ -1,5 +1,5 @@
 ---
-id: 5049
+
 title: 'Google Buzz in Gmail, see you there'
 date: '2010-02-12T19:46:41+01:00'
 author: 'Cédric Walter'

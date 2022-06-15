@@ -1,5 +1,5 @@
 ---
-id: 1015
+
 title: 'For Transmitter'
 date: '2004-09-05T16:58:50+02:00'
 author: 'Cédric Walter'

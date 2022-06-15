@@ -1,5 +1,5 @@
 ---
-id: 1347
+
 title: 'Google more evil than microsoft??'
 date: '2004-11-11T21:44:41+01:00'
 author: 'Cédric Walter'

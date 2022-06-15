@@ -1,5 +1,5 @@
 ---
-id: 2533
+
 title: 'My NAS array, testing performances and reliability'
 date: '2006-05-21T11:49:27+02:00'
 author: 'Cédric Walter'

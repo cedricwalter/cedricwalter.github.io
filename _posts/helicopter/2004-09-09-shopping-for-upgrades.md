@@ -1,5 +1,5 @@
 ---
-id: 1215
+
 title: 'Shopping for upgrades'
 date: '2004-09-09T22:30:30+02:00'
 author: 'Cédric Walter'

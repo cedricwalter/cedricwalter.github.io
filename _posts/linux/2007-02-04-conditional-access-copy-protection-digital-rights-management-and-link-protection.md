@@ -1,5 +1,5 @@
 ---
-id: 2867
+
 title: 'Conditional Access, Copy Protection, Digital Rights Management and Link Protection.'
 date: '2007-02-04T11:28:35+01:00'
 author: 'Cédric Walter'

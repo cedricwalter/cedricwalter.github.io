@@ -1,5 +1,5 @@
 ---
-id: 4011
+
 title: 'Avoid Hotlinking or so called bandwidth stealing'
 date: '2009-01-01T13:28:57+01:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 2707
+
 title: 'Beta version of OpenComment'
 date: '2006-09-24T15:46:59+02:00'
 author: 'Cédric Walter'

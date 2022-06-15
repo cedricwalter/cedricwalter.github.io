@@ -1,5 +1,5 @@
 ---
-id: 2479
+
 title: 'NAS Raid ready for the masses?'
 date: '2006-04-24T22:36:28+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 955
+
 title: 'Best HP48 HP49 Emulator'
 date: '2004-09-02T22:07:51+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 2964
+
 title: 'All my projects have been migrated to JoomlaCode.org'
 date: '2007-05-13T13:37:35+02:00'
 author: 'Cédric Walter'

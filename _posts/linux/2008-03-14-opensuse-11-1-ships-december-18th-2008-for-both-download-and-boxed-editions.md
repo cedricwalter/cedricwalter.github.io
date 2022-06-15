@@ -1,5 +1,5 @@
 ---
-id: 3975
+
 title: 'OpenSUSE 11.1 ships December 18th, 2008 for both download and boxed editions!'
 date: '2008-03-14T16:01:40+01:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 6755
+
 title: 'Demo site countdown module for Joomla! 1.5/1.6'
 date: '2011-05-19T21:03:59+02:00'
 author: 'Cédric Walter'

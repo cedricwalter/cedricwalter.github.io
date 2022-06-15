@@ -1,5 +1,5 @@
 ---
-id: 7831
+
 title: 'cedTag 2.6.0 for J2.5 released for Joomla 2.5'
 date: '2012-11-04T11:35:30+01:00'
 author: 'Cédric Walter'

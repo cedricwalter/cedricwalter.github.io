@@ -1,5 +1,5 @@
 ---
-id: 2870
+
 title: 'High speed camera'
 date: '2007-02-10T22:20:31+01:00'
 author: 'Cédric Walter'

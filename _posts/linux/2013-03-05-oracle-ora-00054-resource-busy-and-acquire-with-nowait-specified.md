@@ -1,5 +1,5 @@
 ---
-id: 7964
+
 title: 'Oracle ORA-00054: resource busy and acquire with NOWAIT specified'
 date: '2013-03-05T21:36:20+01:00'
 author: 'Cédric Walter'

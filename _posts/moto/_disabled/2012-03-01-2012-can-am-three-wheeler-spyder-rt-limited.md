@@ -1,5 +1,5 @@
 ---
-id: 7558
+
 title: '2012 Can-Am three-wheeler Spyder RT Limited'
 date: '2012-03-01T22:06:20+01:00'
 author: 'Cédric Walter'

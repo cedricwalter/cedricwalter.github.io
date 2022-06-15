@@ -1,5 +1,5 @@
 ---
-id: 1936
+
 title: 'Performances pures des roadsters 600ccm'
 date: '2005-07-22T19:58:23+02:00'
 author: 'Cédric Walter'

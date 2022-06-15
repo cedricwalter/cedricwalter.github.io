@@ -1,5 +1,5 @@
 ---
-id: 3265
+
 title: '48 inch of blue screen of death'
 date: '2008-03-14T10:10:11+01:00'
 author: 'Cédric Walter'

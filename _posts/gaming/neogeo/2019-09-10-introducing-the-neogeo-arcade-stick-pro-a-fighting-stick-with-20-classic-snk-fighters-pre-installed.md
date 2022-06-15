@@ -1,5 +1,5 @@
 ---
-id: 8772
+
 title: 'Introducing, the NEOGEO Arcade Stick Pro! A fighting stick with 20 classic SNK fighters pre-installed!'
 date: '2019-09-10T21:53:28+02:00'
 author: 'Cédric Walter'

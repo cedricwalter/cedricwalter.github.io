@@ -1,5 +1,5 @@
 ---
-id: 696
+
 title: 'La bobine de Ruhmkorff'
 date: '2004-09-01T19:31:49+02:00'
 author: 'Cédric Walter'

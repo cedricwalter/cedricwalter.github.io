@@ -1,5 +1,5 @@
 ---
-id: 142
+
 title: 'cheap parts'
 date: '2004-08-26T22:07:50+02:00'
 author: 'Cédric Walter'

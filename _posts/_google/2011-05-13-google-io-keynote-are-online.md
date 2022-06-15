@@ -1,5 +1,5 @@
 ---
-id: 6687
+
 title: 'Google IO Keynote are online'
 date: '2011-05-13T05:58:10+02:00'
 author: 'Cédric Walter'

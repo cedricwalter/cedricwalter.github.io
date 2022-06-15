@@ -1,5 +1,5 @@
 ---
-id: 8616
+
 title: 'Stitching several git repositories into a git fast-import stream'
 date: '2017-04-13T09:56:22+02:00'
 author: 'Cédric Walter'

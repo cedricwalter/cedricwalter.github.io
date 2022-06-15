@@ -1,5 +1,5 @@
 ---
-id: 4045
+
 title: 'Recommended Book for Joomla!'
 date: '2009-01-17T13:54:22+01:00'
 author: 'Cédric Walter'

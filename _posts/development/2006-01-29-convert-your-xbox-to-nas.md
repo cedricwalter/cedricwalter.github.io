@@ -1,5 +1,5 @@
 ---
-id: 2298
+
 title: 'Convert Your XBOX to NAS'
 date: '2006-01-29T14:37:21+01:00'
 author: 'Cédric Walter'

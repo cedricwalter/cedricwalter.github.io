@@ -1,5 +1,5 @@
 ---
-id: 6865
+
 title: '&#8220;Nespresso-like&#8221; capsules are quite good'
 date: '2011-06-13T20:23:21+02:00'
 author: 'Cédric Walter'

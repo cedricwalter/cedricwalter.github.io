@@ -1,5 +1,5 @@
 ---
-id: 3988
+
 title: 'Guest Book Akobook 5.1.2 for Joomla 1.5'
 date: '2008-12-16T20:34:03+01:00'
 author: 'Cédric Walter'

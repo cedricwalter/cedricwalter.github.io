@@ -1,5 +1,5 @@
 ---
-id: 3519
+
 title: 'Maven dependencies under control: excluding unwanted transitive dependencies'
 date: '2008-07-17T12:08:52+02:00'
 author: 'Cédric Walter'

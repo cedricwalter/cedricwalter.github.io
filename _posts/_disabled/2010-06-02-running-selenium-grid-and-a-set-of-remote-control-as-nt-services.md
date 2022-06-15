@@ -1,5 +1,5 @@
 ---
-id: 5248
+
 title: 'Running Selenium Grid and a set of Remote control as NT services'
 date: '2010-06-02T22:42:18+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 5972
+
 title: 'Joomla! 1.5 new extension for SmugMug Gallery'
 date: '2010-09-06T19:56:57+02:00'
 author: 'Cédric Walter'

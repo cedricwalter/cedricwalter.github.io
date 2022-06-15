@@ -1,5 +1,5 @@
 ---
-id: 2035
+
 title: 'Working antispam v1.1 package!'
 date: '2005-09-29T17:41:24+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 6759
+
 title: 'Flight Certificate &#8211; Certificates for STS-133 &#8211; Fly Your Face in Space'
 date: '2011-05-20T21:36:31+02:00'
 author: 'Cédric Walter'

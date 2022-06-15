@@ -1,5 +1,5 @@
 ---
-id: 7529
+
 title: '2012 BMW C600 Sport ABS Scooter'
 date: '2012-02-27T22:12:45+01:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 8779
+
 title: 'Star Wars: The Rise of Skywalker | Final Trailer'
 date: '2019-10-23T10:28:16+02:00'
 author: 'Cédric Walter'

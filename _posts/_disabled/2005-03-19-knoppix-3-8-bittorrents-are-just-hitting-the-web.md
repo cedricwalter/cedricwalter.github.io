@@ -1,5 +1,5 @@
 ---
-id: 1625
+
 title: 'Knoppix 3.8 bittorrents are just hitting the web'
 date: '2005-03-19T14:03:08+01:00'
 author: 'Cédric Walter'

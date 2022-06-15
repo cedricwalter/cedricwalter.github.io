@@ -1,5 +1,5 @@
 ---
-id: 4166
+
 title: 'Skype me button for Joomla!'
 date: '2009-02-15T20:21:37+01:00'
 author: 'Cédric Walter'

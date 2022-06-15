@@ -1,5 +1,5 @@
 ---
-id: 4345
+
 title: 'Atlassian just acquired GreenHopper'
 date: '2009-06-01T22:41:19+02:00'
 author: 'Cédric Walter'

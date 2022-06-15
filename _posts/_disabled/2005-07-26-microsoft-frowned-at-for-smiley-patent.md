@@ -1,5 +1,5 @@
 ---
-id: 1957
+
 title: 'Microsoft frowned at for smiley patent'
 date: '2005-07-26T17:37:36+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 3029
+
 title: 'PS3 PS3 1.90 firmware revision'
 date: '2007-07-25T00:04:24+02:00'
 author: 'Cédric Walter'

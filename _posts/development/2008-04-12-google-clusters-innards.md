@@ -1,5 +1,5 @@
 ---
-id: 3400
+
 title: 'Google clusters innards'
 date: '2008-04-12T13:11:13+02:00'
 author: 'Cédric Walter'

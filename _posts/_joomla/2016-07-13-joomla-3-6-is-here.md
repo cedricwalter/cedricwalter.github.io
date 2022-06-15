@@ -1,5 +1,5 @@
 ---
-id: 8402
+
 title: 'Joomla! 3.6 is Here'
 date: '2016-07-13T19:37:31+02:00'
 author: 'Cédric Walter'

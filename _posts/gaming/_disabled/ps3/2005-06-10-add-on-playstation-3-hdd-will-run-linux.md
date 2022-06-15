@@ -1,5 +1,5 @@
 ---
-id: 1787
+
 title: 'Add-on PlayStation 3 HDD will run Linux!!!'
 date: '2005-06-10T22:13:02+02:00'
 author: 'Cédric Walter'

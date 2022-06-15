@@ -1,5 +1,5 @@
 ---
-id: 4406
+
 title: 'I own cedric.walter on facebook'
 date: '2009-06-13T21:23:42+02:00'
 author: 'Cédric Walter'

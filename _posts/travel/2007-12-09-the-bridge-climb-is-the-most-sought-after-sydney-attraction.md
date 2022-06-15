@@ -1,5 +1,5 @@
 ---
-id: 3169
+
 title: 'The Bridge Climb is the most sought after Sydney attraction.'
 date: '2007-12-09T12:23:15+01:00'
 author: 'Cédric Walter'

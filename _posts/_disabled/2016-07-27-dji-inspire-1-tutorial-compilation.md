@@ -1,5 +1,5 @@
 ---
-id: 8494
+
 title: 'DJI Inspire 1 Tutorial Compilation'
 date: '2016-07-27T12:21:37+02:00'
 author: 'Cédric Walter'

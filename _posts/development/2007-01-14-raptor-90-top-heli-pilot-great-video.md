@@ -1,5 +1,5 @@
 ---
-id: 2837
+
 title: 'Raptor 90 + top heli pilot = great video'
 date: '2007-01-14T16:42:48+01:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 3143
+
 title: 'Event_logger an impressive GPS data logger'
 date: '2007-11-21T22:52:00+01:00'
 author: 'Cédric Walter'

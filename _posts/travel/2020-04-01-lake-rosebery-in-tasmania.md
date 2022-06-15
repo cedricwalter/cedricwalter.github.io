@@ -1,5 +1,5 @@
 ---
-id: 12483
+
 title: 'Lake Rosebery In Tasmania'
 date: '2020-04-01T17:18:00+02:00'
 author: 'Cédric Walter'

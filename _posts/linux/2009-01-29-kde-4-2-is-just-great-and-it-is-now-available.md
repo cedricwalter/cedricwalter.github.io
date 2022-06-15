@@ -1,5 +1,5 @@
 ---
-id: 4078
+
 title: 'KDE 4.2 is just great and it is now available'
 date: '2009-01-29T00:09:32+01:00'
 author: 'Cédric Walter'

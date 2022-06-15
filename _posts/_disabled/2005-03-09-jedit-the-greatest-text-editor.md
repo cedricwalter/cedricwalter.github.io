@@ -1,5 +1,5 @@
 ---
-id: 1618
+
 title: 'Jedit the greatest text editor'
 date: '2005-03-09T20:04:54+01:00'
 author: 'Cédric Walter'

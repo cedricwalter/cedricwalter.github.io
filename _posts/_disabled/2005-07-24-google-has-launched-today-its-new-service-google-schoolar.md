@@ -1,5 +1,5 @@
 ---
-id: 1940
+
 title: 'Google has launched today it&#8217;s new service: Google Schoolar'
 date: '2005-07-24T00:20:08+02:00'
 author: 'Cédric Walter'

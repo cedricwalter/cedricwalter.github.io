@@ -1,5 +1,5 @@
 ---
-id: 3477
+
 title: 'code_swarm commit is a form or art'
 date: '2008-06-15T20:23:27+02:00'
 author: 'Cédric Walter'

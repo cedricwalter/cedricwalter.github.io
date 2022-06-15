@@ -1,5 +1,5 @@
 ---
-id: 1378
+
 title: 'Visiting Italy: Galleria Vittorio Emanuele II'
 date: '2004-11-18T22:14:52+01:00'
 author: 'Cédric Walter'

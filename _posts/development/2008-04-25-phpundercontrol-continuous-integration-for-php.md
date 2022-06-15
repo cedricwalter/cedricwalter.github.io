@@ -1,5 +1,5 @@
 ---
-id: 3427
+
 title: 'phpUnderControl &#8211; Continuous Integration for PHP'
 date: '2008-04-25T18:47:08+02:00'
 author: 'Cédric Walter'

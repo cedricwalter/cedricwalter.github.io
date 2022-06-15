@@ -1,5 +1,5 @@
 ---
-id: 8266
+
 title: 'All my other sites'
 date: '2015-02-22T21:42:43+01:00'
 author: 'Cédric Walter'

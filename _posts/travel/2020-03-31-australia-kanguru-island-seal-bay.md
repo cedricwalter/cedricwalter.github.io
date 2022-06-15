@@ -1,5 +1,5 @@
 ---
-id: 12124
+
 title: 'Australia Kanguru Island / Seal Bay'
 date: '2020-03-31T16:10:44+02:00'
 author: 'Cédric Walter'

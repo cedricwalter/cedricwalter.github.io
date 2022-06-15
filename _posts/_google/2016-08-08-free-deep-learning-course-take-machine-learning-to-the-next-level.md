@@ -1,5 +1,5 @@
 ---
-id: 8557
+
 title: 'Free Deep Learning course: Take machine learning to the next level'
 date: '2016-08-08T15:43:31+02:00'
 author: 'Cédric Walter'

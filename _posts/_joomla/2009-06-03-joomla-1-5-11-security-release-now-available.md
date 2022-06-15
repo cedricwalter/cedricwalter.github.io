@@ -1,5 +1,5 @@
 ---
-id: 4349
+
 title: 'Joomla 1.5.11 Security Release Now Available'
 date: '2009-06-03T21:40:19+02:00'
 author: 'Cédric Walter'

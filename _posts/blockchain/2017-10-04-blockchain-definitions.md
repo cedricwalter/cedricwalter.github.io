@@ -1,5 +1,5 @@
 ---
-id: 8679
+
 title: 'Blockchain definitions'
 date: '2017-10-04T08:45:44+02:00'
 author: 'Cédric Walter'

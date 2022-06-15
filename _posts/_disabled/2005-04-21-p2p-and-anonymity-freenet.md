@@ -1,5 +1,5 @@
 ---
-id: 1698
+
 title: 'P2P and anonymity: Freenet'
 date: '2005-04-21T20:12:22+02:00'
 author: 'Cédric Walter'

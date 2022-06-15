@@ -1,5 +1,5 @@
 ---
-id: 761
+
 title: 'Building a new frame'
 date: '2004-09-01T22:40:43+02:00'
 author: 'Cédric Walter'

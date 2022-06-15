@@ -1,5 +1,5 @@
 ---
-id: 8185
+
 title: 'Clue a command line tool for Apache Lucene search software'
 date: '2014-02-03T21:45:25+01:00'
 author: 'Cédric Walter'

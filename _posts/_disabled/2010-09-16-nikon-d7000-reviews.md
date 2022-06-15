@@ -1,5 +1,5 @@
 ---
-id: 6042
+
 title: 'Nikon D7000 reviews'
 date: '2010-09-16T17:34:48+02:00'
 author: 'Cédric Walter'

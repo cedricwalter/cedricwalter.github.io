@@ -1,5 +1,5 @@
 ---
-id: 2635
+
 title: 'Release mosSociable 1.1.2'
 date: '2006-05-31T21:51:47+02:00'
 author: 'Cédric Walter'

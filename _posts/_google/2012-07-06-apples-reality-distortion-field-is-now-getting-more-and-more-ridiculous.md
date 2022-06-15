@@ -1,5 +1,5 @@
 ---
-id: 7734
+
 title: 'Apple’s Reality Distortion Field is now getting more and more ridiculous…'
 date: '2012-07-06T20:17:13+02:00'
 author: 'Cédric Walter'

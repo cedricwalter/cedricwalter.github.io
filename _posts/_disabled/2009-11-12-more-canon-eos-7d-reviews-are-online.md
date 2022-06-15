@@ -1,5 +1,5 @@
 ---
-id: 4873
+
 title: 'More Canon EOS 7D reviews are online'
 date: '2009-11-12T17:59:35+01:00'
 author: 'Cédric Walter'

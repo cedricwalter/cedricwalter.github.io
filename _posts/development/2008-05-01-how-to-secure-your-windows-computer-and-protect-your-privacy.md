@@ -1,5 +1,5 @@
 ---
-id: 3437
+
 title: 'How to Secure Your Windows Computer and Protect Your Privacy'
 date: '2008-05-01T21:40:23+02:00'
 author: 'Cédric Walter'

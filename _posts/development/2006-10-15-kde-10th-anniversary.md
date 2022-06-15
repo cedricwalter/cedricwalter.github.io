@@ -1,5 +1,5 @@
 ---
-id: 2724
+
 title: 'KDE 10th anniversary'
 date: '2006-10-15T18:37:54+02:00'
 author: 'Cédric Walter'

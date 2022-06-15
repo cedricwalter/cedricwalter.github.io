@@ -1,5 +1,5 @@
 ---
-id: 2054
+
 title: 'com_login in Joomla soon to support CAPTCHA'
 date: '2005-10-08T23:41:57+02:00'
 author: 'Cédric Walter'

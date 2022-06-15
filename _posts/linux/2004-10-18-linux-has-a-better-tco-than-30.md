@@ -1,5 +1,5 @@
 ---
-id: 1331
+
 title: 'Linux has a better TCO than 30%'
 date: '2004-10-18T14:11:27+02:00'
 author: 'Cédric Walter'

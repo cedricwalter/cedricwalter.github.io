@@ -1,5 +1,5 @@
 ---
-id: 3045
+
 title: 'Canon EOS 40D review'
 date: '2007-09-08T22:47:11+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 1249
+
 title: 'Hélicoptère Electrique ou Thermique?'
 date: '2004-10-05T18:32:53+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 7462
+
 title: 'Speed up your web pages by embedding images in CSS.'
 date: '2012-01-29T19:56:47+01:00'
 author: 'Cédric Walter'

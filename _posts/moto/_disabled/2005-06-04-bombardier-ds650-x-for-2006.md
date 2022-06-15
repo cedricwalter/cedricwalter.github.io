@@ -1,5 +1,5 @@
 ---
-id: 1774
+
 title: 'Bombardier DS650 X for 2006!'
 date: '2005-06-04T18:45:54+02:00'
 author: 'Cédric Walter'

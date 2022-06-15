@@ -1,5 +1,5 @@
 ---
-id: 2097
+
 title: 'Working com_securityimages 2.0!'
 date: '2005-11-07T19:25:27+01:00'
 author: 'Cédric Walter'
@@ -28,7 +28,7 @@ tags:
 
 - The installer is not up to date, I have at least 400% more files than in release 1.1.X … 🙂
 - The database schema has changed (one column more in DB) -> a migration path will be provided for all 1.1.X users
-- I’ve broke an interface, or better said: if you do not change your code (understand install new version of akobook, akocomment, contact etc…), the reload function will not work, if you use the latest check() method, it will (I will provide new version for all components I am responsible)
+- I’ve broke an interface, or better sa
 
 This time I will test installation of component in my TEST and PROD #Joomla environment…  
 Code already checked into CVS  

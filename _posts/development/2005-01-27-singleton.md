@@ -1,5 +1,5 @@
 ---
-id: 1527
+
 title: Singleton
 date: '2005-01-27T19:55:43+01:00'
 author: 'Cédric Walter'

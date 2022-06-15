@@ -1,5 +1,5 @@
 ---
-id: 4773
+
 title: 'Watermarking your images with ImageMagick'
 date: '2009-10-13T00:10:12+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 1397
+
 title: 'Replacing M$ frontpage for free'
 date: '2004-12-02T21:14:28+01:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 2651
+
 title: 'Joomla 1.0.9  Invalid argument supplied for foreach() in frontend.php on line 85'
 date: '2006-06-14T11:19:33+02:00'
 author: 'Cédric Walter'

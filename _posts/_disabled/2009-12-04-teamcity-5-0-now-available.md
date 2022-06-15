@@ -1,5 +1,5 @@
 ---
-id: 4889
+
 title: 'TeamCity 5.0 now available'
 date: '2009-12-04T13:43:41+01:00'
 author: 'Cédric Walter'

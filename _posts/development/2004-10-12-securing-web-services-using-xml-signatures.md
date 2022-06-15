@@ -1,5 +1,5 @@
 ---
-id: 1277
+
 title: 'Securing Web services: Using XML signatures'
 date: '2004-10-12T16:59:25+02:00'
 author: 'Cédric Walter'

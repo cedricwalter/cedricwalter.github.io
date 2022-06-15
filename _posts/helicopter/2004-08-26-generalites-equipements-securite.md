@@ -1,5 +1,5 @@
 ---
-id: 184
+
 title: 'Généralités, Equipements, Sécurité'
 date: '2004-08-26T22:43:59+02:00'
 author: 'Cédric Walter'

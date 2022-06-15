@@ -1,5 +1,5 @@
 ---
-id: 144
+
 title: 'What often break in a crash'
 date: '2004-08-26T22:08:50+02:00'
 author: 'Cédric Walter'

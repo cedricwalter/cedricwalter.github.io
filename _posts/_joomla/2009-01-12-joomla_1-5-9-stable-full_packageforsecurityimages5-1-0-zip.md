@@ -1,5 +1,5 @@
 ---
-id: 4035
+
 title: Joomla_1.5.9-Stable-Full_PackageForSecurityImages5.1.0.zip
 date: '2009-01-12T23:00:25+01:00'
 author: 'Cédric Walter'

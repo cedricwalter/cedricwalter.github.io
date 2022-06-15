@@ -1,5 +1,5 @@
 ---
-id: 1598
+
 title: 'Ako comment smileys icons pack'
 date: '2005-03-04T23:19:21+01:00'
 author: 'Cédric Walter'

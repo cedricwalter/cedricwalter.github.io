@@ -1,5 +1,5 @@
 ---
-id: 1482
+
 title: 'Versioning, patchs, working with CVS'
 date: '2005-01-16T20:34:27+01:00'
 author: 'Cédric Walter'

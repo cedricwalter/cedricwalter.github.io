@@ -1,5 +1,5 @@
 ---
-id: 7726
+
 title: 'Agile Testing Poster'
 date: '2012-06-26T09:10:49+02:00'
 author: 'Cédric Walter'

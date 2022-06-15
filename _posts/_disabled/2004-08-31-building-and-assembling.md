@@ -1,5 +1,5 @@
 ---
-id: 591
+
 title: 'Building and assembling'
 date: '2004-08-31T23:30:34+02:00'
 author: 'Cédric Walter'

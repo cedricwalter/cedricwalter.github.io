@@ -1,5 +1,5 @@
 ---
-id: 3177
+
 title: 'mossociable 1.5.0 for Joomla! 1.5'
 date: '2008-02-04T18:42:23+01:00'
 author: 'Cédric Walter'

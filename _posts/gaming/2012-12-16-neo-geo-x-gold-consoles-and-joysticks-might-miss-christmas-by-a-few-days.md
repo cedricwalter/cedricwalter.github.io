@@ -1,5 +1,5 @@
 ---
-id: 7926
+
 title: 'Neo Geo X Gold consoles and joysticks might miss Christmas by a few days'
 date: '2012-12-16T18:33:44+01:00'
 author: 'Cédric Walter'

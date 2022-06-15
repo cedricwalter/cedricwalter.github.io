@@ -1,5 +1,5 @@
 ---
-id: 3258
+
 title: 'Debugging PHP scripts in Eclipse'
 date: '2008-03-10T20:39:44+01:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 5391
+
 title: 'Linux has never been looking so good as with MeeGo 1.1'
 date: '2010-06-26T20:02:59+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 13168
+
 title: 'Grimsel Pass'
 date: '2020-04-14T13:05:09+02:00'
 author: 'Cédric Walter'

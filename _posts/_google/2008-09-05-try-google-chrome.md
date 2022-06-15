@@ -1,5 +1,5 @@
 ---
-id: 3740
+
 title: 'try Google Chrome!'
 date: '2008-09-05T21:37:59+02:00'
 author: 'Cédric Walter'

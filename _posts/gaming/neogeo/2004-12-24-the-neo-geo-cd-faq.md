@@ -1,5 +1,5 @@
 ---
-id: 1447
+
 title: 'The NEO GEO CD FAQ'
 date: '2004-12-24T23:03:43+01:00'
 author: 'Cédric Walter'

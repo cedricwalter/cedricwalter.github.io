@@ -1,5 +1,5 @@
 ---
-id: 3061
+
 title: 'Send created pdf with javamail'
 date: '2007-09-30T12:16:33+02:00'
 author: 'Cédric Walter'

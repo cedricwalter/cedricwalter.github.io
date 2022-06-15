@@ -1,5 +1,5 @@
 ---
-id: 1624
+
 title: 'Microsoft&#8217;s draft licence, step by step'
 date: '2005-03-19T13:28:57+01:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 3426
+
 title: 'A strategy for Integrations versions with maven&#8230;'
 date: '2008-04-25T16:11:44+02:00'
 author: 'Cédric Walter'

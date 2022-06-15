@@ -1,5 +1,5 @@
 ---
-id: 6790
+
 title: 'Jakks Namco TV Games Video Game System'
 date: '2011-06-04T13:50:04+02:00'
 author: 'Cédric Walter'

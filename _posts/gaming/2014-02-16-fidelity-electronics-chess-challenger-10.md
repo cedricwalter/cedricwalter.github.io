@@ -1,5 +1,5 @@
 ---
-id: 8216
+
 title: 'Fidelity Electronics Chess Challenger 10'
 date: '2014-02-16T19:53:13+01:00'
 author: 'Cédric Walter'

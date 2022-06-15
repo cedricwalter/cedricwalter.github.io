@@ -1,5 +1,5 @@
 ---
-id: 1446
+
 title: 'Free IBM book on migrating to desktop Linux'
 date: '2004-12-24T18:38:32+01:00'
 author: 'Cédric Walter'

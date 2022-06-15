@@ -1,5 +1,5 @@
 ---
-id: 7185
+
 title: 'Install PHP support PDT in Eclipse Indigo'
 date: '2011-09-27T21:13:31+02:00'
 author: 'Cédric Walter'

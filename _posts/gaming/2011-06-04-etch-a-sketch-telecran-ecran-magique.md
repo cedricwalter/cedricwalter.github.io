@@ -1,5 +1,5 @@
 ---
-id: 6762
+
 title: 'Etch A Sketch / Telecran / Ecran Magique'
 date: '2011-06-04T11:04:49+02:00'
 author: 'Cédric Walter'

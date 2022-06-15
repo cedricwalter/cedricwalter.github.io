@@ -1,5 +1,5 @@
 ---
-id: 5823
+
 title: 'Technology management using artifact life cycles'
 date: '2010-08-28T16:23:51+02:00'
 author: 'Cédric Walter'

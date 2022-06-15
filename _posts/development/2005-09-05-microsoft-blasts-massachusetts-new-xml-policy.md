@@ -1,5 +1,5 @@
 ---
-id: 2022
+
 title: 'Microsoft Blasts Massachusetts New XML Policy'
 date: '2005-09-05T09:52:29+02:00'
 author: 'Cédric Walter'

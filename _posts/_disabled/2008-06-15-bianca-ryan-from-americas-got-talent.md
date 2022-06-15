@@ -1,5 +1,5 @@
 ---
-id: 3476
+
 title: 'Bianca Ryan from America&#8217;s Got Talent'
 date: '2008-06-15T19:59:23+02:00'
 author: 'Cédric Walter'

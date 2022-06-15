@@ -1,5 +1,5 @@
 ---
-id: 7525
+
 title: '2012 Motorcycle Honda VT1300CXA'
 date: '2012-02-25T21:46:36+01:00'
 author: 'Cédric Walter'

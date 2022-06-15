@@ -1,5 +1,5 @@
 ---
-id: 6446
+
 title: 'Little Big Planet 2 reserved'
 date: '2010-12-25T21:44:30+01:00'
 author: 'Cédric Walter'

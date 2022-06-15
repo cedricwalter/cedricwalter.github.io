@@ -1,5 +1,5 @@
 ---
-id: 12769
+
 title: 'Singapore Flyer'
 date: '2020-04-10T14:57:06+02:00'
 author: 'Cédric Walter'

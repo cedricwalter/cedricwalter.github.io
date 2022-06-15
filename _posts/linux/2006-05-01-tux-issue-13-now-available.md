@@ -1,5 +1,5 @@
 ---
-id: 2508
+
 title: 'TUX Issue 13 Now Available'
 date: '2006-05-01T19:26:24+02:00'
 author: 'Cédric Walter'

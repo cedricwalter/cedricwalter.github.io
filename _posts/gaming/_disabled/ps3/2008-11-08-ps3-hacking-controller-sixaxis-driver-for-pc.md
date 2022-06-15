@@ -1,5 +1,5 @@
 ---
-id: 3901
+
 title: 'PS3 hacking: Controller SIXAXIS driver for PC'
 date: '2008-11-08T21:26:32+01:00'
 author: 'Cédric Walter'

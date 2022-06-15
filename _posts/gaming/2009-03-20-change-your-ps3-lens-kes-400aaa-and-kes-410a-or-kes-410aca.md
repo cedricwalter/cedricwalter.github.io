@@ -1,5 +1,5 @@
 ---
-id: 4197
+
 title: 'Change your Ps3 lens KES-400AAA and KES-410A or KES-410ACA'
 date: '2009-03-20T19:35:32+01:00'
 author: 'Cédric Walter'

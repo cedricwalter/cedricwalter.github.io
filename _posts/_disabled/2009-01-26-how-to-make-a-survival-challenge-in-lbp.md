@@ -1,5 +1,5 @@
 ---
-id: 4061
+
 title: 'How to make a survival challenge in LBP!'
 date: '2009-01-26T22:09:05+01:00'
 author: 'Cédric Walter'

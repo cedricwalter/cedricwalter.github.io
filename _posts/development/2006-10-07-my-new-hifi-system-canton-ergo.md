@@ -1,5 +1,5 @@
 ---
-id: 2719
+
 title: 'my new HIFI system: Canton Ergo'
 date: '2006-10-07T23:21:33+02:00'
 author: 'Cédric Walter'

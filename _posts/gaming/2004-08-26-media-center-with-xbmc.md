@@ -1,5 +1,5 @@
 ---
-id: 180
+
 title: 'Media Center with XBMC'
 date: '2004-08-26T22:36:30+02:00'
 author: 'Cédric Walter'

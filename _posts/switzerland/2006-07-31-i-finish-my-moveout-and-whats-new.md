@@ -1,5 +1,5 @@
 ---
-id: 2667
+
 title: 'I finish my moveout, and whats new'
 date: '2006-07-31T22:22:08+02:00'
 author: 'Cédric Walter'

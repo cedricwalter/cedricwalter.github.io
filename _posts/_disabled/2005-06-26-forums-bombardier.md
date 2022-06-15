@@ -1,5 +1,5 @@
 ---
-id: 1804
+
 title: 'Forums Bombardier'
 date: '2005-06-26T10:57:42+02:00'
 author: 'Cédric Walter'

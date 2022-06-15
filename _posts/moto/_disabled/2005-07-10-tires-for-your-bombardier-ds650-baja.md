@@ -1,5 +1,5 @@
 ---
-id: 1905
+
 title: 'Tires for Your Bombardier ds650 baja'
 date: '2005-07-10T15:44:28+02:00'
 author: 'Cédric Walter'

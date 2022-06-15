@@ -1,5 +1,5 @@
 ---
-id: 2347
+
 title: 'SecurityImages 3.0.0 final released'
 date: '2006-03-04T16:55:56+01:00'
 author: 'Cédric Walter'

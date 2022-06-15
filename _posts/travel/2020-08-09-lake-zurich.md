@@ -1,5 +1,5 @@
 ---
-id: 13612
+
 title: 'Lake Zürich'
 date: '2020-08-09T16:46:39+02:00'
 author: 'Cédric Walter'

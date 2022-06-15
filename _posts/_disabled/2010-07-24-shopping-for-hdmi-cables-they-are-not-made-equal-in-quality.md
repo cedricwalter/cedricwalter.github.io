@@ -1,5 +1,5 @@
 ---
-id: 5645
+
 title: 'Shopping for HDMI cables? they are not made equal in quality…'
 date: '2010-07-24T10:59:20+02:00'
 author: 'Cédric Walter'

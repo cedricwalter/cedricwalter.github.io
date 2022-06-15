@@ -1,5 +1,5 @@
 ---
-id: 2962
+
 title: 'Forums up and running: 332 users registered'
 date: '2007-05-13T11:16:22+02:00'
 author: 'Cédric Walter'

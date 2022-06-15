@@ -1,5 +1,5 @@
 ---
-id: 4485
+
 title: 'Smugmug/picasa/flickr extensions for Joomla! now available at JED'
 date: '2009-06-29T23:34:14+02:00'
 author: 'Cédric Walter'

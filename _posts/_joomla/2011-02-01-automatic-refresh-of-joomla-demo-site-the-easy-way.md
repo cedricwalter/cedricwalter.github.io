@@ -1,5 +1,5 @@
 ---
-id: 6523
+
 title: 'Automatic refresh of Joomla! demo site the easy way'
 date: '2011-02-01T11:35:18+01:00'
 author: 'Cédric Walter'

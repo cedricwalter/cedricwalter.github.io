@@ -1,5 +1,5 @@
 ---
-id: 3470
+
 title: 'SBB trains live on www.swisstrains.ch'
 date: '2008-05-31T10:57:00+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 3005
+
 title: 'I am in holidays :-)'
 date: '2007-07-12T14:45:53+02:00'
 author: 'Cédric Walter'

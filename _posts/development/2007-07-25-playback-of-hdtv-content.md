@@ -1,5 +1,5 @@
 ---
-id: 3030
+
 title: 'Playback of HDTV content'
 date: '2007-07-25T11:35:45+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 1919
+
 title: 'Shoei XR1000 Badge TC-5'
 date: '2005-07-12T20:17:01+02:00'
 author: 'Cédric Walter'

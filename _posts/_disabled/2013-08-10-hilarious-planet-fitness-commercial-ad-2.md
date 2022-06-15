@@ -1,5 +1,5 @@
 ---
-id: 8153
+
 title: 'Hilarious Planet Fitness Commercial Ad'
 date: '2013-08-10T18:04:54+02:00'
 author: 'Cédric Walter'

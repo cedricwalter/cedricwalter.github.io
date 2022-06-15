@@ -1,5 +1,5 @@
 ---
-id: 6437
+
 title: 'Auto completion of Icesoft Icefaces tags in eclipse Helios'
 date: '2010-12-25T18:55:22+01:00'
 author: 'Cédric Walter'

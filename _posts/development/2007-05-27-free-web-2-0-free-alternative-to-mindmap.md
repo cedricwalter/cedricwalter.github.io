@@ -1,5 +1,5 @@
 ---
-id: 2974
+
 title: 'Free WEB 2.0 Free alternative to MINDMAP'
 date: '2007-05-27T11:55:09+02:00'
 author: 'Cédric Walter'

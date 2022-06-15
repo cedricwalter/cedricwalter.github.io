@@ -1,5 +1,5 @@
 ---
-id: 4532
+
 title: 'M2Eclipse Maven FAQ'
 date: '2009-07-17T22:49:48+02:00'
 author: 'Cédric Walter'

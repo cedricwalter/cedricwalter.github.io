@@ -1,5 +1,5 @@
 ---
-id: 2856
+
 title: 'Hilarious Mac ads'
 date: '2007-01-29T00:08:54+01:00'
 author: 'Cédric Walter'

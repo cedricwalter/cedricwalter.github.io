@@ -1,5 +1,5 @@
 ---
-id: 145
+
 title: 'Clutch unengaging and sliping'
 date: '2004-08-26T22:09:16+02:00'
 author: 'Cédric Walter'

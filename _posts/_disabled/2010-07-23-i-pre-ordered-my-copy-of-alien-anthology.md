@@ -1,5 +1,5 @@
 ---
-id: 5569
+
 title: 'I pre-ordered my copy of Alien Anthology'
 date: '2010-07-23T21:07:54+02:00'
 author: 'Cédric Walter'

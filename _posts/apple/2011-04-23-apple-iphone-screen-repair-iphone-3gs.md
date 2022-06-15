@@ -1,5 +1,5 @@
 ---
-id: 6661
+
 title: 'Apple iPhone Screen Repair: iPhone 3GS'
 date: '2011-04-23T13:26:59+02:00'
 author: 'Cédric Walter'

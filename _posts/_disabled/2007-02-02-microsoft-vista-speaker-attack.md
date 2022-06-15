@@ -1,5 +1,5 @@
 ---
-id: 2862
+
 title: 'Microsoft Vista speaker attack&#8230;'
 date: '2007-02-02T20:52:16+01:00'
 author: 'Cédric Walter'

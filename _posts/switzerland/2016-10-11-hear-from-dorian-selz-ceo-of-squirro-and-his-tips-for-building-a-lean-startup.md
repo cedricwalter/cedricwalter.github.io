@@ -1,5 +1,5 @@
 ---
-id: 8596
+
 title: 'Hear from Dorian Selz, CEO of Squirro, and his tips for building a Lean startup'
 date: '2016-10-11T11:54:58+02:00'
 author: 'Cédric Walter'

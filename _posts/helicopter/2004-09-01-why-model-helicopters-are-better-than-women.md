@@ -1,5 +1,5 @@
 ---
-id: 915
+
 title: 'Why Model Helicopters are better than women:'
 date: '2004-09-01T23:36:28+02:00'
 author: 'Cédric Walter'

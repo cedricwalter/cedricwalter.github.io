@@ -1,5 +1,5 @@
 ---
-id: 562
+
 title: 'Comment lutter contre le spam?'
 date: '2004-08-31T23:13:08+02:00'
 author: 'Cédric Walter'

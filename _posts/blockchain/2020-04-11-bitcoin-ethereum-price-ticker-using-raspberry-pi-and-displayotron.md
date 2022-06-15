@@ -1,5 +1,5 @@
 ---
-id: 12908
+
 title: 'Bitcoin And Ethereum price Ticker using Raspberry Pi and Display-O-Tron'
 date: '2020-04-11T10:58:08+02:00'
 author: 'Cédric Walter'

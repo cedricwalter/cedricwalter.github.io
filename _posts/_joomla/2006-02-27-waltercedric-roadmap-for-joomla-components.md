@@ -1,5 +1,5 @@
 ---
-id: 2330
+
 title: 'waltercedric roadmap for joomla components'
 date: '2006-02-27T10:42:08+01:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 3382
+
 title: 'SlideShare, get presentations'
 date: '2008-04-11T23:04:49+02:00'
 author: 'Cédric Walter'

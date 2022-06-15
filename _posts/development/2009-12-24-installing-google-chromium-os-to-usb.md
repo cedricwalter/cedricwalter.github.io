@@ -1,5 +1,5 @@
 ---
-id: 4917
+
 title: 'installing Google Chromium OS to USB'
 date: '2009-12-24T19:15:11+01:00'
 author: 'Cédric Walter'

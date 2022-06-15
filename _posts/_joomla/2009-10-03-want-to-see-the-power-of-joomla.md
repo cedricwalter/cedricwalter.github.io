@@ -1,5 +1,5 @@
 ---
-id: 4728
+
 title: 'Want to see the power of Joomla?'
 date: '2009-10-03T00:04:40+02:00'
 author: 'Cédric Walter'

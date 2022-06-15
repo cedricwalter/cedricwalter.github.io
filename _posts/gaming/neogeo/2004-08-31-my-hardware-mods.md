@@ -1,5 +1,5 @@
 ---
-id: 642
+
 title: 'My Hardware mods'
 date: '2004-08-31T23:49:51+02:00'
 author: 'Cédric Walter'

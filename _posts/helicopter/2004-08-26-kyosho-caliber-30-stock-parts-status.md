@@ -1,5 +1,5 @@
 ---
-id: 430
+
 title: 'Kyosho Caliber 30 Stock Parts Status'
 date: '2004-08-26T23:35:32+02:00'
 author: 'Cédric Walter'

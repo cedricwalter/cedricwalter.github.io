@@ -1,5 +1,5 @@
 ---
-id: 7915
+
 title: 'Galaxy Fight'
 date: '2012-11-04T18:37:59+01:00'
 author: 'Cédric Walter'

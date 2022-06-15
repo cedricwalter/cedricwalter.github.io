@@ -1,5 +1,5 @@
 ---
-id: 8000
+
 title: 'The Appthority® App Report'
 date: '2013-04-05T19:56:11+02:00'
 author: 'Cédric Walter'

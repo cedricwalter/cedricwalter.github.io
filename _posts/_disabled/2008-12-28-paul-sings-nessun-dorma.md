@@ -1,5 +1,5 @@
 ---
-id: 3997
+
 title: 'Paul sings Nessun Dorma'
 date: '2008-12-28T14:21:44+01:00'
 author: 'Cédric Walter'

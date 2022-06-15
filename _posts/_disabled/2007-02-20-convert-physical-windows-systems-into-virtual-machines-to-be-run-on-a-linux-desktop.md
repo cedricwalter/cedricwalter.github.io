@@ -1,5 +1,5 @@
 ---
-id: 2886
+
 title: 'Convert Physical Windows Systems Into Virtual Machines To Be Run On A Linux Desktop'
 date: '2007-02-20T20:06:00+01:00'
 author: 'Cédric Walter'

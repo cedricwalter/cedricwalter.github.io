@@ -1,5 +1,5 @@
 ---
-id: 1798
+
 title: 'Google list of aquisition&#8230;what&#8217;s the next company?'
 date: '2005-06-15T18:26:17+02:00'
 author: 'Cédric Walter'

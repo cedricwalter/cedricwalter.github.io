@@ -1,5 +1,5 @@
 ---
-id: 3024
+
 title: 'SIM  system and services monitor'
 date: '2007-07-21T13:23:58+02:00'
 author: 'Cédric Walter'

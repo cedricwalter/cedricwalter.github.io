@@ -1,5 +1,5 @@
 ---
-id: 2261
+
 title: 'LCD TV or Home Cinema projector? BOTH'
 date: '2006-01-04T22:59:39+01:00'
 author: 'Cédric Walter'

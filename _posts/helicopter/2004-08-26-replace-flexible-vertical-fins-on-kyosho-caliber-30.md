@@ -1,5 +1,5 @@
 ---
-id: 117
+
 title: 'Replace flexible vertical fins on kyosho caliber 30'
 date: '2004-08-26T21:57:50+02:00'
 author: 'Cédric Walter'

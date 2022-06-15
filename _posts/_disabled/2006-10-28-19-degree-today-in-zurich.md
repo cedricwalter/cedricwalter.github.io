@@ -1,5 +1,5 @@
 ---
-id: 2737
+
 title: '19 degree today in zurich'
 date: '2006-10-28T22:36:07+02:00'
 author: 'Cédric Walter'

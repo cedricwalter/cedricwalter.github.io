@@ -1,5 +1,5 @@
 ---
-id: 11114
+
 title: 'Must Have DJI FPV System Accessories and Upgrade Parts'
 date: '2020-03-26T22:23:55+01:00'
 author: 'Cédric Walter'

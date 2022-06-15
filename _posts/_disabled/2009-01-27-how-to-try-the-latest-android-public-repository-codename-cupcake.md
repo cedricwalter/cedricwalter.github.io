@@ -1,5 +1,5 @@
 ---
-id: 4071
+
 title: 'How to try the latest Android public repository: codename Cupcake'
 date: '2009-01-27T22:45:43+01:00'
 author: 'Cédric Walter'

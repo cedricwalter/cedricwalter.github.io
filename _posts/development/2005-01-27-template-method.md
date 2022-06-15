@@ -1,5 +1,5 @@
 ---
-id: 1531
+
 title: 'Template method'
 date: '2005-01-27T20:00:33+01:00'
 author: 'Cédric Walter'

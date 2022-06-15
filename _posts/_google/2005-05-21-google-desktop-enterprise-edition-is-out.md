@@ -1,5 +1,5 @@
 ---
-id: 1751
+
 title: 'Google desktop enterprise edition is out!'
 date: '2005-05-21T13:26:45+02:00'
 author: 'Cédric Walter'

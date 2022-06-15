@@ -1,5 +1,5 @@
 ---
-id: 7506
+
 title: '2012 Indian Motorcycle Chief Vintage'
 date: '2012-02-20T21:41:08+01:00'
 author: 'Cédric Walter'

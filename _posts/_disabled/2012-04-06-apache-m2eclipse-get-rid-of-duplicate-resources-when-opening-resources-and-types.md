@@ -1,5 +1,5 @@
 ---
-id: 7581
+
 title: 'Apache M2Eclipse: Get rid of Duplicate resources when opening resources and types'
 date: '2012-04-06T13:25:32+02:00'
 author: 'Cédric Walter'

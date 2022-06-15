@@ -1,5 +1,5 @@
 ---
-id: 305
+
 title: 'Migration to linux'
 date: '2004-08-26T23:11:16+02:00'
 author: 'Cédric Walter'

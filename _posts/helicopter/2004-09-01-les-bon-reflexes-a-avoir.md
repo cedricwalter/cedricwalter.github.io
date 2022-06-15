@@ -1,5 +1,5 @@
 ---
-id: 927
+
 title: 'Les Bon reflexes à avoir&#8230;'
 date: '2004-09-01T23:44:53+02:00'
 author: 'Cédric Walter'

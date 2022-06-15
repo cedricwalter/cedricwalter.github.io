@@ -1,5 +1,5 @@
 ---
-id: 8681
+
 title: 'Big Bang Blockchain: La seconde révolution d&#8217;internet de Stéphane Loignon'
 date: '2017-10-05T08:43:16+02:00'
 author: 'Cédric Walter'

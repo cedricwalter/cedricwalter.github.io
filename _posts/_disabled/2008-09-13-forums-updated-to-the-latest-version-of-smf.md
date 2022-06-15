@@ -1,5 +1,5 @@
 ---
-id: 3770
+
 title: 'Forums updated to the latest version of SMF'
 date: '2008-09-13T21:00:23+02:00'
 author: 'Cédric Walter'

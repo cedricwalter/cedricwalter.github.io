@@ -1,5 +1,5 @@
 ---
-id: 3929
+
 title: 'LIFE Photo Archive available on Google Image Search'
 date: '2008-11-19T22:44:21+01:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 1039
+
 title: 'GenÃ¨ve salon de lÂ´auto'
 date: '2004-09-05T17:56:04+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 3495
+
 title: 'JAZOON 2008 international conference on java &#8211; Zürich 23 to 26 June 2008'
 date: '2008-06-24T22:53:49+02:00'
 author: 'Cédric Walter'

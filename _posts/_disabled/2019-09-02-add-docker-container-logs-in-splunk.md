@@ -1,5 +1,5 @@
 ---
-id: 8764
+
 title: 'Add Docker container logs in Splunk'
 date: '2019-09-02T13:34:27+02:00'
 author: 'Cédric Walter'

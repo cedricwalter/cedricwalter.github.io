@@ -1,5 +1,5 @@
 ---
-id: 1960
+
 title: 'Quel est donc le codec des dentistes?'
 date: '2005-07-28T10:59:53+02:00'
 author: 'Cédric Walter'

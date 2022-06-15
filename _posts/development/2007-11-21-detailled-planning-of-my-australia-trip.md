@@ -1,5 +1,5 @@
 ---
-id: 3122
+
 title: 'Detailled planning of my Australia trip'
 date: '2007-11-21T13:48:31+01:00'
 author: 'Cédric Walter'

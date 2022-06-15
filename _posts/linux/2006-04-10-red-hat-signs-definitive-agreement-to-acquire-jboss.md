@@ -1,5 +1,5 @@
 ---
-id: 2446
+
 title: 'Red Hat Signs Definitive Agreement to Acquire JBoss'
 date: '2006-04-10T18:37:45+02:00'
 author: 'Cédric Walter'

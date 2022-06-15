@@ -1,5 +1,5 @@
 ---
-id: 2845
+
 title: 'Blu-ray Encryption Defeated'
 date: '2007-01-25T21:42:53+01:00'
 author: 'Cédric Walter'

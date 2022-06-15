@@ -1,5 +1,5 @@
 ---
-id: 7432
+
 title: 'PROTESTS AGAINST SOPA'
 date: '2012-01-18T15:26:46+01:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 1236
+
 title: Metapatterns
 date: '2004-09-28T17:38:05+02:00'
 author: 'Cédric Walter'

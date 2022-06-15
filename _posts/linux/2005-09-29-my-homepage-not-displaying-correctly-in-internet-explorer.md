@@ -1,5 +1,5 @@
 ---
-id: 2037
+
 title: 'My homepage not displaying correctly in Internet explorer'
 date: '2005-09-29T20:43:06+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 1789
+
 title: 'Most famous VOIP software: Skype'
 date: '2005-06-11T11:52:50+02:00'
 author: 'Cédric Walter'

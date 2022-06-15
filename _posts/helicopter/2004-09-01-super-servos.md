@@ -1,5 +1,5 @@
 ---
-id: 913
+
 title: 'Super Servos'
 date: '2004-09-01T23:34:49+02:00'
 author: 'Cédric Walter'

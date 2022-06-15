@@ -1,5 +1,5 @@
 ---
-id: 692
+
 title: 'LuminGlas tm'
 date: '2004-09-01T19:27:15+02:00'
 author: 'Cédric Walter'

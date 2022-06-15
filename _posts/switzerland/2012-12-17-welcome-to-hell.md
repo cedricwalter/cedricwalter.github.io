@@ -1,5 +1,5 @@
 ---
-id: 7927
+
 title: 'Welcome to Switzerland'
 date: '2012-12-17T15:28:15+01:00'
 author: 'Cédric Walter'

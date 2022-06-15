@@ -1,5 +1,5 @@
 ---
-id: 4055
+
 title: 'Setting up your workstation for Joomla! development'
 date: '2009-01-21T18:02:06+01:00'
 author: 'Cédric Walter'

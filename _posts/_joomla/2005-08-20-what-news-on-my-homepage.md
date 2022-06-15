@@ -1,5 +1,5 @@
 ---
-id: 2005
+
 title: 'What news on my homepage'
 date: '2005-08-20T10:07:56+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 13223
+
 title: 'Ninebot KickScooter MAX G30D'
 date: '2020-04-16T16:00:55+02:00'
 author: 'Cédric Walter'

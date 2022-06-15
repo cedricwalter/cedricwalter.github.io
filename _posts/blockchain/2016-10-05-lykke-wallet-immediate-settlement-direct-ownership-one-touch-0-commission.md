@@ -1,5 +1,5 @@
 ---
-id: 8593
+
 title: 'Lykke Wallet Immediate settlement. Direct ownership. One touch. 0% commission'
 date: '2016-10-05T20:47:08+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 4611
+
 title: 'Maven and Selenium for integration testing'
 date: '2009-09-06T09:59:03+02:00'
 author: 'Cédric Walter'

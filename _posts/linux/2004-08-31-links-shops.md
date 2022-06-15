@@ -1,5 +1,5 @@
 ---
-id: 500
+
 title: 'Links, shops'
 date: '2004-08-31T22:05:52+02:00'
 author: 'Cédric Walter'

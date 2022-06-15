@@ -1,5 +1,5 @@
 ---
-id: 5396
+
 title: 'Shrediquette a Do It Yourself tri-rotor helicopter'
 date: '2010-06-26T21:01:04+02:00'
 author: 'Cédric Walter'

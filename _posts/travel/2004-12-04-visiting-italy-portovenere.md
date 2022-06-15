@@ -1,5 +1,5 @@
 ---
-id: 1409
+
 title: 'Visiting Italy: portovenere'
 date: '2004-12-04T13:53:21+01:00'
 author: 'Cédric Walter'

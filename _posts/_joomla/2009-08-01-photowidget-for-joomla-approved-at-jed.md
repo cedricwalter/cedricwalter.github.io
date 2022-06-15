@@ -1,5 +1,5 @@
 ---
-id: 4566
+
 title: 'PhotoWidget for Joomla approved at JED'
 date: '2009-08-01T10:34:27+02:00'
 author: 'Cédric Walter'

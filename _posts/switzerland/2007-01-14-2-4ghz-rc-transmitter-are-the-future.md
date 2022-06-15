@@ -1,5 +1,5 @@
 ---
-id: 2839
+
 title: '2.4GHz RC transmitter are the future'
 date: '2007-01-14T18:24:12+01:00'
 author: 'Cédric Walter'

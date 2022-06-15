@@ -1,5 +1,5 @@
 ---
-id: 4151
+
 title: 'Adding Google Analytics to Atlassian JIRA'
 date: '2009-02-11T23:43:11+01:00'
 author: 'Cédric Walter'

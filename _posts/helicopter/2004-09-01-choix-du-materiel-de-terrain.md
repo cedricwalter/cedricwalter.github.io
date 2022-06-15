@@ -1,5 +1,5 @@
 ---
-id: 930
+
 title: 'Choix du matériel de terrain'
 date: '2004-09-01T23:45:31+02:00'
 author: 'Cédric Walter'

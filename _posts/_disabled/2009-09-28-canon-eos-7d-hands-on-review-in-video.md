@@ -1,5 +1,5 @@
 ---
-id: 4715
+
 title: 'Canon EOS 7D hands-on review in video'
 date: '2009-09-28T17:26:36+02:00'
 author: 'Cédric Walter'

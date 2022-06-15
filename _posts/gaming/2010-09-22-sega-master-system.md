@@ -1,5 +1,5 @@
 ---
-id: 6259
+
 title: 'Sega Master System'
 date: '2010-09-22T21:13:44+02:00'
 author: 'Cédric Walter'

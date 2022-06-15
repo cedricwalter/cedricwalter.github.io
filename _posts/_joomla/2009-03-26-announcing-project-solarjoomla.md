@@ -1,5 +1,5 @@
 ---
-id: 4230
+
 title: 'Announcing Project: SolarJoomla'
 date: '2009-03-26T17:46:42+01:00'
 author: 'Cédric Walter'

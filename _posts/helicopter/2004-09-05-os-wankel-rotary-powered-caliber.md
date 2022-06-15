@@ -1,5 +1,5 @@
 ---
-id: 1107
+
 title: 'OS Wankel Rotary Powered Caliber'
 date: '2004-09-05T20:02:07+02:00'
 author: 'Cédric Walter'

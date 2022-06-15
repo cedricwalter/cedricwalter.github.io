@@ -1,5 +1,5 @@
 ---
-id: 2017
+
 title: '4 ways to automate MAMBO database backup&#8230;'
 date: '2005-08-26T22:46:39+02:00'
 author: 'Cédric Walter'

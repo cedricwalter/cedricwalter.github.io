@@ -1,5 +1,5 @@
 ---
-id: 6551
+
 title: 'Triumph Daytona 675R model 2011'
 date: '2011-02-24T22:16:33+01:00'
 author: 'Cédric Walter'

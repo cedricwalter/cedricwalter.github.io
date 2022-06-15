@@ -1,5 +1,5 @@
 ---
-id: 552
+
 title: 'Table with fixed header, scrolling body'
 date: '2004-08-31T22:54:31+02:00'
 author: 'Cédric Walter'

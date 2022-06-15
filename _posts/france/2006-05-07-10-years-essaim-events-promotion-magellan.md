@@ -1,5 +1,5 @@
 ---
-id: 2516
+
 title: '10 Years ESSAIM events: promotion MAGELLAN'
 date: '2006-05-07T20:16:10+02:00'
 author: 'Cédric Walter'

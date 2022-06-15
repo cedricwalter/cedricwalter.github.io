@@ -1,5 +1,5 @@
 ---
-id: 8607
+
 title: 'A cheap GPS for your Raspberry PI'
 date: '2017-02-17T10:40:30+01:00'
 author: 'Cédric Walter'

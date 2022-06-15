@@ -1,5 +1,5 @@
 ---
-id: 5681
+
 title: 'LittleBig Planet &#8211; Sackboy 11&#8243; Statue holder'
 date: '2010-07-25T17:10:45+02:00'
 author: 'Cédric Walter'

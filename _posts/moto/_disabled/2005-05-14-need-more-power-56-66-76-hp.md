@@ -1,5 +1,5 @@
 ---
-id: 1721
+
 title: 'Need more power: 56, 66, 76 hp'
 date: '2005-05-14T22:23:19+02:00'
 author: 'Cédric Walter'

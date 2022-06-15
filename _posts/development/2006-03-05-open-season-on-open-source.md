@@ -1,5 +1,5 @@
 ---
-id: 2357
+
 title: 'Open Season On Open Source?'
 date: '2006-03-05T20:55:49+01:00'
 author: 'Cédric Walter'

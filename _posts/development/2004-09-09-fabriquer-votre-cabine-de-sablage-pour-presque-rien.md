@@ -1,5 +1,5 @@
 ---
-id: 1193
+
 title: 'Fabriquer votre cabine de sablage pour presque rien&#8230;'
 date: '2004-09-09T21:53:08+02:00'
 author: 'Cédric Walter'

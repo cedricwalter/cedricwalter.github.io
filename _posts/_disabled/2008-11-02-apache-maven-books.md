@@ -1,5 +1,5 @@
 ---
-id: 3887
+
 title: 'Apache Maven books'
 date: '2008-11-02T21:12:21+01:00'
 author: 'Cédric Walter'

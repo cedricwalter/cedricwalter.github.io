@@ -1,5 +1,5 @@
 ---
-id: 2403
+
 title: 'Linux distributions screenshots'
 date: '2006-04-02T23:04:48+02:00'
 author: 'Cédric Walter'

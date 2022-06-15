@@ -1,5 +1,5 @@
 ---
-id: 2003
+
 title: 'How to put wikimedia in read only mode'
 date: '2005-08-18T20:58:56+02:00'
 author: 'Cédric Walter'

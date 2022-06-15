@@ -1,5 +1,5 @@
 ---
-id: 599
+
 title: 'My setup (Gallery)'
 date: '2004-08-31T23:31:42+02:00'
 author: 'Cédric Walter'

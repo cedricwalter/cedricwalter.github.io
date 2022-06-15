@@ -1,5 +1,5 @@
 ---
-id: 6202
+
 title: 'Apache Maven manifest and enabling agile testing'
 date: '2010-09-22T18:44:58+02:00'
 author: 'Cédric Walter'
@@ -57,7 +57,7 @@ Built-By: agent1
 # Implementation-Version: 1.0.0-SNAPSHOT**
 
 ```
- Implementation-Vendor-Id: com.waltercedric Implementation-Vendor: waltercedric 
+ Implementation-Vendor-
 buildDate: 2010.09.22-14:12 svnrevision: 18625
 ```
 

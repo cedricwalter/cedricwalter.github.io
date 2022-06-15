@@ -1,5 +1,5 @@
 ---
-id: 1120
+
 title: 'Quick UK alloy cooling fan'
 date: '2004-09-08T22:35:27+02:00'
 author: 'Cédric Walter'

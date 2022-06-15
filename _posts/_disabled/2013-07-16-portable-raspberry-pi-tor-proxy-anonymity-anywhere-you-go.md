@@ -1,5 +1,5 @@
 ---
-id: 8099
+
 title: 'Portable Raspberry Pi Tor proxy: anonymity anywhere you go'
 date: '2013-07-16T21:06:04+02:00'
 author: 'Cédric Walter'

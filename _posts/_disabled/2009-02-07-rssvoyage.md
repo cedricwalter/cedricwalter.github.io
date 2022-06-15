@@ -1,5 +1,5 @@
 ---
-id: 4118
+
 title: RSSVoyage
 date: '2009-02-07T23:40:02+01:00'
 author: 'Cédric Walter'

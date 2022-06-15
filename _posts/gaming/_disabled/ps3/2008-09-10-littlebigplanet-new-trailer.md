@@ -1,5 +1,5 @@
 ---
-id: 3764
+
 title: 'LittleBigPlanet new trailer'
 date: '2008-09-10T19:10:07+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 2818
+
 title: 'Bug tracking system open'
 date: '2007-01-01T16:34:33+01:00'
 author: 'Cédric Walter'

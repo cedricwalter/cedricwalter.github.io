@@ -1,5 +1,5 @@
 ---
-id: 4175
+
 title: 'Ducati Streetfighter 2009'
 date: '2009-02-22T10:19:20+01:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 4174
+
 title: 'Joomla! php, FastCGI, blank page and duplicate header &#8216;Status&#8217;'
 date: '2009-02-21T12:45:23+01:00'
 author: 'Cédric Walter'

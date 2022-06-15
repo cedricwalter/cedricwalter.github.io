@@ -1,5 +1,5 @@
 ---
-id: 2046
+
 title: 'The Web Tools Platform (WTP)'
 date: '2005-10-07T16:02:16+02:00'
 author: 'Cédric Walter'

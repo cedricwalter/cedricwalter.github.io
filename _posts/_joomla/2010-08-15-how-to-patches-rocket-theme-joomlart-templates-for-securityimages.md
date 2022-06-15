@@ -1,5 +1,5 @@
 ---
-id: 5723
+
 title: 'How to patches Rocket Theme/JoomlArt templates for SecurityImages'
 date: '2010-08-15T16:11:24+02:00'
 author: 'Cédric Walter'

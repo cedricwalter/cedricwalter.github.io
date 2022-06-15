@@ -1,5 +1,5 @@
 ---
-id: 2698
+
 title: 'register globals emulation off in Joomla!'
 date: '2006-09-04T20:47:47+02:00'
 author: 'Cédric Walter'

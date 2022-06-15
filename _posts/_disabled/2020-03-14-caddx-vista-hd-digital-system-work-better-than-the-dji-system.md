@@ -1,5 +1,5 @@
 ---
-id: 10083
+
 title: 'Caddx Vista HD Digital System work better than the DJI system'
 date: '2020-03-14T10:25:51+01:00'
 author: 'Cédric Walter'

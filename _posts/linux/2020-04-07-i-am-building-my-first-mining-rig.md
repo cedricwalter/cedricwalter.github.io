@@ -1,5 +1,5 @@
 ---
-id: 8656
+
 title: 'i am building my first mining rig'
 date: '2020-04-07T17:06:36+02:00'
 author: 'Cédric Walter'

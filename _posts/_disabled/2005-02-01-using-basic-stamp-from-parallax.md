@@ -1,5 +1,5 @@
 ---
-id: 1552
+
 title: 'Using Basic stamp from Parallax'
 date: '2005-02-01T20:22:36+01:00'
 author: 'Cédric Walter'

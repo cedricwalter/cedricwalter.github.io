@@ -1,5 +1,5 @@
 ---
-id: 5967
+
 title: 'I also get caught in the Spam infographics business'
 date: '2010-09-05T08:08:13+02:00'
 author: 'Cédric Walter'

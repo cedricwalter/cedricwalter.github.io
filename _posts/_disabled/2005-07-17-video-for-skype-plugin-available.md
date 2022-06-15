@@ -1,5 +1,5 @@
 ---
-id: 1924
+
 title: 'Video for skype plugin available'
 date: '2005-07-17T17:03:02+02:00'
 author: 'Cédric Walter'

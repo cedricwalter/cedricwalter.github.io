@@ -1,5 +1,5 @@
 ---
-id: 2369
+
 title: 'Google hardware'
 date: '2006-03-12T23:32:50+01:00'
 author: 'Cédric Walter'

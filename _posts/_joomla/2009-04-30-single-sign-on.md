@@ -1,5 +1,5 @@
 ---
-id: 4308
+
 title: 'Single Sign On?'
 date: '2009-04-30T20:23:02+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 11341
+
 title: 'Optimize your website with a few linux command line tools'
 date: '2020-03-29T09:46:45+02:00'
 author: 'Cédric Walter'

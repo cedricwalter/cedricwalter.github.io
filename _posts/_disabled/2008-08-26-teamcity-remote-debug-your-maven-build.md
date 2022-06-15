@@ -1,5 +1,5 @@
 ---
-id: 3724
+
 title: 'TeamCity remote debug your Maven build'
 date: '2008-08-26T20:17:40+02:00'
 author: 'Cédric Walter'

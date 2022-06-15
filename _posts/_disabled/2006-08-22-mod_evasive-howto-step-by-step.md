@@ -1,5 +1,5 @@
 ---
-id: 2688
+
 title: 'mod_evasive howto step by step'
 date: '2006-08-22T22:39:00+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 8696
+
 title: 'The Business Blockchain: Promise, Practice, and Application of the Next Internet Technology'
 date: '2018-03-18T12:42:39+01:00'
 author: 'Cédric Walter'

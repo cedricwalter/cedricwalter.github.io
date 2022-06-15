@@ -1,5 +1,5 @@
 ---
-id: 7124
+
 title: 'Garbage police: Illegal disposal isn&#8217;t fair!'
 date: '2011-08-29T21:25:51+02:00'
 author: 'Cédric Walter'

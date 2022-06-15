@@ -1,5 +1,5 @@
 ---
-id: 989
+
 title: 'Maintenance Journalière après vol'
 date: '2004-09-03T12:39:55+02:00'
 author: 'Cédric Walter'

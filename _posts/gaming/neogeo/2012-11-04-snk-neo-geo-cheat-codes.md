@@ -1,5 +1,5 @@
 ---
-id: 7920
+
 title: 'SNK Neo Geo Cheat Codes'
 date: '2012-11-04T18:45:16+01:00'
 author: 'Cédric Walter'

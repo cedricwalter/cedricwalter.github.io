@@ -1,5 +1,5 @@
 ---
-id: 2262
+
 title: 'Good security but human errors may break it'
 date: '2006-01-06T09:49:55+01:00'
 author: 'Cédric Walter'

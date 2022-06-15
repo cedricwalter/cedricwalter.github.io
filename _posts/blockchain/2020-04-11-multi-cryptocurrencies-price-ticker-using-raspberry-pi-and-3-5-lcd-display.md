@@ -1,5 +1,5 @@
 ---
-id: 12929
+
 title: 'Multi cryptocurrencies price Ticker using Raspberry Pi and 3.5&#8221; LCD Display'
 date: '2020-04-11T13:16:49+02:00'
 author: 'Cédric Walter'

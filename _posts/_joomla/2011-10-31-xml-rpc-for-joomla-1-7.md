@@ -1,5 +1,5 @@
 ---
-id: 7244
+
 title: 'XML-RPC for Joomla! 1.7'
 date: '2011-10-31T20:23:43+01:00'
 author: 'Cédric Walter'

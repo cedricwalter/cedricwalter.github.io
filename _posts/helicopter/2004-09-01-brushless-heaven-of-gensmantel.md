@@ -1,5 +1,5 @@
 ---
-id: 877
+
 title: 'Brushless Heaven of Gensmantel'
 date: '2004-09-01T23:09:08+02:00'
 author: 'Cédric Walter'

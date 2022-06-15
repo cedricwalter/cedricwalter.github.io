@@ -1,5 +1,5 @@
 ---
-id: 6383
+
 title: 'Periodic Table of Controllers'
 date: '2010-12-01T20:36:27+01:00'
 author: 'Cédric Walter'

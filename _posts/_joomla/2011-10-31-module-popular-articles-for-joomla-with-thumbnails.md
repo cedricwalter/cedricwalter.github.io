@@ -1,5 +1,5 @@
 ---
-id: 7256
+
 title: 'Module Popular Articles For Joomla with Thumbnails'
 date: '2011-10-31T21:49:44+01:00'
 author: 'Cédric Walter'

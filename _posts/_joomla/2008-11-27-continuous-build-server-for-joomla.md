@@ -1,5 +1,5 @@
 ---
-id: 3945
+
 title: 'Continuous build server for Joomla!'
 date: '2008-11-27T20:39:28+01:00'
 author: 'Cédric Walter'

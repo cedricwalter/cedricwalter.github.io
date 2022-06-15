@@ -1,5 +1,5 @@
 ---
-id: 2703
+
 title: 'My ZFS NAS is dead and status'
 date: '2006-09-10T13:09:03+02:00'
 author: 'Cédric Walter'

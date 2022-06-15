@@ -1,5 +1,5 @@
 ---
-id: 12817
+
 title: 'Singapore Marina Bay Sands'
 date: '2020-04-10T16:08:35+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 8195
+
 title: 'Review: Getting Started with Apache Maven by Russell Gold'
 date: '2014-02-16T14:13:06+01:00'
 author: 'Cédric Walter'

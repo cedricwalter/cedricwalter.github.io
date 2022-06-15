@@ -1,5 +1,5 @@
 ---
-id: 7600
+
 title: 'Oracle Please set ORACLE_UNQNAME to database unique name'
 date: '2012-04-12T20:48:29+02:00'
 author: 'Cédric Walter'

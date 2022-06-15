@@ -1,5 +1,5 @@
 ---
-id: 4797
+
 title: 'How to check commit comments on SVN Commit'
 date: '2009-10-24T00:13:25+02:00'
 author: 'Cédric Walter'

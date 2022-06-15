@@ -1,5 +1,5 @@
 ---
-id: 7976
+
 title: 'Alternatives to Google Reader'
 date: '2013-03-18T20:46:05+01:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 1807
+
 title: 'Securing webservices'
 date: '2005-06-29T16:52:34+02:00'
 author: 'Cédric Walter'

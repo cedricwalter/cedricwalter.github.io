@@ -1,5 +1,5 @@
 ---
-id: 6779
+
 title: 'www.waltercedric.com ranks 69382 out of 256 million domains on the web'
 date: '2011-06-04T09:34:54+02:00'
 author: 'Cédric Walter'

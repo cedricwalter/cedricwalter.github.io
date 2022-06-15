@@ -1,5 +1,5 @@
 ---
-id: 995
+
 title: 'AIR04 &#8211; Payerne &#8211; Switzerland'
 date: '2004-09-03T21:54:41+02:00'
 author: 'Cédric Walter'

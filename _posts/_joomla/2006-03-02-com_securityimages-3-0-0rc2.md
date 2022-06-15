@@ -1,5 +1,5 @@
 ---
-id: 2332
+
 title: 'com_securityimages 3.0.0rc2'
 date: '2006-03-02T17:20:13+01:00'
 author: 'Cédric Walter'

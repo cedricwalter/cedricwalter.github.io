@@ -1,5 +1,5 @@
 ---
-id: 2991
+
 title: 'Got hacked&#8230;'
 date: '2007-06-20T19:54:26+02:00'
 author: 'Cédric Walter'

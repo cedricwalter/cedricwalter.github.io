@@ -1,5 +1,5 @@
 ---
-id: 8146
+
 title: 'Schema Validation for Joomla 3.1 Extensions'
 date: '2013-08-19T21:43:20+02:00'
 author: 'Cédric Walter'

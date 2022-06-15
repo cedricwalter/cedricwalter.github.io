@@ -1,5 +1,5 @@
 ---
-id: 6362
+
 title: 'Suche/Sammle/ Kaufe NEU Verschweisste Ältere Videospiele !!!'
 date: '2010-10-07T11:50:51+02:00'
 author: 'Cédric Walter'

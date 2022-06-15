@@ -1,5 +1,5 @@
 ---
-id: 2869
+
 title: 'Endless love, lets be together for 5000 year more'
 date: '2007-02-07T18:59:48+01:00'
 author: 'Cédric Walter'

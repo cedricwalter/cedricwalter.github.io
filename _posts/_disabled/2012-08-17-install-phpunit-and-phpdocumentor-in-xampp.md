@@ -1,5 +1,5 @@
 ---
-id: 7752
+
 title: 'Install PHPUnit and PHPDocumentor in XAMPP'
 date: '2012-08-17T11:13:00+02:00'
 author: 'Cédric Walter'

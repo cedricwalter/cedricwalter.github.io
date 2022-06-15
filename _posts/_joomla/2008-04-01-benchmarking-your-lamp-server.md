@@ -1,5 +1,5 @@
 ---
-id: 3313
+
 title: 'Benchmarking your LAMP server'
 date: '2008-04-01T20:20:12+02:00'
 author: 'Cédric Walter'

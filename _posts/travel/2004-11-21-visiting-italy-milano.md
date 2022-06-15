@@ -1,5 +1,5 @@
 ---
-id: 1383
+
 title: 'Visiting Italy: Milano'
 date: '2004-11-21T20:37:00+01:00'
 author: 'Cédric Walter'

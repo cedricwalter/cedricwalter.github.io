@@ -1,5 +1,5 @@
 ---
-id: 2283
+
 title: 'Logo for JoomlaCloud'
 date: '2006-01-10T20:01:09+01:00'
 author: 'Cédric Walter'

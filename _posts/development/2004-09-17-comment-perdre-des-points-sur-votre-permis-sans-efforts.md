@@ -1,5 +1,5 @@
 ---
-id: 1222
+
 title: 'Comment perdre des points sur votre permis sans efforts&#8230;.'
 date: '2004-09-17T21:30:52+02:00'
 author: 'Cédric Walter'

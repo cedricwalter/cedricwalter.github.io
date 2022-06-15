@@ -1,5 +1,5 @@
 ---
-id: 4050
+
 title: 'Releasing Minify4Joomla 1.0.0'
 date: '2009-01-19T22:24:11+01:00'
 author: 'Cédric Walter'

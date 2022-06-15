@@ -1,5 +1,5 @@
 ---
-id: 2207
+
 title: 'Submit Content (EZ CZ Submit)'
 date: '2005-12-10T23:51:47+01:00'
 author: 'Cédric Walter'

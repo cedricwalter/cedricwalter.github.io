@@ -1,5 +1,5 @@
 ---
-id: 8732
+
 title: 'Evaluating Blockchain Projects With Token Economy Canvas'
 date: '2018-05-27T20:55:12+02:00'
 author: 'Cédric Walter'

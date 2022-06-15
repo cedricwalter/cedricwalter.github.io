@@ -1,5 +1,5 @@
 ---
-id: 4970
+
 title: 'Recovering/Resetting a MySQL root password'
 date: '2010-01-31T21:09:50+01:00'
 author: 'Cédric Walter'

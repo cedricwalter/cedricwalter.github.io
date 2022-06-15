@@ -1,5 +1,5 @@
 ---
-id: 4895
+
 title: 'Google Chrome reach beta on Linux'
 date: '2009-12-09T20:25:45+01:00'
 author: 'Cédric Walter'

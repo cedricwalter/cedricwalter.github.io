@@ -1,5 +1,5 @@
 ---
-id: 1627
+
 title: 'The State of the Scripting Universe'
 date: '2005-03-24T22:28:02+01:00'
 author: 'Cédric Walter'

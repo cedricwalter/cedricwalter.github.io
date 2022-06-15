@@ -1,5 +1,5 @@
 ---
-id: 1586
+
 title: '404SEF without mod rewrite'
 date: '2005-02-18T23:47:45+01:00'
 author: 'Cédric Walter'

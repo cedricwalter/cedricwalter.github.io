@@ -1,5 +1,5 @@
 ---
-id: 2100
+
 title: 'IBM, Sony, Philips form Linux alliance'
 date: '2005-11-10T21:34:39+01:00'
 author: 'Cédric Walter'

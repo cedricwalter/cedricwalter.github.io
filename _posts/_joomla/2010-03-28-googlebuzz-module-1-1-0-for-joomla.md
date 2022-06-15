@@ -1,5 +1,5 @@
 ---
-id: 5092
+
 title: 'GoogleBuzz module 1.1.0 for Joomla!'
 date: '2010-03-28T20:36:29+02:00'
 author: 'Cédric Walter'

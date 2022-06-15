@@ -1,5 +1,5 @@
 ---
-id: 4303
+
 title: 'TeamCity 4.5 up and running'
 date: '2009-04-27T19:41:16+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 3978
+
 title: 'New version of related Articles 1.5.1'
 date: '2008-12-15T20:23:06+01:00'
 author: 'Cédric Walter'

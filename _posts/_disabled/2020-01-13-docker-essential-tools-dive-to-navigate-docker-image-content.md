@@ -1,5 +1,5 @@
 ---
-id: 8783
+
 title: 'Docker essential tools: Dive to navigate docker image content'
 date: '2020-01-13T13:23:27+01:00'
 author: 'Cédric Walter'

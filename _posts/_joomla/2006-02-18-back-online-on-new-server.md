@@ -1,5 +1,5 @@
 ---
-id: 2306
+
 title: 'Back Online on new server'
 date: '2006-02-18T17:49:17+01:00'
 author: 'Cédric Walter'

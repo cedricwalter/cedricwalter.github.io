@@ -1,5 +1,5 @@
 ---
-id: 6685
+
 title: 'Michelin Pilot Road 3 Tires'
 date: '2011-05-07T07:53:21+02:00'
 author: 'Cédric Walter'

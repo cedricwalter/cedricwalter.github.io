@@ -1,5 +1,5 @@
 ---
-id: 2056
+
 title: 'Open source: business model for software is shifting.'
 date: '2005-10-17T23:29:48+02:00'
 author: 'Cédric Walter'

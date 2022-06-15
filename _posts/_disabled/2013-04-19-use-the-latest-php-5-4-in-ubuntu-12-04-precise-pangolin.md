@@ -1,5 +1,5 @@
 ---
-id: 8005
+
 title: 'Use the latest PHP 5.4 in Ubuntu 12.04 Precise Pangolin'
 date: '2013-04-19T17:56:10+02:00'
 author: 'Cédric Walter'

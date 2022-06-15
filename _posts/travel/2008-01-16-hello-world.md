@@ -1,5 +1,5 @@
 ---
-id: 3170
+
 title: 'Hello World'
 date: '2008-01-16T19:08:35+01:00'
 author: 'Cédric Walter'

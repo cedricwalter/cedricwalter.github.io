@@ -1,5 +1,5 @@
 ---
-id: 5429
+
 title: 'Auto deployment of Maven artifacts to Oracle Weblogic'
 date: '2010-07-04T15:43:28+02:00'
 author: 'Cédric Walter'

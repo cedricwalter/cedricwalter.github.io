@@ -1,5 +1,5 @@
 ---
-id: 8620
+
 title: 'La révolution blockchain'
 date: '2017-05-17T22:31:21+02:00'
 author: 'Cédric Walter'

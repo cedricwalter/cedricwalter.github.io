@@ -1,5 +1,5 @@
 ---
-id: 3011
+
 title: 'Little Big Planet: what a game!'
 date: '2007-07-13T19:03:44+02:00'
 author: 'Cédric Walter'

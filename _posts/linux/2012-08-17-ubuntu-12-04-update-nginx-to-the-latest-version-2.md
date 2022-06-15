@@ -1,5 +1,5 @@
 ---
-id: 7786
+
 title: 'Ubuntu 12.04 update nginx to the latest version'
 date: '2012-08-17T09:13:48+02:00'
 author: 'Cédric Walter'

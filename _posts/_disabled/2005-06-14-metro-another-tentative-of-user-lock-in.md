@@ -1,5 +1,5 @@
 ---
-id: 1796
+
 title: 'Metro: another tentative of user lock-in?'
 date: '2005-06-14T19:35:09+02:00'
 author: 'Cédric Walter'

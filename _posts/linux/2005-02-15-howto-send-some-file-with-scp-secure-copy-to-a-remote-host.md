@@ -1,5 +1,5 @@
 ---
-id: 1573
+
 title: 'HowTo Send some file with SCP (secure copy) to a remote host'
 date: '2005-02-15T20:05:59+01:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 13010
+
 title: 'Cryptocurrency monitor with Unicorn HAT'
 date: '2020-04-13T11:23:14+02:00'
 author: 'Cédric Walter'

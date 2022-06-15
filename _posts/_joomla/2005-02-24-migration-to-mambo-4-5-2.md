@@ -1,5 +1,5 @@
 ---
-id: 1589
+
 title: 'Migration to Mambo 4.5.2'
 date: '2005-02-24T19:48:31+01:00'
 author: 'Cédric Walter'

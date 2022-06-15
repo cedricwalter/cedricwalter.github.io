@@ -1,5 +1,5 @@
 ---
-id: 4095
+
 title: 'Setting the CPU speed of your Linux server'
 date: '2009-02-06T21:14:03+01:00'
 author: 'Cédric Walter'

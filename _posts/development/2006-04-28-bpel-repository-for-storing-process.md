@@ -1,5 +1,5 @@
 ---
-id: 2481
+
 title: 'BPEL repository for storing process'
 date: '2006-04-28T20:17:33+02:00'
 author: 'Cédric Walter'

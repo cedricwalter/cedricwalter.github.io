@@ -1,5 +1,5 @@
 ---
-id: 3879
+
 title: 'Google has Open Sourced Android!!!'
 date: '2008-10-21T22:48:34+02:00'
 author: 'Cédric Walter'
@@ -12,7 +12,7 @@ tags:
     - google
 ---
 
-[The Open Handset Alliance](http://www.openhandsetalliance.com), a group of more than 30 technology and mobile companies, developed Android: the first complete, open, and free mobile [platform](http://code.google.com/android/what-is-android.html). To help developers get started developing new applications, we’re offering the [Android Software Development Kit](http://code.google.com/android/documentation.html).
+[The Open Handset Alliance](http://www.openhandsetalliance.com), a group of more than 30 technology and mobile companies, developed Andro
 
 ### **ANDROID is now OPEN SOURCE software**
 

@@ -1,5 +1,5 @@
 ---
-id: 3380
+
 title: 'maven2 Unit Test code reuse and dependencies'
 date: '2008-04-10T14:52:20+02:00'
 author: 'Cédric Walter'

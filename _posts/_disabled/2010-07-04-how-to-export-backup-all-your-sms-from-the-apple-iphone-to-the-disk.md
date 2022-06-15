@@ -1,5 +1,5 @@
 ---
-id: 5415
+
 title: 'How to export/backup all your SMS from the Apple iPhone to the disk'
 date: '2010-07-04T15:09:23+02:00'
 author: 'Cédric Walter'

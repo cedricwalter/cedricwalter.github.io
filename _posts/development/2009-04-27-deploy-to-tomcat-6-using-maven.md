@@ -1,5 +1,5 @@
 ---
-id: 4300
+
 title: 'Deploy to Tomcat 6 using Maven'
 date: '2009-04-27T19:30:11+02:00'
 author: 'Cédric Walter'

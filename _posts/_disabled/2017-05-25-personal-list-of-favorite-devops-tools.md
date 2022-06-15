@@ -1,5 +1,5 @@
 ---
-id: 8625
+
 title: 'personal list of favorite DevOps tools'
 date: '2017-05-25T19:38:59+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 7510
+
 title: '2012 Motorcycle Honda CBR1000RA'
 date: '2012-02-20T22:26:08+01:00'
 author: 'Cédric Walter'

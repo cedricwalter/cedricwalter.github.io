@@ -1,5 +1,5 @@
 ---
-id: 101
+
 title: 'Stiffen the Head'
 date: '2004-08-26T21:44:39+02:00'
 author: 'Cédric Walter'

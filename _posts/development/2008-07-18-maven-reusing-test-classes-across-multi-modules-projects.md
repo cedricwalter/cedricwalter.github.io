@@ -1,5 +1,5 @@
 ---
-id: 3522
+
 title: 'Maven reusing test classes across multi modules projects'
 date: '2008-07-18T22:14:44+02:00'
 author: 'Cédric Walter'

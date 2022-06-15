@@ -1,5 +1,5 @@
 ---
-id: 1949
+
 title: 'You live in Seattle and take the bus?'
 date: '2005-07-24T21:47:49+02:00'
 author: 'Cédric Walter'

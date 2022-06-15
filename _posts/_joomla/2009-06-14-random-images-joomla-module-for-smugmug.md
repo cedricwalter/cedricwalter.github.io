@@ -1,5 +1,5 @@
 ---
-id: 4412
+
 title: 'Random images Joomla! module for Smugmug'
 date: '2009-06-14T01:12:31+02:00'
 author: 'Cédric Walter'

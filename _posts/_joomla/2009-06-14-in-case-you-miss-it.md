@@ -1,5 +1,5 @@
 ---
-id: 4415
+
 title: 'In case you miss it'
 date: '2009-06-14T15:11:00+02:00'
 author: 'Cédric Walter'

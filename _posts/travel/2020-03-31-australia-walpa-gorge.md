@@ -1,5 +1,5 @@
 ---
-id: 11962
+
 title: 'Australia Walpa Gorge'
 date: '2020-03-31T15:13:23+02:00'
 author: 'Cédric Walter'

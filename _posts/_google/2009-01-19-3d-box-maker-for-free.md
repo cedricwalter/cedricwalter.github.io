@@ -1,5 +1,5 @@
 ---
-id: 4052
+
 title: '3D box maker for free'
 date: '2009-01-19T23:40:21+01:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 1474
+
 title: 'Desktop search software: Yahoo'
 date: '2005-01-11T21:17:48+01:00'
 author: 'Cédric Walter'

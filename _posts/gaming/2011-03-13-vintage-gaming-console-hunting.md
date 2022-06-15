@@ -1,5 +1,5 @@
 ---
-id: 6349
+
 title: 'Vintage gaming console hunting'
 date: '2011-03-13T00:00:00+01:00'
 author: 'Cédric Walter'

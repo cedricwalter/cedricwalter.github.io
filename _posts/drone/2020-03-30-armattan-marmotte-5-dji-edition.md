@@ -1,5 +1,5 @@
 ---
-id: 11415
+
 title: 'Armattan Marmotte 5 DJI Edition'
 date: '2020-03-30T17:37:20+02:00'
 author: 'Cédric Walter'

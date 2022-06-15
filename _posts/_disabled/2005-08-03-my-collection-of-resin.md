@@ -1,5 +1,5 @@
 ---
-id: 1975
+
 title: 'My collection of resin&#8230;'
 date: '2005-08-03T18:51:25+02:00'
 author: 'Cédric Walter'

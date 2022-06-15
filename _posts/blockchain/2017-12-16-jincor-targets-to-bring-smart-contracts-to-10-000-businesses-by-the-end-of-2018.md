@@ -1,5 +1,5 @@
 ---
-id: 8693
+
 title: 'Jincor Targets to Bring Smart Contracts to 10,000 Businesses by the end of 2018'
 date: '2017-12-16T12:36:16+01:00'
 author: 'Cédric Walter'

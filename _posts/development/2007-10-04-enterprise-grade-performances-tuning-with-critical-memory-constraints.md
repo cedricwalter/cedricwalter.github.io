@@ -1,5 +1,5 @@
 ---
-id: 3074
+
 title: 'Enterprise grade performances tuning with critical memory constraints'
 date: '2007-10-04T21:47:38+02:00'
 author: 'Cédric Walter'

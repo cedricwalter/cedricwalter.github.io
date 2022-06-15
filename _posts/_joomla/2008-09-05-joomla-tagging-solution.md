@@ -1,5 +1,5 @@
 ---
-id: 3745
+
 title: 'Joomla! tagging solution'
 date: '2008-09-05T22:01:53+02:00'
 author: 'Cédric Walter'

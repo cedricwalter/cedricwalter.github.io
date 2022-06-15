@@ -1,5 +1,5 @@
 ---
-id: 1436
+
 title: 'FUTABA 14Mz windows ce'
 date: '2004-12-09T21:04:18+01:00'
 author: 'Cédric Walter'

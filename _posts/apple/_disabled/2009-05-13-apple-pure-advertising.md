@@ -1,5 +1,5 @@
 ---
-id: 4324
+
 title: 'Apple pure advertising'
 date: '2009-05-13T11:58:10+02:00'
 author: 'Cédric Walter'

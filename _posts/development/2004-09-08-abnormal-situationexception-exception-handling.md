@@ -1,5 +1,5 @@
 ---
-id: 1182
+
 title: 'abnormal situation,exception, exception handling,'
 date: '2004-09-08T23:50:34+02:00'
 author: 'Cédric Walter'

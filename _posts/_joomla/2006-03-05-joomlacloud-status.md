@@ -1,5 +1,5 @@
 ---
-id: 2352
+
 title: 'JoomlaCLoud status'
 date: '2006-03-05T11:27:57+01:00'
 author: 'Cédric Walter'

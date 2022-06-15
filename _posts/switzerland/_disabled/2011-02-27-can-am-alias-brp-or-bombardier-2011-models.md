@@ -1,5 +1,5 @@
 ---
-id: 6556
+
 title: 'Can-Am (alias BRP or Bombardier) 2011 models'
 date: '2011-02-27T21:32:16+01:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 1770
+
 title: 'PSP emulation'
 date: '2005-06-02T20:35:20+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 7505
+
 title: '2012 Suzuki GSX-R1000 Motorcycle'
 date: '2012-02-20T21:03:54+01:00'
 author: 'Cédric Walter'

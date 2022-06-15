@@ -1,5 +1,5 @@
 ---
-id: 4600
+
 title: 'Maven project filtering'
 date: '2009-09-05T13:43:23+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 2949
+
 title: 'Sunday Night Foldathon (S.N.F)'
 date: '2007-03-24T21:24:34+01:00'
 author: 'Cédric Walter'

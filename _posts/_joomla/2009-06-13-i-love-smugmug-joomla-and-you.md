@@ -1,5 +1,5 @@
 ---
-id: 4402
+
 title: 'I love Smugmug, Joomla! and You?'
 date: '2009-06-13T00:00:00+02:00'
 author: 'Cédric Walter'

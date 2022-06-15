@@ -1,5 +1,5 @@
 ---
-id: 7750
+
 title: 'Apache Maven Archetype for Joomla'
 date: '2012-08-17T09:22:23+02:00'
 author: 'Cédric Walter'

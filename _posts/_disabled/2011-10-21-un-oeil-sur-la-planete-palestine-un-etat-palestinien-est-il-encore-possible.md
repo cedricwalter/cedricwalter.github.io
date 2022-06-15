@@ -1,5 +1,5 @@
 ---
-id: 7229
+
 title: 'Un oeil sur la planète &#8211; Palestine : Un Etat palestinien est-il encore possible ?'
 date: '2011-10-21T11:45:40+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 82
+
 title: 'Change the default exhaust'
 date: '2004-08-26T21:40:52+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 4880
+
 title: 'Code generation from XSD with JAXB and Maven'
 date: '2009-11-13T18:56:24+01:00'
 author: 'Cédric Walter'

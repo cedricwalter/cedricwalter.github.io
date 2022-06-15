@@ -1,5 +1,5 @@
 ---
-id: 2048
+
 title: 'Panasonic PT-AE900 LCD 720p reviews&#8230;'
 date: '2005-10-07T19:58:55+02:00'
 author: 'Cédric Walter'

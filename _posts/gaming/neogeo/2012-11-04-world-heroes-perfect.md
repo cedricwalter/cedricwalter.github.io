@@ -1,5 +1,5 @@
 ---
-id: 7833
+
 title: 'World Heroes Perfect'
 date: '2012-11-04T18:15:38+01:00'
 author: 'Cédric Walter'

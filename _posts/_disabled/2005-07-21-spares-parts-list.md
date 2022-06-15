@@ -1,5 +1,5 @@
 ---
-id: 1933
+
 title: 'Spares Parts List'
 date: '2005-07-21T18:28:48+02:00'
 author: 'Cédric Walter'

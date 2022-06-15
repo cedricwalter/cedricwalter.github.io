@@ -1,5 +1,5 @@
 ---
-id: 8754
+
 title: 'BlockByte won Trust Square biggest blockchain Hackathon #SBHACK19'
 date: '2019-07-10T06:55:01+02:00'
 author: 'Cédric Walter'

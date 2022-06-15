@@ -1,5 +1,5 @@
 ---
-id: 2450
+
 title: 'opencomment development continue'
 date: '2006-04-12T20:27:14+02:00'
 author: 'Cédric Walter'

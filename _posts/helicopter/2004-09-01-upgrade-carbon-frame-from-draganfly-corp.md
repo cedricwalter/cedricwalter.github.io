@@ -1,5 +1,5 @@
 ---
-id: 768
+
 title: 'Upgrade carbon frame from  Draganfly corp.'
 date: '2004-09-01T22:42:26+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 120
+
 title: 'Engine overheating cure'
 date: '2004-08-26T21:58:24+02:00'
 author: 'Cédric Walter'

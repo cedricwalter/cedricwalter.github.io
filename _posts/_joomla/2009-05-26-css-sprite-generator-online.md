@@ -1,5 +1,5 @@
 ---
-id: 4342
+
 title: 'CSS sprite generator online'
 date: '2009-05-26T23:08:01+02:00'
 author: 'Cédric Walter'

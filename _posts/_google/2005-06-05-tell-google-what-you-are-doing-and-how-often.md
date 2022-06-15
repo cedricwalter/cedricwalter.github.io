@@ -1,5 +1,5 @@
 ---
-id: 1781
+
 title: 'Tell Google what you are doing and how often'
 date: '2005-06-05T22:52:40+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 7821
+
 title: 'Samsung wins patent battle against apple'
 date: '2012-10-29T23:33:21+01:00'
 author: 'Cédric Walter'

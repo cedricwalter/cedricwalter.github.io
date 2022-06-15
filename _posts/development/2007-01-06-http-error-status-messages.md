@@ -1,5 +1,5 @@
 ---
-id: 2830
+
 title: 'HTTP error status messages'
 date: '2007-01-06T14:21:02+01:00'
 author: 'Cédric Walter'

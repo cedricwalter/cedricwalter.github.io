@@ -1,5 +1,5 @@
 ---
-id: 2472
+
 title: 'U.S. Governments Advised to Use Open Source'
 date: '2006-04-19T21:55:11+02:00'
 author: 'Cédric Walter'

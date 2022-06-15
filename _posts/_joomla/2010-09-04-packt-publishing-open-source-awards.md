@@ -1,5 +1,5 @@
 ---
-id: 5962
+
 title: 'Packt Publishing Open Source Awards'
 date: '2010-09-04T20:57:36+02:00'
 author: 'Cédric Walter'

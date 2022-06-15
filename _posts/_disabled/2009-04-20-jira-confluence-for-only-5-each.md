@@ -1,5 +1,5 @@
 ---
-id: 4278
+
 title: 'JIRA &#038; Confluence for only $5 each!'
 date: '2009-04-20T20:11:01+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 575
+
 title: 'Parts needed'
 date: '2004-08-31T23:28:42+02:00'
 author: 'Cédric Walter'

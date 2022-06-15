@@ -1,5 +1,5 @@
 ---
-id: 1217
+
 title: 'Rotory review'
 date: '2004-09-09T22:56:47+02:00'
 author: 'Cédric Walter'

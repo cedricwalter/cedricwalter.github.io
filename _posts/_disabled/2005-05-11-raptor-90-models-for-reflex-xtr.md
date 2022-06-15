@@ -1,5 +1,5 @@
 ---
-id: 1719
+
 title: 'Raptor 90 Models for Reflex Xtr'
 date: '2005-05-11T18:59:16+02:00'
 author: 'Cédric Walter'

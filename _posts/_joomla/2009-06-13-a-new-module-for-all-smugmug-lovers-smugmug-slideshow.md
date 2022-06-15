@@ -1,5 +1,5 @@
 ---
-id: 4408
+
 title: 'A new module for all Smugmug lovers: Smugmug Slideshow'
 date: '2009-06-13T23:53:49+02:00'
 author: 'Cédric Walter'

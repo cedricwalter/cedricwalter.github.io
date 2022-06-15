@@ -1,5 +1,5 @@
 ---
-id: 3117
+
 title: 'An overview of my future trip in Tasmania'
 date: '2007-11-12T20:11:51+01:00'
 author: 'Cédric Walter'

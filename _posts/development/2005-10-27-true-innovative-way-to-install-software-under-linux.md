@@ -1,5 +1,5 @@
 ---
-id: 2074
+
 title: 'true innovative way to install software under Linux'
 date: '2005-10-27T22:48:27+02:00'
 author: 'Cédric Walter'

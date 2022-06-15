@@ -1,5 +1,5 @@
 ---
-id: 1376
+
 title: 'Visiting Italy: Portofino'
 date: '2004-11-18T19:23:42+01:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 839
+
 title: 'Crash logs'
 date: '2004-09-01T22:57:23+02:00'
 author: 'Cédric Walter'

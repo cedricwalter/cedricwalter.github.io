@@ -1,5 +1,5 @@
 ---
-id: 1449
+
 title: 'Neo Geo FAQ (Chris Mullins)'
 date: '2004-12-25T11:45:35+01:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 8182
+
 title: 'Display the short GIT version hash as build identifier in TeamCity'
 date: '2014-02-02T19:32:01+01:00'
 author: 'Cédric Walter'

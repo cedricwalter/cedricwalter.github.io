@@ -1,5 +1,5 @@
 ---
-id: 889
+
 title: '3D moves and tricks'
 date: '2004-09-01T23:22:44+02:00'
 author: 'Cédric Walter'

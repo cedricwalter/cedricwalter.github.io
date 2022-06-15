@@ -1,5 +1,5 @@
 ---
-id: 1375
+
 title: 'a Monkey brain?'
 date: '2004-11-17T18:00:24+01:00'
 author: 'Cédric Walter'

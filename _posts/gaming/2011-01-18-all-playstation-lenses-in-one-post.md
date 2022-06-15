@@ -1,5 +1,5 @@
 ---
-id: 6484
+
 title: 'All Playstation lenses in one post'
 date: '2011-01-18T17:36:56+01:00'
 author: 'Cédric Walter'

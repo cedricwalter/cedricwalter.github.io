@@ -1,5 +1,5 @@
 ---
-id: 2368
+
 title: 'Today status of opencomment 3.0.0alpha'
 date: '2006-03-12T22:34:56+01:00'
 author: 'Cédric Walter'

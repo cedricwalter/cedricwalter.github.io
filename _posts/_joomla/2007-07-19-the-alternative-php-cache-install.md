@@ -1,5 +1,5 @@
 ---
-id: 3020
+
 title: 'The Alternative PHP Cache install'
 date: '2007-07-19T12:29:52+02:00'
 author: 'Cédric Walter'

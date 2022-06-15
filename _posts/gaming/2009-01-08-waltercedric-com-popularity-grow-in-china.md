@@ -1,5 +1,5 @@
 ---
-id: 4028
+
 title: 'waltercedric.com popularity grow in China'
 date: '2009-01-08T17:33:32+01:00'
 author: 'Cédric Walter'

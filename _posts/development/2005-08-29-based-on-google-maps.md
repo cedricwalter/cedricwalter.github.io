@@ -1,5 +1,5 @@
 ---
-id: 2018
+
 title: 'Based on Google Maps&#8230;'
 date: '2005-08-29T00:20:19+02:00'
 author: 'Cédric Walter'

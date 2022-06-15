@@ -1,5 +1,5 @@
 ---
-id: 97
+
 title: 'Clic clic noise coming from tail rotor case (periodic noise)'
 date: '2004-08-26T21:43:21+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 1110
+
 title: '80% of old content has been migrate to the new system!'
 date: '2004-09-05T22:27:03+02:00'
 author: 'Cédric Walter'

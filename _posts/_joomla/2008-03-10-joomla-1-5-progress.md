@@ -1,5 +1,5 @@
 ---
-id: 3239
+
 title: 'Joomla! 1.5 progress'
 date: '2008-03-10T19:27:44+01:00'
 author: 'Cédric Walter'

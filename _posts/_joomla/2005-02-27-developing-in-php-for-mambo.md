@@ -1,5 +1,5 @@
 ---
-id: 1593
+
 title: 'developing in PHP for Mambo?'
 date: '2005-02-27T17:59:26+01:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 2197
+
 title: 'Comments are no more working on my homepage'
 date: '2005-12-08T22:37:20+01:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 2290
+
 title: 'I have my XBOX premium'
 date: '2006-01-22T23:42:27+01:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 1225
+
 title: 'Good tools for developer'
 date: '2004-09-17T22:08:50+02:00'
 author: 'Cédric Walter'

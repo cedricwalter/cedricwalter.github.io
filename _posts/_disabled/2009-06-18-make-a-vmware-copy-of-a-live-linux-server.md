@@ -1,5 +1,5 @@
 ---
-id: 4462
+
 title: 'Make a VMWARE copy of a live Linux server'
 date: '2009-06-18T20:31:29+02:00'
 author: 'Cédric Walter'

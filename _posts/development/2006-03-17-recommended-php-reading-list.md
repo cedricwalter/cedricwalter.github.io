@@ -1,5 +1,5 @@
 ---
-id: 2378
+
 title: 'Recommended PHP reading list'
 date: '2006-03-17T15:51:40+01:00'
 author: 'Cédric Walter'

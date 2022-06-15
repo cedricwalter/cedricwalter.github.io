@@ -1,5 +1,5 @@
 ---
-id: 2526
+
 title: 'SuSE 10.1 released'
 date: '2006-05-11T20:22:27+02:00'
 author: 'Cédric Walter'

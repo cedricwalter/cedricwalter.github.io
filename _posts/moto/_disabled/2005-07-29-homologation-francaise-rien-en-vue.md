@@ -1,5 +1,5 @@
 ---
-id: 1963
+
 title: 'Homologation francaise: rien en vue :-('
 date: '2005-07-29T10:41:21+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 7553
+
 title: 'Asus SABERTOOTH X79 USB BIOS Flashback Filename'
 date: '2012-03-01T21:24:27+01:00'
 author: 'Cédric Walter'

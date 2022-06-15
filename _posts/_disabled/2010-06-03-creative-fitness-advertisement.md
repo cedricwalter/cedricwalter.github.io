@@ -1,5 +1,5 @@
 ---
-id: 5306
+
 title: 'Creative Fitness advertisement'
 date: '2010-06-03T20:32:01+02:00'
 author: 'Cédric Walter'

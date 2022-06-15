@@ -1,5 +1,5 @@
 ---
-id: 3408
+
 title: 'Record testcases with Selenium IDE'
 date: '2008-04-13T18:37:07+02:00'
 author: 'Cédric Walter'

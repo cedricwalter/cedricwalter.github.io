@@ -1,5 +1,5 @@
 ---
-id: 2264
+
 title: 'In the market for a Media Center'
 date: '2006-01-07T00:15:55+01:00'
 author: 'Cédric Walter'

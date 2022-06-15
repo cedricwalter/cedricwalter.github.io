@@ -1,5 +1,5 @@
 ---
-id: 5189
+
 title: 'TeamCity updated to 5.1.1 and a Joomla! module soon available :-)'
 date: '2010-05-03T20:16:52+02:00'
 author: 'Cédric Walter'

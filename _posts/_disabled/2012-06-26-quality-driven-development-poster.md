@@ -1,5 +1,5 @@
 ---
-id: 7721
+
 title: 'QUALITY DRIVEN DEVELOPMENT POSTER'
 date: '2012-06-26T09:05:28+02:00'
 author: 'Cédric Walter'

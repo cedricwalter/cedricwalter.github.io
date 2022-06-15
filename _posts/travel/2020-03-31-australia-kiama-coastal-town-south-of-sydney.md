@@ -1,5 +1,5 @@
 ---
-id: 11887
+
 title: 'Australia Kiama coastal town south of Sydney'
 date: '2020-03-31T14:49:24+02:00'
 author: 'Cédric Walter'

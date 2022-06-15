@@ -1,5 +1,5 @@
 ---
-id: 8567
+
 title: 'The 10 Myths of Entrepreneurship'
 date: '2016-08-17T09:55:42+02:00'
 author: 'Cédric Walter'

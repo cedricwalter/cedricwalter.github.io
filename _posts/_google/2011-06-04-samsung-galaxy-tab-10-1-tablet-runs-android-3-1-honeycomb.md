@@ -1,5 +1,5 @@
 ---
-id: 6778
+
 title: 'Samsung Galaxy Tab 10.1 Tablet runs Android 3.1 Honeycomb'
 date: '2011-06-04T12:29:14+02:00'
 author: 'Cédric Walter'

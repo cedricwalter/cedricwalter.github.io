@@ -1,5 +1,5 @@
 ---
-id: 8688
+
 title: 'How to Mount and Use an exFAT Drive on Linux'
 date: '2017-10-26T23:12:40+02:00'
 author: 'Cédric Walter'

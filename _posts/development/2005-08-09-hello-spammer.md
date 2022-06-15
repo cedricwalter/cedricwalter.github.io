@@ -1,5 +1,5 @@
 ---
-id: 1978
+
 title: 'Hello spammer'
 date: '2005-08-09T16:55:50+02:00'
 author: 'Cédric Walter'

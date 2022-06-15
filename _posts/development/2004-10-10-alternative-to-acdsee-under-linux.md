@@ -1,5 +1,5 @@
 ---
-id: 1275
+
 title: 'alternative to ACDSEE under Linux'
 date: '2004-10-10T15:44:14+02:00'
 author: 'Cédric Walter'

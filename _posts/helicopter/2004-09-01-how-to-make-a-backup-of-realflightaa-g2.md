@@ -1,5 +1,5 @@
 ---
-id: 882
+
 title: 'How to make a backup of RealflightÂ©Â® G2'
 date: '2004-09-01T23:18:46+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 3971
+
 title: 'Open Handset Alliance announces 14 new members'
 date: '2008-12-09T21:30:15+01:00'
 author: 'Cédric Walter'

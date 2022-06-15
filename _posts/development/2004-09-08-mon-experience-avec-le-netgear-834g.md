@@ -1,5 +1,5 @@
 ---
-id: 1188
+
 title: 'Mon experience avec le netgear 834G'
 date: '2004-09-08T23:55:10+02:00'
 author: 'Cédric Walter'

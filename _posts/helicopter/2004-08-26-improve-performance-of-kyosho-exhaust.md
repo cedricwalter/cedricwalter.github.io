@@ -1,5 +1,5 @@
 ---
-id: 125
+
 title: 'Improve performance of kyosho exhaust,'
 date: '2004-08-26T22:02:56+02:00'
 author: 'Cédric Walter'

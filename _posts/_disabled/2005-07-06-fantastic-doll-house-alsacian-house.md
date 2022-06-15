@@ -1,5 +1,5 @@
 ---
-id: 1887
+
 title: 'Fantastic Doll House: alsacian house'
 date: '2005-07-06T19:52:16+02:00'
 author: 'Cédric Walter'

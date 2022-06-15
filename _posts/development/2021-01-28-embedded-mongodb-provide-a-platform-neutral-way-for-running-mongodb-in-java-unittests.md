@@ -1,5 +1,5 @@
 ---
-id: 13795
+
 title: 'Embedded MongoDB provide a platform neutral way for running mongodb in Java unittests.'
 date: '2021-01-28T21:25:58+01:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 3026
+
 title: 'PHP basic settings fo more security'
 date: '2007-07-21T23:14:33+02:00'
 author: 'Cédric Walter'

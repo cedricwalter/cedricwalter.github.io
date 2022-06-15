@@ -1,5 +1,5 @@
 ---
-id: 2192
+
 title: 'TomTom Rider: the ultimate counter measure against street radars?'
 date: '2005-12-04T11:56:44+01:00'
 author: 'Cédric Walter'

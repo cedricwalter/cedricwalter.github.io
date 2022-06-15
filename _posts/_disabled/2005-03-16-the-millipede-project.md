@@ -1,5 +1,5 @@
 ---
-id: 1623
+
 title: 'The millipede project'
 date: '2005-03-16T20:04:36+01:00'
 author: 'Cédric Walter'

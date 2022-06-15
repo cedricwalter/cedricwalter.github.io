@@ -1,5 +1,5 @@
 ---
-id: 7474
+
 title: 'Install Munin Monitoring in Ubuntu 11.10 Oneiric with nginx'
 date: '2012-02-02T20:17:28+01:00'
 author: 'Cédric Walter'

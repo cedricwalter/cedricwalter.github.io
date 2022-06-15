@@ -1,5 +1,5 @@
 ---
-id: 1572
+
 title: 'Google recruiting: Google Labs Aptitude Test'
 date: '2005-02-13T16:24:37+01:00'
 author: 'Cédric Walter'

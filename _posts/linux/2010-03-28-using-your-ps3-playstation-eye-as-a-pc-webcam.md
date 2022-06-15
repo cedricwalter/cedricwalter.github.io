@@ -1,5 +1,5 @@
 ---
-id: 5107
+
 title: 'Using your PS3 PlayStation Eye as a PC webcam'
 date: '2010-03-28T21:33:36+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 1549
+
 title: 'How to run Your productive version of Mambo locally'
 date: '2005-01-31T16:53:32+01:00'
 author: 'Cédric Walter'

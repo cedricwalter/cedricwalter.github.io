@@ -1,5 +1,5 @@
 ---
-id: 1466
+
 title: 'JVC GZ-MC200 tapeless Camcorder Review'
 date: '2005-01-09T18:54:09+01:00'
 author: 'Cédric Walter'

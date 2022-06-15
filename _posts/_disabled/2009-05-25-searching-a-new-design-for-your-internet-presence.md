@@ -1,5 +1,5 @@
 ---
-id: 4339
+
 title: 'Searching a new design for your internet presence?'
 date: '2009-05-25T17:00:45+02:00'
 author: 'Cédric Walter'

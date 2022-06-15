@@ -1,5 +1,5 @@
 ---
-id: 3094
+
 title: 'Security made easy, automatic scan and update of your installed applications'
 date: '2007-10-28T11:33:27+01:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 695
+
 title: 'Van De Graph'
 date: '2004-09-01T19:30:46+02:00'
 author: 'Cédric Walter'

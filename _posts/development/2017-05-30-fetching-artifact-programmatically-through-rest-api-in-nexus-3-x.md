@@ -1,5 +1,5 @@
 ---
-id: 8628
+
 title: 'Fetching artifact programmatically through REST/API in Nexus 3.x'
 date: '2017-05-30T10:35:23+02:00'
 author: 'Cédric Walter'

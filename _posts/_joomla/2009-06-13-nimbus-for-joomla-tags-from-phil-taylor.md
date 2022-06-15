@@ -1,5 +1,5 @@
 ---
-id: 4404
+
 title: 'Nimbus for Joomla tags from Phil Taylor'
 date: '2009-06-13T00:00:00+02:00'
 author: 'Cédric Walter'

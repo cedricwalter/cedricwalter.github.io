@@ -1,5 +1,5 @@
 ---
-id: 2878
+
 title: 'Happy valentine day'
 date: '2007-02-14T23:14:47+01:00'
 author: 'Cédric Walter'

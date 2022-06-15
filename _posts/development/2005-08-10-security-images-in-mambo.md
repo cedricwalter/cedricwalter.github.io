@@ -1,5 +1,5 @@
 ---
-id: 1982
+
 title: 'Security images in Mambo'
 date: '2005-08-10T20:20:21+02:00'
 author: 'Cédric Walter'

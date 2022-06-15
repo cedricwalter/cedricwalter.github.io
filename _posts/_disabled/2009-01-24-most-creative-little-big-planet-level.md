@@ -1,5 +1,5 @@
 ---
-id: 4058
+
 title: 'Most creative Little big Planet level'
 date: '2009-01-24T13:38:57+01:00'
 author: 'Cédric Walter'

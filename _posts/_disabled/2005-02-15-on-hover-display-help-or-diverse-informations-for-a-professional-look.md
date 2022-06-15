@@ -1,5 +1,5 @@
 ---
-id: 1578
+
 title: 'On hover, display help or diverse informations for a professional look'
 date: '2005-02-15T20:56:21+01:00'
 author: 'Cédric Walter'

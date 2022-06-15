@@ -1,5 +1,5 @@
 ---
-id: 1200
+
 title: 'Le M.O.C.I.M et les pilotes d&#8217;hélicoptères'
 date: '2004-09-09T22:08:58+02:00'
 author: 'Cédric Walter'

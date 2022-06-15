@@ -1,5 +1,5 @@
 ---
-id: 3848
+
 title: 'Little Big Planet wallpaper and goodies'
 date: '2008-09-22T14:38:35+02:00'
 author: 'Cédric Walter'

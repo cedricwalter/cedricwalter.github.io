@@ -1,5 +1,5 @@
 ---
-id: 7919
+
 title: 'Fatal Fury Special'
 date: '2012-11-04T18:39:11+01:00'
 author: 'Cédric Walter'

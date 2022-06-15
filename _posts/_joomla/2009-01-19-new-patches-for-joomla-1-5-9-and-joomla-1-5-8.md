@@ -1,5 +1,5 @@
 ---
-id: 4048
+
 title: 'New patches for Joomla 1.5.9 and Joomla 1.5.8'
 date: '2009-01-19T20:56:38+01:00'
 author: 'Cédric Walter'

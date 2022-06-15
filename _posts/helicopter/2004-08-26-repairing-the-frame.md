@@ -1,5 +1,5 @@
 ---
-id: 70
+
 title: 'Repairing the frame'
 date: '2004-08-26T21:36:27+02:00'
 author: 'Cédric Walter'

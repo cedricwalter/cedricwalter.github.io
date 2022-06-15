@@ -1,5 +1,5 @@
 ---
-id: 3694
+
 title: 'VirtueMart 1.1.2 and SecurityImages 5'
 date: '2008-08-17T18:36:46+02:00'
 author: 'Cédric Walter'

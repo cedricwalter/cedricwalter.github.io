@@ -1,5 +1,5 @@
 ---
-id: 545
+
 title: 'How to improve your debugging skills'
 date: '2004-08-31T22:47:37+02:00'
 author: 'Cédric Walter'

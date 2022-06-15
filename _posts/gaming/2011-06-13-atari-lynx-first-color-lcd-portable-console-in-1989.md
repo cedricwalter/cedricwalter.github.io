@@ -1,5 +1,5 @@
 ---
-id: 6877
+
 title: 'Atari Lynx first Color LCD portable console in 1989'
 date: '2011-06-13T20:39:34+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 2217
+
 title: 'Huge installation base of my Joomla components'
 date: '2005-12-19T22:34:29+01:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 7226
+
 title: 'Nexus Prime vs Samsung Galaxy S2 vs Apple iPhone 4S'
 date: '2011-10-20T21:40:01+02:00'
 author: 'Cédric Walter'

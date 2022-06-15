@@ -1,5 +1,5 @@
 ---
-id: 8624
+
 title: git-branch-renamer-maven-plugin
 date: '2017-05-18T12:31:49+02:00'
 author: 'Cédric Walter'

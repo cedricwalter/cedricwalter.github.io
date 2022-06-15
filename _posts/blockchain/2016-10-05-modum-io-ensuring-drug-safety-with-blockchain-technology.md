@@ -1,5 +1,5 @@
 ---
-id: 8592
+
 title: 'modum.io: ensuring drug safety with blockchain technology'
 date: '2016-10-05T20:47:08+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 1577
+
 title: 'Enhancing Your GUI with some professional effects'
 date: '2005-02-15T20:15:14+01:00'
 author: 'Cédric Walter'

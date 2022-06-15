@@ -1,5 +1,5 @@
 ---
-id: 1251
+
 title: 'Raptor stock parts status'
 date: '2004-10-05T18:41:17+02:00'
 author: 'Cédric Walter'

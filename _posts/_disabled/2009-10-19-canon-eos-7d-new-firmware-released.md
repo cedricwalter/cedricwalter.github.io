@@ -1,5 +1,5 @@
 ---
-id: 4782
+
 title: 'Canon EOS 7D new Firmware released'
 date: '2009-10-19T14:13:00+02:00'
 author: 'Cédric Walter'

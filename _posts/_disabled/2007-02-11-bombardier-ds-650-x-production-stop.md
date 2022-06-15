@@ -1,5 +1,5 @@
 ---
-id: 2873
+
 title: 'Bombardier DS 650 X production stop'
 date: '2007-02-11T21:54:00+01:00'
 author: 'Cédric Walter'

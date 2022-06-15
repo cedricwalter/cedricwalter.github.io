@@ -1,5 +1,5 @@
 ---
-id: 3428
+
 title: 'Make JXPATH 1.2 namespace aware'
 date: '2008-04-30T10:49:45+02:00'
 author: 'Cédric Walter'

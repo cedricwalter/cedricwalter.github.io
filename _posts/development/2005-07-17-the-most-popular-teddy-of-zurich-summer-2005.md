@@ -1,5 +1,5 @@
 ---
-id: 1926
+
 title: 'The most popular teddy of Zurich summer 2005'
 date: '2005-07-17T22:58:34+02:00'
 author: 'Cédric Walter'

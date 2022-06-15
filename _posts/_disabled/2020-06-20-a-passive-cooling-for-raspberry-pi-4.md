@@ -1,5 +1,5 @@
 ---
-id: 13551
+
 title: 'A Passive Cooling for Raspberry Pi 4'
 date: '2020-06-20T17:13:02+02:00'
 author: 'Cédric Walter'

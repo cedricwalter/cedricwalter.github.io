@@ -1,5 +1,5 @@
 ---
-id: 2629
+
 title: 'OpenComment will use AJAX'
 date: '2006-05-28T17:28:51+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 58
+
 title: 'Starter coupling wear out the hex ball and the socket'
 date: '2004-08-26T21:33:47+02:00'
 author: 'Cédric Walter'

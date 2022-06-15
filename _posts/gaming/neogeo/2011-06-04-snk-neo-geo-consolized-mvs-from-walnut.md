@@ -1,5 +1,5 @@
 ---
-id: 6810
+
 title: 'SNK Neo Geo Consolized MVS from walnut'
 date: '2011-06-04T18:17:05+02:00'
 author: 'Cédric Walter'

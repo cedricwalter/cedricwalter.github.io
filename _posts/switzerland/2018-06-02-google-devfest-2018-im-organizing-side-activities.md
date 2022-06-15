@@ -1,5 +1,5 @@
 ---
-id: 13529
+
 title: 'Google DevFest 2018 I’m organizing side activities'
 date: '2018-06-02T13:25:40+02:00'
 author: 'Cédric Walter'

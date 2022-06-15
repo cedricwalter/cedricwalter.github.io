@@ -1,5 +1,5 @@
 ---
-id: 7472
+
 title: 'A Swarm of Nano Quad rotors'
 date: '2012-02-01T21:42:57+01:00'
 author: 'Cédric Walter'

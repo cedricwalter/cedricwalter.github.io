@@ -1,5 +1,5 @@
 ---
-id: 3799
+
 title: 'HTC&#8217;s Touch HD in action'
 date: '2008-09-19T10:57:44+02:00'
 author: 'Cédric Walter'

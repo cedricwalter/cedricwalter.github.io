@@ -1,5 +1,5 @@
 ---
-id: 4616
+
 title: 'Maven JAXWS proxies stubs generation and deployment to artifactory'
 date: '2009-09-10T23:49:39+02:00'
 author: 'Cédric Walter'

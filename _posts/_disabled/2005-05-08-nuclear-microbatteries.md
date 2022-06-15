@@ -1,5 +1,5 @@
 ---
-id: 1717
+
 title: 'Nuclear microbatteries!'
 date: '2005-05-08T23:26:36+02:00'
 author: 'Cédric Walter'

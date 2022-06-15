@@ -1,5 +1,5 @@
 ---
-id: 1743
+
 title: 'Radio control ATV 13inch'
 date: '2005-05-16T20:14:39+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 6533
+
 title: 'Joomla! extension plugin photoFEED'
 date: '2011-02-16T20:41:28+01:00'
 author: 'Cédric Walter'

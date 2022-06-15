@@ -1,5 +1,5 @@
 ---
-id: 1477
+
 title: 'Google: some books worth reading'
 date: '2005-01-13T21:48:37+01:00'
 author: 'Cédric Walter'

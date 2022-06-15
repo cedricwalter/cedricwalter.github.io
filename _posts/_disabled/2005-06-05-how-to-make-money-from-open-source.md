@@ -1,5 +1,5 @@
 ---
-id: 1779
+
 title: 'How to make money from Open source'
 date: '2005-06-05T22:24:49+02:00'
 author: 'Cédric Walter'

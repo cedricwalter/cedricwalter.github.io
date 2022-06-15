@@ -1,5 +1,5 @@
 ---
-id: 2685
+
 title: 'Demo closed temporary'
 date: '2006-08-20T20:55:51+02:00'
 author: 'Cédric Walter'

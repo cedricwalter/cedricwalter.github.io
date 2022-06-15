@@ -1,5 +1,5 @@
 ---
-id: 916
+
 title: GÃ©nÃ©ralitÃ©s
 date: '2004-09-01T23:38:43+02:00'
 author: 'Cédric Walter'

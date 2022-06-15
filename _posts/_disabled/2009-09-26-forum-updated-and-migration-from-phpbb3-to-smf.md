@@ -1,5 +1,5 @@
 ---
-id: 4698
+
 title: 'Forum updated and migration from phpBB3 to SMF'
 date: '2009-09-26T14:16:34+02:00'
 author: 'Cédric Walter'

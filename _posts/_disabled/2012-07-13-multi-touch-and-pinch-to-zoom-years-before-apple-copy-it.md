@@ -1,5 +1,5 @@
 ---
-id: 7736
+
 title: 'Multi touch and pinch to zoom years before Apple copy it!'
 date: '2012-07-13T12:26:30+02:00'
 author: 'Cédric Walter'

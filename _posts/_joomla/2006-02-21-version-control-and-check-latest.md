@@ -1,5 +1,5 @@
 ---
-id: 2314
+
 title: 'Version control and check latest'
 date: '2006-02-21T18:28:27+01:00'
 author: 'Cédric Walter'

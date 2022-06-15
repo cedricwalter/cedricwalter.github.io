@@ -1,5 +1,5 @@
 ---
-id: 4515
+
 title: 'VLC (Videolan) reach version 1.0'
 date: '2009-07-07T23:02:21+02:00'
 author: 'Cédric Walter'

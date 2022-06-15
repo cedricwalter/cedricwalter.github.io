@@ -1,5 +1,5 @@
 ---
-id: 907
+
 title: 'How to control/input stick'
 date: '2004-09-01T23:27:56+02:00'
 author: 'Cédric Walter'

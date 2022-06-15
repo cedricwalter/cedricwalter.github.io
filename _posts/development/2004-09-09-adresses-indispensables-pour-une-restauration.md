@@ -1,5 +1,5 @@
 ---
-id: 1189
+
 title: 'Adresses indispensables pour une restauration'
 date: '2004-09-09T21:51:52+02:00'
 author: 'Cédric Walter'

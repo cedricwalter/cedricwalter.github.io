@@ -1,5 +1,5 @@
 ---
-id: 4385
+
 title: 'How to insert a java applet in a web page'
 date: '2009-06-08T10:29:36+02:00'
 author: 'Cédric Walter'

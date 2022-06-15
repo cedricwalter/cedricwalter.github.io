@@ -1,5 +1,5 @@
 ---
-id: 3444
+
 title: 'Send Your Name to the Moon Aboard LRO!'
 date: '2008-05-04T14:34:00+02:00'
 author: 'Cédric Walter'

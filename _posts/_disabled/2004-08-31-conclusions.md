@@ -1,5 +1,5 @@
 ---
-id: 603
+
 title: Conclusions
 date: '2004-08-31T23:33:37+02:00'
 author: 'Cédric Walter'

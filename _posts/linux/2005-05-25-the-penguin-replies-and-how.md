@@ -1,5 +1,5 @@
 ---
-id: 1763
+
 title: 'The Penguin Replies And How!'
 date: '2005-05-25T18:01:04+02:00'
 author: 'Cédric Walter'

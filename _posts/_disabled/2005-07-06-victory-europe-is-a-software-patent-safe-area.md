@@ -1,5 +1,5 @@
 ---
-id: 1888
+
 title: 'Victory! Europe is a software patent safe area!'
 date: '2005-07-06T20:07:11+02:00'
 author: 'Cédric Walter'

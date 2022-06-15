@@ -1,5 +1,5 @@
 ---
-id: 538
+
 title: 'A good worker. a good tool!'
 date: '2004-08-31T22:40:43+02:00'
 author: 'Cédric Walter'

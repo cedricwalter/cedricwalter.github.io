@@ -1,5 +1,5 @@
 ---
-id: 7204
+
 title: 'Install XEN Server without an Optical Drive'
 date: '2011-10-01T12:10:46+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 1951
+
 title: 'moving or thinking of moving?'
 date: '2005-07-24T22:04:22+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 8775
+
 title: 'CryptoMountain Rocks in Sion 3-5 october 2019'
 date: '2019-09-26T09:36:23+02:00'
 author: 'Cédric Walter'

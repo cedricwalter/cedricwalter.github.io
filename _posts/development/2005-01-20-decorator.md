@@ -1,5 +1,5 @@
 ---
-id: 1491
+
 title: Decorator
 date: '2005-01-20T21:19:08+01:00'
 author: 'Cédric Walter'

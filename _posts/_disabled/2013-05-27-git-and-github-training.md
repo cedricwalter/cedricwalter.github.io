@@ -1,5 +1,5 @@
 ---
-id: 8046
+
 title: 'Git and GitHub Training'
 date: '2013-05-27T19:06:11+02:00'
 author: 'Cédric Walter'

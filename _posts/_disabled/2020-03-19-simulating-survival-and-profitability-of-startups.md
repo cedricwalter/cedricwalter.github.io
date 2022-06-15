@@ -1,5 +1,5 @@
 ---
-id: 10597
+
 title: 'Simulating survival and profitability of startups'
 date: '2020-03-19T13:04:34+01:00'
 author: 'Cédric Walter'

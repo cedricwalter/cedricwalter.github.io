@@ -1,5 +1,5 @@
 ---
-id: 5009
+
 title: 'Install Atlassian Confluence in 15 minutes'
 date: '2010-02-03T17:18:58+01:00'
 author: 'Cédric Walter'

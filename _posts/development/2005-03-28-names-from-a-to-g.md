@@ -1,5 +1,5 @@
 ---
-id: 1655
+
 title: 'Names from A to G'
 date: '2005-03-28T12:30:56+02:00'
 author: 'Cédric Walter'

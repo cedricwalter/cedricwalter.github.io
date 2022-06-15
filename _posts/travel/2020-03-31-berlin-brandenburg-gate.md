@@ -1,5 +1,5 @@
 ---
-id: 11821
+
 title: 'Berlin Brandenburg Gate'
 date: '2020-03-31T12:52:58+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 6001
+
 title: 'Joomla! 1.5 site blueprint review'
 date: '2010-09-14T18:11:22+02:00'
 author: 'Cédric Walter'

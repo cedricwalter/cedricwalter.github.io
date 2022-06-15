@@ -1,5 +1,5 @@
 ---
-id: 4791
+
 title: 'My Bug tracking tool is now open to anonymous users'
 date: '2009-10-21T21:09:13+02:00'
 author: 'Cédric Walter'

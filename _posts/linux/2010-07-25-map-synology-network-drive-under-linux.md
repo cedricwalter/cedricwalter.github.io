@@ -1,5 +1,5 @@
 ---
-id: 5677
+
 title: 'Map Synology network drive under linux'
 date: '2010-07-25T16:43:28+02:00'
 author: 'Cédric Walter'

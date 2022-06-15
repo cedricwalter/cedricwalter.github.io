@@ -1,5 +1,5 @@
 ---
-id: 6728
+
 title: 'Nasty Bug in SecurityImages 5.1.2'
 date: '2011-05-25T20:23:03+02:00'
 author: 'Cédric Walter'

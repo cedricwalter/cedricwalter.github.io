@@ -1,5 +1,5 @@
 ---
-id: 1996
+
 title: 'Protect Mambo against spammers!'
 date: '2005-08-16T22:25:25+02:00'
 author: 'Cédric Walter'

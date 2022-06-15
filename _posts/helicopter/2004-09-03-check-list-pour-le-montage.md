@@ -1,5 +1,5 @@
 ---
-id: 991
+
 title: 'Check List pour le montage'
 date: '2004-09-03T12:41:08+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 99
+
 title: 'Loose screws in ARF kit'
 date: '2004-08-26T21:44:14+02:00'
 author: 'Cédric Walter'

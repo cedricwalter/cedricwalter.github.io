@@ -1,5 +1,5 @@
 ---
-id: 4104
+
 title: 'Over 1.5 million mobile public domain books'
 date: '2009-02-07T18:08:04+01:00'
 author: 'Cédric Walter'

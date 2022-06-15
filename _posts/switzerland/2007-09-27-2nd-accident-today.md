@@ -1,5 +1,5 @@
 ---
-id: 3052
+
 title: '2nd accident today'
 date: '2007-09-27T19:41:59+02:00'
 author: 'Cédric Walter'

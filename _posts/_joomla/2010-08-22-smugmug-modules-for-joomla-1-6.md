@@ -1,5 +1,5 @@
 ---
-id: 5741
+
 title: 'Smugmug modules for Joomla! 1.6'
 date: '2010-08-22T12:22:08+02:00'
 author: 'Cédric Walter'

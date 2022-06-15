@@ -1,5 +1,5 @@
 ---
-id: 1485
+
 title: 'J2EE Patterns, Patterns Use them!'
 date: '2005-01-18T23:08:50+01:00'
 author: 'Cédric Walter'

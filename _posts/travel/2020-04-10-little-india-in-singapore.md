@@ -1,5 +1,5 @@
 ---
-id: 12900
+
 title: 'Little India in Singapore'
 date: '2020-04-10T17:42:14+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 7394
+
 title: '2012 DUCATI 1199 Panigale Superquadro engine'
 date: '2011-12-05T21:50:37+01:00'
 author: 'Cédric Walter'

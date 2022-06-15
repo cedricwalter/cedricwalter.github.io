@@ -1,5 +1,5 @@
 ---
-id: 1657
+
 title: 'FreeMind &#8211; free mind mapping software'
 date: '2005-03-30T19:29:37+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 3817
+
 title: 'SecurityImages 5 documentation'
 date: '2008-09-20T18:50:29+02:00'
 author: 'Cédric Walter'

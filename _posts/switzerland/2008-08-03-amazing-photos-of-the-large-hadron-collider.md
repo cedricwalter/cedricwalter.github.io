@@ -1,5 +1,5 @@
 ---
-id: 3599
+
 title: 'Amazing photos of the Large Hadron Collider:'
 date: '2008-08-03T20:04:59+02:00'
 author: 'Cédric Walter'

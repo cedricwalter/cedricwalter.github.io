@@ -1,5 +1,5 @@
 ---
-id: 5759
+
 title: 'Module Jetbrains Teamcity for Joomla!'
 date: '2010-08-22T18:23:59+02:00'
 author: 'Cédric Walter'

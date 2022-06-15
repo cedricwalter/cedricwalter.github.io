@@ -1,5 +1,5 @@
 ---
-id: 8152
+
 title: 'GitHub project joomla-packager allow rapid application development of Joomla extensions'
 date: '2013-08-29T21:18:56+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 6897
+
 title: 'Google +1 your website for Joomla!'
 date: '2011-07-11T19:37:00+02:00'
 author: 'Cédric Walter'

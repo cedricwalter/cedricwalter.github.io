@@ -1,5 +1,5 @@
 ---
-id: 1806
+
 title: 'Google Video release a video viewer'
 date: '2005-06-29T12:12:15+02:00'
 author: 'Cédric Walter'

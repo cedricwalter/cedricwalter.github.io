@@ -1,5 +1,5 @@
 ---
-id: 8559
+
 title: 'Fixing your Black &#038; Decker 18V charger'
 date: '2016-08-12T12:45:52+02:00'
 author: 'Cédric Walter'

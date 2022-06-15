@@ -1,5 +1,5 @@
 ---
-id: 1004
+
 title: 'Starting ek4 engine'
 date: '2004-09-05T16:39:17+02:00'
 author: 'Cédric Walter'

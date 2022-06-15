@@ -1,5 +1,5 @@
 ---
-id: 7914
+
 title: 'Art of Fighting 2'
 date: '2012-11-04T18:43:39+01:00'
 author: 'Cédric Walter'

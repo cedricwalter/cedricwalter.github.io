@@ -1,5 +1,5 @@
 ---
-id: 185
+
 title: 'coup de geule'
 date: '2004-08-26T22:45:36+02:00'
 author: 'Cédric Walter'

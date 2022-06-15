@@ -1,5 +1,5 @@
 ---
-id: 2119
+
 title: 'The most beautiful CG girl'
 date: '2005-11-26T20:14:14+01:00'
 author: 'Cédric Walter'

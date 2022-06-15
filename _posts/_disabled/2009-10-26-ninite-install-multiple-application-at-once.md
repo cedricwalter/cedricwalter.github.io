@@ -1,5 +1,5 @@
 ---
-id: 4838
+
 title: 'Ninite: Install multiple application at once'
 date: '2009-10-26T12:56:49+01:00'
 author: 'Cédric Walter'

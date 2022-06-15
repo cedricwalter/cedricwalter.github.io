@@ -1,5 +1,5 @@
 ---
-id: 7925
+
 title: 'Fatal Fury 2 GarouDensetsu2 SPECIAL'
 date: '2012-11-04T18:41:18+01:00'
 author: 'Cédric Walter'

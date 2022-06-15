@@ -1,5 +1,5 @@
 ---
-id: 6753
+
 title: 'Merlin, the Electronic Wizard by Parker Brothers'
 date: '2011-06-04T10:18:48+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 5639
+
 title: 'Behavior Driven Development with JBehave and Apache Maven'
 date: '2010-07-24T09:22:16+02:00'
 author: 'Cédric Walter'

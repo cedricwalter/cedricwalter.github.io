@@ -1,5 +1,5 @@
 ---
-id: 5990
+
 title: 'iOS 4.1 Software Update and Jailbreak'
 date: '2010-09-08T21:40:19+02:00'
 author: 'Cédric Walter'

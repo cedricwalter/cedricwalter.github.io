@@ -1,5 +1,5 @@
 ---
-id: 4712
+
 title: 'Use Google Chrome in Internet explorer with Google Frame'
 date: '2009-09-27T23:18:44+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 2656
+
 title: 'ZFS: too good to be true'
 date: '2006-06-25T22:20:38+02:00'
 author: 'Cédric Walter'

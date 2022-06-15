@@ -1,5 +1,5 @@
 ---
-id: 6990
+
 title: 'Lampe Berger oil fragrance lamps'
 date: '2011-08-01T08:35:15+02:00'
 author: 'Cédric Walter'

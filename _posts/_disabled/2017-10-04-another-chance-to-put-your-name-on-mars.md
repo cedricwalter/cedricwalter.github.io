@@ -1,5 +1,5 @@
 ---
-id: 8680
+
 title: 'Another Chance to Put Your Name on Mars!'
 date: '2017-10-04T10:30:21+02:00'
 author: 'Cédric Walter'

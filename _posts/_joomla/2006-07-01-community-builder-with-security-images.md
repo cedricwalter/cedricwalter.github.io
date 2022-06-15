@@ -1,5 +1,5 @@
 ---
-id: 2659
+
 title: 'Community Builder with security images?'
 date: '2006-07-01T10:21:20+02:00'
 author: 'Cédric Walter'

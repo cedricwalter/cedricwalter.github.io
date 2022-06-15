@@ -1,5 +1,5 @@
 ---
-id: 5375
+
 title: 'Latest JetBRAINS Teamcity 5 plugin for the Tux Droid'
 date: '2010-06-21T21:07:41+02:00'
 author: 'Cédric Walter'

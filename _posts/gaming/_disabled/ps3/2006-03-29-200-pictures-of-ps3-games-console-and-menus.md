@@ -1,5 +1,5 @@
 ---
-id: 2398
+
 title: '200 pictures of PS3 games, console and menus'
 date: '2006-03-29T21:28:52+02:00'
 author: 'Cédric Walter'

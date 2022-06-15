@@ -1,5 +1,5 @@
 ---
-id: 3002
+
 title: 'World Stats Clock'
 date: '2007-07-02T22:31:17+02:00'
 author: 'Cédric Walter'

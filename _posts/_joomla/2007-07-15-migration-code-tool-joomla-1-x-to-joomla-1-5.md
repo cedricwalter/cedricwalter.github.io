@@ -1,5 +1,5 @@
 ---
-id: 3015
+
 title: 'Migration code tool joomla! 1.x to Joomla! 1.5'
 date: '2007-07-15T23:43:45+02:00'
 author: 'Cédric Walter'

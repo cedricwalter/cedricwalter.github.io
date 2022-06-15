@@ -1,5 +1,5 @@
 ---
-id: 2059
+
 title: 'OpenOffice.org 2.0 Released'
 date: '2005-10-21T00:35:30+02:00'
 author: 'Cédric Walter'

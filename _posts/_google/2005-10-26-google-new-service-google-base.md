@@ -1,5 +1,5 @@
 ---
-id: 2071
+
 title: 'Google new service: Google Base'
 date: '2005-10-26T20:44:41+02:00'
 author: 'Cédric Walter'

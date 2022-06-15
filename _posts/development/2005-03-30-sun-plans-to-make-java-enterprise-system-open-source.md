@@ -1,5 +1,5 @@
 ---
-id: 1656
+
 title: 'Sun Plans To Make Java Enterprise System Open-Source'
 date: '2005-03-30T19:15:12+02:00'
 author: 'Cédric Walter'

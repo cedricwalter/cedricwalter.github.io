@@ -1,5 +1,5 @@
 ---
-id: 1715
+
 title: 'An alternative to the draganflyer'
 date: '2005-05-07T21:46:47+02:00'
 author: 'Cédric Walter'

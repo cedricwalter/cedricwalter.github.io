@@ -1,5 +1,5 @@
 ---
-id: 2020
+
 title: 'The future of mambo in GPL is Joomla!'
 date: '2005-09-04T15:27:07+02:00'
 author: 'Cédric Walter'

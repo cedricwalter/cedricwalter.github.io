@@ -1,5 +1,5 @@
 ---
-id: 2070
+
 title: 'PSP to TV Adapter'
 date: '2005-10-26T20:28:19+02:00'
 author: 'Cédric Walter'

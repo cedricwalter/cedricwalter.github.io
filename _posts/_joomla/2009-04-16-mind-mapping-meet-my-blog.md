@@ -1,5 +1,5 @@
 ---
-id: 4265
+
 title: 'Mind Mapping meet my blog'
 date: '2009-04-16T22:35:46+02:00'
 author: 'Cédric Walter'

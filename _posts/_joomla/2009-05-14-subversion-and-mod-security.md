@@ -1,5 +1,5 @@
 ---
-id: 4327
+
 title: 'Subversion and mod Security'
 date: '2009-05-14T13:13:42+02:00'
 author: 'Cédric Walter'

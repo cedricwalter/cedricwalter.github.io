@@ -1,5 +1,5 @@
 ---
-id: 8614
+
 title: 'Apache Maven tips and tricks: war plugin vs assembly plugin'
 date: '2017-03-19T08:51:50+01:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 208
+
 title: 'Mon equipement Moto'
 date: '2010-12-25T00:00:00+01:00'
 author: 'Cédric Walter'

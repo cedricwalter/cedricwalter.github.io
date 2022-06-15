@@ -1,5 +1,5 @@
 ---
-id: 1581
+
 title: 'Minimize some part of Your GUI to have more space'
 date: '2005-02-15T21:21:48+01:00'
 author: 'Cédric Walter'

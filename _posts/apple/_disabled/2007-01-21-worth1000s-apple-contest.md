@@ -1,5 +1,5 @@
 ---
-id: 2843
+
 title: 'Worth1000&#8217;s Apple contest'
 date: '2007-01-21T23:33:22+01:00'
 author: 'Cédric Walter'

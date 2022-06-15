@@ -1,5 +1,5 @@
 ---
-id: 6801
+
 title: 'Nintendo Game and Watch Fire'
 date: '2011-06-04T14:37:56+02:00'
 author: 'Cédric Walter'

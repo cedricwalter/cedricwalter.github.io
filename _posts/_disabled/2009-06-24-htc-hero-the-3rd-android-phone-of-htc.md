@@ -1,5 +1,5 @@
 ---
-id: 4476
+
 title: 'HTC Hero the 3rd Android phone of HTC'
 date: '2009-06-24T22:18:53+02:00'
 author: 'Cédric Walter'

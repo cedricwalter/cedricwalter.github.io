@@ -1,5 +1,5 @@
 ---
-id: 4844
+
 title: 'SAP Joins Apache Communities, Extending Commitment to Open Source Technologies'
 date: '2009-10-28T17:37:31+01:00'
 author: 'Cédric Walter'

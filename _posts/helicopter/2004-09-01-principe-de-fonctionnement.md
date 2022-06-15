@@ -1,5 +1,5 @@
 ---
-id: 775
+
 title: 'Principe de fonctionnement'
 date: '2004-09-01T22:44:37+02:00'
 author: 'Cédric Walter'

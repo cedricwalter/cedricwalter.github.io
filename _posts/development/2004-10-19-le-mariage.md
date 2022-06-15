@@ -1,5 +1,5 @@
 ---
-id: 1334
+
 title: 'Le Mariage'
 date: '2004-10-19T17:56:32+02:00'
 author: 'Cédric Walter'

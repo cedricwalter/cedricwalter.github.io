@@ -1,5 +1,5 @@
 ---
-id: 968
+
 title: 'What IÂ´ve done for the HP49'
 date: '2004-09-02T22:12:37+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 2433
+
 title: 'The latest hacking sport is'
 date: '2006-04-05T22:24:02+02:00'
 author: 'Cédric Walter'

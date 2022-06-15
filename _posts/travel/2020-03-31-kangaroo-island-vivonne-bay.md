@@ -1,5 +1,5 @@
 ---
-id: 12359
+
 title: 'Kangaroo Island Vivonne Bay'
 date: '2020-03-31T17:41:22+02:00'
 author: 'Cédric Walter'

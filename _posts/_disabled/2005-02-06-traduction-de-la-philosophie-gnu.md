@@ -1,5 +1,5 @@
 ---
-id: 1565
+
 title: 'Traduction de la philosophie GNU'
 date: '2005-02-06T18:06:00+01:00'
 author: 'Cédric Walter'

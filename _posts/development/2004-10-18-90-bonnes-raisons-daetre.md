@@ -1,5 +1,5 @@
 ---
-id: 1329
+
 title: '90 bonnes raisons dÂ´etre&#8230;'
 date: '2004-10-18T12:02:10+02:00'
 author: 'Cédric Walter'

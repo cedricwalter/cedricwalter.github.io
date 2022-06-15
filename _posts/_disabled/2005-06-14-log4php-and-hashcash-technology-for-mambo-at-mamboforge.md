@@ -1,5 +1,5 @@
 ---
-id: 1797
+
 title: 'Log4PHP and Hashcash technology for Mambo at Mamboforge'
 date: '2005-06-14T21:00:26+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 4029
+
 title: 'More performances for Joomla! with com_minify'
 date: '2009-01-08T17:54:20+01:00'
 author: 'Cédric Walter'

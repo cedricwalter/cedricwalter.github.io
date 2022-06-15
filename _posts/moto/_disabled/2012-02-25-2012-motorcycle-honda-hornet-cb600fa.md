@@ -1,5 +1,5 @@
 ---
-id: 7521
+
 title: '2012 Motorcycle Honda Hornet CB600FA'
 date: '2012-02-25T21:05:18+01:00'
 author: 'Cédric Walter'

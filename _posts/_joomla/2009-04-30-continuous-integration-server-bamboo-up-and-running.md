@@ -1,5 +1,5 @@
 ---
-id: 4305
+
 title: 'Continuous integration server Bamboo up and running'
 date: '2009-04-30T20:04:27+02:00'
 author: 'Cédric Walter'

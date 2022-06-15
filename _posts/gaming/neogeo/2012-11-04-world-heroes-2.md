@@ -1,5 +1,5 @@
 ---
-id: 7840
+
 title: 'World Heroes 2'
 date: '2012-11-04T18:23:53+01:00'
 author: 'Cédric Walter'

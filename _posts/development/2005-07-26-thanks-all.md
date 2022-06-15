@@ -1,5 +1,5 @@
 ---
-id: 1955
+
 title: 'Thanks ALL!'
 date: '2005-07-26T17:13:31+02:00'
 author: 'Cédric Walter'

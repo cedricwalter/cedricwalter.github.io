@@ -1,5 +1,5 @@
 ---
-id: 2075
+
 title: 'Securing windows using NSA government 
 date: '2005-10-30T16:32:12+01:00'
 author: 'Cédric Walter'

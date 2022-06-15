@@ -1,5 +1,5 @@
 ---
-id: 1965
+
 title: 'Kyosho latest 50-Class Helicopter Caliber 5'
 date: '2005-07-31T14:29:04+02:00'
 author: 'Cédric Walter'

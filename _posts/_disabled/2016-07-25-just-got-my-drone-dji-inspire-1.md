@@ -1,5 +1,5 @@
 ---
-id: 8432
+
 title: 'Just got my drone DJI Inspire 1'
 date: '2016-07-25T08:27:55+02:00'
 author: 'Cédric Walter'

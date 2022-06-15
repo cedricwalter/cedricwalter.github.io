@@ -1,5 +1,5 @@
 ---
-id: 1778
+
 title: 'Bluetooth in secure mode vulnerable too'
 date: '2005-06-04T23:37:42+02:00'
 author: 'Cédric Walter'

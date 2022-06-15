@@ -1,5 +1,5 @@
 ---
-id: 2511
+
 title: 'The Pepper Pad: open alternative to Microsoft&#8217;s Origami'
 date: '2006-05-06T17:53:19+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 4186
+
 title: 'Ducati 1098R and Ducati RR Desmosedici'
 date: '2009-02-22T23:58:32+01:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 7425
+
 title: 'Checklist to Secure your Linux Server and Joomla Website'
 date: '2012-01-08T22:26:02+01:00'
 author: 'Cédric Walter'

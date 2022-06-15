@@ -1,5 +1,5 @@
 ---
-id: 8037
+
 title: 'NEO GEO X Gold Entertainment System review'
 date: '2013-05-22T21:41:14+02:00'
 author: 'Cédric Walter'

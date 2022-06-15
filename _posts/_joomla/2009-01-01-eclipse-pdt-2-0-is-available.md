@@ -1,5 +1,5 @@
 ---
-id: 4022
+
 title: 'Eclipse PDT 2.0 is available'
 date: '2009-01-01T21:24:13+01:00'
 author: 'Cédric Walter'

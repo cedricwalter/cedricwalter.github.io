@@ -1,5 +1,5 @@
 ---
-id: 4785
+
 title: 'XDepend: static analysis tool for JAVA empower Code Query Language'
 date: '2009-10-20T21:25:32+02:00'
 author: 'Cédric Walter'

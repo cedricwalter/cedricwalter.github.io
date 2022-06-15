@@ -1,5 +1,5 @@
 ---
-id: 4938
+
 title: 'How to Solve a Problem with Joomla! jos_session'
 date: '2010-01-10T10:08:54+01:00'
 author: 'Cédric Walter'

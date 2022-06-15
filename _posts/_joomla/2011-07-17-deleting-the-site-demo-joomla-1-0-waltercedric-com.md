@@ -1,5 +1,5 @@
 ---
-id: 6929
+
 title: 'Deleting the site demo-joomla-1.0.waltercedric.com'
 date: '2011-07-17T17:45:37+02:00'
 author: 'Cédric Walter'

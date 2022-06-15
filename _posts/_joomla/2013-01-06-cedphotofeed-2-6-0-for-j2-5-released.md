@@ -1,5 +1,5 @@
 ---
-id: 7938
+
 title: 'cedPhotofeed 2.6.0 for J2.5 Released'
 date: '2013-01-06T15:38:39+01:00'
 author: 'Cédric Walter'

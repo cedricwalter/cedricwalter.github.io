@@ -1,5 +1,5 @@
 ---
-id: 2004
+
 title: 'Developer of Mambo discontinue relationship with Miro'
 date: '2005-08-19T23:15:59+02:00'
 author: 'Cédric Walter'

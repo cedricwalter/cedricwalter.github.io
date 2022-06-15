@@ -1,5 +1,5 @@
 ---
-id: 4507
+
 title: 'Implement SSH port knocking IN linux'
 date: '2020-03-14T15:57:15+01:00'
 author: 'Cédric Walter'

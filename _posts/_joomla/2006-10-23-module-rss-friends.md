@@ -1,5 +1,5 @@
 ---
-id: 2730
+
 title: 'module RSS friends'
 date: '2006-10-23T10:59:14+02:00'
 author: 'Cédric Walter'

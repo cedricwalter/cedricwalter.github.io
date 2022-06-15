@@ -1,5 +1,5 @@
 ---
-id: 1009
+
 title: 'Crazy Pictures have to be seen'
 date: '2004-09-05T16:45:36+02:00'
 author: 'Cédric Walter'

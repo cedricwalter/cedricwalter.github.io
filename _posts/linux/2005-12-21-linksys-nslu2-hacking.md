@@ -1,5 +1,5 @@
 ---
-id: 2236
+
 title: 'Linksys NSLU2 hacking'
 date: '2005-12-21T20:53:52+01:00'
 author: 'Cédric Walter'

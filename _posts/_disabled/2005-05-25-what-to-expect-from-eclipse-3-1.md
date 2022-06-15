@@ -1,5 +1,5 @@
 ---
-id: 1760
+
 title: 'What to expect from Eclipse 3.1'
 date: '2005-05-25T17:39:07+02:00'
 author: 'Cédric Walter'

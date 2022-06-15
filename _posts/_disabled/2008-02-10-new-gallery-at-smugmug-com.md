@@ -1,5 +1,5 @@
 ---
-id: 3181
+
 title: 'New gallery at smugmug.com'
 date: '2008-02-10T22:22:31+01:00'
 author: 'Cédric Walter'

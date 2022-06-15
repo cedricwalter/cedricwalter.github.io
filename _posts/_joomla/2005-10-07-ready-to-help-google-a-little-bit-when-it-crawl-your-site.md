@@ -1,5 +1,5 @@
 ---
-id: 2044
+
 title: 'Ready to help Google a little bit when it crawl your site?'
 date: '2005-10-07T15:19:49+02:00'
 author: 'Cédric Walter'

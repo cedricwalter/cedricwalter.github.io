@@ -1,5 +1,5 @@
 ---
-id: 2438
+
 title: 'Renew a Joomla Demo Site'
 date: '2006-04-08T12:54:07+02:00'
 author: 'Cédric Walter'

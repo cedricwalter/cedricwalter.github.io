@@ -1,5 +1,5 @@
 ---
-id: 11693
+
 title: 'La Tour-de-Peilz'
 date: '2020-03-31T11:55:54+02:00'
 author: 'Cédric Walter'

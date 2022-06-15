@@ -1,5 +1,5 @@
 ---
-id: 3422
+
 title: 'Regression testing of SecurityImages 5.0.X'
 date: '2008-04-13T18:43:04+02:00'
 author: 'Cédric Walter'

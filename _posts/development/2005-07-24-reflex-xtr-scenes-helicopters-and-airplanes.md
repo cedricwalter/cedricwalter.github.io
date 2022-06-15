@@ -1,5 +1,5 @@
 ---
-id: 1946
+
 title: 'Reflex XTR scenes, helicopters and airplanes'
 date: '2005-07-24T19:59:56+02:00'
 author: 'Cédric Walter'

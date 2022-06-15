@@ -1,5 +1,5 @@
 ---
-id: 4207
+
 title: 'Get a command prompt on any Eclipse project'
 date: '2009-03-20T23:18:19+01:00'
 author: 'Cédric Walter'

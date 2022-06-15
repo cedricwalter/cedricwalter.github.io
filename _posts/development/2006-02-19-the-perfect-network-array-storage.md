@@ -1,5 +1,5 @@
 ---
-id: 2313
+
 title: 'The perfect Network Array Storage?'
 date: '2006-02-19T12:35:33+01:00'
 author: 'Cédric Walter'

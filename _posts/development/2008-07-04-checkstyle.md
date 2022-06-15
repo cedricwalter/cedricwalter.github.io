@@ -1,5 +1,5 @@
 ---
-id: 3511
+
 title: Checkstyle
 date: '2008-07-04T21:00:20+02:00'
 author: 'Cédric Walter'

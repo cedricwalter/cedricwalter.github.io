@@ -1,5 +1,5 @@
 ---
-id: 8239
+
 title: 'maven-release-plugin with GIT'
 date: '2015-02-03T14:07:00+01:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 789
+
 title: 'Interesting links'
 date: '2004-09-01T22:47:25+02:00'
 author: 'Cédric Walter'

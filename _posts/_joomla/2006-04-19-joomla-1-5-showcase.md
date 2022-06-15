@@ -1,5 +1,5 @@
 ---
-id: 2473
+
 title: 'Joomla 1.5 showcase'
 date: '2006-04-19T23:50:27+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 4255
+
 title: 'Dilbert explain Hedge Funds'
 date: '2009-04-16T10:40:37+02:00'
 author: 'Cédric Walter'

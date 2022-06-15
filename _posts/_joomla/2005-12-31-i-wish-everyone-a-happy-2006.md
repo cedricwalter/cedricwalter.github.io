@@ -1,5 +1,5 @@
 ---
-id: 2249
+
 title: 'I wish Everyone a Happy 2006'
 date: '2005-12-31T19:36:40+01:00'
 author: 'Cédric Walter'

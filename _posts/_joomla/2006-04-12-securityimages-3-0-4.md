@@ -1,5 +1,5 @@
 ---
-id: 2448
+
 title: 'SecurityImages 3.0.4'
 date: '2006-04-12T19:47:19+02:00'
 author: 'Cédric Walter'

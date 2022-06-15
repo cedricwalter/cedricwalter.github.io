@@ -1,5 +1,5 @@
 ---
-id: 3017
+
 title: 'Securityimages POLL: reCAPTCHA  integration'
 date: '2007-07-16T16:26:39+02:00'
 author: 'Cédric Walter'

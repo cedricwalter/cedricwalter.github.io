@@ -1,5 +1,5 @@
 ---
-id: 7798
+
 title: 'Understand Agile Development Methods with the Agile Development Poster'
 date: '2012-10-17T19:29:50+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 8147
+
 title: 'How to migrate from cedtag to joomla 3.1.x Internal Tag extension'
 date: '2013-08-07T19:48:41+02:00'
 author: 'Cédric Walter'

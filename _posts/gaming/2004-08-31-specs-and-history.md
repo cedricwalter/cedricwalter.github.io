@@ -1,5 +1,5 @@
 ---
-id: 666
+
 title: 'Specs and history'
 date: '2004-08-31T23:53:40+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 102
+
 title: 'Flip the head, change the delta3 angle'
 date: '2004-08-26T21:45:12+02:00'
 author: 'Cédric Walter'

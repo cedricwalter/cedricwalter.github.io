@@ -1,5 +1,5 @@
 ---
-id: 7825
+
 title: 'Apache POI Speed Optimizations'
 date: '2012-10-29T23:39:21+01:00'
 author: 'Cédric Walter'

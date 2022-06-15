@@ -1,5 +1,5 @@
 ---
-id: 4169
+
 title: 'The HTC Magic is an Android phone number 2'
 date: '2009-02-17T22:27:02+01:00'
 author: 'Cédric Walter'

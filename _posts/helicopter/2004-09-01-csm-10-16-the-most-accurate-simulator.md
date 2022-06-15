@@ -1,5 +1,5 @@
 ---
-id: 887
+
 title: 'CSM 10.16 the most accurate simulator'
 date: '2004-09-01T23:19:50+02:00'
 author: 'Cédric Walter'

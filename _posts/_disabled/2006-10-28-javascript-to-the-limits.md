@@ -1,5 +1,5 @@
 ---
-id: 2739
+
 title: 'javascript to the limits'
 date: '2006-10-28T23:24:40+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 4042
+
 title: 'Reduce HTTP requests with Minify4Joomla'
 date: '2009-01-14T22:05:32+01:00'
 author: 'Cédric Walter'

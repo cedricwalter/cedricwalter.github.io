@@ -1,5 +1,5 @@
 ---
-id: 7500
+
 title: 'Download the Free Joomla! 2.5 &#8211; Beginner&#8217;s 
 date: '2012-02-13T12:06:09+01:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 1343
+
 title: 'Novell SLES9 vs Microsoft Win2k3 in a Windows Network'
 date: '2004-11-07T21:58:51+01:00'
 author: 'Cédric Walter'

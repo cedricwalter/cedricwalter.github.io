@@ -1,5 +1,5 @@
 ---
-id: 11973
+
 title: 'Australia Kings Canyon'
 date: '2020-03-31T15:28:05+02:00'
 author: 'Cédric Walter'

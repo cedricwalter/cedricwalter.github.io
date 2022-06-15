@@ -1,5 +1,5 @@
 ---
-id: 72
+
 title: 'Dual Battery system'
 date: '2004-08-26T21:37:11+02:00'
 author: 'Cédric Walter'

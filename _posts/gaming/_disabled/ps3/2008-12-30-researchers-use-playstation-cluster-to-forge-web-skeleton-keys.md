@@ -1,5 +1,5 @@
 ---
-id: 4001
+
 title: 'Researchers Use PlayStation Cluster to Forge Web Skeleton Keys'
 date: '2008-12-30T23:11:28+01:00'
 author: 'Cédric Walter'

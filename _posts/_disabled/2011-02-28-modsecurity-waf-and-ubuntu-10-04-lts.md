@@ -1,5 +1,5 @@
 ---
-id: 6558
+
 title: 'ModSecurity WAF and Ubuntu 10.04 LTS'
 date: '2011-02-28T20:03:40+01:00'
 author: 'Cédric Walter'

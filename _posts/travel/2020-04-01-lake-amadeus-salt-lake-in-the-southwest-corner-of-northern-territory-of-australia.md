@@ -1,5 +1,5 @@
 ---
-id: 12463
+
 title: 'Lake Amadeus Salt Lake in the southwest corner of Northern Territory of Australia'
 date: '2020-04-01T16:57:58+02:00'
 author: 'Cédric Walter'

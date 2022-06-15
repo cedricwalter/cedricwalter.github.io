@@ -1,5 +1,5 @@
 ---
-id: 2887
+
 title: 'Ubuntu 6.10 in action'
 date: '2007-02-23T21:45:22+01:00'
 author: 'Cédric Walter'

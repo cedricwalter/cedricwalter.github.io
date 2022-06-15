@@ -1,5 +1,5 @@
 ---
-id: 2696
+
 title: 'A wireless hacking computer'
 date: '2006-09-01T20:25:27+02:00'
 author: 'Cédric Walter'

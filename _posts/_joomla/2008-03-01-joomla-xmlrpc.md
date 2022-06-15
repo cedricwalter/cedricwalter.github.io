@@ -1,5 +1,5 @@
 ---
-id: 3221
+
 title: 'Joomla XMLRPC'
 date: '2008-03-01T15:33:07+01:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 2110
+
 title: 'forced to deactivate SEF404 in Joomla'
 date: '2005-11-15T22:31:24+01:00'
 author: 'Cédric Walter'

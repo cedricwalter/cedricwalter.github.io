@@ -1,5 +1,5 @@
 ---
-id: 555
+
 title: 'Les WebRings ou anneaux'
 date: '2004-08-31T23:04:58+02:00'
 author: 'Cédric Walter'

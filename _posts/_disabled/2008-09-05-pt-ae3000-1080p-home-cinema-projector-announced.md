@@ -1,5 +1,5 @@
 ---
-id: 3748
+
 title: 'PT-AE3000 1080p home cinema projector announced'
 date: '2008-09-05T22:08:45+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 2911
+
 title: 'EVERY developer is convince that his code is better'
 date: '2007-03-18T19:23:04+01:00'
 author: 'Cédric Walter'

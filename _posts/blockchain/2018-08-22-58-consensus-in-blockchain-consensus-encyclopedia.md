@@ -1,5 +1,5 @@
 ---
-id: 8742
+
 title: '58 Consensus in Blockchain Consensus Encyclopedia'
 date: '2018-08-22T19:40:02+02:00'
 author: 'Cédric Walter'

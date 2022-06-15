@@ -1,5 +1,5 @@
 ---
-id: 5204
+
 title: 'Why I won&#8217;t buy an Apple iPad yet'
 date: '2010-05-31T17:45:23+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 4130
+
 title: 'Haiku: BEOS system written from scratch'
 date: '2009-02-10T22:50:32+01:00'
 author: 'Cédric Walter'

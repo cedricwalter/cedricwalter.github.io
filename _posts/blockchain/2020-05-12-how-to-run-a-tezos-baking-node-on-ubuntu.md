@@ -1,5 +1,5 @@
 ---
-id: 13448
+
 title: 'how to run a tezos baking node on Ubuntu'
 date: '2020-05-12T21:13:59+02:00'
 author: 'Cédric Walter'
@@ -241,7 +241,7 @@ We now setup ledger to bake for the account, the last block number can be found 
 ./tezos-client setup ledger to bake for 'ledger_hp' --main-hwm '949464'
 
 Setting up the ledger:
-* Main chain ID: 'Unspecified' -> NetXdQprcVkpaWU
+* Main chain 
 * Main chain High Watermark: 0 -> 949509
 * Test chain High Watermark: 0 -> 0
 Authorized baking for address: tz1xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
@@ -270,7 +270,7 @@ And run now with the proper chain ID
 
 return 
 Setting up the ledger:
-* Main chain ID: NetXdQprcVkpaWU -> NetXdQprcVkpaWU
+* Main chain 
 * Main chain High Watermark: 949511 -> 949511
 * Test chain High Watermark: 949511 -> 949511
 Authorized baking for address: tz1xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx

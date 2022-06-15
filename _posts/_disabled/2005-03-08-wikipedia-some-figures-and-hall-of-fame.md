@@ -1,5 +1,5 @@
 ---
-id: 1616
+
 title: 'Wikipedia, some figures, and hall of fame'
 date: '2005-03-08T22:57:17+01:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 4720
+
 title: 'Site optimized for mobile and cell phone'
 date: '2009-09-30T00:36:58+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 2876
+
 title: 'Transporting big items&#8230;'
 date: '2007-02-11T22:12:15+01:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 8611
+
 title: 'Beyond Corp project from google'
 date: '2017-03-19T08:36:12+01:00'
 author: 'Cédric Walter'

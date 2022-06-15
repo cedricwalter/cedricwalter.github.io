@@ -1,5 +1,5 @@
 ---
-id: 2676
+
 title: 'The Best review of  projector screens'
 date: '2006-08-07T15:25:59+02:00'
 author: 'Cédric Walter'

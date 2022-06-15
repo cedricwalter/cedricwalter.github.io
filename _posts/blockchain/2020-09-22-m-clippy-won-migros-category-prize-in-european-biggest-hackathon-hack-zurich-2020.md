@@ -1,5 +1,5 @@
 ---
-id: 13663
+
 title: 'm-Clippy WON Migros Category prize in Europe&#8217;s Biggest Hackathon Hack Zurich 2020'
 date: '2020-09-22T16:14:31+02:00'
 author: 'Cédric Walter'

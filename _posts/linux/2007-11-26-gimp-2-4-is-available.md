@@ -1,5 +1,5 @@
 ---
-id: 3161
+
 title: 'Gimp 2.4 is available'
 date: '2007-11-26T19:02:10+01:00'
 author: 'Cédric Walter'

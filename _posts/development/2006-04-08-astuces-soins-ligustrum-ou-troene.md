@@ -1,5 +1,5 @@
 ---
-id: 2442
+
 title: 'Astuces, soins Ligustrum ou Troène'
 date: '2006-04-08T20:12:54+02:00'
 author: 'Cédric Walter'

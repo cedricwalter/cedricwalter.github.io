@@ -1,5 +1,5 @@
 ---
-id: 13128
+
 title: 'Susten Pass'
 date: '2020-04-14T11:58:01+02:00'
 author: 'Cédric Walter'

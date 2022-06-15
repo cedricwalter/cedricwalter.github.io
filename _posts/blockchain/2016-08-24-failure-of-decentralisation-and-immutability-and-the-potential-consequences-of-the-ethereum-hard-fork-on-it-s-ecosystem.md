@@ -1,5 +1,5 @@
 ---
-id: 8574
+
 title: 'Failure of Decentralisation and Immutability and the Potential Consequences of the Ethereum Hard Fork on
 It&#8217;s Ecosystem'
 date: '2016-08-24T12:05:33+02:00'

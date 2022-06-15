@@ -1,5 +1,5 @@
 ---
-id: 2024
+
 title: 'XBOX, XBMC troubleshootings&#8230;'
 date: '2005-09-06T19:38:10+02:00'
 author: 'Cédric Walter'

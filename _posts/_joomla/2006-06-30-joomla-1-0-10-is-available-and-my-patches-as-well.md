@@ -1,5 +1,5 @@
 ---
-id: 2657
+
 title: 'Joomla 1.0.10 is available and my patches as well'
 date: '2006-06-30T21:05:26+02:00'
 author: 'Cédric Walter'

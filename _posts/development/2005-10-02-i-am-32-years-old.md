@@ -1,5 +1,5 @@
 ---
-id: 2041
+
 title: 'I am 32 years old!'
 date: '2005-10-02T20:26:41+02:00'
 author: 'Cédric Walter'

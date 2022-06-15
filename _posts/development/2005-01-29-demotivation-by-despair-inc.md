@@ -1,5 +1,5 @@
 ---
-id: 1535
+
 title: 'Demotivation by despair inc.'
 date: '2005-01-29T12:43:22+01:00'
 author: 'Cédric Walter'

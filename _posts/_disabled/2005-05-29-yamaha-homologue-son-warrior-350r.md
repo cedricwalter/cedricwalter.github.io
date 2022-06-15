@@ -1,5 +1,5 @@
 ---
-id: 1768
+
 title: 'Yamaha Homologue son Warrior 350r'
 date: '2005-05-29T17:34:47+02:00'
 author: 'Cédric Walter'

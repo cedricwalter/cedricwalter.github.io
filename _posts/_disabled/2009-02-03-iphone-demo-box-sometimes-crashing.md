@@ -1,5 +1,5 @@
 ---
-id: 4090
+
 title: 'IPHONE demo box sometimes crashing&#8230;'
 date: '2009-02-03T23:29:34+01:00'
 author: 'Cédric Walter'

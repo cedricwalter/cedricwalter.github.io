@@ -1,5 +1,5 @@
 ---
-id: 1395
+
 title: 'How does Open source and Linux look like?'
 date: '2004-12-01T21:26:25+01:00'
 author: 'Cédric Walter'

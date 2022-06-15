@@ -1,5 +1,5 @@
 ---
-id: 472
+
 title: 'Old Pictures (gallery of)'
 date: '2004-08-31T21:56:50+02:00'
 author: 'Cédric Walter'

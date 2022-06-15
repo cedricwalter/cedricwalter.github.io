@@ -1,5 +1,5 @@
 ---
-id: 3187
+
 title: 'Running the latest Joomla! 1.5'
 date: '2008-02-18T22:27:12+01:00'
 author: 'Cédric Walter'

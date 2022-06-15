@@ -1,5 +1,5 @@
 ---
-id: 1382
+
 title: 'Visiting Italy: Genova'
 date: '2004-11-21T20:30:20+01:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 2681
+
 title: 'Sorry for the instability of my homepage'
 date: '2006-08-16T18:16:32+02:00'
 author: 'Cédric Walter'

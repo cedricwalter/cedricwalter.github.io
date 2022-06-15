@@ -1,5 +1,5 @@
 ---
-id: 7543
+
 title: '2012 Agusta MV BRUTALE RR 1090'
 date: '2012-02-29T20:56:17+01:00'
 author: 'Cédric Walter'

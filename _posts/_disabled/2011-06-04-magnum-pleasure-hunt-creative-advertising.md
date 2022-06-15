@@ -1,5 +1,5 @@
 ---
-id: 6805
+
 title: 'Magnum Pleasure Hunt &#8211; creative advertising'
 date: '2011-06-04T17:53:33+02:00'
 author: 'Cédric Walter'

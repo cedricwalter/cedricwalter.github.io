@@ -1,5 +1,5 @@
 ---
-id: 512
+
 title: Historique
 date: '2004-08-31T22:14:21+02:00'
 author: 'Cédric Walter'

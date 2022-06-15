@@ -1,5 +1,5 @@
 ---
-id: 4288
+
 title: 'Configuring TeamCity, Maven for PHP for Joomla continuous build'
 date: '2009-04-21T21:31:34+02:00'
 author: 'Cédric Walter'
@@ -107,8 +107,8 @@ At <http://maven.waltercedric.com/artifactory/webapp/repositoryconfig.html>
 
 As Admin user (you cant go to that links without being an admin!), add 2 new repositories
 
-- id: php-maven-snapshots and url: <http://repo1.php-maven.org/snapshot>
-- id: php-maven-release and url: <http://repo1.php-maven.org/release>
+- 
+- 
 
 ### In Maven settings.xml
 

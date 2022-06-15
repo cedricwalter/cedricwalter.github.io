@@ -1,5 +1,5 @@
 ---
-id: 3776
+
 title: 'Secure, Safe, Fast Linux Hosting v1.3.0'
 date: '2008-09-15T22:01:44+02:00'
 author: 'Cédric Walter'

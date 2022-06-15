@@ -1,5 +1,5 @@
 ---
-id: 2706
+
 title: 'securityimages 4.0.0 and opencomment'
 date: '2006-09-22T10:31:56+02:00'
 author: 'Cédric Walter'

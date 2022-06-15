@@ -1,5 +1,5 @@
 ---
-id: 8482
+
 title: 'Scooter Vespa 1954 &#8211; De la Rouille au chrome&#8230;'
 date: '2004-07-25T09:40:27+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 7270
+
 title: 'Alternate method to install Joomla/Drupal on Synology NAS'
 date: '2011-11-11T17:10:04+01:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 8253
+
 title: 'Raspberry Pi 2 Modèle B 1GB'
 date: '2015-02-08T20:13:40+01:00'
 author: 'Cédric Walter'

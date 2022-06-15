@@ -1,5 +1,5 @@
 ---
-id: 2669
+
 title: 'Security risk in securityimages'
 date: '2006-08-01T19:58:39+02:00'
 author: 'Cédric Walter'

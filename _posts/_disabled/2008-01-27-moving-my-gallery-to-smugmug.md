@@ -1,5 +1,5 @@
 ---
-id: 3172
+
 title: 'moving my gallery to smugmug?'
 date: '2008-01-27T16:26:43+01:00'
 author: 'Cédric Walter'

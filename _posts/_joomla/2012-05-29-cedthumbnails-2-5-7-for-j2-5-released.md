@@ -1,5 +1,5 @@
 ---
-id: 7695
+
 title: 'cedThumbnails 2.5.7 for J2.5 Released'
 date: '2012-05-29T22:28:25+02:00'
 author: 'Cédric Walter'

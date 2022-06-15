@@ -1,5 +1,5 @@
 ---
-id: 3269
+
 title: 'Happy Easter'
 date: '2008-03-20T16:24:08+01:00'
 author: 'Cédric Walter'

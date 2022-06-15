@@ -1,5 +1,5 @@
 ---
-id: 1380
+
 title: 'useful RPMs and apt-rpm SuSe repositories'
 date: '2004-11-19T10:22:35+01:00'
 author: 'Cédric Walter'

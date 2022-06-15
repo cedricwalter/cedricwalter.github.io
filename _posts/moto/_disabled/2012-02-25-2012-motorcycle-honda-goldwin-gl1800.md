@@ -1,5 +1,5 @@
 ---
-id: 7519
+
 title: '2012 Motorcycle Honda Goldwin GL1800'
 date: '2012-02-25T20:25:31+01:00'
 author: 'Cédric Walter'

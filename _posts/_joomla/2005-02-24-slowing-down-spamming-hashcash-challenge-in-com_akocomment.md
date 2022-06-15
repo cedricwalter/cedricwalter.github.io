@@ -1,5 +1,5 @@
 ---
-id: 1590
+
 title: 'Slowing down spamming! Hashcash challenge in com_akocomment'
 date: '2005-02-24T23:01:21+01:00'
 author: 'Cédric Walter'

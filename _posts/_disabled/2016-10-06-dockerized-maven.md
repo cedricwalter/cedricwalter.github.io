@@ -1,5 +1,5 @@
 ---
-id: 8595
+
 title: 'Dockerized Maven'
 date: '2016-10-06T20:00:00+02:00'
 author: 'Cédric Walter'

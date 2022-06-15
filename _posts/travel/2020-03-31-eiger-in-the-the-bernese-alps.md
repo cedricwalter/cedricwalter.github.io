@@ -1,5 +1,5 @@
 ---
-id: 11607
+
 title: 'Eiger in the the Bernese Alps'
 date: '2020-03-31T11:39:23+02:00'
 author: 'Cédric Walter'

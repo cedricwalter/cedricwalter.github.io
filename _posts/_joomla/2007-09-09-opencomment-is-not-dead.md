@@ -1,5 +1,5 @@
 ---
-id: 3047
+
 title: 'OpenComment is not DEAD'
 date: '2007-09-09T18:57:29+02:00'
 author: 'Cédric Walter'

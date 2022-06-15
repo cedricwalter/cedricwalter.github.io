@@ -1,5 +1,5 @@
 ---
-id: 2691
+
 title: 'Upgrade immediately to Joomla! 1.0.11'
 date: '2006-08-29T22:53:09+02:00'
 author: 'Cédric Walter'

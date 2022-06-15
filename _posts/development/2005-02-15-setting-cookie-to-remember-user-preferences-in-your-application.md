@@ -1,5 +1,5 @@
 ---
-id: 1580
+
 title: 'Setting cookie to remember user preferences in Your application'
 date: '2005-02-15T21:08:58+01:00'
 author: 'Cédric Walter'

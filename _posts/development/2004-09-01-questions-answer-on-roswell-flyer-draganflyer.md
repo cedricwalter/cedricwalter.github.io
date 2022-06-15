@@ -1,5 +1,5 @@
 ---
-id: 769
+
 title: 'Questions/ Answer on Roswell Flyer, Draganflyer&#8230;'
 date: '2004-09-01T22:43:12+02:00'
 author: 'Cédric Walter'

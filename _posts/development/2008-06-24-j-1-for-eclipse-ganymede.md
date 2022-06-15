@@ -1,5 +1,5 @@
 ---
-id: 3492
+
 title: 'J-1 for Eclipse Ganymede'
 date: '2008-06-24T22:21:58+02:00'
 author: 'Cédric Walter'

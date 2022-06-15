@@ -1,5 +1,5 @@
 ---
-id: 4545
+
 title: 'How To Ask Questions The Smart Way'
 date: '2009-07-25T22:26:00+02:00'
 author: 'Cédric Walter'

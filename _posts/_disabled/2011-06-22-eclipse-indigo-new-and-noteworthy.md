@@ -1,5 +1,5 @@
 ---
-id: 6889
+
 title: 'Eclipse Indigo/New and Noteworthy'
 date: '2011-06-22T21:17:09+02:00'
 author: 'Cédric Walter'

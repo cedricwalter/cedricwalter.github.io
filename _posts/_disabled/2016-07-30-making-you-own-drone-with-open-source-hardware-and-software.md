@@ -1,5 +1,5 @@
 ---
-id: 8527
+
 title: 'Making your own drone with open source hardware and software'
 date: '2016-07-30T20:10:16+02:00'
 author: 'Cédric Walter'

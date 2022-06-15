@@ -1,5 +1,5 @@
 ---
-id: 12345
+
 title: 'Cape Otway Lighthouse'
 date: '2020-03-31T17:32:19+02:00'
 author: 'Cédric Walter'

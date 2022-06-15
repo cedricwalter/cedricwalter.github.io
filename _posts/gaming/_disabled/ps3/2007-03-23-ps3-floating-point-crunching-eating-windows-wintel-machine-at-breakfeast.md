@@ -1,5 +1,5 @@
 ---
-id: 2912
+
 title: 'PS3 floating point crunching eating windows/wintel machine at breakfeast'
 date: '2007-03-23T21:42:49+01:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 2624
+
 title: 'NAS @ HOME glossary of terms'
 date: '2006-05-24T22:21:25+02:00'
 author: 'Cédric Walter'

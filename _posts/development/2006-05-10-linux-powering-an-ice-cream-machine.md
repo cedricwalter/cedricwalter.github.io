@@ -1,5 +1,5 @@
 ---
-id: 2523
+
 title: 'Linux powering an ice cream machine'
 date: '2006-05-10T23:49:45+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 2880
+
 title: 'Swiss-Moto 2007 &#8211; Zurich Messe'
 date: '2007-02-18T19:06:39+01:00'
 author: 'Cédric Walter'

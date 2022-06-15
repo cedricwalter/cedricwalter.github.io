@@ -1,5 +1,5 @@
 ---
-id: 6511
+
 title: 'Status of my vintage gaming console collection'
 date: '2011-01-31T23:14:45+01:00'
 author: 'Cédric Walter'

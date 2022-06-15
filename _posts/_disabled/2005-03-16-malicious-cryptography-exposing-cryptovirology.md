@@ -1,5 +1,5 @@
 ---
-id: 1622
+
 title: 'Malicious Cryptography: Exposing Cryptovirology'
 date: '2005-03-16T19:42:17+01:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 7984
+
 title: 'cedphotofeed 2.6.2 for joomla J2.5 and J3.0 released'
 date: '2013-04-01T15:59:08+02:00'
 author: 'Cédric Walter'

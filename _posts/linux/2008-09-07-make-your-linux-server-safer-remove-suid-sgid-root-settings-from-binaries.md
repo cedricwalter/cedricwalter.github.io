@@ -1,5 +1,5 @@
 ---
-id: 3763
+
 title: 'Make your Linux server safer: remove SUID/SGID root settings from binaries'
 date: '2008-09-07T13:26:22+02:00'
 author: 'Cédric Walter'

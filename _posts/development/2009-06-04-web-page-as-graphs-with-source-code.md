@@ -1,5 +1,5 @@
 ---
-id: 4373
+
 title: 'Web page as Graphs with source code'
 date: '2009-06-04T21:23:20+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 750
+
 title: 'Roswell Flyer, HMX-4, Draganflyer'
 date: '2004-09-01T22:39:42+02:00'
 author: 'Cédric Walter'

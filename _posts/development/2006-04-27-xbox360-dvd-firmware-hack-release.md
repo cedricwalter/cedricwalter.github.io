@@ -1,5 +1,5 @@
 ---
-id: 2483
+
 title: 'XBOX360 DVD Firmware Hack release'
 date: '2006-04-27T23:04:34+02:00'
 author: 'Cédric Walter'

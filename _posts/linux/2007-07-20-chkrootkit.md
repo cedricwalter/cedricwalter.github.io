@@ -1,5 +1,5 @@
 ---
-id: 3022
+
 title: chkrootkit
 date: '2007-07-20T00:48:23+02:00'
 author: 'Cédric Walter'

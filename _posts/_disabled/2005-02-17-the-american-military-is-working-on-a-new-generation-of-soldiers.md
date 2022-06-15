@@ -1,5 +1,5 @@
 ---
-id: 1585
+
 title: 'The American military is working on a new generation of soldiers&#8230;'
 date: '2005-02-17T22:35:43+01:00'
 author: 'Cédric Walter'

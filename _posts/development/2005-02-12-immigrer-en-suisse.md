@@ -1,5 +1,5 @@
 ---
-id: 1569
+
 title: 'Immigrer en Suisse'
 date: '2005-02-12T22:25:24+01:00'
 author: 'Cédric Walter'

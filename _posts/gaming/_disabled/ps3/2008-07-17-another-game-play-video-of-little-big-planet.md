@@ -1,5 +1,5 @@
 ---
-id: 3517
+
 title: 'Another game play video of Little Big Planet'
 date: '2008-07-17T11:22:59+02:00'
 author: 'Cédric Walter'

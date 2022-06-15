@@ -1,5 +1,5 @@
 ---
-id: 7934
+
 title: 'Happy Holidays from Cédric Walter'
 date: '2012-12-26T10:31:00+01:00'
 author: 'Cédric Walter'

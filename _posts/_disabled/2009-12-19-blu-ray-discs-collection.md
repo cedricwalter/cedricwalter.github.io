@@ -1,5 +1,5 @@
 ---
-id: 3653
+
 title: 'Blu-ray discs collection'
 date: '2009-12-19T00:00:00+01:00'
 author: 'Cédric Walter'

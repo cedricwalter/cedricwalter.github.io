@@ -1,5 +1,5 @@
 ---
-id: 7836
+
 title: 'World Heroes 2 Jet'
 date: '2012-11-04T18:21:40+01:00'
 author: 'Cédric Walter'

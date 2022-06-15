@@ -1,5 +1,5 @@
 ---
-id: 4025
+
 title: 'MYSQL tuning with mysqlreport'
 date: '2009-01-02T23:08:11+01:00'
 author: 'Cédric Walter'

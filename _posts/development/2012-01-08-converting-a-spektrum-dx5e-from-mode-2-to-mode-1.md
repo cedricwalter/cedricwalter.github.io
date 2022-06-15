@@ -1,5 +1,5 @@
 ---
-id: 7414
+
 title: 'Converting a Spektrum DX5e from Mode 2 to Mode 1'
 date: '2012-01-08T15:33:15+01:00'
 author: 'Cédric Walter'

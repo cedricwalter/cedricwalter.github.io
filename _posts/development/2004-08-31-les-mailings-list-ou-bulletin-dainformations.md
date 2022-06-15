@@ -1,5 +1,5 @@
 ---
-id: 556
+
 title: 'Les Mailings-List ou bulletin dÂ´informations'
 date: '2004-08-31T23:05:45+02:00'
 author: 'Cédric Walter'

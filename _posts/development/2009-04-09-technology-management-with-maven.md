@@ -1,5 +1,5 @@
 ---
-id: 4250
+
 title: 'Technology management with Maven'
 date: '2009-04-09T13:28:02+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 2834
+
 title: 'Explore Open Source projects'
 date: '2007-01-11T21:26:08+01:00'
 author: 'Cédric Walter'

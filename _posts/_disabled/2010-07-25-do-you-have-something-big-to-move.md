@@ -1,5 +1,5 @@
 ---
-id: 5659
+
 title: 'Do You have something big to move?'
 date: '2010-07-25T15:36:20+02:00'
 author: 'Cédric Walter'

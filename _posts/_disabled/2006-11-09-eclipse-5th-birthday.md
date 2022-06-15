@@ -1,5 +1,5 @@
 ---
-id: 2751
+
 title: 'Eclipse 5th birthday'
 date: '2006-11-09T12:14:13+01:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 3259
+
 title: 'Akobookplus beta for Joomla! 1.5'
 date: '2008-03-10T21:18:07+01:00'
 author: 'Cédric Walter'

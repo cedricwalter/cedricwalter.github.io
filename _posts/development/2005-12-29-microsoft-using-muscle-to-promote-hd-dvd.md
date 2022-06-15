@@ -1,5 +1,5 @@
 ---
-id: 2244
+
 title: 'Microsoft using muscle to promote HD DVD'
 date: '2005-12-29T12:40:06+01:00'
 author: 'Cédric Walter'

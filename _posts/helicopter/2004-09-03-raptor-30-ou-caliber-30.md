@@ -1,5 +1,5 @@
 ---
-id: 984
+
 title: 'Raptor 30 ou caliber 30 ?'
 date: '2004-09-03T12:02:55+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 5423
+
 title: 'How to extract content from protected PDF'
 date: '2010-07-04T15:19:18+02:00'
 author: 'Cédric Walter'

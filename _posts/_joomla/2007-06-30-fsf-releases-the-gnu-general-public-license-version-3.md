@@ -1,5 +1,5 @@
 ---
-id: 2998
+
 title: 'FSF releases the GNU General Public License, version 3'
 date: '2007-06-30T17:03:55+02:00'
 author: 'Cédric Walter'

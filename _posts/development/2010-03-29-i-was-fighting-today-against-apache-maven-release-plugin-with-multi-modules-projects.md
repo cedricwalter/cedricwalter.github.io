@@ -1,5 +1,5 @@
 ---
-id: 5125
+
 title: 'I was fighting today against Apache Maven release plugin with multi modules projects'
 date: '2010-03-29T19:55:13+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 1336
+
 title: 'Windows v Linux security: the real facts'
 date: '2004-10-24T10:43:59+02:00'
 author: 'Cédric Walter'

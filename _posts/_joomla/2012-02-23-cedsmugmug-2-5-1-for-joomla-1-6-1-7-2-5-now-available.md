@@ -1,5 +1,5 @@
 ---
-id: 7516
+
 title: 'CedSmugmug 2.5.1 for Joomla 1.6/1.7/2.5 now available'
 date: '2012-02-23T21:01:17+01:00'
 author: 'Cédric Walter'

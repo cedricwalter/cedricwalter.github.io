@@ -1,5 +1,5 @@
 ---
-id: 11678
+
 title: 'Vevey in the canton of Vaud, Switzerland'
 date: '2020-03-31T11:47:16+02:00'
 author: 'Cédric Walter'

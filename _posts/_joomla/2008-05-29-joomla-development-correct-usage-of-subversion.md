@@ -1,5 +1,5 @@
 ---
-id: 3467
+
 title: 'Joomla development, correct usage of subversion'
 date: '2008-05-29T19:26:46+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 4471
+
 title: 'Some useful Unix/Linux Bash alias'
 date: '2009-06-22T21:03:36+02:00'
 author: 'Cédric Walter'

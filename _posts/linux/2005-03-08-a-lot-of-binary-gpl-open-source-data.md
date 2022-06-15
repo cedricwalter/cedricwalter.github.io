@@ -1,5 +1,5 @@
 ---
-id: 1615
+
 title: 'A lot of binary GPL/open source data'
 date: '2005-03-08T22:31:51+01:00'
 author: 'Cédric Walter'

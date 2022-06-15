@@ -1,5 +1,5 @@
 ---
-id: 8634
+
 title: 'My Lego Pencil Holder'
 date: '2017-06-20T13:14:40+02:00'
 author: 'Cédric Walter'

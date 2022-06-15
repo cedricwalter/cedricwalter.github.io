@@ -1,5 +1,5 @@
 ---
-id: 1566
+
 title: 'Reiserfs v4 is out since 31.12.2004'
 date: '2005-02-06T23:22:11+01:00'
 author: 'Cédric Walter'

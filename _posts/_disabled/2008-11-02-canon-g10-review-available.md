@@ -1,5 +1,5 @@
 ---
-id: 3894
+
 title: 'Canon G10 review available'
 date: '2008-11-02T22:20:10+01:00'
 author: 'Cédric Walter'

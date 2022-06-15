@@ -1,5 +1,5 @@
 ---
-id: 4539
+
 title: 'Smugmug badge approved at JED'
 date: '2009-07-25T21:28:20+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 8605
+
 title: 'Java Networking and Proxies with HTTPS'
 date: '2017-02-17T10:20:37+01:00'
 author: 'Cédric Walter'

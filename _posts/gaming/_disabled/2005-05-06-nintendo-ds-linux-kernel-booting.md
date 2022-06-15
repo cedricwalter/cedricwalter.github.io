@@ -1,5 +1,5 @@
 ---
-id: 1711
+
 title: 'Nintendo DS Linux Kernel Booting'
 date: '2005-05-06T23:03:41+02:00'
 author: 'Cédric Walter'

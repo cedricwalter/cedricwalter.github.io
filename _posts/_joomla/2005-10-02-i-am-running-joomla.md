@@ -1,5 +1,5 @@
 ---
-id: 2039
+
 title: 'I am running Joomla!'
 date: '2005-10-02T13:59:28+02:00'
 author: 'Cédric Walter'

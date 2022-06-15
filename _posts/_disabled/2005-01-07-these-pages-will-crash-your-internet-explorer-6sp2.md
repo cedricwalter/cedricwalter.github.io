@@ -1,5 +1,5 @@
 ---
-id: 1455
+
 title: 'These pages will crash your Internet Explorer 6SP2.'
 date: '2005-01-07T09:26:36+01:00'
 author: 'Cédric Walter'

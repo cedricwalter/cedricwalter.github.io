@@ -1,5 +1,5 @@
 ---
-id: 3360
+
 title: 'Continuous build of Apache projects'
 date: '2008-04-06T17:37:16+02:00'
 author: 'Cédric Walter'

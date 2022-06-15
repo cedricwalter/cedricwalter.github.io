@@ -1,5 +1,5 @@
 ---
-id: 638
+
 title: 'My Equipment&#8230;'
 date: '2004-08-31T23:45:39+02:00'
 author: 'Cédric Walter'

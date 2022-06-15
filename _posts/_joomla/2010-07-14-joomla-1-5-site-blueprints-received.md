@@ -1,5 +1,5 @@
 ---
-id: 5556
+
 title: 'Joomla! 1.5 Site Blueprints received'
 date: '2010-07-14T19:56:33+02:00'
 author: 'Cédric Walter'

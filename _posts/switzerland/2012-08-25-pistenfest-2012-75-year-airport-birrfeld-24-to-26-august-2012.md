@@ -1,5 +1,5 @@
 ---
-id: 7774
+
 title: 'Pistenfest 2012 – 75 Year Airport Birrfeld 24 to 26. August 2012'
 date: '2012-08-25T21:38:34+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 4846
+
 title: 'Maven Tips and Tricks: Optimizing with the Maven Dependency Plugin'
 date: '2009-10-28T17:44:30+01:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 4886
+
 title: 'I offer 8 Invite to Google Wave'
 date: '2009-12-02T13:25:44+01:00'
 author: 'Cédric Walter'

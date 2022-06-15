@@ -1,5 +1,5 @@
 ---
-id: 4867
+
 title: 'Content plugin for Joomla! 1.5 to embed Freemind Mind Map in your articles'
 date: '2009-11-11T19:14:27+01:00'
 author: 'Cédric Walter'

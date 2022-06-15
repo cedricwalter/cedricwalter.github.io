@@ -1,5 +1,5 @@
 ---
-id: 6369
+
 title: 'Need for Speed? mod_pagespeed from Google'
 date: '2010-11-04T22:05:31+01:00'
 author: 'Cédric Walter'

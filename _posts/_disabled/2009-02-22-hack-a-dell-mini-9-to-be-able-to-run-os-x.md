@@ -1,5 +1,5 @@
 ---
-id: 4182
+
 title: 'Hack a Dell Mini 9 to be able to run OS X'
 date: '2009-02-22T16:41:07+01:00'
 author: 'Cédric Walter'

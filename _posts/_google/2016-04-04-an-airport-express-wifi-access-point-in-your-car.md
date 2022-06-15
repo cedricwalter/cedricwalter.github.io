@@ -1,5 +1,5 @@
 ---
-id: 8348
+
 title: 'An airport express wifi access point in your car'
 date: '2016-04-04T16:06:47+02:00'
 author: 'Cédric Walter'

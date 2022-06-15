@@ -1,5 +1,5 @@
 ---
-id: 2281
+
 title: 'New to Joomla? what are the common 3rd party components, modules, mambots you may need'
 date: '2006-01-09T20:53:25+01:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 4703
+
 title: 'Are cell phones safe?'
 date: '2009-09-27T21:57:59+02:00'
 author: 'Cédric Walter'

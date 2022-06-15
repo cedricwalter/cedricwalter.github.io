@@ -1,5 +1,5 @@
 ---
-id: 7815
+
 title: 'Neo Geo X Gold Limited Edition pre order available'
 date: '2012-10-23T20:05:17+02:00'
 author: 'Cédric Walter'

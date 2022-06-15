@@ -1,5 +1,5 @@
 ---
-id: 5370
+
 title: 'Most Read articles with Thumbnails for Joomla! 1.5'
 date: '2010-06-18T19:16:03+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 1800
+
 title: 'Geshi update for Mambo 4.5.2'
 date: '2005-06-20T23:27:12+02:00'
 author: 'Cédric Walter'

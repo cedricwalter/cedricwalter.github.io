@@ -1,5 +1,5 @@
 ---
-id: 617
+
 title: 'Mon Dual Celeron 450 Mhz en 1999'
 date: '2004-08-31T23:36:16+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 3340
+
 title: 'SAD day for users Freedom'
 date: '2008-04-03T00:41:12+02:00'
 author: 'Cédric Walter'

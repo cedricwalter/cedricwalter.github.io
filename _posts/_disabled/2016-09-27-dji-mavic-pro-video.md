@@ -1,5 +1,5 @@
 ---
-id: 8587
+
 title: 'DJI Mavic Pro video'
 date: '2016-09-27T20:56:04+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 3035
+
 title: 'Speed up your web pages with YSlow'
 date: '2007-07-27T21:38:02+02:00'
 author: 'Cédric Walter'

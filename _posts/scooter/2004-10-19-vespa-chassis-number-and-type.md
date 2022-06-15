@@ -1,5 +1,5 @@
 ---
-id: 1332
+
 title: 'Vespa Chassis Number and Type'
 date: '2004-10-19T17:39:41+02:00'
 author: 'Cédric Walter'

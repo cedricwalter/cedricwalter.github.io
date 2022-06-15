@@ -1,5 +1,5 @@
 ---
-id: 549
+
 title: 'Tips and tricks'
 date: '2004-08-31T22:51:17+02:00'
 author: 'Cédric Walter'

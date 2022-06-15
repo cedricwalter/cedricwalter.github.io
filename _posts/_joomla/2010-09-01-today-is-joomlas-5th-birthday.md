@@ -1,5 +1,5 @@
 ---
-id: 5933
+
 title: 'Today is Joomla!&#8217;s 5th birthday'
 date: '2010-09-01T20:56:27+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 2340
+
 title: 'Understanding Microsoft'
 date: '2006-03-02T21:20:43+01:00'
 author: 'Cédric Walter'

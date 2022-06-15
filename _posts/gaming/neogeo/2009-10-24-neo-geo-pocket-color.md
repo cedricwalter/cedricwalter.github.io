@@ -1,5 +1,5 @@
 ---
-id: 4832
+
 title: 'Neo Geo Pocket Color'
 date: '2009-10-24T23:55:25+02:00'
 author: 'Cédric Walter'

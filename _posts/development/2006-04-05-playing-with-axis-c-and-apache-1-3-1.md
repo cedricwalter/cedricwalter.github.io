@@ -1,5 +1,5 @@
 ---
-id: 2429
+
 title: 'Playing with Axis C++ and Apache 1.3.1'
 date: '2006-04-05T21:56:24+02:00'
 author: 'Cédric Walter'

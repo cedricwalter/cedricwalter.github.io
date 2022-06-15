@@ -1,5 +1,5 @@
 ---
-id: 3349
+
 title: 'Windows XP still everywhere'
 date: '2008-04-04T12:30:07+02:00'
 author: 'Cédric Walter'

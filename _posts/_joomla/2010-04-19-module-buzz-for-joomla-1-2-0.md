@@ -1,5 +1,5 @@
 ---
-id: 5159
+
 title: 'Module Buzz for Joomla! 1.2.0'
 date: '2010-04-19T19:16:27+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 4167
+
 title: 'The Great Office War'
 date: '2009-02-15T22:41:47+01:00'
 author: 'Cédric Walter'

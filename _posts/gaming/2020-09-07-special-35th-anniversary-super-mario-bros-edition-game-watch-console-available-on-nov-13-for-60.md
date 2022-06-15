@@ -1,5 +1,5 @@
 ---
-id: 13653
+
 title: 'Special 35th Anniversary Super Mario Bros edition Game &#038; Watch console available on Nov. 13 for 60$'
 date: '2020-09-07T18:51:30+02:00'
 author: 'Cédric Walter'

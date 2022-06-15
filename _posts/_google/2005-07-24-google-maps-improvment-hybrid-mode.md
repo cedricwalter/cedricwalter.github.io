@@ -1,5 +1,5 @@
 ---
-id: 1942
+
 title: 'Google maps improvment! hybrid mode'
 date: '2005-07-24T00:28:13+02:00'
 author: 'Cédric Walter'

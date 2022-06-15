@@ -1,5 +1,5 @@
 ---
-id: 3898
+
 title: 'PS3 hacking: PS3 eye driver for windows'
 date: '2008-11-08T21:23:05+01:00'
 author: 'Cédric Walter'

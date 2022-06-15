@@ -1,5 +1,5 @@
 ---
-id: 122
+
 title: 'Belt is going up and hit the fan'
 date: '2004-08-26T21:58:55+02:00'
 author: 'Cédric Walter'

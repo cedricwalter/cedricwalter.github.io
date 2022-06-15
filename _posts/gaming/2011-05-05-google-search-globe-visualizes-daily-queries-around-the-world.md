@@ -1,5 +1,5 @@
 ---
-id: 6673
+
 title: 'Google Search Globe Visualizes Daily Queries Around The World'
 date: '2011-05-05T19:38:56+02:00'
 author: 'Cédric Walter'

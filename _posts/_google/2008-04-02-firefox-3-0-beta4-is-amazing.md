@@ -1,5 +1,5 @@
 ---
-id: 3317
+
 title: 'Firefox 3.0 Beta4 is amazing'
 date: '2008-04-02T22:11:58+02:00'
 author: 'Cédric Walter'

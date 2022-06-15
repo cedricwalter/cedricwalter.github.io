@@ -1,5 +1,5 @@
 ---
-id: 210
+
 title: '1er accident'
 date: '2004-08-26T22:54:26+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 3229
+
 title: 'Hacks of the week'
 date: '2008-03-05T20:02:09+01:00'
 author: 'Cédric Walter'

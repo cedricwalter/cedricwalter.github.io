@@ -1,5 +1,5 @@
 ---
-id: 4317
+
 title: 'Introduction to m2eclipse'
 date: '2009-05-06T13:21:35+02:00'
 author: 'Cédric Walter'

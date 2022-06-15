@@ -1,5 +1,5 @@
 ---
-id: 4389
+
 title: 'Tags.waltercedric.com now open source'
 date: '2009-06-12T21:09:46+02:00'
 author: 'Cédric Walter'

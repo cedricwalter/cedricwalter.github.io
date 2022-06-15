@@ -1,5 +1,5 @@
 ---
-id: 12293
+
 title: 'Australia Split Point Lighthouse'
 date: '2020-03-31T16:47:33+02:00'
 author: 'Cédric Walter'

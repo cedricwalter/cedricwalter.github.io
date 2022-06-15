@@ -1,5 +1,5 @@
 ---
-id: 8602
+
 title: 'OpenHAB on rapsberry PI 3 using Z-Wave and Fibaro Sensor'
 date: '2017-02-10T09:11:52+01:00'
 author: 'Cédric Walter'

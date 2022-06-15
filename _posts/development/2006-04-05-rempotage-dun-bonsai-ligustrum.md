@@ -1,5 +1,5 @@
 ---
-id: 2425
+
 title: 'Rempotage d&#8217;un Bonsaï Ligustrum'
 date: '2006-04-05T20:57:43+02:00'
 author: 'Cédric Walter'

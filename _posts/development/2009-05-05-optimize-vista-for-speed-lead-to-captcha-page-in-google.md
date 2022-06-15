@@ -1,5 +1,5 @@
 ---
-id: 4314
+
 title: '&ldquo;Optimize vista for speed&rdquo; lead to captcha page in Google'
 date: '2009-05-05T13:24:10+02:00'
 author: 'Cédric Walter'

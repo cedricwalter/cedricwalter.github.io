@@ -1,5 +1,5 @@
 ---
-id: 4614
+
 title: 'Linux Kernel development figures'
 date: '2009-09-10T21:29:59+02:00'
 author: 'Cédric Walter'

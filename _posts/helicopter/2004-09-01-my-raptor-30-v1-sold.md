@@ -1,5 +1,5 @@
 ---
-id: 737
+
 title: 'My Raptor 30 v1 (sold)'
 date: '2004-09-01T22:29:23+02:00'
 author: 'Cédric Walter'

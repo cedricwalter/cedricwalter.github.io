@@ -1,5 +1,5 @@
 ---
-id: 3565
+
 title: 'Stuck In The Wrong Job. Monster.com'
 date: '2008-07-20T21:57:23+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 4194
+
 title: 'Tux Droid Plugin for Atlassian Bamboo continuous integration server'
 date: '2009-03-19T18:27:17+01:00'
 author: 'Cédric Walter'

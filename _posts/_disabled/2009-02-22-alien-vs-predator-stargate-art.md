@@ -1,5 +1,5 @@
 ---
-id: 4176
+
 title: 'Alien vs Predator, Stargate art'
 date: '2009-02-22T13:15:24+01:00'
 author: 'Cédric Walter'

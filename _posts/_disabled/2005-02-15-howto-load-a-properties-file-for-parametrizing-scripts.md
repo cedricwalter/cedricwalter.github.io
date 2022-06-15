@@ -1,5 +1,5 @@
 ---
-id: 1575
+
 title: 'HowTo load a properties file for parametrizing scripts'
 date: '2005-02-15T20:10:03+01:00'
 author: 'Cédric Walter'

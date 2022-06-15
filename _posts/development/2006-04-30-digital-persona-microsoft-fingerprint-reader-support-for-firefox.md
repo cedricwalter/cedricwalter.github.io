@@ -1,5 +1,5 @@
 ---
-id: 2493
+
 title: 'Digital Persona, Microsoft fingerprint reader support for Firefox'
 date: '2006-04-30T10:26:40+02:00'
 author: 'Cédric Walter'

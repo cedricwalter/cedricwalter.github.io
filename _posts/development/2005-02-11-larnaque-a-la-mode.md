@@ -1,5 +1,5 @@
 ---
-id: 1568
+
 title: 'L&#8217;arnaque à la mode&#8230;'
 date: '2005-02-11T07:59:05+01:00'
 author: 'Cédric Walter'

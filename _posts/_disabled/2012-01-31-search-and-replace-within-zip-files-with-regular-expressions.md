@@ -1,5 +1,5 @@
 ---
-id: 7466
+
 title: 'Search And Replace Within Zip Files with Regular Expressions'
 date: '2012-01-31T20:53:47+01:00'
 author: 'Cédric Walter'

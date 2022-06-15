@@ -1,5 +1,5 @@
 ---
-id: 3732
+
 title: 'Version manager online for all my Joomla! extensions'
 date: '2008-09-01T17:53:49+02:00'
 author: 'Cédric Walter'

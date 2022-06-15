@@ -1,5 +1,5 @@
 ---
-id: 2986
+
 title: 'How to stream media to your ps3'
 date: '2007-05-27T12:02:04+02:00'
 author: 'Cédric Walter'

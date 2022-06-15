@@ -1,5 +1,5 @@
 ---
-id: 2201
+
 title: 'Use JUNIT for'
 date: '2005-12-10T23:14:55+01:00'
 author: 'Cédric Walter'

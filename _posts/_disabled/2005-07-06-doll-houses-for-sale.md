@@ -1,5 +1,5 @@
 ---
-id: 1836
+
 title: 'Doll Houses for sale'
 date: '2005-07-06T19:13:20+02:00'
 author: 'Cédric Walter'

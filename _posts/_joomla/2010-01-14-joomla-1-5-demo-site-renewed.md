@@ -1,5 +1,5 @@
 ---
-id: 4952
+
 title: 'Joomla! 1.5 Demo site renewed'
 date: '2010-01-14T18:08:59+01:00'
 author: 'Cédric Walter'

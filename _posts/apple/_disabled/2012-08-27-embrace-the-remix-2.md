@@ -1,5 +1,5 @@
 ---
-id: 7814
+
 title: 'Embrace the Remix'
 date: '2012-08-27T20:36:20+02:00'
 author: 'Cédric Walter'

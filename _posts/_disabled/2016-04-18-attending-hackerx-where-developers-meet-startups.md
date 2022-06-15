@@ -1,5 +1,5 @@
 ---
-id: 8360
+
 title: 'Attending HackerX, where developers meet startups'
 date: '2016-04-18T11:20:15+02:00'
 author: 'Cédric Walter'

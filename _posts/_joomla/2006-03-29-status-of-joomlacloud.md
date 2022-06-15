@@ -1,5 +1,5 @@
 ---
-id: 2399
+
 title: 'Status of JoomlaCloud'
 date: '2006-03-29T23:46:21+02:00'
 author: 'Cédric Walter'

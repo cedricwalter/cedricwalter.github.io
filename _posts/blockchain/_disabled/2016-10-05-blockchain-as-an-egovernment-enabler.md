@@ -1,5 +1,5 @@
 ---
-id: 8590
+
 title: 'Blockchain as an eGovernment enabler'
 date: '2016-10-05T20:47:08+02:00'
 author: 'Cédric Walter'

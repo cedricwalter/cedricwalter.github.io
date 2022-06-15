@@ -1,5 +1,5 @@
 ---
-id: 1603
+
 title: 'AkoComment 2.5 unofficial release in Download section'
 date: '2005-03-06T11:38:54+01:00'
 author: 'Cédric Walter'

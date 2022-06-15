@@ -1,5 +1,5 @@
 ---
-id: 4960
+
 title: 'Bought a Futaba 14MZ 2.4GHz !'
 date: '2010-01-24T21:46:12+01:00'
 author: 'Cédric Walter'

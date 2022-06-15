@@ -1,5 +1,5 @@
 ---
-id: 1398
+
 title: 'Eye-candy for your Linux desktop'
 date: '2004-12-02T21:52:45+01:00'
 author: 'Cédric Walter'

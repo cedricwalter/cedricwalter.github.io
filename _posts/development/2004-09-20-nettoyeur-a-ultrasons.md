@@ -1,5 +1,5 @@
 ---
-id: 1230
+
 title: 'Nettoyeur a Ultrasons'
 date: '2004-09-20T12:54:21+02:00'
 author: 'Cédric Walter'

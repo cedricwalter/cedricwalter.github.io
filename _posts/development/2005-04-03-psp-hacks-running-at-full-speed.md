@@ -1,5 +1,5 @@
 ---
-id: 1662
+
 title: 'PSP hacks running at full speed!'
 date: '2005-04-03T20:44:18+02:00'
 author: 'Cédric Walter'

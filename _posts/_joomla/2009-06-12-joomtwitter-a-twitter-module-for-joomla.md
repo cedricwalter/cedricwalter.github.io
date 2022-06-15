@@ -1,5 +1,5 @@
 ---
-id: 4398
+
 title: 'Joomtwitter a twitter module for Joomla!'
 date: '2009-06-12T23:32:40+02:00'
 author: 'Cédric Walter'

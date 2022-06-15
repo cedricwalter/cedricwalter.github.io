@@ -1,5 +1,5 @@
 ---
-id: 2824
+
 title: '101 Common Sense Management Tips'
 date: '2007-01-05T22:16:24+01:00'
 author: 'Cédric Walter'

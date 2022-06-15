@@ -1,5 +1,5 @@
 ---
-id: 1464
+
 title: 'Google File system explained'
 date: '2005-01-09T11:54:22+01:00'
 author: 'Cédric Walter'

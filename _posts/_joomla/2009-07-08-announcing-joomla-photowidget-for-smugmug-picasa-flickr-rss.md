@@ -1,5 +1,5 @@
 ---
-id: 4526
+
 title: 'Announcing Joomla! photowidget for Smugmug, Picasa, Flickr RSS'
 date: '2009-07-08T23:45:21+02:00'
 author: 'Cédric Walter'

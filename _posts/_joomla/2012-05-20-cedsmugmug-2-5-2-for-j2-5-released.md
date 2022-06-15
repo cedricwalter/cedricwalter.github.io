@@ -1,5 +1,5 @@
 ---
-id: 7677
+
 title: 'cedSmugmug 2.5.2 for J2.5 Released'
 date: '2012-05-20T18:20:28+02:00'
 author: 'Cédric Walter'

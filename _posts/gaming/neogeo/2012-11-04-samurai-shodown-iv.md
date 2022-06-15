@@ -1,5 +1,5 @@
 ---
-id: 7855
+
 title: 'Samurai Shodown IV'
 date: '2012-11-04T18:28:11+01:00'
 author: 'Cédric Walter'

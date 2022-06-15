@@ -1,5 +1,5 @@
 ---
-id: 7598
+
 title: 'Apache Maven copy local file to a remote server server using SSH'
 date: '2012-04-12T20:20:26+02:00'
 author: 'Cédric Walter'

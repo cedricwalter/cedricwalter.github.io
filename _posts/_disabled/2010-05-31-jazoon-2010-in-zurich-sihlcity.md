@@ -1,5 +1,5 @@
 ---
-id: 5216
+
 title: 'Jazoon 2010 in Zurich Sihlcity'
 date: '2010-05-31T20:21:58+02:00'
 author: 'Cédric Walter'

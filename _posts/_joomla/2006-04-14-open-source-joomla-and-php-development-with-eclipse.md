@@ -1,5 +1,5 @@
 ---
-id: 2462
+
 title: 'Open Source Joomla and PHP development with Eclipse'
 date: '2006-04-14T21:34:14+02:00'
 author: 'Cédric Walter'

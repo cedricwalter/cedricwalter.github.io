@@ -1,5 +1,5 @@
 ---
-id: 2827
+
 title: 'Table UTF-8 Unicode Character Set &#8211; for HTML UTF-8 enabled pages.'
 date: '2007-01-06T14:03:19+01:00'
 author: 'Cédric Walter'

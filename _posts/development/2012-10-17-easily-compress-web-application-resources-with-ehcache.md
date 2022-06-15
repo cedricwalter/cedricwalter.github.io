@@ -1,5 +1,5 @@
 ---
-id: 7810
+
 title: 'Easily Compress Web Application Resources with EhCache'
 date: '2012-10-17T20:58:07+02:00'
 author: 'Cédric Walter'

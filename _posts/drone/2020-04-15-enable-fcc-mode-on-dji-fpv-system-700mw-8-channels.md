@@ -1,5 +1,5 @@
 ---
-id: 13216
+
 title: 'Enable FCC Mode on DJI FPV System (700mw 8 Channels)'
 date: '2020-04-15T10:52:40+02:00'
 author: 'Cédric Walter'

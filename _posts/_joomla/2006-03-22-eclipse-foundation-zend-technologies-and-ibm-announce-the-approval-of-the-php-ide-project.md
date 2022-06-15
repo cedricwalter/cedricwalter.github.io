@@ -1,5 +1,5 @@
 ---
-id: 2382
+
 title: 'Eclipse Foundation, Zend Technologies, and IBM Announce the Approval of the PHP IDE Project'
 date: '2006-03-22T20:51:46+01:00'
 author: 'Cédric Walter'

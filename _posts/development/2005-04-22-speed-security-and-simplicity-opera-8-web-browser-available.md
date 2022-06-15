@@ -1,5 +1,5 @@
 ---
-id: 1700
+
 title: 'Speed, Security and Simplicity: Opera 8 Web Browser available'
 date: '2005-04-22T23:22:52+02:00'
 author: 'Cédric Walter'

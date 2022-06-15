@@ -1,5 +1,5 @@
 ---
-id: 3974
+
 title: 'Playstation Home Beta Opens To the Public'
 date: '2008-12-15T17:10:27+01:00'
 author: 'Cédric Walter'

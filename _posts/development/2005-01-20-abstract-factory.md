@@ -1,5 +1,5 @@
 ---
-id: 1501
+
 title: 'Abstract factory'
 date: '2005-01-20T21:31:29+01:00'
 author: 'Cédric Walter'

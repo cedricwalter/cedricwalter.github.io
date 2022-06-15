@@ -1,5 +1,5 @@
 ---
-id: 2854
+
 title: 'Speeding Up Joomla! a little bit'
 date: '2007-01-28T18:09:57+01:00'
 author: 'Cédric Walter'

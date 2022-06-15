@@ -1,5 +1,5 @@
 ---
-id: 7872
+
 title: 'Ninja Masters'
 date: '2012-11-04T18:33:09+01:00'
 author: 'Cédric Walter'

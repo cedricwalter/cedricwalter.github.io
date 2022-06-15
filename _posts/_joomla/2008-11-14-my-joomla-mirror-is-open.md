@@ -1,5 +1,5 @@
 ---
-id: 3925
+
 title: 'My Joomla! Mirror is open!'
 date: '2008-11-14T22:52:39+01:00'
 author: 'Cédric Walter'

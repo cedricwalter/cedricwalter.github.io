@@ -1,5 +1,5 @@
 ---
-id: 3092
+
 title: 'AVCHD survival 
 date: '2007-10-20T23:54:52+02:00'
 author: 'Cédric Walter'

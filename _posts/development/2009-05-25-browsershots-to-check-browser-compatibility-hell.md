@@ -1,5 +1,5 @@
 ---
-id: 4337
+
 title: 'Browsershots to check browser compatibility hell'
 date: '2009-05-25T16:46:27+02:00'
 author: 'Cédric Walter'

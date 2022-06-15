@@ -1,5 +1,5 @@
 ---
-id: 8746
+
 title: 'ICO STATISTICS FOR 2018 AND OUTLOOK FOR 2019'
 date: '2019-03-13T18:28:31+01:00'
 author: 'Cédric Walter'

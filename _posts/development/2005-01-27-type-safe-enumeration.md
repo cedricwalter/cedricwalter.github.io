@@ -1,5 +1,5 @@
 ---
-id: 1533
+
 title: 'Type Safe Enumeration'
 date: '2005-01-27T20:06:17+01:00'
 author: 'Cédric Walter'

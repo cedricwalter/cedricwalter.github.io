@@ -1,5 +1,5 @@
 ---
-id: 8398
+
 title: 'Hewlett Packard Calculator Emulators for Windows'
 date: '2016-05-30T21:01:41+02:00'
 author: 'Cédric Walter'

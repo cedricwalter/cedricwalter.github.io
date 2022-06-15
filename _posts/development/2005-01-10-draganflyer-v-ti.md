@@ -1,5 +1,5 @@
 ---
-id: 1471
+
 title: 'Draganflyer V Ti'
 date: '2005-01-10T13:25:18+01:00'
 author: 'Cédric Walter'

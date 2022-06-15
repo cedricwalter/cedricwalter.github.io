@@ -1,5 +1,5 @@
 ---
-id: 3685
+
 title: 'Maven multi module support in M2Eclipse'
 date: '2008-08-15T18:39:08+02:00'
 author: 'Cédric Walter'

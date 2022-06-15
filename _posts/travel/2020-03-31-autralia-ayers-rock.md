@@ -1,5 +1,5 @@
 ---
-id: 11938
+
 title: 'Autralia Ayers Rock'
 date: '2020-03-31T15:07:31+02:00'
 author: 'Cédric Walter'

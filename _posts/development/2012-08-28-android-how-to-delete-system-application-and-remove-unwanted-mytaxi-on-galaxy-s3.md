@@ -1,5 +1,5 @@
 ---
-id: 7779
+
 title: 'Android how to delete system application and remove unwanted MyTaxi on Galaxy S3'
 date: '2012-08-28T20:32:56+02:00'
 author: 'Cédric Walter'

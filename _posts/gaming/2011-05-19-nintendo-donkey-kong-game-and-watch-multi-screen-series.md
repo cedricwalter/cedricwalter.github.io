@@ -1,5 +1,5 @@
 ---
-id: 6701
+
 title: 'Nintendo Donkey Kong Game and Watch Multi Screen series'
 date: '2011-05-19T20:24:02+02:00'
 author: 'Cédric Walter'

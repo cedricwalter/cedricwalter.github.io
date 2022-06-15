@@ -1,5 +1,5 @@
 ---
-id: 1344
+
 title: 'Microsoft and Linux'
 date: '2004-11-08T20:58:47+01:00'
 author: 'Cédric Walter'

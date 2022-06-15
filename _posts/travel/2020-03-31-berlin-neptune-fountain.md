@@ -1,5 +1,5 @@
 ---
-id: 11788
+
 title: 'Berlin Neptune Fountain'
 date: '2020-03-31T12:32:51+02:00'
 author: 'Cédric Walter'

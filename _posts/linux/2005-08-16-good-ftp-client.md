@@ -1,5 +1,5 @@
 ---
-id: 1997
+
 title: 'Good FTP client'
 date: '2005-08-16T23:49:04+02:00'
 author: 'Cédric Walter'

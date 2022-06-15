@@ -1,5 +1,5 @@
 ---
-id: 2006
+
 title: 'Security images (captcha) may be not enough'
 date: '2005-08-26T19:13:20+02:00'
 author: 'Cédric Walter'

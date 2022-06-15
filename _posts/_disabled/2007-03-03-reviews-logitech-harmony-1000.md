@@ -1,5 +1,5 @@
 ---
-id: 2896
+
 title: 'Reviews Logitech Harmony 1000'
 date: '2007-03-03T19:16:07+01:00'
 author: 'Cédric Walter'

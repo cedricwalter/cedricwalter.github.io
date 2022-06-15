@@ -1,5 +1,5 @@
 ---
-id: 8589
+
 title: 'Blockchain &#038; Bitcoin: an introduction'
 date: '2016-10-05T20:47:08+02:00'
 author: 'Cédric Walter'

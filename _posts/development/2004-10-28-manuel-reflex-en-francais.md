@@ -1,5 +1,5 @@
 ---
-id: 1340
+
 title: 'Manuel REFLEX en francais!'
 date: '2004-10-28T11:29:07+02:00'
 author: 'Cédric Walter'

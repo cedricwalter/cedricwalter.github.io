@@ -1,5 +1,5 @@
 ---
-id: 542
+
 title: 'Hierarchy of classloader'
 date: '2004-08-31T22:44:50+02:00'
 author: 'Cédric Walter'

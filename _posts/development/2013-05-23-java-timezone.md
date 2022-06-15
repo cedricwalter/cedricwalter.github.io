@@ -1,5 +1,5 @@
 ---
-id: 8039
+
 title: 'Java TimeZone'
 date: '2013-05-23T20:58:04+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 7446
+
 title: 'Best nginx configuration for Joomla'
 date: '2012-01-23T20:31:59+01:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 2771
+
 title: 'Joomla component troubleshooting'
 date: '2006-12-01T11:07:17+01:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 1525
+
 title: 'Dynamic polymorphic abstract factory'
 date: '2005-01-27T19:07:08+01:00'
 author: 'Cédric Walter'

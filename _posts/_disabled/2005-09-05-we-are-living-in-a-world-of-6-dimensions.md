@@ -1,5 +1,5 @@
 ---
-id: 2023
+
 title: 'We are living in a world of 6 dimensions'
 date: '2005-09-05T10:01:44+02:00'
 author: 'Cédric Walter'

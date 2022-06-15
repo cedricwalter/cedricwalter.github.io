@@ -1,5 +1,5 @@
 ---
-id: 3059
+
 title: 'Take gigantic panoramic with ease'
 date: '2007-09-28T23:36:54+02:00'
 author: 'Cédric Walter'

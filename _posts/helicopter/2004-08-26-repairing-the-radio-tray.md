@@ -1,5 +1,5 @@
 ---
-id: 65
+
 title: 'Repairing the radio tray'
 date: '2004-08-26T21:35:58+02:00'
 author: 'Cédric Walter'

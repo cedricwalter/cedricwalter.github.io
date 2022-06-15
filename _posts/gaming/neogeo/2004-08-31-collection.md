@@ -1,5 +1,5 @@
 ---
-id: 659
+
 title: 'Snk Neo Geo Collection'
 date: '2004-08-31T23:52:43+02:00'
 author: 'Cédric Walter'

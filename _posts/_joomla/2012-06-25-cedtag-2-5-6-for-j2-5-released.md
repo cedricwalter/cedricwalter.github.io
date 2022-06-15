@@ -1,5 +1,5 @@
 ---
-id: 7717
+
 title: 'cedTag 2.5.6 for J2.5 Released'
 date: '2012-06-25T21:32:58+02:00'
 author: 'Cédric Walter'

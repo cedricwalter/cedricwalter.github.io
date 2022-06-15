@@ -1,5 +1,5 @@
 ---
-id: 6743
+
 title: 'Mysql database backup in Linux Crontab'
 date: '2011-06-04T09:24:39+02:00'
 author: 'Cédric Walter'

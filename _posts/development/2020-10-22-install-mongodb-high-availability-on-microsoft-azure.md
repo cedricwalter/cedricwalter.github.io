@@ -1,5 +1,5 @@
 ---
-id: 13741
+
 title: 'Install MongoDB High Availability on Microsoft Azure'
 date: '2020-10-22T22:28:08+02:00'
 author: 'Cédric Walter'

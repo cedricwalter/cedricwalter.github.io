@@ -1,5 +1,5 @@
 ---
-id: 8134
+
 title: 'VIM Cheat Sheet'
 date: '2013-07-25T20:30:29+02:00'
 author: 'Cédric Walter'

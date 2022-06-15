@@ -1,5 +1,5 @@
 ---
-id: 2957
+
 title: 'PS3 simply rules'
 date: '2007-04-15T12:10:51+02:00'
 author: 'Cédric Walter'

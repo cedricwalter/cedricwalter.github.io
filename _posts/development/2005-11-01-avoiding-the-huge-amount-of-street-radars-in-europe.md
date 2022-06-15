@@ -1,5 +1,5 @@
 ---
-id: 2084
+
 title: 'Avoiding the huge amount of street radars in europe'
 date: '2005-11-01T20:37:19+01:00'
 author: 'Cédric Walter'

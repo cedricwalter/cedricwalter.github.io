@@ -1,5 +1,5 @@
 ---
-id: 513
+
 title: 'Costs of restoration'
 date: '2004-08-31T22:15:08+02:00'
 author: 'Cédric Walter'

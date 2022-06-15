@@ -1,5 +1,5 @@
 ---
-id: 3060
+
 title: 'Endless love'
 date: '2007-09-28T23:45:56+02:00'
 author: 'Cédric Walter'

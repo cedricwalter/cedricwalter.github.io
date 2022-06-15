@@ -1,5 +1,5 @@
 ---
-id: 3114
+
 title: 'Make your own light objects using &#8230;bulblamps'
 date: '2007-11-11T20:38:28+01:00'
 author: 'Cédric Walter'

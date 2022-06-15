@@ -1,5 +1,5 @@
 ---
-id: 2803
+
 title: '30 Jahre Zürcher Silvesterlauf'
 date: '2006-12-10T21:47:43+01:00'
 author: 'Cédric Walter'

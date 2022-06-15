@@ -1,5 +1,5 @@
 ---
-id: 3873
+
 title: 'Panasonic PT-AE3000 Home Theater Projector'
 date: '2008-10-20T20:50:55+02:00'
 author: 'Cédric Walter'

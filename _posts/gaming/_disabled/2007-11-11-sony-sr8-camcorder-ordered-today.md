@@ -1,5 +1,5 @@
 ---
-id: 3110
+
 title: 'Sony SR8 camcorder ordered today'
 date: '2007-11-11T19:26:17+01:00'
 author: 'Cédric Walter'

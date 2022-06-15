@@ -1,5 +1,5 @@
 ---
-id: 8577
+
 title: 'Business Model Innovation and Myths'
 date: '2016-08-17T09:59:05+02:00'
 author: 'Cédric Walter'

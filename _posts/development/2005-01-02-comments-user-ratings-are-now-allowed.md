@@ -1,5 +1,5 @@
 ---
-id: 1454
+
 title: 'Comments + user ratings are now allowed'
 date: '2005-01-02T20:07:25+01:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 4718
+
 title: 'Hosts file protection'
 date: '2009-09-28T20:50:41+02:00'
 author: 'Cédric Walter'

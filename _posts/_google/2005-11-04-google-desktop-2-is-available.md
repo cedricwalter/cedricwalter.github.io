@@ -1,5 +1,5 @@
 ---
-id: 2087
+
 title: 'Google Desktop 2 is available!'
 date: '2005-11-04T15:44:49+01:00'
 author: 'Cédric Walter'

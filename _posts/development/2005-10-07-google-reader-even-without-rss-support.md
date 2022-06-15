@@ -1,5 +1,5 @@
 ---
-id: 2050
+
 title: 'Google reader&#8230;even without RSS support'
 date: '2005-10-07T23:59:48+02:00'
 author: 'Cédric Walter'

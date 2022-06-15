@@ -1,5 +1,5 @@
 ---
-id: 2342
+
 title: 'com_log4php  v1.1.0 released'
 date: '2006-03-03T11:29:16+01:00'
 author: 'Cédric Walter'

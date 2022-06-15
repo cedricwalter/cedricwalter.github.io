@@ -1,5 +1,5 @@
 ---
-id: 6845
+
 title: 'Backup Your Ubuntu/Debian Server Automatically'
 date: '2011-06-08T20:21:08+02:00'
 author: 'Cédric Walter'

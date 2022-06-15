@@ -1,5 +1,5 @@
 ---
-id: 3506
+
 title: 'Lamp-Free DLP Projector coming late 2008'
 date: '2008-06-25T23:33:03+02:00'
 author: 'Cédric Walter'

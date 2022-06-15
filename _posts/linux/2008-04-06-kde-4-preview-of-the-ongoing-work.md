@@ -1,5 +1,5 @@
 ---
-id: 3358
+
 title: 'KDE 4 preview of the ongoing work'
 date: '2008-04-06T17:21:50+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 1394
+
 title: 'What make Google so special'
 date: '2004-12-01T20:13:44+01:00'
 author: 'Cédric Walter'

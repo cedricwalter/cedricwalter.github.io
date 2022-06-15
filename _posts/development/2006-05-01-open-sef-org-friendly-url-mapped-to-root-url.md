@@ -1,5 +1,5 @@
 ---
-id: 2506
+
 title: 'Open-SEF.org friendly url mapped to root url'
 date: '2006-05-01T17:32:10+02:00'
 author: 'Cédric Walter'

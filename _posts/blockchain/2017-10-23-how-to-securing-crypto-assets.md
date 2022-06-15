@@ -1,5 +1,5 @@
 ---
-id: 8685
+
 title: "How to: Securing\_your Crypto\_\_Assets"
 date: '2017-10-23T09:27:10+02:00'
 author: 'Cédric Walter'

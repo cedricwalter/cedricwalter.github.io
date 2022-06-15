@@ -1,5 +1,5 @@
 ---
-id: 2203
+
 title: 'Design good code'
 date: '2005-12-10T23:18:05+01:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 2743
+
 title: 'Panasonic PT-AX100U Projector Review'
 date: '2006-10-29T13:37:16+01:00'
 author: 'Cédric Walter'

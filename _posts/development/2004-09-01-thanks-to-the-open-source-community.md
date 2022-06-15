@@ -1,5 +1,5 @@
 ---
-id: 690
+
 title: 'Thanks to the open source community!'
 date: '2004-09-01T00:06:22+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 2482
+
 title: 'In Microsoft case, EU judges delve into technology'
 date: '2006-04-27T20:37:11+02:00'
 author: 'Cédric Walter'

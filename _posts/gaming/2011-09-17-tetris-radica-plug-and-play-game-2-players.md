@@ -1,5 +1,5 @@
 ---
-id: 7166
+
 title: 'Tetris Radica Plug and Play Game 2 Players'
 date: '2011-09-17T13:00:34+02:00'
 author: 'Cédric Walter'

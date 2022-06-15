@@ -1,5 +1,5 @@
 ---
-id: 8339
+
 title: 'Java Garbage Collector log analysis'
 date: '2016-04-04T14:22:53+02:00'
 author: 'Cédric Walter'

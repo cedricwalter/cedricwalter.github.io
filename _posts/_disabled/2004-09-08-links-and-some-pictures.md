@@ -1,5 +1,5 @@
 ---
-id: 1178
+
 title: 'Links and some pictures'
 date: '2004-09-08T23:43:30+02:00'
 author: 'Cédric Walter'

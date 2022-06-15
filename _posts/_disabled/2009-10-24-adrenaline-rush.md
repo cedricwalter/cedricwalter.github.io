@@ -1,5 +1,5 @@
 ---
-id: 4831
+
 title: 'Adrenaline Rush'
 date: '2009-10-24T22:25:27+02:00'
 author: 'Cédric Walter'

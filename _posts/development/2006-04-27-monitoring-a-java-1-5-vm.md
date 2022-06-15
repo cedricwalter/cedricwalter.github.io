@@ -1,5 +1,5 @@
 ---
-id: 2480
+
 title: 'Monitoring a java 1.5 VM'
 date: '2006-04-27T20:23:50+02:00'
 author: 'Cédric Walter'

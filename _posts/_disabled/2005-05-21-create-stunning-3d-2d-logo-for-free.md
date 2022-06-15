@@ -1,5 +1,5 @@
 ---
-id: 1753
+
 title: 'Create stunning 3D/2D logo for free'
 date: '2005-05-21T16:46:18+02:00'
 author: 'Cédric Walter'

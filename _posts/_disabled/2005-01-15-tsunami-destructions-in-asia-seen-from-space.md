@@ -1,5 +1,5 @@
 ---
-id: 1480
+
 title: 'Tsunami destructions in Asia seen from space'
 date: '2005-01-15T22:23:22+01:00'
 author: 'Cédric Walter'

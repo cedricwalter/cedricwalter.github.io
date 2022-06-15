@@ -1,5 +1,5 @@
 ---
-id: 1956
+
 title: 'Why Open Source Software / Free Software (OSS/FS, FLOSS, or FOSS)? Look at the Numbers!'
 date: '2005-07-26T17:27:24+02:00'
 author: 'Cédric Walter'

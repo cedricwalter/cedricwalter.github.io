@@ -1,5 +1,5 @@
 ---
-id: 5998
+
 title: 'Usability Wheel'
 date: '2010-09-09T19:54:41+02:00'
 author: 'Cédric Walter'

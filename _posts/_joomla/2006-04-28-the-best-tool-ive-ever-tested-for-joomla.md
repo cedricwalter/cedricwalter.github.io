@@ -1,5 +1,5 @@
 ---
-id: 2486
+
 title: 'The best tool Ive ever tested for Joomla'
 date: '2006-04-28T22:09:53+02:00'
 author: 'Cédric Walter'

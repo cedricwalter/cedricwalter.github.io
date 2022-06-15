@@ -1,5 +1,5 @@
 ---
-id: 2842
+
 title: 'Sony PS3 Modding &#8211; Homebrew, Upgrades, Mods, and Hacks'
 date: '2007-01-17T23:22:14+01:00'
 author: 'Cédric Walter'

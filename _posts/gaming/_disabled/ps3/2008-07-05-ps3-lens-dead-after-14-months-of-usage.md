@@ -1,5 +1,5 @@
 ---
-id: 3514
+
 title: 'PS3 lens dead after 14 months of usage'
 date: '2008-07-05T20:38:44+02:00'
 author: 'Cédric Walter'

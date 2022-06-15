@@ -1,5 +1,5 @@
 ---
-id: 6092
+
 title: 'Nintendo Entertainment System aka NES'
 date: '2010-09-22T18:17:44+02:00'
 author: 'Cédric Walter'

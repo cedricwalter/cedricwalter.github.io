@@ -1,5 +1,5 @@
 ---
-id: 7111
+
 title: 'Related articles with Thumbnails for Joomla! 1.7'
 date: '2011-08-26T17:16:18+02:00'
 author: 'Cédric Walter'

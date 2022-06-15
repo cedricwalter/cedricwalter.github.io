@@ -1,5 +1,5 @@
 ---
-id: 479
+
 title: 'Manurhin SM-75 Manual in french'
 date: '2004-08-31T22:01:09+02:00'
 author: 'Cédric Walter'

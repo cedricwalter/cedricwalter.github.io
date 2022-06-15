@@ -1,5 +1,5 @@
 ---
-id: 7396
+
 title: 'Apple in court is just insane'
 date: '2011-12-09T18:17:38+01:00'
 author: 'Cédric Walter'

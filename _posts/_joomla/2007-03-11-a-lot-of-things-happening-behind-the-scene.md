@@ -1,5 +1,5 @@
 ---
-id: 2905
+
 title: 'A lot of things happening behind the scene&#8230;'
 date: '2007-03-11T18:11:12+01:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 3996
+
 title: 'I Wish you a Merry Christmas&#8230;'
 date: '2008-12-24T23:04:41+01:00'
 author: 'Cédric Walter'

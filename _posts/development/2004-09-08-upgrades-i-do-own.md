@@ -1,5 +1,5 @@
 ---
-id: 1173
+
 title: 'Upgrades I do own'
 date: '2004-09-08T23:35:18+02:00'
 author: 'Cédric Walter'

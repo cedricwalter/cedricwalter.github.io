@@ -1,5 +1,5 @@
 ---
-id: 8535
+
 title: 'The Illusion of Choice in Consumer Brands'
 date: '2016-07-31T08:49:23+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 2672
+
 title: 'A Screen for my home cinema'
 date: '2006-08-03T00:02:24+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 3757
+
 title: 'Joomla! mosSociable new version'
 date: '2008-09-07T02:32:47+02:00'
 author: 'Cédric Walter'

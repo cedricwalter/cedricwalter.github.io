@@ -1,5 +1,5 @@
 ---
-id: 3475
+
 title: 'Beautiful site design and site generator for the others ;-)'
 date: '2008-06-15T19:37:00+02:00'
 author: 'Cédric Walter'

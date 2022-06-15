@@ -1,5 +1,5 @@
 ---
-id: 1619
+
 title: 'KDE 3.4 announced'
 date: '2005-03-16T18:36:43+01:00'
 author: 'Cédric Walter'

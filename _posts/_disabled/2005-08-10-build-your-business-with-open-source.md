@@ -1,5 +1,5 @@
 ---
-id: 1983
+
 title: 'Build your business with open source'
 date: '2005-08-10T23:08:48+02:00'
 author: 'Cédric Walter'

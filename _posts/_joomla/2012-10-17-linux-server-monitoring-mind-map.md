@@ -1,5 +1,5 @@
 ---
-id: 7812
+
 title: 'Linux server Monitoring mind map'
 date: '2012-10-17T22:11:40+02:00'
 author: 'Cédric Walter'

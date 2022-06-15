@@ -1,5 +1,5 @@
 ---
-id: 7537
+
 title: '2012 Ducati Superbike 848 EVO'
 date: '2012-02-27T23:11:31+01:00'
 author: 'Cédric Walter'

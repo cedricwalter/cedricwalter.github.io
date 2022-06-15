@@ -1,5 +1,5 @@
 ---
-id: 4529
+
 title: 'Photowidget 1.0 release'
 date: '2009-07-11T23:32:12+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 3201
+
 title: 'Found that on copainsdavant.linternaute.com'
 date: '2008-02-29T21:18:56+01:00'
 author: 'Cédric Walter'

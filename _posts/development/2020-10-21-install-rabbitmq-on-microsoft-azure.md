@@ -1,5 +1,5 @@
 ---
-id: 13736
+
 title: 'Install RabbitMQ on Microsoft Azure'
 date: '2020-10-21T20:40:47+02:00'
 author: 'Cédric Walter'

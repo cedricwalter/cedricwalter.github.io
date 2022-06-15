@@ -1,5 +1,5 @@
 ---
-id: 2057
+
 title: 'Eclipse? not only for java developer'
 date: '2005-10-18T21:47:19+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 1606
+
 title: 'windows crash, save Your data with knoppix'
 date: '2005-03-06T20:12:45+01:00'
 author: 'Cédric Walter'

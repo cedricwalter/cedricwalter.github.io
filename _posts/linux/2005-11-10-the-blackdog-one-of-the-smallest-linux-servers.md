@@ -1,5 +1,5 @@
 ---
-id: 2099
+
 title: 'The BlackDog, one of the smallest Linux servers'
 date: '2005-11-10T21:06:02+01:00'
 author: 'Cédric Walter'

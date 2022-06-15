@@ -1,5 +1,5 @@
 ---
-id: 2002
+
 title: 'Code committed to cvs.hashcash.mamboforge.net'
 date: '2005-08-18T20:14:59+02:00'
 author: 'Cédric Walter'

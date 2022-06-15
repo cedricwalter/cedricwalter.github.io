@@ -1,5 +1,5 @@
 ---
-id: 13155
+
 title: 'Furka Pass'
 date: '2020-04-14T12:39:48+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 2216
+
 title: 'Future of KDE in 3 main projects'
 date: '2005-12-16T17:39:55+01:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 1772
+
 title: 'Ipod shuffle will have a hard time'
 date: '2005-06-04T12:00:24+02:00'
 author: 'Cédric Walter'

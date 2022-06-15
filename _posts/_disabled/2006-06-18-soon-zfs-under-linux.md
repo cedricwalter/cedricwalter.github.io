@@ -1,5 +1,5 @@
 ---
-id: 2654
+
 title: 'soon ZFS under Linux'
 date: '2006-06-18T20:36:11+02:00'
 author: 'Cédric Walter'

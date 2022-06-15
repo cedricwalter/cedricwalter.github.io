@@ -1,5 +1,5 @@
 ---
-id: 1931
+
 title: 'Bullshit Bingo!'
 date: '2005-07-21T18:22:53+02:00'
 author: 'Cédric Walter'

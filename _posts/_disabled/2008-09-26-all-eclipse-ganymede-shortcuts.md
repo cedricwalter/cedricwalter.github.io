@@ -1,5 +1,5 @@
 --
-id: 3857
+
 title: 'All Eclipse Ganymede Shortcuts'
 date: '2008-09-26T18:43:07+02:00'
 author: 'Cédric Walter'

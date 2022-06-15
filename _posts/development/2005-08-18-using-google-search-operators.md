@@ -1,5 +1,5 @@
 ---
-id: 2001
+
 title: 'Using Google Search Operators'
 date: '2005-08-18T19:26:40+02:00'
 author: 'Cédric Walter'

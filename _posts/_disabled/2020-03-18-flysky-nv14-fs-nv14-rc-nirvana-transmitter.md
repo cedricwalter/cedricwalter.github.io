@@ -1,5 +1,5 @@
 ---
-id: 10588
+
 title: 'Flysky NV14 FS-NV14 RC Nirvana Transmitter'
 date: '2020-03-18T18:13:38+01:00'
 author: 'Cédric Walter'
@@ -64,7 +64,7 @@ This controller feels so nice in the hands and the digital gimbals are very nice
 - Display: STO35T standard LCD module 320\*480 dots 3.5 in LED with capacitive touch
 - Online update: Yes
 - Open without interference from ground (transmitting and receiving 1m from the ground): more than 500m
-- Certification: CE,FCC ID: N4ZNV1400
+- Certification: CE,FCC 
 - Receiver: FS-X8B / FS-iA8X
 
 ![](/assets/images/2020/03/f_1_tOppWS82JU12dXy3GAgMzmPRF.jpg)

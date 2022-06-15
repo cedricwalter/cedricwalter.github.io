@@ -1,5 +1,5 @@
 ---
-id: 5979
+
 title: 'Defunct Scrum &#8211; A collection of everything wrong with Scrum.'
 date: '2010-09-08T19:35:48+02:00'
 author: 'Cédric Walter'

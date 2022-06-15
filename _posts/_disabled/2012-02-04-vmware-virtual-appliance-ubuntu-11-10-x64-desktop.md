@@ -1,5 +1,5 @@
 ---
-id: 7480
+
 title: 'Vmware Virtual Appliance Ubuntu 11.10 x64 Desktop'
 date: '2012-02-04T19:44:27+01:00'
 author: 'Cédric Walter'

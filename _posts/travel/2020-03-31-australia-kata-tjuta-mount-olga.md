@@ -1,5 +1,5 @@
 ---
-id: 12033
+
 title: 'Australia Kata Tjuta / Mount Olga'
 date: '2020-03-31T15:40:40+02:00'
 author: 'Cédric Walter'

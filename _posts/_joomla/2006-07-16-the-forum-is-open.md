@@ -1,5 +1,5 @@
 ---
-id: 2663
+
 title: 'THE Forum is OPEN!'
 date: '2006-07-16T15:38:22+02:00'
 author: 'Cédric Walter'

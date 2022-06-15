@@ -1,5 +1,5 @@
 ---
-id: 8618
+
 title: 'Dropbox CLI on linux'
 date: '2017-05-13T19:38:59+02:00'
 author: 'Cédric Walter'

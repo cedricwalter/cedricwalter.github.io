@@ -1,5 +1,5 @@
 ---
-id: 2836
+
 title: 'Sony HDR-SR1 review'
 date: '2007-01-11T21:49:02+01:00'
 author: 'Cédric Walter'

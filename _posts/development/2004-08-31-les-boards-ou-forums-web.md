@@ -1,5 +1,5 @@
 ---
-id: 558
+
 title: 'Les Boards ou forums Web'
 date: '2004-08-31T23:07:06+02:00'
 author: 'Cédric Walter'

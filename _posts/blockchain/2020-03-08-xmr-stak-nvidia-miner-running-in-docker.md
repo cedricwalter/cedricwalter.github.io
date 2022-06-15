@@ -1,5 +1,5 @@
 ---
-id: 8657
+
 title: 'XMR-Stak-Nvidia miner running in docker'
 date: '2020-03-08T14:24:34+01:00'
 author: 'Cédric Walter'

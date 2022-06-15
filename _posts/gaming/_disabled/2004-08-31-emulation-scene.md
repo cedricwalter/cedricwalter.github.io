@@ -1,5 +1,5 @@
 ---
-id: 674
+
 title: 'Emulation scene'
 date: '2004-08-31T23:55:07+02:00'
 author: 'Cédric Walter'

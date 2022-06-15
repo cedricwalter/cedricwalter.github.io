@@ -1,5 +1,5 @@
 ---
-id: 8105
+
 title: '649 Pokémon in a giant Color Wheel'
 date: '2013-07-16T21:12:07+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 4903
+
 title: 'Module Nimbus 1.1.0 for Joomla! Tags of Phil Taylor'
 date: '2009-12-11T21:44:42+01:00'
 author: 'Cédric Walter'

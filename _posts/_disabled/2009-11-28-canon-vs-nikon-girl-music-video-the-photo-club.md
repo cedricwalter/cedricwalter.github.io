@@ -1,5 +1,5 @@
 ---
-id: 4884
+
 title: 'Canon Vs Nikon, Girl music video, The Photo Club'
 date: '2009-11-28T11:12:59+01:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 8781
+
 title: 'Happy Thanksgiving!'
 date: '2019-11-29T09:13:41+01:00'
 author: 'Cédric Walter'

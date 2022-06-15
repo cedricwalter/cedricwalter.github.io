@@ -1,5 +1,5 @@
 ---
-id: 7508
+
 title: '2012 Suzuki GSR 750 Motorcycle'
 date: '2012-02-20T22:04:06+01:00'
 author: 'Cédric Walter'

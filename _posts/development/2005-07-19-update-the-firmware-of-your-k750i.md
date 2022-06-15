@@ -1,5 +1,5 @@
 ---
-id: 1929
+
 title: 'Update the firmware of your K750i'
 date: '2005-07-19T22:36:18+02:00'
 author: 'Cédric Walter'

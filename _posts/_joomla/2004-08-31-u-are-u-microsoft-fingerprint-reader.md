@@ -1,5 +1,5 @@
 ---
-id: 636
+
 title: 'U.are.U/Microsoft fingerprint reader'
 date: '2004-08-31T23:39:03+02:00'
 author: 'Cédric Walter'

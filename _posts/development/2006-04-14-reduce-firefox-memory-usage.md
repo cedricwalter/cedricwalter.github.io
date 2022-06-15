@@ -1,5 +1,5 @@
 ---
-id: 2452
+
 title: 'Reduce Firefox memory usage'
 date: '2006-04-14T20:56:22+02:00'
 author: 'Cédric Walter'

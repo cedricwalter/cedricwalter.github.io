@@ -1,5 +1,5 @@
 ---
-id: 787
+
 title: 'Roswell Flyer Manual'
 date: '2004-09-01T22:45:40+02:00'
 author: 'Cédric Walter'

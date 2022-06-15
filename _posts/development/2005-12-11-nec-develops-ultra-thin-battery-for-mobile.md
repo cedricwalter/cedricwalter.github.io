@@ -1,5 +1,5 @@
 ---
-id: 2210
+
 title: 'NEC develops ultra-thin battery for mobile'
 date: '2005-12-11T00:57:54+01:00'
 author: 'Cédric Walter'

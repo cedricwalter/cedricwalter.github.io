@@ -1,5 +1,5 @@
 ---
-id: 2631
+
 title: 'Bombardier ATV becomes Can-Am'
 date: '2006-05-28T17:42:14+02:00'
 author: 'Cédric Walter'

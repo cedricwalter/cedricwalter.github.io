@@ -1,5 +1,5 @@
 ---
-id: 2832
+
 title: 'Joomla! figures for 2006'
 date: '2007-01-06T17:42:20+01:00'
 author: 'Cédric Walter'

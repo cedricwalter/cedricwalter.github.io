@@ -1,5 +1,5 @@
 ---
-id: 4503
+
 title: 'Smugmug Badge module for Joomla'
 date: '2009-07-03T20:06:12+02:00'
 author: 'Cédric Walter'

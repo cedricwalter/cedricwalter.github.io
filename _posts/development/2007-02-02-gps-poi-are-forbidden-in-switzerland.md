@@ -1,5 +1,5 @@
 ---
-id: 2863
+
 title: 'GPS + POI are forbidden in Switzerland'
 date: '2007-02-02T21:03:10+01:00'
 author: 'Cédric Walter'

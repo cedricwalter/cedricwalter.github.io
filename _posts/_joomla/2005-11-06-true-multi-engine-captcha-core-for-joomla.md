@@ -1,5 +1,5 @@
 ---
-id: 2096
+
 title: 'True multi engine CAPTCHA core for Joomla'
 date: '2005-11-06T21:24:01+01:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 8695
+
 title: 'Blockchain Crypto Valley Map'
 date: '2018-03-18T10:55:44+01:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 4463
+
 title: 'Publicité contre le tabac 2009'
 date: '2009-06-20T00:35:55+02:00'
 author: 'Cédric Walter'

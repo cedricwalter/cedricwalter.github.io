@@ -1,5 +1,5 @@
 ---
-id: 8556
+
 title: 'Paolo Nutini Iron Sky'
 date: '2016-08-07T20:52:04+02:00'
 author: 'Cédric Walter'

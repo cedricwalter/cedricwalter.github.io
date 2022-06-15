@@ -1,5 +1,5 @@
 ---
-id: 8751
+
 title: 'systematization of knowledge within major blockchain protocols or consensus'
 date: '2019-03-13T18:41:22+01:00'
 author: 'Cédric Walter'

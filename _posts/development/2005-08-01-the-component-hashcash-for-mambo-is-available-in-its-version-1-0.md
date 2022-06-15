@@ -1,5 +1,5 @@
 ---
-id: 1968
+
 title: 'the component hashcash for Mambo is available in it&#8217;s version 1.0 !!!'
 date: '2005-08-01T13:32:13+02:00'
 author: 'Cédric Walter'

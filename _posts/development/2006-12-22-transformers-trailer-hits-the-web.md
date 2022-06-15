@@ -1,5 +1,5 @@
 ---
-id: 2809
+
 title: 'Transformers Trailer Hits the Web'
 date: '2006-12-22T00:09:28+01:00'
 author: 'Cédric Walter'

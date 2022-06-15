@@ -1,5 +1,5 @@
 ---
-id: 8545
+
 title: 'Increase realism in Phoenix RC for DJI Phantom'
 date: '2016-07-31T12:22:35+02:00'
 author: 'Cédric Walter'

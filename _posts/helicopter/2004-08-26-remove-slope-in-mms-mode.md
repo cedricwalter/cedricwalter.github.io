@@ -1,5 +1,5 @@
 ---
-id: 157
+
 title: 'Remove Slope in MMS mode'
 date: '2004-08-26T22:13:20+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 1705
+
 title: 'User/Developer 
 date: '2005-04-26T21:39:59+02:00'
 author: 'Cédric Walter'

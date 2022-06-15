@@ -1,5 +1,5 @@
 ---
-id: 1327
+
 title: 'importing a vespa sidecar from indonesia'
 date: '2004-10-12T19:23:39+02:00'
 author: 'Cédric Walter'

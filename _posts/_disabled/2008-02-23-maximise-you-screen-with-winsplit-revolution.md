@@ -1,5 +1,5 @@
 ---
-id: 3191
+
 title: 'Maximise you screen with winsplit revolution'
 date: '2008-02-23T16:05:45+01:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 1976
+
 title: 'Installing a neo geo emulator under linux'
 date: '2005-08-03T22:49:58+02:00'
 author: 'Cédric Walter'

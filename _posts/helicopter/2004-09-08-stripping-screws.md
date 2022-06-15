@@ -1,5 +1,5 @@
 ---
-id: 1117
+
 title: 'Stripping screws'
 date: '2004-09-08T22:08:17+02:00'
 author: 'Cédric Walter'

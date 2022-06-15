@@ -1,5 +1,5 @@
 ---
-id: 2655
+
 title: 'site down more than 2 days: under attack'
 date: '2006-06-23T23:21:10+02:00'
 author: 'Cédric Walter'

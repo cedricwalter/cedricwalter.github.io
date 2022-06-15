@@ -1,5 +1,5 @@
 ---
-id: 1613
+
 title: 'People get smarter and things get faster! 2'
 date: '2005-03-08T21:26:11+01:00'
 author: 'Cédric Walter'

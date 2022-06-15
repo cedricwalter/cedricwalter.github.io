@@ -1,5 +1,5 @@
 ---
-id: 4081
+
 title: 'Microsoft Force-Installs Firefox Extension'
 date: '2009-02-03T12:14:18+01:00'
 author: 'Cédric Walter'

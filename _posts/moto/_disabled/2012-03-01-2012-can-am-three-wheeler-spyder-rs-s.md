@@ -1,5 +1,5 @@
 ---
-id: 7556
+
 title: '2012 Can-Am three-wheeler Spyder RS-S'
 date: '2012-03-01T21:51:17+01:00'
 author: 'Cédric Walter'

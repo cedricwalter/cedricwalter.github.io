@@ -1,5 +1,5 @@
 ---
-id: 2861
+
 title: 'WITNESS  use video in human rights advocacy,'
 date: '2007-02-01T23:05:38+01:00'
 author: 'Cédric Walter'

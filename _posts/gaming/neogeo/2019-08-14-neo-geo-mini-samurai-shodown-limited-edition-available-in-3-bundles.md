@@ -1,5 +1,5 @@
 ---
-id: 8759
+
 title: 'Neo Geo Mini Samurai Shodown Limited Edition available in 4 bundles'
 date: '2019-08-14T15:21:46+02:00'
 author: 'Cédric Walter'

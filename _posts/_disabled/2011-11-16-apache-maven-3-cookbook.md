@@ -1,5 +1,5 @@
 ---
-id: 7274
+
 title: 'Apache Maven 3 Cookbook'
 date: '2011-11-16T21:04:22+01:00'
 author: 'Cédric Walter'

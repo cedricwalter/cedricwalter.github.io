@@ -1,5 +1,5 @@
 ---
-id: 1724
+
 title: 'Game Boy + LEGO = Robot'
 date: '2005-05-15T20:38:43+02:00'
 author: 'Cédric Walter'

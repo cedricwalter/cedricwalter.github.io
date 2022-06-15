@@ -1,5 +1,5 @@
 ---
-id: 684
+
 title: 'Against Microsoft! (M$)'
 date: '2004-09-01T00:04:16+02:00'
 author: 'Cédric Walter'

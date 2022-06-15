@@ -1,5 +1,5 @@
 ---
-id: 4835
+
 title: 'All Neo Geo CD games'
 date: '2009-10-25T00:16:33+02:00'
 author: 'Cédric Walter'

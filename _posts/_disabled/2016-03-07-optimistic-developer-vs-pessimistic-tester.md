@@ -1,5 +1,5 @@
 ---
-id: 8330
+
 title: 'Optimistic Developer vs Pessimistic Tester'
 date: '2016-03-07T16:49:28+01:00'
 author: 'Cédric Walter'

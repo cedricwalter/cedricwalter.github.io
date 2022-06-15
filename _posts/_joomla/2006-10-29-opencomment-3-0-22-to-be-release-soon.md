@@ -1,5 +1,5 @@
 ---
-id: 2746
+
 title: 'OpenComment 3.0.22 to be release soon'
 date: '2006-10-29T21:52:04+01:00'
 author: 'Cédric Walter'

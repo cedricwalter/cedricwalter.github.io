@@ -1,5 +1,5 @@
 ---
-id: 1434
+
 title: 'Getting started with test-driven development'
 date: '2004-12-07T22:35:06+01:00'
 author: 'Cédric Walter'

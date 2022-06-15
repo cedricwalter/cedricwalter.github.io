@@ -1,5 +1,5 @@
 ---
-id: 1337
+
 title: 'IPOD: great device for smart users'
 date: '2004-10-26T21:37:12+02:00'
 author: 'Cédric Walter'

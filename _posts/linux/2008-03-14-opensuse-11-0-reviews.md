@@ -1,5 +1,5 @@
 ---
-id: 3500
+
 title: 'OpenSuse 11.0 reviews'
 date: '2008-03-14T16:07:10+01:00'
 author: 'Cédric Walter'

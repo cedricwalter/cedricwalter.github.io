@@ -1,5 +1,5 @@
 ---
-id: 1341
+
 title: 'back from holidays'
 date: '2004-11-07T18:35:36+01:00'
 author: 'Cédric Walter'

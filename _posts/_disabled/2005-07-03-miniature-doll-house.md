@@ -1,5 +1,5 @@
 ---
-id: 1813
+
 title: 'Miniature doll house'
 date: '2005-07-03T10:45:03+02:00'
 author: 'Cédric Walter'

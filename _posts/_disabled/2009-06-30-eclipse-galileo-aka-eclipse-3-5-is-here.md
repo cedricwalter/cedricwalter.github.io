@@ -1,5 +1,5 @@
 ---
-id: 4490
+
 title: 'Eclipse Galileo aka eclipse 3.5 is here'
 date: '2009-06-30T23:02:03+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 8123
+
 title: 'Add2Home 1.7.3 for Joomla 3.1/3.0/2.5 Released'
 date: '2013-07-17T21:32:23+02:00'
 author: 'Cédric Walter'

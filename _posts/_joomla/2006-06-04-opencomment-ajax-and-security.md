@@ -1,5 +1,5 @@
 ---
-id: 2637
+
 title: 'OpenComment, AJAX and security'
 date: '2006-06-04T23:41:29+02:00'
 author: 'Cédric Walter'

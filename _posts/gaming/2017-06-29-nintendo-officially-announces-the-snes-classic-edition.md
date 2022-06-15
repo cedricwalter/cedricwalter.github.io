@@ -1,5 +1,5 @@
 ---
-id: 8640
+
 title: 'Nintendo Officially Announces The SNES Classic Edition'
 date: '2017-06-29T10:42:23+02:00'
 author: 'Cédric Walter'

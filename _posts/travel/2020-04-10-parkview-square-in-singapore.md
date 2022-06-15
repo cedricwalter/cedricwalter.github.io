@@ -1,5 +1,5 @@
 ---
-id: 12886
+
 title: 'Parkview Square in Singapore'
 date: '2020-04-10T17:22:56+02:00'
 author: 'Cédric Walter'

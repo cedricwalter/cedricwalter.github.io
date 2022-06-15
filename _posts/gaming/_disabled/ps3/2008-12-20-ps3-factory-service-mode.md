@@ -1,5 +1,5 @@
 ---
-id: 3992
+
 title: 'PS3 Factory/Service mode'
 date: '2008-12-20T13:26:24+01:00'
 author: 'Cédric Walter'

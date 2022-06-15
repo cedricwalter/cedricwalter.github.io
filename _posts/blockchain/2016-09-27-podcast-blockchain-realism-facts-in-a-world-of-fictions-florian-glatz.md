@@ -1,5 +1,5 @@
 ---
-id: 8586
+
 title: 'Podcast Blockchain Realism: Facts in a World of Fictions &#8211; Florian Glatz'
 date: '2016-09-27T20:01:11+02:00'
 author: 'Cédric Walter'

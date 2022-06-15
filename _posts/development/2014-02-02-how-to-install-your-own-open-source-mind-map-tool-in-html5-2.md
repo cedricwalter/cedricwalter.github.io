@@ -1,5 +1,5 @@
 ---
-id: 8187
+
 title: 'How to install your own open source Mind Map tool in html5'
 date: '2014-02-02T18:58:36+01:00'
 author: 'Cédric Walter'

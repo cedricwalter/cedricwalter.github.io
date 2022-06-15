@@ -1,5 +1,5 @@
 ---
-id: 456
+
 title: 'Equipement et vetements'
 date: '2004-08-29T12:30:15+02:00'
 author: 'Cédric Walter'

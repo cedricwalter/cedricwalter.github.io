@@ -1,5 +1,5 @@
 ---
-id: 1688
+
 title: 'Project Scribble at sourceforge'
 date: '2005-04-14T13:35:43+02:00'
 author: 'Cédric Walter'

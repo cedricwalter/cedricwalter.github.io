@@ -1,5 +1,5 @@
 ---
-id: 8136
+
 title: 'Attention cedtag extension and Joomla 3.1 warning'
 date: '2013-08-07T19:44:06+02:00'
 author: 'Cédric Walter'

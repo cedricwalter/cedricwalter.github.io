@@ -1,5 +1,5 @@
 ---
-id: 2808
+
 title: 'onkyo TX-SR804E installed'
 date: '2006-12-20T18:03:41+01:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 2488
+
 title: 'new KDE project: PHONON'
 date: '2006-04-29T12:01:51+02:00'
 author: 'Cédric Walter'

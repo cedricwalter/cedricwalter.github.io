@@ -1,5 +1,5 @@
 ---
-id: 8608
+
 title: 'Running an Ethereum Node with Docker'
 date: '2017-02-17T14:28:04+01:00'
 author: 'Cédric Walter'

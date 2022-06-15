@@ -1,5 +1,5 @@
 ---
-id: 7868
+
 title: 'Real Bout Fatal Fury'
 date: '2012-11-04T18:30:43+01:00'
 author: 'Cédric Walter'

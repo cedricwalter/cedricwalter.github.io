@@ -1,5 +1,5 @@
 ---
-id: 8741
+
 title: 'Initial Coin Offering security checklist'
 date: '2018-08-01T13:04:11+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 2373
+
 title: 'OpenComment Logo Poll'
 date: '2006-03-17T11:58:27+01:00'
 author: 'Cédric Walter'

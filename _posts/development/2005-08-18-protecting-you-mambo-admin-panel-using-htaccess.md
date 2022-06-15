@@ -1,5 +1,5 @@
 ---
-id: 1999
+
 title: 'Protecting You Mambo admin panel using htaccess'
 date: '2005-08-18T18:49:43+02:00'
 author: 'Cédric Walter'

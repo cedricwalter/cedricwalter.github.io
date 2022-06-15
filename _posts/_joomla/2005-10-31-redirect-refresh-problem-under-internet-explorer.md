@@ -1,5 +1,5 @@
 ---
-id: 2076
+
 title: 'Redirect/Refresh problem under Internet explorer'
 date: '2005-10-31T14:49:05+01:00'
 author: 'Cédric Walter'

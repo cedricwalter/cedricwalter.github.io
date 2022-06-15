@@ -1,5 +1,5 @@
 ---
-id: 6853
+
 title: 'Joomla 1.7 Reach Alpha Status'
 date: '2011-06-08T21:39:42+02:00'
 author: 'Cédric Walter'

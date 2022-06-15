@@ -1,5 +1,5 @@
 ---
-id: 7408
+
 title: 'SecurityImages 6.0.2 for Joomla! 1.6/1.7/2.5'
 date: '2012-01-08T14:14:27+01:00'
 author: 'Cédric Walter'

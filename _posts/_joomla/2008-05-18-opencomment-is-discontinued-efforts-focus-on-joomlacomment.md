@@ -1,5 +1,5 @@
 ---
-id: 3460
+
 title: 'OpenComment is discontinued, efforts focus on !JoomlaComment'
 date: '2008-05-18T23:20:52+02:00'
 author: 'Cédric Walter'

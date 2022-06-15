@@ -1,5 +1,5 @@
 ---
-id: 7792
+
 title: 'Principles behind the Agile Manifesto'
 date: '2012-10-17T19:07:44+02:00'
 author: 'Cédric Walter'

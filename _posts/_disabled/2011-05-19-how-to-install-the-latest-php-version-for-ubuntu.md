@@ -1,5 +1,5 @@
 ---
-id: 6690
+
 title: 'How to install the latest PHP version for Ubuntu'
 date: '2011-05-19T19:44:33+02:00'
 author: 'Cédric Walter'

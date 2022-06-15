@@ -1,5 +1,5 @@
 ---
-id: 3935
+
 title: 'WELCOME TO PS3 HOME BETA'
 date: '2008-11-26T20:59:56+01:00'
 author: 'Cédric Walter'

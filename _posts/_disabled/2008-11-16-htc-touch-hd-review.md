@@ -1,5 +1,5 @@
 ---
-id: 3928
+
 title: 'HTC Touch HD review'
 date: '2008-11-16T16:34:14+01:00'
 author: 'Cédric Walter'

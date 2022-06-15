@@ -1,5 +1,5 @@
 ---
-id: 640
+
 title: 'Hardware mods links'
 date: '2004-08-31T23:49:02+02:00'
 author: 'Cédric Walter'

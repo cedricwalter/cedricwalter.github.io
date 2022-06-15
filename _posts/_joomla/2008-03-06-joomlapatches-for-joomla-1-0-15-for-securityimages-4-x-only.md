@@ -1,5 +1,5 @@
 ---
-id: 3231
+
 title: 'JoomlaPatches for Joomla 1.0.15 for SecurityImages 4.x only'
 date: '2008-03-06T17:49:45+01:00'
 author: 'Cédric Walter'

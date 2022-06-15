@@ -1,5 +1,5 @@
 ---
-id: 2890
+
 title: 'Speed up your apache server with mod_deflate'
 date: '2007-02-25T22:15:13+01:00'
 author: 'Cédric Walter'

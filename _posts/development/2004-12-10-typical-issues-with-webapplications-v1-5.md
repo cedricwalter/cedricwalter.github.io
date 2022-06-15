@@ -1,5 +1,5 @@
 ---
-id: 1438
+
 title: 'Typical issues with webapplications v1.5'
 date: '2004-12-10T22:08:29+01:00'
 author: 'Cédric Walter'

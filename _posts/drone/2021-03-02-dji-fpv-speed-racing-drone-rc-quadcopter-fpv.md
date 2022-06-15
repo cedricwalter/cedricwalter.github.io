@@ -1,5 +1,5 @@
 ---
-id: 13828
+
 title: 'DJI Fpv speed racing drone RC Quadcopter FPV'
 date: '2021-03-02T18:28:15+01:00'
 author: 'Cédric Walter'

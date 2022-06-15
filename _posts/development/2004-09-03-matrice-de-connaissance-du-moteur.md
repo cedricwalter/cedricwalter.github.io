@@ -1,5 +1,5 @@
 ---
-id: 993
+
 title: 'Matrice de connaissance du moteur'
 date: '2004-09-03T12:42:17+02:00'
 author: 'Cédric Walter'

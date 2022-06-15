@@ -1,5 +1,5 @@
 ---
-id: 9951
+
 title: 'Exponential Growth and Epidemic'
 date: '2020-03-09T21:32:40+01:00'
 author: 'Cédric Walter'

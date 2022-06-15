@@ -1,5 +1,5 @@
 ---
-id: 7908
+
 title: 'Breaker&#8217;s Revenge (Visco)'
 date: '2012-11-04T18:41:55+01:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 6819
+
 title: 'Hewlett Packard Forever'
 date: '2011-06-06T20:50:29+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 2386
+
 title: 'logo submission by Takster'
 date: '2006-03-23T18:59:07+01:00'
 author: 'Cédric Walter'

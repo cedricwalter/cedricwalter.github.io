@@ -1,5 +1,5 @@
 ---
-id: 2625
+
 title: 'Sporadic bugs appearing in SecurityImages 3.0.4?'
 date: '2006-05-27T12:05:06+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 1696
+
 title: 'P2P and anonymity: GNUnet'
 date: '2005-04-21T20:08:15+02:00'
 author: 'Cédric Walter'

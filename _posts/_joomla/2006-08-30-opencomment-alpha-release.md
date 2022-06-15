@@ -1,5 +1,5 @@
 ---
-id: 2693
+
 title: 'OpenComment alpha release'
 date: '2006-08-30T10:57:52+02:00'
 author: 'Cédric Walter'

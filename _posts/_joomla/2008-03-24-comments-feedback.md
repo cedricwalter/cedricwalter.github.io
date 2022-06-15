@@ -1,5 +1,5 @@
 ---
-id: 3300
+
 title: 'comments feedback'
 date: '2008-03-24T16:23:04+01:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 2379
+
 title: 'OpenComment news'
 date: '2006-03-19T22:21:15+01:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 2855
+
 title: 'More  Joomla!  security,  performance and enterprise scalability?'
 date: '2007-01-28T19:12:49+01:00'
 author: 'Cédric Walter'

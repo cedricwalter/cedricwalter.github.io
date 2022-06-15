@@ -1,5 +1,5 @@
 ---
-id: 4066
+
 title: 'Optimize your site for PDA and IPhone'
 date: '2009-01-27T22:24:55+01:00'
 author: 'Cédric Walter'

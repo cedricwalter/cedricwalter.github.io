@@ -1,5 +1,5 @@
 ---
-id: 1473
+
 title: 'Robosapiens 2 presentation during CES 2005'
 date: '2005-01-11T21:01:02+01:00'
 author: 'Cédric Walter'

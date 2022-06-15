@@ -1,5 +1,5 @@
 ---
-id: 7690
+
 title: 'Joomla Mootools and jQuery Compatibility'
 date: '2012-05-21T11:31:31+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 2649
+
 title: 'Extension for Firefox adding compatibility'
 date: '2006-06-10T14:29:37+02:00'
 author: 'Cédric Walter'

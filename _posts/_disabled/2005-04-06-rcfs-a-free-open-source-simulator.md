@@ -1,5 +1,5 @@
 ---
-id: 1663
+
 title: 'RCFS, a free open source simulator'
 date: '2005-04-06T20:36:45+02:00'
 author: 'Cédric Walter'

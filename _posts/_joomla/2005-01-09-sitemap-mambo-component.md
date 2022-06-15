@@ -1,5 +1,5 @@
 ---
-id: 1469
+
 title: 'SiteMap Mambo component&#8230;'
 date: '2005-01-09T22:50:24+01:00'
 author: 'Cédric Walter'

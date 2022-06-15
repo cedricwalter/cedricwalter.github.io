@@ -1,5 +1,5 @@
 ---
-id: 5959
+
 title: 'I win a Synology DS710+ &#038; DX510 yesterday'
 date: '2010-09-03T19:53:23+02:00'
 author: 'Cédric Walter'

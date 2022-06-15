@@ -1,5 +1,5 @@
 ---
-id: 3453
+
 title: 'LittleBigPlanet Sony Gamers&#8217; Day 08'
 date: '2008-05-17T13:34:21+02:00'
 author: 'Cédric Walter'

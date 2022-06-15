@@ -1,5 +1,5 @@
 ---
-id: 2238
+
 title: 'MY home projector: Panasonic PT-AE900E'
 date: '2005-12-22T22:06:29+01:00'
 author: 'Cédric Walter'

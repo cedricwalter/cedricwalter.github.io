@@ -1,5 +1,5 @@
 ---
-id: 8766
+
 title: 'A git workflow that is easy and scale for product development'
 date: '2019-09-02T14:02:00+02:00'
 author: 'Cédric Walter'

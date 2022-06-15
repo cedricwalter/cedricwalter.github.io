@@ -1,5 +1,5 @@
 ---
-id: 2773
+
 title: 'Statistics, it has been a great year'
 date: '2006-12-01T20:27:11+01:00'
 author: 'Cédric Walter'

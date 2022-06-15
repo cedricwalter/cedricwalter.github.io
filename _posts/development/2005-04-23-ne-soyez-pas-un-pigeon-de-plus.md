@@ -1,5 +1,5 @@
 ---
-id: 1702
+
 title: 'Ne soyez pas un pigeon&#8230;de plus'
 date: '2005-04-23T23:29:39+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 2324
+
 title: 'Using Facelets for the first time'
 date: '2006-02-24T22:20:01+01:00'
 author: 'Cédric Walter'

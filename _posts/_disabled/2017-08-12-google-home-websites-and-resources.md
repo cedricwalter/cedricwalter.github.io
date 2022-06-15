@@ -1,5 +1,5 @@
 ---
-id: 8646
+
 title: 'Google Home websites and resources'
 date: '2017-08-12T17:24:19+02:00'
 author: 'Cédric Walter'

@@ -1,5 +1,5 @@
 ---
-id: 3230
+
 title: 'PHP5 required for SecurityImages 4.3.0'
 date: '2008-03-06T17:32:27+01:00'
 author: 'Cédric Walter'

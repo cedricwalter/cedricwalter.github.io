@@ -1,5 +1,5 @@
 ---
-id: 1687
+
 title: 'too lazy for cleaning the floor?'
 date: '2005-04-10T23:37:03+02:00'
 author: 'Cédric Walter'

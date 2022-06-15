@@ -1,5 +1,5 @@
 ---
-id: 1793
+
 title: 'Yamaha Raptor 700 ccm for 2006!!!'
 date: '2005-06-13T00:56:42+02:00'
 author: 'Cédric Walter'

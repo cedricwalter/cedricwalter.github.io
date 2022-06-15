@@ -1,5 +1,5 @@
 ---
-id: 7918
+
 title: 'Aggressors of Dark Kombat'
 date: '2012-11-04T18:44:20+01:00'
 author: 'Cédric Walter'

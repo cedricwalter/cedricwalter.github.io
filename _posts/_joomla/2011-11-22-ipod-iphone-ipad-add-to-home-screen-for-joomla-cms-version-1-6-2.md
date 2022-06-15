@@ -1,5 +1,5 @@
 ---
-id: 7312
+
 title: 'Ipod, iPhone, iPad Add to Home Screen for Joomla! CMS version 1.6.2'
 date: '2011-11-22T22:12:35+01:00'
 author: 'Cédric Walter'

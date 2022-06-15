@@ -1,5 +1,5 @@
 ---
-id: 2085
+
 title: 'Stability of my Site, out of operations during 2 days'
 date: '2005-11-04T11:59:18+01:00'
 author: 'Cédric Walter'

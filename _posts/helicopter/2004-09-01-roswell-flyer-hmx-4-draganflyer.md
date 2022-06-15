@@ -181,7 +181,7 @@ things twice before gluing once. Accuracy is important, so TAKE YOUR TIME.
    touches the edges of the laminate for strength. Push plywood motor mounts down onto rotor shaft and make sure they
    are square to rotor shaft. Allow epoxy to cure.    ![](/assets/images/2004/09/start.1.jpg)
 
-5. Each motor must have a length of Black and Red wire. Make four sets of 12.5 inch lengths of red and black wire.
+2. Each motor must have a length of Black and Red wire. Make four sets of 12.5 inch lengths of red and black wire.
    Holding one red and one black wire at the saure time, push the pair through the foam of the frame, between the
    laminates, and into the first small lightening hole at the top of the arm. Using needle nose pliers, grab the pair of
    wires and continue to thread them through the foam into the center of each subsequent lightening hole. If you do not
@@ -193,7 +193,7 @@ things twice before gluing once. Accuracy is important, so TAKE YOUR TIME.
    satisfied of fit, epoxy in place. Make sure to apply epoxy to all matting surfaces. The frame should hold itself
    together if set on a flat surface, however if it tends to pull apart, use some tape to hold in together until the
    epoxy cures.    ![](/assets/images/2004/09/start.2.jpg)
-7. Strip 3/16 inch insulation from both ends of thje 4 red and black wires that you created, LATER you will solder these
+3. Strip 3/16 inch insulation from both ends of thje 4 red and black wires that you created, LATER you will solder these
    to the motors and circuit board. 8\. You are now going to cut pieces (as shown in the photo to the right) of double
    sided foam tape to the approximate size as shown. Remove ONE side of the paper from the tape and place them on the
    top piece of the frame. ( shown to the right) You most likely know that you do not want to touch the tape with your
@@ -205,47 +205,47 @@ things twice before gluing once. Accuracy is important, so TAKE YOUR TIME.
    indicated labels on the circuit board.. 11\. Insert all 8 wires up through the PCB and solder them on the top side.
    Trim any excess wire with wire cutters. CAUTION, be careful with the soldering iron the frame of the Roswell Flyer is
    very easy to (lamage with the soldering iron, again Take your lime.    ![](/assets/images/2004/09/start.3.jpg)
-12. Remove paper covering from double sided tape already installed on top of frame and secure the PCB onto the tape.
-    Make sure to pull the wires down through the holes so that they do not get pinched under the PCB. 13\. For each arm,
-    pull the Black out of the wires, but do not make them tight. Set this assembly aside for now. 14\. For all four main
-    gears, install two 1/2 inch nylon screws through the two opposing small holes in the web of the gear such that the
-    threaded end is on the same side of the gear as the gear hub. Thread a 1/4 inch nylon spacer onto each screw and
-    tighten snugly. Do not over-tighten. Finger tight is good, dont use pliers or other devices that might damage the
-    plastic sleeves or bolts.    ![](/assets/images/2004/09/start.4.jpg)
-    Important! Failure to bevel the edges of the blades will result in the aircraft having significantly reduced flying
-    tune, and reduced performance. Do not skip these steps, even if you think you can Jet away with
-    it.    ![](/assets/images/2004/09/start.5.jpg)
-15. For all four rotors, using 100 gril sandpaper or file, bevel the top of the leading edge of each blade. The bevel
-    should be about 1/8 inch wide and the leading edge should taper to about I/10 the thickness of the blade. 16\. For
-    all four rotors, smooth out the marks from the 100 grit paper and round of the bevel a bit. Also sand the perimeter
-    of the Made to remove any burrs and slight round the edges of the trailing edge. Make sure you prep and Band these
-    edges of the rotor blades, failure to do so WILL affect the performance of the Flyer.
-17. Install all four main gears onto the rotor shafts with the nylon screws pointing up, this should also make all the
-    gear hubs face up. 18\. Make sure each 0gear spins very easily. If you give the gear a spin, it should continue to
-    spin for at least 10 seconds thereafter. If one of them does not, check to make sure that the bearings are fully
-    seated in the gear hubs, and that no    ![](/assets/images/2004/09/start.6.jpg)
-19. Install a I/8 inch retaining clip on the top of each rotor shaft. This is most easily done by laying the ring on the
-    end of the shaft with half of the ring hanging a bit down the shaft. Using your linger, press down on the end of the
-    shaft, and work the test of the ring onto the shaft, then usina needle nose pliers, carefully push the retaining
-    ring down the rotor shaft until it seats in the groove. Caution, these little clips are an alien life form all unto
-    Themselves, they fly off into the carpet, under doors and generally just get lost if you dont take your lime. WE
-    have included sonie extras, you won't need them ho wever if you work slowly and get the hang of f it. The first one
-    you do is a bit tricky but once you get the hang of it, the rest will be easy to do. 20. Install all four motors on
-    the bottom side of the plywood motor mounts using two 3 mm X5 mm machine screws. The gears on the motor ends fit up
-    through the elongated center hole in the mount, and engage with the main gear. Make sure that there is a small
-    amount of slop in the gear mesh, about the thickness of a sheet of paper. Tighten the mounting screws being careful
-    not to crush the plywood.    ![](/assets/images/2004/09/start.7.jpg)
-21. Now let's attach the wires to the motor. On each motor there is a red dot, indicating where the red wire should be
-    soldered, the black wire goes to the other motor lug. Also for each motor, install a noise filter capacitor across
-    the two terminals of each motor. Install the green capacitor across the motor leads, it has been omitted here for
-    clarity. It is also a good idea to slip a bit of heat shrink tubing or tape onto the capacitor leads so that if they
-    gent bent they will not short the motor.
-22. Charge the supplied battery with a correct charger, be sure not to over-charge. Charging batteries is almost an
-    artform, we suggest that you review your charger specs and read again the best way to charge Ni-Cad batteries. We
-    have used various charges and this battery pack will charge with a normal charger in about 25 minutes. Let the
-    battery charge until you can hold it in your hand and feel that the battery is slightly warm, or use a charger that
-    measures the peak of the battery. This is, of course, the best way and the most expensive.
-23. Connect a four channel RC receiver to the PCB usine the four provided connectors. Use the following color codes to
+4. Remove paper covering from double sided tape already installed on top of frame and secure the PCB onto the tape.
+   Make sure to pull the wires down through the holes so that they do not get pinched under the PCB. 13\. For each arm,
+   pull the Black out of the wires, but do not make them tight. Set this assembly aside for now. 14\. For all four main
+   gears, install two 1/2 inch nylon screws through the two opposing small holes in the web of the gear such that the
+   threaded end is on the same side of the gear as the gear hub. Thread a 1/4 inch nylon spacer onto each screw and
+   tighten snugly. Do not over-tighten. Finger tight is good, dont use pliers or other devices that might damage the
+   plastic sleeves or bolts.    ![](/assets/images/2004/09/start.4.jpg)
+   Important! Failure to bevel the edges of the blades will result in the aircraft having significantly reduced flying
+   tune, and reduced performance. Do not skip these steps, even if you think you can Jet away with
+   it.    ![](/assets/images/2004/09/start.5.jpg)
+5. For all four rotors, using 100 gril sandpaper or file, bevel the top of the leading edge of each blade. The bevel
+   should be about 1/8 inch wide and the leading edge should taper to about I/10 the thickness of the blade. 16\. For
+   all four rotors, smooth out the marks from the 100 grit paper and round of the bevel a bit. Also sand the perimeter
+   of the Made to remove any burrs and slight round the edges of the trailing edge. Make sure you prep and Band these
+   edges of the rotor blades, failure to do so WILL affect the performance of the Flyer.
+6. Install all four main gears onto the rotor shafts with the nylon screws pointing up, this should also make all the
+   gear hubs face up. 18\. Make sure each 0gear spins very easily. If you give the gear a spin, it should continue to
+   spin for at least 10 seconds thereafter. If one of them does not, check to make sure that the bearings are fully
+   seated in the gear hubs, and that no    ![](/assets/images/2004/09/start.6.jpg)
+7. Install a I/8 inch retaining clip on the top of each rotor shaft. This is most easily done by laying the ring on the
+   end of the shaft with half of the ring hanging a bit down the shaft. Using your linger, press down on the end of the
+   shaft, and work the test of the ring onto the shaft, then usina needle nose pliers, carefully push the retaining
+   ring down the rotor shaft until it seats in the groove. Caution, these little clips are an alien life form all unto
+   Themselves, they fly off into the carpet, under doors and generally just get lost if you dont take your lime. WE
+   have included sonie extras, you won't need them ho wever if you work slowly and get the hang of f it. The first one
+   you do is a bit tricky but once you get the hang of it, the rest will be easy to do. 20. Install all four motors on
+   the bottom side of the plywood motor mounts using two 3 mm X5 mm machine screws. The gears on the motor ends fit up
+   through the elongated center hole in the mount, and engage with the main gear. Make sure that there is a small
+   amount of slop in the gear mesh, about the thickness of a sheet of paper. Tighten the mounting screws being careful
+   not to crush the plywood.    ![](/assets/images/2004/09/start.7.jpg)
+8. Now let's attach the wires to the motor. On each motor there is a red dot, indicating where the red wire should be
+   soldered, the black wire goes to the other motor lug. Also for each motor, install a noise filter capacitor across
+   the two terminals of each motor. Install the green capacitor across the motor leads, it has been omitted here for
+   clarity. It is also a good idea to slip a bit of heat shrink tubing or tape onto the capacitor leads so that if they
+   gent bent they will not short the motor.
+9. Charge the supplied battery with a correct charger, be sure not to over-charge. Charging batteries is almost an
+   artform, we suggest that you review your charger specs and read again the best way to charge Ni-Cad batteries. We
+   have used various charges and this battery pack will charge with a normal charger in about 25 minutes. Let the
+   battery charge until you can hold it in your hand and feel that the battery is slightly warm, or use a charger that
+   measures the peak of the battery. This is, of course, the best way and the most expensive.
+10. Connect a four channel RC receiver to the PCB usine the four provided connectors. Use the following color codes to
     make sure the correct plugs are installed. Yellow/Red/Black Throttle (Futaba Channel 6)  Blue wire Elevator (
     Futaba Channel 2)     Green wire Aileron (Futaba Channel 1)     Yellow wire Rudder (Futaba Channel
     4) ![](/assets/images/2004/09/start.8.jpg)
@@ -262,7 +262,7 @@ things twice before gluing once. Accuracy is important, so TAKE YOUR TIME.
        and into the hole marked "Ant" on the PCB and solder in place.   WARNING!
        Alake sure none of the rotor blades are attached for the following steps. Failure to follow this in- struction could
        result in damage to the aircraft or injury to you!
-24. The purpose of these steps is to make sure the transmuter is properly set up. Set the transmitter throttle stick to
+11. The purpose of these steps is to make sure the transmuter is properly set up. Set the transmitter throttle stick to
     ils mid point and turn on the transmuter. Make sure the power switch on the Circuit board is turned OFF, then
     connect the battery to the Circuit board 25\. Set the Flyer on a flat, open surface, (the floor is good) making sure
     that nothing can catch in the gears. If you have long hair, secure it so that it will not fall into the cgears, and
@@ -273,7 +273,7 @@ things twice before gluing once. Accuracy is important, so TAKE YOUR TIME.
     flip the reveres switch for the throttle channel on the transmitter. Note the LED should blink faster with more
     throttle, and slower with reduced throttle. The motors will NOT turn on at this lime, the Flyer is not yet ARMED.
     27\. On your radio transmitter set the throttle to minimum, and set the throttle trim to minimum.
-28. With the aircraft sitting solidly on the flat surface (do not pick it up) carefully push the arming switch (small
+12. With the aircraft sitting solidly on the flat surface (do not pick it up) carefully push the arming switch (small
     white rectangular button labeled "caution") on the top of the PCB. Be prepared for the motors to come on or give a
     little kick. For the following steps, push the throttle stick until the motors just start to spin (about 1/3
     throttle)  ![](/assets/images/2004/09/start.10.jpg)  29\. The motors should not be turning, or turning very slowly .
@@ -282,12 +282,12 @@ things twice before gluing once. Accuracy is important, so TAKE YOUR TIME.
     on the transmitter. The motors should now respond as described. 30\. Move the aileron /elevator stick full forward,
     the rear motor should speed up and the front motor should slow down. If the opposite happens, flip the servo
     reversing switch for the elevator on the transmitter. This should make i; function as described.
-31. Move the aileron/ elevator stick full right. The left motor should turn on or go faster, and the right motor should
+13. Move the aileron/ elevator stick full right. The left motor should turn on or go faster, and the right motor should
     slow down or stop. If the opposite happens, flip the servo reversing switch for the aileron channel on the
     transmitter,. This should fix the problem. 32. Now move the throttle stick forward until the motors just start to
     turn. Adjust the elevator trim so that the front and rear motors are spinning at about the same speed, or so they
     corne ,ii at Zhu same time when the throttle stick is pushed forward.
-33. In a similar fashion, adjust the aileron trim so that the left and right motors run at about the same speed, start
+14. In a similar fashion, adjust the aileron trim so that the left and right motors run at about the same speed, start
     at the same time when throttle is applied. 34. Now adjust the rudder trim so that the front/rear and left/right
     motor pairs run at about the same speed, or come on at about the same time when throttle is applied.  Note: This
     may all seem a bit complicated but don't worry, remember we said take your tune, well that is stil! a good idea. Get
@@ -392,4 +392,63 @@ things twice before gluing once. Accuracy is important, so TAKE YOUR TIME.
     improvise, with all parts, except the motors, the circuit board and the gears. The test of the Flyer is there for
     you to experiment with. Let your imagination run wild, just be sale and if you fend out other tips and tricks or
     corne up with a cool design, contact us and share the information. We will be glad to post articles on things you
-    have done to the Flyer, on out web-site. 
+    have done to the Flyer, on out web-site.
+
+# Questions/ Answer on Roswell Flyer, Draganflyer
+
+- Does the Roswell Flyer use stepper motors are simple DC motors ?  
+  No it uses cheap mabuchi motor, but each of them is "drinking" 2-3A, multiply by 4 and you understand that with
+  900mAh, you can only fly 4 min…
+- Do the electronics contain a gyroscope to calculate level flight ?  
+  not only one but in fact 3!
+- Does it contain a CPU and software to calculate motor speeds ?  
+  it contains a micro controller with no reference and a close loop (maybe more than one)
+- Do all 4 motors have adjustable speed, and is this done by changing the voltage ?  
+  Yes with a PWM (pulse wide modulation), though 4 Transistors.
+- Do you know of any websites where people build their own roswell flyer, including description of the electronics ?  
+  Yes richards friedrich with a basic stamp, but i ve heard nothing since 3 years, a german guy hardwire one with 3
+  mixer and no gyro (i do not know how it fly), a french guy made a glow one and take months to make it fly. mike Dammar
+  develop the draganflyer during 5 years. Nasa is building one for MARS, but the price of project is in million dollars.
+  We try to build one, controlling motor is not the difficult part since some circuit are also available, reading gyro
+  and determining what to do is more difficult (our site is http://www.ifrance.com/Phobos-flyer/). All links are on my
+  homepage
+- Aren't the batteries very heavy, or are they an expensive kind ?  
+  The weight comes from the battery. The problem of this heli is power consumption otherwise it is really great to fly.
+  Hope to see the next generation of battery (methanol or something else). That will certainly push sales. Right now
+  Nicad or nimh do notimprovemuch flight time. Li-Ion are still too expensive $80 or more.
+- What makes the kit so expensive, the chips, the motors?  
+  Nothing except the fact that no enough items are made, hand made is the real name of current production. In fact Mike
+  says that all heli share the same prize (picollo or hornet). He refuse to develop a glow version because there is no
+  market and nobody will pay for it. Moreover he has a recorded video where in less than a frame (1/24s) the heli get
+  upside down because a motor died: no pilot on earth can save the situation.. and the heli in such case.
+- Can propellors be build by cutting them from plastic.   
+  The key of success is the quantities of air you can move to increase accuracy of controlling…you can discuss with the
+  builder of the roswell flyer, he is open, his name is mike Dammar his site is
+  at [www.spectrolutions.com](http://www.spectrolutions.com/)
+- Do you know of webreferences to instructions to make them ?  
+  no you must build them. Mario who build Micro heli and sell nice engineered upgrades parts send me a message, here is
+  a copy:  
+  *De: <MIADsgns@aol.com>  
+  Objet: Re: heli blades  
+  DateÂ : Donnerstag, 7. Juni 2001 20:35 Hi Cedric,
+
+  The Roswell blades are very easy to make, we are sorry but we don't carry   
+  blades for such. If you wan to make yourself a set, form wet sheet 1/16"   
+  thick balsa over a 3 inch tube, hold it in place with rubber bands. When   
+  dried you will have a balsa tube that you can sand and cover with epoxy and   
+  carbon cloth, when finished cut to match Roswell blade pattern, sand the   
+  leading trailing edges lightly and drill to match holes on the original   
+  blade.
+
+  Hope this helps.
+
+  You may be interested in our current products which include micro RC   
+  helicopters, systems and accessories.
+
+  Regards,   
+  Mario  
+  www.micro-flight.com/newframe1.htm*
+- Would it be an idea to put 2 props above eachother to create a simple indoor heli. This would eliminate the need for
+  leveling the helicopter  
+  Yes but the mechanics is very complex, it is call a contra rotor, but you need 2 swashplate and the controller is
+  difficult ti implement (mechanical mixer to modify pitch). Moreover no real application except some russian heli.

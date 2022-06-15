@@ -8,7 +8,8 @@ toc: true
 the following company, blogs and webpages.
 
 ## This blog
-The blog you are reading now! online since 1997.
+The blog you are reading now! online since 1997. It was having 4200 posts before it was migrated to a static blog generator.
+Most disabled posts were news (few lines or information now outdated) or outdated tutorials not worth maintaining or keeping.
 
 - [waltercedric.com](https://waltercedric.com/)
 - [waltercedric.ch](http://www.waltercedric.ch/)

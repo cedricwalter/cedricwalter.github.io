@@ -61,13 +61,13 @@ To move an existing dropbox folder to /foo/bar:
 
 To unlink:
 
-```
+```bash
 ~/dropbox.py stop</code> <code>mv ~/.dropbox ~/.dropbox.old
 ```
 
 To relink:
 
-```
+```bash
 ~/.dropbox-dist/dropboxd
 ```
 
@@ -77,30 +77,38 @@ Display currently excluded directories `~/dropbox.py exclude list`
 
 Add one or more directories to the exclusion list, then resynchronize Dropbox.
 
-```
+```bash
  ~/dropbox.py exclude add [directory] [directory] [directory]
 ```
 
 *NOTE:* be sure to specify the full path to \[directory\] above, or else the script will ignore your command. e.g.
 
-```
-<code>~/dropbox.py exclude add ~/Dropbox/Public</code>
+```bash
+~/dropbox.py exclude add ~/Dropbox/Public
 ```
 
 Remove one or more directories from the exclusion list, then resynchronize Dropbox.
 
-```
+```bash
 ~/dropbox.py exclude remove [directory] [directory] [directory]
 ```
 
 #### Check Dropbox’s status
 
-`~/dropbox.py status`
+```bash
+~/dropbox.py status
+```
 
 #### Stop and start the Dropbox daemon
 
-Stop Dropbox. `~/dropbox.py stop`
+Stop Dropbox. 
+```bash
+~/dropbox.py stop
+```
 
-Start Dropbox. `~/dropbox.py start```
+Start Dropbox. 
+```bash
+~/dropbox.py start
+```
 
 Check for more command <https://www.dropbox.com/help/desktop-web/linux-commands>

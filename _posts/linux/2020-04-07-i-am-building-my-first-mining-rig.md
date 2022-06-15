@@ -29,6 +29,4 @@ I learned a lot, only lost money due to hardware costs and electricity, but i le
 - Intel Watercooling
 - CORSAIR AX1500i Titanium 1500W
 
-### ![](/assets/images/2017/09/ASUS-GeForce-GTX-1080-Ti.jpg)
-
-###  
+![](/assets/images/2017/09/ASUS-GeForce-GTX-1080-Ti.jpg)

@@ -49,7 +49,7 @@ Consider also reading:
 [<font face="Verdana, Arial, Helvetica, sans-serif" size="-1">**What are the SUID, SGID and the Sticky Bits?**](http://www.codecoffee.com/tipsforlinux/articles/028.html)
 
 You can find them also manually by entering:  
-<font> 
+/assets/images/2016/09/cailculato-hp-11c_5_thumb.jpg 
 
 ```
 # find / -type f \( -perm -04000 -o -perm -02000 \;
@@ -66,7 +66,7 @@ You can find them also manually by entering:
 <span style="font-weight: bold; background-color: rgb(255, 255, 0);">No Owner/Group  
 May also be an indication an intruder has accessed your system…  
 Can also be found manually by typing:  
-<font> 
+/assets/images/2016/09/cailculato-hp-11c_5_thumb.jpg 
 
 ```
 # find / \( -nouser -o -nogroup \) -print

@@ -4,7 +4,7 @@ title: 'A collaborative development lead to success!'
 date: '2005-06-11T23:55:20+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1790'
+
 
 tags:
     - collaboration

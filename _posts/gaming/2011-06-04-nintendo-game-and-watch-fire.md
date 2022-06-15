@@ -4,7 +4,7 @@ title: 'Nintendo Game and Watch Fire'
 date: '2011-06-04T14:37:56+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=6801'
+
 
 header:
   teaser: /assets/images/2011/06/Nintendo_Game_and_Watch_Fire_00_thumb.jpg

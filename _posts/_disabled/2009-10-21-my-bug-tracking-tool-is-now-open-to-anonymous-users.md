@@ -4,7 +4,7 @@ title: 'My Bug tracking tool is now open to anonymous users'
 date: '2009-10-21T21:09:13+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4791'
+
 
 header:
   teaser: /assets/images/2009/10/jira.logo_.png

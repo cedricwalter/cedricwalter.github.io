@@ -4,10 +4,10 @@ title: 'DJI Fpv speed racing drone RC Quadcopter FPV'
 date: '2021-03-02T18:28:15+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://www.waltercedric.com/?p=13828'
 
-ngg_post_thumbnail:
-    - '0'
+
+
+    
 header:
     teaser: /assets/images/2021/02/DJI-FPV-Racing-Drone-RC-Quadcopter-FPV-3.png
 tags:

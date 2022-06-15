@@ -4,7 +4,7 @@ title: 'Auto completion of Icesoft Icefaces tags in eclipse Helios'
 date: '2010-12-25T18:55:22+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=6437'
+
 
 header:
   teaser: /assets/images/2010/12/iceSoft.jpg

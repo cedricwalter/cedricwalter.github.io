@@ -4,7 +4,7 @@ title: 'Smileys list'
 date: '2005-07-22T20:22:44+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1938'
+
 
 ---
 

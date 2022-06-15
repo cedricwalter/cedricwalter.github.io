@@ -4,7 +4,7 @@ title: '&ldquo;Optimize vista for speed&rdquo; lead to captcha page in Google'
 date: '2009-05-05T13:24:10+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4314'
+
 
 header:
   teaser: /assets/images/2009/05/google.flood_.vista_thumb.png

@@ -4,7 +4,7 @@ title: 'Comment régler un hélicoptère RC: Raptor 30 ou caliber 30'
 date: '2004-09-01T23:26:37+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=905'
+
 
 header:
   teaser: /assets/images/2004/09/raptor.jpg

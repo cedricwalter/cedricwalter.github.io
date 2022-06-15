@@ -4,7 +4,7 @@ title: 'Links, shops'
 date: '2004-08-31T22:05:52+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=500'
+
 
 header:
   teaser: /assets/images/2004/08/TN_001.JPG

@@ -4,7 +4,7 @@ title: 'Optical sensor for the GV1 governor'
 date: '2004-09-09T22:17:18+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1203'
+
 
 header:
   teaser: /assets/images/2004/09/tnOS_Schematic.jpg

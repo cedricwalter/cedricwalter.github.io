@@ -4,7 +4,7 @@ title: 'GitHub project joomla-packager allow rapid application development of Jo
 date: '2013-08-29T21:18:56+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=8152'
+
 
 header:
   teaser: /assets/images/2009/07/joomla.png

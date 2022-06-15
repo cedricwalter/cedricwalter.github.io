@@ -4,7 +4,7 @@ title: 'Brushless Heaven of Gensmantel'
 date: '2004-09-01T23:09:08+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=877'
+
 
 header:
   teaser: /assets/images/2004/09/Heaven_2004.03.05_000.jpg

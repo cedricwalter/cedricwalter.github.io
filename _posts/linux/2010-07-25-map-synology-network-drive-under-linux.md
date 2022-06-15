@@ -4,7 +4,7 @@ title: 'Map Synology network drive under linux'
 date: '2010-07-25T16:43:28+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=5677'
+
 
 header:
   teaser: /assets/images/2011/05/linux.png

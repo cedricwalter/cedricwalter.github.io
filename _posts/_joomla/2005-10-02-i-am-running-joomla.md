@@ -4,7 +4,7 @@ title: 'I am running Joomla!'
 date: '2005-10-02T13:59:28+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2039'
+
 
 header:
   teaser: /assets/images/2005/10/Joomla-Logo-Horz-Color-Thumbnail.png

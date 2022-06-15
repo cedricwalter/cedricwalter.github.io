@@ -4,7 +4,7 @@ title: 'HTC Touch HD review'
 date: '2008-11-16T16:34:14+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3928'
+
 
 header:
   teaser: /assets/images/2008/11/htctouchhd1_thumb.jpg

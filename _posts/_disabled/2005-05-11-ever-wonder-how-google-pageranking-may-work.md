@@ -4,7 +4,7 @@ title: 'Ever wonder How google pageranking may work?'
 date: '2005-05-11T20:22:31+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1720'
+
 
 tags:
 - algorithm

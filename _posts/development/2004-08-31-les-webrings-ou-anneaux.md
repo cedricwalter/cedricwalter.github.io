@@ -4,7 +4,7 @@ title: 'Les WebRings ou anneaux'
 date: '2004-08-31T23:04:58+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=555'
+
 
 tags:
 - francais

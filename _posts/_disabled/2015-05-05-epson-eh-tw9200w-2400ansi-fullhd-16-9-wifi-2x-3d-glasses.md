@@ -4,7 +4,7 @@ title: 'Epson EH-TW9200W, 2400ANSI, FullHD 16:9, WiFi, 2x 3D-Glasses'
 date: '2015-05-05T11:29:29+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=8292'
+
 
 ---
 

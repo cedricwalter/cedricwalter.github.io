@@ -4,7 +4,7 @@ title: 'I wish You a Merry Christmas 2004!'
 date: '2004-12-24T00:30:46+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1444'
+
 
 header:
   teaser: /assets/images/2013/12/merry-christmas-with-tree_thumb.gif

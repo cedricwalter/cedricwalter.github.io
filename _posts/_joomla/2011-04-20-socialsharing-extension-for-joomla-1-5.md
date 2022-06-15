@@ -4,7 +4,7 @@ title: 'socialsharing extension for Joomla! 1.5'
 date: '2011-04-20T20:08:20+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=6624'
+
 
 header:
   teaser: /assets/images/2011/04/joomla_socialsharing_logo_thumb.png

@@ -4,7 +4,7 @@ title: 'Joomla! 1.5.17 released'
 date: '2010-05-03T19:43:42+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=5182'
+
 
 tags:
     - availability

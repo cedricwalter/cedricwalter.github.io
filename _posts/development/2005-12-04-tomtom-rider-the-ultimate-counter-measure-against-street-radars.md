@@ -4,7 +4,7 @@ title: 'TomTom Rider: the ultimate counter measure against street radars?'
 date: '2005-12-04T11:56:44+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2192'
+
 
 header:
   teaser: /assets/images/2005/07/tomtomrider.jpg

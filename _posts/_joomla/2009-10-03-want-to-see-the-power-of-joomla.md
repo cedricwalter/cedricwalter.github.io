@@ -4,7 +4,7 @@ title: 'Want to see the power of Joomla?'
 date: '2009-10-03T00:04:40+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4728'
+
 
 header:
   teaser: /assets/images/2009/10/8a0e934c5dfc4da2897f567db006d584.jpg

@@ -4,7 +4,7 @@ title: 'I have my XBOX premium'
 date: '2006-01-22T23:42:27+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2290'
+
 
 header:
   teaser: /assets/images/2006/01/xbox360-release.jpg

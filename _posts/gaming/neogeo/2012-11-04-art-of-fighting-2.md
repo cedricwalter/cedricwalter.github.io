@@ -4,7 +4,7 @@ title: 'Art of Fighting 2'
 date: '2012-11-04T18:43:39+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=7914'
+
 
 header:
   teaser: /assets/images/2012/11/snk_neogeo_faq_moves.png

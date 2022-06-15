@@ -4,7 +4,7 @@ title: '4 ways to automate MAMBO database backup&#8230;'
 date: '2005-08-26T22:46:39+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2017'
+
 
 ---
 
@@ -86,7 +86,7 @@ TABLE is the Mambo table You want to backup
 
 # **3. Your provider only give You a Telnet or ssh access to the server –** <font color="#ff0000" face="Arial Black">**ADVANCE USER**
 
-Follow [the guide of TVB](http://www.mambers.com/showthread.php?t=21184) on [Mambers forums](http://www.mambers.com/), below is
+Follow [the 
 
 | A copy of this text…All credits to author |
 |---|

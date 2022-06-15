@@ -4,7 +4,7 @@ title: 'BEST homepage ever and tips'
 date: '2004-09-05T16:49:54+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1010'
+
 
 tags:
     - Techniques

@@ -4,7 +4,7 @@ title: 'Access to Joomla CVS forge using eclipse'
 date: '2006-03-23T19:41:47+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2391'
+
 
 header:
   teaser: /assets/images/2006/03/openperspective.jpg

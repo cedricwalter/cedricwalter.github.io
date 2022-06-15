@@ -4,7 +4,7 @@ title: 'Tux Droid Plugin for Jet Brains TeamCity 4.0'
 date: '2009-03-15T12:26:37+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4193'
+
 
 tags:
     - ci/cd

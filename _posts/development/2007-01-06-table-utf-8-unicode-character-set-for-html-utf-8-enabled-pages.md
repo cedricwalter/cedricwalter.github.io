@@ -4,7 +4,7 @@ title: 'Table UTF-8 Unicode Character Set &#8211; for HTML UTF-8 enabled pages.'
 date: '2007-01-06T14:03:19+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2827'
+
 
 tags:
     - java

@@ -4,7 +4,7 @@ title: '1.0.6 yesrterday and 1.0.7 today!'
 date: '2006-01-16T09:19:42+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2284'
+
 
 tags:
     - computer

@@ -4,7 +4,7 @@ title: 'Ranking civilization by their energy consumption'
 date: '2008-02-10T22:48:03+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3182'
+
 
 tags:
     - Physics

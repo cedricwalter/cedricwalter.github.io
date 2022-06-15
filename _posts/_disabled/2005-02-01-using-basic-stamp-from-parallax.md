@@ -4,7 +4,7 @@ title: 'Using Basic stamp from Parallax'
 date: '2005-02-01T20:22:36+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1552'
+
 
 header:
   teaser: /assets/images/2005/02/robot-parallax-boe-bots.jpg

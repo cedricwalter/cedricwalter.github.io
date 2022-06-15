@@ -4,7 +4,7 @@ title: 'I also get caught in the Spam infographics business'
 date: '2010-09-05T08:08:13+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=5967'
+
 
 header:
   teaser: /assets/images/2010/09/infographicinfographic1_thumb.jpg

@@ -5,7 +5,7 @@ date: '2018-04-01T12:34:19+02:00'
 author: 'Cédric Walter'
 categories:
 - blockchain
-guid: 'https://waltercedric.com/new/?p=8715'
+
 
 header:
   teaser: /assets/images/2005/11/hacker-textshirt.jpg

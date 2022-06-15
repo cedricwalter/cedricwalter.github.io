@@ -4,7 +4,7 @@ title: '2nd accident today'
 date: '2007-09-27T19:41:59+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3052'
+
 
 header:
   teaser: /assets/images/2007/09/accidents2.jpg

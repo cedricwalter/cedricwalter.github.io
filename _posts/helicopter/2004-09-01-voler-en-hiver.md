@@ -4,7 +4,7 @@ title: 'Voler en hiver'
 date: '2004-09-01T23:47:53+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=936'
+
 
 tags:
     - 'Astuces (fr)'

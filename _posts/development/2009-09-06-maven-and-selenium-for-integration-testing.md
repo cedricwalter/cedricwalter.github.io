@@ -4,7 +4,7 @@ title: 'Maven and Selenium for integration testing'
 date: '2009-09-06T09:59:03+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4611'
+
 
 tags:
     - apache

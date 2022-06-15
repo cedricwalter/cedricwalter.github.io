@@ -4,7 +4,7 @@ title: 'Scoop: the moon is made of cheese!'
 date: '2005-07-21T21:55:37+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1935'
+
 
 header:
   teaser: /assets/images/2005/07/moonphoto.jpg

@@ -4,7 +4,7 @@ title: 'My Home cinema&#8230; v1.0'
 date: '2006-11-25T20:57:36+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2762'
+
 
 header:
   teaser: /assets/images/2006/11/cedricHomeCinema.jpg

@@ -4,7 +4,7 @@ title: 'Defunct Scrum &#8211; A collection of everything wrong with Scrum.'
 date: '2010-09-08T19:35:48+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=5979'
+
 
 tags:
     - blogspot

@@ -4,7 +4,7 @@ title: 'Microsoft cops standards attack'
 date: '2005-04-19T19:44:14+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1693'
+
 
 tags:
 - conference

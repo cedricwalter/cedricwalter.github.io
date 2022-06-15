@@ -4,7 +4,7 @@ title: 'Percona XtraDB Storage Engine, scalling betten than innodb'
 date: '2009-02-19T19:29:52+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4170'
+
 
 ---
 

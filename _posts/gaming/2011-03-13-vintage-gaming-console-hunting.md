@@ -4,7 +4,7 @@ title: 'Vintage gaming console hunting'
 date: '2011-03-13T00:00:00+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=6349'
+
 
 header:
   teaser: /assets/images/2011/03/IMG_1426_thumb.jpg

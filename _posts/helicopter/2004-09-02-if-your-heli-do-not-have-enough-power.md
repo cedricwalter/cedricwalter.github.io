@@ -4,7 +4,7 @@ title: 'If your heli do not have enough power&#8230;.'
 date: '2004-09-02T22:02:48+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=948'
+
 
 tags:
     - 'RC helicopter'

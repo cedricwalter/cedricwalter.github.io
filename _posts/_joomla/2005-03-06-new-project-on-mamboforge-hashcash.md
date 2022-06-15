@@ -4,7 +4,7 @@ title: 'new project on mamboforge: Hashcash'
 date: '2005-03-06T21:59:31+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1607'
+
 
 tags:
     - cryptographic

@@ -4,7 +4,7 @@ title: '2.4GHz RC transmitter are the future'
 date: '2007-01-14T18:24:12+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2839'
+
 
 header:
   teaser: /assets/images/2020/07/Futaba-FF9-2.jpg

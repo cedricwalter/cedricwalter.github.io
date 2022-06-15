@@ -4,7 +4,7 @@ title: 'Improving the download section'
 date: '2011-04-26T21:36:50+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=6667'
+
 
 header:
   teaser: /assets/images/2011/04/joomla_download_user_friendly_thumb.png

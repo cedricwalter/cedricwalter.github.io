@@ -4,7 +4,7 @@ title: 'Why KDE desktop is for me superior than windows desktop'
 date: '2004-10-19T22:37:35+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1335'
+
 
 tags:
 - OpenSuse

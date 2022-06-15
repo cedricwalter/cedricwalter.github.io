@@ -4,7 +4,7 @@ title: Prototype
 date: '2005-01-20T21:43:24+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1513'
+
 
 header:
   teaser: /assets/images/2005/01/java-pattern-prototype.png

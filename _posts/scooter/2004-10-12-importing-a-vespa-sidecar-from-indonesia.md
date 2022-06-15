@@ -4,7 +4,7 @@ title: 'importing a vespa sidecar from indonesia'
 date: '2004-10-12T19:23:39+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1327'
+
 
 tags:
 - scooter

@@ -4,7 +4,7 @@ title: 'FSF releases the GNU General Public License, version 3'
 date: '2007-06-30T17:03:55+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2998'
+
 
 header:
   teaser: /assets/images/2007/06/gpl.v3.jpg

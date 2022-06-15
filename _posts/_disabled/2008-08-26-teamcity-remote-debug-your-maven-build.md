@@ -4,7 +4,7 @@ title: 'TeamCity remote debug your Maven build'
 date: '2008-08-26T20:17:40+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3724'
+
 
 header:
   teaser: /assets/images/2011/11/maven-logo-black-on-white-1.png

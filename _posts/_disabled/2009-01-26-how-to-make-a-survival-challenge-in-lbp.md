@@ -4,7 +4,7 @@ title: 'How to make a survival challenge in LBP!'
 date: '2009-01-26T22:09:05+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4061'
+
 
 header:
   teaser: /assets/images/2009/01/sackboy.jpg

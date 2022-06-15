@@ -5,10 +5,10 @@ date: '2020-03-31T12:28:50+02:00'
 author: 'Cédric Walter'
 categories:
 - travel
-guid: 'https://waltercedric.com/?p=11775'
 
-ngg_post_thumbnail:
-    - '0'
+
+
+    
 header:
   teaser: /assets/images/2020/03/Museumsinsel-Museum-Island-10.jpg
 tags:

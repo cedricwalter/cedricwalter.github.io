@@ -5,12 +5,13 @@ date: '2020-04-13T11:23:14+02:00'
 author: 'Cédric Walter'
 categories:
 - blockchain
-guid: 'https://waltercedric.com/?p=13010'
 
-ngg_post_thumbnail:
-    - '0'
+    
 header:
-  teaser: /assets/images/2020/04/Cryptocurrency-monnitor-unicorn-hat.jpg
+overlay_image: /assets/images/2020/04/Cryptocurrency-monnitor-unicorn-hat.jpg
+teaser: /assets/images/2020/04/Cryptocurrency-monnitor-unicorn-hat.jpg
+caption: "Cryptocurrency monitor with Unicorn HAT"
+
 tags:
     - bitcoin
     - cryptocurrency

@@ -4,10 +4,10 @@ title: 'Versus Virus Hackathon'
 date: '2020-04-07T11:28:19+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/?p=12543'
 
-ngg_post_thumbnail:
-    - '0'
+
+
+    
 header:
   teaser: /assets/images/2020/04/The-Selfish-Hamster.png
 tags:

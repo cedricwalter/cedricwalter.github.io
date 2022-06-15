@@ -4,7 +4,7 @@ title: 'Satellite views search engine'
 date: '2005-06-05T22:37:17+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1780'
+
 
 tags:
 - google

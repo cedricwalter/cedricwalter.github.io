@@ -4,7 +4,7 @@ title: 'J-1 for Eclipse Ganymede'
 date: '2008-06-24T22:21:58+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3492'
+
 
 header:
   teaser: /assets/images/2008/06/eclipse.ganymede_thumb.png

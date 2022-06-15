@@ -4,7 +4,7 @@ title: 'Upgrades I do own'
 date: '2004-09-08T23:35:18+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1173'
+
 
 tags:
     - expensive
@@ -25,7 +25,7 @@ tags:
 | **Carbon rod and servo mount**                                                                              | ![](/assets/images/2004/09/rt22.jpg)           | for using the JR 5700G + CSM 540                                                                                                                | [www.quickuk.com](http://www.quickuk.com/)30â&#130;¬   |
 | <span style="font-family: Arial, Helvetica, sans-serif; font-size: x-small;">**Tail Output Shaft + Pulley** | ![](/assets/images/2004/09/tailrotorshaft.jpg) | bought by the previous owner of the raptor                                                                                                      | [www.quickuk.com](http://www.quickuk.com/)10â&#130;¬   |
 | **Raptor 50 tank**                                                                                          | ![](/assets/images/2004/09/r50_tank01.jpg)     | a MUST for extending flight time, not exepensive upgrade.                                                                                       | [www.cyberheli.com](http://www.cyberheli.com/)7$       |
-| <span style="font-family: Arial, Helvetica, sans-serif; font-size: x-small;">**Tail Drive Belt Guide**      | ![](/assets/images/2004/09/tailrotorwheel.jpg) | bought by the previous owner of the raptor                                                                                                      | [www.quickuk.com](http://www.quickuk.com/)10â&#130;¬   |
+| <span style="font-family: Arial, Helvetica, sans-serif; font-size: x-small;">**Tail Drive Belt 
 | <span style="font-family: Arial, Helvetica, sans-serif; font-size: x-small;">**Tailboom Brace Set**         | ![](/assets/images/2004/09/rt051-5a.jpg)       | bought by the previous owner of the raptor                                                                                                      | [www.quickuk.com](http://www.quickuk.com/)10â&#130;¬   |
 | **OS46 or OS50 motor mount**                                                                                | ![](/assets/images/2004/09/46_Mount.jpg)       | needed to upgrade to raptor 50, bought by the previous owner of the raptor                                                                      | 20â&#130;¬                                             |
 | **Tank Header**                                                                                             | ![](/assets/images/2004/09/H5510B.JPG)         | avoid bubble.                                                                                                                                   | [www.quickuk.com](http://www.quickuk.com/)  20â&#130;¬ |

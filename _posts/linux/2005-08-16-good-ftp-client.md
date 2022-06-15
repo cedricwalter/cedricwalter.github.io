@@ -4,7 +4,7 @@ title: 'Good FTP client'
 date: '2005-08-16T23:49:04+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1997'
+
 
 tags:
     - OpenSuse

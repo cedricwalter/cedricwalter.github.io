@@ -4,7 +4,7 @@ title: 'Code committed to cvs.hashcash.mamboforge.net'
 date: '2005-08-18T20:14:59+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2002'
+
 
 tags:
     - background

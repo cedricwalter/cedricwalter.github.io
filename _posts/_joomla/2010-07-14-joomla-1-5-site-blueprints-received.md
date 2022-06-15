@@ -4,7 +4,7 @@ title: 'Joomla! 1.5 Site Blueprints received'
 date: '2010-07-14T19:56:33+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=5556'
+
 
 header:
   teaser: /assets/images/2010/07/Joomla1.5SiteBlueprints.jpg

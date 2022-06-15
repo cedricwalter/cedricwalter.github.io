@@ -4,7 +4,7 @@ title: GÃ©nÃ©ralitÃ©s
 date: '2004-09-01T23:38:43+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=916'
+
 
 tags:
     - 'Astuces (fr)'

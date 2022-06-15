@@ -4,7 +4,7 @@ title: 'Alternatives to Google Reader'
 date: '2013-03-18T20:46:05+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=7976'
+
 
 header:
   teaser: /assets/images/2013/03/googlereader_thumb.png

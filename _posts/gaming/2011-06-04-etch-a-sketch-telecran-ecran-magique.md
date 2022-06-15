@@ -4,7 +4,7 @@ title: 'Etch A Sketch / Telecran / Ecran Magique'
 date: '2011-06-04T11:04:49+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=6762'
+
 
 header:
   teaser: /assets/images/2011/06/Etch_A_Sketch_Telecran_00_thumb.jpg

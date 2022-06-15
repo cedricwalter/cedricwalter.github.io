@@ -4,7 +4,7 @@ title: 'mod_evasive howto step by step'
 date: '2006-08-22T22:39:00+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2688'
+
 
 tags:
     - security

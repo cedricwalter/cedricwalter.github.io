@@ -4,7 +4,7 @@ title: 'NHC: Notebook Hardware Control'
 date: '2006-04-23T18:36:10+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2475'
+
 
 tags:
     - 'PC and Hardware'

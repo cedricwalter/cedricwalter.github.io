@@ -4,7 +4,7 @@ title: 'Magnum Pleasure Hunt &#8211; creative advertising'
 date: '2011-06-04T17:53:33+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=6805'
+
 
 header:
   teaser: /assets/images/2011/06/pleasurehunt_mymagnum_com.jpg

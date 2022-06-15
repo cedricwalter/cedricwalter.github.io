@@ -4,7 +4,7 @@ title: 'Oracle ORA-00054: resource busy and acquire with NOWAIT specified or tim
 date: '2013-09-04T17:51:43+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=8155'
+
 
 ---
 

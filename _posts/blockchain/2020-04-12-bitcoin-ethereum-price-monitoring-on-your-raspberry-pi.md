@@ -5,10 +5,10 @@ date: '2020-04-12T11:58:56+02:00'
 author: 'Cédric Walter'
 categories:
 - blockchain
-guid: 'https://waltercedric.com/?p=12980'
 
-ngg_post_thumbnail:
-    - '0'
+
+
+    
 header:
   teaser: /assets/images/2020/04/bitcoin-monitor.png
 tags:

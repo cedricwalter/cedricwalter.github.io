@@ -4,7 +4,7 @@ title: 'Raptor 90 + top heli pilot = great video'
 date: '2007-01-14T16:42:48+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2837'
+
 
 enclosure:
     - "http://horizonhobby.cachefly.net/AlanSzabo_NewYear2006_flight.wmv\n0\nvideo/x-ms-wmv\n"

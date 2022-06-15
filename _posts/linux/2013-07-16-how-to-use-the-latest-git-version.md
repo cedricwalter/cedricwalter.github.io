@@ -4,7 +4,7 @@ title: 'How to use the latest Git version'
 date: '2013-07-16T20:58:16+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=8093'
+
 
 tags:
     - git

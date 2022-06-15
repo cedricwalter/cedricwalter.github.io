@@ -4,10 +4,10 @@ title: 'Install RabbitMQ on Microsoft Azure'
 date: '2020-10-21T20:40:47+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://www.waltercedric.com/?p=13736'
 
-ngg_post_thumbnail:
-    - '0'
+
+
+    
 header:
     teaser: /assets/images/2020/10/rabbitMQ.jpg
 tags:

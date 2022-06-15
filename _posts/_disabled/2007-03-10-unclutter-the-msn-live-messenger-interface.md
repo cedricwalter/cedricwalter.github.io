@@ -4,7 +4,7 @@ title: 'unclutter the MSN live messenger interface'
 date: '2007-03-10T13:20:07+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2899'
+
 
 header:
   teaser: /assets/images/2007/03/patch.messenger.live_.with_.apatch.gif

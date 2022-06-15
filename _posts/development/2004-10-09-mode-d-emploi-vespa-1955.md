@@ -4,7 +4,7 @@ title: 'Mode d emploi Vespa 1955'
 date: '2004-10-09T20:57:11+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1273'
+
 
 header:
   teaser: /assets/images/2016/07/vespa-acma-1954-13_2.jpg
@@ -32,11 +32,11 @@ Chassis : en tole de forme ouverte et caréne. Suspension des roues AV et AR : �
 - Rapport volumétrique 6,5 : 1
 - Transmission : directe du moteur à la roue arrière par l’intermèdiaire de l’embrayage, l’engrenage élastique et les engrenages du changement de vitesse.
 - Mise en marche : par pédale (kick-starter) à la droite du scooter.
-- Changement de vitesse -. trois vitesses avec engrenages en bain d’huile, toujours en contact. Commande par poigné à l’extrémité gauche du guidon, combiné avec l’embrayage.
-- Embrayage : à disques multiples en acier avec garniture de liège (lubrification abondante) commande au guidon par levier, transmission flexible réglable.
+- Changement de vitesse -. trois vitesses avec engrenages en bain d’huile, toujours en contact. Commande par poigné à l’extrémité gauche du 
+- Embrayage : à disques multiples en acier avec garniture de liège (lubrification abondante) commande au 
 - Allumage : par volant magnétique.
 - Eclairage et Avertisseur . par volant magnétique à courant alternatif alimentant le phare avant (trois é£lairages) et le feu arrière.
-- Freins à tambour : frein avant commandé par poigné à l’extrémité droite du guidon et câble, frein arrière commandé par pédale fixé sur le marchepied (droit).
+- Freins à tambour : frein avant commandé par poigné à l’extrémité droite du 
 - Roues : en tôles d’acier emboutie.
 - Pneus 3,50 x 8 (diamètre total du pneu 385 mm.). Les roues sont facilement démontables.
 - Fixation par goujons et écrous (système employé pour les automobiles). Les roues sont interchangeables.
@@ -45,7 +45,7 @@ Chassis : en tole de forme ouverte et caréne. Suspension des roues AV et AR : �
 - Consommation à vitesse économique ~ 2 litres aux 100
 - Vitesse maximum 70-75 km. heure.
 - Distance entre les axes de roues 1. 160 mm.
-- Largeur maximum du guidon 790 mm.
+- Largeur maximum du 
 - Longueur maximum du scooter 1.715 mm.
 - Hauteur maximum du scooter 1.040 mm.
 - Hauteur de la selle 760 mm.
@@ -55,7 +55,7 @@ Chassis : en tole de forme ouverte et caréne. Suspension des roues AV et AR : �
 
 ![](/assets/images/2004/09/b.jpg)
 
-Dispositif antivol : sur le chassis, prés du guidon, est aménagé une serrure antivol, qui bloque le scooter avec un tour de clé Â¥n tournant à fond le guidon vers la gauche jusqu’au déclic. Dans cette position, le scooter ne peut que tourner sur lui même. Le déblocage se fait par un tour de clé en sens inverse et en redressant le guidon voir fig. 3). Nous recommandons de ne pas lubrifier le dispositif antivol même en cas de fonctionnement défectueux. La clé ne doit absolument pas être retiré de la serrure pendant l’utilisation du scooter.
+Dispositif antivol : sur le chassis, prés du 
 
 ![](/assets/images/2004/09/c.jpg)
 

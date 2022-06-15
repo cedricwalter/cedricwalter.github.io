@@ -4,7 +4,7 @@ title: 'Joomtwitter a twitter module for Joomla!'
 date: '2009-06-12T23:32:40+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4398'
+
 
 header:
   teaser: /assets/images/2009/06/joomtwitter.revo_.png

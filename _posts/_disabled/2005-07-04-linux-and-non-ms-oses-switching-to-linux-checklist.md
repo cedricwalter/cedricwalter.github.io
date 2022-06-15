@@ -4,7 +4,7 @@ title: 'Linux And Non MS OSes &#8211; Switching To Linux Checklist'
 date: '2005-07-04T08:40:48+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1814'
+
 
 tags:
     - linux

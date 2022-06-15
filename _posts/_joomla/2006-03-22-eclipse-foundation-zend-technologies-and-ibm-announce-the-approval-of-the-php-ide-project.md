@@ -4,7 +4,7 @@ title: 'Eclipse Foundation, Zend Technologies, and IBM Announce the Approval of 
 date: '2006-03-22T20:51:46+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2382'
+
 
 tags:
     - joomla

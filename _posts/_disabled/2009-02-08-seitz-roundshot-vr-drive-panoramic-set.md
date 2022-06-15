@@ -4,7 +4,7 @@ title: 'Seitz Roundshot VR Drive Panoramic Set'
 date: '2009-02-08T14:44:57+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4122'
+
 
 header:
   teaser: /assets/images/2009/02/vr_drive_xl.jpg

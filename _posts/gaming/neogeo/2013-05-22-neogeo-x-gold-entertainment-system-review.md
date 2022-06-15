@@ -4,7 +4,7 @@ title: 'NEO GEO X Gold Entertainment System review'
 date: '2013-05-22T21:41:14+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=8037'
+
 
 header:
   teaser: /assets/images/2013/05/NeoGeoXGoldEntertainmentSystem-0005_thumb.jpg

@@ -4,13 +4,13 @@ title: 'register globals emulation off in Joomla!'
 date: '2006-09-04T20:47:47+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2698'
+
 
 ---
 
 [![joomla_cms](/assets/images/2006/01/joomla_cms_thumb.png "joomla_cms")](/assets/images/2006/09/joomla_cms.png)
 
-Following [security guidelines of the joomla mailing list](http://forum.joomla.org/index.php/topic,81058.0.html):
+Following [security 
 
 - Edit globals.php to turn #Joomla! register\_globals emulation off. Although #Joomla! emulation is safer than the PHP register\_globals directive, it’s best not to allow register\_globals at all. Beginning with PHP 6, this will not even be an option, and it’s about time. Here’s the correct setting for turning #Joomla!’s register\_globals emulation off:  
     <div class="quoteheader">Quote<div class="quote">define( ‘RG_EMULATION’, 0 ); Note that some extensions will not work correctly with register\_globals emulation off:   

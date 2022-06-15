@@ -4,7 +4,7 @@ title: 'Basic operations with XEN server: export, import of VM templates and gue
 date: '2010-07-23T21:55:45+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=5573'
+
 
 tags:
     - mount

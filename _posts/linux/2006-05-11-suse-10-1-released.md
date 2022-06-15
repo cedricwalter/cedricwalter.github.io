@@ -4,7 +4,7 @@ title: 'SuSE 10.1 released'
 date: '2006-05-11T20:22:27+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2526'
+
 
 header:
 teaser: /assets/images/2005/08/opensuse.gif

@@ -4,7 +4,7 @@ title: 'Sony Playstation (PS one)'
 date: '2010-09-22T18:20:43+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=6130'
+
 
 tags:
     - backup

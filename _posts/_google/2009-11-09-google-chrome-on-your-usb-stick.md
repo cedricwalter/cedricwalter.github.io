@@ -4,7 +4,7 @@ title: 'Google Chrome on your USB stick'
 date: '2009-11-09T17:22:06+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4859'
+
 
 header:
   teaser: /assets/images/2009/11/googlechrome.png

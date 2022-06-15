@@ -4,7 +4,7 @@ title: Singleton
 date: '2005-01-27T19:55:43+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1527'
+
 
 header:
   teaser: /assets/images/2005/01/java-pattern-singleton.png

@@ -4,7 +4,7 @@ title: 'PSP to TV Adapter'
 date: '2005-10-26T20:28:19+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2070'
+
 
 header:
   teaser: /assets/images/2005/10/psptv-gtech1.jpg

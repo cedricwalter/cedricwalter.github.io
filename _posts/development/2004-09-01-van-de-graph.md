@@ -4,7 +4,7 @@ title: 'Van De Graph'
 date: '2004-09-01T19:30:46+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=695'
+
 
 tags:
     - Electricity

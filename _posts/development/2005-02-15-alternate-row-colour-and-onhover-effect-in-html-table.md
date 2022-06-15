@@ -4,7 +4,7 @@ title: 'Alternate row colour and onhover effect in html table'
 date: '2005-02-15T21:01:12+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1579'
+
 
 ---
 

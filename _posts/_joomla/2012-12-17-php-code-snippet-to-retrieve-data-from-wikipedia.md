@@ -5,7 +5,7 @@ date: '2012-12-17T15:35:50+01:00'
 author: 'Cédric Walter'
 header:
     teaser: /assets/images/2012/12/PHP-logo.png
-guid: 'https://waltercedric.com/new/?p=7931'
+
 
 ---
 

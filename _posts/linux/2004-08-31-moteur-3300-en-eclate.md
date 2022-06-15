@@ -4,7 +4,7 @@ title: 'moteur 3300 en eclate'
 date: '2004-08-31T22:33:30+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=536'
+
 
 tags:
     - scooter

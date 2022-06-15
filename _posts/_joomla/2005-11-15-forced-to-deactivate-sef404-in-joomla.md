@@ -4,7 +4,7 @@ title: 'forced to deactivate SEF404 in Joomla'
 date: '2005-11-15T22:31:24+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2110'
+
 
 tags:
     - configuration

@@ -5,7 +5,7 @@ date: '2019-05-31T14:17:16+02:00'
 author: 'Cédric Walter'
 categories:
 - blockchain
-guid: 'https://waltercedric.com/new/?p=8753'
+
 
 tags:
 - blockchain
@@ -25,7 +25,8 @@ tags:
 - token
 ---
 
-[IEO is currently the most popular fundraising trend in the crypto industry](https://ieo.tokens-economy.com/). As the
+[IEO is currently the most popular fundraising trend in the crypto industry](https://ieo.tokens-economy.com/)
+As the
 name suggests, Initial Exchange Offering is conducted over the crypto trading platform and exchanges. So unlike ICOs
 wherein crypto projects directly approach investors, IEOs involve a third-party in the form of crypto exchanges.
 
@@ -49,7 +50,6 @@ The first crypto exchange was the Binance exchange launching its “Launchpad”
 
 Visit now [https://ieo.tokens-economy.com](https://ieo.tokens-economy.com/)
 
-# You may also like**
-
+# You may also like
 - [61 Security Token Offering (STO) analyzed](https://www.linkedin.com/pulse/security-token-offering-sto-statistics-c%C3%A9dric-walter/)
 - [600 Initial Token Offering (ICO) analyzed](https://www.linkedin.com/pulse/ico-statistics-2018-outlook-2019-c%C3%A9dric-walter/)

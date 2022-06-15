@@ -4,7 +4,7 @@ title: 'Plugin Photofeed for Joomla! 1.6'
 date: '2011-04-14T19:50:25+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=6598'
+
 
 tags:
     - extensions

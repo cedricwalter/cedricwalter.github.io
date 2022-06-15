@@ -4,7 +4,7 @@ title: 'Hitler gets angry about iPhone 4S'
 date: '2011-10-05T20:59:58+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=7210'
+
 
 tags:
     - funny

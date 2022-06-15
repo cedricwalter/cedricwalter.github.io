@@ -5,10 +5,10 @@ date: '2020-03-31T11:47:16+02:00'
 author: 'Cédric Walter'
 categories:
 - travel
-guid: 'https://waltercedric.com/?p=11678'
 
-ngg_post_thumbnail:
-    - '0'
+
+
+    
 header:
   teaser: /assets/images/2020/03/Vevey-vaud-switzerland-2.jpg
 tags:

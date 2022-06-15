@@ -4,7 +4,7 @@ title: 'Introduction to m2eclipse'
 date: '2009-05-06T13:21:35+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4317'
+
 
 header:
   teaser: /assets/images/2009/05/Introductiontom2eclipse_thumb.jpg

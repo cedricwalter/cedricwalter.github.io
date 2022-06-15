@@ -4,7 +4,7 @@ title: 'Twitter mania set of icons for your site'
 date: '2009-06-15T21:36:21+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4450'
+
 
 header:
   teaser: /assets/images/2009/06/cutetwittersrelease.jpg

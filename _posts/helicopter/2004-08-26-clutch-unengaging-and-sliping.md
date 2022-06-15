@@ -5,7 +5,7 @@ date: '2004-08-26T22:09:16+02:00'
 author: 'Cédric Walter'
 header:
     teaser: /assets/images/2004/08/kyosho_caliber_30_thumb.jpg
-guid: 'https://waltercedric.com/new/?p=145'
+
 
 tags:
     - increase

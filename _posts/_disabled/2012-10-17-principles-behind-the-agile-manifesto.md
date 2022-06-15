@@ -4,7 +4,7 @@ title: 'Principles behind the Agile Manifesto'
 date: '2012-10-17T19:07:44+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=7792'
+
 
 header:
   teaser: /assets/images/2012/10/PrinciplesBehindTheAgileManifesto_thumb.png

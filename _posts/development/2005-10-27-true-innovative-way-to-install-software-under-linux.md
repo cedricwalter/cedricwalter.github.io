@@ -4,7 +4,7 @@ title: 'true innovative way to install software under Linux'
 date: '2005-10-27T22:48:27+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2074'
+
 
 tags:
     - distribution

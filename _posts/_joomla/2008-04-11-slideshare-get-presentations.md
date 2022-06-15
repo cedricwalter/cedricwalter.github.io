@@ -4,7 +4,7 @@ title: 'SlideShare, get presentations'
 date: '2008-04-11T23:04:49+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3382'
+
 
 header:
   teaser: /assets/images/2008/04/f746463ee01b4aafa9fb74cda725d4bc.jpg

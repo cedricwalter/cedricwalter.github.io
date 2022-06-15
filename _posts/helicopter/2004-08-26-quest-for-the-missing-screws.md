@@ -4,7 +4,7 @@ title: 'Quest for the missing screws'
 date: '2004-08-26T21:42:15+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=88'
+
 
 header:
   teaser: /assets/images/2004/08/missingScrew1.jpg

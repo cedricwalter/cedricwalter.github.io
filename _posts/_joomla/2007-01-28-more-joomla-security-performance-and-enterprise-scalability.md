@@ -4,7 +4,7 @@ title: 'More  Joomla!  security,  performance and enterprise scalability?'
 date: '2007-01-28T19:12:49+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2855'
+
 
 tags:
     - joomla

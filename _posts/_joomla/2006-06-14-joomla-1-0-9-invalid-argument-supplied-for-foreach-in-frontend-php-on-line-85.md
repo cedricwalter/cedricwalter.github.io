@@ -4,7 +4,7 @@ title: 'Joomla 1.0.9  Invalid argument supplied for foreach() in frontend.php on
 date: '2006-06-14T11:19:33+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2651'
+
 
 tags:
     - joomla

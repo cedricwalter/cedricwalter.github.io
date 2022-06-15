@@ -5,7 +5,7 @@ date: '2013-03-05T21:36:20+01:00'
 author: 'Cédric Walter'
 header:
     teaser: /assets/images/2010/07/oracle_logo3.jpg
-guid: 'https://waltercedric.com/new/?p=7964'
+
 
 ---
 

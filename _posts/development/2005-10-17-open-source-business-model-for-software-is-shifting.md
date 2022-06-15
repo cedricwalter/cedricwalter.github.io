@@ -4,7 +4,7 @@ title: 'Open source: business model for software is shifting.'
 date: '2005-10-17T23:29:48+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2056'
+
 
 tags:
     - competition

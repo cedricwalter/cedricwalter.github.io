@@ -4,7 +4,7 @@ title: 'TomTom hacks page'
 date: '2005-12-04T19:13:25+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2193'
+
 
 tags:
 - background

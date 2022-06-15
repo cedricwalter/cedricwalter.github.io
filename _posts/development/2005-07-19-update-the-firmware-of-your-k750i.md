@@ -4,7 +4,7 @@ title: 'Update the firmware of your K750i'
 date: '2005-07-19T22:36:18+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1929'
+
 
 header:
   teaser: /assets/images/2005/07/goInSystemMenu-EricssonK750i.jpg

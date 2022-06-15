@@ -4,7 +4,7 @@ title: 'History and advices to novices'
 date: '2004-09-02T22:02:14+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=947'
+
 
 tags:
     - 'RC helicopter'

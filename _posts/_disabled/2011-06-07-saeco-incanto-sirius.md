@@ -4,7 +4,7 @@ title: 'Saeco Incanto Sirius'
 date: '2011-06-07T06:19:15+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=6829'
+
 
 header:
   teaser: /assets/images/2011/06/Saeco_Incanto_Sirius_00_thumb.jpg

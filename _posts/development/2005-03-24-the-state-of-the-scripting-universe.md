@@ -4,7 +4,7 @@ title: 'The State of the Scripting Universe'
 date: '2005-03-24T22:28:02+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1627'
+
 
 tags:
 - development

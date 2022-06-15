@@ -4,7 +4,7 @@ title: 'New to Joomla? what are the common 3rd party components, modules, mambot
 date: '2006-01-09T20:53:25+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2281'
+
 
 tags:
     - joomla

@@ -4,7 +4,7 @@ title: 'Related Articles for Joomla! reach version 2.0'
 date: '2009-12-24T11:41:27+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4911'
+
 
 header:
   teaser: /assets/images/2009/12/relatedArticles.ex1_thumb_2_680ddc89fe2aa77f2879e1a4647ecbef.png

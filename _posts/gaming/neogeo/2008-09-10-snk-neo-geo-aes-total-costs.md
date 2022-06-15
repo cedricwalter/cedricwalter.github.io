@@ -4,7 +4,7 @@ title: 'SNK NEO GEO AES total costs'
 date: '2008-09-10T22:50:26+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3765'
+
 
 header:
   teaser: /assets/images/2004/08/tn_NeoGeoAES.jpg

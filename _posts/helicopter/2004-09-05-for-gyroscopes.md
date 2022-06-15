@@ -4,7 +4,7 @@ title: 'For gyroscopes'
 date: '2004-09-05T16:56:31+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1012'
+
 
 header:
   teaser: /assets/images/2004/09/CSM_540_gyro.gif

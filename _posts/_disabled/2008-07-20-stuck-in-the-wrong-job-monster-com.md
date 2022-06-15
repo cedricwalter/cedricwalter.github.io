@@ -4,7 +4,7 @@ title: 'Stuck In The Wrong Job. Monster.com'
 date: '2008-07-20T21:57:23+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3565'
+
 
 header:
   teaser: /assets/images/2008/07/02_thumb.jpg

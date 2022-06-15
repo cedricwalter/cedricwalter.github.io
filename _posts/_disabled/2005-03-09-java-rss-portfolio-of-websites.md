@@ -4,7 +4,7 @@ title: 'Java RSS: portfolio of websites'
 date: '2005-03-09T19:55:16+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1617'
+
 
 tags:
 - convenience

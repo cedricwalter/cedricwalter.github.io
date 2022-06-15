@@ -4,7 +4,7 @@ title: 'Migration SecurityImages 4.X to SecurityImages 5.X how to'
 date: '2008-04-04T21:30:56+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3355'
+
 
 ---
 

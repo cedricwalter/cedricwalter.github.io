@@ -4,7 +4,7 @@ title: 'NEC develops ultra-thin battery for mobile'
 date: '2005-12-11T00:57:54+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2210'
+
 
 tags:
     - battery

@@ -4,7 +4,7 @@ title: 'Editorial: The open source developer profile'
 date: '2006-04-23T18:04:17+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2474'
+
 
 tags:
     - opensource

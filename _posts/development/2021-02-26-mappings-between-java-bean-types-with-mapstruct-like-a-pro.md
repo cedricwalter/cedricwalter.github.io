@@ -4,10 +4,10 @@ title: 'mappings between Java bean types with MapStruct like a pro!'
 date: '2021-02-26T19:57:44+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://www.waltercedric.com/?p=13837'
 
-ngg_post_thumbnail:
-    - '0'
+
+
+    
 header:
     teaser: /assets/images/2021/02/mapstruct-logo.png
 tags:

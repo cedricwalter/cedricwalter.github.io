@@ -4,7 +4,7 @@ title: 'Linux Compromised server checks checklist'
 date: '2013-09-11T13:24:10+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=8165'
+
 
 header:
   teaser: /assets/images/2011/05/linux.png

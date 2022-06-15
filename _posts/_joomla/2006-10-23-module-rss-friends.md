@@ -4,7 +4,7 @@ title: 'module RSS friends'
 date: '2006-10-23T10:59:14+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2730'
+
 
 header:
   teaser: /assets/images/2006/10/module_rssfriends.gif

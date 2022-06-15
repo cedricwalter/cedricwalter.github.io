@@ -4,7 +4,7 @@ title: 'JIRA &#038; Confluence for only $5 each!'
 date: '2009-04-20T20:11:01+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4278'
+
 
 header:
   teaser: /assets/images/2009/04/header_thumb.png

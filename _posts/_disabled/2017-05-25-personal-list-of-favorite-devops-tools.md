@@ -4,7 +4,7 @@ title: 'personal list of favorite DevOps tools'
 date: '2017-05-25T19:38:59+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=8625'
+
 
 tags:
 - ci/cd

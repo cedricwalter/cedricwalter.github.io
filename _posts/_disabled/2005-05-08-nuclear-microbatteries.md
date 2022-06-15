@@ -4,7 +4,7 @@ title: 'Nuclear microbatteries!'
 date: '2005-05-08T23:26:36+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1717'
+
 
 tags:
     - 'RC helicopter'

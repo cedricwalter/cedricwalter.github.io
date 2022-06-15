@@ -4,7 +4,7 @@ title: 'L&#8217;arnaque à la mode&#8230;'
 date: '2005-02-11T07:59:05+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1568'
+
 
 tags:
 - scooter

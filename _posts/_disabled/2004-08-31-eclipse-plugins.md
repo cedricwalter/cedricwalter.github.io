@@ -4,7 +4,7 @@ title: 'Eclipse Plugins'
 date: '2004-08-31T22:50:25+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=547'
+
 
 ---
 

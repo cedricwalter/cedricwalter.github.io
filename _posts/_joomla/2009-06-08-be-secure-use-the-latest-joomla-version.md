@@ -4,7 +4,7 @@ title: 'Be secure use the latest Joomla! version'
 date: '2009-06-08T10:38:04+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4387'
+
 
 header:
   teaser: /assets/images/2009/06/site.down_.hacked.jpg

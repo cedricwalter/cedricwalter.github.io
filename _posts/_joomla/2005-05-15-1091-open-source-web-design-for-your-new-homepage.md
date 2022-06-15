@@ -4,7 +4,7 @@ title: '1091 open source web design for Your new homepage!'
 date: '2005-05-15T15:48:41+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1722'
+
 
 tags:
 - community

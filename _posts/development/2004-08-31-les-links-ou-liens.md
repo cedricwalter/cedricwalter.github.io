@@ -4,7 +4,7 @@ title: 'Les Links ou liens'
 date: '2004-08-31T23:06:27+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=557'
+
 
 tags:
     - francais

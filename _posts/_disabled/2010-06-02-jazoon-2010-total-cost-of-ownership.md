@@ -4,7 +4,7 @@ title: 'JAZOON 2010 &#8211; Total Cost of Ownership'
 date: '2010-06-02T06:33:48+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=5228'
+
 
 tags:
     - cost

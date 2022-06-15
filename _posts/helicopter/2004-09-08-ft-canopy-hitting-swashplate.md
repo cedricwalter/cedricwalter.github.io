@@ -4,7 +4,7 @@ title: 'FT Canopy hitting swashplate'
 date: '2004-09-08T22:18:23+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1118'
+
 
 tags:
 - dangerous

@@ -4,7 +4,7 @@ title: 'TeamCity 4.5 up and running'
 date: '2009-04-27T19:41:16+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4303'
+
 
 ---
 

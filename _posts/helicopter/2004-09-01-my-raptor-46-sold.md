@@ -4,7 +4,7 @@ title: 'My Thunder Tiger Raptor 46 (sold)'
 date: '2004-09-01T22:27:34+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=732'
+
 
 header:
   teaser: /assets/images/2004/09/Thunder_Tiger_Raptor_46_thumb.jpg

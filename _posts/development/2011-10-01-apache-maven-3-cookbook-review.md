@@ -4,7 +4,7 @@ title: 'Apache Maven 3 Cookbook Review'
 date: '2011-10-01T09:08:05+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=7200'
+
 
 header:
   teaser: /assets/images/2011/11/maven-logo-black-on-white-1.png

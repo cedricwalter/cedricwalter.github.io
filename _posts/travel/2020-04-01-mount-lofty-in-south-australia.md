@@ -5,10 +5,10 @@ date: '2020-04-01T17:07:45+02:00'
 author: 'Cédric Walter'
 categories:
 - travel
-guid: 'https://waltercedric.com/?p=12469'
 
-ngg_post_thumbnail:
-    - '0'
+
+
+    
 header:
   teaser: /assets/images/2020/04/mount-lofty-in-south-australia-5.jpg
 tags:

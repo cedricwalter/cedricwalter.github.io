@@ -4,7 +4,7 @@ title: 'Google will have it own OS powered by Google Chrome and Linux'
 date: '2009-07-08T23:30:55+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4524'
+
 
 header:
   teaser: /assets/images/2009/07/chromelogo.png

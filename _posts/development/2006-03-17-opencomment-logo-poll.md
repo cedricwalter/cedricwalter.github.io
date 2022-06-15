@@ -4,7 +4,7 @@ title: 'OpenComment Logo Poll'
 date: '2006-03-17T11:58:27+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2373'
+
 
 tags:
     - background

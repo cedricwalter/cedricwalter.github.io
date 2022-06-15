@@ -5,10 +5,10 @@ date: '2020-03-31T12:32:51+02:00'
 author: 'Cédric Walter'
 categories:
 - travel
-guid: 'https://waltercedric.com/?p=11788'
 
-ngg_post_thumbnail:
-    - '0'
+
+
+    
 header:
   teaser: /assets/images/2020/03/Neptunbrunnen-3.jpg
 tags:

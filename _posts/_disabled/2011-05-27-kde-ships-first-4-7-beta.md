@@ -4,7 +4,7 @@ title: 'KDE Ships First 4.7 Beta'
 date: '2011-05-27T19:12:48+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=6733'
+
 
 header:
   teaser: /assets/images/2011/05/kde_4_7_thumb.png

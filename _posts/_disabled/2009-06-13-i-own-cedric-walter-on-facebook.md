@@ -4,7 +4,7 @@ title: 'I own cedric.walter on facebook'
 date: '2009-06-13T21:23:42+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4406'
+
 
 header:
   teaser: /assets/images/2009/06/www_facebook_com_cedric_walter.png

@@ -4,7 +4,7 @@ title: 'Starting ek4 engine'
 date: '2004-09-05T16:39:17+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1004'
+
 
 tags:
     - Techniques

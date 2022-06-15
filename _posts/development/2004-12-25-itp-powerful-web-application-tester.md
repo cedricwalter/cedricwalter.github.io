@@ -4,7 +4,7 @@ title: 'ITP &#8211; Powerful web application tester'
 date: '2004-12-25T13:45:22+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1450'
+
 
 tags:
 - building

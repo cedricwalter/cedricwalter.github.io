@@ -4,7 +4,7 @@ title: 'i am building my first mining rig'
 date: '2020-04-07T17:06:36+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=8656'
+
 
 header:
   teaser: /assets/images/2017/09/cryptomining-rig.jpg

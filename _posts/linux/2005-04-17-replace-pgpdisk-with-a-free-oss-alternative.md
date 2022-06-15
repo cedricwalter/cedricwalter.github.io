@@ -4,7 +4,7 @@ title: 'Replace PGPdisk with a free OSS alternative'
 date: '2005-04-17T17:35:27+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1690'
+
 
 tags:
 - algorithms

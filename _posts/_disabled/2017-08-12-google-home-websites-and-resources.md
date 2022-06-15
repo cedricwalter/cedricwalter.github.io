@@ -4,7 +4,7 @@ title: 'Google Home websites and resources'
 date: '2017-08-12T17:24:19+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=8646'
+
 
 header:
   teaser: /assets/images/2017/08/google-home.png

@@ -4,7 +4,7 @@ title: 'Quick UK alloy cooling fan'
 date: '2004-09-08T22:35:27+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1120'
+
 
 header:
   teaser: /assets/images/2004/09/ca3505.gif

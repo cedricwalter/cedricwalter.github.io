@@ -4,7 +4,7 @@ title: 'In case you miss it'
 date: '2009-06-14T15:11:00+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4415'
+
 
 header:
   teaser: /assets/images/2009/06/smugmug_logo_thumb.jpg

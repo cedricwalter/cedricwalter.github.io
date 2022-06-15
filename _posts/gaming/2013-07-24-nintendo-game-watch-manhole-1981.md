@@ -4,7 +4,7 @@ title: 'Nintendo Game &#038; Watch Manhole (1981)'
 date: '2013-07-24T17:39:45+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=8128'
+
 
 header:
   teaser: /assets/images/2013/07/NintendoGameWatchManhole_1981_-7_thumb.png

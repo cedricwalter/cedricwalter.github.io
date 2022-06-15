@@ -4,7 +4,7 @@ title: '100 most extraordinary threatened mammals'
 date: '2007-01-17T23:18:12+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2841'
+
 
 header:
   teaser: /assets/images/2007/01/header_edgeofexistene.org_.jpg

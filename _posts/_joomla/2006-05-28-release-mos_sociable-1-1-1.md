@@ -4,7 +4,7 @@ title: 'release mos_Sociable 1.1.1'
 date: '2006-05-28T21:59:00+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2632'
+
 
 header:
   teaser: /assets/images/2006/05/mosSociable1.0.0.png

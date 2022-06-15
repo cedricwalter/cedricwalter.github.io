@@ -4,7 +4,7 @@ title: 'The Alternative PHP Cache install'
 date: '2007-07-19T12:29:52+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3020'
+
 
 tags:
     - php

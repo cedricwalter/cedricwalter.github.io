@@ -4,7 +4,7 @@ title: 'Joomla 1.5.9 + VirtueMart 1.1.3 + SecurityImages 5.1.1'
 date: '2009-03-23T20:05:31+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4225'
+
 
 ---
 

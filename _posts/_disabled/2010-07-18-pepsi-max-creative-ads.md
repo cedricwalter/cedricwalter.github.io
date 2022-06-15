@@ -4,7 +4,7 @@ title: 'Pepsi Max creative ads'
 date: '2010-07-18T13:33:38+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=5558'
+
 
 tags:
     - ads

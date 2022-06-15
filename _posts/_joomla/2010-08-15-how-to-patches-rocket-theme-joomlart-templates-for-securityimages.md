@@ -4,7 +4,7 @@ title: 'How to patches Rocket Theme/JoomlArt templates for SecurityImages'
 date: '2010-08-15T16:11:24+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=5723'
+
 
 header:
   teaser: /assets/images/2010/08/rockettheme.png

@@ -4,7 +4,7 @@ title: 'New version of related Articles 1.5.1'
 date: '2008-12-15T20:23:06+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3978'
+
 
 header:
   teaser: /assets/images/2008/12/relatedarticlesforJoomla_thumb.png

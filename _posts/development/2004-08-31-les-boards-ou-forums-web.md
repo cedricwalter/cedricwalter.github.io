@@ -4,7 +4,7 @@ title: 'Les Boards ou forums Web'
 date: '2004-08-31T23:07:06+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=558'
+
 
 tags:
     - francais

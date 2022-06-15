@@ -4,7 +4,7 @@ title: 'Subversion and the importance of svn:ignore for MAVEN multi modules'
 date: '2009-03-20T20:08:55+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4201'
+
 
 header:
   teaser: /assets/images/2011/11/maven-logo-black-on-white-1.png

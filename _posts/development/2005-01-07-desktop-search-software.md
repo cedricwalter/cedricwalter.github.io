@@ -4,7 +4,7 @@ title: 'Desktop search software'
 date: '2005-01-07T22:38:34+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1463'
+
 
 header:
   teaser: /assets/images/2005/01/logoxp.gif"

@@ -4,7 +4,7 @@ title: 'People get smarter and things get faster! 2'
 date: '2005-03-08T21:26:11+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1613'
+
 
 header:
   teaser: /assets/images/2005/03/penquinWithIPodSmall.gif

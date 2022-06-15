@@ -4,7 +4,7 @@ title: 'Eclipse bundle: welcome Calisto'
 date: '2006-03-17T15:42:12+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2375'
+
 
 header:
   teaser: /assets/images/2006/03/section-java-eclipse.jpg

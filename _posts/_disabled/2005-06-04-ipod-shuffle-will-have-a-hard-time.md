@@ -4,7 +4,7 @@ title: 'Ipod shuffle will have a hard time'
 date: '2005-06-04T12:00:24+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1772'
+
 
 tags:
 - characteristics

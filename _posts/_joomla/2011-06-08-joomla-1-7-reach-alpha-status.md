@@ -4,7 +4,7 @@ title: 'Joomla 1.7 Reach Alpha Status'
 date: '2011-06-08T21:39:42+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=6853'
+
 
 header:
   teaser: /assets/images/2011/06/joomla_1_7_support.png

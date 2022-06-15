@@ -4,7 +4,7 @@ title: 'Swiss-Moto 2006 &#8211; Zurich Messe'
 date: '2006-02-18T23:10:17+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2307'
+
 
 tags:
     - gallery

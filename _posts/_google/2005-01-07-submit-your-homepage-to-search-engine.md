@@ -4,7 +4,7 @@ title: 'Submit Your homepage to search engine'
 date: '2005-01-07T18:56:01+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1456'
+
 
 tags:
     - directory

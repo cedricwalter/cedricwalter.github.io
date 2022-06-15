@@ -4,7 +4,7 @@ title: 'The Amazing Secrets Of Extra Sexual Perception'
 date: '2007-05-15T20:19:06+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2967'
+
 
 tags:
     - Publicity

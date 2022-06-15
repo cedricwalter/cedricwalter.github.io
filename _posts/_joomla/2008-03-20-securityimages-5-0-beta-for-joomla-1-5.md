@@ -4,7 +4,7 @@ title: 'SecurityImages 5.0 BETA for Joomla! 1.5'
 date: '2008-03-20T17:52:43+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3272'
+
 
 header:
   teaser: /assets/images/2008/03/index.php_thumb.jpg
@@ -15,7 +15,7 @@ header:
  **Beta to be released before end of week!** 
 
 # NEW:** No HTML warning, XHTML compliant   
-# NEW:** GPL v3 The FSF Compliance Lab has published [A Quick Guide to GPLv3](http://www.fsf.org/licensing/licenses/quick-guide-gplv3.html), a developer-friendly article explaining the new features and benefits of GPLv3. Be sure to check it out.   
+# NEW:** GPL v3 The FSF Compliance Lab has published [A Quick 
 # NEW**: full translation now possible of static pages about.html, developer.html and troubles.html   
 # NEW**: migration to #Joomla! 1.5 API, security, database factory, logging, installer -> reduction of code   
 # NEW**: unique language files following #Joomla! 1.5 convention (ini files)   

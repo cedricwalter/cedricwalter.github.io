@@ -4,7 +4,7 @@ title: 'Linux powering an ice cream machine'
 date: '2006-05-10T23:49:45+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2523'
+
 
 header:
 teaser: /assets/images/2006/05/moo_bella_balloons-thm.gif

@@ -3,9 +3,6 @@ id: 8482
 title: 'Scooter Vespa 1954 &#8211; De la Rouille au chrome&#8230;'
 date: '2004-07-25T09:40:27+02:00'
 author: 'Cédric Walter'
-
-guid: 'https://waltercedric.com/new/?p=8482'
-
 tags:
 
 - building
@@ -27,7 +24,8 @@ tags:
 
 ---
 
-#ACMA was founded on 25 November 1950 as Ateliers de construction de #motocycles et accessoires in Fourchambault, near
+# ACMA
+was founded on 25 November 1950 as Ateliers de construction de #motocycles et accessoires in Fourchambault, near
 Dijon, France. Production started in February 1951 with 20 workers building 200 #scooters. In April 1953, the 100,000th
 completed #Vespa left the ACMA works. In 1954, production of the 150,000th #Vespa was celebrated. It was also in 1954
 that the company modified its name to Ateliers de construction de motocycles et d’automobiles.
@@ -49,7 +47,6 @@ Roues usées, siège arrière “cuit” par l’âge, ailes abimées sur toute 
 Démontage de la coque et des différentes parties amovibles.
 
 [![](/assets/images/2016/07/vespa-acma-1954-5_2.jpg)](/assets/images/2016/07/vespa-acma-1954-5_2.jpg)
-
 Moteur déposé et tentative de décapage thermique de la peinture. Restauration du moteur : remisage de culasse, nouveau
 piston + bielle, joints, nettoyage, ponçage, peintures.
 
@@ -68,7 +65,7 @@ toutes les faces internes des pièces métalliques (Rustol+peintures). Bitumage 
 Débelossage + Mastic cellulosique sur les creux. Ponçage, Apprêt phosphatant antirouille. Ponçage, Ponçage, mastic de
 finition pour les détails.
 
-Le résultat final!
+# Le résultat final!
 
 [![](/assets/images/2016/07/vespa-acma-1954-13_2.jpg)](/assets/images/2016/07/vespa-acma-1954-13_2.jpg)
 

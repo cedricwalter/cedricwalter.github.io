@@ -4,7 +4,7 @@ title: 'The HTC Magic is an Android phone number 2'
 date: '2009-02-17T22:27:02+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4169'
+
 
 header:
   teaser: /assets/images/2009/02/android.g2.png

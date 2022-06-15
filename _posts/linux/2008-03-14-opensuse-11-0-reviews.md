@@ -4,7 +4,7 @@ title: 'OpenSuse 11.0 reviews'
 date: '2008-03-14T16:07:10+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3500'
+
 
 tags:
     - blogspot

@@ -4,7 +4,7 @@ title: 'Apache Maven profiles order in multi modules projects'
 date: '2010-08-07T17:27:10+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=5685'
+
 
 header:
   teaser: /assets/images/2011/11/maven-logo-black-on-white-1.png

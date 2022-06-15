@@ -4,7 +4,7 @@ title: 'Nintendo NES Games to play with NES Four Score'
 date: '2011-08-17T08:00:24+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=7030'
+
 
 header:
   teaser: /assets/images/2011/08/nintendo_nes_four_score_00_thumb.png

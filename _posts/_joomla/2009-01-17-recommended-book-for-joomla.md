@@ -4,7 +4,7 @@ title: 'Recommended Book for Joomla!'
 date: '2009-01-17T13:54:22+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4045'
+
 
 header:
   teaser: /assets/images/2009/01/joomla.web_.security.jpg

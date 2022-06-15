@@ -4,7 +4,7 @@ title: 'Free open source tethering software for Nikon/Canon DSLR cameras'
 date: '2013-05-23T21:29:53+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=8043'
+
 
 header:
   teaser: /assets/images/2013/05/digicamcontrol-dual-screen-live-view.jpg

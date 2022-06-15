@@ -4,7 +4,7 @@ title: 'Using your PS3 PlayStation Eye as a PC webcam'
 date: '2010-03-28T21:33:36+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=5107'
+
 
 header:
   teaser: /assets/images/2008/11/sony_playstation_eye.jpg

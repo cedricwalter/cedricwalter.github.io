@@ -4,7 +4,7 @@ title: 'Best heli for hard 3D?'
 date: '2004-09-03T12:11:23+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=985'
+
 
 tags:
 - 'RC helicopter'

@@ -1,11 +1,8 @@
 ---
 id: 479
-title: 'Manual in french'
+title: 'Manurhin SM-75 Manual in french'
 date: '2004-08-31T22:01:09+02:00'
 author: 'Cédric Walter'
-
-guid: 'https://waltercedric.com/new/?p=479'
-
 header:
   teaser: /assets/images/2004/08/pic1.jpg
 tags:
@@ -18,13 +15,13 @@ tags:
 
 Use a translation tool like babelfish if needed…
 
-# Manuel du scooter Manurhin SM75**
+# Manuel du scooter Manurhin SM75
 
 Translate this page
 
 N’ayant pas trouvé de copyright dans le manuel, ni aucun droit de reproduction, je me suis permit de le reproduire ici, pour le bien de la communauté. En vous souhaitant bonne restauration
 
-# REMARQUES TRÈS IMPORTANTES**   
+# REMARQUES TRÈS IMPORTANTES   
  IL NE FAUT-EN AUCUN CAS FAIRE TOURNER LE MOTEUR A L’ESSENCE PURE.  
  IL EST INDISPENSABLE D’AJOUTER A VOTRE ESSSENCE 5 °/, D’HUILE BP ENERGOL 2 TEMPS TYPE HV PENDANT LA PERIODE DE RODAGE. RAMENER ENSUITE LE POURCENTAGE A 4 %.  
  N’OUBLIEZ PAS QU’IL EST INDISPENSABLE DE FAIRE OPERER PAR UN CONCESSIONNNAIRE MANURHIN UNE REVISION DE LA MACHINE APRES LES PREMIERS 35 KILOMETRES, ET UNE AUTRE APRES 1.500 KM.  
@@ -41,7 +38,7 @@ Désignation
  Démontages, remontages, réglages   
  Pannes et leurs remèdes
 
-# AVANT-PROPOS**
+# AVANT-PROPOS
 
 Vous venez de faire l’acquisition d’un Scooter MANURHIN. Que vous soyez un néophyte ou un praticien, en tant qu’utilisateur de moto, cyclo ou autre engin motorisé, il est de votre intérêt de lire attentivement celte Notice.   
 Vous apprendrez connaître ainsi complètement votre machine, et vous arriverez. la conduire parfaitement dès votre première sortie.   
@@ -95,8 +92,8 @@ et variateur infinies
 Rapport du variateur Démultiplication roue motrice totale   
 1 :3,6 couple I :8,33
 
-# POSITION ET NATURE DES COMMANDÉS**   
-a) FREIN AV : Par levier sur guidon, transmission par câble et réglage par vis creuse et contre-écrou ;   
+# POSITION ET NATURE DES COMMANDÉS   
+a) FREIN AV : Par levier sur 
 b) FREIN AR : Par pédale dépassant du plancher, transmission I : 3,5 chaîne 1 :24.4   
 Avec des pneumatiques de 2,75/16 (dont la circonférence de roulement sous charge est de 1,725 mètre), la vitesse peut varier   
 par câble et réglage par vis creuse et contre-écrou.
@@ -112,8 +109,8 @@ MATERIAUX ET MODE DE CONSTRUCTION : Tôle d’acier emboutie.
 DIMENSIONS EXTERIEURES : Longueur maximum 1.960 mm.   
 Largeur maximum 0,610 mm.
 
-INDICATEUR DÉ VITESSE : Prise de flexible l’axe de la roue avant, cadran de lecture fixé sur guidon.   
-CHASSIS : Cadre en tube d’acier soudé – A l’avant fourche télescopique – A l’arrière bras oscillants élément élastique en caoutchouc – Siège-coussin en caoutchouc mousse – Guidon réglable.
+INDICATEUR DÉ VITESSE : Prise de flexible l’axe de la roue avant, cadran de lecture fixé sur 
+CHASSIS : Cadre en tube d’acier soudé – A l’avant fourche télescopique – A l’arrière bras oscillants élément élastique en caoutchouc – Siège-coussin en caoutchouc mousse – 
 
 5° SUSPENSION   
 ROUÉ AVANT : Fourche télescopique.   
@@ -133,7 +130,7 @@ b) A L’ARRIÉRÉ
 sous le N° AGR-TPV 109.
 
 6° DIRECTION   
-TYPÉ 1 par guidon et fourche.   
+TYPÉ 1 par 
 TRANSMISSION : Directe.   
 DÉMULTIPLICATION : I/I.   
 DIAMÈTRE DÉ BRAQUAGE HORS TOUT : 3 m
@@ -156,7 +153,7 @@ b) FREIN AR: pied – X – I 7,5
 AVERTISSEUR DÉ VILLE : Vibreur 12 volts.   
 INSCRIPTION DU TYPÉ ET DU N° D’ORDRE DANS LA SÉRIÉ Sur la partie supérieure du tube de châssis au-dessus du garde boue AV (côté droit).   
 INSCRIPTION N° DU MOTEUR. – Sur le carter AV, sous le carburateur, visible par la trappe d’accessibilité au moteur.   
-EMPLACEMENT DÉ LA PLAQUÉ CONSTRUCTEUR : Sous la selle. EMPLACEMENT DÉ LA PLAQUÉ D’IMMATRICULATION : A l’extrémité arrière de la carrosserie et 0,330 m. du sol. RÉTROVISEUR : Sur guidon.
+EMPLACEMENT DÉ LA PLAQUÉ CONSTRUCTEUR : Sous la selle. EMPLACEMENT DÉ LA PLAQUÉ D’IMMATRICULATION : A l’extrémité arrière de la carrosserie et 0,330 m. du sol. RÉTROVISEUR : Sur 
 
 1,51 : 1
 
@@ -171,20 +168,20 @@ COMMANDES DIVERSES
 
 2°) LÉ STARTER. – Il est constitué par un volet qui réduit l’eCrée d’air dans le carburateur ; on l’utilise lorsque le moteur est froid, afin de faciliter le départ en produisant un mélange riche ; pour cela, lever le petit levier dont l’extrémité sort de la grille de la porte mentionnée plus haut : le retour du volet sa position normale se produit automatiquement dès qu’on agit sur la poignée de commande des gaz. NE JAMAIS UTILISER LE STARTER LORSQUE LE MOTEUR EST CHAUD !
 
-3°) LE LEVIER DE DÉBRAYAGE. – Il se trouve l’extrémité gauche du guidon, en dessous de la poignée. Ce levier serf supprimer la liaison entre le moteur et la roue arrière, ce qui permet au moteur de tourner sans que la machine avance.   
+3°) LE LEVIER DE DÉBRAYAGE. – Il se trouve l’extrémité gauche du 
 Contrairement aux débrayages classiques, le débrayage du MANURHIN ne sert que pour démarrer ou s’arrêter : en effet, dès qu’on a démarré, il n’y a plus besoin de débrayer pour passer les vitesses, puisque le Variateur continu automatique évite cette manoeuvre ! Il n’y a pas d’autre moyen que ce levier pour supprimer la liaison entre le moteur et la roue arrière. Aussi pour lancer le moteur, il est nécessaire de le mettre en position de débrayage il est maintenu dans cette position par un cliquet situé sur le levier de débrayage.   
 1l est déconseillé de débrayer lorsque le moteur tourne plein régime. Fermez les gaz et ne débrayez qu’au dernier moment.
 
-4°) COMMUTATEUR. – Il se trouve sur le guidon en avant de la poignée de débrayage. Pour arrêter le moteur, il suffit de tourner la molette vers la droite, jusqu’ ce que le moteur ne tourne plus. Le même bouton commande également l’éclairage « veilleuse », « phare » et « croisement ». Pour l’avertisseur, appuyer sur le bouton.   
+4°) COMMUTATEUR. – Il se trouve sur le 
 5°) LA POIGNÉE DE MISE EN MARCHÉ DI MOTEUR. – Elle se trouve sur le côté gauche du véhicule, sert lancer le moteur. Pour cela, étant assis sur le scooter, apr avoir serré le levier de débrayage jusqu’ ce que celui-ci se bloqi avec son cliquet, il suffit de tirer rapidement la poignée vers le hai jusqu’ la hauteur de la selle environ. Ce mouvement entraîne moteur par l’intermédiaire d’un câble enroulé sur un tambour.   
 Eviter de mettre en route debout. Dans ce cas, si on ne pe faire autrement, éviter de tirer sur le câble A FOND ! Cette manse vre répétée peut la longue provoquer la rupture prématurée i câble de démarrage.   
 6°) LA BÉQUILLE. – Elle sert maintenir le scooter l’arrêt. On l’abaisse très facilement avec le pied, et lorsqu’elle < en position basse, le scooter tient parfaitement debout.   
 Avant de repartir, il suffit de repousser la béquille en arriè avec le pied – mouvement facilité par un ressort de rappel qui rabat dans sa position de route.   
 7°) FREIN AU PIED. – Le freinage de la roue arrU est commandé par une pédale qui se trouve sur le côté droit plancher.   
-8°) COMMANDÉ DÉS GAZ. – La commande des, 5 s’effectue par l’intermédiaire d’une poignée tournante qui se trou l’extrémité droite du guidon. En tournant la poignée vers l’arriè on ouvre l’arrivée des gaz dans le moteur auquel on donne ai plus de puissance ; en la tournant vers l’avant, on referme le p sage des gaz, ce qui ralentit le moteur.   
+8°) COMMANDÉ DÉS GAZ. – La commande des, 5 s’effectue par l’intermédiaire d’une poignée tournante qui se trou l’extrémité droite du 
 Grâce au Variateur continu, la simple rotation de la poignée p, met de régler la vitesse du MANURHIN. Sans autre manoeuvre, passera progressivement de la vitesse d’un homme au pas vitesse maximum possible, suivant l’effort vaincre.   
 Lorsque le moteur tourne au ‘ralenti la machine étant débrayé il faut éviter d’accélérer, car la butée de débrayage pourrait so frir d’une usure prématurée.   
-9°) FREIN A MAIN. – Le freinage de la roue avant commandé par une poignée qui se trouve l’extrémité droite guidon, sous la poignée des gaz.
+9°) FREIN A MAIN. – Le freinage de la roue avant commandé par une poignée qui se trouve l’extrémité droite 
 
 CONSEILS DE RODAGE   
 La précision de la fabrication MANURHIN et la finition parfaite de toutes les pièces en mouvement ont permis de supprimer pratiquement le rodage.   
@@ -300,12 +297,12 @@ Le schéma de l’installation électrique existante sur le MANURHIN est figuré
 
 Il s’agit ici d’un carburateur aiguille avec volet de, départ, fabrication BING, type 4/14/1. Lorsque le robinet d’essence est ouvert, le carburant pénètre dans la cuve niveau constant (3) en passant par un raccord en laiton (I) qui contient l’intérieur un tamis d’essence (2). L’arrivée de l’essence est réglée par un pointeau (5) actionné par le flotteur (4). Le carburant arrive ensuite dans le gicleur pointeau (7) en passant tout d’abord par la buse (6). La descente du piston, pendant la course d’admission, crée un vide partiel dans le cylindre, qui a pour effet d’aspirer l’essence, partir du gicleur pointeau, en même temps que l’air extérieur. Un mélange air et essence se forme dans la chambre (8).
 
-La quantité du mélange air-essence pénétrant dans le moteur, (donc sa vitesse et sa puissance), sont réglés d’un côté par le boisseau des gaz (9) actionné par l’intermédiaire du levier (13) et de l’autre côté par la position de l’aiguille (10). Plus vous tournez vers l’arrière la poignée des gaz située sur la guidon, plus le coulisseau des gaz s’ouvre, et plus le carburant pénètre dans la chambre (8) de mélange.
+La quantité du mélange air-essence pénétrant dans le moteur, (donc sa vitesse et sa puissance), sont réglés d’un côté par le boisseau des gaz (9) actionné par l’intermédiaire du levier (13) et de l’autre côté par la position de l’aiguille (10). Plus vous tournez vers l’arrière la poignée des gaz située sur la 
 
 Avec la vis (11 ) on règle la marche du moteur au ralenti. Le boisseau des gaz repose, en cas de ralenti, sur la pointe conique de cette vis. Une rotation vers la droite de cette vis soul
 
 ![](/assets/images/2004/08/pic6.jpg)  
-Le schÃ©ma de l’installation Ã©lectrique existante sur le MANURHIN est figurÃ©e sur notre dessin
+Le schéma de l’installation électrique existante sur le MANURHIN est figurée sur notre dessin
 
-| ![](/assets/images/2004/08/pic7.jpg) | \| \\| LE CARBURATEUR Il s’agit ici d’un carburateur Ã aiguille avec volet de, dÃ©part, fabrication BING, type 4/14/1. Lorsque le robinet d’essence est ouvert, le carburant pÃ©nÃ¨tre dans la cuve Ã niveau constant (3) en passant par un raccord en laiton (I) qui contient Ã l’intÃ©rieur un tamis d’essence (2). L’arrivÃ©e de l’essence est rÃ©glÃ©e par un pointeau (5) actionnÃ© par le flotteur (4). Le carburant arrive ensuite dans le gicleur Ã pointeau (7) en passant tout d’abord par la buse (6). La descente du piston, pendant la course d’admission, crÃ©e un vide partiel dans le cylindre, qui a pour effet d’aspirer l’essence, Ã partir du gicleur Ã pointeau, en mÃªme temps que l’air extÃ©rieur. Un mÃ©lange air et essence se forme dans la chambre (8).  La quantitÃ© du mÃ©lange air-essence pÃ©nÃ©trant dans le moteur, (donc sa vitesse et sa puissance), sont rÃ©glÃ©s d’un cÃ´tÃ© par le boisseau des gaz (9) actionnÃ© par l’intermÃ©diaire du levier (13) et de l’autre cÃ´tÃ© par la position de l’aiguille (10). Plus vous tournez vers l’arriÃ¨re la poignÃ©e des gaz situÃ©e sur la guidon, plus le coulisseau des gaz s’ouvre, et plus le carburant pÃ©nÃ¨tre dans la chambre (8) de mÃ©lange.  Avec la vis (11 ) on rÃ¨gle la marche du moteur au ralenti. Le boisseau des gaz repose, en cas de ralenti, sur la pointe conique de cette vis. Une rotation vers la droite de cette vis soul \\| \\|---\\|---\\| \| \|---\| |
+| ![](/assets/images/2004/08/pic7.jpg) | \| \\| LE CARBURATEUR Il s’agit ici d’un carburateur Ã aiguille avec volet de, départ, fabrication BING, type 4/14/1. Lorsque le robinet d’essence est ouvert, le carburant pénÃ¨tre dans la cuve Ã niveau constant (3) en passant par un raccord en laiton (I) qui contient Ã l’intérieur un tamis d’essence (2). L’arrivée de l’essence est réglée par un pointeau (5) actionné par le flotteur (4). Le carburant arrive ensuite dans le gicleur Ã pointeau (7) en passant tout d’abord par la buse (6). La descente du piston, pendant la course d’admission, crée un vide partiel dans le cylindre, qui a pour effet d’aspirer l’essence, Ã partir du gicleur Ã pointeau, en mÃªme temps que l’air extérieur. Un mélange air et essence se forme dans la chambre (8).  La quantité du mélange air-essence pénétrant dans le moteur, (donc sa vitesse et sa puissance), sont réglés d’un cÃ´té par le boisseau des gaz (9) actionné par l’intermédiaire du levier (13) et de l’autre cÃ´té par la position de l’aiguille (10). Plus vous tournez vers l’arriÃ¨re la poignée des gaz située sur la 
 |---|

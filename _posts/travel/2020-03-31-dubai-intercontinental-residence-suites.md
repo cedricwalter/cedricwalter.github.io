@@ -5,10 +5,10 @@ date: '2020-03-31T14:32:26+02:00'
 author: 'Cédric Walter'
 categories:
 - travel
-guid: 'https://waltercedric.com/?p=11874'
 
-ngg_post_thumbnail:
-    - '0'
+
+
+    
 header:
   teaser: /assets/images/2020/03/InterContinental-Residence-Suites-Dubai-18.jpg
 tags:

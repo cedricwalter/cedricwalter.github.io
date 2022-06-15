@@ -4,7 +4,7 @@ title: 'I’m myself, thanks.'
 date: '2008-06-25T00:39:13+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3503'
+
 
 header:
   teaser: /assets/images/2008/06/myselfcampaign_thumb.jpg

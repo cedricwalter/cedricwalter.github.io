@@ -4,7 +4,7 @@ title: 'Smugmug Badge module for Joomla'
 date: '2009-07-03T20:06:12+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4503'
+
 
 header:
   teaser: /assets/images/2009/07/smumug.badge_.joomla.01_thumb.png

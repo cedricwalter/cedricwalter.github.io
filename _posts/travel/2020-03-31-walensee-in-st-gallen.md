@@ -5,10 +5,10 @@ date: '2020-03-31T11:44:02+02:00'
 author: 'Cédric Walter'
 categories:
 - travel
-guid: 'https://waltercedric.com/?p=11672'
 
-ngg_post_thumbnail:
-    - '0'
+
+
+    
 header:
   teaser: /assets/images/2020/03/walensee-switzerland-4.jpg
 tags:

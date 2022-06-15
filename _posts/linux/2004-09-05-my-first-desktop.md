@@ -4,7 +4,7 @@ title: 'My first desktop'
 date: '2004-09-05T17:15:23+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1038'
+
 
 header:
   teaser: /assets/images/2004/09/myCurrentdesktop1.gif

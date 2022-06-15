@@ -4,7 +4,7 @@ title: 'Linux Kernel development figures'
 date: '2009-09-10T21:29:59+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4614'
+
 
 header:
   teaser: /assets/images/2011/05/linux.png

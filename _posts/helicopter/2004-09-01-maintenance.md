@@ -4,7 +4,7 @@ title: Maintenance
 date: '2004-09-01T23:46:31+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=932'
+
 
 header:
   teaser: /assets/images/2004/08/sm_doc_rouge.gif

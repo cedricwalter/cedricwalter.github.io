@@ -4,7 +4,7 @@ title: 'If You&#8217;re an assh.. the world will know it'
 date: '2006-06-08T22:54:39+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2639'
+
 
 ---
 

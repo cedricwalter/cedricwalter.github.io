@@ -4,7 +4,7 @@ title: 'PhotoWidget for Joomla approved at JED'
 date: '2009-08-01T10:34:27+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4566'
+
 
 header:
   teaser: /assets/images/2008/09/feed-icon.png

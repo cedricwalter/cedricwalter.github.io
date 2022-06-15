@@ -4,7 +4,7 @@ title: 'Today status of opencomment 3.0.0alpha'
 date: '2006-03-12T22:34:56+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2368'
+
 
 header:
   teaser: /assets/images/2006/03/tn_opencomment3.0.0-2006.03.12.gif

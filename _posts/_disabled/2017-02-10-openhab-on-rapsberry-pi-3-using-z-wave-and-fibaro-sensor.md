@@ -4,7 +4,7 @@ title: 'OpenHAB on rapsberry PI 3 using Z-Wave and Fibaro Sensor'
 date: '2017-02-10T09:11:52+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=8602'
+
 
 header:
   teaser: /assets/images/2017/02/OpenHAB-fibaro-z-wave-raspeberry.jpg

@@ -5,10 +5,10 @@ date: '2020-03-31T12:52:58+02:00'
 author: 'Cédric Walter'
 categories:
 - travel
-guid: 'https://waltercedric.com/?p=11821'
 
-ngg_post_thumbnail:
-    - '0'
+
+
+    
 header:
   teaser: /assets/images/2020/03/Berlin-Brandenburg-Gate-1.jpg
 tags:

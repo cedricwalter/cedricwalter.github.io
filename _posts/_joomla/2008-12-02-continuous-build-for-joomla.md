@@ -4,7 +4,7 @@ title: 'Continuous Build for Joomla'
 date: '2008-12-02T21:11:18+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3953'
+
 
 header:
   teaser: /assets/images/2012/02/joomla_logo_thumb.png

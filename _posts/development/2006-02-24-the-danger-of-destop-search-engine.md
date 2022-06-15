@@ -4,7 +4,7 @@ title: 'The danger of destop search engine&#8230;'
 date: '2006-02-24T15:33:29+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2323'
+
 
 header:
   teaser: /assets/images/2005/05/googledesktopsearchlogo.gif

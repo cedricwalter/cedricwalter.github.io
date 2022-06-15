@@ -4,7 +4,7 @@ title: 'Make your Linux server safer: remove SUID/SGID root settings from binari
 date: '2008-09-07T13:26:22+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3763'
+
 
 header:
   teaser: /assets/images/2011/05/linux.png

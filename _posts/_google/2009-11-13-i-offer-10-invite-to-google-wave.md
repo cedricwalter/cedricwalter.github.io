@@ -4,7 +4,7 @@ title: 'I offer 10 Invite to Google Wave'
 date: '2009-11-13T16:59:06+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4876'
+
 
 header:
   teaser: /assets/images/2009/11/wavelogo_thumb.png

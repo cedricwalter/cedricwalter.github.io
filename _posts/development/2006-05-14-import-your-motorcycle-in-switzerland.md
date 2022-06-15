@@ -4,7 +4,7 @@ title: 'Import Your motorcycle in Switzerland.'
 date: '2006-05-14T15:38:20+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2529'
+
 
 header:
 teaser: /assets/images/2006/05/honda-hornet-600cb_2004.05.03_02.jpg

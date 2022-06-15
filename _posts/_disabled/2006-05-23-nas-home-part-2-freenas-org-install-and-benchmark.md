@@ -4,7 +4,7 @@ title: 'NAS @ HOME part 2 freenas.org install and benchmark'
 date: '2006-05-23T23:19:36+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2562'
+
 
 tags:
     - 'PC and Hardware'

@@ -4,7 +4,7 @@ title: Antipatterns
 date: '2005-12-10T23:18:44+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2204'
+
 
 tags:
     - describes

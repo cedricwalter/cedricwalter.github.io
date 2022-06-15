@@ -4,7 +4,7 @@ title: 'Digital Persona Fingerprint driver site launched'
 date: '2006-02-19T11:27:33+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2308'
+
 
 header:
   teaser: /assets/images/2004/08/sensoroverall.jpg

@@ -4,7 +4,7 @@ title: 'Mozilla Firefox 1.0.6 &#8211; The future of the Mozilla browser'
 date: '2005-07-26T20:44:04+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1958'
+
 
 tags:
     - javascript

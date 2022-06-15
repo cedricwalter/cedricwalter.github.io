@@ -4,7 +4,7 @@ title: 'Joomla CMS GPL development news'
 date: '2005-10-25T21:20:57+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2067'
+
 
 tags:
     - installation

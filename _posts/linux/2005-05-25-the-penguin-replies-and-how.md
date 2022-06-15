@@ -4,7 +4,7 @@ title: 'The Penguin Replies And How!'
 date: '2005-05-25T18:01:04+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1763'
+
 
 header:
   teaser: /assets/images/2005/05/penguinComputingr.jpg

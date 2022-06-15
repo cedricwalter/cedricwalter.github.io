@@ -4,7 +4,7 @@ title: 'Aerogels are composed of 90-99.8% air'
 date: '2007-03-11T20:53:31+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2908'
+
 
 header:
   teaser: /assets/images/2007/03/200px-Aerogel_matches.jpg

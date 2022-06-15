@@ -4,7 +4,7 @@ title: 'GoogleBuzz module 1.1.0 for Joomla!'
 date: '2010-03-28T20:36:29+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=5092'
+
 
 header:
   teaser: /assets/images/2010/03/googleBuzz.small_thumb.png

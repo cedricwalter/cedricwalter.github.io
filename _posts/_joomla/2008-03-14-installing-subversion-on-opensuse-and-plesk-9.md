@@ -4,7 +4,7 @@ title: 'Installing Subversion on OpenSuse and Plesk 9'
 date: '2008-03-14T16:02:55+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4322'
+
 
 header:
   teaser: /assets/images/2009/05/subversion_logo384x332.png
@@ -58,7 +58,7 @@ And install the required package, at least subversion and subversion-server
 \# zypper in subversion  
 \# zypper in subversion-server
 
-Add a new group and user for more security (one user for every daemon with limited or no rights to do something else is a good Linux guideline!)
+Add a new group and user for more security (one user for every daemon with limited or no rights to do something else is a good Linux 
 
 \# groupadd svn  
 \# useradd -d /srv/svn -s /bin/false svn

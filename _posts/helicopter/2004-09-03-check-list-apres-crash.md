@@ -4,7 +4,7 @@ title: 'Check List après crash'
 date: '2004-09-03T12:40:32+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=990'
+
 
 tags:
 - Checklist

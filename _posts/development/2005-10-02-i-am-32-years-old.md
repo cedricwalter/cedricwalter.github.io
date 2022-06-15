@@ -4,7 +4,7 @@ title: 'I am 32 years old!'
 date: '2005-10-02T20:26:41+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2041'
+
 
 header:
   teaser: /assets/images/2005/10/happybirthday2005.gif

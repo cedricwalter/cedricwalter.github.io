@@ -4,7 +4,7 @@ title: 'Subscribe to RSS Feeds'
 date: '2009-10-24T21:41:10+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4825'
+
 
 header:
   teaser: /assets/images/2009/10/feediconorange.png

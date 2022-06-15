@@ -4,7 +4,7 @@ title: 'Oracle Please set ORACLE_UNQNAME to database unique name'
 date: '2012-04-12T20:48:29+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=7600'
+
 
 ---
 

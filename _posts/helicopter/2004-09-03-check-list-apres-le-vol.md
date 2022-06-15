@@ -4,7 +4,7 @@ title: 'Check List après le vol'
 date: '2004-09-03T12:38:27+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=988'
+
 
 tags:
 - Checklist

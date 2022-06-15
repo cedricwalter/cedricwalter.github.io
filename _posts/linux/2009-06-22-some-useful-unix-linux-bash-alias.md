@@ -4,7 +4,7 @@ title: 'Some useful Unix/Linux Bash alias'
 date: '2009-06-22T21:03:36+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4471'
+
 
 header:
   teaser: /assets/images/2011/05/linux.png

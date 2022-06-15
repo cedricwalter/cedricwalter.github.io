@@ -4,7 +4,7 @@ title: 'eCenter solutions'
 date: '2006-09-22T10:23:06+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2705'
+
 
 header:
   teaser: /assets/images/2006/09/ecentersolutions.jpg

@@ -4,7 +4,7 @@ title: 'cedTag 2.6.1 for J2.5 released for Joomla 2.5'
 date: '2013-01-07T19:47:57+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=7940'
+
 
 header:
   teaser: /assets/images/2012/05/cedTag.png
@@ -68,7 +68,7 @@ BUG: missing CSS style on ads top
 
 # Miscellaneous
 
-The whole code has been validated using PHP code guidelines PSR-0/PSR-1/PSR-2
+The whole code has been validated using PHP code 
 
 Your ideas are important, [feel free to contact me](http://www.waltercedric.com/contact.html) and ask for new features!
 

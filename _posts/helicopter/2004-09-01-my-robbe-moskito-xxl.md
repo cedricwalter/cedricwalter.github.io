@@ -4,7 +4,7 @@ title: 'My Robbe Moskito XXL'
 date: '2004-09-01T23:07:34+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=858'
+
 
 header:
   teaser: /assets/images/2004/09/bigview.JPG"

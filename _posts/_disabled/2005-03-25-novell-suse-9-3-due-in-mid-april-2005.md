@@ -4,7 +4,7 @@ title: 'Novell Suse 9.3 due in mid-april 2005'
 date: '2005-03-25T21:42:52+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1642'
+
 
 header:
   teaser: /assets/images/2005/03/susePROF93_box.gif

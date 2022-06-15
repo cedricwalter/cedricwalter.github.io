@@ -4,7 +4,7 @@ title: 'What&#8217;s new in version 1.1'
 date: '2005-08-26T19:42:39+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2016'
+
 
 header:
   teaser: /assets/images/2005/08/logobuginLogs.gif

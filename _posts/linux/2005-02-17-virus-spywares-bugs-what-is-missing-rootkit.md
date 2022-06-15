@@ -4,7 +4,7 @@ title: 'Virus, spywares, bugs what is missing? rootkit!'
 date: '2005-02-17T22:06:50+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1584'
+
 
 ---
 

@@ -4,7 +4,7 @@ title: 'PHP5 required for SecurityImages 4.3.0'
 date: '2008-03-06T17:32:27+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3230'
+
 
 ---
 
@@ -20,7 +20,7 @@ As [mentioned in this post on PHP.net](http://www.php.net/index.php#2007-07-13-1
 
  *The PHP development team hereby announces that support for PHP 4 will continue until the end of this year only. After 2007-12-31 there will be no more releases of PHP 4.4. We will continue to make critical security fixes available on a case-by-case basis until 2008-08-08. Please use the rest of this year to make your application suitable to run on PHP 5.*
 
-They also [link to a migration guide](http://www.php.net/manual/en/migration5.php) for users moving up from PHP4 to PHP5 including guides for the [PHP 5.0 to 5.1 switch](http://www.php.net/manual/en/migration51.php) and [the PHP 5.1 to 5.2 switch](http://www.php.net/manual/en/migration52.php).
+They also [link to a migration 
 
 \+ You can expect 25% more speed just by going to PHP5.
 

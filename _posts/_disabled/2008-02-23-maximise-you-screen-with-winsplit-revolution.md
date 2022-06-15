@@ -4,7 +4,7 @@ title: 'Maximise you screen with winsplit revolution'
 date: '2008-02-23T16:05:45+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3191'
+
 
 header:
   teaser: /assets/images/2008/02/winsplit.revolution.tray2_.jpg

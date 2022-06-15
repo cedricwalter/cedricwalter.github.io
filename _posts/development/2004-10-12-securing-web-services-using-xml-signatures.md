@@ -4,7 +4,7 @@ title: 'Securing Web services: Using XML signatures'
 date: '2004-10-12T16:59:25+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1277'
+
 
 tags:
 - commercial

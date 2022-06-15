@@ -4,7 +4,7 @@ title: 'Optimizing MySQL jdbc under windows using named pipe'
 date: '2007-10-01T21:48:33+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3071'
+
 
 header:
   teaser: /assets/images/2007/09/mysql.logo_.png

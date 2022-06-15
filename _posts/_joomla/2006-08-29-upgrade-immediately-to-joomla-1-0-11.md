@@ -4,7 +4,7 @@ title: 'Upgrade immediately to Joomla! 1.0.11'
 date: '2006-08-29T22:53:09+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2691'
+
 
 tags:
     - joomla

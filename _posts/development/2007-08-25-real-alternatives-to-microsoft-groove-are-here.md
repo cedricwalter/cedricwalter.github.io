@@ -4,7 +4,7 @@ title: 'Real alternatives to Microsoft Groove are HERE!'
 date: '2007-08-25T17:01:38+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3041'
+
 
 tags:
     - opensource

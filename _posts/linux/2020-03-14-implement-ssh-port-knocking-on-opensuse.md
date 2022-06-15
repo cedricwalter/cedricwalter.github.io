@@ -4,7 +4,7 @@ title: 'Implement SSH port knocking IN linux'
 date: '2020-03-14T15:57:15+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4507'
+
 
 header:
   teaser: /assets/images/2009/07/port.knocking.ssh_.linux_thumb.gif

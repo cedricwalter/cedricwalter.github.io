@@ -4,7 +4,7 @@ title: 'Free IBM book on migrating to desktop Linux'
 date: '2004-12-24T18:38:32+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1446'
+
 
 tags:
 - configuration

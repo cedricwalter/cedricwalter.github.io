@@ -5,7 +5,7 @@ date: '2004-12-04T13:53:21+01:00'
 author: 'Cédric Walter'
 categories:
 - travel
-guid: 'https://waltercedric.com/new/?p=1409'
+
 
 header:
   teaser: /assets/images/2020/04/italy-portovenere-06.jpg

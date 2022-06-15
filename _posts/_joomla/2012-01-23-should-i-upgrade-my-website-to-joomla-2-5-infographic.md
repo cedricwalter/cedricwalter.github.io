@@ -4,7 +4,7 @@ title: 'Should I Upgrade my Website To Joomla! 2.5? [Infographic]'
 date: '2012-01-23T20:09:49+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=7440'
+
 
 header:
   teaser: /assets/images/2012/01/upgrade_to_joomla25_thumb.png

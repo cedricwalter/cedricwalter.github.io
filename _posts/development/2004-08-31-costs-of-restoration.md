@@ -4,7 +4,7 @@ title: 'Costs of restoration'
 date: '2004-08-31T22:15:08+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=513'
+
 
 tags:
     - scooter
@@ -32,7 +32,7 @@ tags:
 | 200 boulons et 30 vis inox (Ecovis – Richwiller)                                                                                                                                                   | 11â&#130;¬         |
 | 3 chambres Ã air et 3 pneus flancs blancs (Fanatic scooters)                                                                                                                                       | 129â&#130;¬        |
 | Refaire la clé du neiman chez "Clé Minute" Dornach sans voir le barillet (car impossible a demonter)                                                                                             | 15â&#130;¬         |
-| Commutateur de guidon ( [www.retro-motos-pieces.com](http://www.retro-motos-pieces.com/) )                                                                                                         | 7,82â&#130;¬       |
+| Commutateur de 
 | Résonateur omega en inox de scooter pour atténuer le bruit. 2 brides de fabrication maison.                                                                                                      | 39â&#130;¬         |
 | Confection d'une douille en laiton (insert bougie de 18mm) et mise en place sur la culasse (le précedent bricolage infÃ¢me était réalisé avec un insert de type gaz !) (Riegert SA Richwiller) | 100,46â&#130;¬     |
 | Déglacage bloc monocylindre + confection bague de bielle diametre ext + 0.03m diametre int suivant axe chez Riegert SA Richwiller                                                                 | 70,18â&#130;¬      |

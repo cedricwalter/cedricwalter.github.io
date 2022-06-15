@@ -4,7 +4,7 @@ title: 'Version control and check latest'
 date: '2006-02-21T18:28:27+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2314'
+
 
 tags:
     - distribute

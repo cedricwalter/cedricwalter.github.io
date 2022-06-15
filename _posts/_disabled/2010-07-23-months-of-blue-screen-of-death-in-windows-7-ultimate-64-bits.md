@@ -4,7 +4,7 @@ title: 'Months of blue screen of death in Windows 7 Ultimate 64 bits'
 date: '2010-07-23T23:14:59+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=5631'
+
 
 tags:
     - installed

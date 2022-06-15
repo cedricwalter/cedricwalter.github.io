@@ -4,7 +4,7 @@ title: 'Microsoft Office vs. OpenOffice.org'
 date: '2006-04-09T10:56:36+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2444'
+
 
 header:
   teaser: /assets/images/2006/04/openoffice.gif

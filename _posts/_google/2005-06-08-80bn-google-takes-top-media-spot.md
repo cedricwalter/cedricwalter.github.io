@@ -4,7 +4,7 @@ title: '$80bn Google takes top media spot'
 date: '2005-06-08T18:54:45+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1783'
+
 
 tags:
 - google

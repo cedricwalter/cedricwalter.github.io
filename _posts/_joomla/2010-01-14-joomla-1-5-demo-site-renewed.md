@@ -4,7 +4,7 @@ title: 'Joomla! 1.5 Demo site renewed'
 date: '2010-01-14T18:08:59+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4952'
+
 
 header:
   teaser: /assets/images/2010/01/demo.server.joomla.extensions_thumb.png

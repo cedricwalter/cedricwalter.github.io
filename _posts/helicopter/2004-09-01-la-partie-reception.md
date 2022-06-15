@@ -4,7 +4,7 @@ title: 'La partie réception'
 date: '2004-09-01T23:41:15+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=920'
+
 
 tags:
     - 'Astuces (fr)'

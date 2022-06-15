@@ -5,7 +5,7 @@ date: '2008-01-16T19:08:35+01:00'
 author: 'Cédric Walter'
 categories:
 - travel
-guid: 'https://waltercedric.com/new/?p=3170'
+
 
 tags:
     - Australia

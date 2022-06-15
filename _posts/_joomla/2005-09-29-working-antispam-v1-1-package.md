@@ -4,7 +4,7 @@ title: 'Working antispam v1.1 package!'
 date: '2005-09-29T17:41:24+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2035'
+
 
 tags:
     - cryptographic

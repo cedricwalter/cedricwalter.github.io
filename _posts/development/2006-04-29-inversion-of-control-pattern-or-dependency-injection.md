@@ -4,7 +4,7 @@ title: 'Inversion of Control pattern or dependency injection'
 date: '2006-04-29T12:36:33+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2492'
+
 
 ---
 

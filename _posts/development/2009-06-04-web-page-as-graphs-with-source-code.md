@@ -4,7 +4,7 @@ title: 'Web page as Graphs with source code'
 date: '2009-06-04T21:23:20+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4373'
+
 
 header:
   teaser: /assets/images/2009/06/www.waltercedric.as_.graph_thumb.png

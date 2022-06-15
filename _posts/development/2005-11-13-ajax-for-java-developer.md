@@ -4,7 +4,7 @@ title: 'AJAX for Java developer'
 date: '2005-11-13T13:22:22+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2104'
+
 
 tags:
     - effectively

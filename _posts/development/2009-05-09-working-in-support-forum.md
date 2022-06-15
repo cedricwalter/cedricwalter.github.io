@@ -4,7 +4,7 @@ title: 'Working in support forum'
 date: '2009-05-09T11:26:13+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4323'
+
 
 header:
   teaser: /assets/images/2009/03/phpbb_logo.png

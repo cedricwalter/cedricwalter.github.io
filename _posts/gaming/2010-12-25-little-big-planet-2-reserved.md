@@ -4,7 +4,7 @@ title: 'Little Big Planet 2 reserved'
 date: '2010-12-25T21:44:30+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=6446'
+
 
 header:
   teaser: /assets/images/2010/12/Littlebigplanet2-boxart.jpg

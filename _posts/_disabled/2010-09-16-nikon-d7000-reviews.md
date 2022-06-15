@@ -4,7 +4,7 @@ title: 'Nikon D7000 reviews'
 date: '2010-09-16T17:34:48+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=6042'
+
 
 header:
   teaser: /assets/images/2010/09/nikon.d700.dslr_thumb.jpg

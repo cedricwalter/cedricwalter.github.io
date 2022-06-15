@@ -4,7 +4,7 @@ title: 'Officially licensed SackBoys (and SackGirls) plush will be available soo
 date: '2009-02-10T23:00:18+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4132'
+
 
 ---
 

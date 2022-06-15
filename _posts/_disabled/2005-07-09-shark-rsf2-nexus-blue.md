@@ -4,7 +4,7 @@ title: 'Shark RSF2 Nexus Blue'
 date: '2005-07-09T20:50:24+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1897'
+
 
 header:
   teaser: /assets/images/2010/12/Shark-RSF2-Nexus-Blue.jpg

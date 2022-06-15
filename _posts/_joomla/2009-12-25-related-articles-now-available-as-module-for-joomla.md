@@ -4,7 +4,7 @@ title: 'Related Articles now available as module for Joomla!'
 date: '2009-12-25T10:46:30+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4921'
+
 
 header:
   teaser: /assets/images/2009/12/relatedThumbItems_3.png

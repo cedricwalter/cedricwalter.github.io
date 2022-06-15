@@ -4,7 +4,7 @@ title: 'Keep your software stack up to date with the Apache Maven Versions Plugi
 date: '2010-08-28T13:57:28+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=5797'
+
 
 header:
   teaser: /assets/images/2011/11/maven-logo-black-on-white-1.png

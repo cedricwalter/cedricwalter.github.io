@@ -4,7 +4,7 @@ title: 'Security made easy, automatic scan and update of your installed applicat
 date: '2007-10-28T11:33:27+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3094'
+
 
 header:
   teaser: /assets/images/2007/10/secunia.psi_.scanning.pc_.jpg

@@ -4,7 +4,7 @@ title: 'XML-RPC for Joomla! 1.7'
 date: '2011-10-31T20:23:43+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=7244'
+
 
 header:
   teaser: /assets/images/2011/10/joomla_cms_thumb.png

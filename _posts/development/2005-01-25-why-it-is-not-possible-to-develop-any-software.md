@@ -4,7 +4,7 @@ title: 'Why it is not possible to develop any software &#8230;'
 date: '2005-01-25T20:11:40+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1523'
+
 
 ---
 

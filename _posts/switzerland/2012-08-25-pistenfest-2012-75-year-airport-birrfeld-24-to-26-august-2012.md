@@ -4,7 +4,7 @@ title: 'Pistenfest 2012 – 75 Year Airport Birrfeld 24 to 26. August 2012'
 date: '2012-08-25T21:38:34+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=7774'
+
 
 header:
   teaser: /assets/images/2012/08/helicopterflight_pistenfest.ch_.jpg

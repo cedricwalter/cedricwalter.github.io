@@ -4,7 +4,7 @@ title: 'Video Camera: using 2.4 GHz transmitter.'
 date: '2004-09-05T17:02:51+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1028'
+
 
 header:
   teaser: /assets/images/2004/09/boite.jpg

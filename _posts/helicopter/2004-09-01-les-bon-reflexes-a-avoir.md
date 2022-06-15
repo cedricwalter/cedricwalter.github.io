@@ -4,7 +4,7 @@ title: 'Les Bon reflexes à avoir&#8230;'
 date: '2004-09-01T23:44:53+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=927'
+
 
 tags:
 - 'Astuces (fr)'

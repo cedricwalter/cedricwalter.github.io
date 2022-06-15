@@ -4,7 +4,7 @@ title: 'socialsharing extension for Joomla! 1.6'
 date: '2011-04-20T21:26:17+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=6637'
+
 
 tags:
     - Download

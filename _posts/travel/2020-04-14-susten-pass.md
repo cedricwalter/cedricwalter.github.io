@@ -5,10 +5,10 @@ date: '2020-04-14T11:58:01+02:00'
 author: 'Cédric Walter'
 categories:
 - travel
-guid: 'https://waltercedric.com/?p=13128'
 
-ngg_post_thumbnail:
-    - '0'
+
+
+    
 header:
   teaser: /assets/images/2020/04/susten-pass-switzerland-8.jpg
 tags:

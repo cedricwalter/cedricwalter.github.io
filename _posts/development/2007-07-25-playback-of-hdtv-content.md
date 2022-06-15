@@ -4,7 +4,7 @@ title: 'Playback of HDTV content'
 date: '2007-07-25T11:35:45+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3030'
+
 
 tags:
     - gadget

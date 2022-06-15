@@ -4,7 +4,7 @@ title: 'Updating all my extensions to Joomla! 1.6'
 date: '2011-03-15T22:36:31+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=6594'
+
 
 ---
 

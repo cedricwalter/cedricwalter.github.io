@@ -4,7 +4,7 @@ title: 'Huge milestones: mysql 5.0 and Wine 0.9'
 date: '2005-10-25T19:13:36+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2066'
+
 
 header:
   teaser: /assets/images/2005/10/200px-MySQL.png

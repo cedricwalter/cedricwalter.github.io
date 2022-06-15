@@ -4,7 +4,7 @@ title: 'Securityimages 5.1.0 not installing with Joomla 1.5.8'
 date: '2008-11-21T13:52:52+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3932'
+
 
 header:
   teaser: /assets/images/2008/11/software.bug_thumb.jpg

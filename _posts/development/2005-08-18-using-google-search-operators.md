@@ -4,7 +4,7 @@ title: 'Using Google Search Operators'
 date: '2005-08-18T19:26:40+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2001'
+
 
 tags:
     - google
@@ -12,8 +12,8 @@ tags:
     - searching
 ---
 
-For users that know what they are searching for and want to have more from our friend Google… *[advanced operators](http://www.googleguide.com/advanced_operators.html)*, are query words that have special meaning to Google…here are some of them
+For users that know what they are searching for and want to have more from our friend Google… *[advanced operators](http://www.google
 
  # allinanchor:">**allinanchor:**</a>  # allintext:">**allintext:**</a>  # allintitle:">**allintitle:**</a>  # allinurl:">**allinurl:**</a>  # author:">**author:**</a>  # cache:">**cache:**</a>  # define:">**define:**</a>  **# filetype:">filetype:</a>**  # info:">**info:**</a>  # insubject:">**insubject:**</a>  # intext:">**intext:**</a>  # intitle:">**intitle:**</a>  # inurl:">**inurl:**</a>  # link:">**link:**</a>  # location:">**location:**</a>  # movie:">**movie:**</a>  # msgid:">**msgid:**</a>  # site:">**site:**</a>
 
-Read more at [Google Guide](http://www.googleguide.com/index.html), **Making searching even easier**
+Read more at [Google 

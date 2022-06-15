@@ -4,7 +4,7 @@ title: 'No update at the moment?'
 date: '2006-05-17T11:17:55+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2531'
+
 
 header:
   teaser: /assets/images/2006/05/busyman.jpg

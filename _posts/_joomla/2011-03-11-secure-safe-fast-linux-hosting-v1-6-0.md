@@ -4,7 +4,7 @@ title: 'Secure, Safe, Fast Linux Hosting v1.6.0'
 date: '2011-03-11T20:56:48+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=6583'
+
 
 header:
   teaser: /assets/images/2011/05/linux.png

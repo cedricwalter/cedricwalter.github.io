@@ -4,7 +4,7 @@ title: 'A lot of binary GPL/open source data'
 date: '2005-03-08T22:31:51+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1615'
+
 
 tags:
     - downloaded

@@ -4,7 +4,7 @@ title: 'Endless love'
 date: '2007-09-28T23:45:56+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3060'
+
 
 tags:
     - fantastic

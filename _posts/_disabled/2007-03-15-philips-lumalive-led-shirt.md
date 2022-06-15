@@ -4,7 +4,7 @@ title: 'Philips Lumalive LED Shirt'
 date: '2007-03-15T23:17:53+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2910'
+
 
 tags:
     - Fun

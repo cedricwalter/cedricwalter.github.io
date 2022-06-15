@@ -4,7 +4,7 @@ title: 'Preparing some Java certifications?'
 date: '2004-11-16T22:35:26+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1374'
+
 
 tags:
     - java
@@ -13,11 +13,11 @@ tags:
 
 Some links that may help You preparing the SUN java certification…
 
--  [Free SCBCD 1.3 Study Guide](http://java.boot.by/bcd-guide/)
+-  [Free SCBCD 1.3 Study 
  
 
-- [Free SCWCD 1.4 Study Guide](http://java.boot.by/wcd-guide/)
-- [Free SCDJWS 1.4 Study Guide](http://java.boot.by/wsd-guide/)
+- [Free SCWCD 1.4 Study 
+- [Free SCDJWS 1.4 Study 
 - [SCDJWS 1.4 Quiz<span style="font-family: verdana,arial;">](http://java.boot.by/wsd-quiz/)
-- [<span style="font-family: verdana,arial;">](http://java.boot.by/wsd-quiz/)[Free IBM Certified Associate Developer Study Guide](www.javaranch.com)
+- [<span style="font-family: verdana,arial;">](http://java.boot.by/wsd-quiz/)[Free IBM Certified Associate Developer Study 
 - [www.javaranch.com ](www.javaranch.com)and more precisely [HERE](http://saloon.javaranch.com/cgi-bin/ubb/ultimatebb.cgi?category=7)

@@ -4,7 +4,7 @@ title: 'Features, characteristics'
 date: '2004-09-05T16:36:29+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1003'
+
 
 header:
   teaser: /assets/images/2004/09/ek4big.gif

@@ -4,7 +4,7 @@ title: '2 wheels logistics'
 date: '2006-10-19T22:59:42+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2726'
+
 
 header:
   teaser: /assets/images/2006/10/2wheelsLogistics.jpg

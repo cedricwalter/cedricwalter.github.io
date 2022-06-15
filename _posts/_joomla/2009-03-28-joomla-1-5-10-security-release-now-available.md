@@ -4,7 +4,7 @@ title: 'Joomla 1.5.10 Security Release Now Available'
 date: '2009-03-28T15:02:35+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4232'
+
 
 header:
   teaser: /assets/images/2009/03/JoomlaLogoVertColor.png

@@ -4,7 +4,7 @@ title: 'Agile Product Ownership in a Nutshell'
 date: '2014-02-03T21:31:16+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=8183'
+
 
 ---
 

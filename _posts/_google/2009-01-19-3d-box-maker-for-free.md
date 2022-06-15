@@ -4,7 +4,7 @@ title: '3D box maker for free'
 date: '2009-01-19T23:40:21+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4052'
+
 
 header:
   teaser: /assets/images/2009/01/66c603fff852442aab3c7f426709d082.jpg

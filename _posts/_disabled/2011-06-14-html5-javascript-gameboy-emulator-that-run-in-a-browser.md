@@ -4,7 +4,7 @@ title: 'HTML5/JavaScript Gameboy Emulator that run in a browser'
 date: '2011-06-14T20:58:08+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=6885'
+
 
 header:
   teaser: /assets/images/2011/06/HTML5_JavaScript_Gameboy_Emulator.png

@@ -4,7 +4,7 @@ title: 'Google IO 2017 livestream &#038; social feed'
 date: '2017-05-16T21:17:33+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=8619'
+
 
 tags:
 - google

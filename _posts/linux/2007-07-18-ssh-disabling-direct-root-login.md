@@ -4,7 +4,7 @@ title: 'SSH Disabling Direct Root Login'
 date: '2007-07-18T21:34:27+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3018'
+
 
 tags:
     - security

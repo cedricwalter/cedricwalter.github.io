@@ -4,7 +4,7 @@ title: Decorator
 date: '2005-01-20T21:19:08+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1491'
+
 
 header:
   teaser: /assets/images/2005/01/java-pattern-decorator.png"

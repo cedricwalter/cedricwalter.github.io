@@ -4,7 +4,7 @@ title: 'Optimus keyboard: with oled keys!'
 date: '2005-07-17T16:30:21+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1923'
+
 
 header:
   teaser: /assets/images/2005/07/optimus-oled-keyboard.jpg

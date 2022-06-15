@@ -4,7 +4,7 @@ title: 'Google new service: Google Base'
 date: '2005-10-26T20:44:41+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2071'
+
 
 tags:
 - database

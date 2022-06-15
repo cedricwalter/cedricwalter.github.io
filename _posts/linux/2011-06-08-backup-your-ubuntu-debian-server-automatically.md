@@ -4,7 +4,7 @@ title: 'Backup Your Ubuntu/Debian Server Automatically'
 date: '2011-06-08T20:21:08+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=6845'
+
 
 header:
   teaser: /assets/images/2011/06/backup_debian_ubuntu_server.jpg

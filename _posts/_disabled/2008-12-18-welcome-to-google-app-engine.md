@@ -4,7 +4,7 @@ title: 'Welcome to Google App Engine'
 date: '2008-12-18T09:12:46+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3990'
+
 
 header:
   teaser: /assets/images/2008/12/appengine.gif.jpg
@@ -12,7 +12,7 @@ tags:
     - google
 ---
 
-I am IN! just got my invitation 2 hours ago… Visit the [Getting Started Guide](http://code.google.com/appengine/docs/gettingstarted/), the [FAQ](http://code.google.com/appengine/kb/), or the [Developer’s Guide](http://code.google.com/appengine/docs/)
+I am IN! just got my invitation 2 hours ago… Visit the [Getting Started 
 
 Unfortunately for me the only language supported now is Python 2.5, I would have prefer to use php or java
 

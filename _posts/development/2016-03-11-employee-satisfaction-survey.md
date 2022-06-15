@@ -4,7 +4,7 @@ title: 'Employee satisfaction survey'
 date: '2016-03-11T20:12:38+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=8333'
+
 
 header:
 teaser: /assets/images/2016/03/191583-strip-zoom_3.gif

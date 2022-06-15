@@ -4,7 +4,7 @@ title: 'How to Mount and Use an exFAT Drive on Linux'
 date: '2017-10-26T23:12:40+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=8688'
+
 
 header:
   teaser: /assets/images/2011/05/linux.png

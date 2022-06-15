@@ -4,7 +4,7 @@ title: 'moving or thinking of moving?'
 date: '2005-07-24T22:04:22+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1951'
+
 
 header:
   teaser: /assets/images/2005/07/housingmaps-using-google-maps.jpg

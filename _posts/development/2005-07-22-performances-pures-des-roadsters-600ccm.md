@@ -4,7 +4,7 @@ title: 'Performances pures des roadsters 600ccm'
 date: '2005-07-22T19:58:23+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1936'
+
 
 header:
   teaser: /assets/images/2006/05/honda-hornet-600cb_2004.05.03_02.jpg

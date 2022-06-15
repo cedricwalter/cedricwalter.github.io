@@ -4,7 +4,7 @@ title: 'More Canon EOS 7D reviews are online'
 date: '2009-11-12T17:59:35+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4873'
+
 
 header:
   teaser: /assets/images/2009/11/canon7d450.jpg

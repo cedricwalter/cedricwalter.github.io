@@ -4,7 +4,7 @@ title: 'Wishing you a merry Christmas and a happy and prosperous New Year 2019'
 date: '2018-12-29T20:17:05+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=8744'
+
 
 header:
   teaser: /assets/images/2013/12/merry-christmas-with-tree_thumb.gif

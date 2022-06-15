@@ -4,7 +4,7 @@ title: 'Google code search'
 date: '2006-10-07T10:27:20+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2715'
+
 
 header:
   teaser: /assets/images/2005/07/google-labs.gif

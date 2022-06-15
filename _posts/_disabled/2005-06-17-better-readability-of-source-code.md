@@ -4,7 +4,7 @@ title: 'Better readability of source code'
 date: '2005-06-17T23:52:30+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1799'
+
 
 tags:
     - homepage

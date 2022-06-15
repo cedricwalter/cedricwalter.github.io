@@ -4,7 +4,7 @@ title: Historique
 date: '2004-08-31T22:14:21+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=512'
+
 
 header:
   teaser: /assets/images/2004/08/d51.jpg

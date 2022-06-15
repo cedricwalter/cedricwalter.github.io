@@ -4,7 +4,7 @@ title: 'Dual Battery system'
 date: '2004-08-26T21:37:11+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=72'
+
 
 header:
   teaser: /assets/images/2004/08/1stc30DoubleAlim.jpg

@@ -4,7 +4,7 @@ title: 'Sony Playstation 2 (PS2)'
 date: '2010-09-22T21:06:03+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=6245'
+
 
 tags:
     - Collectibles

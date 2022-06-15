@@ -4,7 +4,7 @@ title: 'Joomla 1.5.15 Released'
 date: '2009-11-09T09:32:01+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4856'
+
 
 ---
 

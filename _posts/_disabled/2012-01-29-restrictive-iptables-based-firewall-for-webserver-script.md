@@ -4,7 +4,7 @@ title: 'Restrictive Iptables Based Firewall for Webserver script'
 date: '2012-01-29T18:53:06+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=7458'
+
 
 tags:
 - bash

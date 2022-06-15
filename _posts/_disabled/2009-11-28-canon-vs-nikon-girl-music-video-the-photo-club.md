@@ -4,7 +4,7 @@ title: 'Canon Vs Nikon, Girl music video, The Photo Club'
 date: '2009-11-28T11:12:59+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4884'
+
 
 ---
 

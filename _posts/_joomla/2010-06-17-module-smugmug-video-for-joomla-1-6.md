@@ -4,7 +4,7 @@ title: 'Module Smugmug Video for Joomla! 1.6'
 date: '2010-06-17T19:29:59+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=5357'
+
 
 header:
   teaser: /assets/images/2010/06/smumug.video_.for_.joomla.1.6_thumb.jpg

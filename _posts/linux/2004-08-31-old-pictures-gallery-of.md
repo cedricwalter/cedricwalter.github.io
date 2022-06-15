@@ -4,7 +4,7 @@ title: 'Old Pictures (gallery of)'
 date: '2004-08-31T21:56:50+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=472'
+
 
 header:
   teaser: /assets/images/2004/08/ManurhinMR75.jpg"

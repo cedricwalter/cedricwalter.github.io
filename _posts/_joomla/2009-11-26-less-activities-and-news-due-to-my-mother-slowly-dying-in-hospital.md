@@ -4,7 +4,7 @@ title: 'Less activities and news due to my mother slowly dying in hospital'
 date: '2009-11-26T18:00:15+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4883'
+
 
 ---
 

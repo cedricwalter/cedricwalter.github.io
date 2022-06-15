@@ -5,7 +5,7 @@ date: '2004-11-12T22:44:54+01:00'
 author: 'Cédric Walter'
 categories:
 - travel
-guid: 'https://waltercedric.com/new/?p=1367'
+
 
 header:
   teaser: /assets/images/2020/03/La-Torre-di-Pisa-1.jpg
@@ -39,11 +39,11 @@ The Square of miracle is made of four buildings:
 
 <iframe class="uagb-google-map__iframe" src="https://www.google.com/maps/embed/v1/place?key=AIzaSyAsd_d46higiozY-zNqtr7zdA81Soswje4&q=PISA&zoom=12" style="height:300px" title="Google Map for PISA"></iframe>## La Torre di Pisa
 
-- ![](/assets/images/2020/03/La-Torre-di-Pisa-5.jpg)<figcaption class="blocks-gallery-item__caption">italie</figcaption>
-- ![](/assets/images/2020/03/La-Torre-di-Pisa-1.jpg)<figcaption class="blocks-gallery-item__caption">italie</figcaption>
-- ![](/assets/images/2020/03/La-Torre-di-Pisa-2.jpg)<figcaption class="blocks-gallery-item__caption">italie</figcaption>
-- ![](/assets/images/2020/03/La-Torre-di-Pisa-3.jpg)<figcaption class="blocks-gallery-item__caption">italie</figcaption>
-- ![](/assets/images/2020/03/La-Torre-di-Pisa-4.jpg)<figcaption class="blocks-gallery-item__caption">italie</figcaption>
+- ![](/assets/images/2020/03/La-Torre-di-Pisa-5.jpg)
+- ![](/assets/images/2020/03/La-Torre-di-Pisa-1.jpg)
+- ![](/assets/images/2020/03/La-Torre-di-Pisa-2.jpg)
+- ![](/assets/images/2020/03/La-Torre-di-Pisa-3.jpg)
+- ![](/assets/images/2020/03/La-Torre-di-Pisa-4.jpg)
 
 Characteristics of the leaning Tower:
 
@@ -65,23 +65,23 @@ Pratical informations
 
 ## The Cathedral
 
-- ![](/assets/images/2020/03/pisa-cathedral-1.jpg)<figcaption class="blocks-gallery-item__caption">italie</figcaption>
-- ![](/assets/images/2020/03/pisa-cathedral-2.jpg)<figcaption class="blocks-gallery-item__caption">italie</figcaption>
-- ![](/assets/images/2020/03/pisa-cathedral-3.jpg)<figcaption class="blocks-gallery-item__caption">italie</figcaption>
-- ![](/assets/images/2020/03/pisa-cathedral-4.jpg)<figcaption class="blocks-gallery-item__caption">italie</figcaption>
-- ![](/assets/images/2020/03/pisa-cathedral-5.jpg)<figcaption class="blocks-gallery-item__caption">italie</figcaption>
-- ![](/assets/images/2020/03/pisa-cathedral-6.jpg)<figcaption class="blocks-gallery-item__caption">italie</figcaption>
-- ![](/assets/images/2020/03/pisa-cathedral-7.jpg)<figcaption class="blocks-gallery-item__caption">italie</figcaption>
-- ![](/assets/images/2020/03/pisa-cathedral-8.jpg)<figcaption class="blocks-gallery-item__caption">italie</figcaption>
-- ![](/assets/images/2020/03/pisa-cathedral-9.jpg)<figcaption class="blocks-gallery-item__caption">italie</figcaption>
-- ![](/assets/images/2020/03/pisa-cathedral-10.jpg)<figcaption class="blocks-gallery-item__caption">italie</figcaption>
-- ![](/assets/images/2020/03/pisa-cathedral-11.jpg)<figcaption class="blocks-gallery-item__caption">italie</figcaption>
-- ![](/assets/images/2020/03/pisa-cathedral-12.jpg)<figcaption class="blocks-gallery-item__caption">italie</figcaption>
-- ![](/assets/images/2020/03/pisa-cathedral-13.jpg)<figcaption class="blocks-gallery-item__caption">italie</figcaption>
-- ![](/assets/images/2020/03/pisa-cathedral-14.jpg)<figcaption class="blocks-gallery-item__caption">italie</figcaption>
-- ![](/assets/images/2020/03/pisa-cathedral-15.jpg)<figcaption class="blocks-gallery-item__caption">italie</figcaption>
-- ![](/assets/images/2020/03/pisa-cathedral-16.jpg)<figcaption class="blocks-gallery-item__caption">italie</figcaption>
-- ![](/assets/images/2020/03/pisa-cathedral-17.jpg)<figcaption class="blocks-gallery-item__caption">italie</figcaption>
+- ![](/assets/images/2020/03/pisa-cathedral-1.jpg)
+- ![](/assets/images/2020/03/pisa-cathedral-2.jpg)
+- ![](/assets/images/2020/03/pisa-cathedral-3.jpg)
+- ![](/assets/images/2020/03/pisa-cathedral-4.jpg)
+- ![](/assets/images/2020/03/pisa-cathedral-5.jpg)
+- ![](/assets/images/2020/03/pisa-cathedral-6.jpg)
+- ![](/assets/images/2020/03/pisa-cathedral-7.jpg)
+- ![](/assets/images/2020/03/pisa-cathedral-8.jpg)
+- ![](/assets/images/2020/03/pisa-cathedral-9.jpg)
+- ![](/assets/images/2020/03/pisa-cathedral-10.jpg)
+- ![](/assets/images/2020/03/pisa-cathedral-11.jpg)
+- ![](/assets/images/2020/03/pisa-cathedral-12.jpg)
+- ![](/assets/images/2020/03/pisa-cathedral-13.jpg)
+- ![](/assets/images/2020/03/pisa-cathedral-14.jpg)
+- ![](/assets/images/2020/03/pisa-cathedral-15.jpg)
+- ![](/assets/images/2020/03/pisa-cathedral-16.jpg)
+- ![](/assets/images/2020/03/pisa-cathedral-17.jpg)
 
 - Build start in 1064 under the order of Buschetto, a native of Pisa. An urn containing hist rest is behind the first arche on the left side of the monument.
 - The unfinished building was consecrated in the 12th century by the pope Gelasius II
@@ -93,10 +93,10 @@ Pratical informations
 
 ## The Baptistry
 
-- ![](/assets/images/2020/03/pisa-Baptistry-4.jpg)<figcaption class="blocks-gallery-item__caption">italie</figcaption>
-- ![](/assets/images/2020/03/pisa-Baptistry-1.jpg)<figcaption class="blocks-gallery-item__caption">italie</figcaption>
-- ![](/assets/images/2020/03/pisa-Baptistry-2.jpg)<figcaption class="blocks-gallery-item__caption">italie</figcaption>
-- ![](/assets/images/2020/03/pisa-Baptistry-3.jpg)<figcaption class="blocks-gallery-item__caption">italie</figcaption>
+- ![](/assets/images/2020/03/pisa-Baptistry-4.jpg)
+- ![](/assets/images/2020/03/pisa-Baptistry-1.jpg)
+- ![](/assets/images/2020/03/pisa-Baptistry-2.jpg)
+- ![](/assets/images/2020/03/pisa-Baptistry-3.jpg)
 
 - Created by Diotisalvi in 1152
 - Same design and materials as the Cathedral in construction
@@ -107,6 +107,6 @@ of St John the Baptist (reliefs 1th century)
 
 ## The church of Santa Maria della Spina
 
-<figure class="wp-container-16 wp-block-gallery-15 wp-block-gallery columns-2 is-cropped">- ![](/assets/images/2020/03/The-church-of-Santa-Maria-della-Spina-1.jpg)<figcaption class="blocks-gallery-item__caption">italie</figcaption>
-- ![](/assets/images/2020/03/The-church-of-Santa-Maria-della-Spina-2.jpg)<figcaption class="blocks-gallery-item__caption">italie</figcaption>
+<figure class="wp-container-16 wp-block-gallery-15 wp-block-gallery columns-2 is-cropped">- ![](/assets/images/2020/03/The-church-of-Santa-Maria-della-Spina-1.jpg)
+- ![](/assets/images/2020/03/The-church-of-Santa-Maria-della-Spina-2.jpg)
 

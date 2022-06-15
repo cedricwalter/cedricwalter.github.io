@@ -4,7 +4,7 @@ title: 'My 2 first Joomla! component in continuous build'
 date: '2009-04-22T19:29:25+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4291'
+
 
 header:
   teaser: /assets/images/2009/04/teamcity.joomla.png

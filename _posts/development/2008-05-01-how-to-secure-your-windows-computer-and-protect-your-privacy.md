@@ -4,7 +4,7 @@ title: 'How to Secure Your Windows Computer and Protect Your Privacy'
 date: '2008-05-01T21:40:23+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3437'
+
 
 header:
   teaser: /assets/images/2008/05/b72dde6a40a64e6cac28917ce17d9b34.jpg

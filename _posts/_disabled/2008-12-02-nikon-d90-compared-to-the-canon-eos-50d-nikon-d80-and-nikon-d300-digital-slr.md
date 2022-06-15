@@ -4,7 +4,7 @@ title: 'Nikon D90 compared to the Canon EOS 50D, Nikon D80, and Nikon D300 Digit
 date: '2008-12-02T22:52:15+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3959'
+
 
 header:
   teaser: /assets/images/2008/12/nikond300_thumb.jpg

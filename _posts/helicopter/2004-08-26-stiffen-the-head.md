@@ -4,7 +4,7 @@ title: 'Stiffen the Head'
 date: '2004-08-26T21:44:39+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=101'
+
 
 header:
   teaser: /assets/images/2004/08/rubberTubeStiffenHead.gif

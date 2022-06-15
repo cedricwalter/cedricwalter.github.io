@@ -4,7 +4,7 @@ title: 'Welcome to the install of opencomment 3.0.30 BETA'
 date: '2007-05-18T12:48:18+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2968'
+
 
 header:
   teaser: /assets/images/2006/03/opencomment-72.jpg

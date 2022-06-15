@@ -4,7 +4,7 @@ title: 'ISO Code 8859-1 (ISO-Latin 1)'
 date: '2005-07-13T20:49:28+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1921'
+
 
 ---
 

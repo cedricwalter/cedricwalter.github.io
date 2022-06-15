@@ -4,7 +4,7 @@ title: 'alternative to ACDSEE under Linux'
 date: '2004-10-10T15:44:14+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1275'
+
 
 tags:
 - possibility

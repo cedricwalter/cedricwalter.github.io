@@ -4,7 +4,7 @@ title: 'Security risk in securityimages'
 date: '2006-08-01T19:58:39+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2669'
+
 
 header:
   teaser: /assets/images/2006/08/thumb-hacker.jpg

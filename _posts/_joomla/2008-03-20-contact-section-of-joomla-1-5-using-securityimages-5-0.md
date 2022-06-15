@@ -4,7 +4,7 @@ title: 'Contact section of Joomla! 1.5 using SecurityImages 5.0'
 date: '2008-03-20T19:38:47+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3275'
+
 
 header:
   teaser: /assets/images/2008/03/contact.settings.securityimages.5.0_thumb.gif

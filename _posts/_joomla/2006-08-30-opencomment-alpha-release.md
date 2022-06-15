@@ -4,7 +4,7 @@ title: 'OpenComment alpha release'
 date: '2006-08-30T10:57:52+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2693'
+
 
 header:
   teaser: /assets/images/2006/03/opencomment.jpg

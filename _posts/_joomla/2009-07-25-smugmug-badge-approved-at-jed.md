@@ -4,7 +4,7 @@ title: 'Smugmug badge approved at JED'
 date: '2009-07-25T21:28:20+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4539'
+
 
 header:
   teaser: /assets/images/2009/07/7383.png

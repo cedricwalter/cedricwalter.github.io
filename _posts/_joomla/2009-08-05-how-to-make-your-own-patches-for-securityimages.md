@@ -4,7 +4,7 @@ title: 'HOW to make your own patches for securityimages'
 date: '2009-08-05T19:29:51+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4576'
+
 
 header:
   teaser: /assets/images/2009/08/patches.for_.securityimages.howto_.png

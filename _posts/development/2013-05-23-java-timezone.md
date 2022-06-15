@@ -4,7 +4,7 @@ title: 'Java TimeZone'
 date: '2013-05-23T20:58:04+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=8039'
+
 
 header:
   teaser: /assets/images/2020/03/java.jpg

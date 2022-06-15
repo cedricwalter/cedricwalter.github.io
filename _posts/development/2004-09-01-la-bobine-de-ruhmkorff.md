@@ -4,7 +4,7 @@ title: 'La bobine de Ruhmkorff'
 date: '2004-09-01T19:31:49+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=696'
+
 
 tags:
 - Electricity

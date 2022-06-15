@@ -4,7 +4,7 @@ title: 'Microsoft Vista BSoD'
 date: '2009-09-16T17:57:38+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4623'
+
 
 header:
   teaser: /assets/images/2009/09/MicrosoftVistaBSoD.jpg

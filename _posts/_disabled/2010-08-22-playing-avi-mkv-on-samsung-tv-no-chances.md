@@ -4,7 +4,7 @@ title: 'Playing AVI, MKV on Samsung TV? no chances'
 date: '2010-08-22T11:32:21+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=5733'
+
 
 header:
   teaser: /assets/images/2010/08/samsung.c8700.jpg

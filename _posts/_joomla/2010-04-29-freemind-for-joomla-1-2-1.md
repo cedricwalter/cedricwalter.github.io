@@ -4,7 +4,7 @@ title: 'Freemind for Joomla! 1.2.1'
 date: '2010-04-29T20:17:03+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=5175'
+
 
 tags:
     - java

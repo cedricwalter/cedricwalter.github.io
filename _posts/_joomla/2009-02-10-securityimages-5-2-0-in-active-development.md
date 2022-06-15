@@ -4,7 +4,7 @@ title: 'SecurityImages 5.2.0 in active development'
 date: '2009-02-10T23:56:08+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4149'
+
 
 ---
 

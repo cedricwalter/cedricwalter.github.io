@@ -4,7 +4,7 @@ title: 'Build Yourself a NAS  with openFiler'
 date: '2006-02-24T23:09:28+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2327'
+
 
 tags:
     - authentication

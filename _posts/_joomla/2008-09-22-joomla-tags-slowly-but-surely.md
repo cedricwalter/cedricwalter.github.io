@@ -4,7 +4,7 @@ title: 'Joomla tags, slowly but surely'
 date: '2008-09-22T23:18:47+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3849'
+
 
 ---
 

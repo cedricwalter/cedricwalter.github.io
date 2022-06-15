@@ -5,7 +5,7 @@ date: '2004-11-18T19:23:42+01:00'
 author: 'Cédric Walter'
 categories:
 - travel
-guid: 'https://waltercedric.com/new/?p=1376'
+
 
 header:
   teaser: /assets/images/2020/04/portofino-higher-point2.jpg

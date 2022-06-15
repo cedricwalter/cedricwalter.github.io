@@ -4,7 +4,7 @@ title: 'Logiciel OEM si je veut!!!'
 date: '2004-11-28T23:33:45+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1390'
+
 
 tags:
 - OpenSuse

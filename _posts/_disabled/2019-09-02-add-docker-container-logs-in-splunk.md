@@ -4,7 +4,7 @@ title: 'Add Docker container logs in Splunk'
 date: '2019-09-02T13:34:27+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=8764'
+
 
 header:
   teaser: /assets/images/2019/09/manage-container-resources.png

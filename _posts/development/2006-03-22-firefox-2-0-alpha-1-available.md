@@ -4,7 +4,7 @@ title: 'Firefox 2.0 alpha 1 available'
 date: '2006-03-22T23:11:16+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2383'
+
 
 tags:
     - community

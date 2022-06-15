@@ -4,7 +4,7 @@ title: 'Joomla 1.5.11 Security Release Now Available'
 date: '2009-06-03T21:40:19+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4349'
+
 
 ---
 

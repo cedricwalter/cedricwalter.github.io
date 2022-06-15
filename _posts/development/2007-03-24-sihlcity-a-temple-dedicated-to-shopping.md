@@ -4,7 +4,7 @@ title: 'SihlCity, a temple dedicated to shopping'
 date: '2007-03-24T21:50:51+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2951'
+
 
 header:
   teaser: /assets/images/2007/03/sihlcity.zurich.jpg

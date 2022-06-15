@@ -4,7 +4,7 @@ title: 'Random images Joomla! module for Smugmug'
 date: '2009-06-14T01:12:31+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4412'
+
 
 header:
   teaser: /assets/images/2009/06/smugmugrandom.png

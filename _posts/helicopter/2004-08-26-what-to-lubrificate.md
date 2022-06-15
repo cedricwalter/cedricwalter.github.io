@@ -4,7 +4,7 @@ title: 'What to lubrificate?'
 date: '2004-08-26T21:30:04+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=54'
+
 
 header:
   teaser: /assets/images/2004/08/What2Oil.gif

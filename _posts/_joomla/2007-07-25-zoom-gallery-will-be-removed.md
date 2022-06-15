@@ -4,7 +4,7 @@ title: 'Zoom gallery will be removed'
 date: '2007-07-25T17:18:33+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3032'
+
 
 header:
   teaser: /assets/images/2007/07/galleryLogo_sm.gif

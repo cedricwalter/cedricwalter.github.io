@@ -4,7 +4,7 @@ title: 'new KDE project: PHONON'
 date: '2006-04-29T12:01:51+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2488'
+
 
 header:
   teaser: /assets/images/2006/04/kde-phonon-project.png

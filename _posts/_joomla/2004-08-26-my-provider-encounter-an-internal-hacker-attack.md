@@ -4,7 +4,7 @@ title: 'My provider encounter an internal hacker attack'
 date: '2004-08-26T21:39:53+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=79'
+
 
 tags:
 

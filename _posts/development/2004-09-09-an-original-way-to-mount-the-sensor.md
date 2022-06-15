@@ -4,7 +4,7 @@ title: 'An original way to mount the sensor'
 date: '2004-09-09T22:18:10+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1212'
+
 
 header:
   teaser: /assets/images/2004/09/Field_Day_2004_005-.jpg

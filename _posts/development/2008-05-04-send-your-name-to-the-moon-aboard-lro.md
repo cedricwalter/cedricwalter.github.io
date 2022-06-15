@@ -4,7 +4,7 @@ title: 'Send Your Name to the Moon Aboard LRO!'
 date: '2008-05-04T14:34:00+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3444'
+
 
 header:
   teaser: /assets/images/2008/05/CedricWalterGoToMoon_thumb.png

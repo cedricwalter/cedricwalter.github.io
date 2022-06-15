@@ -4,7 +4,7 @@ title: 'Status of the ContinuousBuild4Joomla framework'
 date: '2009-01-25T19:38:21+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4059'
+
 
 header:
   teaser: /assets/images/2010/07/Joomla_Logo_3_914e43333ea82039f7b3e55ec287a04d.png

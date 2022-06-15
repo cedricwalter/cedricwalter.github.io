@@ -4,7 +4,7 @@ title: 'My ZFS NAS is dead and status'
 date: '2006-09-10T13:09:03+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2703'
+
 
 header:
   teaser: /assets/images/2006/09/front_view_nas-home.jpg

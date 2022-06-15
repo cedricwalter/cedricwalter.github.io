@@ -4,7 +4,7 @@ title: 'A big thank to the team of www.cineteck-fr.com'
 date: '2006-01-03T14:22:57+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2251'
+
 
 tags:
 - directory

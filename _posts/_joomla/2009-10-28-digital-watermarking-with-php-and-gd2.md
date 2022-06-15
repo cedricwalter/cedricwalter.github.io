@@ -4,7 +4,7 @@ title: 'Digital watermarking with PHP and GD2'
 date: '2009-10-28T19:23:03+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4853'
+
 
 tags:
     - bash

@@ -4,7 +4,7 @@ title: 'Installing PHPUnit / Selenium in XAMPP'
 date: '2008-12-31T14:08:56+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4007'
+
 
 header:
   teaser: /assets/images/2008/12/phpunitlogo_thumb.gif

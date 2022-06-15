@@ -4,7 +4,7 @@ title: 'VLC (Videolan) reach version 1.0'
 date: '2009-07-07T23:02:21+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4515'
+
 
 header:
   teaser: /assets/images/2009/07/videolan.1.0.png

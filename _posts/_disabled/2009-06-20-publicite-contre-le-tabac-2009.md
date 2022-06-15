@@ -4,7 +4,7 @@ title: 'Publicité contre le tabac 2009'
 date: '2009-06-20T00:35:55+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4463'
+
 
 ---
 

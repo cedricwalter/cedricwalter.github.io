@@ -4,7 +4,7 @@ title: 'Take gigantic panoramic with ease'
 date: '2007-09-28T23:36:54+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3059'
+
 
 header:
   teaser: /assets/images/2007/09/gigapan.jpg

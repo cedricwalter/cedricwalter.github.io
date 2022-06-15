@@ -4,7 +4,7 @@ title: 'Java 1.6 released'
 date: '2006-12-11T21:32:40+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2805'
+
 
 tags:
     - java

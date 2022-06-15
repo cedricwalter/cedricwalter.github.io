@@ -4,7 +4,7 @@ title: 'Send created pdf with javamail'
 date: '2007-09-30T12:16:33+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3061'
+
 
 header:
   teaser: /assets/images/2020/02/java.png

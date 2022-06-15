@@ -4,7 +4,7 @@ title: 'happy christmas!'
 date: '2005-12-25T14:42:12+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2240'
+
 
 header:
   teaser: /assets/images/2005/12/SeasonsGreetingsXmas.jpg

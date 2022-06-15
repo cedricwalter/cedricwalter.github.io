@@ -4,7 +4,7 @@ title: 'XREP projectile up to 30 meters'
 date: '2007-07-13T15:44:20+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3010'
+
 
 header:
   teaser: /assets/images/2007/07/xrep.electrical.bullet.from_.taser_.jpg

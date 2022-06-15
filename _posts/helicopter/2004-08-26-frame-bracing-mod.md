@@ -4,7 +4,7 @@ title: 'Frame bracing mod'
 date: '2004-08-26T21:45:39+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=106'
+
 
 header:
   teaser: /assets/images/2004/08/sol1.jpg

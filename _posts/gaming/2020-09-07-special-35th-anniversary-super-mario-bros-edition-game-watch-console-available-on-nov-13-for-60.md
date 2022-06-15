@@ -4,10 +4,10 @@ title: 'Special 35th Anniversary Super Mario Bros edition Game &#038; Watch cons
 date: '2020-09-07T18:51:30+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://www.waltercedric.com/?p=13653'
 
-ngg_post_thumbnail:
-    - '0'
+
+
+    
 header:
     teaser: /assets/images/2020/09/super-mario-35th-anniversary-game-and-watch-e1610896625125.png
 tags:

@@ -4,7 +4,7 @@ title: 'Forums Bombardier'
 date: '2005-06-26T10:57:42+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1804'
+
 
 header:
   teaser: /assets/images/2005/06/flag-French.gif

@@ -5,10 +5,10 @@ date: '2020-03-31T11:55:54+02:00'
 author: 'Cédric Walter'
 categories:
 - travel
-guid: 'https://waltercedric.com/?p=11693'
 
-ngg_post_thumbnail:
-    - '0'
+
+
+    
 header:
   teaser: /assets/images/2020/03/La-Tour-de-Peilz-switzerland-6.jpg
 tags:

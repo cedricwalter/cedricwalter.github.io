@@ -4,7 +4,7 @@ title: 'Fabriquer votre cabine de sablage pour presque rien&#8230;'
 date: '2004-09-09T21:53:08+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1193'
+
 
 header:
   teaser: /assets/images/2004/09/TN_Sablage1.JPG

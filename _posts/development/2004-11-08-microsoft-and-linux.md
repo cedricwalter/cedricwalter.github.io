@@ -4,7 +4,7 @@ title: 'Microsoft and Linux'
 date: '2004-11-08T20:58:47+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1344'
+
 
 tags:
     - computing

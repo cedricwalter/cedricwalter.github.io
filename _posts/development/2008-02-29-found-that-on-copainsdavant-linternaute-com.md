@@ -4,7 +4,7 @@ title: 'Found that on copainsdavant.linternaute.com'
 date: '2008-02-29T21:18:56+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3201'
+
 
 header:
   teaser: /assets/images/2008/02/ECOLE.PRINCIPALE.FROENINGEN.classe.CP_.1983.jpg

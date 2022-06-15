@@ -4,7 +4,7 @@ title: 'SecurityImages 4.0.1'
 date: '2006-11-12T19:12:34+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2756'
+
 
 header:
   teaser: /assets/images/2006/03/box_securityimages.jpg

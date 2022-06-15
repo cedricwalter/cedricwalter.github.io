@@ -4,7 +4,7 @@ title: 'Quick review of SuSE 10.0'
 date: '2005-10-11T22:08:38+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2055'
+
 
 tags:
     - OpenSuse

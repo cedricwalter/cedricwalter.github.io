@@ -4,7 +4,7 @@ title: 'HP calculator museum: Hewlett Packard HP 11C Scientific Calculator'
 date: '2016-09-04T12:07:26+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=8583'
+
 
 header:
   teaser: /assets/images/2016/09/cailculato-hp-11c_5_thumb.jpg
@@ -54,6 +54,6 @@ HP-11C
 
 [Wikipedia](https://en.wikipedia.org/wiki/Hewlett-Packard_Voyager_series#HP-11C) – [HP Museum 11C](http://www.hpmuseum.org/hp11c.htm) – [HP11C manual](media/hp-calculators/hp11c/c00503576-owner-hp11c-manual.pdf)
 
-<cite>[*Hewlett-Packard HP-11C Owner’s Handbook and Problem-Solving Guide*](http://h10032.www1.hp.com/ctg/Manual/c00503576.pdf) (PDF) (G ed.). Corvallis, Oregon, USA: [Hewlett-Packard Company](https://en.wikipedia.org/wiki/Hewlett-Packard_Company), Corvallis Division. November 1985. HP part-number 00011-90001. [Archived](http://web.archive.org/web/20151005115920/http://h10032.www1.hp.com/ctg/Manual/c00503576.pdf) (PDF) from the original on 2015-10-05.</cite>
+<cite>[*Hewlett-Packard HP-11C Owner’s Handbook and Problem-Solving 
 
 <cite>Markstein, Howard W. (March 1982). [“A look inside Hewlett-Packard’s HP-11C”](http://www.vcalc.net/hp-11.htm). *Electronic Packaging and Production Magazine*.</cite>

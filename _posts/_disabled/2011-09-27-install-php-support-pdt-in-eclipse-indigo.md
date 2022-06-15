@@ -4,7 +4,7 @@ title: 'Install PHP support PDT in Eclipse Indigo'
 date: '2011-09-27T21:13:31+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=7185'
+
 
 header:
   teaser: /assets/images/2011/06/eclipse_indigo_aka_3_7.png

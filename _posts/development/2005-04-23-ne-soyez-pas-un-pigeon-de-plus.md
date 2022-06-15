@@ -4,7 +4,7 @@ title: 'Ne soyez pas un pigeon&#8230;de plus'
 date: '2005-04-23T23:29:39+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1702'
+
 
 tags:
 - criminality

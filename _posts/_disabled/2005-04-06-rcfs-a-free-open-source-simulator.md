@@ -4,7 +4,7 @@ title: 'RCFS, a free open source simulator'
 date: '2005-04-06T20:36:45+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1663'
+
 
 tags:
 - 'RC helicopter'

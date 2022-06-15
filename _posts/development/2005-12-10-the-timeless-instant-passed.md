@@ -4,7 +4,7 @@ title: 'The timeless instant passed'
 date: '2005-12-10T23:21:28+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2206'
+
 
 ---
 

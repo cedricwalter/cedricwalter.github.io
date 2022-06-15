@@ -4,7 +4,7 @@ title: 'Tips and tricks'
 date: '2004-08-31T22:51:17+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=549'
+
 
 header:
   teaser: /assets/images/2004/08/construction.gif

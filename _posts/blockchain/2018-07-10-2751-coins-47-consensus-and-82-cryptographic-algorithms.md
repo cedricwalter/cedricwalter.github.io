@@ -5,7 +5,7 @@ date: '2018-07-10T21:30:55+02:00'
 author: 'Cédric Walter'
 categories:
 - blockchain
-guid: 'https://waltercedric.com/new/?p=8737'
+
 
 header:
   teaser: /assets/images/2018/07/consensus.tokens-economy.com-2.png

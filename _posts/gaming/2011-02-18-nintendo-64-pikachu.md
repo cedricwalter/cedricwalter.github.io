@@ -4,7 +4,7 @@ title: 'Nintendo 64 &#8211; Pikachu'
 date: '2011-02-18T21:26:40+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=6544'
+
 
 header:
   teaser: /assets/images/2011/02/IMG_3225_thumb.jpg

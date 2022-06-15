@@ -4,7 +4,7 @@ title: 'OpenComment recommended upgrade'
 date: '2007-06-26T21:32:47+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2994'
+
 
 header:
   teaser: /assets/images/2007/06/xajax.logo_.gif

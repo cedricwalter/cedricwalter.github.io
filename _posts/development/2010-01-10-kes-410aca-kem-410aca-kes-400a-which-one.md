@@ -4,7 +4,7 @@ title: 'KES-410ACA / KEM-410ACA / KES-400a which one?'
 date: '2010-01-10T10:28:33+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4948'
+
 
 header:
   teaser: /assets/images/2005/06/sony_playstation_ps3.jpg

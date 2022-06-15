@@ -4,7 +4,7 @@ title: 'Microsoft frowned at for smiley patent'
 date: '2005-07-26T17:37:36+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1957'
+
 
 tags:
     - compatible

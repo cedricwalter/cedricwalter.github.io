@@ -4,7 +4,7 @@ title: 'Building a new frame'
 date: '2004-09-01T22:40:43+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=761'
+
 
 header:
   teaser: /assets/images/2004/09/1000-0415.gif

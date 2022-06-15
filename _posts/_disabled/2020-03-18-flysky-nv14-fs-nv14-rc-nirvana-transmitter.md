@@ -4,10 +4,10 @@ title: 'Flysky NV14 FS-NV14 RC Nirvana Transmitter'
 date: '2020-03-18T18:13:38+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/?p=10588'
 
-ngg_post_thumbnail:
-    - '0'
+
+
+    
 header:
   teaser: /assets/images/2020/03/nirvana-nv14.jpg
 tags:

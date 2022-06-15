@@ -4,7 +4,7 @@ title: 'The latest hacking sport is'
 date: '2006-04-05T22:24:02+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2433'
+
 
 header:
 teaser: /assets/images/2006/04/sonic2Hacking.png

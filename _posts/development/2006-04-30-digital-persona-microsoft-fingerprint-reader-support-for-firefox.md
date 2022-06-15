@@ -4,7 +4,7 @@ title: 'Digital Persona, Microsoft fingerprint reader support for Firefox'
 date: '2006-04-30T10:26:40+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2493'
+
 
 ---
 

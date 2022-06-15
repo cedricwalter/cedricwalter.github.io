@@ -4,7 +4,7 @@ title: 'Module Popular Articles For Joomla with Thumbnails'
 date: '2011-10-31T21:49:44+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=7256'
+
 
 header:
   teaser: /assets/images/2011/10/joomla_cms_thumb.png

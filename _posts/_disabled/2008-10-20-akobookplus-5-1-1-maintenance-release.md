@@ -4,7 +4,7 @@ title: 'AkobookPlus 5.1.1 maintenance release'
 date: '2008-10-20T15:32:17+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3870'
+
 
 header:
   teaser: /assets/images/2008/10/AkobookPlus5.1.1_thumb.png

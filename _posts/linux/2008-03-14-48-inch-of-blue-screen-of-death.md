@@ -4,7 +4,7 @@ title: '48 inch of blue screen of death'
 date: '2008-03-14T10:10:11+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3265'
+
 
 header:
   teaser: /assets/images/2008/03/windows.xp_.blue_.screen.of_.death_.1_thumb.jpg

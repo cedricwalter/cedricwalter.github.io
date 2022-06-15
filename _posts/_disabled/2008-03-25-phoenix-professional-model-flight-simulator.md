@@ -4,7 +4,7 @@ title: 'Phoenix Professional Model Flight Simulator'
 date: '2008-03-25T22:00:21+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3308'
+
 
 header:
   teaser: /assets/images/2012/01/phoenixRc_header_thumb.png

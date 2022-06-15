@@ -4,7 +4,7 @@ title: 'VIM Cheat Sheet'
 date: '2013-07-25T20:30:29+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=8134'
+
 
 header:
   teaser: /assets/images/2011/02/wlEmoticon-smile.png
@@ -12,7 +12,7 @@ header:
 
  Essential for any advanced #Linux users or #Linux sys-admin ![Smile](/assets/images/2011/02/wlEmoticon-smile.png)
 
- The color coded Legend / Keys helps provide guidance for your experience level.
+ The color coded Legend / Keys helps provide 
 
 - Green = Essential
 - Yellow = Basic

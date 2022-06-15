@@ -4,7 +4,7 @@ title: 'Anne Walter 4 Avril 1941  † Mardi 27 Juin 2017'
 date: '2017-07-05T13:59:07+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=8644'
+
 
 header:
   teaser: /assets/images/2017/07/tata-anne-walter.jpg

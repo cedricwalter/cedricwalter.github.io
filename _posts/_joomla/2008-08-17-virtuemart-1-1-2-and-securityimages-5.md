@@ -4,7 +4,7 @@ title: 'VirtueMart 1.1.2 and SecurityImages 5'
 date: '2008-08-17T18:36:46+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3694'
+
 
 header:
   teaser: /assets/images/2008/08/header_logo_thumb.png

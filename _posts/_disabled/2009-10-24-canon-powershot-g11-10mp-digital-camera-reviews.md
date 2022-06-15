@@ -4,7 +4,7 @@ title: 'Canon PowerShot G11 10MP Digital Camera reviews'
 date: '2009-10-24T22:10:58+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4829'
+
 
 header:
   teaser: /assets/images/2009/10/canon.g11.jpg

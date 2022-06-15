@@ -4,7 +4,7 @@ title: 'Maven multi module support in M2Eclipse'
 date: '2008-08-15T18:39:08+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3685'
+
 
 header:
   teaser: /assets/images/2011/11/maven-logo-black-on-white-1.png

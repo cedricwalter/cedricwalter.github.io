@@ -4,7 +4,7 @@ title: 'Sorry for the instability of my homepage'
 date: '2006-08-16T18:16:32+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2681'
+
 
 header:
   teaser: /assets/images/2004/11/homer_simpson_404.gif

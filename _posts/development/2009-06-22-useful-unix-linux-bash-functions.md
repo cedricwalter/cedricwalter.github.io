@@ -4,7 +4,7 @@ title: 'Useful Unix/Linux bash functions'
 date: '2009-06-22T20:41:52+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4470'
+
 
 header:
   teaser: /assets/images/2011/05/linux.png

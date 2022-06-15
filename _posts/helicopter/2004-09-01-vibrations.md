@@ -4,7 +4,7 @@ title: Vibrations
 date: '2004-09-01T23:43:29+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=925'
+
 
 tags:
     - 'Astuces (fr)'

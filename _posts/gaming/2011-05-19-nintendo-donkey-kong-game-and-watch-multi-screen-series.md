@@ -4,7 +4,7 @@ title: 'Nintendo Donkey Kong Game and Watch Multi Screen series'
 date: '2011-05-19T20:24:02+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=6701'
+
 
 header:
   teaser: /assets/images/2011/05/Nintendo_Donkey_Kong_GameAndWatch_01_thumb.jpg

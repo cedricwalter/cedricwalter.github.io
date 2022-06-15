@@ -4,7 +4,7 @@ title: 'Super Servos'
 date: '2004-09-01T23:34:49+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=913'
+
 
 tags:
     - 'RC helicopter'

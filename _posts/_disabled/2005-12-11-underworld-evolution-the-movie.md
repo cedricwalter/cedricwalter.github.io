@@ -4,7 +4,7 @@ title: 'Underworld Evolution: the movie'
 date: '2005-12-11T22:48:33+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2212'
+
 
 header:
   teaser: /assets/images/2005/12/Sony-Underworld-Evolution.jpg

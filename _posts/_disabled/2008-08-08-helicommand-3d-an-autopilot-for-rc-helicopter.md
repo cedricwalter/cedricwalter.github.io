@@ -4,7 +4,7 @@ title: 'HeliCommand 3D- an AUTOPILOT for RC Helicopter'
 date: '2008-08-08T23:49:19+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3656'
+
 
 enclosure:
     - "http://atvie-stream-01.maz24.com/robbevideo/1-8493.wmv\n0\nvideo/x-ms-wmv\n"

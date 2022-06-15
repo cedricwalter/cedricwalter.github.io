@@ -4,7 +4,7 @@ title: 'MY home projector: Panasonic PT-AE900E'
 date: '2005-12-22T22:06:29+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2238'
+
 
 header:
   teaser: /assets/images/2005/12/PanasonicPT-AE900E.jpg

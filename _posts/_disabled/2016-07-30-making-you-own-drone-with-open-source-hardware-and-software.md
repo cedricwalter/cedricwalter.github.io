@@ -4,7 +4,7 @@ title: 'Making your own drone with open source hardware and software'
 date: '2016-07-30T20:10:16+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=8527'
+
 
 header:
   teaser: /assets/images/2016/07/arducopter_3.png

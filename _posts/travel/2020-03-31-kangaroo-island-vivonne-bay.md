@@ -5,10 +5,10 @@ date: '2020-03-31T17:41:22+02:00'
 author: 'Cédric Walter'
 categories:
 - travel
-guid: 'https://waltercedric.com/?p=12359'
 
-ngg_post_thumbnail:
-    - '0'
+
+
+    
 header:
   teaser: /assets/images/2020/03/Kangaroo-Island-Vivonne-Bay-14.jpg
 tags:

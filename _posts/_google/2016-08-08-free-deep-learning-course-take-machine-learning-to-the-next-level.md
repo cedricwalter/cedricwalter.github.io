@@ -4,7 +4,7 @@ title: 'Free Deep Learning course: Take machine learning to the next level'
 date: '2016-08-08T15:43:31+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=8557'
+
 
 ---
 

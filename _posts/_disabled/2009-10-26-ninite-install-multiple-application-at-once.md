@@ -4,7 +4,7 @@ title: 'Ninite: Install multiple application at once'
 date: '2009-10-26T12:56:49+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4838'
+
 
 header:
   teaser: /assets/images/2009/10/ninite.screenshots_thumb.png

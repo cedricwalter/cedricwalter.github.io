@@ -4,7 +4,7 @@ title: 'Some news about OpenSOurce'
 date: '2005-05-03T20:44:46+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1707'
+
 
 tags:
 - professional
@@ -29,5 +29,5 @@ the creation of the GNU project for free software in the mid-’80s.
 at [dailypress.com](http://www.dailypress.com/business/local/dp-07224sy0may02,0,1111702.story?coll=dp-business-localheads)*
 
 and All IT manager are encouraged to read
-this "[A Guide to Open Source Software for Australian Government Agencies](http://www.sourceit.gov.au/__data/assets/pdf_file/42065/A_Guide_to_Open_Source_Software.pdf)"
+this "[A 
 . a 975Kb PDF whitepaper

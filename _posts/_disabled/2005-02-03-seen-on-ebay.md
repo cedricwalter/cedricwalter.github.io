@@ -4,7 +4,7 @@ title: 'Seen on ebay&#8230;'
 date: '2005-02-03T23:07:28+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1562'
+
 
 header:
   teaser: /assets/images/2005/02/ibm-banzai.jpg

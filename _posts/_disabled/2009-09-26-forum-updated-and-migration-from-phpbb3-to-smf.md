@@ -4,7 +4,7 @@ title: 'Forum updated and migration from phpBB3 to SMF'
 date: '2009-09-26T14:16:34+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4698'
+
 
 header:
   teaser: /assets/images/2009/09/Phpbb3_logo_thumb.png

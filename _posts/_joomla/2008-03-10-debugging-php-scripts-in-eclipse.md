@@ -4,7 +4,7 @@ title: 'Debugging PHP scripts in Eclipse'
 date: '2008-03-10T20:39:44+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3258'
+
 
 header:
   teaser: /assets/images/2008/03/3433d4e09c154bdab168cf2c1c685f0d.jpg

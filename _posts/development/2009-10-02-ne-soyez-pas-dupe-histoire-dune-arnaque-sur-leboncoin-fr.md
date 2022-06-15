@@ -4,7 +4,7 @@ title: 'ne soyez pas dupe, histoire d’une arnaque sur leboncoin.fr'
 date: '2009-10-02T21:47:49+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4726'
+
 
 tags:
     - criminality

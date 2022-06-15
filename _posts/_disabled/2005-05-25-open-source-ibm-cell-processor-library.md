@@ -4,7 +4,7 @@ title: 'open source IBM Cell processor library?'
 date: '2005-05-25T08:31:26+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1759'
+
 
 tags:
 - development

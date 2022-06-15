@@ -4,7 +4,7 @@ title: 'Eclipse 3.5 news and noteworthy'
 date: '2009-07-01T12:58:49+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4496'
+
 
 ---
 

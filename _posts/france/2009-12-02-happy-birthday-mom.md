@@ -4,7 +4,7 @@ title: 'Happy Birthday mom'
 date: '2009-12-02T17:25:37+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4888'
+
 
 header:
   teaser: /assets/images/2009/12/happy_birthday_cake_3_296506bbccf1e81da7e7d1ad1d6e52f0.jpg

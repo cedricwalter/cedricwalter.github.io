@@ -4,7 +4,7 @@ title: 'Video Camera: using Aurel modules.'
 date: '2004-09-05T17:01:31+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1022'
+
 
 header:
   teaser: /assets/images/2004/09/mav1.jpg

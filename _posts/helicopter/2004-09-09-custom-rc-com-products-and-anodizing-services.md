@@ -4,7 +4,7 @@ title: 'CUSTOM-RC.COM PRODUCTS AND ANODIZING SERVICES'
 date: '2004-09-09T22:27:41+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1213'
+
 
 tags:
 - caliber

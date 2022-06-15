@@ -4,7 +4,7 @@ title: 'GPS + POI are forbidden in Switzerland'
 date: '2007-02-02T21:03:10+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2863'
+
 
 header:
   teaser: /assets/images/2005/12/TomTomDisplayingStreetRadarInZurich.jpg

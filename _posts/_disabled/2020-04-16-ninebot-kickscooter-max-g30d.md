@@ -4,10 +4,10 @@ title: 'Ninebot KickScooter MAX G30D'
 date: '2020-04-16T16:00:55+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/?p=13223'
 
-ngg_post_thumbnail:
-    - '0'
+
+
+    
 header:
   teaser: /assets/images/2020/04/ninebot-kickscooter-max-g30d.png
 ---

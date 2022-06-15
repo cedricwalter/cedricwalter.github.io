@@ -4,7 +4,7 @@ title: 'Enhancing Your GUI with some professional effects'
 date: '2005-02-15T20:15:14+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1577'
+
 
 header:
   teaser: /assets/images/2005/02/javascript.jpg

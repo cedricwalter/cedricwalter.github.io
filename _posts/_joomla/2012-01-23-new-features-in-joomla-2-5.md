@@ -4,7 +4,7 @@ title: 'NEW FEATURES IN JOOMLA! 2.5'
 date: '2012-01-23T20:14:01+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=7443'
+
 
 header:
   teaser: /assets/images/2012/01/336x280.jpg

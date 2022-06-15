@@ -4,7 +4,7 @@ title: 'java.lang.ClassNotFound and ClassNotDefFoundError are different but ..'
 date: '2004-08-31T22:44:12+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=541'
+
 
 tags:
 - classpath

@@ -4,7 +4,7 @@ title: 'JoomlaPatches for Joomla 1.0.13 for securityimages 4.x only'
 date: '2007-07-24T13:45:08+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3027'
+
 
 tags:
     - joomla

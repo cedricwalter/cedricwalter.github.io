@@ -4,7 +4,7 @@ title: 'Merlin, the Electronic Wizard by Parker Brothers'
 date: '2011-06-04T10:18:48+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=6753'
+
 
 header:
   teaser: /assets/images/2011/06/Merlin_the_Electronic_Wizard0.jpg

@@ -4,7 +4,7 @@ title: 'Need for Speed? mod_pagespeed from Google'
 date: '2010-11-04T22:05:31+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=6369'
+
 
 header:
   teaser: /assets/images/2009/10/google_logo.jpg

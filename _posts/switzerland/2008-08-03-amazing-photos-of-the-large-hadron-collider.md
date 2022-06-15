@@ -4,7 +4,7 @@ title: 'Amazing photos of the Large Hadron Collider:'
 date: '2008-08-03T20:04:59+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3599'
+
 
 header:
   teaser: /assets/images/2008/08/ebc7bfec457f4fe7ac0d5215daa6e0e4.jpg

@@ -4,7 +4,7 @@ title: 'Généralités, Equipements, Sécurité'
 date: '2004-08-26T22:43:59+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=184'
+
 
 header:
 teaser: /assets/images/2004/08/sm_doc_rouge.gif

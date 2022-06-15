@@ -4,7 +4,7 @@ title: 'HP calculator museum: Hewlett Packard HP 50g Graphing Calculator'
 date: '2011-07-14T21:29:00+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=6904'
+
 
 header:
   teaser: /assets/images/2011/07/hp50gGraphingCalculator_thumb.jpg

@@ -4,7 +4,7 @@ title: 'Le scandale des camions de déménagement de location?'
 date: '2005-09-06T19:56:35+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2025'
+
 
 tags:
     - switzerland

@@ -4,7 +4,7 @@ title: 'Site optimized for mobile and cell phone'
 date: '2009-09-30T00:36:58+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4720'
+
 
 header:
   teaser: /assets/images/2009/09/mobile.waltercedric.com_.png

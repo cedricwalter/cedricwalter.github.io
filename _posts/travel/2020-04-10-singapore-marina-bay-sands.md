@@ -5,10 +5,10 @@ date: '2020-04-10T16:08:35+02:00'
 author: 'Cédric Walter'
 categories:
 - travel
-guid: 'https://waltercedric.com/?p=12817'
 
-ngg_post_thumbnail:
-    - '0'
+
+
+    
 
 header:
     overlay_image: /assets/images/2020/04/singapore-marina-bay-sands-13.jpg

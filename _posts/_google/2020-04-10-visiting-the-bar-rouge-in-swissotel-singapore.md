@@ -4,10 +4,10 @@ title: 'Bar Rouge Singapore in Swissôtel The Stamford'
 date: '2020-04-10T16:59:29+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/?p=12859'
 
-ngg_post_thumbnail:
-    - '0'
+
+
+    
 
 header:
     overlay_image: /assets/images/2020/04/Bar-Rouge-SwissÔtel-6.jpg

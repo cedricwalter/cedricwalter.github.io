@@ -4,7 +4,7 @@ title: 'HTC Hero the 3rd Android phone of HTC'
 date: '2009-06-24T22:18:53+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4476'
+
 
 header:
   teaser: /assets/images/2009/06/HTC.hero_.android.sense_.ui_thumb.jpg

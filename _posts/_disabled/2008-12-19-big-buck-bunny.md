@@ -4,7 +4,7 @@ title: 'Big Buck Bunny'
 date: '2008-12-19T14:34:45+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3991'
+
 
 ---
 

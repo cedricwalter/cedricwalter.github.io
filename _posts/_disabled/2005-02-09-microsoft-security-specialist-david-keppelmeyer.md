@@ -4,7 +4,7 @@ title: 'Microsoft security specialist David Keppelmeyer'
 date: '2005-02-09T21:12:13+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1567'
+
 
 ---
 

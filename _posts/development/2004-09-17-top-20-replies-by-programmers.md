@@ -4,7 +4,7 @@ title: 'Top 20 Replies by Programmers'
 date: '2004-09-17T22:13:22+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1226'
+
 
 tags:
     - hardware

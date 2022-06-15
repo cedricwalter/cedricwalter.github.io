@@ -4,10 +4,10 @@ title: 'Upgrading your Picade 8&#8221; to 10&#8221;'
 date: '2020-02-23T20:29:23+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=8790'
 
-ngg_post_thumbnail:
-    - '0'
+
+
+    
 header:
   teaser: /assets/images/2020/02/RetroPieWebsiteLogo.png
 tags:

@@ -4,7 +4,7 @@ title: 'SUSE Linux 10.1 Codename Agama Lizard RC1'
 date: '2006-04-14T21:50:55+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2463'
+
 
 tags:
     - OpenSuse

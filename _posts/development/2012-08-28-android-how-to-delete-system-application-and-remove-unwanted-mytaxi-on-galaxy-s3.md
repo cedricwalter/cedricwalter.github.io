@@ -4,7 +4,7 @@ title: 'Android how to delete system application and remove unwanted MyTaxi on G
 date: '2012-08-28T20:32:56+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=7779'
+
 
 header:
   teaser: /assets/images/2012/08/android2.png

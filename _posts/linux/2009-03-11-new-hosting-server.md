@@ -4,7 +4,7 @@ title: 'New hosting server'
 date: '2009-03-11T13:59:46+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4190'
+
 
 tags:
     - homepage

@@ -4,7 +4,7 @@ title: 'Linux what to monitor v1.0.0'
 date: '2011-03-13T19:18:03+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=6591'
+
 
 header:
   teaser: /assets/images/2011/05/linux.png

@@ -4,7 +4,7 @@ title: 'Status of my vintage gaming console collection'
 date: '2011-01-31T23:14:45+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=6511'
+
 
 header:
   teaser: /assets/images/2011/01/wlEmoticon-winkingsmile.png

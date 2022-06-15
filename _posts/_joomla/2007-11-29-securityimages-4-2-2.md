@@ -4,7 +4,7 @@ title: 'SecurityImages 4.2.2'
 date: '2007-11-29T10:49:58+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3166'
+
 
 tags:
     - joomla

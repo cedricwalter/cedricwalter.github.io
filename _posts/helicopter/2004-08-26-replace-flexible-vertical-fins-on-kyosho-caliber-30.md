@@ -4,7 +4,7 @@ title: 'Replace flexible vertical fins on kyosho caliber 30'
 date: '2004-08-26T21:57:50+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=117'
+
 
 header:
   teaser: /assets/images/2004/08/hardLanding1.JPG

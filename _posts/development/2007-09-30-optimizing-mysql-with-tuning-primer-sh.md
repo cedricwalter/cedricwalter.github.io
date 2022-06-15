@@ -4,7 +4,7 @@ title: 'Optimizing mysql with tuning-primer.sh'
 date: '2007-09-30T20:48:40+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3066'
+
 
 header:
   teaser: /assets/images/2007/09/mysql.logo_.png

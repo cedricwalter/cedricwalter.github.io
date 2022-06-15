@@ -4,7 +4,7 @@ title: 'My Joomla! mirror has been updated'
 date: '2009-06-20T12:31:21+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4465'
+
 
 header:
   teaser: /assets/images/2009/06/mirror.waltercedric.com_.png

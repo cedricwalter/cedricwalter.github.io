@@ -4,7 +4,7 @@ title: 'Nettoyeur a Ultrasons'
 date: '2004-09-20T12:54:21+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1230'
+
 
 header:
   teaser: /assets/images/2004/09/a.jpg

@@ -1,10 +1,10 @@
 ---
 id: 537
-title: 'Java Coding guidelines'
+title: 'Java Coding 
 date: '2004-08-31T22:39:25+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=537'
+
 
 tags:
 - java
@@ -12,7 +12,7 @@ tags:
 
 Â
 
-# ![](java/im/T7.gif)Java Coding guidelines![](java/im/logo_right.gif)**
+# ![](java/im/T7.gif)Java Coding 
 
 I won't give you here all explanations on how to improve your code, only some references to external ressources, a lot
 of people have done a good job (hard work, respect!). **Feel the need to improve your code**, and you will follow more
@@ -29,11 +29,11 @@ habits*."
 
 *Occam's razor (14th century philosopher monk): No complexity beyond what is necessary.*
 
-![](java/guidelines/dilbert.jpg)
+![](java/
 
 # Things you may do to improve your code**
 
-- Respect the #Java guidelines, a lot of white papers can be found on internet.
+- Respect the #Java 
 - Never return a collection (Vector or Hashtable or) in java, prefer to return a class which hide the real collection,
   better return an interface, this will allow to refactor the code if performances issues are found. Difficulty is of
   course to define a good contract between your code and client which will use it (good interface). Never use a Vector
@@ -50,7 +50,7 @@ habits*."
   distinguish an orange from an apple? right so do not forget that the easiest refactoring methods are: rename methods,
   rename variables, rename objects, rename packages, move code to…
 - Use a logging framework or better use nothing else
-  than [log4j](http://www.waltercedric.com/java/guidelines/www.jakarta.com/log4j) or any implementation based on it. It
+  than [log4j](http://www.waltercedric.com/java/
   is a great advantage to know how many bugs or errors has occured in production and when. Moreover changing debug level
   without rebooting server, or changing output destination are neat
   features [FAQ](http://jakarta.apache.org/log4j/docs/FAQ.html).

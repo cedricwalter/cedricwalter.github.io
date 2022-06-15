@@ -5,7 +5,7 @@ date: '2004-12-04T14:16:56+01:00'
 author: 'Cédric Walter'
 categories:
 - travel
-guid: 'https://waltercedric.com/new/?p=1431'
+
 
 header:
   teaser: /assets/images/2004/12/5terre.gif

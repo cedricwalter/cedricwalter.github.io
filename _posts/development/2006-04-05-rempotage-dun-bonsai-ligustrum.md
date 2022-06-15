@@ -4,7 +4,7 @@ title: 'Rempotage d&#8217;un Bonsaï Ligustrum'
 date: '2006-04-05T20:57:43+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2425'
+
 
 header:
   teaser: /assets/images/2006/04/t_rempotage-bonsai-ligustrum-00.jpg
@@ -19,7 +19,7 @@ tags:
 Je suis un débutant complet mais les sites suivant m’ont beaucoup aidé, ainsi que la visite d’un magasin spécialisé.
 
 - <http://site.voila.fr/babadubonsai/>
-- [Les bonsaï : entretien, guide de survie, annuaire, forum, sélection d’articles, technique, calendrier.](http://artbonsai.free.fr/)
+- [Les bonsaï : entretien, 
 
 
 

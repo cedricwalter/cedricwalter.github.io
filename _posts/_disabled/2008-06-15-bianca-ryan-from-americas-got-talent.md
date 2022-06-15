@@ -4,7 +4,7 @@ title: 'Bianca Ryan from America&#8217;s Got Talent'
 date: '2008-06-15T19:59:23+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3476'
+
 
 ---
 

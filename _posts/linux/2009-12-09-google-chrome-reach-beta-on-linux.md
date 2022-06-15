@@ -4,7 +4,7 @@ title: 'Google Chrome reach beta on Linux'
 date: '2009-12-09T20:25:45+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4895'
+
 
 header:
   teaser: /assets/images/2009/12/logogooglechrome_thumb.jpg

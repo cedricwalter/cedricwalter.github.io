@@ -4,7 +4,7 @@ title: 'The BlackDog, one of the smallest Linux servers'
 date: '2005-11-10T21:06:02+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2099'
+
 
 header:
   teaser: /assets/images/2005/11/blackdog-linux-server.gif

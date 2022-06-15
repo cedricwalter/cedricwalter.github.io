@@ -4,7 +4,7 @@ title: 'Nintendo Game Boy Color Pokémon'
 date: '2011-08-22T12:52:25+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=7088'
+
 
 header:
   teaser: /assets/images/2011/08/pokemon_logo.png

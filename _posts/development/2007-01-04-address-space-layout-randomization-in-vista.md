@@ -4,7 +4,7 @@ title: 'Address space layout randomization in Vista'
 date: '2007-01-04T19:38:57+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2819'
+
 
 tags:
     - java

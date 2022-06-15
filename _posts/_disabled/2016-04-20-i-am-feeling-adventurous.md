@@ -4,7 +4,7 @@ title: 'I am feeling adventurous'
 date: '2016-04-20T19:42:07+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=8370'
+
 
 header:
   teaser: /assets/images/2016/04/howinstagramstarted_1280_thumb.png

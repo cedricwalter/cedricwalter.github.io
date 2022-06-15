@@ -4,7 +4,7 @@ title: 'Japanese Manhole Covers'
 date: '2010-08-28T14:28:19+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=5819'
+
 
 tags:
 - art

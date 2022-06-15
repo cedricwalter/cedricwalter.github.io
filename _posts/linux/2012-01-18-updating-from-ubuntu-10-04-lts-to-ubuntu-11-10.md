@@ -4,7 +4,7 @@ title: 'Updating From Ubuntu 10.04 LTS to Ubuntu 11.10'
 date: '2012-01-18T19:51:02+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=7433'
+
 
 ---
 

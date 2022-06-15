@@ -4,7 +4,7 @@ title: 'Les upgrades'
 date: '2004-09-01T23:46:03+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=931'
+
 
 tags:
 - 'Astuces (fr)'

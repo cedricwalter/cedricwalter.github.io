@@ -4,7 +4,7 @@ title: 'waltercedric.com updated to the last version of Joomla! 1.5.6'
 date: '2008-08-13T19:00:55+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3661'
+
 
 header:
   teaser: /assets/images/2008/08/security_release_thumb.png

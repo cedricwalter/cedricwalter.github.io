@@ -4,7 +4,7 @@ title: 'Joomla 1.0.13! admin session issues'
 date: '2008-02-03T12:45:15+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3175'
+
 
 header:
   teaser: /assets/images/2006/03/box_securityimages.jpg

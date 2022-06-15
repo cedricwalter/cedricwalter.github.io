@@ -4,7 +4,7 @@ title: 'Fetching artifact programmatically through REST/API in Nexus 3.x'
 date: '2017-05-30T10:35:23+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=8628'
+
 
 header:
 teaser: /assets/images/2011/11/maven-logo-black-on-white-1.png

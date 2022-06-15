@@ -4,7 +4,7 @@ title: 'waltercedric roadmap for joomla components'
 date: '2006-02-27T10:42:08+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2330'
+
 
 header:
   teaser: /assets/images/2006/02/tn_joomla_planning_www.waltercedric.com_.png

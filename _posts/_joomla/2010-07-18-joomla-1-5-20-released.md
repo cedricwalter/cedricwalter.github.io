@@ -4,7 +4,7 @@ title: 'Joomla! 1.5.20 Released'
 date: '2010-07-18T13:41:03+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=5562'
+
 
 header:
   teaser: /assets/images/2010/07/Joomla_Logo_3_914e43333ea82039f7b3e55ec287a04d.png

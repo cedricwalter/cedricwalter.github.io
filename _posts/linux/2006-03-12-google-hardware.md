@@ -4,7 +4,7 @@ title: 'Google hardware'
 date: '2006-03-12T23:32:50+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2369'
+
 
 tags:
 - google

@@ -4,7 +4,7 @@ title: 'Com_joomlacloud under heavy development'
 date: '2006-03-09T09:49:10+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2358'
+
 
 tags:
     - Collectibles

@@ -4,7 +4,7 @@ title: 'Audigy 2 ZS notebook under Linux'
 date: '2006-01-29T14:09:50+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2297'
+
 
 header:
   teaser: /assets/images/2006/01/audigy-2-zs-notebook.jpg

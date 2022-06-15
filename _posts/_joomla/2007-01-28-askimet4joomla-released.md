@@ -4,7 +4,7 @@ title: 'Askimet4Joomla! released'
 date: '2007-01-28T14:37:14+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2851'
+
 
 tags:
     - joomla

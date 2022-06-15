@@ -4,7 +4,7 @@ title: 'Happy Holidays from Cédric Walter'
 date: '2012-12-26T10:31:00+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=7934'
+
 
 header:
   teaser: /assets/images/2012/12/seasons_greetings_thumb.jpg

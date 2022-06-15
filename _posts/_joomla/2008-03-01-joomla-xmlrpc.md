@@ -4,7 +4,7 @@ title: 'Joomla XMLRPC'
 date: '2008-03-01T15:33:07+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3221'
+
 
 ---
 

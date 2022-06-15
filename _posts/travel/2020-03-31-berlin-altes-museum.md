@@ -5,10 +5,10 @@ date: '2020-03-31T12:48:20+02:00'
 author: 'Cédric Walter'
 categories:
 - travel
-guid: 'https://waltercedric.com/?p=11818'
 
-ngg_post_thumbnail:
-    - '0'
+
+
+    
 header:
   teaser: /assets/images/2020/03/berlin-Altes-Museum-2.jpg
 tags:

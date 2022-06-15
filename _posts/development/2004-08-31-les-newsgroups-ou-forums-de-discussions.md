@@ -4,7 +4,7 @@ title: 'Les newsgroups ou forums de discussions'
 date: '2004-08-31T23:08:55+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=559'
+
 
 tags:
     - francais

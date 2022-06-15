@@ -4,7 +4,7 @@ title: 'Joomla 1.5.13 Security Release Available'
 date: '2009-07-26T11:05:23+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4550'
+
 
 header:
   teaser: /assets/images/2009/07/f_1218589627_thumb.png

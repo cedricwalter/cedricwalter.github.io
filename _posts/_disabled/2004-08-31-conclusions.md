@@ -4,7 +4,7 @@ title: Conclusions
 date: '2004-08-31T23:33:37+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=603'
+
 
 header:
   teaser: /assets/images/2004/08/smileLol.gif

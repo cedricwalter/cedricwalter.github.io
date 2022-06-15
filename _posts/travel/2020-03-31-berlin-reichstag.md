@@ -5,10 +5,10 @@ date: '2020-03-31T12:45:17+02:00'
 author: 'Cédric Walter'
 categories:
 - travel
-guid: 'https://waltercedric.com/?p=11800'
 
-ngg_post_thumbnail:
-    - '0'
+
+
+    
 header:
   teaser: /assets/images/2020/03/berlin-reichstag-21.jpg
 tags:

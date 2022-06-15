@@ -4,7 +4,7 @@ title: 'Make JXPATH 1.2 namespace aware'
 date: '2008-04-30T10:49:45+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3428'
+
 
 ---
 
@@ -343,7 +343,7 @@ From <http://www.mail-archive.com/commons-user@jakarta.apache.org/msg07865.html>
 > non-XML object models, therefore we were free to make pretty much arbitrary choices.   
 > One of those choices was to ignore namespaces.
 
-More can [also be read here](http://commons.apache.org/jxpath/users-guide.html#Registering%20Namespaces)
+More can [also be read here](http://commons.apache.org/jxpath/users-
 
 > When using namespaces, it is important to remember that XPath matches qualified   
 > names (QNames) based on the namespace URI, not on the prefix. Therefore the XPath   

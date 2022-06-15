@@ -4,7 +4,7 @@ title: 'World Stats Clock'
 date: '2007-07-02T22:31:17+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3002'
+
 
 tags:
     - Disaster

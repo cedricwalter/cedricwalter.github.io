@@ -4,7 +4,7 @@ title: 'Minerals collection was&#8217;nt online!'
 date: '2005-03-28T12:28:22+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1650'
+
 
 tags:
 - Collectibles

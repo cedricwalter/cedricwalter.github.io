@@ -4,7 +4,7 @@ title: 'LittleBig Planet &#8211; Sackboy 11&#8243; Statue holder'
 date: '2010-07-25T17:10:45+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=5681'
+
 
 header:
   teaser: /assets/images/2010/07/LittleBigPlanetSackboy11.inches.Statue.jpg

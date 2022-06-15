@@ -4,7 +4,7 @@ title: 'Beautiful site design and site generator for the others ;-)'
 date: '2008-06-15T19:37:00+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3475'
+
 
 header:
   teaser: /assets/images/2008/06/0f4fcf340e9040cbbdff66d4f2634056.jpg

@@ -4,7 +4,7 @@ title: 'Jakks Namco TV Games Video Game System'
 date: '2011-06-04T13:50:04+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=6790'
+
 
 header:
   teaser: /assets/images/2011/06/Jakks_Namco_TV_Games_Video_Game_System_00_thumb.jpg

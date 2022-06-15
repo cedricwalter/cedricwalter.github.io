@@ -4,7 +4,7 @@ title: 'Google +1 your website for Joomla!'
 date: '2011-07-11T19:37:00+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=6897'
+
 
 tags:
     - google

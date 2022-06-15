@@ -4,7 +4,7 @@ title: 'Star Wars: The Rise Of Skywalker'
 date: '2019-08-26T21:06:02+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=8760'
+
 
 header:
   teaser: /assets/images/2019/10/1200px-Star_Wars_Logo.svg_.png

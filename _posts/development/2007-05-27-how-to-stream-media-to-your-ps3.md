@@ -4,7 +4,7 @@ title: 'How to stream media to your ps3'
 date: '2007-05-27T12:02:04+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2986'
+
 
 header:
   teaser: /assets/images/2005/06/sony_playstation_ps3.jpg

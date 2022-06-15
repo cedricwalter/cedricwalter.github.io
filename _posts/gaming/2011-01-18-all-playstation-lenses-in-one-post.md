@@ -4,7 +4,7 @@ title: 'All Playstation lenses in one post'
 date: '2011-01-18T17:36:56+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=6484'
+
 
 header:
   teaser: /assets/images/2005/06/sony_playstation_ps3.jpg

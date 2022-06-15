@@ -4,7 +4,7 @@ title: 'Announcing a plugin for Joomla! 1.5 to embed Freemind Mind Map in your a
 date: '2009-07-25T21:46:22+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4542'
+
 
 header:
   teaser: /assets/images/2009/07/freemind.logo_.png

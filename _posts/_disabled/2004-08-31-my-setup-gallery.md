@@ -4,7 +4,7 @@ title: 'My setup (Gallery)'
 date: '2004-08-31T23:31:42+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=599'
+
 
 header:
   teaser: /assets/images/2004/08/watercooling-overall.jpg

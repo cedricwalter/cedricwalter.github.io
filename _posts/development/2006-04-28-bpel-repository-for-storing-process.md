@@ -4,7 +4,7 @@ title: 'BPEL repository for storing process'
 date: '2006-04-28T20:17:33+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2481'
+
 
 tags:
     - java

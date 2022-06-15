@@ -4,7 +4,7 @@ title: 'When using Maven jetty:run, CSS and JavaScript files are never updated'
 date: '2010-05-31T18:08:30+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=5212'
+
 
 header:
   teaser: /assets/images/2011/11/maven-logo-black-on-white-1.png

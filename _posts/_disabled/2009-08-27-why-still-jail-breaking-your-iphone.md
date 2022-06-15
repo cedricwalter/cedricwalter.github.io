@@ -4,7 +4,7 @@ title: 'Why still Jail breaking your iPhone?'
 date: '2009-08-27T18:27:38+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4585'
+
 
 header:
   teaser: /assets/images/2009/08/iphone3gs.jpg

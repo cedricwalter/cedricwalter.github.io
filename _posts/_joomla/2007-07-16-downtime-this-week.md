@@ -4,7 +4,7 @@ title: 'Downtime this week'
 date: '2007-07-16T14:06:16+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3016'
+
 
 tags:
     - homepage

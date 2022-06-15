@@ -4,7 +4,7 @@ title: '2006 most notable figures&#8230;'
 date: '2007-01-06T17:34:04+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2831'
+
 
 tags:
     - homepage

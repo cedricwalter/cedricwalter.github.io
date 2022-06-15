@@ -4,7 +4,7 @@ title: 'Module Smugmug slideshow for Joomla! 1.6'
 date: '2010-06-17T19:51:28+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=5363'
+
 
 tags:
     - joomla

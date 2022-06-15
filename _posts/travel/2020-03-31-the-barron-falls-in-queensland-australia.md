@@ -5,10 +5,10 @@ date: '2020-03-31T18:14:12+02:00'
 author: 'Cédric Walter'
 categories:
 - travel
-guid: 'https://waltercedric.com/?p=12409'
 
-ngg_post_thumbnail:
-    - '0'
+
+
+    
 header:
   teaser: /assets/images/2020/03/Barron-Falls-in-Queensland-Australia-2.jpg
 tags:

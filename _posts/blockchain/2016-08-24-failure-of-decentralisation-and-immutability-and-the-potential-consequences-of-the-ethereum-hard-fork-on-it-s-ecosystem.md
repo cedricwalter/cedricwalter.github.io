@@ -6,7 +6,7 @@ date: '2016-08-24T12:05:33+02:00'
 author: 'Cédric Walter'
 categories:
  - blockchain
-guid: 'https://waltercedric.com/new/?p=8574'
+
 ---
 
 ### Introduction

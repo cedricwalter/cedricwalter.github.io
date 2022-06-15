@@ -4,7 +4,7 @@ title: 'Captcha for WikiMedia as extension'
 date: '2005-12-11T00:09:41+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2209'
+
 
 header:
   teaser: /assets/images/2005/12/mediawiki.png

@@ -4,7 +4,7 @@ title: '2017 Audi R8 Spyder V10'
 date: '2016-10-15T18:55:15+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=8597'
+
 
 ---
 

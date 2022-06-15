@@ -4,7 +4,7 @@ title: '90 bonnes raisons dÂ´etre&#8230;'
 date: '2004-10-18T12:02:10+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1329'
+
 
 tags:
     - dans

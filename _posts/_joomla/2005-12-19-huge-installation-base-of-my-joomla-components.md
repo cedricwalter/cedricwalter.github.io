@@ -4,7 +4,7 @@ title: 'Huge installation base of my Joomla components'
 date: '2005-12-19T22:34:29+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2217'
+
 
 tags:
     - interesting

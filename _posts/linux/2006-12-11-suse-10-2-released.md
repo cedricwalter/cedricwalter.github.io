@@ -4,7 +4,7 @@ title: 'SuSE 10.2 released'
 date: '2006-12-11T21:20:52+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2804'
+
 
 tags:
     - OpenSuse
@@ -19,4 +19,4 @@ tags:
 I recommend You to use [OpenSuSE Torrent files](http://en.opensuse.org/BitTorrent_and_openSUSE) and a bittorrent client like [Azureus.](http://www.azureus.org)
 
 Here are also some links to reviews:  
-<span style="color: #000000; font-family: arial; font-size: small;">[Screenshots](http://www.thecodingstudio.com/opensource/linux/?q=node/58) and [Desktop](http://www.desktoplinux.com/articles/AT5310810296.html)[ #Linux](http://www.desktoplinux.com/articles/AT5310810296.html) and a <span style="color: #000000; font-family: arial; font-size: small;">[hacking guide](http://www.softwareinreview.com/cms/content/view/60/) to add non-free apps on 10.2.
+<span style="color: #000000; font-family: arial; font-size: small;">[Screenshots](http://www.thecodingstudio.com/opensource/linux/?q=node/58) and [Desktop](http://www.desktoplinux.com/articles/AT5310810296.html)[ #Linux](http://www.desktoplinux.com/articles/AT5310810296.html) and a <span style="color: #000000; font-family: arial; font-size: small;">[hacking 

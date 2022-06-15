@@ -4,7 +4,7 @@ title: 'Should&#8217;t We open a museum of PC case?'
 date: '2005-02-02T21:17:20+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1555'
+
 
 header:
   teaser: /assets/images/2005/02/case11-0.jpg

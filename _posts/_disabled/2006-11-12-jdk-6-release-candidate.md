@@ -4,7 +4,7 @@ title: 'JDK 6 Release Candidate'
 date: '2006-11-12T19:54:39+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2758'
+
 
 header:
   teaser: /assets/images/2006/11/section-java.gif

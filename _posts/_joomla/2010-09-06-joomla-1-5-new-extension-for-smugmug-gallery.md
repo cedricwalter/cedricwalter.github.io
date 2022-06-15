@@ -4,7 +4,7 @@ title: 'Joomla! 1.5 new extension for SmugMug Gallery'
 date: '2010-09-06T19:56:57+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=5972'
+
 
 header:
   teaser: /assets/images/2010/09/smugmug.logo_.jpg

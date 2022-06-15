@@ -4,7 +4,7 @@ title: 'I lost 3 days of Mambo production'
 date: '2005-08-26T19:17:57+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2008'
+
 
 tags:
     - backend

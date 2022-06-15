@@ -4,7 +4,7 @@ title: 'Mobile Action i-gotU GT-200E GPS Data logger review'
 date: '2009-09-25T23:53:43+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4693'
+
 
 header:
   teaser: /assets/images/2009/09/igotU_GT200e.package.content_thumb.jpg

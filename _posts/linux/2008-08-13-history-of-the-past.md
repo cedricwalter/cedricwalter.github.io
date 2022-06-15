@@ -4,7 +4,7 @@ title: 'History of the past'
 date: '2008-08-13T19:50:45+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3666'
+
 
 header:
   teaser: /assets/images/2008/08/geekinside_thumb.jpg

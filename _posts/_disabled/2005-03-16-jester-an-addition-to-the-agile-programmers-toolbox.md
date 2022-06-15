@@ -4,7 +4,7 @@ title: 'Jester an addition to the agile programmer&#8217;s toolbox'
 date: '2005-03-16T19:24:18+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1620'
+
 
 tags:
 - professional

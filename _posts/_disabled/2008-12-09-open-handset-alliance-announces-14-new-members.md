@@ -4,7 +4,7 @@ title: 'Open Handset Alliance announces 14 new members'
 date: '2008-12-09T21:30:15+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3971'
+
 
 header:
   teaser: /assets/images/2008/12/500pxAndroidlogo.svg_.png

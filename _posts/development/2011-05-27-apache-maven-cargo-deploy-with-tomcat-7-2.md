@@ -4,7 +4,7 @@ title: 'Apache Maven Cargo deploy with Tomcat 7'
 date: '2011-05-27T20:33:42+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=6772'
+
 
 header:
   teaser: /assets/images/2011/11/maven-logo-black-on-white-1.png

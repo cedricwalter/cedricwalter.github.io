@@ -4,7 +4,7 @@ title: 'Hosts file protection'
 date: '2009-09-28T20:50:41+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4718'
+
 
 header:
   teaser: /assets/images/2009/09/hosts.file_thumb.png

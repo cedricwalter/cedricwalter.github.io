@@ -5,10 +5,10 @@ date: '2020-04-10T17:22:56+02:00'
 author: 'Cédric Walter'
 categories:
 - travel
-guid: 'https://waltercedric.com/?p=12886'
 
-ngg_post_thumbnail:
-    - '0'
+
+
+    
 header:
   teaser: /assets/images/2020/04/parkview-square-singapore-4.jpg
 tags:

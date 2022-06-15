@@ -4,7 +4,7 @@ title: 'Canon EOS 7D hands-on review in video'
 date: '2009-09-28T17:26:36+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4715'
+
 
 header:
   teaser: /assets/images/2009/09/Canon7D_thumb.jpg

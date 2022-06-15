@@ -4,7 +4,7 @@ title: 'Choix du matériel de terrain'
 date: '2004-09-01T23:45:31+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=930'
+
 
 header:
   teaser: /assets/images/2004/08/hexstarter.JPG

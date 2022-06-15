@@ -4,7 +4,7 @@ title: 'Haiku: BEOS system written from scratch'
 date: '2009-02-10T22:50:32+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4130'
+
 
 header:
   teaser: /assets/images/2009/02/haiku.desktop_thumb.jpg

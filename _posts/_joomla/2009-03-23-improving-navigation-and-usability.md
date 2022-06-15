@@ -4,7 +4,7 @@ title: 'Improving navigation and usability'
 date: '2009-03-23T18:05:51+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4216'
+
 
 header:
   teaser: /assets/images/2009/03/tag.navigator.png

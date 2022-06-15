@@ -4,7 +4,7 @@ title: 'Iceland, New Zealand, China, America, Europe'
 date: '2008-08-17T21:08:01+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3706'
+
 
 header:
   teaser: /assets/images/2008/08/gvisit.waltercedric.com_thumb.png

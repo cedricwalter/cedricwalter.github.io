@@ -4,7 +4,7 @@ title: 'OpenOffice.org 2.0 Released'
 date: '2005-10-21T00:35:30+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2059'
+
 
 tags:
     - capabilities

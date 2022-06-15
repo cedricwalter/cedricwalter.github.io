@@ -4,7 +4,7 @@ title: 'Microsot-Novell sudden alliance'
 date: '2006-11-03T22:16:49+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2749'
+
 
 tags:
     - microsoft

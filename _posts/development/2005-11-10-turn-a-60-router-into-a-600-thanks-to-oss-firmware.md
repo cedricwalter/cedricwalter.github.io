@@ -4,7 +4,7 @@ title: 'Turn a $60 router into a $600 thanks to OSS firmware'
 date: '2005-11-10T23:20:28+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2102'
+
 
 header:
   teaser: /assets/images/2005/11/linksysWRT54G.jpg

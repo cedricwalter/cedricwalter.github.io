@@ -4,7 +4,7 @@ title: 'Download issues on my homepage: zip files corrupt'
 date: '2007-02-27T22:03:29+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2894'
+
 
 tags:
     - joomla

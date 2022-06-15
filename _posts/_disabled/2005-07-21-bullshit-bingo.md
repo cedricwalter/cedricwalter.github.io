@@ -4,7 +4,7 @@ title: 'Bullshit Bingo!'
 date: '2005-07-21T18:22:53+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1931'
+
 
 tags:
 - conference

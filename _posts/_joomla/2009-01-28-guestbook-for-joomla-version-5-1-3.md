@@ -4,7 +4,7 @@ title: 'GuestBook for Joomla! version 5.1.3'
 date: '2009-01-28T21:21:12+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4074'
+
 
 header:
   teaser: /assets/images/2009/01/guestbook.for_.joomla.statistics_thumb.png

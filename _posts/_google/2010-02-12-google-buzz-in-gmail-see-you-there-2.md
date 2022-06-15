@@ -4,7 +4,7 @@ title: 'Google Buzz in Gmail, see you there'
 date: '2010-02-12T19:46:41+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=5049'
+
 
 header:
   teaser: /assets/images/2010/02/google.buzz_.look_thumb.png

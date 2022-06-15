@@ -4,7 +4,7 @@ title: 'Install PHPUnit and PHPDocumentor in XAMPP'
 date: '2012-08-17T11:13:00+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=7752'
+
 
 header:
   teaser: /assets/images/2008/12/phpunitlogo_thumb.gif

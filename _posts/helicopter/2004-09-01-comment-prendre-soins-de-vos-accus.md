@@ -4,7 +4,7 @@ title: 'Comment prendre soins de vos accus&#8230;..'
 date: '2004-09-01T23:22:00+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=888'
+
 
 tags:
     - 'RC helicopter'

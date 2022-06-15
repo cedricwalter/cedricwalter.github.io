@@ -4,7 +4,7 @@ title: 'Hilarious Planet Fitness Commercial Ad 2'
 date: '2016-07-31T10:25:27+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=8540'
+
 
 tags:
 - ads

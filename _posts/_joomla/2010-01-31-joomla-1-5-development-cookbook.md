@@ -4,7 +4,7 @@ title: 'Joomla! 1.5 Development Cookbook'
 date: '2010-01-31T20:45:49+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4966'
+
 
 tags:
     - clear

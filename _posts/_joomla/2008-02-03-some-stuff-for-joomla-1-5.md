@@ -4,7 +4,7 @@ title: 'some stuff for Joomla! 1.5'
 date: '2008-02-03T17:35:44+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3176'
+
 
 header:
   teaser: /assets/images/2007/07/joomla_1.5.gif

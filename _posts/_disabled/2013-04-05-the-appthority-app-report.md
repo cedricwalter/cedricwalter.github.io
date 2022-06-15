@@ -4,7 +4,7 @@ title: 'The Appthority® App Report'
 date: '2013-04-05T19:56:11+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=8000'
+
 
 header:
   teaser: /assets/images/2013/04/appauthority.png

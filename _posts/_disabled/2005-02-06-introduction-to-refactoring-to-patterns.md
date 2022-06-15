@@ -4,7 +4,7 @@ title: 'Introduction to Refactoring to Patterns'
 date: '2005-02-06T17:51:53+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1564'
+
 
 ---
 

@@ -4,7 +4,7 @@ title: 'Car and motorcycle parts, screws and toothed wheels'
 date: '2011-02-27T21:59:14+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=6557'
+
 
 header:
   teaser: /assets/images/2007/02/messe.zurich.swiss_.moto_.show_.jpg

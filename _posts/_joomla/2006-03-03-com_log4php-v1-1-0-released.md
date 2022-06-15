@@ -4,7 +4,7 @@ title: 'com_log4php  v1.1.0 released'
 date: '2006-03-03T11:29:16+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2342'
+
 
 header:
   teaser: /assets/images/2006/03/box_comlog4php.jpg

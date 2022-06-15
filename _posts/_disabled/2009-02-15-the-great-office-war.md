@@ -4,7 +4,7 @@ title: 'The Great Office War'
 date: '2009-02-15T22:41:47+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4167'
+
 
 ---
 

@@ -4,7 +4,7 @@ title: 'Log4PHP and Hashcash technology for Mambo at Mamboforge'
 date: '2005-06-14T21:00:26+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1797'
+
 
 tags:
     - cryptographic

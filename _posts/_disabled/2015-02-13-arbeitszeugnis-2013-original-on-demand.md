@@ -4,7 +4,7 @@ title: 'ArbeitsZeugnis 2013 (original on demand)'
 date: '2015-02-13T09:02:55+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=8255'
+
 
 header:
   teaser: /assets/images/2016/07/Arbeitszeugnis.png

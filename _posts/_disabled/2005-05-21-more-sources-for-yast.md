@@ -4,7 +4,7 @@ title: 'More sources for Yast'
 date: '2005-05-21T17:15:15+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1757'
+
 
 header:
   teaser: /assets/images/2005/05/addMoreSourcesToYastunderSuseLinux.png

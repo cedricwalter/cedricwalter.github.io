@@ -4,7 +4,7 @@ title: 'Apache POI Speed Optimizations'
 date: '2012-10-29T23:39:21+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=7825'
+
 
 header:
 teaser: /assets/images/2012/10/apache-poi-logo_thumb.jpg

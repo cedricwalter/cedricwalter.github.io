@@ -4,7 +4,7 @@ title: 'Migration code tool joomla! 1.x to Joomla! 1.5'
 date: '2007-07-15T23:43:45+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3015'
+
 
 header:
   teaser: /assets/images/2007/07/joomla_1.5.gif

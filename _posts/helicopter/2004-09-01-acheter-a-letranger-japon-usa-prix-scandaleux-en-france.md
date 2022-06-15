@@ -4,7 +4,7 @@ title: 'Acheter a l&#8217;étranger: Japon, USA&#8230;Prix scandaleux en france!
 date: '2004-09-01T23:47:27+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=934'
+
 
 tags:
 - 'Astuces (fr)'

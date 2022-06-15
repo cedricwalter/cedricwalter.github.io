@@ -4,7 +4,7 @@ title: 'Code generation from XSD with JAXB and Maven'
 date: '2009-11-13T18:56:24+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4880'
+
 
 header:
   teaser: /assets/images/2011/11/maven-logo-black-on-white-1.png

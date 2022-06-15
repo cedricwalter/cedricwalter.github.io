@@ -4,7 +4,7 @@ title: 'More Google Maps application! write Your own'
 date: '2005-07-24T22:38:21+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1952'
+
 
 tags:
 - google

@@ -4,7 +4,7 @@ title: 'Google: some books worth reading'
 date: '2005-01-13T21:48:37+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1477'
+
 
 tags:
     - google
@@ -15,7 +15,7 @@ Some interesting book that draw my attention:
 
 Commercials
 
--Google secrets: How to get a top ranking, ebook by Dan Sisson. A how-to guide for getting your website ranked in the top 10 on the Google search engine. 109 pages full of tips, best practices, checklists, and samples. I found that it is also available as PDF [here](http://www.booklocker.com/books/1094.html) for Ex. [A website](http://www.google-secrets.com/) is also available with some extract of the book, [extended chapter summary](http://www.google-secrets.com/google-secrets-sample.htm). In the meantime, I discover a lot of litterature on the subject:
+-Google secrets: How to get a top ranking, ebook by Dan Sisson. A how-to 
 -Google Hacks: 100 Industrial-Strength Tips &amp; Tools  
      by Tara Calishain, Rael Dornfest (Oreilly ISBN: 0596004478). [review](http://www.amazon.com/exec/obidos/tg/detail/-/0596004478/103-4303246-2273411?v=glance) \[amazon\]
 -How to Do Everything with Google (McGraw-Hill Osborne Media ISBN: 0072231742) [review](http://www.amazon.com/exec/obidos/ASIN/0072231742/ref%3Dnosim/pandiainternetse/103-4303246-2273411) \[amazon\]

@@ -4,7 +4,7 @@ title: 'Thank Poland letter'
 date: '2004-12-24T18:28:46+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1445'
+
 
 tags:
     - background

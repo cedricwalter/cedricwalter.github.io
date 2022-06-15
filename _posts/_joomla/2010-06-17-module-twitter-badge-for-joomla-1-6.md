@@ -4,7 +4,7 @@ title: 'Module Twitter badge for Joomla! 1.6'
 date: '2010-06-17T19:04:47+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=5354'
+
 
 tags:
     - joomla

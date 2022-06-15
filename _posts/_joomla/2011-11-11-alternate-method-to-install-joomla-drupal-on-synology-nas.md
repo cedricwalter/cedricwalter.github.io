@@ -4,7 +4,7 @@ title: 'Alternate method to install Joomla/Drupal on Synology NAS'
 date: '2011-11-11T17:10:04+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=7270'
+
 
 header:
   teaser: /assets/images/2011/11/synology_nas4.jpg

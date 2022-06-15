@@ -4,7 +4,7 @@ title: 'Avoiding the huge amount of street radars in europe'
 date: '2005-11-01T20:37:19+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2084'
+
 
 header:
   teaser: /assets/images/2005/11/tomtomrider.box_.jpg
@@ -66,9 +66,9 @@ I personaly recommend TomTom but any GPS device is able to do the Job
 
 For an up to date database, the system is only working as long as You receive daily update of safety camera positions, Here is how to enter a new camera position with TomTom device.
 
-| **Sticky: ‘Idiots guide to adding speed cameras’**   extract of the forum [<font color="#0000ff" size="2">www.expansys.com](http://www.expansys.com/) |
+| **Sticky: ‘Idiots 
 |---|
-| *Further guide to help those who want to maximise the use of Tom Tom Go who may not be computer whizzes. Object is to encourage as many as possible to become "accurate camera spotters" so that the camera database is as accurate as possible. If you only want to update your own machine follow 1 below. If you are happy to share your new locations with everyone else then follow 2 below.  In each of the following you need to enter the camera location, you can do this by address, browse map of by far the best most accurate is by "GPS location" when the TTGo is next to the camera location. For the reasons of accuracy that is the method I will cover here.  1\. When next to the camera location on foot/in car, Tom Tom main screen, forward arrow, forward arrow, change prefs, forward arrow, maintain POI, Add POI, select pocketgps uk gatso, select GPS location, address is shown, suggest keep address as shown and add gatso after it, do this by touching screen at end of address to remove highlight you can then type additionalty as usual. Then select done.  As you have added to existing POI database this new entry will use settings for icon,distance and sound without additional adjustments.  If you are willing to share your new locations then follow 2 below.  2\. Firstly you need to add a new POI catagory in which to store your new POI camara locations.   From TTGo main screen, Forward arrow, forward arrow, change prefs, forward arrow, maintain POI, Add POI catagory, type name of your POI eg "New Gatso" , Done, select marker (scroll down for lots of options)done.  When next to the camera location on foot/in car, Tom Tom main screen, forward arrow, forward arrow, change prefs, forward arrow, maintain POI, Add POI, select "New gatso", select GPS location, address is shown, suggest keep address as shown and add gatso after it, do this by touching screen at end of address to remove highlight you can then type additionalty as usual. Then select done.  You have now saved this camera location in a new file, therefore so that you can be warned of your new locations you need to set the POI warnings from the "Maintain POI " menu. (as you did originally)* |
+| *Further 
 
 # ![](/assets/images/2005/11/dot.jpg) POI Database**
 

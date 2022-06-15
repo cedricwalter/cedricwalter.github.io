@@ -4,7 +4,7 @@ title: 'XDepend: static analysis tool for JAVA empower Code Query Language'
 date: '2009-10-20T21:25:32+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4785'
+
 
 tags:
     - java
@@ -20,7 +20,7 @@ I’ve been granted a free professional license of [XDepend](http://www.xdepend.
 > - Provides complementary and interactive views on the same information. A Tree-Map view helps you easily identify the big one from the small one. The dependency matrix, the graph view and the detailed view help you gain insight in your code base.
 > - Has a Code Query Language (CQL) is a specific [XDepend](http://www.xdepend.com/) language, very similar to SQL, that helps you dynamically find what you are looking for.
 
-What is also interesting me a lot is the possibility to make [XDepend](http://www.xdepend.com/) part of the [Maven lifecycle](http://maven.apache.org/guides/introduction/introduction-to-the-lifecycle.html), but that will be part of a new post. For now I am trying to understand the added value on our company software solution [Innoveo Skye®](http://www.innoveo.com/SoftwareSolution.aspx)
+What is also interesting me a lot is the possibility to make [XDepend](http://www.xdepend.com/) part of the [Maven lifecycle](http://maven.apache.org/
 
 ### Watch the screen cast
 

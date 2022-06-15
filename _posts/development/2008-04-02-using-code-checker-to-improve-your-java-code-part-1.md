@@ -4,10 +4,10 @@ title: 'Using Code Checker to improve your Java code (Part 1)'
 date: '2008-04-02T23:44:28+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3336'
+
 
 header:
-  teaser: /assets/images/2008/04/coding.guidelines_thumb.png
+  teaser: /assets/images/2008/04/coding.
 tags:
     - about
     - ant
@@ -37,7 +37,7 @@ There are basically of 2 types:
 - **On the fly code checker,** as soon as you type a word or save a new document, it run and give a real time feedback
 - **Offline checker** or so called static code analyzer that can be run during the build of your java components
 
-### Why using a code guidelines checker?
+### Why using a code 
 
 These tools **are highly recommended** across a team of different developers for the following reasons:
 
@@ -131,7 +131,7 @@ i.e. the application could still function properly even if they were not correct
 - [Optimization Rules](http://pmd.sourceforge.net/rules/index.html)
 - [Strict Exception Rules](http://pmd.sourceforge.net/rules/index.html)
 - [String and StringBuffer Rules](http://pmd.sourceforge.net/rules/index.html)
-- [Security Code Guidelines](http://pmd.sourceforge.net/rules/index.html)
+- [Security Code 
 - [Type Resolution Rules](http://pmd.sourceforge.net/rules/index.html)
 - [Unused Code Rules](http://pmd.sourceforge.net/rules/index.html)
 

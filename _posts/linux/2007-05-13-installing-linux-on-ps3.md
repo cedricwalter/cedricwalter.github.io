@@ -4,7 +4,7 @@ title: 'Installing Linux on PS3'
 date: '2007-05-13T14:05:54+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2966'
+
 
 header:
   teaser: /assets/images/2005/06/sony_playstation_ps3.jpg

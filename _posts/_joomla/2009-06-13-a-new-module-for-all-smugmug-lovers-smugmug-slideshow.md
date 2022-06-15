@@ -4,7 +4,7 @@ title: 'A new module for all Smugmug lovers: Smugmug Slideshow'
 date: '2009-06-13T23:53:49+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4408'
+
 
 header:
   teaser: /assets/images/2009/06/smugmugslideshow.for_.joomla.png

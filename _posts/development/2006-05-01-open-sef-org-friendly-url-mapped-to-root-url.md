@@ -4,7 +4,7 @@ title: 'Open-SEF.org friendly url mapped to root url'
 date: '2006-05-01T17:32:10+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2506'
+
 
 tags:
 - homepage

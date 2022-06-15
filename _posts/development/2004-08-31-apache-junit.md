@@ -4,7 +4,7 @@ title: 'Apache Junit'
 date: '2004-08-31T22:52:36+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=550'
+
 
 ---
 

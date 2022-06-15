@@ -4,7 +4,7 @@ title: 'howTo send some files with FTP to a remote host'
 date: '2005-02-15T20:07:21+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1574'
+
 
 tags:
     - login

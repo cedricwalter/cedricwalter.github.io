@@ -4,7 +4,7 @@ title: 'Waterbay de Thermaltake'
 date: '2005-09-29T20:21:34+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2036'
+
 
 ---
 

@@ -4,7 +4,7 @@ title: 'cheap parts'
 date: '2004-08-26T22:07:50+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=142'
+
 
 header:
   teaser: /assets/images/2004/08/CaliberWithRaptorParts.gif

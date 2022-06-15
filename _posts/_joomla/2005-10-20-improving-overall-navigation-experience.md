@@ -4,7 +4,7 @@ title: 'Improving overall navigation experience&#8230;.'
 date: '2005-10-20T21:29:54+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2058'
+
 
 tags:
     - checked

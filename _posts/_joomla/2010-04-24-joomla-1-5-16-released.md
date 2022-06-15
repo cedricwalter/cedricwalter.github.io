@@ -4,7 +4,7 @@ title: 'Joomla! 1.5.16 Released'
 date: '2010-04-24T19:40:55+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=5165'
+
 
 tags:
     - important

@@ -5,10 +5,10 @@ date: '2020-03-31T14:59:27+02:00'
 author: 'Cédric Walter'
 categories:
 - travel
-guid: 'https://waltercedric.com/?p=11921'
 
-ngg_post_thumbnail:
-    - '0'
+
+
+    
 header:
   teaser: /assets/images/2020/03/sydney-tower.png
 tags:

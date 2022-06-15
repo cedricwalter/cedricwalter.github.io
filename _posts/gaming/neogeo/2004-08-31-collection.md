@@ -4,7 +4,7 @@ title: 'Snk Neo Geo Collection'
 date: '2004-08-31T23:52:43+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=659'
+
 
 header:
   teaser: /assets/images/2004/08/NeoGeoLudotheque.jpg

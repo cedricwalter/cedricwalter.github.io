@@ -4,7 +4,7 @@ title: 'Log4PHP component for Mambo'
 date: '2005-02-27T13:48:01+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1592'
+
 
 tags:
     - configuration

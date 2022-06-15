@@ -4,7 +4,7 @@ title: 'cedThumbnails 2.5.5 for J2.5 Released'
 date: '2012-05-20T18:41:50+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=7682'
+
 
 header:
   teaser: /assets/images/2012/01/cedThumbnails.png

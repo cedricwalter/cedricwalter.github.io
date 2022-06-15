@@ -4,7 +4,7 @@ title: 'Kyosho latest 50-Class Helicopter Caliber 5'
 date: '2005-07-31T14:29:04+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1965'
+
 
 header:
   teaser: /assets/images/2005/07/Kyosho-caliber5-1.jpg

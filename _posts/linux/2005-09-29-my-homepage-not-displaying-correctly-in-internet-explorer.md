@@ -4,7 +4,7 @@ title: 'My homepage not displaying correctly in Internet explorer'
 date: '2005-09-29T20:43:06+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2037'
+
 
 tags:
 - correctly

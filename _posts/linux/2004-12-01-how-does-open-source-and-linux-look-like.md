@@ -4,7 +4,7 @@ title: 'How does Open source and Linux look like?'
 date: '2004-12-01T21:26:25+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1395'
+
 
 tags:
 - opensource

@@ -4,7 +4,7 @@ title: 'Sunday Night Foldathon (S.N.F)'
 date: '2007-03-24T21:24:34+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2949'
+
 
 header:
   teaser: /assets/images/2005/06/sony_playstation_ps3.jpg

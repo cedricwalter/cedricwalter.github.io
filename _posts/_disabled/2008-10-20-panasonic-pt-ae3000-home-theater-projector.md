@@ -4,7 +4,7 @@ title: 'Panasonic PT-AE3000 Home Theater Projector'
 date: '2008-10-20T20:50:55+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3873'
+
 
 header:
   teaser: /assets/images/2008/10/285f581f4dcb4304ac52e9ee275f556a_3.jpg

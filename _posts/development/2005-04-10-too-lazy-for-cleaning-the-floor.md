@@ -4,7 +4,7 @@ title: 'too lazy for cleaning the floor?'
 date: '2005-04-10T23:37:03+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1687'
+
 
 header:
   teaser: /assets/images/2005/04/trilobite-vacuum-175.jpg

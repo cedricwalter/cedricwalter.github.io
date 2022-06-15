@@ -4,7 +4,7 @@ title: 'Adrenaline Rush'
 date: '2009-10-24T22:25:27+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4831'
+
 
 header:
   teaser: /assets/images/2009/10/adrenaline.rush_.png

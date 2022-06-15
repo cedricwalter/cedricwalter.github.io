@@ -4,7 +4,7 @@ title: 'Popularity Progression from months to months'
 date: '2006-06-02T14:40:01+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2636'
+
 
 tags:
     - homepage

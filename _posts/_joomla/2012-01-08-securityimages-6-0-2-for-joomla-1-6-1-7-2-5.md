@@ -4,7 +4,7 @@ title: 'SecurityImages 6.0.2 for Joomla! 1.6/1.7/2.5'
 date: '2012-01-08T14:14:27+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=7408'
+
 
 header:
   teaser: /assets/images/2011/10/joomla_cms_thumb.png

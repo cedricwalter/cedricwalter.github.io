@@ -4,7 +4,7 @@ title: 'opencomment development continue'
 date: '2006-04-12T20:27:14+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2450'
+
 
 tags:
     - joomla

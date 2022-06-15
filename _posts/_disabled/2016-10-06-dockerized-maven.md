@@ -4,7 +4,7 @@ title: 'Dockerized Maven'
 date: '2016-10-06T20:00:00+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=8595'
+
 
 header:
   teaser: /assets/images/2011/11/maven-logo-black-on-white-1.png

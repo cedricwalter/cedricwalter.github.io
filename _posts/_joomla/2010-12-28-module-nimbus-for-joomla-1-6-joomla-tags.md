@@ -4,7 +4,7 @@ title: 'Module Nimbus for Joomla! 1.6 &#038; Joomla-Tags'
 date: '2010-12-28T14:45:48+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=6463'
+
 
 tags:
     - joomla

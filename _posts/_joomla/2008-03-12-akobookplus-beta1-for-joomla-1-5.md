@@ -4,7 +4,7 @@ title: 'Akobookplus beta1 for Joomla! 1.5'
 date: '2008-03-12T20:24:37+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3260'
+
 
 ---
 

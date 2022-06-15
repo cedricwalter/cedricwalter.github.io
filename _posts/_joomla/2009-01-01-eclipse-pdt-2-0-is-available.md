@@ -4,7 +4,7 @@ title: 'Eclipse PDT 2.0 is available'
 date: '2009-01-01T21:24:13+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4022'
+
 
 header:
   teaser: /assets/images/2009/01/zend.debugger.active.in_.xampp_.png

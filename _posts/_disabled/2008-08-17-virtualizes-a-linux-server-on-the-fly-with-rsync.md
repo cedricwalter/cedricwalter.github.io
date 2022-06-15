@@ -4,7 +4,7 @@ title: 'Virtualizes a Linux server on the fly with RSYNC'
 date: '2008-08-17T20:28:34+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3703'
+
 
 header:
   teaser: /assets/images/2008/08/LOGO_virtualized_vmware_S_thumb.jpg

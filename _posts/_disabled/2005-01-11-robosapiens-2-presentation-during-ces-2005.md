@@ -4,7 +4,7 @@ title: 'Robosapiens 2 presentation during CES 2005'
 date: '2005-01-11T21:01:02+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1473'
+
 
 ---
 

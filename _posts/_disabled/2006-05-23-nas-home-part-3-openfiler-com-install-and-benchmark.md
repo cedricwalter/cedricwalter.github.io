@@ -4,7 +4,7 @@ title: 'NAS @ HOME part 3 openfiler.com install and benchmark'
 date: '2006-05-23T23:19:58+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2616'
+
 
 header:
   teaser: /assets/images/2006/05/raid.gif
@@ -86,7 +86,7 @@ Openfiler sits atop of CentOS #Linux (which is derived from sources freely provi
 
 ![RAID @ home raid5](/assets/images/2006/05/raid.gif)<span style="color: rgb(153, 153, 255);"><big style="font-family: Times New Roman,Times,serif;"><span style="color: rgb(153, 153, 255);">Administration</big>
 
- Check [Openfiler Administration guide  
+ Check [Openfiler Administration 
  ](http://www.openfiler.com/docs/manual/) point your browser to https://box\_ip:446/
 
 ![RAID @ home raid5](/assets/images/2006/05/raid.gif)<span style="color: rgb(153, 153, 255);"><big style="font-family: Times New Roman,Times,serif;"><span style="color: rgb(153, 153, 255);">Problems encountered</big>

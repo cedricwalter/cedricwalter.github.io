@@ -4,7 +4,7 @@ title: 'com_opencomment 3.0.0 Head'
 date: '2006-03-12T00:15:03+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2365'
+
 
 header:
   teaser: /assets/images/2006/03/tn_opencomment3.0.0IsBorn.gif

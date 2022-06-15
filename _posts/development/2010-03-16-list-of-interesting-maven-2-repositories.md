@@ -4,7 +4,7 @@ title: 'List of interesting Maven 2 repositories'
 date: '2010-03-16T21:10:38+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=5063'
+
 
 header:
   teaser: /assets/images/2011/11/maven-logo-black-on-white-1.png
@@ -27,7 +27,7 @@ tags:
     - release
 ---
 
-I compiled here a list of the major [Apache #Maven](http://maven.apache.org/) repositories ([read an intro to repositories](http://maven.apache.org/guides/introduction/introduction-to-repositories.html)) for You, You can contact me, or post a comment if you would like to add a missing one to the list.
+I compiled here a list of the major [Apache #Maven](http://maven.apache.org/) repositories ([read an intro to repositories](http://maven.apache.org/
 
 - <http://maven.atlassian.com/repository/public> The Atlassian public repo
 - <http://mvn.carbonfive.com/nexus/content/groups/public>

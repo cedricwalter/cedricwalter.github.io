@@ -4,7 +4,7 @@ title: 'You can now prioritize next Joomla extensions ideas/features'
 date: '2012-02-07T21:00:41+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=7496'
+
 
 header:
   teaser: /assets/images/2012/02/cedricwalter.uservoice.com_thumb.png

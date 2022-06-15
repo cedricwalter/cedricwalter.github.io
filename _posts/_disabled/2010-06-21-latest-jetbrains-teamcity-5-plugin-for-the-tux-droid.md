@@ -4,7 +4,7 @@ title: 'Latest JetBRAINS Teamcity 5 plugin for the Tux Droid'
 date: '2010-06-21T21:07:41+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=5375'
+
 
 header:
   teaser: /assets/images/2010/06/tuxdroid.teamcity_thumb.png

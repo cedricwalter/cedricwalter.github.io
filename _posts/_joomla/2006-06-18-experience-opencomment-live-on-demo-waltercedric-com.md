@@ -4,7 +4,7 @@ title: 'Experience OpenComment live on demo.waltercedric.com'
 date: '2006-06-18T16:02:15+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2653'
+
 
 header:
   teaser: /assets/images/2006/03/opencomment.jpg

@@ -4,7 +4,7 @@ title: 'I am also on twitter'
 date: '2009-02-10T23:19:32+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4135'
+
 
 header:
   teaser: /assets/images/2009/02/twitterlogotext.png

@@ -5,7 +5,7 @@ date: '2004-08-26T21:45:12+02:00'
 author: 'Cédric Walter'
 header:
 teaser: /assets/images/2004/08/kyosho_caliber_30_thumb.jpg
-guid: 'https://waltercedric.com/new/?p=102'
+
 
 tags:
 - kyosho
@@ -39,7 +39,7 @@ it:   **Step 1**     Take the head off leaving the rotor grips and linkages in t
 872 and set that aside.Than the block, take it off the main shaft you need to notice that the wash out arms are in the
 block on the left side. Take off the wash out arms and set them aside. Now measure how far the pins are sticking out off
 the block and right that down.Than take a small set of vice grips and take out the pins from the block. Try not to make
-deep cuts in the pins from the vice grips. Now that you have the pins out use the existing holes as a guide for the
+deep cuts in the pins from the vice grips. Now that you have the pins out use the existing holes as a 
 drill bit. Go at a steady pace when drilling the holes and make sure to try and drill straight. After the holes are
 drilled take the pins and you are going to place the pins in the block on the flipped side. Remember not to put them in
 the same holes as before. When you look at the block the wash out arms should be on the right side. To put the pins in
@@ -61,7 +61,7 @@ the hiller control arm back on. You need to have locktight, I don’t think that
 pilot owns alot of locktight, loose bolts are not are friend they are the enemy. Ok so all of the ass. bolts need
 locktight on them, the blue type is better because you might need to replace parts and the red locktight is too strong
 so you may end up stripping something, not good. Allright the mixing arm and hiller arm need to be flush with the head,
-no slop ok. This side is going to be the guide side and everything else will be adjusted from this. After you have
+no slop ok. This side is going to be the 
 completed this side do the other side. But don’t put the paddles back on leave them off. When it is all said and done
 take a flat ruller and measure from the hiller control arm to the tip of the shaft. Than measure the other side. You
 should get the same measurement if not get it to be equal on both sides.   **Step 4**     Now that all of the parts have

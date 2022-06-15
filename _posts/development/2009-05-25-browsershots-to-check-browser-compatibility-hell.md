@@ -4,7 +4,7 @@ title: 'Browsershots to check browser compatibility hell'
 date: '2009-05-25T16:46:27+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4337'
+
 
 header:
   teaser: /assets/images/2009/05/browsershots.org_.logo_thumb.gif

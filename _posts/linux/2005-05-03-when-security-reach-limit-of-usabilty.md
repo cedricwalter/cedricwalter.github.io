@@ -4,7 +4,7 @@ title: 'When Security reach limit of usabilty'
 date: '2005-05-03T19:30:23+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1706'
+
 
 tags:
 - distribution

@@ -4,7 +4,7 @@ title: 'ZFS: too good to be true'
 date: '2006-06-25T22:20:38+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2656'
+
 
 tags:
     - 'PC and Hardware'

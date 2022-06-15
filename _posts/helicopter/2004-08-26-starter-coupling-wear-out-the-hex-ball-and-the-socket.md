@@ -4,7 +4,7 @@ title: 'Starter coupling wear out the hex ball and the socket'
 date: '2004-08-26T21:33:47+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=58'
+
 
 header:
   teaser: /assets/images/2004/08/metalHex2.JPG

@@ -4,7 +4,7 @@ title: 'Speeding Up Joomla! a little bit'
 date: '2007-01-28T18:09:57+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2854'
+
 
 tags:
 - HowTo
@@ -85,6 +85,6 @@ Note: I recommend You to use also mod\_evasive and mod\_security (root access ne
 
 Some links, where I borrow some ideas:
 
-[ http://www.primakoala.com/tutorials/guides/speeding\_up\_joomla.html](http://www.primakoala.com/tutorials/guides/speeding_up_joomla.html)   
+[ http://www.primakoala.com/tutorials/
 [ http://forum.joomla.org/index.php/topic,50278.0.html](http://forum.joomla.org/index.php/topic,50278.0.html)  
 [ http://forum.joomla.org/index.php/topic,54175.0.html](http://forum.joomla.org/index.php/topic,54175.0.html)

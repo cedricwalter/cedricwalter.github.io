@@ -4,7 +4,7 @@ title: 'Raptor 90 Models for Reflex Xtr'
 date: '2005-05-11T18:59:16+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1719'
+
 
 header:
   teaser: /assets/images/2005/05/raptor90_XTR.jpg

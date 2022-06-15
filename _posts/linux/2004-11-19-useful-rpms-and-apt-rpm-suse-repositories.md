@@ -4,7 +4,7 @@ title: 'useful RPMs and apt-rpm SuSe repositories'
 date: '2004-11-19T10:22:35+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1380'
+
 
 tags:
 - OpenSuse

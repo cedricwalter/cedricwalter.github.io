@@ -4,7 +4,7 @@ title: 'My Computer Build for 2017 and beyond'
 date: '2017-08-23T19:40:24+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=8652'
+
 
 header:
   teaser: /assets/images/2020/04/amd-threadripper-ryzen-2.jpg

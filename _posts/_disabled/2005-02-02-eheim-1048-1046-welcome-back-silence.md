@@ -4,7 +4,7 @@ title: 'eheim 1048/1046 welcome back silence!'
 date: '2005-02-02T20:55:48+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1553'
+
 
 ---
 

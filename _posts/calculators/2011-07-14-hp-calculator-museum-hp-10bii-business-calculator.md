@@ -4,7 +4,7 @@ title: 'HP calculator museum: Hewlett Packard HP 10BII Business Calculator'
 date: '2011-07-14T21:33:55+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=6921'
+
 
 header:
   teaser: /assets/images/2011/07/hp10BBusinessCalculator_00_thumb.jpg

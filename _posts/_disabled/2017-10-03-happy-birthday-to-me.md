@@ -5,7 +5,7 @@ date: '2017-10-03T11:43:02+02:00'
 author: 'Cédric Walter'
 header:
   teaser: /assets/images/2014/10/happyBirthdayCedricWalter.png
-guid: 'https://waltercedric.com/new/?p=8678'
+
 
 ---
 

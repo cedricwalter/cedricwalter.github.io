@@ -4,7 +4,7 @@ title: 'Continuous build of Apache projects'
 date: '2008-04-06T17:37:16+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3360'
+
 
 header:
   teaser: /assets/images/2008/04/4399f6228b40448db40fc3833fdbbb52.jpg

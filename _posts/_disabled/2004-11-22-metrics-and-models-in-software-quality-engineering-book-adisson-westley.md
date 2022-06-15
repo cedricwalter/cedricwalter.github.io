@@ -4,7 +4,7 @@ title: 'Metrics and Models in Software Quality Engineering  book &#8211; Adisson
 date: '2004-11-22T11:26:00+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1384'
+
 
 tags:
     - dependencies

@@ -4,7 +4,7 @@ title: 'Announcing Joomla! photowidget for Smugmug, Picasa, Flickr RSS'
 date: '2009-07-08T23:45:21+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4526'
+
 
 header:
   teaser: /assets/images/2009/07/photowidget.smugmug.flickr.picasa.png

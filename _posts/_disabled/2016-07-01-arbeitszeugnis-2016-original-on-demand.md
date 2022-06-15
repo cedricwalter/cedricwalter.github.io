@@ -4,7 +4,7 @@ title: 'ArbeitsZeugnis 2016 (original on demand)'
 date: '2016-07-01T10:13:23+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=8400'
+
 
 header:
   teaser: /assets/images/2016/07/Arbeitszeugnis.png

@@ -4,7 +4,7 @@ title: 'Following Bill Gates&#8217; Linux Attack Money'
 date: '2005-07-01T08:28:29+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1809'
+
 
 tags:
     - controlling

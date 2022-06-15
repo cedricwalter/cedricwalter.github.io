@@ -5,10 +5,10 @@ date: '2020-04-01T16:42:36+02:00'
 author: 'Cédric Walter'
 categories:
 - travel
-guid: 'https://waltercedric.com/?p=12450'
 
-ngg_post_thumbnail:
-    - '0'
+
+
+    
 header:
   teaser: /assets/images/2020/04/alice-springs-in-australia-northern-territory-2.jpg
 tags:

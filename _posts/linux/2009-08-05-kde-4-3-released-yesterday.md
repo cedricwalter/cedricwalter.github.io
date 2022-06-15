@@ -4,7 +4,7 @@ title: 'KDE 4.3 released yesterday'
 date: '2009-08-05T19:36:16+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4578'
+
 
 header:
   teaser: /assets/images/2009/08/kde430_thumb.png

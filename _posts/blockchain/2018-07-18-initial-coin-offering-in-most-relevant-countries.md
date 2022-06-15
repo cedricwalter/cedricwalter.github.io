@@ -5,7 +5,7 @@ date: '2018-07-18T20:44:24+02:00'
 author: 'Cédric Walter'
 categories:
 - blockchain
-guid: 'https://waltercedric.com/new/?p=8739'
+
 
 header:
   teaser: /assets/images/2018/07/Initial-Coin-Offering-in-most-relevant-countries.png

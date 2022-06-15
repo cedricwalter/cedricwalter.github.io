@@ -5,10 +5,10 @@ date: '2020-04-10T16:24:12+02:00'
 author: 'Cédric Walter'
 categories:
 - travel
-guid: 'https://waltercedric.com/?p=12837'
 
-ngg_post_thumbnail:
-    - '0'
+
+
+    
 
 header:
     overlay_image: /assets/images/2020/04/singapore-merion-park-1.jpg

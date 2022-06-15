@@ -4,7 +4,7 @@ title: 'My Equipment&#8230;'
 date: '2004-08-31T23:45:39+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=638'
+
 
 header:
   teaser: /assets/images/2004/08/counter.jpg

@@ -4,7 +4,7 @@ title: 'components code migration to joomla 1.5'
 date: '2007-07-15T20:37:19+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3013'
+
 
 tags:
     - joomla

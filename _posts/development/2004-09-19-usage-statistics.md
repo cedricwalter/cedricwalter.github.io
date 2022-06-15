@@ -4,7 +4,7 @@ title: 'Usage Statistics&#8230;'
 date: '2004-09-19T19:38:10+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1229'
+
 
 tags:
     - installed

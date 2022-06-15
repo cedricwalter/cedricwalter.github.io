@@ -4,7 +4,7 @@ title: 'Optimize Joomla! site'
 date: '2009-09-27T11:14:00+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4701'
+
 
 ---
 

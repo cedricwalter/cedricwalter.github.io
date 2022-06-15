@@ -4,7 +4,7 @@ title: 'I was fighting today against Apache Maven release plugin with multi modu
 date: '2010-03-29T19:55:13+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=5125'
+
 
 header:
   teaser: /assets/images/2011/11/maven-logo-black-on-white-1.png

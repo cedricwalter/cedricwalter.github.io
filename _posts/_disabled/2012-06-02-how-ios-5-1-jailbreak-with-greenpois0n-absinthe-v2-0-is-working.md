@@ -4,7 +4,7 @@ title: 'How iOS 5.1 Jailbreak with GreenPois0n Absinthe v2.0 is working'
 date: '2012-06-02T15:06:51+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=7707'
+
 
 header:
   teaser: /assets/images/2012/06/iOSJailbreakWithAbsinthe_thumb.png

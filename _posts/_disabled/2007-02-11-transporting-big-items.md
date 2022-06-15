@@ -4,7 +4,7 @@ title: 'Transporting big items&#8230;'
 date: '2007-02-11T22:12:15+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2876'
+
 
 header:
   teaser: /assets/images/2007/02/717px-Blue_Marlin_carrying_Thunder_Horse_2.jpg

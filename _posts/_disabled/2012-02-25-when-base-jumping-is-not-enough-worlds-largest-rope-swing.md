@@ -4,7 +4,7 @@ title: 'When base jumping is not enough: World&#8217;s Largest Rope Swing.'
 date: '2012-02-25T22:47:14+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=7527'
+
 
 ---
 

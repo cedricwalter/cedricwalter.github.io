@@ -4,7 +4,7 @@ title: 'A Screen for my home cinema'
 date: '2006-08-03T00:02:24+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2672'
+
 
 header:
   teaser: /assets/images/2006/08/dalite-model_c_csr.jpg
@@ -16,7 +16,7 @@ tags:
  I am reading many forums since 2 weeks ([home cinema-fr.com](<http://home cinema-fr.com>), [www.avforums.com](http://www.avsforum.com/avs-vb/forumdisplay.php?f=9)<font size="-1">, [www.homecinemachoice.com](http://www.homecinemachoice.com)) and reviews to better understand how to choose the right screen for my Panasonic PT900-AE. I am more or less installed in my new apartment, but in order to profit of the biggest room (6.4m \* 3.6m), I have to use a wall with either windows or a door in the middle. Time to shop for a screen instead of using the white wall…
 
  A lot of companies are selling screens, and if You do not take care, You’ll end up very quickly with a 200euro screens, which are per see not bad, but really not adapted for home cinema.  
- You will find a lot of tutorials and guide on the Internet helping You choosing the right screens. Stewart being the Rolls-Royce brand of screens (but it start at 8000CHF)
+ You will find a lot of tutorials and 
 
  The 3 major parameters are:
 

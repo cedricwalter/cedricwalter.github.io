@@ -4,7 +4,7 @@ title: 'Phoenix RC model flight simulation'
 date: '2012-01-08T14:51:00+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=7418'
+
 
 header:
   teaser: /assets/images/2012/01/phoenixRc_header_thumb.png

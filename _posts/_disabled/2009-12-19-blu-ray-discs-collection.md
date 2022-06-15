@@ -4,7 +4,7 @@ title: 'Blu-ray discs collection'
 date: '2009-12-19T00:00:00+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3653'
+
 
 header:
   teaser: /assets/images/2009/12/bluray_banner_thumb.jpg

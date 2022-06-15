@@ -4,7 +4,7 @@ title: 'Robosapiens 2 available in sept. 2005?'
 date: '2005-01-29T21:17:02+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1536'
+
 
 ---
 

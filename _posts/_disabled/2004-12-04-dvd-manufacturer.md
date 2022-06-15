@@ -4,7 +4,7 @@ title: 'DVD manufacturer'
 date: '2004-12-04T21:32:56+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1432'
+
 
 tags:
     - brand

@@ -4,7 +4,7 @@ title: 'Geshi update for Mambo 4.5.2'
 date: '2005-06-20T23:27:12+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1800'
+
 
 tags:
     - cms

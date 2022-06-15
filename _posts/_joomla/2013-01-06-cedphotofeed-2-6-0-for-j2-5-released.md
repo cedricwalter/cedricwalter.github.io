@@ -4,7 +4,7 @@ title: 'cedPhotofeed 2.6.0 for J2.5 Released'
 date: '2013-01-06T15:38:39+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=7938'
+
 
 header:
   teaser: /assets/images/2012/03/flickr.photofeed_thumb_b762b40a05c32e0ad752d1260a32a6b1.png

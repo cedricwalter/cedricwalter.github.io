@@ -4,7 +4,7 @@ title: 'THE reference portal for web API'
 date: '2006-04-10T18:41:41+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2447'
+
 
 tags:
     - java

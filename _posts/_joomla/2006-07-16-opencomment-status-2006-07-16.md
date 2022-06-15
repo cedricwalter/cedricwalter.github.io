@@ -4,7 +4,7 @@ title: 'OpenComment  status 2006.07.16'
 date: '2006-07-16T21:03:44+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2666'
+
 
 tags:
     - joomla

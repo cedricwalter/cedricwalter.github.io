@@ -4,7 +4,7 @@ title: '3 New Icons Packs for AKoComments 2.5'
 date: '2005-03-08T19:54:46+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1611'
+
 
 header:
   teaser: /assets/images/2005/03/Armataz_02.gif

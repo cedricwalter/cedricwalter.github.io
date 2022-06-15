@@ -4,7 +4,7 @@ title: 'People get smarter and things get faster!'
 date: '2005-01-18T22:46:26+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1484'
+
 
 header:
   teaser: /assets/images/2005/01/wiring-ps2-pad-to-lpt-pc-port.png

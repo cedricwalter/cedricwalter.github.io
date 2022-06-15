@@ -4,7 +4,7 @@ title: 'Panasonic PT-AE900 LCD 720p reviews&#8230;'
 date: '2005-10-07T19:58:55+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2048'
+
 
 header:
   teaser: /assets/images/2005/10/Panasonic-PT-AE900U-Projector.gif

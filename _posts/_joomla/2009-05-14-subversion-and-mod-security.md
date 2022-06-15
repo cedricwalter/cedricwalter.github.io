@@ -4,7 +4,7 @@ title: 'Subversion and mod Security'
 date: '2009-05-14T13:13:42+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4327'
+
 
 header:
   teaser: /assets/images/2009/05/plesk.logo_.jpg

@@ -4,7 +4,7 @@ title: 'Phoenix RC is no longer supported'
 date: '2019-09-24T16:12:51+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=8773'
+
 
 header:
   teaser: /assets/images/2012/01/phoenixRc_header_thumb.png

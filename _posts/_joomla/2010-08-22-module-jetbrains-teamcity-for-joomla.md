@@ -4,7 +4,7 @@ title: 'Module Jetbrains Teamcity for Joomla!'
 date: '2010-08-22T18:23:59+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=5759'
+
 
 tags:
     - caching

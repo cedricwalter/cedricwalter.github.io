@@ -4,7 +4,7 @@ title: 'Yamaha Homologue son Warrior 350r'
 date: '2005-05-29T17:34:47+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1768'
+
 
 header:
   teaser: /assets/images/2005/05/Yamaha350R-homologue-CEE.jpg

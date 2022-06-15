@@ -4,7 +4,7 @@ title: 'Apache POI contribution patches'
 date: '2013-06-01T11:34:03+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=8049'
+
 
 header:
 teaser: /assets/images/2012/10/apache-poi-logo_thumb.jpg

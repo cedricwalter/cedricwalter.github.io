@@ -4,7 +4,7 @@ title: '1474 Megapixels Photo During President Obama&#8217;s Inaugural Address'
 date: '2009-01-26T22:14:43+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4062'
+
 
 ---
 

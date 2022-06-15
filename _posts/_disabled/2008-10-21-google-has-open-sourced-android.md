@@ -4,7 +4,7 @@ title: 'Google has Open Sourced Android!!!'
 date: '2008-10-21T22:48:34+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3879'
+
 
 header:
   teaser: /assets/images/2008/10/free.android.emulator_thumb.png
@@ -28,7 +28,7 @@ Try android emulator for FREE
 # Important links:**
 
 - [Android Developer Home Page](http://code.google.com/android/)
-- [Android Developer Documentation, including the Getting Started Guide, and the API Reference](http://code.google.com/android/documentation.html)
+- [Android Developer Documentation, including the Getting Started 
 - [Android FAQs](http://code.google.com/android/kb/index.html)
 - [Discussion Group](http://groups.google.com/group/android-developers)
 - [Mailing Lists](http://source.android.com/discuss)

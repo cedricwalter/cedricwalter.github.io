@@ -4,7 +4,7 @@ title: 'Jedit the greatest text editor'
 date: '2005-03-09T20:04:54+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1618'
+
 
 tags:
 - designed

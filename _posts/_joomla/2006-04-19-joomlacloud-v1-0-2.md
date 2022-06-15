@@ -4,7 +4,7 @@ title: 'JoomlaCloud v1.0.2'
 date: '2006-04-19T19:26:15+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2470'
+
 
 tags:
     - building

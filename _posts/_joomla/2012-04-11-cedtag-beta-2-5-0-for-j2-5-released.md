@@ -4,7 +4,7 @@ title: 'CedTag BETA 2.5.0 for J2.5 Released'
 date: '2012-04-11T21:36:05+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=7590'
+
 
 header:
   teaser: /assets/images/2012/04/cedTags_for_joomla_thumb.png

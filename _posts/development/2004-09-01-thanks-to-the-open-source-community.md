@@ -4,7 +4,7 @@ title: 'Thanks to the open source community!'
 date: '2004-09-01T00:06:22+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=690'
+
 
 header:
   teaser: /assets/images/2004/09/apache.gif

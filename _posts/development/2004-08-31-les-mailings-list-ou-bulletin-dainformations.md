@@ -4,7 +4,7 @@ title: 'Les Mailings-List ou bulletin dÂ´informations'
 date: '2004-08-31T23:05:45+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=556'
+
 
 tags:
     - francais

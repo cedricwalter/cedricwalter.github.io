@@ -4,7 +4,7 @@ title: 'Maven: Let the Continuous Build Embrace Your Database'
 date: '2009-04-09T12:06:43+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4247'
+
 
 tags:
     - apache

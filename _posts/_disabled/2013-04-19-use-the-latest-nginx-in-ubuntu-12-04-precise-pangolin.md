@@ -4,7 +4,7 @@ title: 'Use the latest nginx in Ubuntu 12.04 Precise Pangolin'
 date: '2013-04-19T20:56:17+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=8007'
+
 
 header:
   teaser: /assets/images/2012/01/Nginx-logo.png

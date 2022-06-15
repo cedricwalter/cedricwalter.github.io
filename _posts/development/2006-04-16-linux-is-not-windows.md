@@ -4,7 +4,7 @@ title: 'Linux is Not Windows'
 date: '2006-04-16T13:30:37+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2467'
+
 
 header:
   teaser: /assets/images/2011/05/linux.png

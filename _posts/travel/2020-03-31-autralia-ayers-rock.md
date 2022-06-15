@@ -5,10 +5,10 @@ date: '2020-03-31T15:07:31+02:00'
 author: 'Cédric Walter'
 categories:
 - travel
-guid: 'https://waltercedric.com/?p=11938'
 
-ngg_post_thumbnail:
-    - '0'
+
+
+    
 header:
   teaser: /assets/images/2020/03/australia.northern.territory.ayers_.rock_0056.jpg
 tags:

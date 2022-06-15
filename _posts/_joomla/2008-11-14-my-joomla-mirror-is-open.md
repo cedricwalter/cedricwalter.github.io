@@ -4,7 +4,7 @@ title: 'My Joomla! Mirror is open!'
 date: '2008-11-14T22:52:39+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3925'
+
 
 header:
   teaser: /assets/images/2008/11/joomla.files_thumb.png

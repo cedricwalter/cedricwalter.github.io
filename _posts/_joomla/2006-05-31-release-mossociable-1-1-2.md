@@ -4,7 +4,7 @@ title: 'Release mosSociable 1.1.2'
 date: '2006-05-31T21:51:47+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2635'
+
 
 tags:
     - joomla

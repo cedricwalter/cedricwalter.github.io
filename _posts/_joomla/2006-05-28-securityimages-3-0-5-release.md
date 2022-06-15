@@ -4,7 +4,7 @@ title: 'SecurityImages 3.0.5 release'
 date: '2006-05-28T13:09:23+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2628'
+
 
 header:
   teaser: /assets/images/2006/05/hncapcthaSecurityImages3.0.5.jpg

@@ -4,7 +4,7 @@ title: 'Videolan getting better at each release!'
 date: '2005-07-19T23:22:01+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1930'
+
 
 tags:
     - engineering

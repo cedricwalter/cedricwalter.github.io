@@ -4,11 +4,11 @@ title: 'How to improve your debugging skills'
 date: '2004-08-31T22:47:37+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=545'
+
 
 ---
 
-![](java/guidelines/debug_im/dilbert2073207040504.gif)
+![](java/
 
 # Introduction
 
@@ -69,7 +69,7 @@ This document is all about theses points…and is targeted for java web applicat
 
 from Mantis
 
-![](java/guidelines/debug_im/bug_lifecycle.jpg)
+![](java/
 
 # Loging, logs files**
 
@@ -99,10 +99,10 @@ from Mantis
     - Do not log too much mainly because of performance issues or try to use a preprocessor which remove logging
       statements before deploying to production…
     - Do not write stupid data during logging, e.g. "this is the value of i" or "iteration i", in this case use the
-      debuger. for the same reasons avoid writing a 100Kb [XML](java/guidelines/www.xml.org), it is useless, write the
+      debuger. for the same reasons avoid writing a 100Kb [XML](java/
       XML in a file…
     - Do not rely on logging to rescue You from bad code: instead of losing correcting a bad code, why not
-      try [refactor](java/guidelines/www.refactoring.com) it!
+      try [refactor](java/
 
 - Log amount can be enormous, especially when you track a bug at the same time with 4000 users working in production on
   many server (webserver, application server, servlet runner, database cluster)…. this is why You "must":
@@ -146,14 +146,14 @@ finding it may not be easy…
 - If you are running your application on remote server, are You sure that you deploy the latest code version? this is
   very easy to test:
     - You can for example run a Unix scripts which compare class CRC or
-    - Use [beyond compare](java/guidelines/www.scootersoftware.com), a graphical tools to compare directories and
+    - Use [beyond compare](java/
       contents even through FTP.
     - If You know the class name and package where the exception occurred (look at the stacktrace in log files), use a
       decompiler like JAD to verify if the latest code is there (follow the rule 1 : "never trust anyone" even You
       sometimes 😉 )
 - Suspect the classloader:
     - You may have different version of the same class in the classpath = bad deployment
-    - The classloader do not respect the servlet guidelines (the servlet runner Resin has some problems for example)
+    - The classloader do not respect the servlet 
     - Order of jar in classpath, You can have dfferent parser version in different jar files for example.  
       In all cases above try:
         - to start the JVM in verbose mode, to see which classes is load a which moment.

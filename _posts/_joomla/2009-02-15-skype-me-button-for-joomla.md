@@ -4,7 +4,7 @@ title: 'Skype me button for Joomla!'
 date: '2009-02-15T20:21:37+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4166'
+
 
 ---
 

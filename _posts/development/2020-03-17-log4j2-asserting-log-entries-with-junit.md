@@ -4,7 +4,7 @@ title: 'Log4j 2 asserting log entries with Junit'
 date: '2020-03-17T14:59:03+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=8316'
+
 
 header:
   teaser: /assets/images/2020/03/java.jpg

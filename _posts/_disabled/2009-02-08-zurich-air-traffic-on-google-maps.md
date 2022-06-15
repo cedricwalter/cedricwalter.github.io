@@ -4,7 +4,7 @@ title: 'Zurich air traffic on Google maps'
 date: '2009-02-08T00:13:00+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4120'
+
 
 header:
   teaser: /assets/images/2009/02/airTraffic.png

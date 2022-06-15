@@ -5,10 +5,10 @@ date: '2020-03-31T16:10:44+02:00'
 author: 'Cédric Walter'
 categories:
 - travel
-guid: 'https://waltercedric.com/?p=12124'
 
-ngg_post_thumbnail:
-    - '0'
+
+
+    
 header:
   teaser: /assets/images/2020/03/australia.south_.australia.kanguru.island.seal_.bay_00174.jpg
 tags:

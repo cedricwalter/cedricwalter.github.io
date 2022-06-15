@@ -4,7 +4,7 @@ title: 'Hackers have modified an estimated 150,000 of the 9 million Xboxes'
 date: '2004-10-01T15:30:39+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1237'
+
 
 tags:
 - custom

@@ -4,7 +4,7 @@ title: 'For Transmitter'
 date: '2004-09-05T16:58:50+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1015'
+
 
 header:
   teaser: /assets/images/2004/09/TN_FUTAM.JPG

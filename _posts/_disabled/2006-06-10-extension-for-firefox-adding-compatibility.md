@@ -4,7 +4,7 @@ title: 'Extension for Firefox adding compatibility'
 date: '2006-06-10T14:29:37+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2649'
+
 
 header:
   teaser: /assets/images/2006/06/fingerfox-fingerprint-support-for-firefox.png

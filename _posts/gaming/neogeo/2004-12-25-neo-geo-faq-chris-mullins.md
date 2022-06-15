@@ -4,7 +4,7 @@ title: 'Neo Geo FAQ (Chris Mullins)'
 date: '2004-12-25T11:45:35+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1449'
+
 
 header:
   teaser: /assets/images/2009/10/snk-neo-geo-logo.png

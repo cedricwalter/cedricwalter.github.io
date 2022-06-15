@@ -4,7 +4,7 @@ title: 'Detailled planning of my Australia trip'
 date: '2007-11-21T13:48:31+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3122'
+
 
 header:
   teaser: /assets/images/2020/03/australia.south_.australia.kanguru.island_00142.jpg

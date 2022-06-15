@@ -4,7 +4,7 @@ title: 'SecurityImages 5.0.0 BETA for Joomla! 1.5'
 date: '2008-03-21T19:19:11+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3278'
+
 
 header:
   teaser: /assets/images/2008/03/checkingYourSystem_thumb.gif

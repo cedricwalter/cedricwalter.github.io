@@ -4,7 +4,7 @@ title: 'Make a VMWARE copy of a live Linux server'
 date: '2009-06-18T20:31:29+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4462'
+
 
 ---
 

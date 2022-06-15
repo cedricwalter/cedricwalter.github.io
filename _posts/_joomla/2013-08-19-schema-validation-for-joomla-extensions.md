@@ -4,7 +4,7 @@ title: 'Schema Validation for Joomla 3.1 Extensions'
 date: '2013-08-19T21:43:20+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=8146'
+
 
 header:
   teaser: /assets/images/2009/07/joomla.png

@@ -4,7 +4,7 @@ title: 'Packt Publishing Open Source Awards'
 date: '2010-09-04T20:57:36+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=5962'
+
 
 header:
   teaser: /assets/images/2010/09/PacktOSAWARDS.png

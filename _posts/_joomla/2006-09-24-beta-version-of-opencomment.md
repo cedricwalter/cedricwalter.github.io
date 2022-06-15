@@ -4,7 +4,7 @@ title: 'Beta version of OpenComment'
 date: '2006-09-24T15:46:59+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2707'
+
 
 header:
   teaser: /assets/images/2006/03/opencomment.jpg

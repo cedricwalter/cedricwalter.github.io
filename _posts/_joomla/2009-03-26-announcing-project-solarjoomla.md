@@ -4,7 +4,7 @@ title: 'Announcing Project: SolarJoomla'
 date: '2009-03-26T17:46:42+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4230'
+
 
 header:
   teaser: /assets/images/2006/04/eclipse.jpg

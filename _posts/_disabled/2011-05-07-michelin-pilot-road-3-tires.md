@@ -4,7 +4,7 @@ title: 'Michelin Pilot Road 3 Tires'
 date: '2011-05-07T07:53:21+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=6685'
+
 
 tags:
 - road
@@ -23,10 +23,10 @@ This is which tires went through my Honda Hornet till today.
 
 | **<span style="color: #ffffff;">From** | **<span style="color: #ffffff;">To** | **<span style="color: #ffffff;">Brand**                                                                                       | **<span style="color: #ffffff;">Price** |
 |----------------------------------------|--------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|
-| 0                                      | 5500 km                              | [Bridgestone BT 021](http://www.lerepairedesmotards.com/guides/pneu-fiche.php?marque=Bridgestone&modele=BT+021&avar=av)       |                                         |
-| 5500 km                                | 11’110 km                            | [Bridgestone BT 021](http://www.lerepairedesmotards.com/guides/pneu-fiche.php?marque=Bridgestone&modele=BT+021&avar=av)       |                                         |
-| 11’110 km                              | 22190 km                             | [Pirelli Diablo Corsa](http://www.lerepairedesmotards.com/guides/pneu-fiche.php?marque=Pirelli&modele=Diablo%20Corsa&avar=av) | 409€                                    |
-| 22190 km                               | …                                    | [Michelin Pilot Road 3](http://www.lerepairedesmotards.com/guides/pneu-fiche.php?marque=Michelin&modele=PilotRoad3&avar=av)   | 170€                                    |
+| 0                                      | 5500 km                              | [Bridgestone BT 021](http://www.lerepairedesmotards.com/
+| 5500 km                                | 11’110 km                            | [Bridgestone BT 021](http://www.lerepairedesmotards.com/
+| 11’110 km                              | 22190 km                             | [Pirelli Diablo Corsa](http://www.lerepairedesmotards.com/
+| 22190 km                               | …                                    | [Michelin Pilot Road 3](http://www.lerepairedesmotards.com/
 
 [![michelin_pilot_road3_tires_2](/assets/images/2011/05/michelin_pilot_road3_tires_2_thumb.jpg "michelin_pilot_road3_tires_2")](/assets/images/2011/05/michelin_pilot_road3_tires_2.jpg)
 

@@ -4,7 +4,7 @@ title: 'OpenComment deployed at demo.waltercedric.com'
 date: '2006-09-26T19:33:31+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2708'
+
 
 header:
   teaser: /assets/images/2006/03/opencomment-72.jpg

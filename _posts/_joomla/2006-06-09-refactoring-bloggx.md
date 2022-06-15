@@ -4,7 +4,7 @@ title: 'Refactoring BloggX'
 date: '2006-06-09T18:34:20+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2645'
+
 
 header:
   teaser: /assets/images/2006/04/bloggx_65.png
@@ -20,7 +20,7 @@ tags:
    
  And I want to show heresome results achieved, The author has done a great job, and I have tried to bring my #Java expertise to help him bring new functionnalities faster. Moreover a JAVA break just for fun (but hehe I already do Java at work 🙂 ) was needed after being so frustrated with PHP…<big>  
  </big>  
- But let me be a little more technical, below are some numbers create with a tool of IBM: [Structural Analysis for #Java:](http://www.alphaworks.ibm.com/tech/sa4j)  Structural Analysis for JavaTM (SA4J) is a technology that analyzes structural dependencies of Java applications in order to measure their stability. It detects structural "anti-patterns" (suspicious design elements) and provides dependency web browsing for detailed exploration of anti-patterns in the dependency web. SA4J also enables "what if" analysis in order to assess the impact of change on the functionality of the application; and it offers guidelines for package re-factoring.  
+ But let me be a little more technical, below are some numbers create with a tool of IBM: [Structural Analysis for #Java:](http://www.alphaworks.ibm.com/tech/sa4j)  Structural Analysis for JavaTM (SA4J) is a technology that analyzes structural dependencies of Java applications in order to measure their stability. It detects structural "anti-patterns" (suspicious design elements) and provides dependency web browsing for detailed exploration of anti-patterns in the dependency web. SA4J also enables "what if" analysis in order to assess the impact of change on the functionality of the application; and it offers 
    
  
 

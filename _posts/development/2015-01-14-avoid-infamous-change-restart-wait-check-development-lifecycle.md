@@ -4,7 +4,7 @@ title: 'Avoid infamous change &#8211; restart &#8211; wait &#8211; check develop
 date: '2015-01-14T14:36:39+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=8250'
+
 
 header:
   teaser: /assets/images/2015/01/devlopment.jpg

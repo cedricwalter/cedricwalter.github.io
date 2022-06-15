@@ -4,7 +4,7 @@ title: 'Apache Maven Archetype for Joomla'
 date: '2012-08-17T09:22:23+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=7750'
+
 
 header:
   teaser: /assets/images/2011/11/maven-logo-black-on-white-1.png

@@ -4,7 +4,7 @@ title: 'Anonimity, localizing device on internet behind firewall'
 date: '2005-03-08T21:54:58+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1614'
+
 
 tags:
 - Electronics

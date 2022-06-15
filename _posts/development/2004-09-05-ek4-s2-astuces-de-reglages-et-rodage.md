@@ -4,7 +4,7 @@ title: 'EK4-S2 astuces de réglages et rodage.'
 date: '2004-09-05T16:40:30+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1005'
+
 
 tags:
 - Techniques

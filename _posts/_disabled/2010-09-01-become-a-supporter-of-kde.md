@@ -4,7 +4,7 @@ title: 'Become a supporter of KDE!'
 date: '2010-09-01T18:56:26+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=5927'
+
 
 tags:
 - desktop

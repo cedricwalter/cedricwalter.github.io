@@ -4,7 +4,7 @@ title: 'Cheetah “Characterstick” Bart Simpson Nintendo NES Joystick'
 date: '2011-09-17T12:49:31+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=7158'
+
 
 tags:
     - games

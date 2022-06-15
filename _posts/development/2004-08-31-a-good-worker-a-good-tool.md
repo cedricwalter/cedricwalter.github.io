@@ -4,7 +4,7 @@ title: 'A good worker. a good tool!'
 date: '2004-08-31T22:40:43+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=538'
+
 
 tags:
     - capabilities

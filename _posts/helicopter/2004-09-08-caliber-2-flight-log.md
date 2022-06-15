@@ -4,7 +4,7 @@ title: 'CALIBER 2 flight log'
 date: '2004-09-08T23:26:54+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1156'
+
 
 tags:
     - disassemble

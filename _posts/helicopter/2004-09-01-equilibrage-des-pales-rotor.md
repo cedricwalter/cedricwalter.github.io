@@ -4,7 +4,7 @@ title: 'Equilibrage des pales rotor'
 date: '2004-09-01T23:48:54+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=937'
+
 
 tags:
     - 'Astuces (fr)'

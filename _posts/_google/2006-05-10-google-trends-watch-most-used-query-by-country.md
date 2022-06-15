@@ -4,7 +4,7 @@ title: 'Google Trends: watch most used query by country'
 date: '2006-05-10T23:28:57+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2519'
+
 
 tags:
 - google

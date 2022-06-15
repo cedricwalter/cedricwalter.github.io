@@ -4,7 +4,7 @@ title: 'Happy Thanksgiving!'
 date: '2019-11-29T09:13:41+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=8781'
+
 
 header:
   teaser: /assets/images/2019/11/happyThanksgiving.jpg

@@ -4,7 +4,7 @@ title: 'A Deluge of Facts Killing OOXML (Office Open XML)'
 date: '2008-02-13T12:26:19+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3183'
+
 
 tags:
     - microsoft

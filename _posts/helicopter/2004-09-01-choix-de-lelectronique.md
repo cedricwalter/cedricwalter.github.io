@@ -4,7 +4,7 @@ title: 'choix de l&#8217;électronique'
 date: '2004-09-01T23:39:52+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=918'
+
 
 tags:
 

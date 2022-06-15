@@ -4,7 +4,7 @@ title: 'IPOD: great device for smart users'
 date: '2004-10-26T21:37:12+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1337'
+
 
 tags:
     - compatible

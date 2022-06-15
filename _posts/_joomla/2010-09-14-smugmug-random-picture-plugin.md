@@ -4,7 +4,7 @@ title: 'Smugmug Random Picture plugin'
 date: '2010-09-14T19:16:28+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=6019'
+
 
 header:
   teaser: /assets/images/2010/09/99pxSmugmug_logo.jpg

@@ -4,7 +4,7 @@ title: 'Arthur Breitman: Tezos – A Self-Amending Crypto-Ledger'
 date: '2016-09-02T19:53:55+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=8576'
+
 
 ---
 

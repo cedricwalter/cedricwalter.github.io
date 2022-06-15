@@ -4,7 +4,7 @@ title: 'A lot of things happening behind the scene&#8230;'
 date: '2007-03-11T18:11:12+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2905'
+
 
 header:
   teaser: /assets/images/2007/03/goodjob.jpg

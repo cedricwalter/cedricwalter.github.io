@@ -4,7 +4,7 @@ title: 'Why You should not trust Microsoft antispyware!'
 date: '2005-07-08T10:25:40+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1893'
+
 
 tags:
     - definition

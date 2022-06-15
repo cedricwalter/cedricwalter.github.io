@@ -4,7 +4,7 @@ title: 'Java Networking and Proxies with HTTPS'
 date: '2017-02-17T10:20:37+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=8605'
+
 
 tags:
 - backend
@@ -43,4 +43,4 @@ for internal network connections) then you may have to exclude your service xxx.
 For the “non proxy hosts” list, the HTTPS protocol handler will use the same as the http handler (i.e.
 http.nonProxyHosts).
 
-References <http://docs.oracle.com/javase/8/docs/technotes/guides/net/proxies.html>
+References <http://docs.oracle.com/javase/8/docs/technotes/

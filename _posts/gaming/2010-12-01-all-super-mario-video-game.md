@@ -4,7 +4,7 @@ title: 'All Super Mario video game'
 date: '2010-12-01T20:45:44+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=6392'
+
 
 header:
   teaser: /assets/images/2010/12/130SuperMarioGames_thumb_647180a621b2307f24688834768d8526.jpg

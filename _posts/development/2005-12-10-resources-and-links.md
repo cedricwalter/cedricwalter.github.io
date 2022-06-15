@@ -4,7 +4,7 @@ title: 'Resources and links'
 date: '2005-12-10T22:59:50+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2198'
+
 
 tags:
     - caching

@@ -4,7 +4,7 @@ title: 'NAS @ HOME part 4 linux software raid install and benchmark'
 date: '2006-05-23T23:20:51+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2617'
+
 
 tags:
     - linux

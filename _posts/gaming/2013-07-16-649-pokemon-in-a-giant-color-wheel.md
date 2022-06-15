@@ -4,7 +4,7 @@ title: '649 Pokémon in a giant Color Wheel'
 date: '2013-07-16T21:12:07+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=8105'
+
 
 header:
   teaser: /assets/images/2013/07/Pokemon-color-wheel_thumb.jpg

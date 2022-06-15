@@ -4,7 +4,7 @@ title: 'Google Research Publications'
 date: '2005-07-24T19:51:08+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1944'
+
 
 header:
   teaser: /assets/images/2005/07/google-labs.gif

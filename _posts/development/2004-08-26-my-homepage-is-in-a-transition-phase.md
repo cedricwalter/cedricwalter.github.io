@@ -4,7 +4,7 @@ title: 'My homepage is in a transition phase'
 date: '2004-08-26T21:39:22+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=78'
+
 
 tags:
 - business

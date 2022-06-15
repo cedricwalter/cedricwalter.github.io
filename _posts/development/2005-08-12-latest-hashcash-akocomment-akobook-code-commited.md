@@ -4,7 +4,7 @@ title: 'Latest hashcash, akocomment, akobook code commited'
 date: '2005-08-12T23:47:21+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1984'
+
 
 tags:
     - dependencies

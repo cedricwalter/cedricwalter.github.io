@@ -4,7 +4,7 @@ title: "2nd Swiss Unix Conference\r\nSeptember 2-4 2004, Technopark Zurich"
 date: '2004-12-02T21:58:29+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1399'
+
 
 tags:
 - conference

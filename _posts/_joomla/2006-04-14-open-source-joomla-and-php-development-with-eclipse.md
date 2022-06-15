@@ -4,7 +4,7 @@ title: 'Open Source Joomla and PHP development with Eclipse'
 date: '2006-04-14T21:34:14+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2462'
+
 
 header:
   teaser: /assets/images/2006/04/eclipse.jpg

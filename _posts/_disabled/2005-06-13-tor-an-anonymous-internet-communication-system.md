@@ -4,7 +4,7 @@ title: 'Tor: An anonymous Internet communication system'
 date: '2005-06-13T00:04:42+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1791'
+
 
 tags:
 - anonymity

@@ -4,7 +4,7 @@ title: 'Beta version of Google Toolbar 2 for Firefox.'
 date: '2006-04-08T16:38:25+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2439'
+
 
 tags:
     - google

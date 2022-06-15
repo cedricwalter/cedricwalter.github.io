@@ -4,7 +4,7 @@ title: 'OpenComment 3.0.22 to be release soon'
 date: '2006-10-29T21:52:04+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2746'
+
 
 header:
   teaser: /assets/images/2006/10/tn_whats.Next_.In_.OpenComment-3.0.22.png

@@ -4,7 +4,7 @@ title: 'Eclipse IDE shortcuts'
 date: '2008-06-19T21:47:37+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3489'
+
 
 header:
   teaser: /assets/images/2008/06/eclipse.best_.shortcut.ctrl3_thumb.jpg

@@ -4,7 +4,7 @@ title: 'SiteMap Mambo component&#8230;'
 date: '2005-01-09T22:50:24+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1469'
+
 
 tags:
     - joomla

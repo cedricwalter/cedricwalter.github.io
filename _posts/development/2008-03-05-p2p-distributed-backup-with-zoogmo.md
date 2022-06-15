@@ -4,7 +4,7 @@ title: 'P2P distributed backup with Zoogmo'
 date: '2008-03-05T19:56:13+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3228'
+
 
 ---
 

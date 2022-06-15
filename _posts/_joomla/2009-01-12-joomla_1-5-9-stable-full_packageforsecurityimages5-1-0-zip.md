@@ -4,7 +4,7 @@ title: Joomla_1.5.9-Stable-Full_PackageForSecurityImages5.1.0.zip
 date: '2009-01-12T23:00:25+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4035'
+
 
 header:
   teaser: /assets/images/2008/08/joomla_download_banner.png

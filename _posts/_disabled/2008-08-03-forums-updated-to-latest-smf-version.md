@@ -4,7 +4,7 @@ title: 'Forums updated to latest SMF version'
 date: '2008-08-03T19:49:23+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3597'
+
 
 header:
   teaser: /assets/images/2008/08/cedric.walter.forums.gif

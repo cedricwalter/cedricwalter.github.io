@@ -4,7 +4,7 @@ title: '2009 Yamaha VMAX customized'
 date: '2009-02-22T23:37:35+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4185'
+
 
 tags:
     - switzerland

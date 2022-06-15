@@ -4,7 +4,7 @@ title: 'Google IO Keynote are online'
 date: '2011-05-13T05:58:10+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=6687'
+
 
 tags:
     - google

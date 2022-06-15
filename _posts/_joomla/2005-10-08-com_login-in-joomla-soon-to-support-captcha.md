@@ -4,7 +4,7 @@ title: 'com_login in Joomla soon to support CAPTCHA'
 date: '2005-10-08T23:41:57+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2054'
+
 
 header:
   teaser: /assets/images/2005/10/com_login_support_captcha.gif

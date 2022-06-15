@@ -4,7 +4,7 @@ title: 'Arcade Legends – Sega Genesis 6 in 1'
 date: '2010-09-22T18:14:01+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=6064'
+
 
 header:
   teaser: /assets/images/2010/09/ArcadeLegendsSegaGenesis6in1_thumb.jpg

@@ -4,7 +4,7 @@ title: 'Sega Game-Gear, Sega&#8217;s first handheld game console'
 date: '2010-09-22T18:25:38+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=6291'
+
 
 tags:
     - Collectibles

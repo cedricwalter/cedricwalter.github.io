@@ -4,7 +4,7 @@ title: 'All Neo Geo AES Games'
 date: '2009-10-25T00:42:52+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4836'
+
 
 header:
   teaser: /assets/images/2004/08/NeoGeoLudotheque.jpg

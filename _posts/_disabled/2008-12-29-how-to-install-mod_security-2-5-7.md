@@ -4,7 +4,7 @@ title: 'How to install mod_security 2.5.7'
 date: '2008-12-29T13:30:35+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3998'
+
 
 header:
   teaser: /assets/images/2006/08/mod_security.gif

@@ -4,7 +4,7 @@ title: 'vandalized street radars in UK'
 date: '2006-06-10T14:13:01+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2647'
+
 
 header:
   teaser: /assets/images/2006/06/damagedStreetRadarInUK.jpg

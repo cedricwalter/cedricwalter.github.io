@@ -4,7 +4,7 @@ title: 'What is Linux?'
 date: '2005-07-08T22:00:20+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1894'
+
 
 tags:
 - architecture

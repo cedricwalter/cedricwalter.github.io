@@ -4,7 +4,7 @@ title: 'If you are interested by OO design, here are some good links&#8230;'
 date: '2004-09-17T22:02:21+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1224'
+
 
 tags:
     - programming

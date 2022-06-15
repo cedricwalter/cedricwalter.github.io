@@ -4,7 +4,7 @@ title: 'Le M.O.C.I.M et les pilotes d&#8217;hélicoptères'
 date: '2004-09-09T22:08:58+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1200'
+
 
 header:
   teaser: /assets/images/2004/09/DSC00795.jpg

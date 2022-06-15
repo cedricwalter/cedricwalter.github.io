@@ -4,7 +4,7 @@ title: 'Jazoon 2010 in Zurich Sihlcity'
 date: '2010-05-31T20:21:58+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=5216'
+
 
 tags:
     - java

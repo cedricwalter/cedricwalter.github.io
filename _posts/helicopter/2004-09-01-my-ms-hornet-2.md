@@ -4,7 +4,7 @@ title: 'My MS Hornet 2'
 date: '2004-09-01T23:03:25+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=843'
+
 
 header:
   teaser: /assets/images/2004/09/hornet2d3.jpg

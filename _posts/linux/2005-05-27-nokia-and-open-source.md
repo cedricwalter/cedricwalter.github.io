@@ -4,7 +4,7 @@ title: 'Nokia and open source'
 date: '2005-05-27T13:14:09+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1765'
+
 
 tags:
 - functionality

@@ -4,7 +4,7 @@ title: 'Les sphères à plasma'
 date: '2004-09-01T19:28:41+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=693'
+
 
 tags:
 - Bought

@@ -4,7 +4,7 @@ title: 'Behavior Driven Development with JBehave and Apache Maven'
 date: '2010-07-24T09:22:16+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=5639'
+
 
 header:
   teaser: /assets/images/2011/11/maven-logo-black-on-white-1.png

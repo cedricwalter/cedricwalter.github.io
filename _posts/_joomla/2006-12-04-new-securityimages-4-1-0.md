@@ -4,7 +4,7 @@ title: 'New securityimages 4.1.0'
 date: '2006-12-04T21:26:52+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2780'
+
 
 header:
   teaser: /assets/images/2006/12/securityimage.in_.joomla.login_.gif

@@ -4,7 +4,7 @@ title: 'Converting a Spektrum DX5e from Mode 2 to Mode 1'
 date: '2012-01-08T15:33:15+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=7414'
+
 
 header:
   teaser: /assets/images/2012/01/spektrumDX5e.png

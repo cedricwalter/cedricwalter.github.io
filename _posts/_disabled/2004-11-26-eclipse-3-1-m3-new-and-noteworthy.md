@@ -4,7 +4,7 @@ title: 'Eclipse 3.1 M3 &#8211; New and Noteworthy'
 date: '2004-11-26T21:56:00+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1389'
+
 
 tags:
 - development

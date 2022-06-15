@@ -4,7 +4,7 @@ title: 'changing architecture of component'
 date: '2005-09-27T21:11:58+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2034'
+
 
 tags:
 - development

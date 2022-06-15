@@ -4,7 +4,7 @@ title: 'These are the Statistics and figures for my homepage in 2007.'
 date: '2007-11-26T19:56:58+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3163'
+
 
 header:
   teaser: /assets/images/2007/11/headerSliceLogo.gif

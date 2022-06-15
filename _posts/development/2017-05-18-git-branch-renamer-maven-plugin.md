@@ -4,7 +4,7 @@ title: git-branch-renamer-maven-plugin
 date: '2017-05-18T12:31:49+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=8624'
+
 
 header:
 teaser: /assets/images/2011/11/maven-logo-black-on-white-1.png

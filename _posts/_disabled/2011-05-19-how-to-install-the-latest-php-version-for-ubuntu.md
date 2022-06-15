@@ -4,7 +4,7 @@ title: 'How to install the latest PHP version for Ubuntu'
 date: '2011-05-19T19:44:33+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=6690'
+
 
 header:
   teaser: /assets/images/2011/05/linux.png

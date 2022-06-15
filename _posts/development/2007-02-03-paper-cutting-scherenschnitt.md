@@ -4,7 +4,7 @@ title: 'Paper cutting (scherenschnitt)'
 date: '2007-02-03T22:11:43+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2865'
+
 
 header:
   teaser: /assets/images/2007/02/tn_collectionPaperCutting.jpg

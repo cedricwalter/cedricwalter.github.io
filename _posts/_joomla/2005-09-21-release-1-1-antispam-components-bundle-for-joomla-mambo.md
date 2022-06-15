@@ -4,7 +4,7 @@ title: 'Release 1.1! Antispam components bundle for Joomla/Mambo'
 date: '2005-09-21T21:17:52+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2032'
+
 
 tags:
     - cryptographic

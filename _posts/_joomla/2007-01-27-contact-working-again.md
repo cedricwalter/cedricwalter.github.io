@@ -4,7 +4,7 @@ title: 'Contact working again'
 date: '2007-01-27T15:29:11+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2850'
+
 
 header:
   teaser: /assets/images/2007/01/contact.gif

@@ -4,7 +4,7 @@ title: 'Tux Droid Plugin for Atlassian Bamboo continuous integration server'
 date: '2009-03-19T18:27:17+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4194'
+
 
 tags:
     - atlassian

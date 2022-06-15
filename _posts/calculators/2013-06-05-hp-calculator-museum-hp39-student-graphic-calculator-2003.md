@@ -4,7 +4,7 @@ title: 'HP calculator museum: Hewlett Packard HP39+ student graphic calculator, 
 date: '2013-06-05T20:58:17+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=8052'
+
 
 header:
   teaser: /assets/images/2013/06/HP39Plus_header_thumb.png

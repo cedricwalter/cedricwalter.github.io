@@ -4,7 +4,7 @@ title: 'Tetris Radica Plug and Play Game 2 Players'
 date: '2011-09-17T13:00:34+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=7166'
+
 
 header:
   teaser: /assets/images/2011/09/radica_retrogame_tetris_videogame_00.jpg

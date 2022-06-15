@@ -4,7 +4,7 @@ title: 'Eclipse Galileo aka eclipse 3.5 is here'
 date: '2009-06-30T23:02:03+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4490'
+
 
 header:
   teaser: /assets/images/2009/06/eclipse.galileo.png

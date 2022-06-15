@@ -4,7 +4,7 @@ title: 'Firefox 3.0 Beta4 is amazing'
 date: '2008-04-02T22:11:58+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3317'
+
 
 header:
   teaser: /assets/images/2008/04/ffbeta3robowelcome_thumb.png

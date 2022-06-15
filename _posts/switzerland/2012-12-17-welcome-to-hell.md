@@ -4,7 +4,7 @@ title: 'Welcome to Switzerland'
 date: '2012-12-17T15:28:15+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=7927'
+
 
 tags:
 - switzerland

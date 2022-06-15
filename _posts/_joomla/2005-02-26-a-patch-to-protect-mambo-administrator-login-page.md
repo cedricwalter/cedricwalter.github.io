@@ -4,7 +4,7 @@ title: 'A patch to protect Mambo administrator login page'
 date: '2005-02-26T22:58:56+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1591'
+
 
 tags:
     - cryptographic

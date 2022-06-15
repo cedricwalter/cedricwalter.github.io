@@ -5,10 +5,10 @@ date: '2020-04-01T16:53:05+02:00'
 author: 'Cédric Walter'
 categories:
 - travel
-guid: 'https://waltercedric.com/?p=12457'
 
-ngg_post_thumbnail:
-    - '0'
+
+
+    
 header:
   teaser: /assets/images/2020/04/hahndorf-small-town-in-the-adelaide-hills-region-of-south-australia-4.jpg
 tags:

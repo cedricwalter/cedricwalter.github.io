@@ -4,7 +4,7 @@ title: 'LIFE Photo Archive available on Google Image Search'
 date: '2008-11-19T22:44:21+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3929'
+
 
 tags:
     - google

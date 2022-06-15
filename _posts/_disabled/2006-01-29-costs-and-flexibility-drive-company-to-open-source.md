@@ -4,7 +4,7 @@ title: 'costs and flexibility drive company to open source'
 date: '2006-01-29T16:11:30+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2299'
+
 
 tags:
 - government

@@ -4,7 +4,7 @@ title: 'Failed opening required PHPUnit/TextUI/TestRunner.php in Maven For PHP'
 date: '2010-02-08T21:07:09+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=5037'
+
 
 header:
   teaser: /assets/images/2011/11/maven-logo-black-on-white-1.png

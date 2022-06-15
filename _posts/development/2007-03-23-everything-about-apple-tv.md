@@ -4,7 +4,7 @@ title: 'Everything about apple TV'
 date: '2007-03-23T21:57:32+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2914'
+
 
 header:
   teaser: /assets/images/2007/03/appletv-preview.jpg

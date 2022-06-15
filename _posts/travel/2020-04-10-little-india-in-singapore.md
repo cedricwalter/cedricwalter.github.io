@@ -5,10 +5,10 @@ date: '2020-04-10T17:42:14+02:00'
 author: 'Cédric Walter'
 categories:
 - travel
-guid: 'https://waltercedric.com/?p=12900'
 
-ngg_post_thumbnail:
-    - '0'
+
+
+    
 header:
   teaser: /assets/images/2020/04/little.india-singapore-4.jpg
 tags:

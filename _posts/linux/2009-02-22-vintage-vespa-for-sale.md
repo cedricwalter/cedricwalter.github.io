@@ -4,7 +4,7 @@ title: 'Vintage Vespa for sale'
 date: '2009-02-22T22:04:37+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4184'
+
 
 ---
 

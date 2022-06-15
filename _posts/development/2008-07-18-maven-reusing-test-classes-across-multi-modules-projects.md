@@ -4,7 +4,7 @@ title: 'Maven reusing test classes across multi modules projects'
 date: '2008-07-18T22:14:44+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3522'
+
 
 header:
   teaser: /assets/images/2008/07/mavenlogo2_thumb.gif
@@ -86,7 +86,7 @@ Maven is also introducing some conventions:
     have been use, a classifier proxy/stub is not recommended: make a module of it instead. You must see   
     classifier more as a way to categorize artifact in a module.
 
-You’ll find a lot of artifact across Internet not following these guidelines, this is not an issue as Maven repositories are   
+You’ll find a lot of artifact across Internet not following these 
 able to search for pom.properties or project.xml or pom.xml in jar if they exist and use the right <span style="font-family: Courier;"><groupId> and   
 <artifactId>
 

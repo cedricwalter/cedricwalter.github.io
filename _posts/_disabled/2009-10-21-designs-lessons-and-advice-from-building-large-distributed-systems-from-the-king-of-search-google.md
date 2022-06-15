@@ -4,7 +4,7 @@ title: 'Designs, Lessons and Advice from Building Large Distributed Systems from
 date: '2009-10-21T16:10:17+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4787'
+
 
 header:
   teaser: /assets/images/2009/10/google_logo.jpg

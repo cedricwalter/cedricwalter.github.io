@@ -4,7 +4,7 @@ title: 'Rotory review'
 date: '2004-09-09T22:56:47+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1217'
+
 
 tags:
     - kyosho

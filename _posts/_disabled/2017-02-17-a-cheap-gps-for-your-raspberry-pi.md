@@ -4,7 +4,7 @@ title: 'A cheap GPS for your Raspberry PI'
 date: '2017-02-17T10:40:30+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=8607'
+
 
 header:
   teaser: /assets/images/2017/02/raspberry-pi-gps.jpg

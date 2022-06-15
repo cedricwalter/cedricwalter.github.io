@@ -4,7 +4,7 @@ title: 'My Provider has changed their DNS'
 date: '2005-01-07T19:06:41+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1457'
+
 
 tags:
     - computers

@@ -4,7 +4,7 @@ title: 'try Google Chrome!'
 date: '2008-09-05T21:37:59+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3740'
+
 
 header:
   teaser: /assets/images/2008/09/dlpage_lg_thumb.jpg

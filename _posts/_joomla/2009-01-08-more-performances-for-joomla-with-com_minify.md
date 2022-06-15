@@ -4,7 +4,7 @@ title: 'More performances for Joomla! with com_minify'
 date: '2009-01-08T17:54:20+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4029'
+
 
 ---
 

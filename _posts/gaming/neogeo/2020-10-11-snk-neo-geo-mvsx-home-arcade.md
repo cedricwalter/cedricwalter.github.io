@@ -4,10 +4,10 @@ title: 'SNK Neo Geo MVSX Home Arcade'
 date: '2020-10-11T19:38:44+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://www.waltercedric.com/?p=13710'
 
-ngg_post_thumbnail:
-    - '0'
+
+
+    
 header:
   teaser: /assets/images/2020/10/snk-neogeo-mvsx.jpg
 tags:

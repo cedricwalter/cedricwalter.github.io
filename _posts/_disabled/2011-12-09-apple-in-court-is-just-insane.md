@@ -4,7 +4,7 @@ title: 'Apple in court is just insane'
 date: '2011-12-09T18:17:38+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=7396'
+
 
 ---
 
@@ -16,7 +16,7 @@ The order has change in the top 3 of the most evil companies…Apple is now numb
 2. Oracle
 3. Microsoft
 
-*In a [public legal brief](http://assets.sbnation.com/assets/807407/Apple_Reply_Expert_declaration.pdf) (PDF), Apple [offers numerous design alternatives](http://www.itworld.com/mobile-wireless/230535/apples-helpful-guidelines-competitors-avoid-patent-infringement) that Samsung could have used for its smartphones and tablets to avoid infringing on Apple’s patents.*
+*In a [public legal brief](http://assets.sbnation.com/assets/807407/Apple_Reply_Expert_declaration.pdf) (PDF), Apple [offers numerous design alternatives](http://www.itworld.com/mobile-wireless/230535/apples-helpful-
 
 *From the PDF*
 

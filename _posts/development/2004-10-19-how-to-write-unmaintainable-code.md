@@ -4,7 +4,7 @@ title: 'How To Write Unmaintainable Code'
 date: '2004-10-19T17:50:59+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1333'
+
 
 tags:
 - programming

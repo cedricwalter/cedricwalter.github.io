@@ -4,7 +4,7 @@ title: 'Easily Compress Web Application Resources with EhCache'
 date: '2012-10-17T20:58:07+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=7810'
+
 
 header:
   teaser: /assets/images/2012/01/Nginx-logo.png
@@ -52,7 +52,7 @@ in your web.xml, add a filter and configure it properly
 </filter-mapping>
 ```
 
-Read more at [EhCache Web Caching page](http://ehcache.org/documentation/user-guide/web-caching#gzipping).
+Read more at [EhCache Web Caching page](http://ehcache.org/documentation/user-
 
 As a bonus, I provide you also below the configuration for the famous challenger HTTP server [nginx](http://nginx.org/ "nginx A HTTP and mail proxy server licensed under a 2-clause BSD-like license.")
 

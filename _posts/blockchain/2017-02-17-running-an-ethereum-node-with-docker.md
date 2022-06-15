@@ -5,7 +5,7 @@ date: '2017-02-17T14:28:04+01:00'
 author: 'Cédric Walter'
 categories:
 - blockchain
-guid: 'https://waltercedric.com/new/?p=8608'
+
 
 header:
   teaser: /assets/images/2017/02/Ethereum.png
@@ -78,7 +78,7 @@ curl -H "Content-Type: application/json" -X POST \
  --data '{"jsonrpc":"2.0","method":"eth_getBlockByNumber","params":["latest", true],"id":1}' http://127.0.0.1:8545
 ```
 
-see[https://ethereum.gitbooks.io/frontier-guide/content/rpc.html](https://ethereum.gitbooks.io/frontier-guide/content/rpc.html)
+see[https://ethereum.gitbooks.io/frontier-
 
 You may want to register your node at The [Ethereum (centralised) network status monitor](https://ethstats.net/) , in that case just follow <https://github.com/ethereum/wiki/wiki/Network-Status>
 

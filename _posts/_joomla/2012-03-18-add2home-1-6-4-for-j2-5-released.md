@@ -4,7 +4,7 @@ title: 'Add2Home 1.6.4 for J2.5 Released'
 date: '2012-03-18T11:54:46+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=7570'
+
 
 header:
   teaser: /assets/images/2011/09/add2Home_ipod_iphone_ipad_joomla_000_thumb.png

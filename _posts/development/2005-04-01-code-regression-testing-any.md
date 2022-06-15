@@ -4,7 +4,7 @@ title: 'Code regression testing? any?'
 date: '2005-04-01T14:21:25+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1661'
+
 
 tags:
 - computing

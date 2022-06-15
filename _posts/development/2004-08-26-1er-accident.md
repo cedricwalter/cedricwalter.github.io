@@ -4,7 +4,7 @@ title: '1er accident'
 date: '2004-08-26T22:54:26+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=210'
+
 
 tags:
 - distribution

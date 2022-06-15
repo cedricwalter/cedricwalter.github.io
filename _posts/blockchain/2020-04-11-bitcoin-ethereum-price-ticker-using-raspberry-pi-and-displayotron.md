@@ -5,10 +5,10 @@ date: '2020-04-11T10:58:08+02:00'
 author: 'Cédric Walter'
 categories:
 - blockchain
-guid: 'https://waltercedric.com/?p=12908'
 
-ngg_post_thumbnail:
-    - '0'
+
+
+    
 header:
   teaser: /assets/images/2020/04/bitcoin-ethereum-price-ticker-using-raspberry-pi-and-displayotron.jpg
 tags:

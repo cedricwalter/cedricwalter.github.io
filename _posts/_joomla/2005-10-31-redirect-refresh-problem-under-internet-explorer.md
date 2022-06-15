@@ -4,7 +4,7 @@ title: 'Redirect/Refresh problem under Internet explorer'
 date: '2005-10-31T14:49:05+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2076'
+
 
 tags:
 - difficulties

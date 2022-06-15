@@ -4,7 +4,7 @@ title: 'The Web Tools Platform (WTP)'
 date: '2005-10-07T16:02:16+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2046'
+
 
 tags:
 - building

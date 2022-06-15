@@ -4,7 +4,7 @@ title: 'The best tool Ive ever tested for Joomla'
 date: '2006-04-28T22:09:53+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2486'
+
 
 header:
   teaser: /assets/images/2006/04/bloggx_65.png

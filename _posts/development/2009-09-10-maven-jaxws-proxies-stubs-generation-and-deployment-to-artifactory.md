@@ -4,7 +4,7 @@ title: 'Maven JAXWS proxies stubs generation and deployment to artifactory'
 date: '2009-09-10T23:49:39+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4616'
+
 
 tags:
     - apache

@@ -4,7 +4,7 @@ title: 'Inkscape, release 0.42'
 date: '2005-07-27T20:36:02+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1959'
+
 
 tags:
     - capabilities

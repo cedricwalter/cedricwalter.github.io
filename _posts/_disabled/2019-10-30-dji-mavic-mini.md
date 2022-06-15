@@ -4,7 +4,7 @@ title: 'Dji Mavic Mini'
 date: '2019-10-30T17:19:15+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=8780'
+
 
 header:
     overlay_image: /assets/images/2019/10/dji-mavic-mini.png

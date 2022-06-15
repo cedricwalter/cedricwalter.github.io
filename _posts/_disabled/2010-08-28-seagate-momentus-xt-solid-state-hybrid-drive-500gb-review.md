@@ -4,7 +4,7 @@ title: 'Seagate Momentus XT solid state hybrid drive 500GB review'
 date: '2010-08-28T12:30:30+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=5792'
+
 
 header:
   teaser: /assets/images/2010/08/seagate.momentus.xt_.500gb.jpg

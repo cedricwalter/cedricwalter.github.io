@@ -4,7 +4,7 @@ title: 'Security Images 2.0 to be shipped soon with Login and registration patch
 date: '2005-11-15T20:19:01+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2109'
+
 
 header:
   teaser: /assets/images/2005/11/inMod_Login.jpg

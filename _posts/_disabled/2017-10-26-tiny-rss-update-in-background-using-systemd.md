@@ -4,7 +4,7 @@ title: 'Tiny-RSS update in background using SystemD'
 date: '2017-10-26T22:21:45+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=8687'
+
 
 tags:
 - internet

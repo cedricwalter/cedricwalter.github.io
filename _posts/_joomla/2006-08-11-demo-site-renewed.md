@@ -4,7 +4,7 @@ title: 'demo site renewed'
 date: '2006-08-11T22:00:24+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2678'
+
 
 header:
   teaser: /assets/images/2006/08/demo.waltercedric.com_.logo_.jpg

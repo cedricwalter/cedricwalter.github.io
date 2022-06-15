@@ -4,7 +4,7 @@ title: 'Sporadic bugs appearing in SecurityImages 3.0.4?'
 date: '2006-05-27T12:05:06+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2625'
+
 
 header:
   teaser: /assets/images/2006/03/box_securityimages.jpg

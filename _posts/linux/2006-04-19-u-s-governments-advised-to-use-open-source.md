@@ -4,7 +4,7 @@ title: 'U.S. Governments Advised to Use Open Source'
 date: '2006-04-19T21:55:11+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2472'
+
 
 header:
   teaser: /assets/images/2006/04/opensource.jpg

@@ -4,7 +4,7 @@ title: 'Got hacked&#8230;'
 date: '2007-06-20T19:54:26+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2991'
+
 
 tags:
     - security
@@ -109,7 +109,7 @@ How to avoid that next time
 
  Joomla! is automating during file save the CHMOD, but not on all files in the structure.
 
-  Avoid any files with setguid in your apache root  
+  Avoid any files with set
  `# find . -type f -perm 600 -exec chmod ago=r {} \;`
 
  Note:

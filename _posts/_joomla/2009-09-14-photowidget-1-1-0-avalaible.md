@@ -4,7 +4,7 @@ title: 'PhotoWidget 1.1.0 avalaible'
 date: '2009-09-14T16:55:25+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4621'
+
 
 header:
   teaser: /assets/images/2009/09/photowidgetSmugmugHTML.png

@@ -4,7 +4,7 @@ title: 'Error 80010514 on PS3, how to change your lens'
 date: '2009-02-11T20:37:52+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4150'
+
 
 header:
   teaser: /assets/images/2005/06/sony_playstation_ps3.jpg

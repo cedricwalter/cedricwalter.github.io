@@ -4,7 +4,7 @@ title: 'back from holidays'
 date: '2004-11-07T18:35:36+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1341'
+
 
 tags:
 - hollidays

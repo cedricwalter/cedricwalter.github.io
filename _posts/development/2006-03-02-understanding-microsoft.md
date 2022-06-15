@@ -4,7 +4,7 @@ title: 'Understanding Microsoft'
 date: '2006-03-02T21:20:43+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2340'
+
 
 tags:
     - business

@@ -4,7 +4,7 @@ title: 'Windows XP still everywhere'
 date: '2008-04-04T12:30:07+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3349'
+
 
 header:
   teaser: /assets/images/2008/04/windows.xp_.crash01_thumb.jpg

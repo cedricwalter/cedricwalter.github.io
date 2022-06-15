@@ -4,7 +4,7 @@ title: 'Swiss-Moto 2005 &#8211; Zurich Messe'
 date: '2005-02-20T17:40:45+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1588'
+
 
 header:
   teaser: /assets/images/2005/02/swissmoto.gif

@@ -4,7 +4,7 @@ title: 'Fully automatic book scanners in LEGO'
 date: '2006-03-11T10:26:54+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2362'
+
 
 tags:
     - carefully

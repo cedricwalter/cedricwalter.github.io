@@ -4,7 +4,7 @@ title: 'Windows v Linux security: the real facts'
 date: '2004-10-24T10:43:59+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1336'
+
 
 tags:
 - OpenSuse

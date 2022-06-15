@@ -4,7 +4,7 @@ title: 'Hello spammer'
 date: '2005-08-09T16:55:50+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1978'
+
 
 tags:
     - graphical

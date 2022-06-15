@@ -4,7 +4,7 @@ title: 'Les niveaux de gris sur HP48'
 date: '2015-02-06T09:40:17+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=8251'
+
 
 tags:
     - calculator

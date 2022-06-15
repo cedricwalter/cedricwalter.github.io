@@ -4,7 +4,7 @@ title: 'OpenComment is discontinued, efforts focus on !JoomlaComment'
 date: '2008-05-18T23:20:52+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3460'
+
 
 header:
   teaser: /assets/images/2008/05/img.php_thumb.jpg

@@ -4,7 +4,7 @@ title: 'Tom tom rider available'
 date: '2005-11-12T19:43:47+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2103'
+
 
 tags:
 - designed

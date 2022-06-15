@@ -4,7 +4,7 @@ title: 'installing Google Chromium OS to USB'
 date: '2009-12-24T19:15:11+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4917'
+
 
 header:
   teaser: /assets/images/2009/12/chromium.os_.logo_3.jpg

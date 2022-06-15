@@ -5,10 +5,10 @@ date: '2020-06-20T17:13:02+02:00'
 author: 'Cédric Walter'
 categories:
 - blockchain
-guid: 'https://www.waltercedric.com/?p=13551'
 
-ngg_post_thumbnail:
-    - '0'
+
+
+    
 header:
   teaser: /assets/images/2020/06/raspberry-pi-passive-heatsink-1.jpg
 tags:

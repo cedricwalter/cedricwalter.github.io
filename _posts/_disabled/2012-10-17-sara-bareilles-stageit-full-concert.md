@@ -4,7 +4,7 @@ title: 'Sara Bareilles Stageit (Full Concert)'
 date: '2012-10-17T20:12:21+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=7801'
+
 
 ---
 

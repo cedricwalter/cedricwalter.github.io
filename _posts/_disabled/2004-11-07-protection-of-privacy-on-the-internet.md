@@ -4,7 +4,7 @@ title: 'Protection of Privacy on the Internet'
 date: '2004-11-07T21:51:38+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1342'
+
 
 tags:
 - anonymity

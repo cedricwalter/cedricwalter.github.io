@@ -4,7 +4,7 @@ title: 'Forums updated to the latest version of SMF'
 date: '2008-09-13T21:00:23+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3770'
+
 
 tags:
     - homepage

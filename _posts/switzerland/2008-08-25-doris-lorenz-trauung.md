@@ -4,7 +4,7 @@ title: 'Doris &#038; Lorenz Trauung'
 date: '2008-08-25T11:03:21+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3716'
+
 
 header:
 teaser: /assets/images/2008/08/Doris.Lorenz.Trauung.2008.08.23_thumb.jpg

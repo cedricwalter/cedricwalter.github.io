@@ -4,7 +4,7 @@ title: 'A desktop review'
 date: '2004-08-26T23:08:39+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=234'
+
 
 header:
 teaser: /assets/images/2004/08/suse.gif
@@ -214,7 +214,7 @@ here: [http://www.suse.com/us/private/products/suse\_linux/i386/faqs/index.html]
 ![](/assets/images/2004/08/susebullet.gif) Installation
 
 Great menu everywhere for installing the OS, 10s after having insert the CD (and choosing a resolution with F2 – default
-is 1280×1024), the linux Kernel is loaded and guide you through the installation process.
+is 1280×1024), the linux Kernel is loaded and 
 
 Personnaly what I dislike is the number of “package” (understand application, with strange name and strange revision
 number) given, like 10 tools to do the same task…I know I do not want to see any new Microsoft take the advantage under

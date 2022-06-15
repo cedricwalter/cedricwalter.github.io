@@ -4,7 +4,7 @@ title: 'How to steal Passwords using Google'
 date: '2006-04-05T22:12:52+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2431'
+
 
 tags:
     - google

@@ -4,7 +4,7 @@ title: 'Announcing new extension CedThumbnails 2.5.0 for Joomla 1.7/2.5'
 date: '2012-01-08T22:17:02+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=7420'
+
 
 ---
 

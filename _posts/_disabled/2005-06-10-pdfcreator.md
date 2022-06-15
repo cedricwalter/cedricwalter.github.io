@@ -4,7 +4,7 @@ title: PDFCreator
 date: '2005-06-10T22:04:44+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1784'
+
 
 tags:
     - production

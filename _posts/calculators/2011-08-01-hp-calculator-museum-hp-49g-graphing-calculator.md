@@ -5,7 +5,7 @@ date: '2011-08-01T08:23:13+02:00'
 author: 'Cédric Walter'
 header:
     teaser: /assets/images/2011/08/hewlett_packard_49g_calculator_museum_00.jpg
-guid: 'https://waltercedric.com/new/?p=6986'
+
 
 tags:
     - built

@@ -4,7 +4,7 @@ title: 'Gallery of my Tasmania trip is online'
 date: '2008-01-22T22:04:08+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3171'
+
 
 tags:
     - Australia

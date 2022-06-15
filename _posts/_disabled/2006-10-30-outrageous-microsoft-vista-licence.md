@@ -4,7 +4,7 @@ title: 'Outrageous Microsoft Vista licence'
 date: '2006-10-30T22:13:56+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2748'
+
 
 header:
   teaser: /assets/images/2006/10/Microsoft.is_.going_.crazy_.jpg

@@ -4,7 +4,7 @@ title: 'iPhone Linux'
 date: '2008-12-02T22:17:41+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3956'
+
 
 header:
   teaser: /assets/images/2008/12/linuxOnIPhone_thumb.jpg

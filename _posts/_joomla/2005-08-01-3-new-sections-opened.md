@@ -4,7 +4,7 @@ title: '3 new sections opened!'
 date: '2005-08-01T16:56:49+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1969'
+
 
 tags:
     - development

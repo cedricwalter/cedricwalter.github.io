@@ -4,7 +4,7 @@ title: 'Limit number of snapshots artifacts stored in Artifactory'
 date: '2010-03-19T20:04:23+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=5069'
+
 
 header:
   teaser: /assets/images/2010/03/maven-logo-2.gif_3_3.jpg

@@ -4,7 +4,7 @@ title: 'Tags.waltercedric.com now open source'
 date: '2009-06-12T21:09:46+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4389'
+
 
 header:
   teaser: /assets/images/2009/06/tags.waltercedric.com_.png

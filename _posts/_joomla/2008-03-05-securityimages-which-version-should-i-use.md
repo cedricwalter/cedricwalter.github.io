@@ -4,7 +4,7 @@ title: 'SecurityImages which version should I use?'
 date: '2008-03-05T19:32:38+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3223'
+
 
 ---
 

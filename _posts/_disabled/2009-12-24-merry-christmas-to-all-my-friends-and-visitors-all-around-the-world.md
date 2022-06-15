@@ -4,7 +4,7 @@ title: 'Merry Christmas to all my friends and visitors all around the world!'
 date: '2009-12-24T12:47:59+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4913'
+
 
 header:
   teaser: /assets/images/2009/12/joyeux_noel_3.gif

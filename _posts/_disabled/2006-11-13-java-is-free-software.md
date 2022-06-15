@@ -4,7 +4,7 @@ title: 'Java is free software'
 date: '2006-11-13T21:42:22+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2759'
+
 
 tags:
     - java

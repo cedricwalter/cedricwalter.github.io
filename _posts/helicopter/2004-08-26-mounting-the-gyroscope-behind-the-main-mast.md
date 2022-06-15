@@ -4,7 +4,7 @@ title: 'Mounting the gyroscope behind the main mast'
 date: '2004-08-26T22:04:18+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=127'
+
 
 header:
   teaser: /assets/images/2004/08/mountinggyrobehindmainmast.gif

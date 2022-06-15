@@ -4,7 +4,7 @@ title: 'Security Images 2.2 &#8211; whats new&#8230;'
 date: '2005-11-21T09:37:12+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2117'
+
 
 header:
   teaser: /assets/images/2005/11/tooMuchretry.gif

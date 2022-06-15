@@ -4,7 +4,7 @@ title: 'Contest – I offer a book PacktPub “Joomla! 1.5 Development Cookbook�
 date: '2011-10-01T08:57:12+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=7194'
+
 
 header:
   teaser: /assets/images/2011/10/Joomla_1_5_Development_Cookbook_book_thumb.jpg

@@ -4,7 +4,7 @@ title: 'Neo Geo Pocket Color'
 date: '2009-10-24T23:55:25+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4832'
+
 
 header:
   teaser: /assets/images/2009/10/neo.geo_.pocket.color_.aqua_.blue_.3.jpg

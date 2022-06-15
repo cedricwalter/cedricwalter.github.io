@@ -4,7 +4,7 @@ title: 'Maven dependencies graph plugin in TeamCity and Eclipse'
 date: '2009-08-27T19:27:39+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4593'
+
 
 tags:
     - apache
@@ -14,7 +14,7 @@ tags:
     - tutorial
 ---
 
-How to add dependencies graph to multi module projects. With this #Maven plugin, you’ll be able to visualize #Maven modules interdependencies and dependencies in [any scope (compile, text, provided, system, runtime)](http://maven.apache.org/guides/introduction/introduction-to-dependency-mechanism.html)
+How to add dependencies graph to multi module projects. With this #Maven plugin, you’ll be able to visualize #Maven modules interdependencies and dependencies in [any scope (compile, text, provided, system, runtime)](http://maven.apache.org/
 
 [depgraph:depgraph](http://el4j.sourceforge.net/plugins/maven-depgraph-plugin/index.html) Can be used to draw a dependency graph from the project, the mojo is executed in. It traverses all dependencies and creates a graph using Graphviz. It draws a dependency graph just for your project. For a simple POM with no sub modules, it draws a graph of all dependencies (including transitive ones) below it. For a POM with sub modules, goes into each leaf POM and generates a separate graph for it.
 

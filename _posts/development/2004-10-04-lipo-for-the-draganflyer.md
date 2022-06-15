@@ -4,7 +4,7 @@ title: 'LiPo for the Draganflyer'
 date: '2004-10-04T17:10:05+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1245'
+
 
 header:
   teaser: /assets/images/2004/10/KoKam3sLiPo.jpg

@@ -4,7 +4,7 @@ title: 'OSGi made easy with Maven Apache Felix'
 date: '2009-10-28T18:01:24+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4850'
+
 
 header:
   teaser: /assets/images/2011/11/maven-logo-black-on-white-1.png

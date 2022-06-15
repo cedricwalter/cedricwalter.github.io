@@ -4,7 +4,7 @@ title: 'Comments are no more working on my homepage'
 date: '2005-12-08T22:37:20+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2197'
+
 
 tags:
     - deactivating

@@ -4,7 +4,7 @@ title: 'Suche/Sammle/ Kaufe NEU Verschweisste Ältere Videospiele !!!'
 date: '2010-10-07T11:50:51+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=6362'
+
 
 header:
   teaser: /assets/images/2010/10/controllermainone.jpg

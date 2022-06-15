@@ -4,7 +4,7 @@ title: 'Where Do You Want to Go Today?'
 date: '2005-01-23T22:32:58+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1520'
+
 
 header:
   teaser: /assets/images/2005/01/tnwhereDoYouWantToGoToday.jpg

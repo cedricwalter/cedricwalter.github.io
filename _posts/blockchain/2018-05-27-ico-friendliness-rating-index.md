@@ -5,7 +5,7 @@ date: '2018-05-27T20:51:43+02:00'
 author: 'Cédric Walter'
 categories:
 - blockchain
-guid: 'https://waltercedric.com/new/?p=8730'
+
 
 header:
   teaser: /assets/images/2018/05/ico-rating-switzerland.png

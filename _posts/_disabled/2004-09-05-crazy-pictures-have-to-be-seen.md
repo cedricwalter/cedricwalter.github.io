@@ -4,7 +4,7 @@ title: 'Crazy Pictures have to be seen'
 date: '2004-09-05T16:45:36+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1009'
+
 
 tags:
     - 'TT ek4'

@@ -4,7 +4,7 @@ title: 'Linux Incompatibility List'
 date: '2004-09-19T11:34:26+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1228'
+
 
 tags:
 

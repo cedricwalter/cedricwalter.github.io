@@ -4,7 +4,7 @@ title: 'Optimistic Developer vs Pessimistic Tester'
 date: '2016-03-07T16:49:28+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=8330'
+
 
 header:
   teaser: /assets/images/2016/03/tester_thumb_2.png

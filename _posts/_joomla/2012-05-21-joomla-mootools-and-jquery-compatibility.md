@@ -4,7 +4,7 @@ title: 'Joomla Mootools and jQuery Compatibility'
 date: '2012-05-21T11:31:31+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=7690'
+
 
 header:
   teaser: /assets/images/2012/05/jquery_logo.png

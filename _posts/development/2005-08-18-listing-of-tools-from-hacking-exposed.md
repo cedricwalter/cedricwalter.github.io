@@ -4,7 +4,7 @@ title: 'Listing of tools from hacking exposed'
 date: '2005-08-18T19:04:36+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2000'
+
 
 ---
 

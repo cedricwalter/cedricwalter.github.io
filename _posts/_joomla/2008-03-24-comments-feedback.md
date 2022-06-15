@@ -4,7 +4,7 @@ title: 'comments feedback'
 date: '2008-03-24T16:23:04+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3300'
+
 
 header:
   teaser: /assets/images/2008/03/joomlacommentimportOpenComment_thumb.gif

@@ -4,7 +4,7 @@ title: 'The millipede project'
 date: '2005-03-16T20:04:36+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1623'
+
 
 tags:
 - switzerland

@@ -4,7 +4,7 @@ title: 'Google Chrome exhaustive command line switches'
 date: '2009-12-09T20:56:49+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4896'
+
 
 header:
   teaser: /assets/images/2009/12/logogooglechrome_thumb.jpg

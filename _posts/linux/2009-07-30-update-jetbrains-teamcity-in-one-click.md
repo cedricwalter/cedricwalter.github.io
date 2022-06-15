@@ -4,7 +4,7 @@ title: 'Update JetBrains TeamCity in one click'
 date: '2009-07-30T23:32:43+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4565'
+
 
 header:
   teaser: /assets/images/2010/05/teamcity512_thumb.png

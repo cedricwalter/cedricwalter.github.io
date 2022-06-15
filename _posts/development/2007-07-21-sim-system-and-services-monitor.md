@@ -4,7 +4,7 @@ title: 'SIM  system and services monitor'
 date: '2007-07-21T13:23:58+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3024'
+
 
 tags:
     - security

@@ -4,7 +4,7 @@ title: 'Do it Yourself: change your PS3 optical lens'
 date: '2008-07-19T01:03:48+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3558'
+
 
 header:
   teaser: /assets/images/2005/06/sony_playstation_ps3.jpg
@@ -16,7 +16,7 @@ header:
 Attention: While this operation require no particular knowledge, don’t try it if you have no patience and feel not confident enough!   
 Attention: Look at other tutorials at the end of my article before starting, I did not represent all steps in details. Use them to complete missing steps (this is my brother’s PS3, mine may die also soon, will complete tutorial then)**
 
-#### Guide how to replace PS3 Laser Lens   
+#### 
  version 1.0
 
 # Duration: 25 minutes**   
@@ -41,4 +41,4 @@ Metal axes can be removed ad will have to be transferred to the new lens. On the
 
 - [http://www.llamma.com/PS3/repair/PS3\_disassembly\_tutorial.htm](http://www.llamma.com/PS3/repair/PS3_disassembly_tutorial.htm)
 - <http://www.myps3.com.au/Post.aspx?id=5522>
-- <http://progamer.cc/blog/ps3-laser-kem-400a/how-to-replace-a-ps3-bluray-lens-guide.html/>
+- <http://progamer.cc/blog/ps3-laser-kem-400a/how-to-replace-a-ps3-bluray-lens-

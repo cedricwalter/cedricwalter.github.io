@@ -4,7 +4,7 @@ title: 'I win a Synology DS710+ &#038; DX510 yesterday'
 date: '2010-09-03T19:53:23+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=5959'
+
 
 header:
   teaser: /assets/images/2010/09/synology.cedric.datacenter_thumb.jpg

@@ -4,7 +4,7 @@ title: 'Ebay architecture scalability'
 date: '2007-07-27T22:50:12+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3037'
+
 
 header:
 teaser: /assets/images/2007/07/ebay.logo_.gif
@@ -49,7 +49,7 @@ Some [5,300,000 articles](http://en.wikipedia.org/wikistats/EN/TablesArticlesTot
 than [100 languages](http://en.wikipedia.org/wikistats/EN/Sitemap.htm "http://en.wikipedia.org/wikistats/EN/Sitemap.htm")
 . - 100 servers in various hosting centers. -
 See [Wikipedia Statistics, visits per day](http://stats.wikimedia.org/EN/TablesUsageVisits.htm) - Over 1,000
-administrators to ensure guidelines and policies |
+administrators to ensure 
 
 \[…\] Started as Perl CGI script running on single server in 2001, site has grown into distributed platform, containing
 multiple technologies, all of them open. The principle of openness  

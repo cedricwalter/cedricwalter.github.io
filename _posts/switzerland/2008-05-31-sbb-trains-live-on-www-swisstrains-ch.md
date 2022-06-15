@@ -4,7 +4,7 @@ title: 'SBB trains live on www.swisstrains.ch'
 date: '2008-05-31T10:57:00+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3470'
+
 
 header:
   teaser: /assets/images/2008/05/swisstrain.ch_thumb.png

@@ -4,7 +4,7 @@ title: 'Reflex XTR, effort communautaire'
 date: '2004-09-27T20:07:18+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1235'
+
 
 tags:
 - documentation

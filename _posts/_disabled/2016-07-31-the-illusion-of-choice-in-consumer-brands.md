@@ -4,7 +4,7 @@ title: 'The Illusion of Choice in Consumer Brands'
 date: '2016-07-31T08:49:23+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=8535'
+
 
 header:
   teaser: /assets/images/2016/07/consumer-brands-infographic_thumb.jpg

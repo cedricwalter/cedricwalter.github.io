@@ -4,7 +4,7 @@ title: 'Hardware mods links'
 date: '2004-08-31T23:49:02+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=640'
+
 
 header:
   teaser: /assets/images/2004/08/ngani.gif

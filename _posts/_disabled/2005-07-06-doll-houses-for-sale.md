@@ -4,7 +4,7 @@ title: 'Doll Houses for sale'
 date: '2005-07-06T19:13:20+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1836'
+
 
 header:
   teaser: /assets/images/2005/07/index.jpg

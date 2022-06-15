@@ -4,7 +4,7 @@ title: 'Today is Joomla!&#8217;s 5th birthday'
 date: '2010-09-01T20:56:27+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=5933'
+
 
 header:
   teaser: /assets/images/2010/09/happybirthday.jpg

@@ -4,7 +4,7 @@ title: 'Le monde de l&#8217;hébergement internet lowcost va t&#8217;il s&#8217;
 date: '2006-02-19T11:52:27+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2309'
+
 
 tags:
 - homepage

@@ -4,7 +4,7 @@ title: 'Community Builder with security images?'
 date: '2006-07-01T10:21:20+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2659'
+
 
 header:
   teaser: /assets/images/2006/07/CommunityBuilder_logo.gif

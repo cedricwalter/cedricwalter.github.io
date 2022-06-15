@@ -4,7 +4,7 @@ title: 'Smugmug/picasa/flickr extensions for Joomla! now available at JED'
 date: '2009-06-29T23:34:14+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4485'
+
 
 header:
   teaser: /assets/images/2009/06/JoomlaLogoHorzColor.png

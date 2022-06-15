@@ -4,7 +4,7 @@ title: 'Lampe Berger oil fragrance lamps'
 date: '2011-09-17T17:53:48+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=7169'
+
 
 header:
   teaser: /assets/images/2011/06/Lampe_Berger_oil_fragrance_lamps_00_thumb.jpg

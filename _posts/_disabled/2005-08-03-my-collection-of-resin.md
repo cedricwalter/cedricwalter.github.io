@@ -4,7 +4,7 @@ title: 'My collection of resin&#8230;'
 date: '2005-08-03T18:51:25+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1975'
+
 
 header:
   teaser: /assets/images/2005/08/gromit001.jpg

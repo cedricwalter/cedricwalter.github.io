@@ -4,7 +4,7 @@ title: 'Dancing on the razor line'
 date: '2004-12-11T19:26:02+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1440'
+
 
 tags:
     - anonymity

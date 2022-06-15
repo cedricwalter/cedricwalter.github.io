@@ -4,7 +4,7 @@ title: 'OpenComment security: I need Your feedback'
 date: '2006-06-15T20:49:31+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2652'
+
 
 tags:
     - joomla

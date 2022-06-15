@@ -5,10 +5,10 @@ date: '2020-09-22T16:14:31+02:00'
 author: 'Cédric Walter'
 categories:
 - blockchain
-guid: 'https://www.waltercedric.com/?p=13663'
 
-ngg_post_thumbnail:
-    - '0'
+
+
+    
 header:
     teaser: /assets/images/2020/09/DSC_1549.jpg
 tags:

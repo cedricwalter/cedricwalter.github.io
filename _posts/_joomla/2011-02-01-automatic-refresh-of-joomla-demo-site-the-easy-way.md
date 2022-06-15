@@ -4,7 +4,7 @@ title: 'Automatic refresh of Joomla! demo site the easy way'
 date: '2011-02-01T11:35:18+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=6523'
+
 
 tags:
     - demo

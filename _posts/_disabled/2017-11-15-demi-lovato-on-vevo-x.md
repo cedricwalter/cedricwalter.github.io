@@ -4,7 +4,7 @@ title: 'Demi Lovato on VEVO X'
 date: '2017-11-15T22:44:14+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=8689'
+
 
 ---
 

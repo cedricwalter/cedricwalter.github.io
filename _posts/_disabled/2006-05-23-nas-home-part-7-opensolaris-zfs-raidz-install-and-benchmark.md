@@ -4,7 +4,7 @@ title: 'NAS @ HOME part 7 Opensolaris ZFS raidZ install and benchmark'
 date: '2006-05-23T23:22:29+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2622'
+
 
 header:
   teaser: /assets/images/2006/05/raid.gif

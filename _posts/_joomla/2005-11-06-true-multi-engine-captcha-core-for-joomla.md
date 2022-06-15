@@ -4,7 +4,7 @@ title: 'True multi engine CAPTCHA core for Joomla'
 date: '2005-11-06T21:24:01+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2096'
+
 
 header:
   teaser: /assets/images/2005/11/tn_coreadminPanel.gif

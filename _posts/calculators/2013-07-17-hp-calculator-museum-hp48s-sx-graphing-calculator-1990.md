@@ -4,7 +4,7 @@ title: 'HP calculator museum: Hewlett Packard HP48s/sx Graphing Calculator, 1990
 date: '2013-07-17T20:21:36+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=8116'
+
 
 header:
   teaser: /assets/images/2013/07/hp48s.png

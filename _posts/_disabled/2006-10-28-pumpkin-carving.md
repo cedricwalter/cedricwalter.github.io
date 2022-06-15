@@ -4,7 +4,7 @@ title: 'Pumpkin Carving'
 date: '2006-10-28T22:30:56+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2735'
+
 
 header:
   teaser: /assets/images/2006/10/pumpkin-carving-tutorial.jpg

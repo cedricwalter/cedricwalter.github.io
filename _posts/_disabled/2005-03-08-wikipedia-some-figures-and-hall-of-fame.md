@@ -4,7 +4,7 @@ title: 'Wikipedia, some figures, and hall of fame'
 date: '2005-03-08T22:57:17+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1616'
+
 
 tags:
 - including

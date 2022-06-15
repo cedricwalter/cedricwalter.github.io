@@ -4,7 +4,7 @@ title: 'Playstation Home Beta Opens To the Public'
 date: '2008-12-15T17:10:27+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3974'
+
 
 header:
   teaser: /assets/images/2008/12/PS3_Home_logo_thumb.png

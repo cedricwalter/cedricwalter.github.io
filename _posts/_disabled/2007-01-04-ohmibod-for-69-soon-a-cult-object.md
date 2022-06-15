@@ -4,7 +4,7 @@ title: 'OhMiBod for $69, soon a cult object?'
 date: '2007-01-04T20:16:35+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2821'
+
 
 tags:
     - Fun

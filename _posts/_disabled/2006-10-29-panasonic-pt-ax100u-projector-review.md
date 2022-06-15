@@ -4,7 +4,7 @@ title: 'Panasonic PT-AX100U Projector Review'
 date: '2006-10-29T13:37:16+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2743'
+
 
 header:
   teaser: /assets/images/2006/10/panasonic-PT-AX100U.jpg

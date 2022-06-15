@@ -4,7 +4,7 @@ title: 'What make Google so special'
 date: '2004-12-01T20:13:44+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1394'
+
 
 tags:
 - google

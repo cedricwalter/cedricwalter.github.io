@@ -4,7 +4,7 @@ title: 'HTC Desire HD video'
 date: '2010-09-16T20:10:18+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=6046'
+
 
 header:
   teaser: /assets/images/2010/09/htcdesirehd.jpg

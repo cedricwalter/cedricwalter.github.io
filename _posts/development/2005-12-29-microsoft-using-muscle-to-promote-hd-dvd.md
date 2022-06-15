@@ -4,7 +4,7 @@ title: 'Microsoft using muscle to promote HD DVD'
 date: '2005-12-29T12:40:06+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2244'
+
 
 header:
   teaser: /assets/images/2005/12/blu-ray-logo.jpg

@@ -4,7 +4,7 @@ title: 'iOS 4.1 Software Update and Jailbreak'
 date: '2010-09-08T21:40:19+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=5990'
+
 
 tags:
     - games

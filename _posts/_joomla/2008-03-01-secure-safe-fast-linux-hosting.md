@@ -4,7 +4,7 @@ title: 'Secure, Safe, Fast Linux Hosting'
 date: '2008-03-01T19:00:52+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3222'
+
 
 ---
 

@@ -4,7 +4,7 @@ title: 'Atari 7800 ProSystem video game console by Atari Corporation'
 date: '2011-06-04T12:14:59+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=6770'
+
 
 header:
   teaser: /assets/images/2011/06/Atari_7800_ProSystem_video_game_console_01.jpg

@@ -4,7 +4,7 @@ title: 'The daily roundup: here&#8217;s what you might&#8217;ve missed'
 date: '2009-12-12T19:02:10+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4906'
+
 
 header:
   teaser: /assets/images/2009/12/engadgetRecap_3.png

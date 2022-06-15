@@ -4,7 +4,7 @@ title: 'Nintendo NES with Build in Battery Games List'
 date: '2011-08-17T07:58:30+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=7024'
+
 
 header:
   teaser: /assets/images/2011/08/nintendo_nes_005.png

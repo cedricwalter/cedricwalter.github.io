@@ -4,7 +4,7 @@ title: 'Display the short GIT version hash as build identifier in TeamCity'
 date: '2014-02-02T19:32:01+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=8182'
+
 
 header:
 teaser: /assets/images/2017/04/git-logo.jpg

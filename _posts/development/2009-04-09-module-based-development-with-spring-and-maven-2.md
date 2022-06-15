@@ -4,7 +4,7 @@ title: 'Module-based development with Spring and Maven 2'
 date: '2009-04-09T11:56:32+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4242'
+
 
 header:
   teaser: /assets/images/2011/11/maven-logo-black-on-white-1.png

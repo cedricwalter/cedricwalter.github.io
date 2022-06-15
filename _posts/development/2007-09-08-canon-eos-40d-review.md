@@ -4,7 +4,7 @@ title: 'Canon EOS 40D review'
 date: '2007-09-08T22:47:11+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3045'
+
 
 tags:
     - 'DSLR Camera'
@@ -115,7 +115,7 @@ After months of intense speculation and rumours, Canon has finally release his n
 - **Modeling flash:** 1-second burst of flash possible at 70Hz when depth-of-field preview button is pressed (580EX/EX II, 550EX, 420EX, MR-14EX, MT-24EX, and Speedlite transmitter only)
 - **Wireless E-TTL:** Fully compatible, including ratio setting over six-stop range
 - **Flash exposure compensation:** Up to +/- 2 stops can be set on camera body (can also be set on compatible Speedlites)
-- **Built-in flash:** Covers lenses as wide as 17mm (27mm equivalent); Guide Number 43 (feet)/13 (meters), ISO 100
+- **Built-in flash:** Covers lenses as wide as 17mm (27mm equivalent); 
 - **Viewfinder focus screen:** New interchangeable "Ef" series focusing screens; standard screen: Ef-A–precision matte screen very similar to EOS 30D; optional Ef-D screen–precision matte with grid lines; optional Ef-S screen–Super precision matte (superior manual focusing with fast lenses, f1.8 to f2.8)
 - **Viewfinder display:** Similar to EOS 30D; new: ISO is always displayed; new: B/W shooting mode icon; new: maximum burst available now two digits
 - **Dioptric adjustment:** User-set from -3.0 to +1.0 (range can be extended using optional Canon dioptric Lens E, plus rubber frame Eb)

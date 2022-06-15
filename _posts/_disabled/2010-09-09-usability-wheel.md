@@ -4,7 +4,7 @@ title: 'Usability Wheel'
 date: '2010-09-09T19:54:41+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=5998'
+
 
 header:
   teaser: /assets/images/2010/09/usability.wheel_thumb.png

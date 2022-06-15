@@ -4,7 +4,7 @@ title: 'Bluetooth in secure mode vulnerable too'
 date: '2005-06-04T23:37:42+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1778'
+
 
 header:
   teaser: /assets/images/2005/06/logo_bluetooth.gif

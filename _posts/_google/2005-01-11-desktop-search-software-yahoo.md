@@ -4,7 +4,7 @@ title: 'Desktop search software: Yahoo'
 date: '2005-01-11T21:17:48+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1474'
+
 
 tags:
 - Download

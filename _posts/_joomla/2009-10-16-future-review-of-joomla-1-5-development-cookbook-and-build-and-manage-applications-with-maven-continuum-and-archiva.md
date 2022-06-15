@@ -4,7 +4,7 @@ title: 'Future review of Joomla!® 1.5 Development Cookbook and Build and Manage
 date: '2009-10-16T15:13:32+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4780'
+
 
 ---
 

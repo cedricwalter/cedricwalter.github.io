@@ -4,7 +4,7 @@ title: 'My NAS array, testing performances and reliability'
 date: '2006-05-21T11:49:27+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2533'
+
 
 tags:
     - 'PC and Hardware'

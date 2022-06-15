@@ -4,7 +4,7 @@ title: 'Mon Dual Celeron 450 Mhz en 1999'
 date: '2004-08-31T23:36:16+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=617'
+
 
 header:
   teaser: /assets/images/2004/08/msi6905.jpg

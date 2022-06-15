@@ -4,7 +4,7 @@ title: 'Joomla! mosSociable new version'
 date: '2008-09-07T02:32:47+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3757'
+
 
 ---
 

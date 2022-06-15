@@ -5,10 +5,10 @@ date: '2020-03-31T16:47:33+02:00'
 author: 'Cédric Walter'
 categories:
 - travel
-guid: 'https://waltercedric.com/?p=12293'
 
-ngg_post_thumbnail:
-    - '0'
+
+
+    
 header:
   teaser: /assets/images/2020/03/australia.victoria.great_.ocean_.road_00086-2.jpg
 tags:

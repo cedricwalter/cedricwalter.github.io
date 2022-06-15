@@ -4,7 +4,7 @@ title: 'Broken download when downloading zip files'
 date: '2008-08-17T19:44:40+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3698'
+
 
 ---
 

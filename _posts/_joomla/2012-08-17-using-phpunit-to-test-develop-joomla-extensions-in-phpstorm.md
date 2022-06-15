@@ -4,7 +4,7 @@ title: 'Using PHPUnit to test-develop Joomla extensions in PhpStorm'
 date: '2012-08-17T11:55:33+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=7757'
+
 
 header:
   teaser: /assets/images/2012/08/phpunitlogo_thumb.gif

@@ -4,7 +4,7 @@ title: 'Star Wars: Episode III &#8211; Revenge of The Sith'
 date: '2005-06-04T12:12:55+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1773'
+
 
 header:
   teaser: /assets/images/2019/10/1200px-Star_Wars_Logo.svg_.png

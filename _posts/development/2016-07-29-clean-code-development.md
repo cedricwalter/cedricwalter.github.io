@@ -4,7 +4,7 @@ title: 'Clean Code Development'
 date: '2016-07-29T13:19:52+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=8500'
+
 
 header:
 teaser: /assets/images/2015/01/devlopment.jpg
@@ -217,8 +217,8 @@ tell an object what to do.
 don’t write “train wreck code”. Talk to direct collaborators only. Within each scope, confine yourself to using the
 parameters, local methods, locally created objects, associated partners and global services.
 
-The **Law of Demeter** (**LoD**) or **principle of least knowledge** is a design guideline for developing software,
-particularly object-oriented programs. In its general form, the LoD is a specific case of loose coupling. The guideline
+The **Law of Demeter** (**LoD**) or **principle of least knowledge** is a design 
+particularly object-oriented programs. In its general form, the LoD is a specific case of loose coupling. The 
 was proposed at Northeastern University^towards the end of 1987, and can be succinctly summarized in each of the
 following ways:
 

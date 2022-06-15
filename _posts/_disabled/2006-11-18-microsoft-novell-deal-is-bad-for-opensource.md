@@ -4,7 +4,7 @@ title: 'Microsoft-Novell deal IS bad for opensource'
 date: '2006-11-18T12:06:01+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2760'
+
 
 tags:
     - microsoft

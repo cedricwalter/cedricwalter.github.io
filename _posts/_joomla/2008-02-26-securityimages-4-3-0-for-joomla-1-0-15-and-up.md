@@ -4,7 +4,7 @@ title: 'Securityimages 4.3.0 for Joomla 1.0.15 and up'
 date: '2008-02-26T19:35:29+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3195'
+
 
 header:
   teaser: /assets/images/2008/02/securityimages.4.2.3.checkSystem.gif

@@ -4,7 +4,7 @@ title: 'What to expect from Eclipse 3.1'
 date: '2005-05-25T17:39:07+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1760'
+
 
 tags:
     - development

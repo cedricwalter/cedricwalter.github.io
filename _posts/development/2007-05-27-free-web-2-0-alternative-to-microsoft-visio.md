@@ -4,7 +4,7 @@ title: 'Free WEB 2.0 Alternative to Microsoft VISIO'
 date: '2007-05-27T11:50:16+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2971'
+
 
 header:
   teaser: /assets/images/2007/05/gliffy.alternative.to_.visio_.jpg

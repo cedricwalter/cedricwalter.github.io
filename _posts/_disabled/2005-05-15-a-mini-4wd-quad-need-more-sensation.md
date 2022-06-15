@@ -4,7 +4,7 @@ title: 'A mini 4WD quad? need more sensation?'
 date: '2005-05-15T20:51:19+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1726'
+
 
 tags:
 - Links

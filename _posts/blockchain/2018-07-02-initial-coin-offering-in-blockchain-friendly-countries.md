@@ -5,7 +5,7 @@ date: '2018-07-02T20:19:30+02:00'
 author: 'Cédric Walter'
 categories:
 - blockchain
-guid: 'https://waltercedric.com/new/?p=8734'
+
 
 header:
   teaser: /assets/images/2018/07/ico-ended-switzerland.png

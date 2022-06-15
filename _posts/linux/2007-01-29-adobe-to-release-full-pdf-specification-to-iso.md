@@ -4,7 +4,7 @@ title: 'Adobe To Release Full PDF Specification to ISO'
 date: '2007-01-29T21:49:30+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2858'
+
 
 header:
   teaser: /assets/images/2007/01/Adobe-acrobat-PDF.jpg

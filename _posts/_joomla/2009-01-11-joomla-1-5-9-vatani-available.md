@@ -4,7 +4,7 @@ title: 'Joomla 1.5.9 [Vatani] available'
 date: '2009-01-11T12:02:23+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4034'
+
 
 ---
 

@@ -4,7 +4,7 @@ title: 'Still playing with ZFS pool under Nexenta'
 date: '2006-08-11T22:50:05+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2679'
+
 
 tags:
     - 'PC and Hardware'
@@ -13,7 +13,7 @@ tags:
 
 Before putting my monster NAS online (pictures will follow soon), I am playing a lot with [NEXENTA](http://www.gnusolaris.org/gswiki) under [VMWARE player.](http://www.vmware.com/products/player/)
 
-I’ve found that excellent PDF ([THE LAST WORD IN FILE SYSTEMS](http://www.opensolaris.org/os/community/zfs/docs/zfs_last.pdf)) which explain why ZFS may be the Saint Graal of file system, while if you want to learn how to administrate pool, I recommend You[The ZFS admin guide](http://www.opensolaris.org/os/community/zfs/docs/zfsadmin_0726.pdf)
+I’ve found that excellent PDF ([THE LAST WORD IN FILE SYSTEMS](http://www.opensolaris.org/os/community/zfs/docs/zfs_last.pdf)) which explain why ZFS may be the Saint Graal of file system, while if you want to learn how to administrate pool, I recommend You[The ZFS admin 
 
 Here is my first try, with 7 simulated disks (this example use files and not real devices even if I have 7 real disks sitting next to me ;-)), next steps will be to export the pool as NFS share, plug some disks out, activate encryption, crontab snapshots and remote ssh backup of some vital data.
 

@@ -4,7 +4,7 @@ title: 'Will major vendors dilute open source?'
 date: '2006-02-24T22:38:36+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2325'
+
 
 tags:
     - changing

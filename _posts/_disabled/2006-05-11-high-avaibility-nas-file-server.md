@@ -4,7 +4,7 @@ title: 'High avaibility NAS File Server'
 date: '2006-05-11T18:27:58+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2524'
+
 
 tags:
     - Bought

@@ -4,7 +4,7 @@ title: 'Extensions for Google Chrome are Coming'
 date: '2009-02-07T17:47:43+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4100'
+
 
 header:
   teaser: /assets/images/2009/02/chrome_thumb.jpg

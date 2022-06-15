@@ -4,7 +4,7 @@ title: 'Overclocking results'
 date: '2004-08-31T23:32:47+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=600'
+
 
 header:
   teaser: /assets/images/2004/08/InPlace1.jpg

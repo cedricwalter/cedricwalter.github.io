@@ -4,7 +4,7 @@ title: 'Continuous build with Apache Maven'
 date: '2008-04-10T14:51:53+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3378'
+
 
 header:
   teaser: /assets/images/2011/11/maven-logo-black-on-white-1.png

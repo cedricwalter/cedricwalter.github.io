@@ -4,7 +4,7 @@ title: 'Zurich scores highest for quality of living'
 date: '2006-05-07T20:31:29+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2518'
+
 
 header:
 teaser: /assets/images/2020/08/zurich-city-fromquaibrucke-scaled.jpeg

@@ -4,7 +4,7 @@ title: 'waltercedric.com popularity grow in China'
 date: '2009-01-08T17:33:32+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4028'
+
 
 header:
   teaser: /assets/images/2009/01/china.flag_thumb.png
@@ -35,7 +35,7 @@ Thanks for your efforts on #Joomla! related projects.
 In order to show our appreciation, we want to add you to the #Joomla People list.  
 Joomla People is a list built by [www.joomlagate.com](http://www.joomlagate.com). Our purpose is to introduce most valuable developers, translators, leaders, etc, all those who contributed to #Joomla community, especially those who released their <font color="#6a6a6a">work as free software, to our Chinese #Joomla users. We want Chinese #Joomla users recognize and remember you all, and learn from your works, your spirit and your words.  
 Our website, www.joomlagate.com, is one of the biggest and popular #Joomla website in China. We have more than **12 thousands of registered members** at present. We believe that your story will inspire many #Joomla <font color="#6a6a6a">users and developers in our country.  
-It is our pleasure to add you in this list. If you allow us to do this, please provide some personal information about you. We will give you some guideline but you can feel free to write down anything you want to <font color="#6a6a6a">say to Chinese #Joomla users. You can use your native language, we will try to translate them into Chinese.  
+It is our pleasure to add you in this list. If you allow us to do this, please provide some personal information about you. We will give you some 
 Finally your original comments and our translation will both be published together.  
 We hope you can inform us of following items (of course you can keep your privacy by skip any of them):*
 

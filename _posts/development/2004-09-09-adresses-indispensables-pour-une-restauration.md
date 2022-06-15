@@ -4,7 +4,7 @@ title: 'Adresses indispensables pour une restauration'
 date: '2004-09-09T21:51:52+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1189'
+
 
 tags:
     - scooter

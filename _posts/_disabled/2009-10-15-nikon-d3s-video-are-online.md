@@ -4,7 +4,7 @@ title: 'Nikon D3S Video are online!'
 date: '2009-10-15T17:48:28+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4774'
+
 
 ---
 

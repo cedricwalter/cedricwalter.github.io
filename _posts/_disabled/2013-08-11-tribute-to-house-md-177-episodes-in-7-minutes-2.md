@@ -4,7 +4,7 @@ title: 'Tribute to House MD &#8211; 177 Episodes in 7 minutes'
 date: '2013-08-11T08:49:22+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=8154'
+
 
 ---
 

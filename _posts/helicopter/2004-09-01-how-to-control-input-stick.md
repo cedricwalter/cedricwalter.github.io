@@ -4,7 +4,7 @@ title: 'How to control/input stick'
 date: '2004-09-01T23:27:56+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=907'
+
 
 header:
   teaser: /assets/images/2004/09/Inputresult.gif

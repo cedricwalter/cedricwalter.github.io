@@ -4,7 +4,7 @@ title: 'Slowing down spamming! Hashcash challenge in com_akocomment'
 date: '2005-02-24T23:01:21+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1590'
+
 
 tags:
     - development

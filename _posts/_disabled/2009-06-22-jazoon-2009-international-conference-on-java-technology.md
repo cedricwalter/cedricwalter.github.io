@@ -4,7 +4,7 @@ title: 'JAZOON 2009: International conference on Java technology'
 date: '2009-06-22T19:56:20+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4467'
+
 
 header:
   teaser: /assets/images/2009/06/jazoonlogo.gif

@@ -4,7 +4,7 @@ title: 'Version manager online for all my Joomla! extensions'
 date: '2008-09-01T17:53:49+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3732'
+
 
 header:
   teaser: /assets/images/2008/09/1399_versions_logo_304x50_thumb.png

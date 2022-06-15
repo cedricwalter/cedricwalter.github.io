@@ -4,7 +4,7 @@ title: 'Install XEN Server without an Optical Drive'
 date: '2011-10-01T12:10:46+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=7204'
+
 
 header:
   teaser: /assets/images/2011/10/xenServer_thumb.png

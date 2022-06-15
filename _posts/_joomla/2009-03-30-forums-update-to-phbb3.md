@@ -4,7 +4,7 @@ title: 'Forums update to …… PHBB3'
 date: '2009-03-30T00:51:27+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4240'
+
 
 header:
   teaser: /assets/images/2009/03/phpbb_logo.png

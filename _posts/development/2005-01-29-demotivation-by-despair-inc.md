@@ -4,7 +4,7 @@ title: 'Demotivation by despair inc.'
 date: '2005-01-29T12:43:22+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1535'
+
 
 ---
 
@@ -28,4 +28,4 @@ Some great sentences taken from [despair.inc](http://www.despair.com/demotivator
 
 -Risks: If You never try anything new, You’ll miss out on many of Life’s great disapointments.
 
-They are also [selling a book](http://www.despair.com/demotivators/artofde.html): "The art of demotivation: a revolutionary new management guide"
+They are also [selling a book](http://www.despair.com/demotivators/artofde.html): "The art of demotivation: a revolutionary new management 

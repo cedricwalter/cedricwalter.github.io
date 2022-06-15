@@ -4,7 +4,7 @@ title: 'Google&#8217;s PageRank Explained!'
 date: '2005-10-22T21:44:46+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2061'
+
 
 tags:
 - calculator

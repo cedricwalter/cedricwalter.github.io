@@ -4,7 +4,7 @@ title: 'Happy valentine day'
 date: '2007-02-14T23:14:47+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2878'
+
 
 header:
   teaser: /assets/images/2007/02/happy.valentine.day_.gif

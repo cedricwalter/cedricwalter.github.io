@@ -4,7 +4,7 @@ title: 'cedTag 2.5.5 for J2.5 Released'
 date: '2012-05-30T21:34:04+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=7703'
+
 
 header:
   teaser: /assets/images/2012/05/cedTag4_thumb.png

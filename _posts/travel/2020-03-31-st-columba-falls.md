@@ -5,10 +5,10 @@ date: '2020-03-31T18:28:51+02:00'
 author: 'Cédric Walter'
 categories:
 - travel
-guid: 'https://waltercedric.com/?p=12418'
 
-ngg_post_thumbnail:
-    - '0'
+
+
+    
 header:
   teaser: /assets/images/2020/03/Mount-Victoria-Reserve-St-Columba-Falls-1.jpg
 tags:

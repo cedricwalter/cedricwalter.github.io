@@ -4,7 +4,7 @@ title: 'Popular Articles with Thumbnails for Joomla!'
 date: '2011-08-26T13:11:22+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=7108'
+
 
 tags:
     - joomla

@@ -4,7 +4,7 @@ title: 'Raspberry Pi model B'
 date: '2013-02-19T20:39:23+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=7954'
+
 
 header:
   teaser: /assets/images/2013/02/20130219_211947_thumb.jpg
@@ -77,8 +77,8 @@ The graphics card of the #Raspberry Pi is capable of BluRay quality playback, us
 Other media center ready to use images are
 
 - **[OpenELEC](http://wiki.xbmc.org/index.php?title=OpenELEC)** – \[ [Installing](http://wiki.openelec.tv/index.php?title=Installing_OpenELEC_on_Raspberry_Pi) \] – \[ [FAQ](http://wiki.openelec.tv/index.php?title=Raspberry_Pi_FAQ) \] – \[ [Help forum](http://openelec.tv/forum/124-raspberry-pi) \]
-- **[Raspbmc](http://wiki.xbmc.org/index.php?title=Raspbmc)** – \[ Installing: [Windows](http://www.raspbmc.com/wiki/user/windows-installation/), [Mac OS X, Linux](http://www.raspbmc.com/wiki/user/os-x-linux-installation/) \] – \[ [FAQ](http://www.raspbmc.com/wiki/user/frequently-asked-questions/) \] – \[ [User guide](http://www.raspbmc.com/wiki/user/) \] – \[ [Help forum](http://forum.stmlabs.com/forumdisplay.php?fid=7) \]
-- **[XBian](http://wiki.xbmc.org/index.php?title=XBian)** – \[ [Installing](http://xbian.org/download/) \] – \[ [FAQ](http://xbian.org/faqs/) \] – \[ [Starters guide](http://xbian.org/getting-started/) \] – \[ [Forum](http://forum.xbian.org/) \]
+- **[Raspbmc](http://wiki.xbmc.org/index.php?title=Raspbmc)** – \[ Installing: [Windows](http://www.raspbmc.com/wiki/user/windows-installation/), [Mac OS X, Linux](http://www.raspbmc.com/wiki/user/os-x-linux-installation/) \] – \[ [FAQ](http://www.raspbmc.com/wiki/user/frequently-asked-questions/) \] – \[ [User 
+- **[XBian](http://wiki.xbmc.org/index.php?title=XBian)** – \[ [Installing](http://xbian.org/download/) \] – \[ [FAQ](http://xbian.org/faqs/) \] – \[ [Starters 
 
 # Installing Oracle’s Java on #Raspberry Pi
 

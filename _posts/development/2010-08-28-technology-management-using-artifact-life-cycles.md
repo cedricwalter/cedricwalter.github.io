@@ -4,7 +4,7 @@ title: 'Technology management using artifact life cycles'
 date: '2010-08-28T16:23:51+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=5823'
+
 
 header:
 teaser: /assets/images/2010/08/mavenlogo2_thumb.gif

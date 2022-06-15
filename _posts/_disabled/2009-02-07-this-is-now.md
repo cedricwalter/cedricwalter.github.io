@@ -4,7 +4,7 @@ title: 'This is Now'
 date: '2009-02-07T21:41:40+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4112'
+
 
 header:
   teaser: /assets/images/2009/02/thisisnow_thumb.jpg

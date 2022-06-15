@@ -4,7 +4,7 @@ title: 'Maximum Velocity'
 date: '2005-03-21T20:07:56+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1626'
+
 
 tags:
 - Science

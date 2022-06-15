@@ -4,7 +4,7 @@ title: 'Sites you MUST visit'
 date: '2004-09-05T16:42:26+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1006'
+
 
 tags:
     - 'TT ek4'

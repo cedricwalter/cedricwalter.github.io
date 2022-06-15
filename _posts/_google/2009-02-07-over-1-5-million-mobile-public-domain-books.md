@@ -4,7 +4,7 @@ title: 'Over 1.5 million mobile public domain books'
 date: '2009-02-07T18:08:04+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4104'
+
 
 header:
   teaser: /assets/images/2009/02/google.jpg

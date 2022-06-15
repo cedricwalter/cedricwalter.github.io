@@ -4,7 +4,7 @@ title: 'Securityimages patches for Joomla! 1.0.12'
 date: '2007-01-04T19:43:01+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2820'
+
 
 tags:
     - joomla

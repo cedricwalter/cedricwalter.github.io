@@ -4,7 +4,7 @@ title: 'linux kmobiletools sync at glance'
 date: '2005-09-10T23:42:28+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2029'
+
 
 header:
   teaser: /assets/images/2005/09/kmobiletoolSonyK750-settings1.png

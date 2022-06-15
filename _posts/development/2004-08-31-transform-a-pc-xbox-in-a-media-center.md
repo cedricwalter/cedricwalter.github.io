@@ -4,7 +4,7 @@ title: 'Transform a PC Xbox in a media center'
 date: '2004-08-31T23:37:51+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=621'
+
 
 header:
   teaser: /assets/images/2004/08/geexbox-logo.gif

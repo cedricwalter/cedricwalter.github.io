@@ -4,7 +4,7 @@ title: 'High speed camera'
 date: '2007-02-10T22:20:31+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2870'
+
 
 tags:
 - fantastic

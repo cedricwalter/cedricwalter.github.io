@@ -4,7 +4,7 @@ title: 'Getting started with test-driven development'
 date: '2004-12-07T22:35:06+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1434'
+
 
 header:
   teaser: /assets/images/2015/01/devlopment.jpg

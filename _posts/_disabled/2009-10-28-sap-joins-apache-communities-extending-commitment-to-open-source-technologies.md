@@ -4,7 +4,7 @@ title: 'SAP Joins Apache Communities, Extending Commitment to Open Source Techno
 date: '2009-10-28T17:37:31+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4844'
+
 
 ---
 

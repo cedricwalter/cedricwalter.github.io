@@ -4,7 +4,7 @@ title: 'Fragrance Lampe Berger 26 to 30'
 date: '2010-06-26T18:58:30+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=5389'
+
 
 header:
   teaser: /assets/images/2010/06/914096570_f66JaTh1.jpg

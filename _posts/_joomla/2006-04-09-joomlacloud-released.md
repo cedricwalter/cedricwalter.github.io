@@ -4,7 +4,7 @@ title: 'JoomlaCloud Released!!'
 date: '2006-04-09T14:23:30+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2445'
+
 
 header:
   teaser: /assets/images/2006/01/JoomlaCloud.logo_.png

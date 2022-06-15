@@ -4,7 +4,7 @@ title: 'Escrow has contacted me'
 date: '2006-03-27T10:27:02+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2396'
+
 
 tags:
 - criminality

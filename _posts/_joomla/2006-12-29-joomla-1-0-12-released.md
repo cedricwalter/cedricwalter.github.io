@@ -4,7 +4,7 @@ title: 'Joomla! 1.0.12 Released'
 date: '2006-12-29T10:41:11+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2814'
+
 
 tags:
     - joomla

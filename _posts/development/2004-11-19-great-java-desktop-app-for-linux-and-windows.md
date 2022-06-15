@@ -4,7 +4,7 @@ title: 'Great java desktop app for linux and windows'
 date: '2004-11-19T10:29:27+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1381'
+
 
 tags:
 - convenient

@@ -4,7 +4,7 @@ title: 'Demo closed temporary'
 date: '2006-08-20T20:55:51+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2685'
+
 
 tags:
     - homepage

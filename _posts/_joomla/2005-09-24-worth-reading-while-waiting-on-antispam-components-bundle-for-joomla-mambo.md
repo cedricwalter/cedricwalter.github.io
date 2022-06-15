@@ -4,7 +4,7 @@ title: 'Worth reading while waiting on Antispam components bundle for Joomla/Mam
 date: '2005-09-24T00:08:49+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2033'
+
 
 tags:
 - completely

@@ -4,7 +4,7 @@ title: 'Pacman comes to life virtually'
 date: '2005-06-07T19:19:23+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1782'
+
 
 tags:
 - buildings

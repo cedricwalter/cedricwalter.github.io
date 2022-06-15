@@ -4,7 +4,7 @@ title: 'Joomlacomment 4.0 jQuery optimization'
 date: '2009-10-03T12:44:07+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4731'
+
 
 ---
 

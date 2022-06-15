@@ -4,7 +4,7 @@ title: 'Configuring TeamCity, Maven for PHP for Joomla continuous build'
 date: '2009-04-21T21:31:34+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4288'
+
 
 tags:
     - apache

@@ -4,7 +4,7 @@ title: 'Conditional Access, Copy Protection, Digital Rights Management and Link 
 date: '2007-02-04T11:28:35+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2867'
+
 
 header:
   teaser: /assets/images/2007/02/designed.for_.vista_.jpg

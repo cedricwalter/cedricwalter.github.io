@@ -4,7 +4,7 @@ title: Joomla_1.5.23-Stable-Full_PackageForSecurityImages5.1.x_v01.02.00.zip
 date: '2011-04-16T21:19:05+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=6605'
+
 
 tags:
     - joomla

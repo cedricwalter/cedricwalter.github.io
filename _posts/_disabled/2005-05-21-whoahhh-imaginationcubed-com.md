@@ -4,7 +4,7 @@ title: 'Whoahhh imaginationcubed.com !'
 date: '2005-05-21T16:54:58+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1755'
+
 
 header:
   teaser: /assets/images/2005/05/www.imaginationcubed.com_.png

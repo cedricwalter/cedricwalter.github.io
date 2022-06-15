@@ -4,7 +4,7 @@ title: 'CSS sprite generator online'
 date: '2009-05-26T23:08:01+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4342'
+
 
 header:
   teaser: /assets/images/2009/05/css.sprite.generator.png

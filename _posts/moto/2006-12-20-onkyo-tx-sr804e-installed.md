@@ -4,7 +4,7 @@ title: 'onkyo TX-SR804E installed'
 date: '2006-12-20T18:03:41+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2808'
+
 
 header:
   teaser: /assets/images/2006/12/onkyo.TX-SR804E.jpg

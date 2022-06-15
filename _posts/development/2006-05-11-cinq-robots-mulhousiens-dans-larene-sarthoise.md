@@ -4,7 +4,7 @@ title: 'Cinq robots mulhousiens dans l&#8217;arène sarthoise.'
 date: '2006-05-11T18:44:29+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2525'
+
 
 header:
 teaser: /assets/images/2006/05/essaim-ensisa-logo.jpg

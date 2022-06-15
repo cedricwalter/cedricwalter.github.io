@@ -4,7 +4,7 @@ title: Resume
 date: '2010-07-23T00:00:00+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=941'
+
 
 header:
   teaser: /assets/images/2010/07/cedric.walter.smallest.jpg

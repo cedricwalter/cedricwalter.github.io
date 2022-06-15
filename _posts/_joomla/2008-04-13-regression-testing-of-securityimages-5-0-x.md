@@ -4,7 +4,7 @@ title: 'Regression testing of SecurityImages 5.0.X'
 date: '2008-04-13T18:43:04+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3422'
+
 
 header:
   teaser: /assets/images/2008/04/com_securityimages_thumb.png

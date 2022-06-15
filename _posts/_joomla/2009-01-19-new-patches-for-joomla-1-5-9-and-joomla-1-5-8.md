@@ -4,7 +4,7 @@ title: 'New patches for Joomla 1.5.9 and Joomla 1.5.8'
 date: '2009-01-19T20:56:38+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4048'
+
 
 header:
   teaser: /assets/images/2009/01/smallbox_securityimages_thumb.jpg

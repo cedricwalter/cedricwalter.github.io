@@ -4,7 +4,7 @@ title: 'Sony HDR-SR1 review'
 date: '2007-01-11T21:49:02+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2836'
+
 
 header:
   teaser: /assets/images/2007/01/Sony-HDR-SR1.jpg

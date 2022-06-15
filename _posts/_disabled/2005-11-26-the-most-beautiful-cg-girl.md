@@ -4,7 +4,7 @@ title: 'The most beautiful CG girl'
 date: '2005-11-26T20:14:14+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2119'
+
 
 tags:
 - beautiful

@@ -4,7 +4,7 @@ title: 'Réparer/bricoler un draganflyer'
 date: '2005-04-17T17:17:09+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1689'
+
 
 tags:
 - 'RC helicopter'

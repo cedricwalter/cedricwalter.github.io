@@ -4,7 +4,7 @@ title: 'Askimet for Joomla!'
 date: '2007-01-07T11:11:51+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2833'
+
 
 header:
   teaser: /assets/images/2006/03/spammers.jpg

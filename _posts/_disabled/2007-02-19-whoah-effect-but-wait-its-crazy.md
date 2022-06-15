@@ -4,7 +4,7 @@ title: 'whoah effect but wait its crazy'
 date: '2007-02-19T23:49:04+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2885'
+
 
 header:
   teaser: /assets/images/2007/02/TeslaRotBreakout1_small.jpg

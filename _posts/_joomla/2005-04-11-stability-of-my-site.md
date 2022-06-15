@@ -4,7 +4,7 @@ title: 'Stability of my Site'
 date: '2005-04-11T12:25:10+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2489'
+
 
 tags:
 - homepage

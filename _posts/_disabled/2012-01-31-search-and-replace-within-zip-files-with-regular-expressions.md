@@ -4,7 +4,7 @@ title: 'Search And Replace Within Zip Files with Regular Expressions'
 date: '2012-01-31T20:53:47+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=7466'
+
 
 header:
   teaser: /assets/images/2012/01/Search_And_Replace_Within_Zip_Files_With_OxygenXMLEditor.png

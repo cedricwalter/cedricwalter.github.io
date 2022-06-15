@@ -4,7 +4,7 @@ title: 'UN*XXX geek joke'
 date: '2008-05-04T14:42:52+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3447'
+
 
 header:
   teaser: /assets/images/2008/05/linuxgraffiti_thumb.jpg

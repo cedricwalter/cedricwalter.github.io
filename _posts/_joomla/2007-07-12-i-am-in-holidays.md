@@ -4,7 +4,7 @@ title: 'I am in holidays :-)'
 date: '2007-07-12T14:45:53+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3005'
+
 
 header:
   teaser: /assets/images/2007/07/holidays.jpg

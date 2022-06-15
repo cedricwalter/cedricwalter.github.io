@@ -4,7 +4,7 @@ title: 'KDE 4.2 is just great and it is now available'
 date: '2009-01-29T00:09:32+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4078'
+
 
 header:
   teaser: /assets/images/2009/01/desktop_thumb.png
@@ -22,7 +22,7 @@ Or you can choose to install a more [basic KDE 4 desktop](http://download.opensu
 
  **Attention: The KDE:KDE4:Factory:Desktop Build Service project offers KDE 4.2.x packages as they are currently under development for openSUSE 11.2. They should be mostly usable, but have bugs.**
 
-The [release announcement](http://www.kde.org/announcements/4.2/) gives a quick overview while the [visual tour to KDE 4.2](http://www.kde.org/announcements/4.2/guide.php) **is a must see**. Here are also 2 video:
+The [release announcement](http://www.kde.org/announcements/4.2/) gives a quick overview while the [visual tour to KDE 4.2](http://www.kde.org/announcements/4.2/
 
  <embed allowfullscreen="true" allowscriptaccess="always" height="430" src="http://blip.tv/play/grwO5adwjoEn" type="application/x-shockwave-flash" width="500"></embed>   
  <embed allowfullscreen="true" allowscriptaccess="always" height="430" src="http://blip.tv/play/grwO5aR7joEn" type="application/x-shockwave-flash" width="500"></embed>

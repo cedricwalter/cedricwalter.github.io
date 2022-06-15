@@ -4,7 +4,7 @@ title: 'joomla 1.0.11 securityimages support'
 date: '2006-08-29T23:10:48+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2692'
+
 
 header:
   teaser: /assets/images/2006/03/box_securityimages.jpg

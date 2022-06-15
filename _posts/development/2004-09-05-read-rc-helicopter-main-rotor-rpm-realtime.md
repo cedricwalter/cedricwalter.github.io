@@ -4,7 +4,7 @@ title: 'Read rc helicopter main rotor RPM realtime'
 date: '2004-09-05T17:04:42+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1036'
+
 
 header:
   teaser: /assets/images/2004/09/expectedResult.jpg

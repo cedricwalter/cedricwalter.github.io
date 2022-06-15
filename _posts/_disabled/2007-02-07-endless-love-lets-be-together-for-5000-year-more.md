@@ -4,7 +4,7 @@ title: 'Endless love, lets be together for 5000 year more'
 date: '2007-02-07T18:59:48+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2869'
+
 
 header:
   teaser: /assets/images/2007/02/couple.skeleton.found_.italy_.jpg

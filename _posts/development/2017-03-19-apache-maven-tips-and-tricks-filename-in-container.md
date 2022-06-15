@@ -4,7 +4,7 @@ title: 'Apache Maven tips and tricks: war plugin vs assembly plugin'
 date: '2017-03-19T08:51:50+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=8614'
+
 
 header:
 teaser: /assets/images/2011/11/maven-logo-black-on-white-1.png

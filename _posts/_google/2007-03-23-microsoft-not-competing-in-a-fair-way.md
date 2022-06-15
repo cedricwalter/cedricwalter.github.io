@@ -4,7 +4,7 @@ title: 'Microsoft not competing in a fair way'
 date: '2007-03-23T22:28:28+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2916'
+
 
 header:
   teaser: /assets/images/2007/03/m.live-against-google.jpg

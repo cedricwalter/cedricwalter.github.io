@@ -4,7 +4,7 @@ title: 'Internet is Best viewed in Chrome 12 Web browser'
 date: '2011-06-08T21:23:43+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=6849'
+
 
 header:
   teaser: /assets/images/2011/06/shaunthesheep_google_chrome_3d_css.png

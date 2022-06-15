@@ -4,7 +4,7 @@ title: 'PilotÂ´s Profile'
 date: '2004-09-01T23:01:05+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=841'
+
 
 tags:
 - crash

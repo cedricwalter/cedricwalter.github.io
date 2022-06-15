@@ -4,7 +4,7 @@ title: 'MYSQL tuning with mysqlreport'
 date: '2009-01-02T23:08:11+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4025'
+
 
 header:
   teaser: /assets/images/2009/01/mysql.logo_thumb.png

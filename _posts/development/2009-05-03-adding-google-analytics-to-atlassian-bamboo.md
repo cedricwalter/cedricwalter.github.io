@@ -4,7 +4,7 @@ title: 'Adding Google analytics to Atlassian Bamboo'
 date: '2009-05-03T18:32:34+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4311'
+
 
 ---
 

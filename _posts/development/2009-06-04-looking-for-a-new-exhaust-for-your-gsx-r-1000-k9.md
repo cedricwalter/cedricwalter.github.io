@@ -4,7 +4,7 @@ title: 'Looking for a new exhaust for your GSX-R 1000 K9 ?'
 date: '2009-06-04T18:13:00+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4371'
+
 
 header:
   teaser: /assets/images/2009/06/Suzuki.GSXR_.1000.K9.original.exhaust2.jpg

@@ -1,18 +1,18 @@
 ---
 id: 7298
-title: 'QuadroCopter buyer guide'
+title: 'QuadroCopter buyer 
 date: '2011-11-16T22:25:09+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=7298'
+
 
 header:
-  teaser: /assets/images/2011/11/QuadroCopter_buyer_guide_thumb.png
+  teaser: /assets/images/2011/11/QuadroCopter_buyer_
 tags:
     - 'RC helicopter'
 ---
 
-[![QuadroCopter_buyer_guide](/assets/images/2011/11/QuadroCopter_buyer_guide_thumb.png "QuadroCopter_buyer_guide")](/assets/images/2011/11/QuadroCopter_buyer_guide.png)
+[![QuadroCopter_buyer_
 
 I remember discussing with [Mike Dammar](http://www.veratechcorp.com/company.html) back in 2003, he was the inventor of this concept way before it get sold to [Draganfly innovations](http://www.draganfly.com/) (I think his company was name AFOT) Anyway, here is a list I’ve compiled of all Quadcopter available today on the market. I have still my [Roswell Flyer, HMX-4, Draganflyer](http://www.waltercedric.com/component/content/171.html?task=view&fontstyle=f-larger) back from 2004 but in comparison of these ones, it look now more like a toy.
 
@@ -26,7 +26,7 @@ The opposite (vertical) axe is called "yaw". To be able to yaw you need a force 
 
 Feel free to send me a link to any quadrocopter model not listed here.
 
-# Buyer guide
+# Buyer 
 
 All these Quadcopter are extremely Stable and very maneuverable thanks to their 3 gyroscope and stabilization software.
 
@@ -71,7 +71,7 @@ The AR.Drone remote-control quadcopter is a groundbreaking device combining the 
 
 [![AR_Parrot_Drone](/assets/images/2011/11/AR_Parrot_Drone_thumb.png "AR_Parrot_Drone")](http://www.waltercedric.com/images/QUadroCopter-world_6E41/AR_Parrot_Drone.png)[![AR_Parrot_Drone2](/assets/images/2011/11/AR_Parrot_Drone2_thumb.png "AR_Parrot_Drone2")](http://www.waltercedric.com/images/QUadroCopter-world_6E41/AR_Parrot_Drone2.png)
 
-Controlled by an IOS/Android device – [English Manual](http://www.parrot.com/fr/support/guidesutilisateur/ar.drone_user-guide_uk.pdf)
+Controlled by an IOS/Android device – [English Manual](http://www.parrot.com/fr/support/
 
 ##  
 

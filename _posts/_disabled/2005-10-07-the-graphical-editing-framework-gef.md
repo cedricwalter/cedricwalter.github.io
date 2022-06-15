@@ -4,7 +4,7 @@ title: 'The Graphical Editing Framework (GEF)'
 date: '2005-10-07T16:00:51+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2045'
+
 
 tags:
 - creating

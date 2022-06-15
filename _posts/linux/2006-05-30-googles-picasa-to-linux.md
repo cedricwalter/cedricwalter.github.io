@@ -4,7 +4,7 @@ title: 'Google&#8217;s Picasa to Linux.'
 date: '2006-05-30T13:15:46+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2634'
+
 
 header:
   teaser: /assets/images/2005/10/winehq_top_logo.png

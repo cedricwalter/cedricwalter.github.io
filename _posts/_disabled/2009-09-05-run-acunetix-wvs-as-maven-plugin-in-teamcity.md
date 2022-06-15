@@ -4,7 +4,7 @@ title: 'Run Acunetix WVS as Maven plugin in TeamCity'
 date: '2009-09-05T16:55:55+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4606'
+
 
 tags:
     - apache

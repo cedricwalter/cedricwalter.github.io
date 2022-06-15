@@ -4,7 +4,7 @@ title: 'La Recherche de Documents sur Internet.'
 date: '2004-08-31T23:00:20+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=554'
+
 
 tags:
     - francais

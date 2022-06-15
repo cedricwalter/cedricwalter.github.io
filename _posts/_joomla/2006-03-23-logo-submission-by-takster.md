@@ -4,7 +4,7 @@ title: 'logo submission by Takster'
 date: '2006-03-23T18:59:07+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2386'
+
 
 header:
   teaser: /assets/images/2006/03/opencomment.jpg

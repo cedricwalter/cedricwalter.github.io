@@ -4,7 +4,7 @@ title: 'CryptoParty Handbook v1.1 has been released'
 date: '2013-02-20T20:38:09+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=7982'
+
 
 header:
   teaser: /assets/images/2013/02/cryptoparty.png

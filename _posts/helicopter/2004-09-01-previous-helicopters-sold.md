@@ -4,7 +4,7 @@ title: 'Previous helicopters (sold)'
 date: '2004-09-01T22:56:40+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=832'
+
 
 header:
   teaser: /assets/images/2004/09/raptor301st.jpg

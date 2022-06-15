@@ -4,7 +4,7 @@ title: 'Names from A to G'
 date: '2005-03-28T12:30:56+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1655'
+
 
 tags:
     - Collectibles

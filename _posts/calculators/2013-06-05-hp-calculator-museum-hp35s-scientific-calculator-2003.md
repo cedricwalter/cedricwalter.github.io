@@ -4,7 +4,7 @@ title: 'HP calculator museum: Hewlett Packard HP35s Scientific Calculator, 2003'
 date: '2013-06-05T21:22:39+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=8056'
+
 
 header:
   teaser: /assets/images/2013/06/hp35_header.png
@@ -31,7 +31,7 @@ The 35s is also the most powerful calculator approved for use on the NCEES exams
 
 - Protective case
 - Batteries
-- Short printed quick start guide
+- Short printed quick start 
 
 ### Physical Characteristics
 
@@ -72,7 +72,7 @@ The 35s is also the most powerful calculator approved for use on the NCEES exams
 - Linear regression
 - Normal and inverse-normal distributions
 - Grouped standard deviations
-- Curve fitting (linear, logarithmic, exponential, and power, when using program listing from user’s guide)
+- Curve fitting (linear, logarithmic, exponential, and power, when using program listing from user’s 
 - Combinations, permutations, factorials, random number generation
 
 ### Scientific
@@ -110,8 +110,8 @@ The 35s is also the most powerful calculator approved for use on the NCEES exams
 
 ### HP Provided Documentation
 
-- [User’s Guide](http://h10010.www1.hp.com/wwpc/pscmisc/vac/us/product_pdfs/user_guide.pdf), 382 pages, provided in printed form with some calculators and included in electronic form on CD with others
-- Short quick-start guide, provided in printed form with other calculators
+- [User’s 
+- Short quick-start 
 - Fifty-five [Training Modules](http://h20331.www2.hp.com/Hpsub/downloads/35s.zip), totaling 263 pages, provided as a separate download
 
 ### Warranty and Support

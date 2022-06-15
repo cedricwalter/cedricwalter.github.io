@@ -4,7 +4,7 @@ title: 'OSGi-Bundle with the Maven-Bundle-Plugin'
 date: '2011-06-06T21:45:17+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=6823'
+
 
 header:
   teaser: /assets/images/2011/11/maven-logo-black-on-white-1.png

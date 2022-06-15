@@ -4,7 +4,7 @@ title: 'Canon G10 review available'
 date: '2008-11-02T22:20:10+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3894'
+
 
 header:
   teaser: /assets/images/2008/11/canon.g10_thumb.jpg

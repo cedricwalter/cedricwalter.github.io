@@ -4,7 +4,7 @@ title: 'Showcase Joomla! site is up to date'
 date: '2009-06-14T18:17:55+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4422'
+
 
 tags:
     - homepage

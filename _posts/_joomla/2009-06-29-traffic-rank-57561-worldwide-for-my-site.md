@@ -4,7 +4,7 @@ title: 'Traffic rank: 57561 worldwide for my site'
 date: '2009-06-29T23:56:01+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4488'
+
 
 header:
   teaser: /assets/images/2009/06/alexa.waltercedric.com_.png

@@ -4,7 +4,7 @@ title: 'Todo list for securing Your Joomla/Mambo installation against hackers'
 date: '2005-12-21T14:05:48+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2234'
+
 
 header:
   teaser: /assets/images/2005/12/changeFTPpassword1.gif

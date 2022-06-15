@@ -4,7 +4,7 @@ title: 'Lost in switzerland or in Zurich?'
 date: '2004-09-05T13:18:12+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=999'
+
 
 header:
   teaser: /assets/images/2004/09/mapPlanStadtZurich.jpg

@@ -4,7 +4,7 @@ title: 'My Lego Pencil Holder'
 date: '2017-06-20T13:14:40+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=8634'
+
 
 ---
 

@@ -4,7 +4,7 @@ title: 'Google increase security by using only HSTS and you should do the same'
 date: '2016-07-31T09:33:23+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=8537'
+
 
 header:
   teaser: /assets/images/2012/01/Nginx-logo.png

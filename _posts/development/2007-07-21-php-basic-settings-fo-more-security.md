@@ -4,7 +4,7 @@ title: 'PHP basic settings fo more security'
 date: '2007-07-21T23:14:33+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3026'
+
 
 tags:
     - php
@@ -12,7 +12,7 @@ tags:
 
 <div style="">If you consider using PHP on a new server, use nothing else than PHP 5.2.3, it may be a pain to rewrite or patch foreign code, but PHP 5.2 is more secure and 100% faster than PHP4, moreover PHP4 is soon dead! PHP 4 end of life announcement  
  "Today it is exactly three years ago since PHP 5 has been released. In those three years it has seen many improvements over PHP 4. PHP 5 is fast, stable &amp; production-ready and as PHP 6 is on the way, PHP 4 will be discontinued.  
-  The PHP development team hereby announces that support for PHP 4 will continue until the end of this year only. After 2007-12-31 there will be no more releases of PHP 4.4. We will continue to make critical security fixes available on a case-by-case basis until 2008-08-08. Please use the rest of this year to make your application suitable to run on PHP 5. For documentation on migration for PHP 4 to PHP 5, we would like to point you to our [migration guide](http://www.php.net/manual/en/migration5.php). There is additional information available in the [PHP 5.0 to PHP 5.1](http://www.php.net/manual/en/migration51.php) and [PHP 5.1 to PHP 5.2](http://www.php.net/manual/en/migration52.php) migration guides as well.from <http://www.php.net/>
+  The PHP development team hereby announces that support for PHP 4 will continue until the end of this year only. After 2007-12-31 there will be no more releases of PHP 4.4. We will continue to make critical security fixes available on a case-by-case basis until 2008-08-08. Please use the rest of this year to make your application suitable to run on PHP 5. For documentation on migration for PHP 4 to PHP 5, we would like to point you to our [migration 
 
  If you are not able to use the latest version, consider applying PHP hardening patches from [http://www.hardened-](http://www.hardened-php.net/hphp/how_to_install_or_upgrade.html)[php.net/hphp/how\_to\_install\_or\_upgrade.html](http://www.hardened-php.net/hphp/how_to_install_or_upgrade.html) and compiling PHP for yourself (these patches are no more needed in PHP 5.2 since they are part of the main source tree). A lot of people already do that, even if it is not easy.
 

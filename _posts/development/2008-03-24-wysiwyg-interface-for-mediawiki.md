@@ -4,7 +4,7 @@ title: 'WYSIWYG interface for MediaWiki'
 date: '2008-03-24T17:11:40+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3304'
+
 
 header:
   teaser: /assets/images/2008/03/wysiwyg.editor.mediawiki.gif

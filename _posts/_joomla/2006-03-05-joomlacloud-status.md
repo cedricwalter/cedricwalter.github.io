@@ -4,7 +4,7 @@ title: 'JoomlaCLoud status'
 date: '2006-03-05T11:27:57+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2352'
+
 
 header:
   teaser: /assets/images/2006/03/t_core1.0.gif

@@ -4,7 +4,7 @@ title: 'Google Data Centers virtual visit'
 date: '2012-10-29T23:45:27+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=7856'
+
 
 header:
   teaser: /assets/images/2012/10/GoogleDataCenters.png

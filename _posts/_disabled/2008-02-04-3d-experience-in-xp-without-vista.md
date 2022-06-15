@@ -4,7 +4,7 @@ title: '3d experience in Xp without &#8230;. vista'
 date: '2008-02-04T18:57:03+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3178'
+
 
 ---
 

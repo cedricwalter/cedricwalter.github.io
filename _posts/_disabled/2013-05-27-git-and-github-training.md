@@ -4,7 +4,7 @@ title: 'Git and GitHub Training'
 date: '2013-05-27T19:06:11+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=8046'
+
 
 header:
   teaser: /assets/images/2013/05/github.png

@@ -4,7 +4,7 @@ title: 'Gimp 2.4 is available'
 date: '2007-11-26T19:02:10+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3161'
+
 
 header:
   teaser: /assets/images/2005/12/wilber_painter.png

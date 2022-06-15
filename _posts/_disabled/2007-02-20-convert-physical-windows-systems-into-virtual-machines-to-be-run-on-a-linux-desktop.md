@@ -4,7 +4,7 @@ title: 'Convert Physical Windows Systems Into Virtual Machines To Be Run On A Li
 date: '2007-02-20T20:06:00+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2886'
+
 
 tags:
 - opensource

@@ -4,7 +4,7 @@ title: 'voltage monitor'
 date: '2004-08-26T22:11:50+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=152'
+
 
 header:
   teaser: /assets/images/2004/08/fixingLedMonitor.JPG

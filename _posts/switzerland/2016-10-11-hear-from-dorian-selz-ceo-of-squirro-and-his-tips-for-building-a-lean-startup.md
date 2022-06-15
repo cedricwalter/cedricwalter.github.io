@@ -4,7 +4,7 @@ title: 'Hear from Dorian Selz, CEO of Squirro, and his tips for building a Lean 
 date: '2016-10-11T11:54:58+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=8596'
+
 
 ---
 

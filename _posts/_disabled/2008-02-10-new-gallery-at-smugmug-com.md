@@ -4,7 +4,7 @@ title: 'New gallery at smugmug.com'
 date: '2008-02-10T22:22:31+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3181'
+
 
 header:
   teaser: /assets/images/2008/02/smugmug.gif

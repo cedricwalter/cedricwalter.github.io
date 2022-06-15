@@ -4,7 +4,7 @@ title: 'Anoncement: Security images for Mambo'
 date: '2005-08-14T21:56:58+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1994'
+
 
 header:
   teaser: /assets/images/2005/08/securityImage_logosmall.png

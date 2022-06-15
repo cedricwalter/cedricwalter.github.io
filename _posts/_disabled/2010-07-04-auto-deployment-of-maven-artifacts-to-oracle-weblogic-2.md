@@ -4,7 +4,7 @@ title: 'Auto deployment of Maven artifacts to Oracle Weblogic'
 date: '2010-07-04T15:43:28+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=5429'
+
 
 header:
   teaser: /assets/images/2011/11/maven-logo-black-on-white-1.png

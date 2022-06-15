@@ -4,7 +4,7 @@ title: 'Yahoo Weather code in French &#8211; German &#8211; English'
 date: '2017-03-08T09:23:51+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=8610'
+
 
 ---
 

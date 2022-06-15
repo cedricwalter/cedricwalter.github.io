@@ -4,7 +4,7 @@ title: 'Streaming multimedia content to your television'
 date: '2005-03-27T23:13:08+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1649'
+
 
 tags:
     - 'XBOX mediacenter'

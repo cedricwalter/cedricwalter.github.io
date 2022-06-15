@@ -4,7 +4,7 @@ title: 'Ambient Noise for Ubuntu 16.10 yakkety'
 date: '2017-01-17T19:33:30+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=8599'
+
 
 ---
 

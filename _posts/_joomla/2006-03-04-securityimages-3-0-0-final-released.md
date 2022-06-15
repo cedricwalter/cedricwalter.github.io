@@ -4,7 +4,7 @@ title: 'SecurityImages 3.0.0 final released'
 date: '2006-03-04T16:55:56+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2347'
+
 
 header:
   teaser: /assets/images/2006/03/box_securityimages.jpg

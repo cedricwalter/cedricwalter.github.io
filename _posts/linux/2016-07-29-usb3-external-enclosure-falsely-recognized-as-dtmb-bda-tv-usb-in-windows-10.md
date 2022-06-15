@@ -4,7 +4,7 @@ title: 'USB3 external enclosure falsely recognized as DTMB BDA TV USB in windows
 date: '2016-07-29T19:21:56+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=8516'
+
 
 header:
   teaser: /assets/images/2016/07/ib-234-u31_3.jpg

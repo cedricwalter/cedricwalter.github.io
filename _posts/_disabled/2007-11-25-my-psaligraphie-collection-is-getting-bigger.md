@@ -4,7 +4,7 @@ title: 'My Psaligraphie  collection is getting bigger'
 date: '2007-11-25T22:17:13+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3160'
+
 
 header:
   teaser: /assets/images/2007/11/t_scherenschnittCollectionCedricwalter01.gif

@@ -4,7 +4,7 @@ title: 'Template method'
 date: '2005-01-27T20:00:33+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1531'
+
 
 header:
   teaser: /assets/images/2005/01/java-pattern-templatemethod.png

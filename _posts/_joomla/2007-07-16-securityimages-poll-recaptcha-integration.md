@@ -4,7 +4,7 @@ title: 'Securityimages POLL: reCAPTCHA  integration'
 date: '2007-07-16T16:26:39+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3017'
+
 
 tags:
     - joomla

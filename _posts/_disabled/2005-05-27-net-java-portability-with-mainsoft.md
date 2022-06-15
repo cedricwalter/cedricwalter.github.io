@@ -4,7 +4,7 @@ title: '.NET / Java portability with Mainsoft'
 date: '2005-05-27T13:05:01+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1764'
+
 
 tags:
 - dependencies

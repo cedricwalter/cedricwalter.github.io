@@ -4,7 +4,7 @@ title: 'Freedom: GPL wins in court battle'
 date: '2006-03-23T23:00:57+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2392'
+
 
 tags:
     - combination

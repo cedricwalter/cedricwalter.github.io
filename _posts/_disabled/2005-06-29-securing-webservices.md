@@ -4,7 +4,7 @@ title: 'Securing webservices'
 date: '2005-06-29T16:52:34+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1807'
+
 
 tags:
     - apache

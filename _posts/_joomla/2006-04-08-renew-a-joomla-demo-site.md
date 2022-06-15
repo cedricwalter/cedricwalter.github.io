@@ -4,7 +4,7 @@ title: 'Renew a Joomla Demo Site'
 date: '2006-04-08T12:54:07+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2438'
+
 
 tags:
     - HowTo

@@ -4,7 +4,7 @@ title: 'Single Sign On?'
 date: '2009-04-30T20:23:02+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4308'
+
 
 header:
   teaser: /assets/images/2009/04/openidlogo2_thumb.png

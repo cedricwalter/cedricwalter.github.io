@@ -4,7 +4,7 @@ title: 'Photofeed for Joomla!'
 date: '2010-04-18T19:18:02+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=5131'
+
 
 header:
   teaser: /assets/images/2010/04/flickr.photofeed_thumb_b762b40a05c32e0ad752d1260a32a6b1.png

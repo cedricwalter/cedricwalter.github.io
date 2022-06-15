@@ -4,7 +4,7 @@ title: 'NETGEAR WNR854T, Wireless Router, RangeMax NEXT, Gigabit'
 date: '2008-09-15T14:32:47+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3775'
+
 
 header:
   teaser: /assets/images/2008/09/NetgearWNR854T_thumb.jpg

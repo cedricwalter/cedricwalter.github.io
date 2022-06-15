@@ -4,7 +4,7 @@ title: 'Ardor, Ulma noos parts'
 date: '2004-10-10T12:10:33+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1274'
+
 
 tags:
     - parts

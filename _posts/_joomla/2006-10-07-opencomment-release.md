@@ -4,7 +4,7 @@ title: 'OpenComment release'
 date: '2006-10-07T15:47:33+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2716'
+
 
 header:
   teaser: /assets/images/2006/03/opencomment.jpg

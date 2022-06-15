@@ -4,7 +4,7 @@ title: 'How to migrate from cedtag to joomla 3.1.x Internal Tag extension'
 date: '2013-08-07T19:48:41+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=8147'
+
 
 header:
   teaser: /assets/images/2012/05/cedTag.png

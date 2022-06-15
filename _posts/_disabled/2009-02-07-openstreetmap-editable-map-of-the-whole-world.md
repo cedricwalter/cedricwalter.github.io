@@ -4,7 +4,7 @@ title: 'OpenStreetMap: editable map of the whole world'
 date: '2009-02-07T18:30:16+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4107'
+
 
 header:
   teaser: /assets/images/2009/02/openstreemap.view_.zurich_thumb.png

@@ -4,7 +4,7 @@ title: 'Joomla! 1.5 Beta Released'
 date: '2007-11-27T12:49:48+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3165'
+
 
 tags:
     - joomla

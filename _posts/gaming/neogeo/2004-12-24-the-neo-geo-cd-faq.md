@@ -4,7 +4,7 @@ title: 'The NEO GEO CD FAQ'
 date: '2004-12-24T23:03:43+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1447'
+
 
 header:
   teaser: /assets/images/2009/10/snk-neo-geo-logo.png

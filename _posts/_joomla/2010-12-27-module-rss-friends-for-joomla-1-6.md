@@ -4,7 +4,7 @@ title: 'Module RSS friends for Joomla! 1.6'
 date: '2010-12-27T21:02:36+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=6451'
+
 
 tags:
     - friends

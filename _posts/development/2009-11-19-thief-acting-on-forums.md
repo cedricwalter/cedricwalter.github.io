@@ -4,7 +4,7 @@ title: 'Thief acting on forums'
 date: '2009-11-19T17:55:34+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4882'
+
 
 header:
   teaser: /assets/images/2009/11/thief_5.jpg

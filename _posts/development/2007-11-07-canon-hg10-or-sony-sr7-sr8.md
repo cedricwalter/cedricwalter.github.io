@@ -4,7 +4,7 @@ title: 'Canon HG10 or Sony SR7/SR8?'
 date: '2007-11-07T18:32:41+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3100'
+
 
 header:
   teaser: /assets/images/2007/11/SR8.or_.hg10.jpg

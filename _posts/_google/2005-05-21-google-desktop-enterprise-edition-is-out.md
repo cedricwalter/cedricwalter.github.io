@@ -4,7 +4,7 @@ title: 'Google desktop enterprise edition is out!'
 date: '2005-05-21T13:26:45+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1751'
+
 
 header:
   teaser: /assets/images/2005/05/googledesktopsearchlogo.gif

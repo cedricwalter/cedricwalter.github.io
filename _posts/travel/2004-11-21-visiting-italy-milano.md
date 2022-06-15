@@ -5,7 +5,7 @@ date: '2004-11-21T20:37:00+01:00'
 author: 'Cédric Walter'
 categories:
 - travel
-guid: 'https://waltercedric.com/new/?p=1383'
+
 
 header:
   teaser: /assets/images/2020/04/milano-la-scala.jpg

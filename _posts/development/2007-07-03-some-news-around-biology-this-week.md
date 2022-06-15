@@ -4,7 +4,7 @@ title: 'Some news around biology this week'
 date: '2007-07-03T20:55:14+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3003'
+
 
 tags:
     - Science

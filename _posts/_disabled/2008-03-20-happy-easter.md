@@ -4,7 +4,7 @@ title: 'Happy Easter'
 date: '2008-03-20T16:24:08+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3269'
+
 
 ---
 

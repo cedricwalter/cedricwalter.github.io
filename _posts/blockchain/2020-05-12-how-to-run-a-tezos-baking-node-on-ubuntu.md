@@ -5,7 +5,7 @@ date: '2020-05-12T21:13:59+02:00'
 author: 'Cédric Walter'
 categories:
 - blockchain
-guid: 'https://www.waltercedric.com/?p=13448'
+
 
 header:
   teaser: /assets/images/2020/05/tezos-baking-e1610896669778.png

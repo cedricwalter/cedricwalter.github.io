@@ -4,7 +4,7 @@ title: 'Google recruiting: Google Labs Aptitude Test'
 date: '2005-02-13T16:24:37+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1572'
+
 
 tags:
     - google

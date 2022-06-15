@@ -4,7 +4,7 @@ title: 'Questions/Réponses en vrac'
 date: '2004-09-01T23:33:15+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=911'
+
 
 tags:
 - 'RC helicopter'

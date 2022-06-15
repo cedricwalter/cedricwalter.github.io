@@ -4,7 +4,7 @@ title: 'Raptor stock parts status'
 date: '2004-10-05T18:41:17+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1251'
+
 
 tags:
     - mounting

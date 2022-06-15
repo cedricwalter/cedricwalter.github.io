@@ -4,7 +4,7 @@ title: 'Google acquisitions and revenue streams'
 date: '2010-09-01T18:44:25+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=5893'
+
 
 tags:
     - beautiful

@@ -4,7 +4,7 @@ title: 'Shopping for HDMI cables? they are not made equal in quality…'
 date: '2010-07-24T10:59:20+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=5645'
+
 
 header:
   teaser: /assets/images/2005/06/sony_playstation_ps3.jpg
@@ -32,7 +32,7 @@ Recently, HDMI Licensing, LLC announced that cables would be tested as Standard 
 Although a Standard HDMI cable may not have been tested to support the higher bandwidth requirements of cables rated to support high speeds, existing cables, especially ones of shorter lengths (i.e., less than 2 meters), will generally perform adequately in higher speed situations. The quality of the HDMI receiver chip (in the TV, for example) has a large effect on the ability to cleanly recover and display the HDMI signal. A significant majority, perhaps all, of the HDMI TVs and projectors that support 1080p on the HDMI inputs are designed with quality receiver chips that may cleanly recover the 1080p HDMI signal using a Standard-rated HDMI cable. These receiver chips use technology called “cable equalization” in order to counter the signal reduction (attenuation) caused by a cable. We have seen successful demonstrations of 1080p signal runs on a >50 ft. cable, and a 720p signal run on a >75 ft. cable. However, the only way to guarantee that your cable will perform at higher speeds is to purchase a cable that has been tested at the higher speeds and labeled as “High-Speed.”
 
 # Q. What are the technical and branding requirements for cables?**   
-As part of the new Trademark and Logo Usage Guidelines, cables will be labeled as either Standard or High Speed.   
+As part of the new Trademark and Logo Usage 
 1.Standard cables (referred to as Category 1 cables in the HDMI specification) are those tested to perform at speeds of 75Mhz, which is the equivalent of an uncompressed 1080i signal.   
 2.High Speed cables (referred to as Category 2 cables in the HDMI specification), are those tested to perform at speeds of 340Mhz, which is the highest bandwidth currently available over an HDMI cable and can successfully handle 1080p signals including those at increased color depths (e.g. greater than eight bits per color) and/or increased refresh rates (e.g. 120Hz). High Speed cables are also able to accommodate higher resolution displays, such as those at the latest 1440p and WQXGA resolutions (e.g. cinema monitors with a resolution of 2560 x 1600).   
 While many cables that are branded as Standard cables will work at higher speeds (especially at cable lengths of less than five meters), to guarantee performance, consumers should purchase a cable that is tested and rated for the specific speed required by their system.

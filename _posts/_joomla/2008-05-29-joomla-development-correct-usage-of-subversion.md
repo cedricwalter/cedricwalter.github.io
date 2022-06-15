@@ -4,7 +4,7 @@ title: 'Joomla development, correct usage of subversion'
 date: '2008-05-29T19:26:46+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3467'
+
 
 header:
   teaser: /assets/images/2008/05/JoomlaLogo_thumb.gif

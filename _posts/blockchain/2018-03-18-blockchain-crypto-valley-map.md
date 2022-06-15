@@ -5,7 +5,7 @@ date: '2018-03-18T10:55:44+01:00'
 author: 'Cédric Walter'
 categories:
 - blockchain
-guid: 'https://waltercedric.com/new/?p=8695'
+
 
 header:
   teaser: /assets/images/2018/03/cryptovalley.directory.jpg

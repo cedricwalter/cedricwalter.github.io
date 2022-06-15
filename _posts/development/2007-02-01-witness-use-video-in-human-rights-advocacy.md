@@ -4,7 +4,7 @@ title: 'WITNESS  use video in human rights advocacy,'
 date: '2007-02-01T23:05:38+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2861'
+
 
 header:
   teaser: /assets/images/2007/02/witness.org_.jpg

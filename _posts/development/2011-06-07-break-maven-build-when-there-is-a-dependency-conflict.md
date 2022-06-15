@@ -4,7 +4,7 @@ title: 'Break Maven build when there is a dependency conflict'
 date: '2011-06-07T19:10:44+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=6833'
+
 
 header:
   teaser: /assets/images/2011/11/maven-logo-black-on-white-1.png

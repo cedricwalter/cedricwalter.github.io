@@ -4,7 +4,7 @@ title: 'Impact of Zend Optimizer on PHP Performance'
 date: '2008-02-26T18:13:00+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3193'
+
 
 tags:
     - php

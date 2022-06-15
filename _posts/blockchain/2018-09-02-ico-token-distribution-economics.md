@@ -5,7 +5,7 @@ date: '2018-09-02T18:10:46+02:00'
 author: 'Cédric Walter'
 categories:
 - blockchain
-guid: 'https://waltercedric.com/new/?p=8743'
+
 
 header:
   teaser: /assets/images/2019/03/blockchain.jpg

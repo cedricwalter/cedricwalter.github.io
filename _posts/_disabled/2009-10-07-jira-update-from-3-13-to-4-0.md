@@ -4,7 +4,7 @@ title: 'JIRA update from 3.13 to 4.0'
 date: '2009-10-07T14:21:37+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4764'
+
 
 header:
   teaser: /assets/images/2009/10/jira.waltercedric.com_.png
@@ -21,7 +21,7 @@ We have improved the UI to provide contextual awareness, improving the navigatio
 We have completely overhauled the [JIRA](http://www.atlassian.com/software/jira/) dashboards to make it quick and easy for anyone to create and add gadgets, move them around using drag &amp; drop, and share dashboards with other team members. Using the new Plugins 2.0 architecture, we built new dashboards using OpenSocial. This means each [JIRA](http://www.atlassian.com/software/jira/) dashboard is an OpenSocial container allowing you to consume any OpenSocial compliant gadgets from either Atlassian tools or other external sources. Conversely, [JIRA](http://www.atlassian.com/software/jira/) gadgets can be exposed in any OpenSocial container (like iGoogle, and soon, Confluence).”
 
 [JIRA 4.0 – Standalone (TAR.GZ Archive)](http://www.atlassian.com/software/jira/downloads/binary/atlassian-jira-enterprise-4.0-standalone.tar.gz)   
-55.8 MB • Released 06-Oct-2009 ([Release notes](http://confluence.atlassian.com/display/JIRA/JIRA+4.0+Release+Notes) | [Upgrade notes](http://confluence.atlassian.com/display/JIRA/JIRA+4.0+Upgrade+Guide))
+55.8 MB • Released 06-Oct-2009 ([Release notes](http://confluence.atlassian.com/display/JIRA/JIRA+4.0+Release+Notes) | [Upgrade notes](http://confluence.atlassian.com/display/JIRA/JIRA+4.0+Upgrade+
 
 A small update how to is following
 

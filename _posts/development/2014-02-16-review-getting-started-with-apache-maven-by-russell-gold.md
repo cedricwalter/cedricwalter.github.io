@@ -4,7 +4,7 @@ title: 'Review: Getting Started with Apache Maven by Russell Gold'
 date: '2014-02-16T14:13:06+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=8195'
+
 
 header:
   teaser: /assets/images/2011/11/maven-logo-black-on-white-1.png
@@ -35,7 +35,7 @@ Some time ago I was asked if I would like to write a review about one of the new
 
 The course is organized in eight chapters, forty videos with a length between two and five minutes, for a total length of two hours. The aim of the course is to provide the shortest path to use effectively [Maven](http://maven.apache.org/ "Apache #Maven is a software project management and comprehension tool. Based on the concept of a project object model (POM")
 
-You can download the course as a single zip file. After unpacking the file to a local hard disk you find a user guide, support information, a reference to the code examples and the video files. As you may notice I said “reference to the code examples”. Even if the name of the file “Code Bundle.zip” it contains only a file with the link to the source code on [github](https://github.com/ "GitHub social coding Git repositories").
+You can download the course as a single zip file. After unpacking the file to a local hard disk you find a user 
 
 Each section is around twenty minutes and is again divided into four to six single videos. This makes it very easy to follow the course since you get small pieces to understand and make them watchable during your commuting. If you have a problem understanding the content you can just start over the video and do not have to navigate in a long video.
 
@@ -43,7 +43,7 @@ There is eight sections starting with the installation followed by typical maven
 
 In the first section you get a small info about the installation process and an overview about two main topics of [Maven](http://maven.apache.org/ "Apache Maven is a software project management and comprehension tool. Based on the concept of a project object model (POM"): repository and lifecycle. At first the lifecycle looks very complicated but in the following sections help to understand the concept behind this.
 
-The next sections deal with the [dependency handling](http://maven.apache.org/guides/introduction/introduction-to-dependency-mechanism.html), plugins, properties and reports. With this knowledge you have everything to set up a small project and get an idea how to change the build process.
+The next sections deal with the [dependency handling](http://maven.apache.org/
 
 The section six handles the release process and the work to do if you want to publish to Maven Central. The final two sections deal with multi module projects and some additional topics (interaction with ant, functional testing etc.). In these last sections the presentation of facts is much faster. For someone really starting with Maven this may be too much information for the first time.
 

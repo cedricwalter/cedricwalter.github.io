@@ -4,7 +4,7 @@ title: 'Secure, Safe, Fast Linux Hosting v1.4.0'
 date: '2008-11-02T21:39:24+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3889'
+
 
 header:
   teaser: /assets/images/2008/11/mindmap.png

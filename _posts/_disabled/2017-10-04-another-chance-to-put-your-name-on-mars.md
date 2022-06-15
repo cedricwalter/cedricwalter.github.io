@@ -4,7 +4,7 @@ title: 'Another Chance to Put Your Name on Mars!'
 date: '2017-10-04T10:30:21+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=8680'
+
 
 ---
 

@@ -4,7 +4,7 @@ title: 'Logo for JoomlaCloud'
 date: '2006-01-10T20:01:09+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2283'
+
 
 header:
   teaser: /assets/images/2006/01/JoomlaCloud.logo_.png

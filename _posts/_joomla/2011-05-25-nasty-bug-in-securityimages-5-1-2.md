@@ -4,7 +4,7 @@ title: 'Nasty Bug in SecurityImages 5.1.2'
 date: '2011-05-25T20:23:03+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=6728'
+
 
 header:
   teaser: /assets/images/2011/05/software_bugs_dilbert_thumb.jpg

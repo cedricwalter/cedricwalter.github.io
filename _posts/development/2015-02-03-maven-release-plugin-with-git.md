@@ -4,7 +4,7 @@ title: 'maven-release-plugin with GIT'
 date: '2015-02-03T14:07:00+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=8239'
+
 
 header:
   teaser: /assets/images/2011/11/maven-logo-black-on-white-1.png

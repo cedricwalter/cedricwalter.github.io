@@ -4,7 +4,7 @@ title: 'Preventing SQL Injection Attacks on your Joomla! Websites'
 date: '2008-11-12T06:42:45+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3916'
+
 
 header:
   teaser: /assets/images/2008/11/image004_thumb.png
@@ -28,15 +28,15 @@ tags:
     - vulnerabilities
 ---
 
-# This article is extracted from:** [**Joomla! Web Security**](http://www.packtpub.com/joomla-web-security-guide/book/hp/joomlaweb-abr/0908)
+# This article is extracted from:** [**Joomla! Web Security**](http://www.packtpub.com/joomla-web-security-
 
-Secure your #Joomla! website from common security threats with this easy-to-use guide
+Secure your #Joomla! website from common security threats with this easy-to-use 
 
 | [![image004](/assets/images/2008/11/image004_thumb.png)](/assets/images/2008/11/image004.png) | 1. Learn how to secure your #Joomla! websites 2. Real-world tools to protect against hacks on your site 3. Implement disaster recovery features 4. Set up SSL on your site 5. Covers #Joomla! 1.0 as well as 1.5 |
 |---|---|
 
 For more information, please visit:  
-<http://www.PacktPub.com/joomla-web-security-guide/book>
+<http://www.PacktPub.com/joomla-web-security-
 
 Joomla!, a very popular content management system (CMS) is as you may know an easy-to-deploy-and-use content management system. This ease of use has lent itself to rapid growth of both the CMS and extensions for it. You can install it on almost any host, running #Linux or Windows. This highly versatile software has found itself in such lofty places as large corporate web portals, and humble places such as the simple blog.
 
@@ -176,15 +176,15 @@ VALUES (<span class="str">'johndoe@email.com',<span class="str">'default',<span 
 
 - - - - - -
 
-# This article is extracted from:** [**Joomla! Web Security**](http://www.packtpub.com/joomla-web-security-guide/book/hp/joomlaweb-abr/0908)
+# This article is extracted from:** [**Joomla! Web Security**](http://www.packtpub.com/joomla-web-security-
 
-Secure your Joomla! website from common security threats with this easy-to-use guide
+Secure your Joomla! website from common security threats with this easy-to-use 
 
 | [![image004](/assets/images/2008/11/image004_thumb.png)](/assets/images/2008/11/image004.png) | 1. Learn how to secure your Joomla! websites 2. Real-world tools to protect against hacks on your site 3. Implement disaster recovery features 4. Set up SSL on your site 5. Covers Joomla! 1.0 as well as 1.5 |
 |---|---|
 
 For more information, please visit:  
-[http://www.PacktPub.com/joomla-web-security-guide/book](http://www.packtpub.com/joomla-web-security-guide/book/hp/joomlaweb-abr/0908)
+[http://www.PacktPub.com/joomla-web-security-
 
 - - - - - -
 
@@ -254,4 +254,4 @@ Lastly, keeping your system patched is probably one of the best methods to preve
 
 ### About the Author
 
-A twenty-three year veteran of the Computer Business, and a Data Center Technology Consultant to Fortune-1000 Companies, **Tom Canavan** is a Certified Ethical Hacker and has a degree in Robotics and Numerical Control. He is author of the book Dodging the Bullets – A Disaster Preparation Guide for Joomla! Based Websites.
+A twenty-three year veteran of the Computer Business, and a Data Center Technology Consultant to Fortune-1000 Companies, **Tom Canavan** is a Certified Ethical Hacker and has a degree in Robotics and Numerical Control. He is author of the book Dodging the Bullets – A Disaster Preparation 

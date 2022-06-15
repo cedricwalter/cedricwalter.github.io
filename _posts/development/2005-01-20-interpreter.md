@@ -4,7 +4,7 @@ title: Interpreter
 date: '2005-01-20T21:36:55+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1507'
+
 
 header:
   teaser: /assets/images/2005/01/java-pattern-interpreter.png

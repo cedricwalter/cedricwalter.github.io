@@ -4,7 +4,7 @@ title: 'The perfect Network Array Storage?'
 date: '2006-02-19T12:35:33+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2313'
+
 
 header:
   teaser: /assets/images/2006/02/readyNas-NV-2.jpg

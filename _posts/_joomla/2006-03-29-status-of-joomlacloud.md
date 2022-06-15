@@ -4,7 +4,7 @@ title: 'Status of JoomlaCloud'
 date: '2006-03-29T23:46:21+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2399'
+
 
 tags:
     - functionalities

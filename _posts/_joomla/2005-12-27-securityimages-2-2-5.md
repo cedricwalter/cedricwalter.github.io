@@ -4,7 +4,7 @@ title: 'securityimages 2.2.5'
 date: '2005-12-27T13:40:31+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2241'
+
 
 tags:
     - background

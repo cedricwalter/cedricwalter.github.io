@@ -4,7 +4,7 @@ title: 'CSM 10.16 the most accurate simulator'
 date: '2004-09-01T23:19:50+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=887'
+
 
 header:
   teaser: /assets/images/2004/09/s-l1600-1.jpg

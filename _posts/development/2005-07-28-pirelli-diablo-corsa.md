@@ -4,7 +4,7 @@ title: 'Pirelli Diablo Corsa'
 date: '2005-07-28T12:10:16+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1962'
+
 
 header:
   teaser: /assets/images/2005/07/Pirelli-diablo-corsa-z.jpg

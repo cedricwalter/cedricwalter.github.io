@@ -5,7 +5,7 @@ date: '2020-03-08T14:24:34+01:00'
 author: 'Cédric Walter'
 categories:
 - blockchain
-guid: 'https://waltercedric.com/new/?p=8657'
+
 
 header:
   teaser: /assets/images/2017/06/docker.png

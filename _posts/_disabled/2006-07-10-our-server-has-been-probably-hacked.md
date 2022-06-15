@@ -4,7 +4,7 @@ title: 'Our server has been probably hacked'
 date: '2006-07-10T22:10:06+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2661'
+
 
 tags:
     - homepage

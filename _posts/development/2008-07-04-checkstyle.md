@@ -4,7 +4,7 @@ title: Checkstyle
 date: '2008-07-04T21:00:20+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3511'
+
 
 ---
 

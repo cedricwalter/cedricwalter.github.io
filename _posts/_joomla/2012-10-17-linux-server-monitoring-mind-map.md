@@ -4,7 +4,7 @@ title: 'Linux server Monitoring mind map'
 date: '2012-10-17T22:11:40+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=7812'
+
 
 header:
   teaser: /assets/images/2011/05/linux.png

@@ -4,7 +4,7 @@ title: 'Microsoft Force-Installs Firefox Extension'
 date: '2009-02-03T12:14:18+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4081'
+
 
 header:
   teaser: /assets/images/2009/02/firefox.eat_.internetexplorer.gif

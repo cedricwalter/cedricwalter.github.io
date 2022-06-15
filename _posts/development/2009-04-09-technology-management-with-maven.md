@@ -4,7 +4,7 @@ title: 'Technology management with Maven'
 date: '2009-04-09T13:28:02+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4250'
+
 
 tags:
     - apache

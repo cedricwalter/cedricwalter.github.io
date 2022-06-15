@@ -4,7 +4,7 @@ title: 'Joomla! 1.5 patches for SecurityImages 5.0.0Beta2'
 date: '2008-03-22T18:01:33+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3297'
+
 
 header:
   teaser: /assets/images/2008/03/patches.altered.files_thumb.gif

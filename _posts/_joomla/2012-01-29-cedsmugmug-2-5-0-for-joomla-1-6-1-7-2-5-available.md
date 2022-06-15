@@ -4,7 +4,7 @@ title: 'CedSmugmug 2.5.0 for Joomla 1.6/1.7/2.5 available'
 date: '2012-01-29T18:34:55+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=7450'
+
 
 ---
 

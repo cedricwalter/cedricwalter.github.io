@@ -4,7 +4,7 @@ title: 'Preview of SecurityImages 5.2.0'
 date: '2008-12-02T20:04:12+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3952'
+
 
 header:
   teaser: /assets/images/2008/12/font.autodetection_thumb.png

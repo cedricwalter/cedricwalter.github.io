@@ -4,7 +4,7 @@ title: 'cedTag 2.6.0 for J2.5 released for Joomla 2.5'
 date: '2012-11-04T11:35:30+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=7831'
+
 
 header:
   teaser: /assets/images/2011/11/download-zip.png

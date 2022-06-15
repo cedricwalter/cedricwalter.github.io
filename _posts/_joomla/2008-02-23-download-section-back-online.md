@@ -4,7 +4,7 @@ title: 'Download section back online'
 date: '2008-02-23T15:29:10+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3188'
+
 
 tags:
     - homepage

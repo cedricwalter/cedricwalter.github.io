@@ -4,7 +4,7 @@ title: 'My eRaptor 30 (sold)'
 date: '2004-09-01T22:51:58+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=813'
+
 
 header:
   teaser: /assets/images/2004/09/eRaptor_2004.03.05_000.jpg

@@ -4,7 +4,7 @@ title: 'Old Philips Webcam under Windows Vista/ Windows 7'
 date: '2010-03-19T20:51:07+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=5077'
+
 
 header:
   teaser: /assets/images/2010/03/pcvc720k_40_tlf__thumb.jpg

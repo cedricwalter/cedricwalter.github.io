@@ -4,7 +4,7 @@ title: 'Photofeed version 1.1'
 date: '2009-07-07T23:25:12+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4519'
+
 
 header:
   teaser: /assets/images/2009/07/78pxSmugmug_logo.jpg

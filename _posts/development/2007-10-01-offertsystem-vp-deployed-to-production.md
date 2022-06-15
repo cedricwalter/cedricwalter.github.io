@@ -4,7 +4,7 @@ title: 'Offertsystem VP deployed to production'
 date: '2007-10-01T19:47:05+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3069'
+
 
 header:
   teaser: /assets/images/2007/10/helvetia.logo_.gif

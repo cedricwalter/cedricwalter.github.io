@@ -4,7 +4,7 @@ title: 'Sony HS50 ordered'
 date: '2005-09-16T00:43:19+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2031'
+
 
 header:
   teaser: /assets/images/2005/09/sony-HS50.gif

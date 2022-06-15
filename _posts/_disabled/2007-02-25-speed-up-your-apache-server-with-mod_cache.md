@@ -4,7 +4,7 @@ title: 'Speed up your apache server with mod_cache'
 date: '2007-02-25T22:06:38+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2889'
+
 
 header:
   teaser: /assets/images/2007/02/speed.Your_.apache.server.jpg

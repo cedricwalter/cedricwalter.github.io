@@ -4,7 +4,7 @@ title: 'mossociable 1.5.0 for Joomla! 1.5'
 date: '2008-02-04T18:42:23+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3177'
+
 
 header:
   teaser: /assets/images/2006/05/mosSociable1.0.0.png

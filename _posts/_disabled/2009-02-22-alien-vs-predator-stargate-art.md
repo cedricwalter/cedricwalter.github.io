@@ -4,7 +4,7 @@ title: 'Alien vs Predator, Stargate art'
 date: '2009-02-22T13:15:24+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4176'
+
 
 header:
   teaser: /assets/images/2009/02/Predator-swissmotoshow-2009-021.jpg

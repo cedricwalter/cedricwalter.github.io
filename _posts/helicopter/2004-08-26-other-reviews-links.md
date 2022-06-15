@@ -4,7 +4,7 @@ title: 'Other reviews links'
 date: '2004-08-26T23:07:19+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=214'
+
 
 ---
 

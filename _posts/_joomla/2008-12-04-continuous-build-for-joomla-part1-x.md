@@ -4,7 +4,7 @@ title: 'Continuous build for Joomla! part1/x'
 date: '2008-12-04T19:16:02+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3960'
+
 
 ---
 

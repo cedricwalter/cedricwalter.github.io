@@ -4,7 +4,7 @@ title: 'HP calculator museum: Hewlett Packard HP 39GS newly added to my collecti
 date: '2016-07-25T11:47:02+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=8490'
+
 
 header:
   teaser: /assets/images/2016/07/hp39gc-header.jpg

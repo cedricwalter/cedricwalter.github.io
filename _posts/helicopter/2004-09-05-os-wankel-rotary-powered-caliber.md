@@ -4,7 +4,7 @@ title: 'OS Wankel Rotary Powered Caliber'
 date: '2004-09-05T20:02:07+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1107'
+
 
 tags:
     - helicopter

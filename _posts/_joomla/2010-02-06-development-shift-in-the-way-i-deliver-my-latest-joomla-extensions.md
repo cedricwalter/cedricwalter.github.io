@@ -4,7 +4,7 @@ title: 'Development shift in the way I deliver my latest Joomla! extensions'
 date: '2010-02-06T10:49:39+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=5033'
+
 
 header:
   teaser: /assets/images/2010/02/agile.development_thumb.jpg

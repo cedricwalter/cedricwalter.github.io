@@ -4,7 +4,7 @@ title: 'Boost Eclipse speed performances part 2'
 date: '2009-03-26T17:15:26+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4227'
+
 
 header:
   teaser: /assets/images/2008/04/eclipse_home_header_thumb.jpg

@@ -4,7 +4,7 @@ title: 'Upgrade to Joomla! 1.5.8 ASAP'
 date: '2008-11-11T17:11:06+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3907'
+
 
 ---
 

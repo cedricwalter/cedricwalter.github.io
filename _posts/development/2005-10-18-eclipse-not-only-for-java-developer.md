@@ -4,7 +4,7 @@ title: 'Eclipse? not only for java developer'
 date: '2005-10-18T21:47:19+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2057'
+
 
 tags:
     - environments

@@ -4,7 +4,7 @@ title: 'beautiful rainbow over Zürich'
 date: '2009-10-12T18:30:09+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4767'
+
 
 header:
   teaser: /assets/images/2009/10/IMG_0226_thumb.jpg

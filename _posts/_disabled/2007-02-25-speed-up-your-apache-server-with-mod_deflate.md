@@ -4,7 +4,7 @@ title: 'Speed up your apache server with mod_deflate'
 date: '2007-02-25T22:15:13+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2890'
+
 
 header:
   teaser: /assets/images/2007/02/speed.Your_.apache.server.jpg

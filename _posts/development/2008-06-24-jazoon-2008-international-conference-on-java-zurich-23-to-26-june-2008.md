@@ -4,7 +4,7 @@ title: 'JAZOON 2008 international conference on java &#8211; Zürich 23 to 26 Ju
 date: '2008-06-24T22:53:49+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3495'
+
 
 header:
   teaser: /assets/images/2008/06/jazoon08_thumb.png

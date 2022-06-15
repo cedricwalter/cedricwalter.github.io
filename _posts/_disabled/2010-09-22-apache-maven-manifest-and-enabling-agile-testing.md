@@ -4,7 +4,7 @@ title: 'Apache Maven manifest and enabling agile testing'
 date: '2010-09-22T18:44:58+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=6202'
+
 
 header:
   teaser: /assets/images/2011/11/maven-logo-black-on-white-1.png

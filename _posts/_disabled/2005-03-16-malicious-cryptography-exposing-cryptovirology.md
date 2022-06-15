@@ -4,7 +4,7 @@ title: 'Malicious Cryptography: Exposing Cryptovirology'
 date: '2005-03-16T19:42:17+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1622'
+
 
 header:
   teaser: /assets/images/2005/03/Malicious-Cryptography-ExposingCryptovirology-wiley.jpg

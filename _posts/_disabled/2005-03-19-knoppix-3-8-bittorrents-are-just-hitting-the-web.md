@@ -4,7 +4,7 @@ title: 'Knoppix 3.8 bittorrents are just hitting the web'
 date: '2005-03-19T14:03:08+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1625'
+
 
 tags:
 - Download

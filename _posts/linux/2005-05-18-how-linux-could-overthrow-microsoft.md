@@ -4,7 +4,7 @@ title: 'How Linux Could Overthrow Microsoft'
 date: '2005-05-18T19:04:17+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1747'
+
 
 tags:
 - development

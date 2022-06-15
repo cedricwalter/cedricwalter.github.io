@@ -4,7 +4,7 @@ title: 'Manuel REFLEX en francais!'
 date: '2004-10-28T11:29:07+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1340'
+
 
 tags:
     - kyosho

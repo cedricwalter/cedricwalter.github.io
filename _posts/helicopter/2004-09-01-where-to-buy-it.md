@@ -4,7 +4,7 @@ title: 'Where to buy it?'
 date: '2004-09-01T22:46:32+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=788'
+
 
 tags:
     - spectrolutions

@@ -4,7 +4,7 @@ title: 'AutoMySQLBackup, do not save backup on your server&#8230;'
 date: '2007-09-30T20:34:15+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3064'
+
 
 tags:
 - database

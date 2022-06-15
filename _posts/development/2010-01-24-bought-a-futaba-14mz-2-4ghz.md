@@ -4,7 +4,7 @@ title: 'Bought a Futaba 14MZ 2.4GHz !'
 date: '2010-01-24T21:46:12+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4960'
+
 
 tags:
     - Bought
@@ -61,6 +61,6 @@ It is the most advanced radio transmitter on the market. dot
 ### Futaba 14MZ manuals
 
 - [Futaba 14MZ Manuals](http://manuals.hobbico.com/fut/14mz-comp-manual-v1.pdf)
-- [Futaba 14MZ Quick Start Guide for Airplanes](http://manuals.hobbico.com/fut/14mz-quick-start-airplane.pdf)
-- [Futaba 14MZ Quick Start Guide for Helis](http://manuals.hobbico.com/fut/14mz-quick-start-heli.pdf)
+- [Futaba 14MZ Quick Start 
+- [Futaba 14MZ Quick Start 
 - [TM-14](http://manuals.hobbico.com/fut/tm14-manual.pdf)

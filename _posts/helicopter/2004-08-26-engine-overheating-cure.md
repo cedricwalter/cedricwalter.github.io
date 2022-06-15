@@ -4,7 +4,7 @@ title: 'Engine overheating cure'
 date: '2004-08-26T21:58:24+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=120'
+
 
 header:
   teaser: /assets/images/2004/08/engineOverheatingCure1.jpg

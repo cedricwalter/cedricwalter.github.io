@@ -4,7 +4,7 @@ title: 'Apache Maven copy local file to a remote server server using SSH'
 date: '2012-04-12T20:20:26+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=7598'
+
 
 header:
   teaser: /assets/images/2011/11/maven-logo-black-on-white-1.png

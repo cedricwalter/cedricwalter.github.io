@@ -4,7 +4,7 @@ title: 'Forums up and running: 332 users registered'
 date: '2007-05-13T11:16:22+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2962'
+
 
 header:
   teaser: /assets/images/2006/07/forums.waltercedric.gif

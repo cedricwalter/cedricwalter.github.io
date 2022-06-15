@@ -4,7 +4,7 @@ title: 'Just got my drone DJI Inspire 1'
 date: '2016-07-25T08:27:55+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=8432'
+
 
 header:
   teaser: /assets/images/2016/08/2016-07-27_14-04-20_3.jpg

@@ -4,7 +4,7 @@ title: 'Maven Tips and Tricks: Optimizing with the Maven Dependency Plugin'
 date: '2009-10-28T17:44:30+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4846'
+
 
 header:
   teaser: /assets/images/2011/11/maven-logo-black-on-white-1.png

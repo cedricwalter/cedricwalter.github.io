@@ -4,7 +4,7 @@ title: 'Parallelize Linux system services to improve boot speed'
 date: '2004-11-30T23:02:12+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1393'
+
 
 tags:
 - OpenSuse

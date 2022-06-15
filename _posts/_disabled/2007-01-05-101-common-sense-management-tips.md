@@ -4,7 +4,7 @@ title: '101 Common Sense Management Tips'
 date: '2007-01-05T22:16:24+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2824'
+
 
 header:
   teaser: /assets/images/2007/01/randomActOfManagement.jpg

@@ -4,7 +4,7 @@ title: 'XBMC for XBOX: huge success'
 date: '2006-01-17T21:58:53+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2285'
+
 
 tags:
 - HowTo

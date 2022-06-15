@@ -4,7 +4,7 @@ title: 'Enjoying REFLEX sim'
 date: '2006-01-03T23:51:52+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2253'
+
 
 header:
   teaser: /assets/images/2006/01/reflex-sim.de-translationCedricWalter.jpg

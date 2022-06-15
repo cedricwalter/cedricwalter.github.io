@@ -4,7 +4,7 @@ title: 'cedSmugmug 2.5.2 for J2.5 Released'
 date: '2012-05-20T18:20:28+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=7677'
+
 
 tags:
     - joomla

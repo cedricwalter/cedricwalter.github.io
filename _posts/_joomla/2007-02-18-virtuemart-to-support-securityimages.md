@@ -4,7 +4,7 @@ title: 'Virtuemart to support securityimages'
 date: '2007-02-18T21:50:02+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2882'
+
 
 header:
   teaser: /assets/images/2007/02/virtuemart.love_.securityimages.gif

@@ -4,7 +4,7 @@ title: 'Design good code'
 date: '2005-12-10T23:18:05+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2203'
+
 
 tags:
     - code

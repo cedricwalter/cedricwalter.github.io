@@ -4,7 +4,7 @@ title: 'Game Boy + LEGO = Robot'
 date: '2005-05-15T20:38:43+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1724'
+
 
 header:
   teaser: /assets/images/2005/05/gameboy-robot-xport2-1.jpg

@@ -4,7 +4,7 @@ title: 'THE Forum is OPEN!'
 date: '2006-07-16T15:38:22+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2663'
+
 
 header:
   teaser: /assets/images/2006/07/forums.waltercedric.gif

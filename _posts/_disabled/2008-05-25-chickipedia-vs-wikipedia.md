@@ -4,7 +4,7 @@ title: 'Chickipedia Vs Wikipedia'
 date: '2008-05-25T15:13:22+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3461'
+
 
 ---
 

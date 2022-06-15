@@ -4,7 +4,7 @@ title: 'Old pictures (Gallery)'
 date: '2004-08-31T22:17:08+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=519'
+
 
 header:
   teaser: /assets/images/2004/08/Avendre.jpg

@@ -4,7 +4,7 @@ title: 'AkoComment 2.5 unofficial release in Download section'
 date: '2005-03-06T11:38:54+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1603'
+
 
 header:
   teaser: /assets/images/2005/03/akocommentArmataz01.jpg

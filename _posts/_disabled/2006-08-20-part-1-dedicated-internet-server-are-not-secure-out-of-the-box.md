@@ -4,7 +4,7 @@ title: 'PART 1: Dedicated internet server are not secure out of the box&#8230;'
 date: '2006-08-20T20:49:10+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2684'
+
 
 tags:
     - homepage

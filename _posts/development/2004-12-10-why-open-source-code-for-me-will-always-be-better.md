@@ -4,7 +4,7 @@ title: 'Why open source code for me will always be better&#8230;'
 date: '2004-12-10T20:05:11+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1437'
+
 
 tags:
 - distributions

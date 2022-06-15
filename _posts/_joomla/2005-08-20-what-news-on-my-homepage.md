@@ -4,7 +4,7 @@ title: 'What news on my homepage'
 date: '2005-08-20T10:07:56+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2005'
+
 
 tags:
     - correctly

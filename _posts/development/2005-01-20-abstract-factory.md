@@ -4,7 +4,7 @@ title: 'Abstract factory'
 date: '2005-01-20T21:31:29+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1501'
+
 
 header:
   teaser: /assets/images/2005/01/java-pattern-abstractfactory.png

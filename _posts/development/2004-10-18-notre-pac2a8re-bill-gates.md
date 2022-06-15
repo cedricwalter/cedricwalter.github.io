@@ -4,7 +4,7 @@ title: 'Notre pÃ¨re Bill Gates'
 date: '2004-10-18T12:03:16+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1330'
+
 
 tags:
 - copyright

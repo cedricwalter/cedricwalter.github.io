@@ -4,7 +4,7 @@ title: 'The Best review of  projector screens'
 date: '2006-08-07T15:25:59+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2676'
+
 
 header:
   teaser: /assets/images/2006/08/vutec-silverstar-projector-screens.jpg

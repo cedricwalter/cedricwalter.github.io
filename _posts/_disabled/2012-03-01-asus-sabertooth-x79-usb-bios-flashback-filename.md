@@ -4,7 +4,7 @@ title: 'Asus SABERTOOTH X79 USB BIOS Flashback Filename'
 date: '2012-03-01T21:24:27+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=7553'
+
 
 header:
   teaser: /assets/images/2012/03/asus_sabertooth_x79_mainboard.jpg

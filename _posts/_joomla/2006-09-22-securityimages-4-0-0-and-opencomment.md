@@ -4,7 +4,7 @@ title: 'securityimages 4.0.0 and opencomment'
 date: '2006-09-22T10:31:56+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2706'
+
 
 header:
   teaser: /assets/images/2006/03/box_securityimages.jpg

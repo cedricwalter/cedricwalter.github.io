@@ -4,7 +4,7 @@ title: 'RoboSapiens 2: bigger pictures'
 date: '2005-05-24T18:25:05+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1758'
+
 
 ---
 

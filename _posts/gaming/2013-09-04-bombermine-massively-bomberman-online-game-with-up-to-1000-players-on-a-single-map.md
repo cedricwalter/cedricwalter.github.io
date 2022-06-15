@@ -4,7 +4,7 @@ title: 'Bombermine — Massively Bomberman Online game with up to 1000 players o
 date: '2013-09-04T18:13:48+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=8158'
+
 
 header:
   teaser: /assets/images/2013/09/image.png

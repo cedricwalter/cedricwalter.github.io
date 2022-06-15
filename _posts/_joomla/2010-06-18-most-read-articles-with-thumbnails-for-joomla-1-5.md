@@ -4,7 +4,7 @@ title: 'Most Read articles with Thumbnails for Joomla! 1.5'
 date: '2010-06-18T19:16:03+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=5370'
+
 
 header:
   teaser: /assets/images/2010/06/most.read_.articles.with_.thumbnails.for_.joomla_thumb.jpg

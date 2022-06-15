@@ -4,7 +4,7 @@ title: 'Joomla! extension plugin photoFEED'
 date: '2011-02-16T20:41:28+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=6533'
+
 
 header:
   teaser: /assets/images/2011/02/photofeed.joomla.1.5_thumb3_thumb.png

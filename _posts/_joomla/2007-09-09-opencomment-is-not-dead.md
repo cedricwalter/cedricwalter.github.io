@@ -4,7 +4,7 @@ title: 'OpenComment is not DEAD'
 date: '2007-09-09T18:57:29+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3047'
+
 
 tags:
     - joomla

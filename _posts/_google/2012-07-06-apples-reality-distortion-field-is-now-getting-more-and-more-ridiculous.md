@@ -4,7 +4,7 @@ title: 'Apple’s Reality Distortion Field is now getting more and more ridiculo
 date: '2012-07-06T20:17:13+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=7734'
+
 
 header:
   teaser: /assets/images/2012/07/appleyuno_thumb.png

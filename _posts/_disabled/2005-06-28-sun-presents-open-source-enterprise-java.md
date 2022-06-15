@@ -4,7 +4,7 @@ title: 'Sun Presents Open-Source Enterprise Java'
 date: '2005-06-28T16:28:02+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1805'
+
 
 tags:
     - community

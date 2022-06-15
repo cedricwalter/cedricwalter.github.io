@@ -4,7 +4,7 @@ title: 'MERRY CHRISTMAS and all the best in 2007'
 date: '2006-12-24T18:00:14+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2811'
+
 
 header:
   teaser: /assets/images/2006/12/weihnachten.gif

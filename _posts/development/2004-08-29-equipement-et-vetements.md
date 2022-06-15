@@ -4,7 +4,7 @@ title: 'Equipement et vetements'
 date: '2004-08-29T12:30:15+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=456'
+
 
 header:
   teaser: /assets/images/2004/08/total.jpg

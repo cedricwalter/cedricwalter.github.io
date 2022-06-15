@@ -4,7 +4,7 @@ title: 'Opening and maintaining a new homepage'
 date: '2005-10-08T20:03:44+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2052'
+
 
 header:
   teaser: /assets/images/2005/10/www.broc-antique.com_.header.jpg

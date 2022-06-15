@@ -4,7 +4,7 @@ title: 'Java creator questions Sun/Microsoft pact'
 date: '2005-02-03T19:50:26+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1557'
+
 
 tags:
     - java

@@ -4,7 +4,7 @@ title: 'Le ligustrum vulgare'
 date: '2006-04-05T21:13:58+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2426'
+
 
 tags:
     - Bonsai

@@ -4,7 +4,7 @@ title: 'Vmware Virtual Appliance Ubuntu 11.10 x64 Server'
 date: '2012-02-04T19:45:13+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=7484'
+
 
 header:
   teaser: /assets/images/2012/02/ubuntu-logo_0.jpg

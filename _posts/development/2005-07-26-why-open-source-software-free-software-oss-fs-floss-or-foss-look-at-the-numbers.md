@@ -4,7 +4,7 @@ title: 'Why Open Source Software / Free Software (OSS/FS, FLOSS, or FOSS)? Look 
 date: '2005-07-26T17:27:24+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1956'
+
 
 tags:
 - competition

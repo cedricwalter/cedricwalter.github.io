@@ -4,7 +4,7 @@ title: 'Xbox 360 is running Linux?'
 date: '2007-01-04T21:24:24+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2822'
+
 
 tags:
     - gadget

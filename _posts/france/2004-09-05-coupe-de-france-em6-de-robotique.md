@@ -4,7 +4,7 @@ title: 'Coupe de France E=M6 de Robotique'
 date: '2004-09-05T17:59:01+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1040'
+
 
 header:
   teaser: /assets/images/2004/09/essaim1999.jpg

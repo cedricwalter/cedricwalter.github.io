@@ -4,7 +4,7 @@ title: 'How to Install vShare on iPhone &#038; iPad'
 date: '2013-03-18T20:08:32+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=7971'
+
 
 header:
   teaser: /assets/images/2013/03/vshare.png

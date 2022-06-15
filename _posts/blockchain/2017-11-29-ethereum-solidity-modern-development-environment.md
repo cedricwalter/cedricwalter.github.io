@@ -5,7 +5,7 @@ date: '2017-11-29T19:28:06+01:00'
 author: 'Cédric Walter'
 categories:
 - blockchain
-guid: 'https://waltercedric.com/new/?p=8690'
+
 
 header:
   teaser: /assets/images/2017/02/Ethereum.png

@@ -4,7 +4,7 @@ title: 'Google Code Jam 2005 registration start!'
 date: '2005-07-26T17:01:47+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1954'
+
 
 header:
   teaser: /assets/images/2005/07/google-codejam.gif

@@ -4,7 +4,7 @@ title: 'LittleBigPlanet Calculator'
 date: '2008-10-07T20:38:30+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3867'
+
 
 ---
 

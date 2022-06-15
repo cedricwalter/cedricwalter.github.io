@@ -4,7 +4,7 @@ title: 'Un oeil sur la planète &#8211; Palestine : Un Etat palestinien est-il e
 date: '2011-10-21T11:45:40+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=7229'
+
 
 tags:
     - dans

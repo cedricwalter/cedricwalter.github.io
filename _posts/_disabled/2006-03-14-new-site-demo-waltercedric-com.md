@@ -4,7 +4,7 @@ title: 'New Site demo.waltercedric.com'
 date: '2006-03-14T09:23:02+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2371'
+
 
 tags:
     - deleted

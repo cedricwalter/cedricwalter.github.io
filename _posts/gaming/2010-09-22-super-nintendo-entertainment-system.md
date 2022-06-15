@@ -4,7 +4,7 @@ title: 'Super Nintendo Entertainment System'
 date: '2010-09-22T20:50:46+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=6235'
+
 
 header:
   teaser: /assets/images/2010/09/super.nintendo.snes_thumb.jpg

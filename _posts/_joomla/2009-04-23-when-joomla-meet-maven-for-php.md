@@ -4,7 +4,7 @@ title: 'When Joomla! meet Maven for PHP'
 date: '2009-04-23T21:56:18+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4296'
+
 
 tags:
     - apache

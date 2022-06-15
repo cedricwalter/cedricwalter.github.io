@@ -4,7 +4,7 @@ title: 'Agile Testing Poster'
 date: '2012-06-26T09:10:49+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=7726'
+
 
 header:
   teaser: /assets/images/2012/06/AgileTestingPoster.png

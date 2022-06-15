@@ -4,7 +4,7 @@ title: 'Convert Your XBOX to NAS'
 date: '2006-01-29T14:37:21+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2298'
+
 
 tags:
     - HowTo

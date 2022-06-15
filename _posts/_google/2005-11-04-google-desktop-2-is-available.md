@@ -4,7 +4,7 @@ title: 'Google Desktop 2 is available!'
 date: '2005-11-04T15:44:49+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2087'
+
 
 header:
   teaser: /assets/images/2005/11/GoogleSidebar_list.gif

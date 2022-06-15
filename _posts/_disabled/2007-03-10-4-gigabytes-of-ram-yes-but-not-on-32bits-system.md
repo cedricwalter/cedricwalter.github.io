@@ -4,7 +4,7 @@ title: '4 gigabytes of RAM, yes but not on 32bits system'
 date: '2007-03-10T22:12:07+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2903'
+
 
 header:
   teaser: /assets/images/2007/03/CorsairXMS-thumb.jpg

@@ -4,7 +4,7 @@ title: 'today is my birthday!'
 date: '2009-10-05T23:14:55+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4746'
+
 
 header:
   teaser: /assets/images/2009/10/happy.birthday_thumb.jpg

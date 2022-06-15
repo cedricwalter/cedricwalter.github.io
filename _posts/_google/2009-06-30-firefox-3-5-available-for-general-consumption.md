@@ -4,7 +4,7 @@ title: 'Firefox 3.5 available for general consumption'
 date: '2009-06-30T23:29:02+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4492'
+
 
 header:
   teaser: /assets/images/2009/06/firefox.3.5.png

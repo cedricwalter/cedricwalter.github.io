@@ -4,7 +4,7 @@ title: 'The perfect remote controller under 250euro??'
 date: '2006-12-29T10:36:30+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2813'
+
 
 header:
   teaser: /assets/images/2006/12/logitech.harmony.1000.jpg

@@ -4,7 +4,7 @@ title: 'Parts needed'
 date: '2004-08-31T23:28:42+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=575'
+
 
 header:
   teaser: /assets/images/2004/08/wakue02.gif

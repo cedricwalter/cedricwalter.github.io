@@ -4,7 +4,7 @@ title: 'Canon EOS 7D new Firmware released'
 date: '2009-10-19T14:13:00+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4782'
+
 
 header:
   teaser: /assets/images/2009/10/Canon_EOS_7D.jpg

@@ -4,7 +4,7 @@ title: 'Adding Google Analytics To MediaWiki'
 date: '2009-02-06T23:48:43+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4098'
+
 
 header:
   teaser: /assets/images/2009/02/MediaWikilogo_thumb.png

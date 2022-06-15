@@ -4,7 +4,7 @@ title: 'Mind Mapping meet my blog'
 date: '2009-04-16T22:35:46+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4265'
+
 
 header:
   teaser: /assets/images/2009/04/freemind_thumb.jpg

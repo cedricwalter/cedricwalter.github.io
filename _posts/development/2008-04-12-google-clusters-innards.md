@@ -4,7 +4,7 @@ title: 'Google clusters innards'
 date: '2008-04-12T13:11:13+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3400'
+
 
 tags:
     - google

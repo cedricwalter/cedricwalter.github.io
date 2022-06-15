@@ -4,7 +4,7 @@ title: 'Submit Content (EZ CZ Submit)'
 date: '2005-12-10T23:51:47+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2207'
+
 
 tags:
     - framework
@@ -21,5 +21,5 @@ tags:
 - Changed the whole source code to enhanced User’s Accessibility and Interface.
 - Administrator can now config the MAXSIZE of upload images!
 - **Integrate SecurityImage of WalterCedric** –> better anti spamer and hacker.
-- Installer Guide is now more clear. Auto chmod created folder.
+- Installer 
 - and many more…

@@ -4,7 +4,7 @@ title: 'Ipod, iPhone, iPad Add to Home Screen for Joomla! CMS version 1.6.2'
 date: '2011-11-22T22:12:35+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=7312'
+
 
 header:
   teaser: /assets/images/2011/09/add2Home_ipod_iphone_ipad_joomla_000_thumb.png

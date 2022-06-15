@@ -4,7 +4,7 @@ title: 'Securityimages in Joomla! 1.5'
 date: '2007-11-27T12:42:46+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3164'
+
 
 tags:
     - joomla

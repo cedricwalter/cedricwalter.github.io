@@ -4,7 +4,7 @@ title: 'Apache Log4j'
 date: '2004-09-03T16:32:29+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=994'
+
 
 ---
 
@@ -91,7 +91,7 @@ different class of logging (because of performance, licence…)
 |---|
 | Import com.waltercedric.LogWrapper;      public void init() throws com.waltercedric.applicationException {LogWrapper logger = new LogWrapper(Account.class);   logger.info(“Starting init”);      logger.debug(“create an Account”);   up = new Account(new NullObject());   } |
 
-**Log4j Guidelines**  
+**Log4j 
 The FAQ of log4J is a must to read, here are the most important points:
 
 1. **Respect Levels**!  

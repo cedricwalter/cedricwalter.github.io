@@ -4,7 +4,7 @@ title: 'DJI Mavic Pro video'
 date: '2016-09-27T20:56:04+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=8587'
+
 
 header:
   teaser: /assets/images/2019/10/dji-mavic-mini.png

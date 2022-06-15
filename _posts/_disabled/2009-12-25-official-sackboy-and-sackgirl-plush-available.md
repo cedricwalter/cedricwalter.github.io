@@ -4,7 +4,7 @@ title: 'Official Sackboy and Sackgirl plush available'
 date: '2009-12-25T19:11:43+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4929'
+
 
 tags:
     - little

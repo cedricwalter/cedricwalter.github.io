@@ -4,7 +4,7 @@ title: 'Online tool for webmaster: usability, performance, SEO'
 date: '2009-10-06T13:01:21+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4754'
+
 
 header:
   teaser: /assets/images/2009/10/TheReactionEngine_aFreeOnlineSEOAnalysisTool.png
@@ -50,6 +50,6 @@ This is how a report look like, WAVE shows the original web page with embedded i
 
 ### Performance
 
-A free web site speed test to improve website performance. Enter a URL to calculate page size, composition, and download time. The script calculates the size of individual elements and sums up each type of web page component. Based on these page characteristics the script then offers advice on how to improve page load time. The script incorporates the latest best practices from [Website Optimization Secrets](http://www.websiteoptimization.com/secrets/performance/), web page size guidelines and trends, and web site optimization techniques into its recommendations.
+A free web site speed test to improve website performance. Enter a URL to calculate page size, composition, and download time. The script calculates the size of individual elements and sums up each type of web page component. Based on these page characteristics the script then offers advice on how to improve page load time. The script incorporates the latest best practices from [Website Optimization Secrets](http://www.websiteoptimization.com/secrets/performance/), web page size 
 
 [![Web Page Analyzer - free website optimization tool website speed test check website performance report from web site optimization' - www_websiteoptimization_com](/assets/images/2009/10/WebPageAnalyzerfreewebsiteoptimizationtoolwebsitespeedtestcheckwebsiteperformancereportfromwebsi.png "Web Page Analyzer - free website optimization tool website speed test check website performance report from web site optimization' - www_websiteoptimization_com")](http://www.websiteoptimization.com/services/analyze/)

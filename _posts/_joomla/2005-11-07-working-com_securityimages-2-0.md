@@ -4,7 +4,7 @@ title: 'Working com_securityimages 2.0!'
 date: '2005-11-07T19:25:27+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2097'
+
 
 tags:
     - characters

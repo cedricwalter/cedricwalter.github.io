@@ -4,7 +4,7 @@ title: 'How to download Android APK files without rooting'
 date: '2014-01-23T22:03:24+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=8177'
+
 
 header:
 teaser: /assets/images/2014/01/airdroid2_thumb.png

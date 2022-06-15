@@ -4,7 +4,7 @@ title: 'Acunetix free edition now available'
 date: '2009-05-18T17:11:29+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4331'
+
 
 header:
   teaser: /assets/images/2009/05/logo_acunetix_thumb.gif

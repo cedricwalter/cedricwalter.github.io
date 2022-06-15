@@ -4,7 +4,7 @@ title: 'I pre-ordered my copy of Alien Anthology'
 date: '2010-07-23T21:07:54+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=5569'
+
 
 header:
   teaser: /assets/images/2010/07/alien.anthology.box01.jpg

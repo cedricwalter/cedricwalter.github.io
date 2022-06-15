@@ -4,7 +4,7 @@ title: 'Auditing Joomla security'
 date: '2005-11-17T23:37:38+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2112'
+
 
 header:
   teaser: /assets/images/2005/11/hacker-textshirt.jpg

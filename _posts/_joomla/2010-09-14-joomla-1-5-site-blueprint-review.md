@@ -4,7 +4,7 @@ title: 'Joomla! 1.5 site blueprint review'
 date: '2010-09-14T18:11:22+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=6001'
+
 
 header:
   teaser: /assets/images/2010/09/pakct.joomla.1.5.blueprint.jpg

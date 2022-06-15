@@ -4,7 +4,7 @@ title: 'Astuces, soins Ligustrum ou Troène'
 date: '2006-04-08T20:12:54+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2442'
+
 
 tags:
 - Bonsai

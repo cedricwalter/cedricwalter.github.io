@@ -4,7 +4,7 @@ title: 'Overview of SecurityImages 5.1.2'
 date: '2008-10-21T21:19:34+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3876'
+
 
 header:
   teaser: /assets/images/2008/10/securityimages5.1.2_thumb.png

@@ -4,7 +4,7 @@ title: 'Enterprise Open Source Directory Establishes Advisory Board'
 date: '2009-06-18T09:38:01+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4454'
+
 
 ---
 
@@ -16,7 +16,7 @@ Initially launched by [Optaros](http://www.optaros.com/), about two years ago, t
 
 In support to strengthen the neutral approach to ratings and selection of the technologies, the new **EOS Directory Advisory and Expert Board** has been established over the last weeks and [announced today](http://www.eosdirectory.com/blogs/2009/06/17/eos-directory-establishing-advisory-and-expert-board-with-key-open-source-experts/).
 
-> <cite>The Advisory and Expert Board will be both instrumental in guiding the future development of the EOS Directory Platform as well as in making sure that the content is accurate, relevant and fairly represented.</cite> (Source: [EOS Directory Blog](http://www.eosdirectory.com/blogs/2009/06/17/eos-directory-establishing-advisory-and-expert-board-with-key-open-source-experts/))
+> <cite>The Advisory and Expert Board will be both instrumental in 
 
 The initial member list of the *EOS Directory Advisory and Expert Board* – representing user and provider communities as well as international expert audiences – includes Aleksander Farstad, [Cédric Walter](http://www.waltercedric.com/), [David Nüscheler](http://dev.day.com/microsling/content/blogs/main.html), [Gianugo Rabellino](http://boldlyopen.com), [Roberto Galoppini](http://robertogaloppini.net/), Hannes Gassert, Hans Waarle, Joel Gardet, [Matt Asay](http://news.cnet.com/openroad/), [Matthias Geisler](http://semanticdreamer.com/), Michael Hanisch, Olivier Pépin, [Raju Bitter](http://rajubitter.com/), Ralf Hauser, [Seth Gottlieb](http://www.contenthere.net/), [Stephen Walli](http://stephesblog.blogs.com/) and Tiberiu Fustos.
 

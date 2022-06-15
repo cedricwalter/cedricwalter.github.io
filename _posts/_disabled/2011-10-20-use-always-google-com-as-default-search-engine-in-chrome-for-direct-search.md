@@ -4,7 +4,7 @@ title: 'Use always Google.com as default search engine in Chrome for direct sear
 date: '2011-10-20T11:06:58+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=7218'
+
 
 tags:
     - example

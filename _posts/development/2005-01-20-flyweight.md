@@ -4,7 +4,7 @@ title: Flyweight
 date: '2005-01-20T21:35:04+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1505'
+
 
 header:
   teaser: /assets/images/2005/01/java-pattern-flyweight.png

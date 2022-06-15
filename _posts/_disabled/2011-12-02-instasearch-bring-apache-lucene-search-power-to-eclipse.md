@@ -4,7 +4,7 @@ title: 'InstaSearch  bring Apache Lucene search power to Eclipse'
 date: '2011-12-02T21:31:05+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=7334'
+
 
 header:
   teaser: /assets/images/2011/12/eclipse_instasearch_thumb.png

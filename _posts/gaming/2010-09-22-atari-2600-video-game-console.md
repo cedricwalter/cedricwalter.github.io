@@ -4,7 +4,7 @@ title: 'Atari 2600 video game console'
 date: '2010-09-22T21:22:26+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=6266'
+
 
 header:
   teaser: /assets/images/2010/09/IMG_3094_thumb.jpg

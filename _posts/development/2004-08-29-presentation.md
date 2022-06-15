@@ -4,7 +4,7 @@ title: Presentation
 date: '2004-08-29T12:20:39+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=438'
+
 
 tags:
     - atv

@@ -4,7 +4,7 @@ title: 'Repairing the radio tray'
 date: '2004-08-26T21:35:58+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=65'
+
 
 header:
   teaser: /assets/images/2004/08/RadioTrayRepare1.jpg

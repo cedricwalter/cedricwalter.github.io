@@ -4,7 +4,7 @@ title: 'Installing latest Splunk in 5 minutes using Docker'
 date: '2019-09-02T13:26:56+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=8761'
+
 
 tags:
 - container

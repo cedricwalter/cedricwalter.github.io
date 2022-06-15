@@ -5,10 +5,10 @@ date: '2020-04-08T14:22:27+02:00'
 author: 'Cédric Walter'
 categories:
 - travel
-guid: 'https://waltercedric.com/?p=12683'
 
-ngg_post_thumbnail:
-    - '0'
+
+
+    
 header:
   teaser: /assets/images/2020/04/Singapore-Flower-Dome-8.jpg
 

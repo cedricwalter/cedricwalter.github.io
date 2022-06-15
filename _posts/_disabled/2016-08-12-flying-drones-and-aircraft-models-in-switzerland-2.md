@@ -4,7 +4,7 @@ title: 'Flying drones and aircraft models in Switzerland'
 date: '2016-08-12T13:42:11+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=8572'
+
 
 header:
   teaser: /assets/images/2016/08/2016-07-27_14-04-20_3.jpg

@@ -4,7 +4,7 @@ title: 'SuSE 9.3 reviews'
 date: '2005-07-01T08:33:07+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1810'
+
 
 tags:
     - OpenSuse

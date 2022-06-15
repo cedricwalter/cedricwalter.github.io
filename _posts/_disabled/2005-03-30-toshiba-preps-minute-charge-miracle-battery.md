@@ -4,7 +4,7 @@ title: 'Toshiba preps minute-charge &#8216;miracle&#8217; battery'
 date: '2005-03-30T19:34:12+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1659'
+
 
 header:
   teaser: /assets/images/2005/03/tosh_cell.jpg

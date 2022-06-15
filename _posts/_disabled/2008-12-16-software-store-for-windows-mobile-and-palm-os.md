@@ -4,7 +4,7 @@ title: 'Software Store for Windows mobile and Palm OS'
 date: '2008-12-16T17:12:03+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3982'
+
 
 header:
   teaser: /assets/images/2008/12/52a9a4ce31e64cc4aca1b3c4a66d0388.jpg

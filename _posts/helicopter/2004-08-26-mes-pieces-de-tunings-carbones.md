@@ -4,7 +4,7 @@ title: 'Mes pieces de tunings carbones&#8230;'
 date: '2004-08-26T22:52:12+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=193'
+
 
 header:
   teaser: /assets/images/2004/08/bosSerie2.gif
@@ -30,7 +30,7 @@ tags:
 ## Compteur de vélo
 
  ![](/assets/images/2004/08/cyclecomputer.jpg)  
- Monté sur le guidon, permet d’avoir l’heure, la vitesse moyenne, de pointe (jusqu’a 300km/h!!), distance total, d’étape, durée d’étape. Un bon achat si le tableau de bord de votre moto est incomplet. Emmaillé la jante et l’aimant avant de le coller le Ã la colle époxy bi-composant. 20euro   
+ Monté sur le 
  Mon compteur est un sigma sport BC800, le diamètre des roues qu j’ai entré est V=51.51
 
 ## Nouveau siège bicouleur

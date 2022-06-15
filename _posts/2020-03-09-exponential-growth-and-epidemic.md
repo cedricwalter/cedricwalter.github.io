@@ -4,7 +4,7 @@ title: 'Exponential Growth and Epidemic'
 date: '2020-03-09T21:32:40+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://www.waltercedric.com/?p=9951'
+
 
 header:
   teaser: /assets/images/2020/03/covid19.jpg

@@ -4,7 +4,7 @@ title: 'Maven project filtering'
 date: '2009-09-05T13:43:23+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4600'
+
 
 tags:
     - apache
@@ -22,7 +22,7 @@ Let’s imagine you want to build your software against many different runtime s
 
 And that your software is somehow configurable, can be through properties files, xml files, environment variables. Some of your configurations files are containing data that are depending on runtime (paths, password, login, connection settings to database, profiling/tuning settings)
 
-### Some guidelines about [resources filtering](http://maven.apache.org/plugins/maven-resources-plugin/examples/filter.html)
+### Some 
 
 #### Rules 1 you can’t filter pom.xml use profile keys
 
@@ -158,7 +158,7 @@ Definition and motivation of using profiles
 > 
 > *However, sometimes portability is not entirely possible. Under certain conditions, plugin may need to be configured with local file system paths. Under other circumstances, a slightly different dependency set will be required, and the project’s artifact name may need to be adjusted slightly. And at still other times, you may even need to include a whole plugin in the build lifecycle depending on the detected build environment.*
 > 
-> *To address these circumstances, Maven 2.0 introduces the concept of a build profile. Profiles are specified using a subset of the elements available in the POM itself (plus one extra section), and are triggered in any of a variety of ways. They modify the POM at build time, and are meant to be used in complementary sets to give equivalent-but-different parameters for a set of target environments (providing, for example, the path of the app server root in the development, testing, and production environments). As such, profiles can easily lead to differing build results from different members of your team. However, used properly, profiles can be used while still preserving project portability. This will also minimize the use of <tt>-f</tt> option of maven which allows user to create another POM with different parameters or configuration to build which makes it more maintainable since it is running with one POM only.* \[from <http://maven.apache.org/guides/introduction/introduction-to-profiles.html>\]
+> *To address these circumstances, Maven 2.0 introduces the concept of a build profile. Profiles are specified using a subset of the elements available in the POM itself (plus one extra section), and are triggered in any of a variety of ways. They modify the POM at build time, and are meant to be used in complementary sets to give equivalent-but-different parameters for a set of target environments (providing, for example, the path of the app server root in the development, testing, and production environments). As such, profiles can easily lead to differing build results from different members of your team. However, used properly, profiles can be used while still preserving project portability. This will also minimize the use of <tt>-f</tt> option of maven which allows user to create another POM with different parameters or configuration to build which makes it more maintainable since it is running with one POM only.* \[from <http://maven.apache.org/
 
 In eclipse, you may want also to run your application against a simplified stack, for example by using Tomcat/Mysql. I propose you a strategy that should be able to target many runtime.
 
@@ -230,5 +230,5 @@ If you activate your profile based on activation settings, you will have nothing
 ## References
 
 - <http://maven.apache.org/>
-- [http://maven.apache.org/guides/getting-started/index.html#How\_do\_I\_filter\_resource\_files](http://maven.apache.org/guides/getting-started/index.html#How_do_I_filter_resource_files)
-- <http://maven.apache.org/guides/introduction/introduction-to-profiles.html>
+- [http://maven.apache.org/
+- <http://maven.apache.org/

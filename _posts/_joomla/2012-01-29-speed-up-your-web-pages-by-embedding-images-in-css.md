@@ -4,7 +4,7 @@ title: 'Speed up your web pages by embedding images in CSS.'
 date: '2012-01-29T19:56:47+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=7462'
+
 
 header:
   teaser: /assets/images/2010/11/speed.jpg

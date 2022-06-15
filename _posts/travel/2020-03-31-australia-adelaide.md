@@ -5,10 +5,10 @@ date: '2020-03-31T16:19:21+02:00'
 author: 'Cédric Walter'
 categories:
 - travel
-guid: 'https://waltercedric.com/?p=12141'
 
-ngg_post_thumbnail:
-    - '0'
+
+
+    
 header:
   teaser: /assets/images/2020/03/australia.southaustralia.adelaide_0164.jpg
 tags:

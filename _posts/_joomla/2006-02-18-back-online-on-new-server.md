@@ -4,7 +4,7 @@ title: 'Back Online on new server'
 date: '2006-02-18T17:49:17+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2306'
+
 
 tags:
     - deployed

@@ -4,7 +4,7 @@ title: 'My Hardware mods'
 date: '2004-08-31T23:49:51+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=642'
+
 
 tags:
 - arcade

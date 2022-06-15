@@ -4,7 +4,7 @@ title: 'Tom Tom RIDER'
 date: '2005-07-09T09:53:50+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1896'
+
 
 header:
   teaser: /assets/images/2005/07/tomtomrider.jpg

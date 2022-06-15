@@ -4,7 +4,7 @@ title: 'How To Debug PHP scripts with PhpStorm'
 date: '2011-10-31T20:55:56+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=7266'
+
 
 header:
 teaser: /assets/images/2011/10/phpstorm_header.png

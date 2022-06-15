@@ -4,7 +4,7 @@ title: 'Script to merge multiple git repositories into a new repository'
 date: '2016-07-14T12:36:21+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=8408'
+
 
 header:
   teaser: /assets/images/2016/07/1color-orange-lightbg2x_3.png

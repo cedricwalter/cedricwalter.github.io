@@ -4,7 +4,7 @@ title: 'Eclipse shared install on a Windows Server 2003/2008'
 date: '2010-05-31T21:15:34+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=5226'
+
 
 tags:
     - considered

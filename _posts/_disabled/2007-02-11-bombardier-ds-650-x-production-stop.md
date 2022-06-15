@@ -4,7 +4,7 @@ title: 'Bombardier DS 650 X production stop'
 date: '2007-02-11T21:54:00+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2873'
+
 
 header:
   teaser: /assets/images/2006/04/DS650x-small.jpg

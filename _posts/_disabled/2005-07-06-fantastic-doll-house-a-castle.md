@@ -4,7 +4,7 @@ title: 'Fantastic Doll House: a castle'
 date: '2005-07-06T19:30:59+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1853'
+
 
 header:
   teaser: /assets/images/2005/07/index.jpg

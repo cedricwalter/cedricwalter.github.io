@@ -4,7 +4,7 @@ title: 'Naive Bayesian filter worth considering for Mambo?'
 date: '2005-08-26T19:15:15+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2007'
+
 
 tags:
     - categories

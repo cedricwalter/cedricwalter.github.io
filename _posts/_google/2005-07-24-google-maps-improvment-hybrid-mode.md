@@ -4,7 +4,7 @@ title: 'Google maps improvment! hybrid mode'
 date: '2005-07-24T00:28:13+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1942'
+
 
 header:
   teaser: /assets/images/2005/07/google-maps-hybrid-mode.jpg

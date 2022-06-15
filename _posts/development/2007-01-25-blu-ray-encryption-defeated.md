@@ -4,7 +4,7 @@ title: 'Blu-ray Encryption Defeated'
 date: '2007-01-25T21:42:53+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2845'
+
 
 header:
   teaser: /assets/images/2007/01/Bluray-hdDVD-hack.jpg

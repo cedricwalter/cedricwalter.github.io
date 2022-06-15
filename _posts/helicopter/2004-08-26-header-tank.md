@@ -4,7 +4,7 @@ title: 'header tank'
 date: '2004-08-26T22:11:25+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=150'
+
 
 header:
 teaser: /assets/images/2004/08/HeaderCal1.JPG

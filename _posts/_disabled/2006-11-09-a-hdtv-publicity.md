@@ -4,7 +4,7 @@ title: 'A HDTV publicity&#8230;'
 date: '2006-11-09T22:21:42+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2753'
+
 
 header:
   teaser: /assets/images/2006/11/sony.bravia.building.color_.jpg

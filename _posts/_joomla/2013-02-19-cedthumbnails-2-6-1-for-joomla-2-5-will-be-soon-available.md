@@ -4,7 +4,7 @@ title: 'cedThumbnails 2.6.1 for Joomla 2.5 will be soon available'
 date: '2013-02-19T21:41:50+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=7957'
+
 
 header:
   teaser: /assets/images/2012/01/cedThumbnails.png

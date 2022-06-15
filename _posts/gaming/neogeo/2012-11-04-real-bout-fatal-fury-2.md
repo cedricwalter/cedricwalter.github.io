@@ -4,7 +4,7 @@ title: 'Real Bout Fatal Fury 2'
 date: '2012-11-04T18:30:15+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=7866'
+
 
 header:
   teaser: /assets/images/2012/11/snk_neogeo_faq_moves.png

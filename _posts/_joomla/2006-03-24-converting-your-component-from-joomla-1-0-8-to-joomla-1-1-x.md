@@ -4,7 +4,7 @@ title: 'Converting your component from Joomla 1.0.8 to Joomla 1.1.X'
 date: '2006-03-24T20:12:25+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2394'
+
 
 header:
   teaser: /assets/images/2006/03/powered_by_Joomla_1.1.png

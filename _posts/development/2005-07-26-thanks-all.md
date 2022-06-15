@@ -4,7 +4,7 @@ title: 'Thanks ALL!'
 date: '2005-07-26T17:13:31+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1955'
+
 
 tags:
     - comments

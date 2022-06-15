@@ -4,7 +4,7 @@ title: 'ContinuousBuild4Joomla project submitted to JoomlaCode.org'
 date: '2008-12-09T20:46:51+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3969'
+
 
 header:
   teaser: /assets/images/2008/12/bec5e1a9586b4934a710bd9a093efdba.jpg

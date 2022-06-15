@@ -4,7 +4,7 @@ title: 'Microsoft Vista speaker attack&#8230;'
 date: '2007-02-02T20:52:16+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2862'
+
 
 tags:
 - microsoft

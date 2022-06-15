@@ -4,7 +4,7 @@ title: 'Announcing Module nimbus for all users of Phil Taylor Joomla! tags'
 date: '2009-11-11T19:36:03+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4871'
+
 
 header:
   teaser: /assets/images/2009/11/joomlatags.png

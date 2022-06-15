@@ -4,7 +4,7 @@ title: 'scratching my head in mediawiki code'
 date: '2006-01-03T23:59:31+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2254'
+
 
 tags:
     - background

@@ -4,7 +4,7 @@ title: 'SimpleMachine forum last posts module for Joomla! 1.6'
 date: '2010-08-22T12:35:32+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=5749'
+
 
 tags:
     - joomla

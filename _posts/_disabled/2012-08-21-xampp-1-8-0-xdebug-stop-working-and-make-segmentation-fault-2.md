@@ -4,7 +4,7 @@ title: 'XAMPP 1.8.0 Xdebug stop working and make segmentation fault'
 date: '2012-08-21T21:30:27+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=7797'
+
 
 header:
   teaser: /assets/images/2012/08/xampp.logo_thumb.gif

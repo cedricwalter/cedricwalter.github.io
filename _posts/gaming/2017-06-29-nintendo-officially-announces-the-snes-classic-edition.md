@@ -4,7 +4,7 @@ title: 'Nintendo Officially Announces The SNES Classic Edition'
 date: '2017-06-29T10:42:23+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=8640'
+
 
 header:
   teaser: /assets/images/2017/06/snes-classic-edition.png

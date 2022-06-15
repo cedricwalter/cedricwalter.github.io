@@ -4,7 +4,7 @@ title: 'Knife Edge Realflight G2'
 date: '2004-09-01T23:05:02+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=845'
+
 
 header:
   teaser: /assets/images/2004/09/raptor1.jpg

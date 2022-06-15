@@ -4,10 +4,10 @@ title: 'Mac OS 8 running in Javascript'
 date: '2020-08-09T19:53:11+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://www.waltercedric.com/?p=13627'
 
-ngg_post_thumbnail:
-    - '0'
+
+
+    
 header:
   teaser: /assets/images/2020/08/macos8-macintosh.jpg
 tags:

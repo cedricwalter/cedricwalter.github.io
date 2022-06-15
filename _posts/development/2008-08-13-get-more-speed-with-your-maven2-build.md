@@ -4,7 +4,7 @@ title: 'Get more speed with your MAVEN2 build'
 date: '2008-08-13T19:17:51+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3663'
+
 
 header:
   teaser: /assets/images/2011/11/maven-logo-black-on-white-1.png

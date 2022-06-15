@@ -4,7 +4,7 @@ title: 'Twitter meet Google Map'
 date: '2009-06-22T22:38:45+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4473'
+
 
 header:
   teaser: /assets/images/2009/06/13f0976e0b6f4171ba26226326ace468.jpg

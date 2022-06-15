@@ -4,7 +4,7 @@ title: 'Video for skype plugin available'
 date: '2005-07-17T17:03:02+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1924'
+
 
 tags:
     - business

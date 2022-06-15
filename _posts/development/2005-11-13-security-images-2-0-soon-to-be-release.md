@@ -4,7 +4,7 @@ title: 'Security images 2.0 soon to be release'
 date: '2005-11-13T18:41:05+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2105'
+
 
 tags:
     - architecture

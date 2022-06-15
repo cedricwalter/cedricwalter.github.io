@@ -4,7 +4,7 @@ title: 'World Heroes'
 date: '2012-11-04T18:24:29+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=7845'
+
 
 header:
   teaser: /assets/images/2012/11/snk_neogeo_faq_moves.png

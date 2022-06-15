@@ -4,7 +4,7 @@ title: 'Photofeed 2.5.1 for J2.5 Released'
 date: '2012-03-19T21:07:19+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=7576'
+
 
 header:
   teaser: /assets/images/2012/03/flickr.photofeed_thumb_b762b40a05c32e0ad752d1260a32a6b1.png

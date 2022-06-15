@@ -4,7 +4,7 @@ title: 'KDE 10th anniversary'
 date: '2006-10-15T18:37:54+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2724'
+
 
 header:
   teaser: /assets/images/2006/10/10years.free_.desktop.kde_.jpg

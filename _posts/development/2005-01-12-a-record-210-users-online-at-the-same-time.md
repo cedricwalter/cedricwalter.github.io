@@ -4,7 +4,7 @@ title: 'a record? 210 users online at the same time'
 date: '2005-01-12T17:52:52+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1476'
+
 
 header:
   teaser: /assets/images/2005/01/record210usersonline.png

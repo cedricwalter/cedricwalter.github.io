@@ -5,10 +5,10 @@ date: '2020-04-10T17:31:17+02:00'
 author: 'Cédric Walter'
 categories:
 - travel
-guid: 'https://waltercedric.com/?p=12895'
 
-ngg_post_thumbnail:
-    - '0'
+
+
+    
 header:
   teaser: /assets/images/2020/04/Civilian-War-Memorial-1.jpg"
 tags:

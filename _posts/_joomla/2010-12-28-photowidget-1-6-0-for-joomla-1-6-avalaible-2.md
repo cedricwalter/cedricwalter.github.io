@@ -4,7 +4,7 @@ title: 'PhotoWidget 1.6.0 for Joomla! 1.6 avalaible'
 date: '2010-12-28T14:00:11+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=6469'
+
 
 header:
   teaser: /assets/images/2009/09/photowidgetSmugmugHTML.png

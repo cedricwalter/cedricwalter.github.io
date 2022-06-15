@@ -4,7 +4,7 @@ title: 'Attention cedtag extension and Joomla 3.1 warning'
 date: '2013-08-07T19:44:06+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=8136'
+
 
 header:
   teaser: /assets/images/2012/05/cedTag.png

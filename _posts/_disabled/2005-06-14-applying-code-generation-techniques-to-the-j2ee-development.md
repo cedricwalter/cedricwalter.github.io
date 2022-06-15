@@ -4,7 +4,7 @@ title: 'Applying Code Generation Techniques to the J2EE Development'
 date: '2005-06-14T12:26:27+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1794'
+
 
 tags:
     - development

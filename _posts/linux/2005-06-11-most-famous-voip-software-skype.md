@@ -4,7 +4,7 @@ title: 'Most famous VOIP software: Skype'
 date: '2005-06-11T11:52:50+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1789'
+
 
 header:
   teaser: /assets/images/2005/06/skype-logo.png

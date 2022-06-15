@@ -4,7 +4,7 @@ title: Sentences
 date: '2004-09-02T21:59:25+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=946'
+
 
 tags:
     - 'RC helicopter'

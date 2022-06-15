@@ -4,7 +4,7 @@ title: 'Panasonic PT-AE1000E HDTV compatible home cinema projector'
 date: '2006-12-03T15:57:47+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2777'
+
 
 header:
   teaser: /assets/images/2006/12/panasonic_ae1000e.jpg

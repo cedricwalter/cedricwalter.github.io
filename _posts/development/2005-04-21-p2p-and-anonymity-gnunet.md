@@ -4,7 +4,7 @@ title: 'P2P and anonymity: GNUnet'
 date: '2005-04-21T20:08:15+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1696'
+
 
 tags:
 - anonymity

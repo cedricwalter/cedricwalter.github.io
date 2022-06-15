@@ -4,7 +4,7 @@ title: 'Use Google Chrome in Internet explorer with Google Frame'
 date: '2009-09-27T23:18:44+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4712'
+
 
 header:
   teaser: /assets/images/2009/09/logogooglechrome_thumb.jpg
@@ -43,7 +43,7 @@ Personally I will stick to Firefox/Chrome/Opera and use them when it make sense.
 
 [![google.chrome.frame](/assets/images/2009/09/google.chrome.frame_thumb.jpg "google.chrome.frame")](http://www.waltercedric.com/images/stories/UseGoogleChromeinInternetexplorerwithGoo_147C6/google.chrome.frame.jpg)
 
-Developer guide at [http://code.google.com/chrome/chromeframe/developers\_guide.html](http://code.google.com/chrome/chromeframe/developers_guide.html)
+Developer 
 
 Download at <http://code.google.com/chrome/chromeframe/>
 

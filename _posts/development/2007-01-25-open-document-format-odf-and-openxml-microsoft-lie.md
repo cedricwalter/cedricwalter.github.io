@@ -4,7 +4,7 @@ title: 'Open Document Format (ODF) and OpenXML Microsoft Lie'
 date: '2007-01-25T23:10:55+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2848'
+
 
 tags:
     - microsoft

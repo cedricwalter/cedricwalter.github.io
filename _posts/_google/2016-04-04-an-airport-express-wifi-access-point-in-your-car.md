@@ -4,7 +4,7 @@ title: 'An airport express wifi access point in your car'
 date: '2016-04-04T16:06:47+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=8348'
+
 
 tags:
     - raspbian

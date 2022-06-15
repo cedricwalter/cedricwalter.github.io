@@ -4,7 +4,7 @@ title: 'Update Maven pom version on GIT checkout in TeamCity'
 date: '2014-02-11T21:45:43+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=8193'
+
 
 header:
 teaser: /assets/images/2011/11/maven-logo-black-on-white-1.png

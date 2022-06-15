@@ -4,7 +4,7 @@ title: 'Speed up your apache server running PHP with fastCGI'
 date: '2007-02-25T22:21:17+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2891'
+
 
 header:
   teaser: /assets/images/2007/02/speed.Your_.apache.server.jpg

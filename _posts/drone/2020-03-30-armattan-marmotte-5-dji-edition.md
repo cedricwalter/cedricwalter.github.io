@@ -3,18 +3,12 @@ id: 11415
 title: 'Armattan Marmotte 5 DJI Edition'
 date: '2020-03-30T17:37:20+02:00'
 author: 'Cédric Walter'
-
-guid: 'https://waltercedric.com/?p=11415'
-
-ngg_post_thumbnail:
-- '0'
-
 header:
-    overlay_image: /assets/images/2020/03/Armattan-Marmotte-5-Dji-Edition.png
-    teaser: /assets/images/2020/03/Armattan-Marmotte-5-Dji-Edition.png
-    caption: "Armattan Marmotte"
+overlay_image: /assets/images/2020/03/Armattan-Marmotte-5-Dji-Edition.png
+teaser: /assets/images/2020/03/Armattan-Marmotte-5-Dji-Edition.png
+caption: "Armattan Marmotte"
 
-tags:
+- tags:
 - aluminum
 - armattan
 - camera
@@ -32,6 +26,7 @@ tags:
 - mount
 - quadcopter
 - review
+
 ---
 
 The [Armattan](https://armattanquads.com/) Marmotte is the culmination

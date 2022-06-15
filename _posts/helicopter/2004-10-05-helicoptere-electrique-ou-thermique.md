@@ -4,7 +4,7 @@ title: 'Hélicoptère Electrique ou Thermique?'
 date: '2004-10-05T18:32:53+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1249'
+
 
 tags:
     - 'RC helicopter'

@@ -4,7 +4,7 @@ title: 'Act of Valor: great citation of Chief Tecumseh'
 date: '2012-08-23T19:45:14+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=7806'
+
 
 ---
 

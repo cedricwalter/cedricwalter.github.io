@@ -4,7 +4,7 @@ title: 'Paul sings Nessun Dorma'
 date: '2008-12-28T14:21:44+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3997'
+
 
 ---
 

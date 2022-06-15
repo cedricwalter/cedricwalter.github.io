@@ -5,7 +5,7 @@ date: '2017-09-29T13:52:08+02:00'
 author: 'Cédric Walter'
 header:
   teaser: /assets/images/2021/08/Google-Devfest-2017-retrogaming-1.jpg
-guid: 'https://waltercedric.com/new/?p=8677'
+
 
 tags:
 - arcade

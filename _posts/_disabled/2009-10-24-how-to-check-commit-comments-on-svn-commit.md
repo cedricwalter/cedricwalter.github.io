@@ -4,7 +4,7 @@ title: 'How to check commit comments on SVN Commit'
 date: '2009-10-24T00:13:25+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4797'
+
 
 header:
   teaser: /assets/images/2009/10/subversion.logo_thumb.png

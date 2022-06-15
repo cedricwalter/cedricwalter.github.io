@@ -4,7 +4,7 @@ title: 'ModSecurity WAF and Ubuntu 10.04 LTS'
 date: '2011-02-28T20:03:40+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=6558'
+
 
 header:
   teaser: /assets/images/2006/08/mod_security.gif

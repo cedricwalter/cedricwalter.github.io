@@ -4,7 +4,7 @@ title: 'Init7 TV7 and VLC under windows 10'
 date: '2018-05-25T20:17:37+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=8727'
+
 
 tags:
 - box

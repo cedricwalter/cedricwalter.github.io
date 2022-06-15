@@ -4,7 +4,7 @@ title: 'SAD day for users Freedom'
 date: '2008-04-03T00:41:12+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3340'
+
 
 header:
   teaser: /assets/images/2008/04/bill_monoploy_thumb.jpg

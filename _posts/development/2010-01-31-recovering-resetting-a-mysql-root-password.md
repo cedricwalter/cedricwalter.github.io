@@ -4,7 +4,7 @@ title: 'Recovering/Resetting a MySQL root password'
 date: '2010-01-31T21:09:50+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4970'
+
 
 header:
   teaser: /assets/images/2010/01/logoMysql_3.gif

@@ -4,7 +4,7 @@ title: 'Google toolbar soon for firefox!'
 date: '2005-07-07T09:37:20+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1891'
+
 
 header:
   teaser: /assets/images/2005/07/googleToolbar.gif

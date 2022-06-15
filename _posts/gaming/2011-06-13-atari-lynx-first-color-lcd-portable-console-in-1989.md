@@ -4,7 +4,7 @@ title: 'Atari Lynx first Color LCD portable console in 1989'
 date: '2011-06-13T20:39:34+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=6877'
+
 
 header:
   teaser: /assets/images/2011/06/atari_lynx_portable_console_00_thumb.jpg

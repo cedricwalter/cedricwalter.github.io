@@ -5,10 +5,10 @@ date: '2020-03-31T17:58:00+02:00'
 author: 'Cédric Walter'
 categories:
 - travel
-guid: 'https://waltercedric.com/?p=12380'
 
-ngg_post_thumbnail:
-    - '0'
+
+
+    
 header:
   teaser: /assets/images/2020/03/Kuranda-Scenic-Railway-2.jpg
 tags:

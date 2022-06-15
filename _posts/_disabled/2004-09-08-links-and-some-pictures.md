@@ -4,7 +4,7 @@ title: 'Links and some pictures'
 date: '2004-09-08T23:43:30+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1178'
+
 
 header:
   teaser: /assets/images/2004/09/alba1051.jpg"
@@ -20,7 +20,7 @@ I am storing no pictures at the moment, mainly because **I love them all** (espe
 | <http://www.darkangelzone.co.uk/> | Dark Angel zone |
 | <http://www.darkangelfan.com/> | E y e s <-> <-> O n l y |
 | <http://www.jessicaalba.net/> | Jessica Alba FanSite (site where you can find all pictures of this beauty) |
-| <http://members.tripod.com/allaboutdarkangel/> | The Unofficial Guide to Fox’s Dark Angel Television Show |
+| <http://members.tripod.com/allaboutdarkangel/> | The Unofficial 
 | <http://www.jamponyxpress.com/> |  |
 | <http://hometown.aol.com/akax5452/> |  |
 | ![Such Angel Do Not Exist...](/assets/images/2004/09/SuchAngelDoNotExist.jpg) | ![Such Angel Exist, she is one of them](/assets/images/2004/09/SuchAngelExist.jpg) |

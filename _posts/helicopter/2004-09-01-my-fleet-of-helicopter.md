@@ -4,7 +4,7 @@ title: 'My fleet of helicopter'
 date: '2004-09-01T22:55:34+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=823'
+
 
 header:
   teaser: /assets/images/2004/08/1stcaliber.jpg

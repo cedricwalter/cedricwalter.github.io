@@ -4,7 +4,7 @@ title: 'Tracking problems'
 date: '2004-09-05T20:08:49+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1108'
+
 
 tags:
     - installed

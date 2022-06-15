@@ -4,7 +4,7 @@ title: 'Converting raptor to OS50sx'
 date: '2004-09-08T23:22:45+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1149'
+
 
 header:
   teaser: /assets/images/2004/09/Thunder_Tiger_Raptor_46_thumb.jpg

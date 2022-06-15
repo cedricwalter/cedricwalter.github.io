@@ -4,7 +4,7 @@ title: '20 Ways to Use LinkedIn Productively'
 date: '2007-07-01T12:08:41+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3000'
+
 
 header:
   teaser: /assets/images/2007/07/linkedIn.logo_.gif

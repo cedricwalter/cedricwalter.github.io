@@ -4,7 +4,7 @@ title: 'Orthopantomogram cost 22.90 € in France, a MRI start at only 69€'
 date: '2012-06-20T21:22:05+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=7715'
+
 
 header:
 teaser: /assets/images/2012/06/orthopan.jpg

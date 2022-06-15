@@ -4,7 +4,7 @@ title: Doodlebuzz
 date: '2009-02-07T21:07:39+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4110'
+
 
 header:
   teaser: /assets/images/2009/02/Doodlebuzz_thumb.png

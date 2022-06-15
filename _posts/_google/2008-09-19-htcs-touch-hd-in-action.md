@@ -4,7 +4,7 @@ title: 'HTC&#8217;s Touch HD in action'
 date: '2008-09-19T10:57:44+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3799'
+
 
 header:
   teaser: /assets/images/2008/09/htc.touch_.hd_.size_.comparison_thumb.jpg

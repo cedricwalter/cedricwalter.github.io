@@ -4,7 +4,7 @@ title: 'Play The Legend of Zelda for free and legally'
 date: '2014-03-22T08:30:10+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=8221'
+
 
 header:
   teaser: /assets/images/2014/03/zelda-classic1.gif

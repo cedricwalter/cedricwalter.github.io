@@ -4,7 +4,7 @@ title: 'The deployment master How to perform 0 down-time deployments using conta
 date: '2016-10-05T20:47:08+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=8594'
+
 
 tags:
 - container

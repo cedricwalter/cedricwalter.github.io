@@ -4,7 +4,7 @@ title: 'Small How to setup Subversion 1.6.6 on Debian Lenny'
 date: '2010-03-29T17:44:48+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=5121'
+
 
 header:
   teaser: /assets/images/2010/03/debian_logo_3.png

@@ -4,7 +4,7 @@ title: 'Check List pour le montage'
 date: '2004-09-03T12:41:08+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=991'
+
 
 tags:
 - Checklist

@@ -4,7 +4,7 @@ title: 'Typical issues with webapplications v1.5 .pdf'
 date: '2005-03-27T12:16:26+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1648'
+
 
 tags:
 - document

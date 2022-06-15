@@ -4,7 +4,7 @@ title: 'RKHunter &#8211; RootKit Hunter'
 date: '2007-07-20T00:57:13+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3023'
+
 
 tags:
     - security

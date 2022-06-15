@@ -4,7 +4,7 @@ title: 'Visitor counter inflate but it was needed'
 date: '2004-11-25T23:29:05+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1388'
+
 
 tags:
 - internal

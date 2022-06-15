@@ -4,7 +4,7 @@ title: 'Continuous build server for Joomla!'
 date: '2008-11-27T20:39:28+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3945'
+
 
 header:
   teaser: /assets/images/2008/11/continuous.server.toolbox.for_.php_thumb.jpg

@@ -4,7 +4,7 @@ title: 'Docker essential tools: Dive to navigate docker image content'
 date: '2020-01-13T13:23:27+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=8783'
+
 
 header:
   teaser: /assets/images/2017/06/docker.png

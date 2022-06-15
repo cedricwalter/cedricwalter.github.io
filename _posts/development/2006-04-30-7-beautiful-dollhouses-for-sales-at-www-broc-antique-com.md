@@ -4,7 +4,7 @@ title: '7 beautiful dollhouses for sales at www.broc-antique.com'
 date: '2006-04-30T18:08:06+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2502'
+
 
 header:
   teaser: /assets/images/2006/04/dollhouse.ref03.04.by_.www_.broc-antique.com_.jpg

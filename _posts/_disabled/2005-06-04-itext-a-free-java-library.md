@@ -4,7 +4,7 @@ title: 'iText a free Java library'
 date: '2005-06-04T21:42:20+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1776'
+
 
 header:
   teaser: /assets/images/2005/06/iText-logo.gif

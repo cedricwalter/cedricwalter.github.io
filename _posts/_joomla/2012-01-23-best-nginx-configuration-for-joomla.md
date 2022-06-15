@@ -4,7 +4,7 @@ title: 'Best nginx configuration for Joomla'
 date: '2012-01-23T20:31:59+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=7446'
+
 
 header:
   teaser: /assets/images/2012/01/Nginx-logo.png

@@ -4,7 +4,7 @@ title: 'Give a new life to your Synology disk station: change its cooling fan'
 date: '2011-07-26T20:29:34+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=6946'
+
 
 header:
 teaser: /assets/images/2011/07/synology_nas_less_noise.jpg

@@ -4,7 +4,7 @@ title: '70 Beauty-Retouching Photoshop Tutorials'
 date: '2009-02-07T23:17:31+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4115'
+
 
 header:
   teaser: /assets/images/2009/02/digitalretouchingservices_thumb.jpg

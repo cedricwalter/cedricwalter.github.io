@@ -4,7 +4,7 @@ title: 'Google Desktop available on Linux'
 date: '2007-06-30T09:53:52+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2996'
+
 
 header:
   teaser: /assets/images/2007/06/google.desktop.search.for_.linux_.jpg

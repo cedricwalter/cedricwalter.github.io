@@ -4,10 +4,10 @@ title: 'Embedded MongoDB provide a platform neutral way for running mongodb in J
 date: '2021-01-28T21:25:58+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://www.waltercedric.com/?p=13795'
 
-ngg_post_thumbnail:
-    - '0'
+
+
+    
 header:
     teaser: /assets/images/2020/10/mongodb.png
 tags:

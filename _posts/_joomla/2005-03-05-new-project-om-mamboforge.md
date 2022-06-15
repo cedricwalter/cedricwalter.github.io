@@ -4,7 +4,7 @@ title: 'new Project om Mamboforge'
 date: '2005-03-05T19:13:33+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1599'
+
 
 tags:
 - concepts

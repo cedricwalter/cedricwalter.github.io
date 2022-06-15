@@ -4,7 +4,7 @@ title: 'Want to join development of Joomla component'
 date: '2006-04-08T09:14:49+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2436'
+
 
 header:
   teaser: /assets/images/2006/04/section-Joomla.logo_.png

@@ -4,7 +4,7 @@ title: 'Install Atlassian Confluence in 15 minutes'
 date: '2010-02-03T17:18:58+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=5009'
+
 
 header:
   teaser: /assets/images/2010/02/confluence.logo_thumb.jpg
@@ -18,7 +18,7 @@ tags:
 
 [![confluence.logo](/assets/images/2010/02/confluence.logo_thumb.jpg "confluence.logo")](/assets/images/2010/02/confluence.logo_2.jpg)
 
-In this small post, you will learn how to install [Atlassian Confluence](http://www.atlassian.com/software/confluence/) in no more than 15 minutes. It do not replace the online installations manual (The [Confluence Installation Guide](http://confluence.atlassian.com/display/DOC/Confluence+Installation+Guide) is for people who are installing Confluence for the first time. Check the [requirements](http://confluence.atlassian.com/display/DOC/System+Requirements) and [supported platforms](http://confluence.atlassian.com/display/DOC/Supported+Platforms), then [download](http://www.atlassian.com/software/confluence/ConfluenceDownloadCenter.jspa) and [install Confluence](http://confluence.atlassian.com/display/DOC/Confluence+Installation+Guide)), but mainly **complement it**, with some of the best #Linux practices (**ADDED** points).
+In this small post, you will learn how to install [Atlassian Confluence](http://www.atlassian.com/software/confluence/) in no more than 15 minutes. It do not replace the online installations manual (The [Confluence Installation 
 
 ## How to install Atlassian Confluence in 15 minutes
 

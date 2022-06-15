@@ -4,7 +4,7 @@ title: 'We are living in a world of 6 dimensions'
 date: '2005-09-05T10:01:44+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2023'
+
 
 tags:
 - Physics

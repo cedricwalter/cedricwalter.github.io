@@ -4,7 +4,7 @@ title: 'Paying Taxes 2016 in Europe, France soon at last position'
 date: '2016-08-12T12:40:02+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=8558'
+
 
 tags:
 - france

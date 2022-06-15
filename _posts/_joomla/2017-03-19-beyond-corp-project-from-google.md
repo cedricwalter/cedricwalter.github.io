@@ -4,7 +4,7 @@ title: 'Beyond Corp project from google'
 date: '2017-03-19T08:36:12+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=8611'
+
 
 tags:
 - google

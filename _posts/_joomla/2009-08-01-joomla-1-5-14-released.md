@@ -4,7 +4,7 @@ title: 'Joomla 1.5.14 Released'
 date: '2009-08-01T22:28:13+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4569'
+
 
 header:
   teaser: /assets/images/2009/08/f_1218589627_thumb_thumb.png

@@ -3,11 +3,10 @@ id: 13216
 title: 'Enable FCC Mode on DJI FPV System (700mw 8 Channels)'
 date: '2020-04-15T10:52:40+02:00'
 author: 'Cédric Walter'
-guid: 'https://waltercedric.com/?p=13216'
-ngg_post_thumbnail:
-- '0'
+
 header:
-  teaser: /assets/images/2020/03/DJI-Digital-HD-FPV-Goggles.png
+teaser: /assets/images/2020/03/DJI-Digital-HD-FPV-Goggles.png
+
 tags:
 - dji
 - fpv
@@ -41,5 +40,6 @@ that you should follow your local regulations regarding which mode to use.
 in the Player menu you should see now 8 channels.
 
 # Attention
+
 updating the firmware on your DJI FPV goggles and Air Unit will always reset the power setting back to the default
 settings according to your region!

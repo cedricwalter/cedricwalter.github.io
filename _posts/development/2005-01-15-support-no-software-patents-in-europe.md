@@ -4,7 +4,7 @@ title: 'Support NO software patents in Europe!'
 date: '2005-01-15T21:01:39+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1479'
+
 
 ---
 

@@ -4,7 +4,7 @@ title: 'Enjoy Fighting regressions with git bisect'
 date: '2014-10-23T14:16:19+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=8245'
+
 
 header:
   teaser: /assets/images/2017/04/git-logo.jpg

@@ -4,7 +4,7 @@ title: 'Why I won&#8217;t buy an Apple iPad yet'
 date: '2010-05-31T17:45:23+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=5204'
+
 
 header:
   teaser: /assets/images/2010/05/apple-ipad-tablet-device-420x0_thumb_cf53c18cc7197cb23f313bda74f72dce.jpg
@@ -37,7 +37,7 @@ To confirm my first impressions, I went through Google to check what others are 
 
 If you have bought one, you may be interested in
 
-- For Fun: [Installing iPad Wi-Fi Battery Replacement](http://www.ifixit.com/Guide/Repair/Installing-iPad-Wi-Fi-Battery-Replacement/2198/1)
+- For Fun: [Installing iPad Wi-Fi Battery Replacement](http://www.ifixit.com/
 - My favorite sport: Jailbreaking! you can use [Spirit](http://spiritjb.com/) now
 
 > Spirit is an **untethered** jailbreak for **iPad, iPhone, and iPod touch** on the latest firmwares   

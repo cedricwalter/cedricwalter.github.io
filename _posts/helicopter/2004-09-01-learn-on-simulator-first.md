@@ -4,7 +4,7 @@ title: 'Learn On simulator FIRST!!!!'
 date: '2004-09-01T23:17:00+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=880'
+
 
 tags:
 - 'RC helicopter'

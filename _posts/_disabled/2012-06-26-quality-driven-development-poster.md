@@ -4,7 +4,7 @@ title: 'QUALITY DRIVEN DEVELOPMENT POSTER'
 date: '2012-06-26T09:05:28+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=7721'
+
 
 header:
   teaser: /assets/images/2012/06/AgileRequirementEngineeringPoster.png

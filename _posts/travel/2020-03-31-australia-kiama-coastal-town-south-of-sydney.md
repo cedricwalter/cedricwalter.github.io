@@ -5,10 +5,10 @@ date: '2020-03-31T14:49:24+02:00'
 author: 'Cédric Walter'
 categories:
 - travel
-guid: 'https://waltercedric.com/?p=11887'
 
-ngg_post_thumbnail:
-    - '0'
+
+
+    
 header:
   teaser: /assets/images/2020/03/australia.new_.south_.wales_.kiama_0251.jpg
 tags:

@@ -4,7 +4,7 @@ title: 'XBOX360 DVD Firmware Hack release'
 date: '2006-04-27T23:04:34+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2483'
+
 
 tags:
     - gadget
@@ -17,7 +17,7 @@ As you (should) know, all Xbox executables (XBE files) are signed by Microsoft (
 You will need to combine this hack with   
 
 
-- <span class="font">The [Team-xecuter.com](http://www.team-xecuter.com/) DVD adapter or build Your own following the guide at <span class="font">[Team Devo-E](http://devo-e.com/dvdhax/?p=14)
+- <span class="font">The [Team-xecuter.com](http://www.team-xecuter.com/) DVD adapter or build Your own following the 
 
 - [KeyDrive Xtractor/Patcher](http://www.foros360.com/modules.php?name=Forums&file=viewtopic&t=629): <span class="font">tool that will allow you to easily extract and write the unique DVD key to/from an Xbox 360 DVD firmware file (so no need to hex-edit it manually anymore)…
 

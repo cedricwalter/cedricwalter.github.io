@@ -5,7 +5,7 @@ date: '2004-11-21T20:30:20+01:00'
 author: 'Cédric Walter'
 categories:
 - travel
-guid: 'https://waltercedric.com/new/?p=1382'
+
 
 header:
   teaser: /assets/images/2020/03/Italia-Genova-001.jpg

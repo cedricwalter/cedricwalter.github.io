@@ -4,7 +4,7 @@ title: 'Neo Geo X Gold Limited Edition pre order available'
 date: '2012-10-23T20:05:17+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=7815'
+
 
 header:
   teaser: /assets/images/2012/10/NeoGeoXGold-008.jpg

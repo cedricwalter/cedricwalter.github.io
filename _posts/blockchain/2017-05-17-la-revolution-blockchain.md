@@ -5,7 +5,7 @@ date: '2017-05-17T22:31:21+02:00'
 author: 'Cédric Walter'
 categories:
 - blockchain
-guid: 'https://waltercedric.com/new/?p=8620'
+
 
 ---
 

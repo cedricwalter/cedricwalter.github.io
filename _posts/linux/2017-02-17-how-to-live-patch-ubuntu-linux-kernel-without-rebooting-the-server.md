@@ -4,7 +4,7 @@ title: 'How to live patch Ubuntu Linux Kernel without rebooting the server'
 date: '2017-02-17T09:30:09+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=8604'
+
 
 header:
   teaser: /assets/images/2017/02/ubuntu-livepatch-kernel.png

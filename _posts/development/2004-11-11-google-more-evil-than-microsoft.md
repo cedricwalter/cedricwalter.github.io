@@ -4,7 +4,7 @@ title: 'Google more evil than microsoft??'
 date: '2004-11-11T21:44:41+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1347'
+
 
 tags:
     - google

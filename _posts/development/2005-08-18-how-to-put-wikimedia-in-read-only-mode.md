@@ -4,7 +4,7 @@ title: 'How to put wikimedia in read only mode'
 date: '2005-08-18T20:58:56+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2003'
+
 
 tags:
     - homepage

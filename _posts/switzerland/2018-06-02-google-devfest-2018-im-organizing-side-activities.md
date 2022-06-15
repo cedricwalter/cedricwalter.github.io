@@ -4,10 +4,10 @@ title: 'Google DevFest 2018 I’m organizing side activities'
 date: '2018-06-02T13:25:40+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://www.waltercedric.com/?p=13529'
 
-ngg_post_thumbnail:
-    - '0'
+
+
+    
 header:
   teaser: /assets/images/2020/06/IMG_1950.jpg
 tags:

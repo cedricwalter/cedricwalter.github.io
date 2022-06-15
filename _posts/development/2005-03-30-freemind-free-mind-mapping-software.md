@@ -4,7 +4,7 @@ title: 'FreeMind &#8211; free mind mapping software'
 date: '2005-03-30T19:29:37+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1657'
+
 
 tags:
 - development

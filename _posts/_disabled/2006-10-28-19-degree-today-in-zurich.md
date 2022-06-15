@@ -4,7 +4,7 @@ title: '19 degree today in zurich'
 date: '2006-10-28T22:36:07+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2737'
+
 
 header:
   teaser: /assets/images/2006/10/global-warming-swimwear.jpg

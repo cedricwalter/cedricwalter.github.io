@@ -4,7 +4,7 @@ title: 'Radio System Setup Check List'
 date: '2004-09-03T12:41:44+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=992'
+
 
 tags:
 - Checklist

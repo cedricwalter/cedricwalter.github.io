@@ -4,7 +4,7 @@ title: '&#8220;Nespresso-like&#8221; capsules are quite good'
 date: '2011-06-13T20:23:21+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=6865'
+
 
 header:
   teaser: /assets/images/2011/06/Nespresso_coffee_like_capsules_00.jpg

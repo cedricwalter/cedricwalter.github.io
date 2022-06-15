@@ -4,7 +4,7 @@ title: 'U.are.U/Microsoft fingerprint reader'
 date: '2004-08-31T23:39:03+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=636'
+
 
 header:
   teaser: /assets/images/2004/08/sensoroverall.jpg

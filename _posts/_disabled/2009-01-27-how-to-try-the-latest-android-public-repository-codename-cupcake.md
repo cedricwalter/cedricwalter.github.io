@@ -4,7 +4,7 @@ title: 'How to try the latest Android public repository: codename Cupcake'
 date: '2009-01-27T22:45:43+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4071'
+
 
 header:
   teaser: /assets/images/2009/01/500pxandroidlogo_svg_thumb.png

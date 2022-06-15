@@ -4,7 +4,7 @@ title: 'HP calculator museum: Hewlett Packard HP 38G student graphic calculator,
 date: '2011-07-14T21:32:44+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=6912'
+
 
 header:
   teaser: /assets/images/2011/07/hp38gGraphingCalculator_thumb.jpg

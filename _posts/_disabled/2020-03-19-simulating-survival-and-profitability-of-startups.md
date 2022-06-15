@@ -4,10 +4,10 @@ title: 'Simulating survival and profitability of startups'
 date: '2020-03-19T13:04:34+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/?p=10597'
 
-ngg_post_thumbnail:
-    - '0'
+
+
+    
 header:
   teaser: /assets/images/2020/03/startup.jpg
 tags:

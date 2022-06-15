@@ -4,7 +4,7 @@ title: 'Benchmarking your LAMP server'
 date: '2008-04-01T20:20:12+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3313'
+
 
 ---
 

@@ -4,7 +4,7 @@ title: 'javascript to the limits'
 date: '2006-10-28T23:24:40+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2739'
+
 
 header:
   teaser: /assets/images/2006/10/lemmings_demo.png

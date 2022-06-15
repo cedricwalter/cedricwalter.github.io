@@ -4,7 +4,7 @@ title: 'Joomla! php, FastCGI, blank page and duplicate header &#8216;Status&#821
 date: '2009-02-21T12:45:23+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4174'
+
 
 ---
 

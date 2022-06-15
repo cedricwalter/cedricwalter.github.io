@@ -4,7 +4,7 @@ title: 'Shrediquette a Do It Yourself tri-rotor helicopter'
 date: '2010-06-26T21:01:04+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=5396'
+
 
 header:
   teaser: /assets/images/2010/06/two_tricopters_thumb.jpg

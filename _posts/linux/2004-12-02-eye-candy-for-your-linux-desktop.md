@@ -4,7 +4,7 @@ title: 'Eye-candy for your Linux desktop'
 date: '2004-12-02T21:52:45+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1398'
+
 
 tags:
 - OpenSuse

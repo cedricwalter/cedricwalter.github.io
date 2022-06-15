@@ -4,7 +4,7 @@ title: Joomla_1.5.18-Stable-Full_PackageForSecurityImages5.1.x_v01.02.00.zip
 date: '2010-05-31T11:19:20+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=5199'
+
 
 tags:
     - contact

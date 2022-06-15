@@ -4,7 +4,7 @@ title: 'Maintenance Journalière après vol'
 date: '2004-09-03T12:39:55+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=989'
+
 
 tags:
 - Checklist

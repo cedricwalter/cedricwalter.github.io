@@ -4,7 +4,7 @@ title: 'Give spammers their money back!'
 date: '2006-03-29T23:54:27+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2401'
+
 
 header:
   teaser: /assets/images/2006/03/spammers.jpg

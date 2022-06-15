@@ -4,7 +4,7 @@ title: 'Download section still here'
 date: '2009-03-29T22:10:15+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4237'
+
 
 header:
   teaser: /assets/images/2009/03/downloadicon.gif

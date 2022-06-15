@@ -4,7 +4,7 @@ title: 'Ajax enabled OpenComment online video'
 date: '2006-06-12T23:45:07+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2650'
+
 
 header:
   teaser: /assets/images/2006/03/opencomment-72.jpg

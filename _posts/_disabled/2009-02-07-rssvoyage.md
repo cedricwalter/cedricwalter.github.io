@@ -4,7 +4,7 @@ title: RSSVoyage
 date: '2009-02-07T23:40:02+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4118'
+
 
 header:
   teaser: /assets/images/2009/02/rssvoyage_thumb.jpg

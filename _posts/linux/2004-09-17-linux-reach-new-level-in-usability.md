@@ -4,7 +4,7 @@ title: 'Linux reach new level in usability'
 date: '2004-09-17T21:46:28+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1223'
+
 
 tags:
     - community

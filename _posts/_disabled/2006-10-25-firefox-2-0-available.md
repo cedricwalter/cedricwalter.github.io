@@ -4,7 +4,7 @@ title: 'Firefox 2.0 AVAILABLE'
 date: '2006-10-25T07:05:01+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2733'
+
 
 header:
   teaser: /assets/images/2006/04/firefox-logo.jpg

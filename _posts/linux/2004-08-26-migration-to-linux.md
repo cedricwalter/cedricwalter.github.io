@@ -4,7 +4,7 @@ title: 'Migration to linux'
 date: '2004-08-26T23:11:16+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=305'
+
 
 header:
   teaser: /assets/images/2020/02/opensuse.png
@@ -292,7 +292,7 @@ Burning CD tools can be found under Multimedia – CD/DVD Burning. 2 software ar
 |---|---|---|---|---|
 | 1. Starting K3b | 2. use the assistant, here I select    Create a Data CD | 3. Use the file explorer to locate file you want to burn - Windows drive (NTFS – FAT32) are located in <font face="Courier New" size="2">/windows/ - You can give a name to your compilation, right click rename on the root.. - The space left and consume on CD disk is displayed like in any burning software. - The GUI is very similar to EasyCD creator | 4 click burn and choose burning options - Speed (I have a 16X) but only 14X is available - Writing mode: DAO, TAO, RAW - Type of session - Volume CD-Test - and filesystems and misc options.  I do not see any options missing, except an assistant for some protections schemes….(Securoom, Safedisk) |  |
 | [<font face="Verdana, Arial, Helvetica, Sans-Serif" size="1">![burnincd5.gif](/assets/images/2004/08/tn_burnincd5.jpg)](/assets/images/2004/08/burnincd5.gif) | [<font face="Verdana, Arial, Helvetica, Sans-Serif" size="1">![burnincd6.gif](/assets/images/2004/08/tn_burnincd6.jpg)](/assets/images/2004/08/burnincd6.gif) |  | [<font face="Verdana, Arial, Helvetica, Sans-Serif" size="1">![burnincd7.gif](/assets/images/2004/08/tn_burnincd7.jpg)](/assets/images/2004/08/burnincd7.gif) |  |
-| Burning took 4:30 minutes for 594MB and mean speed was 12X | If you want to create an audio CD - You can not directly use mp3 files but need to convert them back to wav with winamp for example. - You can also right click on a file and play it. | In the menu <font face="Courier New" size="2">**tools**: - CD-RW are supported (with Erase support of course) - Copy CD or Clone CD - Burn image ISO, BIN and CUE: CCD are missing. - Copy DVD, format DVD-RW, Burn ISO image… | **Control panel**- It support plugins, only 3 are installed: mainly Audio Decoder and Audio Encoder and external programs to work properly. Highly extensible design is always good. - The control panel follow the same clarity guidelines as the whole KDE, which are good.. |  |
+| Burning took 4:30 minutes for 594MB and mean speed was 12X | If you want to create an audio CD - You can not directly use mp3 files but need to convert them back to wav with winamp for example. - You can also right click on a file and play it. | In the menu <font face="Courier New" size="2">**tools**: - CD-RW are supported (with Erase support of course) - Copy CD or Clone CD - Burn image ISO, BIN and CUE: CCD are missing. - Copy DVD, format DVD-RW, Burn ISO image… | **Control panel**- It support plugins, only 3 are installed: mainly Audio Decoder and Audio Encoder and external programs to work properly. Highly extensible design is always good. - The control panel follow the same clarity 
 
 - Following CD projects are possible: Audio CD, Data CD, Mixed mode CD, Video cd, eMovix CD, Data DVD, eMovix DVD. As you see everything is also present.
 - What is unknow is the abilty of K3b to handle protected CD….Of course nobody of us are using <font face="Courier New" size="2">CloneCD, <font face="Courier New" size="2">AlcoholSoft, <font face="Courier New" size="2">NeroBurning to copy protected CD…..so it is not really an issue or?

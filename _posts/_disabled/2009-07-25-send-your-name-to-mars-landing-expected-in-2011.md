@@ -4,7 +4,7 @@ title: 'Send your name to Mars, landing expected in 2011'
 date: '2009-07-25T23:01:32+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4547'
+
 
 header:
   teaser: /assets/images/2009/07/mars.waltercedric.com_.png

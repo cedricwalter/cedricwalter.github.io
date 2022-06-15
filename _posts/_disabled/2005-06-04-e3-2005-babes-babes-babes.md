@@ -4,7 +4,7 @@ title: 'E3 2005: babes, babes babes!'
 date: '2005-06-04T11:49:56+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1771'
+
 
 tags:
 - deployed

@@ -4,7 +4,7 @@ title: 'Managing Free Electron in the organisation'
 date: '2007-10-19T23:16:39+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3088'
+
 
 tags:
 - business

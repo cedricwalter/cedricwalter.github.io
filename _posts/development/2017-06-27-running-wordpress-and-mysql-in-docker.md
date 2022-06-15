@@ -4,7 +4,7 @@ title: 'Running WordPress and MySql in Docker'
 date: '2017-06-27T14:13:52+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=8636'
+
 
 header:
   teaser: /assets/images/2017/06/docker.png

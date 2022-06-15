@@ -4,7 +4,7 @@ title: 'XBOX 360 hacking has start and XBOX 1 hack flashback'
 date: '2005-12-05T23:17:22+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2196'
+
 
 header:
   teaser: /assets/images/2005/12/xbox360.jpg

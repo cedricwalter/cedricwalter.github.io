@@ -4,7 +4,7 @@ title: 'Nasty Little Truths About Physics'
 date: '2006-02-24T22:55:15+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2326'
+
 
 tags:
     - Physics

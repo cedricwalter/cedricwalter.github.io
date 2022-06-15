@@ -4,7 +4,7 @@ title: 'Module Buzz for Joomla! 1.2.0'
 date: '2010-04-19T19:16:27+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=5159'
+
 
 tags:
     - customizable

@@ -4,7 +4,7 @@ title: 'How to make a backup of RealflightÂ©Â® G2'
 date: '2004-09-01T23:18:46+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=882'
+
 
 header:
   teaser: /assets/images/2004/09/daemonui.jpg

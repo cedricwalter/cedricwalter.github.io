@@ -4,7 +4,7 @@ title: 'Garbage police: Illegal disposal isn&#8217;t fair!'
 date: '2011-08-29T21:25:51+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=7124'
+
 
 header:
   teaser: /assets/images/2011/08/garbage_police_illegal_disposal_zurich_thumb.jpg

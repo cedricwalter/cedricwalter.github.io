@@ -4,7 +4,7 @@ title: 'Watermarking your images with ImageMagick'
 date: '2009-10-13T00:10:12+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4773'
+
 
 ---
 

@@ -4,7 +4,7 @@ title: 'Fantastic Doll House: alsacian house'
 date: '2005-07-06T19:52:16+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1887'
+
 
 header:
   teaser: /assets/images/2005/07/index.jpg

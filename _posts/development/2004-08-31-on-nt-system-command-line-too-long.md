@@ -4,7 +4,7 @@ title: 'on NT system: command line too long'
 date: '2004-08-31T22:42:31+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=539'
+
 
 tags:
 - characters
@@ -24,7 +24,7 @@ classpath with a lot of frameworks or 3rd party tools.
 - Put the half classpath size in java ext classpath (if you use resin or tomcat)
 
 ## example
-- Use [cygwin](http://www.waltercedric.com/java/guidelines/www.cygwin.org) to start the java process, for example you
+- Use [cygwin](http://www.waltercedric.com/java/
   can use a bash terminal. But do not use *cygrunsrv* as it was not designed for installing java process as NT service:
   it wil create a ghost program when you kill the service.
 - Last chance, put the classpath in a .txt file and create a classloader which will read it and set the classpath (

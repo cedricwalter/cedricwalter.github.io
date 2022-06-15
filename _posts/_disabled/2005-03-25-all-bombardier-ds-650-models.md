@@ -4,7 +4,7 @@ title: 'All bombardier ds 650 models'
 date: '2005-03-25T13:20:39+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1640'
+
 
 header:
   teaser: /assets/images/2005/03/bombardier_ds650_baja_x2004.gif

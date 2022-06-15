@@ -4,7 +4,7 @@ title: 'Merging Two Git Repositories Into One Repository Without Losing File His
 date: '2017-04-13T10:36:22+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=8617'
+
 
 header:
 teaser: /assets/images/2017/04/git-logo.jpg

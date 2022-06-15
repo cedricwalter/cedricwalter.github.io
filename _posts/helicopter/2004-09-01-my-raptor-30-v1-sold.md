@@ -4,7 +4,7 @@ title: 'My Raptor 30 v1 (sold)'
 date: '2004-09-01T22:29:23+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=737'
+
 
 header:
   teaser: /assets/images/2004/09/raptor.jpg

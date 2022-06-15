@@ -4,7 +4,7 @@ title: 'Joomla 1.0.9 is available and my patches as well'
 date: '2006-06-06T18:17:21+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2638'
+
 
 tags:
     - deactivate

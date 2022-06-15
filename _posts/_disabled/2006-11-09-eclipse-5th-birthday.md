@@ -4,7 +4,7 @@ title: 'Eclipse 5th birthday'
 date: '2006-11-09T12:14:13+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2751'
+
 
 header:
   teaser: /assets/images/2006/11/java.eclipse.5th.birthday.jpg

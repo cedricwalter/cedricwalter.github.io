@@ -4,7 +4,7 @@ title: 'A treasury from Google Labs: a new programming model'
 date: '2004-12-29T18:55:43+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1451'
+
 
 tags:
     - development

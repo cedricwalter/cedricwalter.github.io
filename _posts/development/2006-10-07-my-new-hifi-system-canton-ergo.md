@@ -4,7 +4,7 @@ title: 'my new HIFI system: Canton Ergo'
 date: '2006-10-07T23:21:33+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2719'
+
 
 header:
   teaser: /assets/images/2006/10/canton_ergo_loudspeakers.jpg

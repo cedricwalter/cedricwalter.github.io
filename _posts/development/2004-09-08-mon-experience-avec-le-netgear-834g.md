@@ -4,7 +4,7 @@ title: 'Mon experience avec le netgear 834G'
 date: '2004-09-08T23:55:10+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1188'
+
 
 tags:
 - configuration

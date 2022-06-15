@@ -4,7 +4,7 @@ title: 'Victory! Europe is a software patent safe area!'
 date: '2005-07-06T20:07:11+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1888'
+
 
 ---
 

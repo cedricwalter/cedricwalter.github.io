@@ -4,7 +4,7 @@ title: 'How to open, repair, and clean different types of video games cartridges
 date: '2010-12-01T22:11:49+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=6413'
+
 
 header:
   teaser: /assets/images/2010/12/7682536036.jpg

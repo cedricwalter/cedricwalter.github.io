@@ -4,7 +4,7 @@ title: 'A wireless hacking computer'
 date: '2006-09-01T20:25:27+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2696'
+
 
 header:
   teaser: /assets/images/2006/09/Janus_Computer_by_Kyle_Williams.jpg

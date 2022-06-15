@@ -4,7 +4,7 @@ title: 'My New LCD TV: Samsung LE-32M61B'
 date: '2005-12-20T22:07:26+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2219'
+
 
 header:
   teaser: /assets/images/2005/12/Samsung.LE-32M61B.jpg

@@ -4,7 +4,7 @@ title: '2001 posts in my forums :-)'
 date: '2008-05-29T19:17:29+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3464'
+
 
 header:
   teaser: /assets/images/2008/05/forums_thumb.png

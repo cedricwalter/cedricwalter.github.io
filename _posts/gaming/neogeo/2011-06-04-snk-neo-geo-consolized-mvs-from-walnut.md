@@ -4,7 +4,7 @@ title: 'SNK Neo Geo Consolized MVS from walnut'
 date: '2011-06-04T18:17:05+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=6810'
+
 
 header:
   teaser: /assets/images/2011/06/neo_geo_mvs_from_walnut_00_thumb.jpg

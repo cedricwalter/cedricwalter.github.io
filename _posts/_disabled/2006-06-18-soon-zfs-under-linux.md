@@ -4,7 +4,7 @@ title: 'soon ZFS under Linux'
 date: '2006-06-18T20:36:11+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2654'
+
 
 tags:
     - linux

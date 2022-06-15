@@ -4,7 +4,7 @@ title: 'Setting up your workstation for Joomla! development'
 date: '2009-01-21T18:02:06+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4055'
+
 
 header:
   teaser: /assets/images/2009/01/cbd7cd432a0d4021a726ab0fb5f746a5.jpg

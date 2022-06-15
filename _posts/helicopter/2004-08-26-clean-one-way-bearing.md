@@ -4,7 +4,7 @@ title: 'Clean one way bearing'
 date: '2004-08-26T21:38:12+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=77'
+
 
 header:
   teaser: /assets/images/2004/08/cleanOneWayBearing.gif

@@ -4,7 +4,7 @@ title: 'News around eclipse&#8230;'
 date: '2005-05-25T17:47:57+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1761'
+
 
 tags:
 - development

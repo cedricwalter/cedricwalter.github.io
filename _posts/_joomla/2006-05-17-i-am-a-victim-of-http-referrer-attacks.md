@@ -4,7 +4,7 @@ title: 'I am a victim of  HTTP Referrer attacks&#8230;'
 date: '2006-05-17T22:40:12+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2532'
+
 
 header:
   teaser: /assets/images/2005/11/freecap.gif

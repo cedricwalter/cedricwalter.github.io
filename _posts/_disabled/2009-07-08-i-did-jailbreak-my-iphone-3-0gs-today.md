@@ -4,7 +4,7 @@ title: 'I did jailbreak my iPhone 3.0GS today'
 date: '2009-07-08T00:00:50+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4522'
+
 
 header:
   teaser: /assets/images/2009/07/little.big_.planet.cydia_.jpg

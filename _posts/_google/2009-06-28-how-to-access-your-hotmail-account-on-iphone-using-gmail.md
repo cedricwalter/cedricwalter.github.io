@@ -4,7 +4,7 @@ title: 'How to access your hotmail account on iPhone using Gmail'
 date: '2009-06-28T00:57:56+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4483'
+
 
 header:
   teaser: /assets/images/2009/06/gmaillogo.gif

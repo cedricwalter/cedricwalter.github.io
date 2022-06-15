@@ -4,7 +4,7 @@ title: 'Dropbox CLI on linux'
 date: '2017-05-13T19:38:59+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=8618'
+
 
 header:
   teaser: /assets/images/2011/05/linux.png

@@ -4,7 +4,7 @@ title: 'The rule of the game'
 date: '2006-10-24T21:06:10+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2732'
+
 
 tags:
 - opensource

@@ -4,7 +4,7 @@ title: 'All Neo Geo CD games'
 date: '2009-10-25T00:16:33+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4835'
+
 
 header:
   teaser: /assets/images/2009/10/snk-neo-geo-logo.png

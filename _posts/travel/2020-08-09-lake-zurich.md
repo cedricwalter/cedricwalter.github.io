@@ -5,10 +5,10 @@ date: '2020-08-09T16:46:39+02:00'
 author: 'Cédric Walter'
 categories:
 - travel
-guid: 'https://www.waltercedric.com/?p=13612'
 
-ngg_post_thumbnail:
-    - '0'
+
+
+    
 header:
   teaser: /assets/images/2020/08/6EA0AFED-17FE-4F7A-A6D1-66E93B43AD2D_1_105_c.jpeg
 tags:

@@ -4,7 +4,7 @@ title: 'Building and assembling'
 date: '2004-08-31T23:30:34+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=591'
+
 
 header:
   teaser: /assets/images/2004/08/openingBag.jpg"

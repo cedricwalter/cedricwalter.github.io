@@ -4,7 +4,7 @@ title: 'Upgrade carbon frame from  Draganfly corp.'
 date: '2004-09-01T22:42:26+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=768'
+
 
 header:
   teaser: /assets/images/2004/09/OverallView.jpg

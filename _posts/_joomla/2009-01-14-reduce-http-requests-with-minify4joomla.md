@@ -4,7 +4,7 @@ title: 'Reduce HTTP requests with Minify4Joomla'
 date: '2009-01-14T22:05:32+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4042'
+
 
 header:
   teaser: /assets/images/2009/01/minify4joomla.4_thumb.png

@@ -4,7 +4,7 @@ title: 'HTML 4.01 Entities Reference'
 date: '2007-01-06T14:12:07+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2829'
+
 
 tags:
     - java

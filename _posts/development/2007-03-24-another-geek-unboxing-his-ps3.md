@@ -4,7 +4,7 @@ title: 'Another geek unboxing his PS3'
 date: '2007-03-24T21:01:10+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2947'
+
 
 header:
   teaser: /assets/images/2005/06/sony_playstation_ps3.jpg

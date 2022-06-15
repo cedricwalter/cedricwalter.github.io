@@ -4,7 +4,7 @@ title: 'Robosapiens RS media'
 date: '2006-01-07T23:37:32+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2265'
+
 
 tags:
     - Robotic

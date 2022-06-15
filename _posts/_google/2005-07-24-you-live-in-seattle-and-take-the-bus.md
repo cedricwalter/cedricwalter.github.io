@@ -4,7 +4,7 @@ title: 'You live in Seattle and take the bus?'
 date: '2005-07-24T21:47:49+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1949'
+
 
 header:
   teaser: /assets/images/2005/07/busmonster-using-google-maps.jpg

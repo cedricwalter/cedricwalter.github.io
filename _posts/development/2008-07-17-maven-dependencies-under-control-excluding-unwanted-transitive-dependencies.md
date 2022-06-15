@@ -4,7 +4,7 @@ title: 'Maven dependencies under control: excluding unwanted transitive dependen
 date: '2008-07-17T12:08:52+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3519'
+
 
 header:
   teaser: /assets/images/2011/11/maven-logo-black-on-white-1.png

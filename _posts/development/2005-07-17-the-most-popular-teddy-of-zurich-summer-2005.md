@@ -4,7 +4,7 @@ title: 'The most popular teddy of Zurich summer 2005'
 date: '2005-07-17T22:58:34+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1926'
+
 
 header:
   teaser: /assets/images/2005/07/teddy-summer2005-baerwers-domina-teddy.jpg

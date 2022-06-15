@@ -4,7 +4,7 @@ title: 'Apache POI list of Excel supported functions'
 date: '2013-04-15T09:33:02+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=8003'
+
 
 header:
 teaser: /assets/images/2012/10/apache-poi-logo_thumb.jpg

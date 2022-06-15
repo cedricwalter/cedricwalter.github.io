@@ -4,7 +4,7 @@ title: 'Nintendo Entertainment System aka NES'
 date: '2010-09-22T18:17:44+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=6092'
+
 
 header:
   teaser: /assets/images/2010/09/Nintendo.Entertainment.System.NES_thumb.jpg

@@ -4,7 +4,7 @@ title: 'Mysql database backup in Linux Crontab'
 date: '2011-06-04T09:24:39+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=6743'
+
 
 header:
   teaser: /assets/images/2005/10/200px-MySQL.png

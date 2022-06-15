@@ -4,7 +4,7 @@ title: 'Repairing the frame'
 date: '2004-08-26T21:36:27+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=70'
+
 
 header:
   teaser: /assets/images/2004/08/caliberCasseSansPiece.JPG

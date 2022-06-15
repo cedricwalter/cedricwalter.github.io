@@ -4,7 +4,7 @@ title: 'PT-AE3000 1080p home cinema projector announced'
 date: '2008-09-05T22:08:45+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3748'
+
 
 header:
   teaser: /assets/images/2008/09/panasonic_PTAE3000_thumb.jpg

@@ -4,7 +4,7 @@ title: 'Microsoft Responds To IE Security Concerns'
 date: '2005-01-24T23:14:00+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1521'
+
 
 ---
 

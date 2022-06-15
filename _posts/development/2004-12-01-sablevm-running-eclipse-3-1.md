@@ -4,7 +4,7 @@ title: 'SableVM running Eclipse 3.1'
 date: '2004-12-01T23:35:11+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1396'
+
 
 tags:
 - eclipse

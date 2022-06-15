@@ -4,7 +4,7 @@ title: 'How to migrate away from Hotmail for Gmail for free'
 date: '2009-07-25T21:08:02+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4535'
+
 
 header:
   teaser: /assets/images/2009/07/gmaillogo.gif

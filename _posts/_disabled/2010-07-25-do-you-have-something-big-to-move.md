@@ -4,7 +4,7 @@ title: 'Do You have something big to move?'
 date: '2010-07-25T15:36:20+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=5659'
+
 
 tags:
     - fantastic

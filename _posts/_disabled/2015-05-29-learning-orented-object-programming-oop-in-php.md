@@ -4,7 +4,7 @@ title: 'Learning Orented Object Programming (OOP) in PHP'
 date: '2015-05-29T09:08:16+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=8298'
+
 
 tags:
     - php

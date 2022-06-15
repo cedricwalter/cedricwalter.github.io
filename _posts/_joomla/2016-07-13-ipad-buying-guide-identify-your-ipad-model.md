@@ -1,10 +1,10 @@
 ---
 id: 8404
-title: 'IPad buying guide: Identify your iPad model'
+title: 'IPad buying 
 date: '2016-07-13T19:44:04+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=8404'
+
 
 header:
   teaser: /assets/images/2011/09/add2Home_ipod_iphone_ipad_joomla_000_thumb.png

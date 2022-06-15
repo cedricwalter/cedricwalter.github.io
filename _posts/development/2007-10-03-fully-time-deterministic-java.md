@@ -4,7 +4,7 @@ title: 'Fully Time Deterministic Java'
 date: '2007-10-03T20:54:23+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3073'
+
 
 header:
   teaser: /assets/images/2020/03/java.jpg

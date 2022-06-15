@@ -4,7 +4,7 @@ title: 'Develop web testcases using Selenium IDE in Firefox for Joomla!'
 date: '2008-04-12T12:53:55+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3399'
+
 
 header:
   teaser: /assets/images/2008/04/open.qa_.logo_thumb.gif

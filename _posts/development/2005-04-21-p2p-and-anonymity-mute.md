@@ -4,7 +4,7 @@ title: 'P2P and anonymity: MUTE'
 date: '2005-04-21T19:59:28+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1695'
+
 
 header:
   teaser: /assets/images/2005/04/mute.logo_.gif

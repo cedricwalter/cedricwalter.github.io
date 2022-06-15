@@ -4,7 +4,7 @@ title: 'Glue your grips on the blade !'
 date: '2004-08-26T21:46:18+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=108'
+
 
 header:
 teaser: /assets/images/2004/08/glueYourBlade.jpg

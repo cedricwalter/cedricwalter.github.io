@@ -4,7 +4,7 @@ title: 'Replacing M$ frontpage for free'
 date: '2004-12-02T21:14:28+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1397'
+
 
 tags:
 - opensource

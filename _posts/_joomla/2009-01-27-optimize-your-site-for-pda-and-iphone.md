@@ -4,7 +4,7 @@ title: 'Optimize your site for PDA and IPhone'
 date: '2009-01-27T22:24:55+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4066'
+
 
 header:
   teaser: /assets/images/2009/01/waltercedric.iphone.png

@@ -4,7 +4,7 @@ title: 'PS3 2.50 firmware adds Flash 9 support and recovery menu'
 date: '2008-10-20T16:31:02+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3871'
+
 
 header:
   teaser: /assets/images/2005/06/sony_playstation_ps3.jpg

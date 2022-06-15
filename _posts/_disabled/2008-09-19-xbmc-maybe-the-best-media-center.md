@@ -4,7 +4,7 @@ title: 'XBMC: maybe the best media center'
 date: '2008-09-19T13:30:56+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3801'
+
 
 header:
   teaser: /assets/images/2008/09/13ff90f5ed59460f9fd893c354295976.jpg

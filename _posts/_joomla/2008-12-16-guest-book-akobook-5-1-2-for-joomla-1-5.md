@@ -4,7 +4,7 @@ title: 'Guest Book Akobook 5.1.2 for Joomla 1.5'
 date: '2008-12-16T20:34:03+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3988'
+
 
 header:
   teaser: /assets/images/2008/12/akobook_5_1_2.png

@@ -4,7 +4,7 @@ title: 'I Broke my Iphone 3gs, a how to repair will follow'
 date: '2011-04-20T20:02:38+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=6614'
+
 
 header:
   teaser: /assets/images/2011/04/broken.apple_.iphone.3gs_thumb.png

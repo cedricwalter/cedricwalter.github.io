@@ -4,7 +4,7 @@ title: 'IPHONE demo box sometimes crashing&#8230;'
 date: '2009-02-03T23:29:34+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4090'
+
 
 header:
   teaser: /assets/images/2009/02/iphone.demo_.crash2432_thumb.jpg

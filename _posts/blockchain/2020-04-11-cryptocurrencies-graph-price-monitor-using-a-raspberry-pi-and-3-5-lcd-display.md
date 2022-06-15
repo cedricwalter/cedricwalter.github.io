@@ -5,10 +5,10 @@ date: '2020-04-11T20:04:18+02:00'
 author: 'Cédric Walter'
 categories:
 - blockchain
-guid: 'https://waltercedric.com/?p=12974'
 
-ngg_post_thumbnail:
-    - '0'
+
+
+    
 header:
   teaser: /assets/images/2020/04/cryptocurrencies-graph-raspberry-pi-lcd.jpg
 tags:

@@ -4,7 +4,7 @@ title: '3rd day with my Canon G9 camera'
 date: '2007-10-14T11:57:00+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3086'
+
 
 header:
   teaser: /assets/images/2007/10/canon.g9.body_.jpg

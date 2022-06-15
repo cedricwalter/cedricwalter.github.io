@@ -4,7 +4,7 @@ title: 'Galaxy Fight'
 date: '2012-11-04T18:37:59+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=7915'
+
 
 header:
   teaser: /assets/images/2012/11/snk_neogeo_faq_moves.png

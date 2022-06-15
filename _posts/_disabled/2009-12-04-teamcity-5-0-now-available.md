@@ -4,7 +4,7 @@ title: 'TeamCity 5.0 now available'
 date: '2009-12-04T13:43:41+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4889'
+
 
 header:
   teaser: /assets/images/2010/05/teamcity512_thumb.png

@@ -4,7 +4,7 @@ title: 'Enterprise grade performances tuning with critical memory constraints (p
 date: '2007-10-19T16:56:18+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3087'
+
 
 tags:
 - java

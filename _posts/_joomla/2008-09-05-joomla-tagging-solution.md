@@ -4,7 +4,7 @@ title: 'Joomla! tagging solution'
 date: '2008-09-05T22:01:53+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3745'
+
 
 header:
   teaser: /assets/images/2008/09/2270_tags_thumb.jpg
@@ -60,9 +60,9 @@ Optional are the Tag Cloud Module and the Auto Tag Plugin.
 
 # Tag Cloud Component Features:**
 
-- It can be linked to the menu, to display a tag cloud in its own page. eg: <http://www.visitirelandguide.com/tags/>
-- It can display tagged content in a list: <http://www.visitirelandguide.com/tags/ireland/>
-- It can display an RSS format for each tag content: [http://www.visitirelandguide.com/index2.php?option=com\_tag&amp;tag=ireland&amp;f=rss20&amp;no\_html=1](http://www.visitirelandguide.com/index2.php?option=com_tag&tag=ireland&f=rss20&no_html=1)
+- It can be linked to the menu, to display a tag cloud in its own page. eg: <http://www.visitireland
+- It can display tagged content in a list: <http://www.visitireland
+- It can display an RSS format for each tag content: [http://www.visitireland
 - Preview of tagged articles
 - Related tags views – Tags related to a set of tags
 - Tags administration, publish, add, edit, delete, filters etc.

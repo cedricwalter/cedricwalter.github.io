@@ -4,7 +4,7 @@ title: 'Understand Agile Development Methods with the Agile Development Poster'
 date: '2012-10-17T19:29:50+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=7798'
+
 
 header:
   teaser: /assets/images/2012/10/agileposter_thumb.png

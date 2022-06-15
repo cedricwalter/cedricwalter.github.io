@@ -4,7 +4,7 @@ title: 'Updating PHP5 to PHP 5.3.10 on Ubuntu'
 date: '2012-02-05T10:01:58+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=7486'
+
 
 tags:
     - code

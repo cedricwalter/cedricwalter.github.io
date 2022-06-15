@@ -4,7 +4,7 @@ title: 'All Eclipse Ganymede Shortcuts'
 date: '2008-09-26T18:43:07+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3857'
+
 
 ---
 

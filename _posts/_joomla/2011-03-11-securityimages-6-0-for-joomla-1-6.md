@@ -4,7 +4,7 @@ title: 'SecurityImages 6.0 for Joomla! 1.6'
 date: '2011-03-11T20:31:25+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=6573'
+
 
 tags:
     - backend

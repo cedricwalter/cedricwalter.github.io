@@ -4,7 +4,7 @@ title: 'Microsoft gets more &#8216;facts&#8217; for anti-Linux campaign'
 date: '2005-04-06T20:42:01+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1664'
+
 
 tags:
 - business

@@ -4,7 +4,7 @@ title: 'Event_logger an impressive GPS data logger'
 date: '2007-11-21T22:52:00+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3143'
+
 
 header:
   teaser: /assets/images/2007/11/robogeo.generate.google.map_.jpg

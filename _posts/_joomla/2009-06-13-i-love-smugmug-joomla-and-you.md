@@ -4,7 +4,7 @@ title: 'I love Smugmug, Joomla! and You?'
 date: '2009-06-13T00:00:00+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4402'
+
 
 header:
   teaser: /assets/images/2009/06/photoFeed.code_.png

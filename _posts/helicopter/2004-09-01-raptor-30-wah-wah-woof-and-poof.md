@@ -4,7 +4,7 @@ title: 'Raptor 30 Wah Wah, Woof and poof'
 date: '2004-09-01T23:35:23+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=914'
+
 
 header:
   teaser: /assets/images/2004/09/raptor.jpg

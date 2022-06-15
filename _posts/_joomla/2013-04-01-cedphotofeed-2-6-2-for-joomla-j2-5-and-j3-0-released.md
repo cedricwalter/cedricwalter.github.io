@@ -4,7 +4,7 @@ title: 'cedphotofeed 2.6.2 for joomla J2.5 and J3.0 released'
 date: '2013-04-01T15:59:08+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=7984'
+
 
 header:
   teaser: /assets/images/2012/03/flickr.photofeed_thumb_b762b40a05c32e0ad752d1260a32a6b1.png

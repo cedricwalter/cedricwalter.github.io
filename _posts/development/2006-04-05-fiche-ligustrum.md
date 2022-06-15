@@ -4,7 +4,7 @@ title: 'Fiche Ligustrum'
 date: '2006-04-05T19:38:30+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2404'
+
 
 tags:
     - Bonsai

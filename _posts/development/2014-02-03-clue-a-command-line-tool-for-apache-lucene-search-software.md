@@ -4,7 +4,7 @@ title: 'Clue a command line tool for Apache Lucene search software'
 date: '2014-02-03T21:45:25+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=8185'
+
 
 tags:
     - java

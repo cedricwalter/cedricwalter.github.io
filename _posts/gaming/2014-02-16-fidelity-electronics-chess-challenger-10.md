@@ -4,7 +4,7 @@ title: 'Fidelity Electronics Chess Challenger 10'
 date: '2014-02-16T19:53:13+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=8216'
+
 
 header:
   teaser: /assets/images/2014/02/20140216_200324_thumb.jpg

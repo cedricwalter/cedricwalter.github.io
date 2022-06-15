@@ -4,7 +4,7 @@ title: 'Excès de vitesse et amendes'
 date: '2005-07-11T00:34:54+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1916'
+
 
 tags:
     - france

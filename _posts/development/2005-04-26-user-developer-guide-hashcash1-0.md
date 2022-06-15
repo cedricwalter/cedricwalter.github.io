@@ -1,16 +1,16 @@
 ---
 id: 1705
-title: 'User/Developer guide Hashcash1.0'
+title: 'User/Developer 
 date: '2005-04-26T21:39:59+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1705'
+
 
 header:
   teaser: /assets/images/2005/04/hashcashlogo.png
 ---
 
-| ![](/assets/images/2005/04/hashcashlogo.png) | Forcing the spammer to pay the price (computing power) before submitting rubish to Your homepage (in comments or guestbook section for example). The user will have to create a new cryptographic value of a hidden field (Javascript code provided) and that may take 1 to 2 seconds, but may be more with RSA 1024….   This also do not allow robot to easily sumbit code without parsing Your HTML page before…  User developer guide of the cryptographic component framework for Mambo: com\_hashcash |
+| ![](/assets/images/2005/04/hashcashlogo.png) | Forcing the spammer to pay the price (computing power) before submitting rubish to Your homepage (in comments or guestbook section for example). The user will have to create a new cryptographic value of a hidden field (Javascript code provided) and that may take 1 to 2 seconds, but may be more with RSA 1024….   This also do not allow robot to easily sumbit code without parsing Your HTML page before…  User developer 
 |---|---|
 |  | **A version 1.0 will be release soon….GNU/GPL** |
 

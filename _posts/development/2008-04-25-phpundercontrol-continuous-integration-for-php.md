@@ -4,7 +4,7 @@ title: 'phpUnderControl &#8211; Continuous Integration for PHP'
 date: '2008-04-25T18:47:08+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3427'
+
 
 ---
 
@@ -19,7 +19,7 @@ guid: 'https://waltercedric.com/new/?p=3427'
     
     [PHPUnit](http://www.phpunit.de) is the most popular xUnit implementation for PHP that provides a framework for automated   
     software tests. Except the pure test automation PHPUnit contains a rich set of features like   
-    [Code Coverage](http://www.phpunit.de/pocket_guide/3.2/en/code-coverage-analysis.html), [Project Mess Detection](http://pmd.sourceforge.net) and [Software Metrics](http://en.wikipedia.org/wiki/Software_metrics). To visualize the generated XML reports   
+    [Code Coverage](http://www.phpunit.de/pocket_
     phpUnderControl comes with a set of XSL stylesheets that prepare the output for CruiseControl.
 - Documentation
     

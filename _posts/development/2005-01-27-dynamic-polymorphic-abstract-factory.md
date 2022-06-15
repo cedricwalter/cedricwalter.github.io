@@ -4,7 +4,7 @@ title: 'Dynamic polymorphic abstract factory'
 date: '2005-01-27T19:07:08+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1525'
+
 
 header:
   teaser: /assets/images/2005/01/java-pattern-dynamic-polymorphical-abstractfactory.png

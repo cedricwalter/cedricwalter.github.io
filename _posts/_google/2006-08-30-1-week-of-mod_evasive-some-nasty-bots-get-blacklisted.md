@@ -4,7 +4,7 @@ title: '1 week of mod_evasive some nasty bots get blacklisted'
 date: '2006-08-30T23:19:26+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2694'
+
 
 tags:
     - security

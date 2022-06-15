@@ -4,7 +4,7 @@ title: 'BSoD triggered by a memory stick'
 date: '2009-08-28T16:32:56+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4598'
+
 
 header:
   teaser: /assets/images/2009/08/bsod.windows.xp_.01_thumb.jpg

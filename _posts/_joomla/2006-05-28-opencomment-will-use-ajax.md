@@ -4,7 +4,7 @@ title: 'OpenComment will use AJAX'
 date: '2006-05-28T17:28:51+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2629'
+
 
 header:
   teaser: /assets/images/2006/03/opencomment.jpg

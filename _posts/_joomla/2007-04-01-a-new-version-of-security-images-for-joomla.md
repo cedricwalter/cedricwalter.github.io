@@ -4,7 +4,7 @@ title: 'A new version of security images for joomla'
 date: '2007-04-01T21:51:07+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2952'
+
 
 tags:
     - joomla

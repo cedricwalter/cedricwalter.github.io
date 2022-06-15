@@ -4,7 +4,7 @@ title: 'OpenComment, AJAX and security'
 date: '2006-06-04T23:41:29+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2637'
+
 
 header:
   teaser: /assets/images/2006/03/opencomment.jpg

@@ -4,7 +4,7 @@ title: 'My Settings'
 date: '2004-09-01T22:41:28+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=762'
+
 
 tags:
     - european

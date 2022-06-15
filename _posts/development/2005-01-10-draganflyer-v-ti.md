@@ -4,7 +4,7 @@ title: 'Draganflyer V Ti'
 date: '2005-01-10T13:25:18+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1471'
+
 
 header:
   teaser: /assets/images/2005/01/draganflyerV-Ti-close.jpg

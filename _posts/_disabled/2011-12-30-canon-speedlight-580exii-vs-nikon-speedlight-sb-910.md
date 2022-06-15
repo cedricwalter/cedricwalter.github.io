@@ -4,7 +4,7 @@ title: 'Canon Speedlight 580ExII vs Nikon Speedlight SB-910'
 date: '2011-12-30T14:29:02+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=7406'
+
 
 ---
 
@@ -28,7 +28,7 @@ The SB-910 speedlight is designed to provide easy operation and menu navigation,
 
 Additionally, the new SB-910 incorporates a new Thermal Cut-Out function, which offers protection against damage to the flash panel and body from overheating during continuous flash use. Now, the flash recycling time is automatically delayed if a significant rise in temperature is detected, rather than ceasing operation to protect the unit. For additional durability, heat-resistance and ease-of-use, the SB-910 uses new hard-type color compensation filters for fluorescent and incandescent color temperature balancing. When using these filters, the flash automatically recognizes which filter is being used and adjusts white balance accordingly on the connected Nikon D-SLR camera. Additionally, the AF-assist illuminator of the SB-910 is compatible with the complete line of AF systems used in Nikon D-SLR cameras.
 
-The SB-910 speedlight features three illumination patterns (standard, center-weighted and even) which are designed to match almost any shooting situation when utilizing the speedlight. The “standard” pattern will cover all conventional, standard flash coverage. The “center-weighted” pattern provides larger guide numbers than other light distribution types at the same focal lengths. This illumination pattern is ideal for subjects such as portraits, in which the light falloff at the image edges can be disregarded. When “even” is selected, the light from the flash will cover a subject from the center to the edges without light falloff. This pattern is applicable for shooting group photographs indoors. For coverage with a variety of lenses, the SB-910 speedlight incorporates a multi-step power zoom range that covers a wide 17-200mm angle of view, and can automatically detect Nikon FX and Nikon DX formats to help select suitable light distribution.
+The SB-910 speedlight features three illumination patterns (standard, center-weighted and even) which are designed to match almost any shooting situation when utilizing the speedlight. The “standard” pattern will cover all conventional, standard flash coverage. The “center-weighted” pattern provides larger 
 
 The SB-910 speedlight includes support for Nikon’s advanced wireless TTL operation and can function as a wireless commander with control over three separate groups of speedlights or as a remote speedlight triggered by other SB-910 speedlights, SB-700 speedlights, SU-800 Wireless Commander or the built-in speedlight set to Commander Mode on compatible Nikon D-SLR cameras. The SB-910 incorporates a high-speed recycling time of approximately 2.5 seconds for full power with NiMH batteries, and approximately 3.0 seconds with AA Alkaline batteries.
 

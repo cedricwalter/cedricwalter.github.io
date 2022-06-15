@@ -4,7 +4,7 @@ title: 'New Project: joomlacloud at joomla.org'
 date: '2006-01-08T20:22:51+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2270'
+
 
 header:
   teaser: /assets/images/2006/01/tn_joomlacloud1.gif

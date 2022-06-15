@@ -4,7 +4,7 @@ title: 'Samsung Galaxy Tab 10.1 Tablet runs Android 3.1 Honeycomb'
 date: '2011-06-04T12:29:14+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=6778'
+
 
 header:
   teaser: /assets/images/2011/06/Samsung_Galaxy_Tab_10.1-Tablet_00.jpg

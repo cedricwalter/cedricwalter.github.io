@@ -4,7 +4,7 @@ title: 'Gallery with screenshots of current status'
 date: '2006-03-16T23:05:50+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2372'
+
 
 tags:
     - installer

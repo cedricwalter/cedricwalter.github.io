@@ -4,7 +4,7 @@ title: 'An alternative to the draganflyer'
 date: '2005-05-07T21:46:47+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1715'
+
 
 enclosure:
     - "http://www.bb-shopping.com/images/BBGadgets/radio-controlled-x-ufo/xufo.wmv\n0\nvideo/x-ms-wmv\n"

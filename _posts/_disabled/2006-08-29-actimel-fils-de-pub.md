@@ -4,7 +4,7 @@ title: 'Actimel, fils de pub'
 date: '2006-08-29T13:56:25+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2690'
+
 
 tags:
     - 'Today on earth'

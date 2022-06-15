@@ -4,7 +4,7 @@ title: 'Neo Geo Mini Samurai Shodown Limited Edition available in 4 bundles'
 date: '2019-08-14T15:21:46+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=8759'
+
 
 header:
   teaser: /assets/images/2019/08/Neo-Geo-Mini-Samurai-Shodown-Limited-Edition-Haohmaru.jpg

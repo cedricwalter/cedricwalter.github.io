@@ -4,7 +4,7 @@ title: 'new Sociable mambot for Joomla'
 date: '2006-05-14T14:23:21+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2528'
+
 
 header:
   teaser: /assets/images/2006/05/mosSociable1.0.0.png

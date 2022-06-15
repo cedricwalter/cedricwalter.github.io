@@ -4,7 +4,7 @@ title: '7 New Lampe Berger Oils are now part of my collection'
 date: '2009-12-07T20:37:24+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4890'
+
 
 tags:
     - berger

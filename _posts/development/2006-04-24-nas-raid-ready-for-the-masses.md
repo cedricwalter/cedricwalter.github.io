@@ -4,7 +4,7 @@ title: 'NAS Raid ready for the masses?'
 date: '2006-04-24T22:36:28+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2479'
+
 
 header:
   teaser: /assets/images/2006/04/NAS-Infrant-ReadyNAS-NV.jpg

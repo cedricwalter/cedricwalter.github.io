@@ -4,7 +4,7 @@ title: 'LittleBigPlanet Sony Gamers&#8217; Day 08'
 date: '2008-05-17T13:34:21+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3453'
+
 
 header:
   teaser: /assets/images/2005/06/sony_playstation_ps3.jpg

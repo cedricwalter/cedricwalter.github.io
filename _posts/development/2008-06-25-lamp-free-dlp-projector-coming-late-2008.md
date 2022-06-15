@@ -4,7 +4,7 @@ title: 'Lamp-Free DLP Projector coming late 2008'
 date: '2008-06-25T23:33:03+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3506'
+
 
 header:
   teaser: /assets/images/2008/06/TIDLP_thumb.jpg

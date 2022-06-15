@@ -4,7 +4,7 @@ title: 'Make your own light objects using &#8230;bulblamps'
 date: '2007-11-11T20:38:28+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3114'
+
 
 header:
   teaser: /assets/images/2007/11/light.unlimited.10_jpg.jpg

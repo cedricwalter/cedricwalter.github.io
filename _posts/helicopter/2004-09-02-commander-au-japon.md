@@ -4,7 +4,7 @@ title: 'Commander au Japon!'
 date: '2004-09-02T21:58:20+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=945'
+
 
 header:
   teaser: /assets/images/2004/09/small-caliber.gif

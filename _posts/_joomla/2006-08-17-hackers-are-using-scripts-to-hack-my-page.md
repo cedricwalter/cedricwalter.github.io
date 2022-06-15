@@ -4,7 +4,7 @@ title: 'Hackers  are using scripts to hack my page&#8230;'
 date: '2006-08-17T21:38:37+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2683'
+
 
 header:
   teaser: /assets/images/2006/08/pirate.gif

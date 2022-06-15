@@ -4,7 +4,7 @@ title: 'Running the latest Joomla! 1.5'
 date: '2008-02-18T22:27:12+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3187'
+
 
 tags:
     - homepage

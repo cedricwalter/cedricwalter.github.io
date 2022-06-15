@@ -5,7 +5,7 @@ date: '2018-08-01T13:04:11+02:00'
 author: 'Cédric Walter'
 categories:
 - blockchain
-guid: 'https://waltercedric.com/new/?p=8741'
+
 
 header:
   teaser: /assets/images/2018/08/Initial-Coin-Offering-ICO-security.png

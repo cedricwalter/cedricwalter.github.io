@@ -4,7 +4,7 @@ title: 'Check List le jour du vol'
 date: '2004-09-03T12:37:13+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=986'
+
 
 tags:
 - Checklist

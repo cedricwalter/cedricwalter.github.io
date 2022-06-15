@@ -4,7 +4,7 @@ title: 'Reduce Firefox memory usage'
 date: '2006-04-14T20:56:22+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2452'
+
 
 tags:
 - opensource

@@ -4,7 +4,7 @@ title: 'Manuel d’utilisation en Français &#8211; Audi R8 Spyder'
 date: '2016-08-17T13:25:55+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=8573'
+
 
 header:
   teaser: /assets/images/2016/08/notice_simplifie_-_audi_r8__r8_spyder_3.png

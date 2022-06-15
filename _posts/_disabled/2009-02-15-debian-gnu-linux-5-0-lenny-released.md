@@ -4,7 +4,7 @@ title: 'Debian GNU/Linux 5.0 &#8220;Lenny&#8221; Released'
 date: '2009-02-15T16:06:17+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4163'
+
 
 header:
   teaser: /assets/images/2009/02/openlogond50_thumb.png

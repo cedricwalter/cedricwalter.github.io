@@ -4,7 +4,7 @@ title: 'Hewlett Packard Forever'
 date: '2011-06-06T20:50:29+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=6819'
+
 
 header:
   teaser: /assets/images/2004/09/hewlett_packard_collection_00.jpg

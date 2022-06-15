@@ -4,7 +4,7 @@ title: 'Java Garbage Collector log analysis'
 date: '2016-04-04T14:22:53+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=8339'
+
 
 header:
   teaser: /assets/images/2016/04/gceasy-io.png

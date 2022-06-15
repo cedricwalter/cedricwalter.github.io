@@ -4,7 +4,7 @@ title: 'based on google maps&#8230;chapter 2'
 date: '2005-11-25T22:12:24+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2118'
+
 
 tags:
     - google

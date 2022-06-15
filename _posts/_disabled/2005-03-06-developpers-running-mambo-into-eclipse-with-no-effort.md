@@ -4,7 +4,7 @@ title: 'Developpers: Running Mambo into eclipse with no effort'
 date: '2005-03-06T20:04:21+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1605'
+
 
 header:
   teaser: /assets/images/2005/03/phpeclipse_toolbar.gif

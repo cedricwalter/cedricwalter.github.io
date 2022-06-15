@@ -4,7 +4,7 @@ title: 'Comment installer un tool d&#8217;accés à  distance sur votre PC&#8230
 date: '2005-04-08T22:58:04+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1685'
+
 
 header:
   teaser: /assets/images/2005/04/tightvnc_logo.jpg

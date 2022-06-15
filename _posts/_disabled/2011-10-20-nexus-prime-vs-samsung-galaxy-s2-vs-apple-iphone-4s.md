@@ -4,7 +4,7 @@ title: 'Nexus Prime vs Samsung Galaxy S2 vs Apple iPhone 4S'
 date: '2011-10-20T21:40:01+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=7226'
+
 
 header:
   teaser: /assets/images/2011/10/samsung_galaxy_nexus_prime_header_thumb.jpg

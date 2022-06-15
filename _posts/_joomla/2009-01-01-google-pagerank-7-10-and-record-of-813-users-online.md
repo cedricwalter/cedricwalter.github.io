@@ -4,7 +4,7 @@ title: 'Google Pagerank 7/10 and record of 813 users online'
 date: '2009-01-01T14:20:06+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4017'
+
 
 header:
   teaser: /assets/images/2009/01/pagerank.of_.7.png

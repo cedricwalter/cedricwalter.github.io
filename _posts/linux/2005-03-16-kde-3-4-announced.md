@@ -4,7 +4,7 @@ title: 'KDE 3.4 announced'
 date: '2005-03-16T18:36:43+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1619'
+
 
 tags:
 - kde

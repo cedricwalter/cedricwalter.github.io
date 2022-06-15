@@ -4,7 +4,7 @@ title: 'Don&#8217;t trust Microsoft&#8217;s promises: is OSP another  backdoor'
 date: '2008-03-16T21:37:23+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3268'
+
 
 header:
   teaser: /assets/images/2008/03/gplv3logored_thumb.png
@@ -28,4 +28,4 @@ And this because I agree with the new protection coming with the GPL v3
 - ***Laws prohibiting free software**: Legislation like the Digital Millennium Copyright Act and the European Union Copyright Directive make it a crime to write or share software that can break DRM. These laws should not interfere with the rights the GPL grants you.*
 - ***Discriminatory patent deals**: Microsoft has recently started telling people that they will not sue free software users for patent infringement—as long as you get the software from a vendor that’s paying Microsoft for the privilege. Ultimately, Microsoft is trying to collect royalties for the use of free software, which interferes with users’ freedom. No company should be able to do this.*
 
-[Read the Quick Guide to GPL v3 HERE](http://www.fsf.org/licensing/licenses/quick-guide-gplv3.html)
+[Read the Quick 

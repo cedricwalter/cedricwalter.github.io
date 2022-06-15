@@ -4,7 +4,7 @@ title: 'JVC Everio GZ-MC500 reviews'
 date: '2005-03-04T22:53:13+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1596'
+
 
 tags:
     - camcorder

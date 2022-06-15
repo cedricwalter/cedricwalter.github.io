@@ -4,7 +4,7 @@ title: 'These pages will crash your Internet Explorer 6SP2.'
 date: '2005-01-07T09:26:36+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1455'
+
 
 tags:
     - bugs

@@ -4,7 +4,7 @@ title: 'Chain of responsability'
 date: '2005-01-20T21:29:50+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1499'
+
 
 header:
   teaser: /assets/images/2005/01/java-pattern-chainofresponsability.png

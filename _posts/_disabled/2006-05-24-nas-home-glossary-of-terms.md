@@ -4,7 +4,7 @@ title: 'NAS @ HOME glossary of terms'
 date: '2006-05-24T22:21:25+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2624'
+
 
 tags:
     - 'PC and Hardware'

@@ -4,7 +4,7 @@ title: 'La machine de Whimshurst'
 date: '2004-09-01T19:29:31+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=694'
+
 
 tags:
 - Electricity

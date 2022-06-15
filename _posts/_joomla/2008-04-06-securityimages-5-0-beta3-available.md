@@ -4,7 +4,7 @@ title: 'SecurityImages 5.0 BETA3 available'
 date: '2008-04-06T21:46:12+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3375'
+
 
 header:
   teaser: /assets/images/2008/04/com_securityimages_thumb.png

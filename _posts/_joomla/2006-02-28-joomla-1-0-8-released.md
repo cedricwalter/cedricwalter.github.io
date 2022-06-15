@@ -4,7 +4,7 @@ title: 'Joomla! 1.0.8 Released'
 date: '2006-02-28T12:45:08+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2331'
+
 
 tags:
     - performance

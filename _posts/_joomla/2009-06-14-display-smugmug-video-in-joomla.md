@@ -4,7 +4,7 @@ title: 'Display Smugmug Video in Joomla!'
 date: '2009-06-14T17:52:21+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4419'
+
 
 header:
   teaser: /assets/images/2009/06/smugmugvideo.example_thumb.png

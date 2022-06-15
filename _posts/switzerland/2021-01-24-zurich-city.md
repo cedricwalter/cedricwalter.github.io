@@ -4,10 +4,10 @@ title: 'Zürich city was blanketed by heavy snowfall on January 15'
 date: '2021-01-24T13:28:19+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://www.waltercedric.com/?p=13784'
 
-ngg_post_thumbnail:
-- '0'
+
+
+
 tags:
 - snow
 - switzerland

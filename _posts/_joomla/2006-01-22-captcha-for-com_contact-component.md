@@ -4,7 +4,7 @@ title: 'captcha for com_contact component'
 date: '2006-01-22T10:53:54+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2288'
+
 
 tags:
     - integration

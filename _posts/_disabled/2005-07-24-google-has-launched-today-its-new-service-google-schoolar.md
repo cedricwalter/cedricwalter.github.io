@@ -4,7 +4,7 @@ title: 'Google has launched today it&#8217;s new service: Google Schoolar'
 date: '2005-07-24T00:20:08+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1940'
+
 
 header:
   teaser: /assets/images/2005/07/google-schoolar.gif

@@ -4,7 +4,7 @@ title: 'Hewlett Packard MetaKernel unofficial site'
 date: '2004-09-02T22:17:53+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=978'
+
 
 header:
   teaser: /assets/images/2004/09/hewlett_packard_collection_00.jpg

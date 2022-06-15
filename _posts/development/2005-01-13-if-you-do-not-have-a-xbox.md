@@ -4,7 +4,7 @@ title: 'If You do not have a XBOX&#8230;'
 date: '2005-01-13T22:58:22+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1478'
+
 
 tags:
 - HowTo

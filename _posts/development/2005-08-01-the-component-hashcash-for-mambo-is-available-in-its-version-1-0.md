@@ -4,7 +4,7 @@ title: 'the component hashcash for Mambo is available in it&#8217;s version 1.0 
 date: '2005-08-01T13:32:13+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1968'
+
 
 header:
   teaser: /assets/images/2005/08/com_hashcash1.0.png

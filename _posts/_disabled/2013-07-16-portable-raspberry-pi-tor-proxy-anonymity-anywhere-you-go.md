@@ -4,7 +4,7 @@ title: 'Portable Raspberry Pi Tor proxy: anonymity anywhere you go'
 date: '2013-07-16T21:06:04+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=8099'
+
 
 header:
   teaser: /assets/images/2013/07/PortableRaspberryPiTorproxy_thumb.jpg

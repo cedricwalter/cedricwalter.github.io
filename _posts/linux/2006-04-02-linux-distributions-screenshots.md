@@ -4,7 +4,7 @@ title: 'Linux distributions screenshots'
 date: '2006-04-02T23:04:48+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2403'
+
 
 tags:
     - linux

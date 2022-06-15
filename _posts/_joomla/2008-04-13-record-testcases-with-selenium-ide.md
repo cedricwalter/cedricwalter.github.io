@@ -4,7 +4,7 @@ title: 'Record testcases with Selenium IDE'
 date: '2008-04-13T18:37:07+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3408'
+
 
 header:
   teaser: /assets/images/2008/04/open.qa_.logo_thumb.gif

@@ -4,7 +4,7 @@ title: 'NAS @ HOME part 1 building'
 date: '2006-05-23T22:31:03+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2561'
+
 
 header:
   teaser: /assets/images/2006/05/NAS-at-home-header.jpg

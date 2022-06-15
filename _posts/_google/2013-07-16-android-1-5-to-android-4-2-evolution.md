@@ -4,7 +4,7 @@ title: 'Android 1.5 to Android 4.2 Evolution'
 date: '2013-07-16T20:32:10+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=8068'
+
 
 header:
   teaser: /assets/images/2013/07/M4fm9Og_thumb.jpg

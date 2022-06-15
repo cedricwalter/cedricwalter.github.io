@@ -4,7 +4,7 @@ title: 'Releasing Minify4Joomla 1.0.0'
 date: '2009-01-19T22:24:11+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4050'
+
 
 header:
   teaser: /assets/images/2009/01/minify4joomla.png

@@ -4,7 +4,7 @@ title: 'Tags &#038; Folksonomy are now active: I need your help!'
 date: '2008-09-07T11:52:22+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3762'
+
 
 tags:
     - homepage

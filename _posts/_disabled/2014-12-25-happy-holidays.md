@@ -4,7 +4,7 @@ title: 'Happy Holidays'
 date: '2014-12-25T22:21:38+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=8247'
+
 
 ---
 

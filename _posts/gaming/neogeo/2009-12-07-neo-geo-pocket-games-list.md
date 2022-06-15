@@ -4,7 +4,7 @@ title: 'Neo Geo Pocket games list'
 date: '2009-12-07T21:31:53+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4893'
+
 
 header:
   teaser: /assets/images/2009/12/snk-neo-geo-pocket-0016263-2.jpg
@@ -102,7 +102,7 @@ In bold games I already have, [Contact me if you have any items I do not own](ht
 | 43 |  |  |  |  |
 | 44 | Pocket Love IF |  |  |  |
 | 45 | Dark Arms ~Beast Buster 1999~ |  |  | X |
-| 46 | Pachinko Pocket Parlor Guide |  |  |  |
+| 46 | Pachinko Pocket Parlor 
 | 47 |  |  |  |  |
 | 48 | Magical Drop Pocket |  |  |  |
 | 49 | Puzzle Tsunagete Pon! 2 |  |  |  |

@@ -4,7 +4,7 @@ title: 'Protecting Your Security and Privacy with Firefox'
 date: '2006-01-26T14:36:01+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2291'
+
 
 tags:
     - anonymity

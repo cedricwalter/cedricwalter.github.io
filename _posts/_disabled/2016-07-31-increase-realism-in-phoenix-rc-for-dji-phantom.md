@@ -4,7 +4,7 @@ title: 'Increase realism in Phoenix RC for DJI Phantom'
 date: '2016-07-31T12:22:35+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=8545'
+
 
 header:
   teaser: /assets/images/2012/01/phoenixRc_header_thumb.png

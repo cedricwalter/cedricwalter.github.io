@@ -4,7 +4,7 @@ title: 'Nintendo Game and Watch GreenHouse'
 date: '2011-06-04T14:14:02+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=6796'
+
 
 header:
   teaser: /assets/images/2011/06/Game_and_Watch_Nintendo_Green_House_00.jpg

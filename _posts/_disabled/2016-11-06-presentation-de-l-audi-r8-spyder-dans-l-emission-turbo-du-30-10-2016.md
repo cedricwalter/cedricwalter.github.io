@@ -4,7 +4,7 @@ title: 'Présentation de l&#8217;Audi R8 Spyder dans l&#8217;émission TURBO du 
 date: '2016-11-06T11:11:56+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=8598'
+
 
 ---
 

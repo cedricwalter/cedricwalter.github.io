@@ -4,7 +4,7 @@ title: 'Picasa 3.5 available with face recognition / easy geotagging'
 date: '2009-09-27T22:40:28+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4708'
+
 
 header:
   teaser: /assets/images/2009/09/picasa.logo_thumb.jpg

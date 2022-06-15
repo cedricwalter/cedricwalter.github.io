@@ -4,7 +4,7 @@ title: 'Periodic Table of Controllers'
 date: '2010-12-01T20:36:27+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=6383'
+
 
 header:
   teaser: /assets/images/2010/12/periodicTableOfGameController_thumb_9a15bbf3c90e58e30dafea715f82c458.jpg

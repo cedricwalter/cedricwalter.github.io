@@ -4,7 +4,7 @@ title: 'reviews and links in no particular order'
 date: '2004-08-26T23:29:49+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=342'
+
 
 tags:
 - kyosho

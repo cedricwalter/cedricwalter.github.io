@@ -4,7 +4,7 @@ title: 'Jakks TV Games &#8212; SpongeBob SquarePantsTV game systems'
 date: '2010-09-22T18:15:49+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=6070'
+
 
 tags:
     - games

@@ -4,7 +4,7 @@ title: 'Froeningen – Haut-Rhin – Alsace'
 date: '2010-08-29T09:54:57+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=5891'
+
 
 header:
   teaser: /assets/images/2010/08/1200px-Blason_de_la_ville_de_Froeningen_68.svg_.png

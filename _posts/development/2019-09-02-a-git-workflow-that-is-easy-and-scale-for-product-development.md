@@ -4,7 +4,7 @@ title: 'A git workflow that is easy and scale for product development'
 date: '2019-09-02T14:02:00+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=8766'
+
 
 header:
 teaser: /assets/images/2017/04/git-logo.jpg

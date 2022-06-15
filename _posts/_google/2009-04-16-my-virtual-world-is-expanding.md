@@ -4,7 +4,7 @@ title: 'My virtual world is expanding'
 date: '2009-04-16T22:45:19+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4266'
+
 
 ---
 

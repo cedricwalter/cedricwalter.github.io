@@ -4,7 +4,7 @@ title: 'Microsoft wireless entertainment keyboad 7000'
 date: '2007-03-10T13:33:46+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2901'
+
 
 header:
   teaser: /assets/images/2007/03/microsoft.wireless..entretianment.keyboad.7000.jpg

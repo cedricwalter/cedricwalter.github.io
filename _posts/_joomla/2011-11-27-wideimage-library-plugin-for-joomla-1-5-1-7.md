@@ -4,7 +4,7 @@ title: 'WideImage Library Plugin for Joomla 1.5/1.7'
 date: '2011-11-27T13:18:42+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=7320'
+
 
 ---
 

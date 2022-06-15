@@ -4,7 +4,7 @@ title: 'developing in PHP for Mambo?'
 date: '2005-02-27T17:59:26+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1593'
+
 
 tags:
     - environment

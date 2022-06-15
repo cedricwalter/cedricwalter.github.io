@@ -4,7 +4,7 @@ title: 'iPad Keynote in less than 180 Seconds: Incredible, Beautiful, Amazing!'
 date: '2010-02-04T12:27:35+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=5012'
+
 
 tags:
     - beautiful

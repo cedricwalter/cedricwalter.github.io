@@ -4,7 +4,7 @@ title: 'Refactore your code'
 date: '2005-12-10T23:17:07+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2202'
+
 
 tags:
     - code

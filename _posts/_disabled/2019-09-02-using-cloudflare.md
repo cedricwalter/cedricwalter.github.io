@@ -4,7 +4,7 @@ title: 'Using free Cloudflare for CDN and DDoS protection'
 date: '2019-09-02T13:47:59+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=8765'
+
 
 header:
   teaser: /assets/images/2005/11/hacker-textshirt.jpg

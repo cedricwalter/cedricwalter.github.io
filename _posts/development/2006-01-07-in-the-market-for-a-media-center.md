@@ -4,7 +4,7 @@ title: 'In the market for a Media Center'
 date: '2006-01-07T00:15:55+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2264'
+
 
 tags:
     - correctly

@@ -4,7 +4,7 @@ title: 'OpenSUSE 11.1 ships December 18th, 2008 for both download and boxed edit
 date: '2008-03-14T16:01:40+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3975'
+
 
 tags:
     - bugs

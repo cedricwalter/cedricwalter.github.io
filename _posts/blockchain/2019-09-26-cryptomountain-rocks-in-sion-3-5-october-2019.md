@@ -5,7 +5,7 @@ date: '2019-09-26T09:36:23+02:00'
 author: 'Cédric Walter'
 categories:
 - blockchain
-guid: 'https://waltercedric.com/new/?p=8775'
+
 
 header:
   teaser: /assets/images/2019/09/CryptoMountainSion2019-agenda.png

@@ -4,7 +4,7 @@ title: 'bug.waltercedric.com upgraded'
 date: '2008-09-11T20:33:45+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=3768'
+
 
 header:
   teaser: /assets/images/2008/09/mantis_logo_thumb.gif

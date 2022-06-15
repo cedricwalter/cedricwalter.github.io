@@ -4,7 +4,7 @@ title: 'Deploy to Tomcat 6 using Maven'
 date: '2009-04-27T19:30:11+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4300'
+
 
 tags:
     - apache
@@ -45,7 +45,7 @@ The most interesting Maven module, which will be the subject of this article, an
 Locally mean running on your development machine, at localhost 8080 or on any other port. Maven has the concept of a ‘phase’ which can be thought of a collection of goals. Hence here we are specifying that during the   
 ’pre-integration-test’ phase first deploy the web app to the container specific folder and then start the container. Both ‘deployer-deploy’ and ‘start’ are cargo specific goals. The code below is already ready for integration testing!
 
-<!—[Example of Configuration](http://cargo.codehaus.org/Maven2+Plugin+Reference+Guide) –>
+<!—[Example of Configuration](http://cargo.codehaus.org/Maven2+Plugin+Reference+
 
 ```
 <build>

@@ -4,10 +4,10 @@ title: 'Neo Geo UNIBios 4.0 is now free for personal use'
 date: '2020-03-26T21:16:51+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/?p=11109'
 
-ngg_post_thumbnail:
-    - '0'
+
+
+    
 header:
   teaser: /assets/images/2020/03/unibios-4-snk-neogeo.png
 tags:

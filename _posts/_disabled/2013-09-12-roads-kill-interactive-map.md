@@ -4,7 +4,7 @@ title: 'Roads Kill interactive map'
 date: '2013-09-12T12:10:43+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=8167'
+
 
 header:
   teaser: /assets/images/2013/09/image.png

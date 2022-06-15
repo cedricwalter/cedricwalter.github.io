@@ -4,7 +4,7 @@ title: 'J2EE Patterns, Patterns Use them!'
 date: '2005-01-18T23:08:50+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1485'
+
 
 ---
 

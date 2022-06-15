@@ -4,7 +4,7 @@ title: 'Setting the CPU speed of your Linux server'
 date: '2009-02-06T21:14:03+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=4095'
+
 
 header:
   teaser: /assets/images/2011/05/linux.png

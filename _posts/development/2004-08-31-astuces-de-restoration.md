@@ -4,7 +4,7 @@ title: 'Astuces de restoration'
 date: '2004-08-31T22:30:45+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=535'
+
 
 ---
 

@@ -4,7 +4,7 @@ title: 'Crash logs'
 date: '2004-09-01T22:57:23+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=839'
+
 
 tags:
     - 'RC helicopter'

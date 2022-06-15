@@ -4,7 +4,7 @@ title: 'Ubuntu 6.10 in action'
 date: '2007-02-23T21:45:22+01:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=2887'
+
 
 tags:
 - OpenSuse

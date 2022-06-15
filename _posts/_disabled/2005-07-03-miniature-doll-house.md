@@ -4,7 +4,7 @@ title: 'Miniature doll house'
 date: '2005-07-03T10:45:03+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=1813'
+
 
 header:
   teaser: /assets/images/2005/07/tn_dollHouse01.jpg

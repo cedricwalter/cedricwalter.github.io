@@ -4,7 +4,7 @@ title: 'Eclipse Indigo/New and Noteworthy'
 date: '2011-06-22T21:17:09+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=6889'
+
 
 header:
   teaser: /assets/images/2011/06/eclipse_indigo_aka_3_7.png

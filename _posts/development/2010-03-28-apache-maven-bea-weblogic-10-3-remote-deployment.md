@@ -4,7 +4,7 @@ title: 'Apache Maven BEA Weblogic 10.3 remote deployment'
 date: '2010-03-28T19:14:26+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=5099'
+
 
 header:
   teaser: /assets/images/2011/11/maven-logo-black-on-white-1.png

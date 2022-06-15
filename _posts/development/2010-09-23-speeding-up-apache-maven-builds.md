@@ -4,7 +4,7 @@ title: 'Speeding up Apache Maven Builds'
 date: '2010-09-23T19:59:46+02:00'
 author: 'Cédric Walter'
 
-guid: 'https://waltercedric.com/new/?p=6272'
+
 
 header:
   teaser: /assets/images/2011/11/maven-logo-black-on-white-1.png

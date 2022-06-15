@@ -3,26 +3,25 @@ id: 8398
 title: 'Hewlett Packard Calculator Emulators for Windows'
 date: '2016-05-30T21:01:41+02:00'
 author: 'Cédric Walter'
-
-
-
+categories:
+- calculators
 tags:
-    - calculator
-    - contact
-    - emulator
-    - generated
-    - graphical
-    - graphing
-    - hewlett
-    - hp
-    - list
-    - museum
-    - only
-    - packard
-    - rpn
-    - scientific
-    - small
-    - windows
+- calculator
+- contact
+- emulator
+- generated
+- graphical
+- graphing
+- hewlett
+- hp
+- list
+- museum
+- only
+- packard
+- rpn
+- scientific
+- small
+- windows
 ---
 
 My collection represents only a small fraction of Hewlett Packard calculators.
@@ -44,7 +43,7 @@ My collection represents only a small fraction of Hewlett Packard calculators.
 - [HP 300s+](/assets/images/2016/05/HP_300s_Virtual_Calculator.zip)
 - [HP 15c](/assets/images/2016/05/HP_15C_Virtual_Calculator_2012_11_29.zip)
 
-### FInance calculators
+### Finance calculators
 
 - [HP 12c](/assets/images/2016/05/HP_12C_Virtual_Calculator_2012_11_29.zip)
 - [HP 12c Platinum](/assets/images/2016/05/HP_12c_Platinum_Virtual_Calculator_2012_12_10.zip)

@@ -3,31 +3,38 @@ id: 6904
 title: 'HP calculator museum: Hewlett Packard HP 50g Graphing Calculator'
 date: '2011-07-14T21:29:00+02:00'
 author: 'Cédric Walter'
-
-
-
+categories:
+- calculators
 header:
-  teaser: /assets/images/2011/07/hp50gGraphingCalculator_thumb.jpg
+overlay_image: /assets/images/2011/07/hp50gGraphingCalculator_thumb.jpg
+teaser: /assets/images/2011/07/hp50gGraphingCalculator_thumb.jpg
+caption: "HP 50g"
 tags:
-    - calculator
-    - engineering
-    - graphing
-    - hp
-    - museum
-    - rpn
-    - Science
-    - scientific
+- calculator
+- engineering
+- graphing
+- hp
+- museum
+- rpn
+- Science
+- scientific
 ---
 
 [![hp50gGraphingCalculator](/assets/images/2011/07/hp50gGraphingCalculator_thumb.jpg "hp50gGraphingCalculator")](/assets/images/2011/07/hp50gGraphingCalculator.jpg)
 
-The ultimate graphing calculator for surveying, engineering, math and science professionals and students is even better. The new HP 50g graphing calculator features an SD card slot with formatting functions, RPN~, Algebraic and Textbook data entry, the largest high-contrast screen with more usable space than ever, serial port and USB and connectivity. Plus, HP Solve, structured programming and Computer Algebra System (CAS).
+The ultimate graphing calculator for surveying, engineering, math and science professionals and students is even better.
+The new HP 50g graphing calculator features an SD card slot with formatting functions, RPN~, Algebraic and Textbook data
+entry, the largest high-contrast screen with more usable space than ever, serial port and USB and connectivity. Plus, HP
+Solve, structured programming and Computer Algebra System (CAS).
 
-This calculator is also having the MetaKernel build in and the picture I did pixel by pixel on 20th march 1998 signed “CW” in the bottom left corner when you cold start it (ON-C no data loss, just a software reset). This work with any HP50g including emulators since the image is in the rom.
+This calculator is also having the MetaKernel build in and the picture I did pixel by pixel on 20th march 1998 signed
+“CW” in the bottom left corner when you cold start it (ON-C no data loss, just a software reset). This work with any
+HP50g including emulators since the image is in the rom.
 
 # Features
 
-- ![alt](http://welcome.hp-ww.com/img/s.gif)Massive 2.5MB total memory—512KB RAM plus 2MB flash ROM for performing future upgrades
+- ![alt](http://welcome.hp-ww.com/img/s.gif)Massive 2.5MB total memory—512KB RAM plus 2MB flash ROM for performing
+  future upgrades
 - Equation library and 2300+ built-in functions—ideal for both professionals and students
 - FREE USB connectivity kit with USB cable, connectivity software and pouch included
 - Choose RPN, Textbook and Algebraic entry and customize data with four font sizes and styles

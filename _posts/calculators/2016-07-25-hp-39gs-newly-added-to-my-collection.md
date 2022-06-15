@@ -3,24 +3,26 @@ id: 8490
 title: 'HP calculator museum: Hewlett Packard HP 39GS newly added to my collection'
 date: '2016-07-25T11:47:02+02:00'
 author: 'Cédric Walter'
-
-
-
+categories:
+- calculators
 header:
-  teaser: /assets/images/2016/07/hp39gc-header.jpg
+overlay_image: /assets/images/2016/07/hp39gc-header.jpg
+teaser: /assets/images/2016/07/hp39gc-header.jpg
+caption: "HP 39gs"
 tags:
-    - calculator
-    - graphing
-    - hp
-    - museum
-    - rpn
-    - scientific
+- calculator
+- graphing
+- hp
+- museum
+- rpn
+- scientific
 ---
 
 The latest addition to my collection: a hp39gs #calculator paid 5€
 
-#HP 39gs 
-is the replacement model for the #HP 39gs #Graphing #Calculator. Serial and USB cable included. The #HP 39gs is permitted for use during SAT I, SAT II Math IC / IIC, ACT, PSAT / NMSQT, AP Chemistry / Physics, PLAN, EXPLORE exams.
+# HP 39gs
+is the replacement model for the #HP 39gs #Graphing #Calculator. Serial and USB cable included. The #HP 39gs is
+permitted for use during SAT I, SAT II Math IC / IIC, ACT, PSAT / NMSQT, AP Chemistry / Physics, PLAN, EXPLORE exams.
 
 - 75 MHz ARM9 #CPU
 - Display size: 131 x 64 pixel

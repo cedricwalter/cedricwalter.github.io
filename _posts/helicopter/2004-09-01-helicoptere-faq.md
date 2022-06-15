@@ -13,6 +13,173 @@ tags:
 
 ---
 
+## Why did I buy so much helicopters?
+because it is very difficult to find a helicopter that match your needs :
+- easy to maintain,
+- part not too expensive (ex: Futura),
+- not too much high end,
+- not too complex to maintain (ex. Moskito),
+- easy availability of parts (worse for heaven),
+- bad friend's advices,
+- want to try electric (mistake on NiCad).
+
+## Les upgrades
+- Jamais de pieces métal tu n’achèteras ! parce que ce : elle se casse aussi, se plie, se voile et en cas de crash elles
+  alourdissent la facture !
+- Néanmoins, voici les rares pièces qui méritent des fois d’être changé (si l’original est vraiment merdique)  
+  – Wash out ou barre anti-rotation.  
+  – swash-plate ou plateau cyclique  
+  – Main rotor hub ou tête rotor central métal. (deja du luxe)  
+  – Les mixeurs mécaniques ou la commande de cyclique qui peut fléchir (uniquement pour les fous de la 3D).
+
+## Economies
+
+- Le frein filet vaut 10â&#130;¬ les 60ml dans les magasins de bricolage, ne l'acheter pas au magasin de modélisme. Ne
+  pas en mettre si la vis rentre dans du plastique. (dans le doute, en mettre et suivre laa notice)
+- Tige filetée dans les grandes surfaces de bricolage, tige carbone au rayon cerfs volant ou arc des grandes surface de
+  sport.
+- L'OS8 c'est 23 fr a Singapoure (je vous laisse deviner le magasin!!!!). A acheter en groupe.
+- Pas de pales fibres pour les débutants ! sauf si les pales bois sont aussi chère…
+- Idem le pot d'origine est suffisant ! tu ne verras debutant pas de difference avec un hatori a 100euros
+- Pas d'helico en taille 60 (pour les débutants) ! le crash coute en moyenne deux fois plus… les servos doivent etre de
+  bonne qualité, le moteur gougloute 2x plus aussi…. Enfin un debutant a plus de chance d'arrêter (cause : femme,
+  decouragement, un bébé, une grosse peur, un crash bien cher etc….)
+- Les vis s'achètent aux poids chez Ecovis ou un revendeur industriel, les 100 vis 3mm 30 mm long six pans creux : 11
+  euros
+- Regroupez-vous ! pour les achats essences, bougies et demander un prix ! si le marchand refusent aller voir ailleurs :
+  vive le marché Europeen ! et le conseil de votre revendeur me direz-vous ? eh bien sur le net, on a plus d'info que
+  chez n'importe qui…
+- Les prix sont scandaleux en france, en moyenne 2 fois plus cher qu'aux USA et encore plus au japon. Regroupons-nous
+  pour commander ! TVA, charges fixes et variable n'explique pas tout.
+- Pièces d'origines… meme si le fabricant ne cautionne pas cela, n'acheter pas toujours ses pièces… explications :
+  patins, haubans, pales rotor, barre de bell, palettes de bell, bulles, sont souvent interchangeable avec d'autre
+  marque (kyosho avec thunder tiger et inversement). Acheter les pièces les moins chers !
+- On ne répare aucunes pièces sur un helico! oui, c'est vrai, mais pas toujours!
+
+|                                                   | Oui c'est Réparable                                                                                                                          | Non Réparable, direct Ã la poubelle                            |
+|---------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|
+| Axes divers: principale, anti-couple, porte-pales | NON                                                                                                                                          | Non, redresser fragilise le métal, et introduit des vibrations |
+| pales                                             | Oui si léger impact sur bord de fuite, moi je les jetterai toujours par prudence –>                                                          | Non, votre securité ou vie vaut plus que 40â&#130;¬            |
+| Palettes                                          |                                                                                                                                              | Non                                                            |
+| Patins                                            | Oui! bi-composant et ou garrot au fil a coudre, plaque etc                                                                                   |                                                                |
+| Haubans                                           | Oui! remplacer par de la tige quelconque, un garrot avec un tube d'un diamètre supérieur.                                                    |                                                                |
+| Chassis                                           | Oui et non, platine radio: oui mais attention seulement si les dommages sont léger! De plus vous devez avor la mÃªme rigidité qu'auparavant. |                                                                |
+| Dérives                                           | Oui mais attention a la rigidité après réparations                                                                                           |                                                                |
+| Canopy                                            | Si plastique oui cela reprend sa forme en général, fibre il y a deja plus de boulot                                                          |                                                                |
+|                                                   |                                                                                                                                              |                                                                |
+
+- Ne racheter pas betement les pièces du constructeur ! comparer! un patin d'atterrissage de taille 30 reste un patin,
+  les haubans, palettes de rotor d'anticouple, pales rotor, canopies, palette de bell etc… sont interchangeables ou
+  adaptable. Votre objectif : voler pas cher, car vous allez forcément casser (tant va la cruche a l'eau qu'a la fin elle
+  casse….)
+
+## Les bons reflexes à avoir
+
+- Votre hélicoptère fait un bruit bizarre, inhabituel en vol ou entre 2 vols consécutifs, poser et verification
+  complète !
+- Tout d’un coup les trims changent et de beaucoup (plusieurs crans), posez et rechercher une rotule qui ne tient plus
+  “que par un fil” ou un bug dans la mécanique. Abstenez-vous de voler sans avoir trouvé !
+- Vous n’avez pas envie ou la tête à voler aujourd’hui, ne vous forcer pas ! c’est dans ces jours que l’on casse.
+- Raler si un de vos amis, vole trop près des stands ou de vous ! votre vie et ses bêtises sont intimement liés !
+- Dite vous que si vous ne respectez pas un montage soigneux, cela se paiera par un crash ou pire encore !
+- Moniteur d’accus dans l’orange, on ne décolle plus ! les fabricants ne garantissent plus la qualité de fonctionnement
+  en dessous d’une certaine tension.
+- La frime cela ne paye pas surtout dans ce passe-temps, rester humble en toute circonstance…et respecter les limites de votre
+  pilotage (au simulateur une nouvelle figure qui finit par terre ne coute rien…). Si on vous demande ce que un hélico
+  Rc peut faire, récupérer des video sur le net des prodiges du pilotage. (Curtiss Younblood, Jason Krause, Snazbo Jr
+  etc)
+- Garder votre machine propre ! Exit les machines huileuses…
+- Ne pas huiler les chapes, la poussière s’y accrochera plus facilement et fera papier abrasif, les changer si on peut
+  les arracher sans effort avec l’index. De même ne pas graisser les courrones en plastique surtout si elles sont en
+  plastique delrin (le delrin est auto lubrifiant)
+- L’hélico attire les gens, c’est un fait…. si des promeneurs s’arrêtent pour vous admirer, voler, poser vous
+  immédiatement et inviter les à se mettre derrière vous, et loin…. et pas devant ou sur les côtés. Poser vous de suite
+  si ils s’approchent, car vous étes responsable en cas d’accident.
+- Une pièce tordue ne se redresse pas (quoique des fois : haubans, patins oui) mais pas pour les pièces en rotation
+  dynamique et sous contraintes. Elles seront plus faible et introduiront des vibrations parasites.
+- Réparations : On ne Colle JAMAIS les pales ou palettes de bell. si elles sont brisées !. Tout au plus un acro léger
+  dans le bord de fuite peut être réparés et encore il vous faudra les rééquilibrer. Oublier…..votre vie faut plus que
+  40€
+- Entre les vols et pendant que vous refaites le plein, profiter en pour inspecter rapidement l’hélicoptère : les
+  chapes, tiges de commandes, mixeurs, pales, si toutes les vis sont la etc…
+- Plus vous avez un fort taux de nitro (mais déja dès 1%) éviter de respirer les gazs d’échappements, c’est super
+  mauvais pour la santé (le Nitrométhane est toxique au contact, par inhalation etc…)
+
+## FT Canopy hitting swash-plate
+It can be very dangerous to have your swash-plate being caught while flying by the correct FT canopy (fiber). You will
+have to remove a small amount of material in order to fly safe. (use a dremel)
+
+## If your heli do not have enough power
+
+Normally newbies never complains about this… try in order (first item are costing nothing, last solution is the most
+expensive):
+
+- Adjust your pitch curves (too much Â° pitch asked ?),
+- Adjust your throttle curves,
+- Add more nitromethan, try 15% then 30%, but be careful of the fuel price and lifetime of engine!
+- Switch for an exhaust pipe, (Hatori…) +5 to +7% increase
+
+- Use smaller blade, (505mm instead of 550 mm),
+- Change for a better motor, (OS46 or OS50 instead of 30”size)
+
+For more basics advices, search for FAQs on internet, a lot of documents has been already written…..
+
+## History and advices to RC helicopters novices
+There are a number of good entry level heli's on the market at varying prices, such as the TT Raptor 30 and the Kyosho
+Caliber 30
+
+Some points to consider are:  
+1- availability of parts (be it from your local LHS or mail order or net order (helps when you have a mishap and break
+something)  
+2- the availability of assistance (your choice may be a more problem prone then something else, so it will help if you
+have someone locally that has had the same problems and solved them). It also helps if you have locals who can help you
+with the initial heli, radio and engine set up.  
+3- the dependability of the units – the few problems you may have to solve with the heli (e.g clutch systems that are
+prone to early wear and failure, rotor heads that are more susceptible to blade flutter, engines that wah-wah, mufflers
+that are loud. leak and/or break, support struts that may have a tendency to break, swash-plates and other parts of the
+control system that develop excessive play early on will still fly but will greatly increase the workload on your two
+thumbs and slow your progress.  
+4- the durability of the unit – the fewer the parts that break in a crash the easier it will be to fix and probably the
+lower will be the cost to fix. If brand A has less expensive parts but the lower mainframe breaks more easily then brand
+B then it may cost more to repair as you will have extra parts to buy.  
+5- the cost of parts – in conjunction with the above will reflect on the cost of the repair  
+6- cost of maintenance – the less dependable units will have higher maintenance costs in both money and time. The money
+and time spend replacing clutches for example can be considered with the cost of repairing crashes.  
+7- running costs – here the 30 size come out way ahead.  
+8- short term to long term costs – a heli that is relatively low priced and can easily be set up to be trainer stable in
+the hover and later be set up for hard 3D and aerobatics before wearing out or needing expensive upgrades will offer
+both advantages. Ditto for radio, gyro and engine /exhaust combinations
+
+I use to have a raptor in 2000, but it has a so strong woof and poof… and since nothing seems to cure the problem (i
+changed so many parts in it, it cost me a lot in time and money) : as a result I do not really fly much in 2001, add the
+the very bad weather (it was raining everytime during weekend). A friend decide to buy a Mosquito (he has the same
+issue with his raptor) and i did the same too (bought in UK for a very low price). Then a Futura entered in my fleet
+but only for 1 months. I was too scared each time i was flying : what would cost me a crash ??. In february 2002, I buy
+another used raptor 30 with a lot of parts for a very low price, then found the eRaptor and the heaven on ebay……..I will
+stay with the raptor, and I know some pilot who now resells their Futura or Millenium : too expensive : a crash with a
+Robbe Millenium can cost you 2 raptor kit 30 ARF!
+
+### Now I must admit
+
+that I do the same mistake as many pilot : I upgrade my machine too much. "take a good exhaust", "add a metal part
+here : less slope". "change this, you need better servo" As a result you have a machine who cost nearly
+1500â&#130;¬ !!!!! but know I recover my mind, and exchange all parts, gaining 5% or less with a better exhaust at
+120â&#130;¬ is for me now crazy: a crash, and you lost everything…… so keep your raptor stock ! Robbe and other company
+should reduce their part's prices. Do not try to follow experimented pilot or people who are doing competition: they do
+not always pay their heli… (free from manufacturer)
+
+### Tips
+- Flying heli is fun, but it is even better if you fly a cheap and easy to repair heli, forget high-end heli with lot of
+  upgrade or carbon frames, forget 60 size for everyday flight.
+- Choose upgrades that can increase SECURITY of your model and persons, nothing else. Upgrades part can break or usually
+  bend in a crash (metal swash plate….)
+- You can increase security by only changing some parts in your heli or following some advices/tips from experimented
+  pilot or forums.
+- A crash can occur at ANY TIME, don't play poker with your life ! always sacrifice the heli ! it is just a mechanical toy,
+  and you can buy many parts to repair it, it is not the case for your body or for replacing killed people…..
+- Cause of crash in increasing order : external events (birds, collision with airplane) -> mechanical failures -> radio
+  glitches -> pilot MISTAKES
+
 ## How to control/input stick
 
 ![Controlling a RC Helicopter](/assets/images/2004/09/Inputresult.gif)
@@ -412,3 +579,116 @@ changes the operating temperature and you have a different engine on your hands.
 became evident that information on nitro is very scarce. So if anyone out there has more information or would like to
 comment on or "discuss" any part of this article, please let me know c/o Rotory or at my CompuServe address:
 100240,2265. IAN McDONALD
+
+## Why Model Helicopters are better than women
+
+1. Un hélicoptère vous tuera immédiatement, une femme prendra son temps.
+2. Un hélicoptère peut s'allumer en
+   poussant un interrupteur.
+3. Un hélicoptère ne devient pas fou si vous
+4. Un hélicoptère supporte une inspection
+   de pré-vol.
+5. Un hélicoptère est livré avec un manuel.
+6. Un hélicoptère respecte des contraintes de poids et
+   d'équilibrage strictes.
+7. Vous pouvez voler avec votre hélicoptère tous les jours du mois.
+8. Les hélicoptères ne
+   viennent pas avec un contrat
+9. Peu importe pour un hélicoptère avec combien d'autres vous avez déja volé.
+10. Quand vous voler, vous et votre hélicoptère arrivez en meme temps.
+11. Un hélicoptère ne vous tient pas
+    rigueur, si vous regarder d'autre hélicoptère, ou si vous acheter des magazines spécialisés. 13. Un
+    hélicoptère est partant si vous utilisez des rilsans.
+
+12. A helicopter will kill you quickly. a woman takes her
+    time.
+13. Helicopters can be turned on by a flick of a switch.
+14. A helicopter does not get mad if you "touch and go".
+15. A helicopter does not object to a preflight inspection.
+16. Helicopters come with manuals.
+17. Helicopters have
+    strict weight and balance limits.
+18. You can fly a helicopter any time of the month.
+19. Helicopters don't come with
+    in-laws.
+20. Helicopters don't whine unless something is really wrong.
+21. Helicopters don't care about how many other
+    helicopters you have flown.
+22. When flying, you and your helicopter both arrive at the same time.
+23. Helicopters
+    don't mind if you look at other helicopters, or if you buy helicopter magazines.
+24. It's OK to use tie-downs on your
+    helicopter. 
+
+## Tracking problems
+Verify
+- Thrust bearings in the rotor head installed properly (not reverse)?
+- Radial bearings in the head not damaged? -> change them
+- Bearings in the blade holders are moving -> loctite the bearing or replace blade holders, or buy 'upgrade' metal blade
+  holders
+
+Actions
+- Grease the dampener rubbers, this has proved to cure some woof and poof on raptor 30v1
+
+## Adding oil to you fuel
+
+If you have 15/16 percent (nitro/oil) mix fuel and want to go for 20% oil – it can made help the OS .32 to run cooler
+and have a little more top-end power.
+
+a = 1.28(d – c)/(1 – d/100)
+
+where:   
+a = amount of oil you need to add (in oz)   
+d = desired oil percentage (use 20 for 20%, for example)   
+c = current oil percentage (use 16 for 16%, for example)
+
+So you if you want d = 20 (20% oil), c = 16 (actually you have 16% oil) result a = 6.4 (ie, add 6.4 oz of oil to each
+gallon of fuel).
+
+Note that by adding oil, you're reducing your nitro % a little. My figures show that my nitro is now down to about
+14.3%… Seems to be a good trade.
+
+## Hélicoptère Electric ou Thermique ?
+[![Thunder_Tiger_eRaptor](/assets/images/2004/09/Thunder_Tiger_eRaptor_thumb.jpg "Thunder_Tiger_eRaptor")](/assets/images/2004/10/Thunder_Tiger_eRaptor.jpg)
+
+L’avenir de l’hélico passe par la motorisation électrique mais pas encore dans l’immédiat, 5 a 10 ans de patience a mon
+avis. Le temps que les piles à conbustibles/de meilleures batteries que les Nicad/NiMh soient disponible. En attendant et
+si vous savez piloter, considérer un hélico électrique en 10 ou max 16 élts, surtout pas en 24 ou 30 élts, ce sont de
+vrai gouffre financier. Ci-dessous un tableau comparatif des avantages et inconvénients des deux mondes…
+
+prix en Euro €
+
+|                                                                     | Thermiques                                                                                                                                                                                                                                                                                                                                       | Electriques                                                                                                                                                                         |
+|---------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                                                                     | os50sx    sur une base de Thunder Tiger Raptor 30                                                                                                                                                                                                                                                                                                | plettenberg    sur une base de Thunder Tiger Raptor 30 en 24 élts                                                                                                                   |
+| Moteur                                                              | 190                                                                                                                                                                                                                                                                                                                                              | 240                                                                                                                                                                                 |
+| Contrôleur                                                          | 0                                                                                                                                                                                                                                                                                                                                                | 90                                                                                                                                                                                  |
+| Bougies 1 pour 12 pleins                                            | 31                                                                                                                                                                                                                                                                                                                                               | 0                                                                                                                                                                                   |
+| Durite                                                              | 5                                                                                                                                                                                                                                                                                                                                                | 0                                                                                                                                                                                   |
+| Cables électrique de qualité                                        | 0                                                                                                                                                                                                                                                                                                                                                | 3                                                                                                                                                                                   |
+| servo cmd de gazs                                                   | 15.25 le minimum, un fataba 3001                                                                                                                                                                                                                                                                                                                 | 0                                                                                                                                                                                   |
+| Démarreur                                                           | 38.11 le minimum un eco 60                                                                                                                                                                                                                                                                                                                       | 0                                                                                                                                                                                   |
+| Socket                                                              | 7.62                                                                                                                                                                                                                                                                                                                                             | 0                                                                                                                                                                                   |
+| Pot                                                                 | 42.7                                                                                                                                                                                                                                                                                                                                             | 0                                                                                                                                                                                   |
+| Cloche embrayage raptor                                             | 0                                                                                                                                                                                                                                                                                                                                                | 0                                                                                                                                                                                   |
+| Rallonge démarreur                                                  | 9.15                                                                                                                                                                                                                                                                                                                                             | 0                                                                                                                                                                                   |
+| Chargeur                                                            | 15.25 Un chargeur bas de gamme suffit mais n’est pas recommandé pour la sécurité de vos modèles.                                                                                                                                                                                                                                                 | 190.56 Un chargeur haut de gamme type UltraDuo 2 est indispensable.                                                                                                                 |
+| Consommables pour 116 h rc2400 en 24 elts ou synth glow 1% de nitro | 518.33                                                                                                                                                                                                                                                                                                                                           | 110                                                                                                                                                                                 |
+| total EURO €                                                        | 872.41 €                                                                                                                                                                                                                                                                                                                                         | 633.56 €                                                                                                                                                                            |
+| Consommables calcul                                                 | 116 heures pour 174 litres a 1,5l a l’heure type os50sxH                                                                                                                                                                                                                                                                                         | 116 heures pour 1000 charge à 7min de vol par charge (la réalité serait plutot 400 charges..)                                                                                       |
+| Avantages / inconvénients                                           |                                                                                                                                                                                                                                                                                                                                                  |                                                                                                                                                                                     |
+| Temps de vols                                                       | 13 min                                                                                                                                                                                                                                                                                                                                           | 6,5 a 11 min suivant type de vol et la vitesse rotor                                                                                                                                |
+| Pause entre vol                                                     | Aucune hormis le temps de refaire le plein, vérifier accus et faire la checklist de prévol.                                                                                                                                                                                                                                                      | Si vous avez 1 seule batterie, 30 min entre les vols    (charge et refroidissement moteur-accus)                                                                                    |
+| Réglages                                                            | Fréquents suivant votre essence et les conditions atmospheriques (humidité et températures)                                                                                                                                                                                                                                                      | Aucun si le contrôleur a un mode gouvernor integré (régulation de la vitesse du rotor).                                                                                             |
+| Maintenance                                                         | Nettoyage des filtres, changement des durites, bougies, nettoyage du moteur si arrÃªt prolonge. Nettoyage après chaque vol car la mécanique est huilé.                                                                                                                                                                                           | Aucune maintenance avec un moteur brushless. La mécanique reste propre et non grasse.                                                                                               |
+| Distribution de la puissance                                        | Constante jusqu’a la dernière goutte de carburant. Le moteur peut couper Ã tout moment.                                                                                                                                                                                                                                                          | Baisse progressive la derniere minute puis risque de perte de l’appareil soudaine (autorotation)                                                                                    |
+| Rapport poids puissance                                             | Très bon                                                                                                                                                                                                                                                                                                                                         | Mauvais encore aujourd’hui mÃªme avec des li-ion.                                                                                                                                   |
+| Puissance                                                           | 2.7CV                                                                                                                                                                                                                                                                                                                                            | Les moteur Actro développe jusqu’a 1200 Watts                                                                                                                                       |
+| Facilité d’emploi                                                   | Moyen                                                                                                                                                                                                                                                                                                                                            | Trés facile                                                                                                                                                                         |
+| Investissement                                                      | Peu élevée mais les consommables coutent cher sur la distance, Ã 30â&#130;¬ les 10 litres.                                                                                                                                                                                                                                                       | Tres élevée, mais peu de consommables par la suite a acquérir                                                                                                                       |
+| Sécurité                                                            | Bonne mais attention les moteurs thermiques vibrent plus                                                                                                                                                                                                                                                                                         | Faites attention aux interférences du contrôleur et aux tops radio qui peuvent faire démarrer le moteur n’importe quand !                                                           |
+| Bruit                                                               | Elevé > 80dB                                                                                                                                                                                                                                                                                                                                     | Bruit moyen et presque agréable. Il devient possible de voler sous le vent à proximité de résidences.                                                                               |
+| Pollution                                                           | Le nitrométhane est très toxique au contact et a l’inhalation: affection pulmonaire et Cancer                                                                                                                                                                                                                                                    | Pas d’émission toxiques en fonctionnement hormis si il y a rejet des batteries dans la nature.    Radiation ElectroMagnétique trés forte mais diminuant rapidement avec la distance |
+| Simplicité                                                          | Engrenages et réduction sont sources de vibration,                                                                                                                                                                                                                                                                                               | Légereté de la mécanique sans accus, simplicité car souvent un embrayage direct sans cloche                                                                                         |
+| Conclusions                                                         | L’avenir de l’hélico passe par la motorisation électrique mais pas encore aujourd’hui, 5 a 10 ans de patience a mon avis. Le temps que les piles à conbustibles soient disponible. En attendant et si vous savez piloter, considérer un helico électrique en 10 ou max 16 élts, surtout pas en 24 ou 30 élts, ce sont de vrai gouffre financier. |
+

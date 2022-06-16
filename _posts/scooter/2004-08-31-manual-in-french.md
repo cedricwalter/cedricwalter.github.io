@@ -25,15 +25,14 @@ N’ayant pas trouvé de copyright dans le manuel, ni aucun droit de reproductio
  POUR VOTRE SECURITE N’UTILISEZ QUE DES PIECES D’ORIGINE, QUI SONT TOUTES RIGOUREUSEMENT CONTROLEES.
 
 Désignation
-
- Caractéristiques techniques 
- Commandes du MANURHIN 
- Conseils de rodage 
- Première sortie – Utilisation 
- Entretien du MANURHIN
- Description technique 
- Démontages, remontages, réglages 
- Pannes et leurs remèdes
+* Caractéristiques techniques 
+* Commandes du MANURHIN 
+* Conseils de rodage 
+* Première sortie – Utilisation 
+* Entretien du MANURHIN
+* Description technique 
+* Démontages, remontages, réglages 
+* Pannes et leurs remèdes
 
 # AVANT-PROPOS
 
@@ -169,8 +168,7 @@ COMMANDES DIVERSES
 Contrairement aux débrayages classiques, le débrayage du MANURHIN ne sert que pour démarrer ou s’arrêter : en effet, dès qu’on a démarré, il n’y a plus besoin de débrayer pour passer les vitesses, puisque le Variateur continu automatique évite cette manoeuvre ! Il n’y a pas d’autre moyen que ce levier pour supprimer la liaison entre le moteur et la roue arrière. Aussi pour lancer le moteur, il est nécessaire de le mettre en position de débrayage il est maintenu dans cette position par un cliquet situé sur le levier de débrayage.  
 1l est déconseillé de débrayer lorsque le moteur tourne plein régime. Fermez les gaz et ne débrayez qu’au dernier moment.
 
-4°) COMMUTATEUR. – Il se trouve sur le 
-5°) LA POIGNÉE DE MISE EN MARCHÉ DI MOTEUR. – Elle se trouve sur le côté gauche du véhicule, sert lancer le moteur. Pour cela, étant assis sur le scooter, apr avoir serré le levier de débrayage jusqu’ ce que celui-ci se bloqi avec son cliquet, il suffit de tirer rapidement la poignée vers le hai jusqu’ la hauteur de la selle environ. Ce mouvement entraîne moteur par l’intermédiaire d’un câble enroulé sur un tambour.  
+4°) COMMUTATEUR. – Il se trouve sur le LA POIGNÉE DE MISE EN MARCHÉ DI MOTEUR. – Elle se trouve sur le côté gauche du véhicule, sert lancer le moteur. Pour cela, étant assis sur le scooter, apr avoir serré le levier de débrayage jusqu’ ce que celui-ci se bloqi avec son cliquet, il suffit de tirer rapidement la poignée vers le hai jusqu’ la hauteur de la selle environ. Ce mouvement entraîne moteur par l’intermédiaire d’un câble enroulé sur un tambour.  
 Eviter de mettre en route debout. Dans ce cas, si on ne pe faire autrement, éviter de tirer sur le câble A FOND ! Cette manse vre répétée peut la longue provoquer la rupture prématurée i câble de démarrage.  
 6°) LA BÉQUILLE. – Elle sert maintenir le scooter l’arrêt. On l’abaisse très facilement avec le pied, et lorsqu’elle < en position basse, le scooter tient parfaitement debout.  
 Avant de repartir, il suffit de repousser la béquille en arriè avec le pied – mouvement facilité par un ressort de rappel qui rabat dans sa position de route.  
@@ -207,7 +205,7 @@ PREMIÈRE SORTIE UTILISATION
 
 a) MISE EN MARCHE DU MOTEUR. – Étant assis sur la machine  
 – S’assurer que le commutateur d’éclairage est en position zéro.  
-– Serrer le levier de débrayage jusqu’ enclanchement du cliquet.  
+– Serrer le levier de débrayage jusqu’a enclanchement du cliquet.  
 – Ouvrir le robinet d’essence.  
 – Lever la commande du starter (moteur froid seulement).  
 – Tourner la poignée des raz vers I arrière d’environ 1/4 de sa course.  
@@ -301,5 +299,5 @@ Avec la vis (11 ) on règle la marche du moteur au ralenti. Le boisseau des gaz 
 ![](/assets/images/2004/08/pic6.jpg) 
 Le schéma de l’installation électrique existante sur le MANURHIN est figurée sur notre dessin
 
-| ![](/assets/images/2004/08/pic7.jpg) | \| \\| LE CARBURATEUR Il s’agit ici d’un carburateur Ã aiguille avec volet de, départ, fabrication BING, type 4/14/1. Lorsque le robinet d’essence est ouvert, le carburant pénÃ¨tre dans la cuve Ã niveau constant (3) en passant par un raccord en laiton (I) qui contient Ã l’intérieur un tamis d’essence (2). L’arrivée de l’essence est réglée par un pointeau (5) actionné par le flotteur (4). Le carburant arrive ensuite dans le gicleur Ã pointeau (7) en passant tout d’abord par la buse (6). La descente du piston, pendant la course d’admission, crée un vide partiel dans le cylindre, qui a pour effet d’aspirer l’essence, Ã partir du gicleur Ã pointeau, en mÃªme temps que l’air extérieur. Un mélange air et essence se forme dans la chambre (8). La quantité du mélange air-essence pénétrant dans le moteur, (donc sa vitesse et sa puissance), sont réglés d’un cÃ´té par le boisseau des gaz (9) actionné par l’intermédiaire du levier (13) et de l’autre cÃ´té par la position de l’aiguille (10). Plus vous tournez vers l’arriÃ¨re la poignée des gaz située sur la 
-|---|
+![](/assets/images/2004/08/pic7.jpg) 
+LE CARBURATEUR Il s’agit ici d’un carburateur Ã aiguille avec volet de, départ, fabrication BING, type 4/14/1. Lorsque le robinet d’essence est ouvert, le carburant pénÃ¨tre dans la cuve Ã niveau constant (3) en passant par un raccord en laiton (I) qui contient Ã l’intérieur un tamis d’essence (2). L’arrivée de l’essence est réglée par un pointeau (5) actionné par le flotteur (4). Le carburant arrive ensuite dans le gicleur Ã pointeau (7) en passant tout d’abord par la buse (6). La descente du piston, pendant la course d’admission, crée un vide partiel dans le cylindre, qui a pour effet d’aspirer l’essence, Ã partir du gicleur Ã pointeau, en mÃªme temps que l’air extérieur. Un mélange air et essence se forme dans la chambre (8). La quantité du mélange air-essence pénétrant dans le moteur, (donc sa vitesse et sa puissance), sont réglés d’un cÃ´té par le boisseau des gaz (9) actionné par l’intermédiaire du levier (13) et de l’autre cÃ´té par la position de l’aiguille (10). Plus vous tournez vers l’arriÃ¨re la poignée des gaz située sur la 

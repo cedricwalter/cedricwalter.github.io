@@ -8,7 +8,9 @@ author: 'Cédric Walter'
 
 ---
 
-# Parser incompatibility or Parser order in Classpath, classloader, loading sequence in a highly complex and distributed environment.
+# Parser incompatibility
+
+Parser order in Classpath, classloader, loading sequence in a highly complex and distributed environment.
 
 Especially in a distributed environment, order of parser found is a major problem during the walk of the JVM in
 classpath. For example, Different versions of the parser SAX are co-existing in the classpath due to components
@@ -22,7 +24,8 @@ restrictions :
 Try to draw a graph or parser dependancy: determine for all components in your application which DOM level is required.
 
 > Solution 1: Only use one parser [Apache Xerces](http://xml.apache.org/xerces-j/) (XML) and only one
-> transformer [Saxon](http://saxon.sourceforge.net/) (XST) or [Apache Xalan](http://xml.apache.org/xalan-j/) (XST). It is
+> transformer [Saxon](http://saxon.sourceforge.net/) (XST) or [Apache Xalan](http://xml.apache.org/xalan-j/) (XST). It
+> is
 > not always possible since some 3rd party tools, like weblogic.jar or oracle.jar are coming with some crap inside…
 >
 > > For example weblogic 6.0 contains a SAX 1.0 (<http://edocs.bea.com/wls/docs61/notes/migrate60to61.html>) But

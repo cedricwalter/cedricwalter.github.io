@@ -1,20 +1,16 @@
 ---
-
 title: 'Apple iPhone Screen Repair: iPhone 3GS'
 date: '2011-04-23T13:26:59+02:00'
 author: 'Cédric Walter'
-
 header:
 overlay_image: /assets/images/2011/04/iphone.3gs.screen.repair.kit_thumb.png
 teaser: /assets/images/2011/04/iphone.3gs.screen.repair.kit_thumb.png
 caption: "Apple iPhone Screen Repair: iPhone 3GS"
-
 tags:
 - apple
 - glass
 - image
 - iphone
-
 ---
 
 [![apple-iphone.3gs.repair.diy](/assets/images/2011/04/apple-iphone.3gs.repair.diy_thumb.jpg "apple-iphone.3gs.repair.diy")](/assets/images/2011/04/apple-iphone.3gs.repair.diy_.jpg)

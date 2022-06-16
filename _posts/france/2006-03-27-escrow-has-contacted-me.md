@@ -3,9 +3,8 @@
 title: 'Escrow has contacted me'
 date: '2006-03-27T10:27:02+02:00'
 author: 'Cédric Walter'
-
-
-
+categories:
+- france
 tags:
 - criminality
 - internet

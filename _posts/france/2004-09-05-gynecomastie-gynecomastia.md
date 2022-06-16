@@ -3,6 +3,8 @@
 title: 'Gynecomastie / gynecomastia'
 date: '2004-09-05T16:24:03+02:00'
 author: 'Cédric Walter'
+categories:
+- france
 ---
 
 # Gynecomastie / gynecomastia

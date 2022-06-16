@@ -3,13 +3,18 @@
 title: 'Reflexions techniques sur la coupe E=M6 1999'
 date: '2004-09-05T18:16:17+02:00'
 author: 'Cédric Walter'
+categories:
 
-
+- france
+  header:
+  teaser: /assets/images/2020/04/robot-essaim-ensisa-coupe-robotique-1.jpg
+  tags:
+    - Robotic
 
 ---
 
 Je ne saurais être tenu responsable pour les erreurs d’attribution de technologies des différentes équipes citées
-ci-dessous. Ecrivez moi pour corriger toutes bévues. Les remarques n’engagent que moi.
+ci-dessous. Écrivez moi pour corriger toutes bévues. Les remarques n’engagent que moi.
 
 Ceci se veut être un document de synthèse sur toutes les technologies rencontrées lors de la coupe E=M6 et devrait
 pouvoir améliorer les performances de nos futurs robots. Il est le résultat de toutes mes nuits d’errances sur le campus
@@ -30,7 +35,7 @@ dans les yeux des autres équipes
 
 # En ce qui concerne le développement et le contrÃ´le :
 
-- Peu en fait utilisent des micro-contrÃ´leurs hormis pour leur PMI pour des raisons évidentes de place. Notons que
+- Peu en fait utilisent des micro-controleurs hormis pour leur PMI pour des raisons évidentes de place. Notons que
   Supelec Rennes incorporait une solution originale Ã base de carte 68HCll maitres-esclaves (5 au total mais cela ne
   marchait pas), et que ville d’Avray, vu la vitesse d’exécution et la relative constance dans le déplacement doit
   utiliser un automate industriel très rapide.

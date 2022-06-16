@@ -1,11 +1,9 @@
 ---
-
 title: 'le robot 1999 de l ESSAIM en images'
 date: '2004-09-05T18:10:18+02:00'
 author: 'Cédric Walter'
-
-
-
+categories:
+- france
 header:
   teaser: /assets/images/2004/09/Dscf0044.jpg
 tags:

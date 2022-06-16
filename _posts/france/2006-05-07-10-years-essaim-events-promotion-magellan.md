@@ -3,7 +3,8 @@
 title: '10 Years ESSAIM events: promotion MAGELLAN'
 date: '2006-05-07T20:16:10+02:00'
 author: 'Cédric Walter'
-
+categories:
+- france
 header:
 teaser: /assets/images/2006/05/essaim-promo-1996-1999-10years-event-01.jpg
 tags:

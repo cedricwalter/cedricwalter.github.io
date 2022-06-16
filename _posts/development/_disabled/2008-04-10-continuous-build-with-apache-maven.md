@@ -31,7 +31,7 @@ tags:
     - maven
 ---
 
-| ***[Maven](http://maven.apache.org/)** is a software tool for #Java project management and build automation created by Jason van Zyl in 2002. It is similar in functionality to the Apache Ant tool (and to a lesser extent, PHP’s PEAR and Perl’s CPAN), but has a simpler build configuration model, based on an XML format. #Maven is hosted by the Apache Software Foundation, where it was formerly part of the Jakarta Project.* |
+| *[Maven](http://maven.apache.org/) is a software tool for #Java project management and build automation created by Jason van Zyl in 2002. It is similar in functionality to the Apache Ant tool (and to a lesser extent, PHP’s PEAR and Perl’s CPAN), but has a simpler build configuration model, based on an XML format. #Maven is hosted by the Apache Software Foundation, where it was formerly part of the Jakarta Project.* |
 |---|
 
 *[Maven](http://maven.apache.org/) uses a construct known as a Project Object Model (POM) to describe the software project  
@@ -39,8 +39,8 @@ being built, its dependencies on other external modules and components, and the 
 It comes with pre-defined targets for performing certain well defined tasks such as compilation  
 of code and its packaging.*
 
-*A key feature of #Maven is that it is network-ready. **The core engine can dynamically download  
-plug-ins from a repository**, the same repository that provides access to many versions of different  
+*A key feature of #Maven is that it is network-ready. The core engine can dynamically download  
+plug-ins from a repository, the same repository that provides access to many versions of different  
 Open Source #Java projects, from Apache and other organizations and developers. This repository  
 and its reorganized successor, the #Maven 2 repository, strives to be the de facto distribution  
 mechanism for #Java applications, but its adoption has been slow. *[Maven](http://maven.apache.org/)* provides built in support  

@@ -27,7 +27,7 @@ This tutorial can be see as an add-on of this one : <http://www.linuxjournal.com
 
 On your server, run
 
-# \# fdisk -l**
+# \# fdisk -l
 
 > <font color="#0000ff" face="Courier New">Disk /dev/sda: 164.6 GB, 164696555520 bytes   
 > 255 heads, 63 sectors/track, 20023 cylinders   
@@ -63,7 +63,7 @@ This is how partitions look like, sda1 is the root partition, sda2 is a swap par
 
 You’ll have to recreate them in the virtual machine. Nothing force me to have a RAID0 also in my VMWARE. I will only create a normal disk layout (sda1,sda2, sda3). Save this output in a text file for further references. By reading the fstab, I will be able to look at the mount point name later. On your server, run:
 
-# \# cat /etc/fstab**   
+# \# cat /etc/fstab   
 <font color="#0000ff" face="Courier New">/dev/md1 / ext3 acl,user\_xattr,usrquota 1 1   
 /dev/md0 /boot ext2 acl,user\_xattr 1 2   
 /dev/sda2 swap swap pri=42 0 0   
@@ -96,8 +96,8 @@ To force the creation of 128-byte inodes partitions:
 
 You can check your work with tune2fs, if you read 128 it is OK to continue
 
-# tune2fs -l /dev/sda1 | grep -i ‘**inode** **size**’   
-# Inode** **size**: 128
+# tune2fs -l /dev/sda1 | grep -i ‘inode size’   
+# Inode size: 128
 
 ## Create new file system
 

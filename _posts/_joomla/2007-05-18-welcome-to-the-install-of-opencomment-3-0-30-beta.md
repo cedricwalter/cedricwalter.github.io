@@ -37,16 +37,16 @@ Install file in order specified by number…
  Against spammers:  
  (You only need to use one of these)
 
- **/optionnal/com\_securityimagesxx.yy.zz.zip**  
+ /optionnal/com\_securityimagesxx.yy.zz.zip  
  install com\_securityimages security against spammers using CAPCTHA. May annoy users as they have to solve a puzzle
 
- **/optionnal/com\_askimetxx.yy.zz.zip**  
+ /optionnal/com\_askimetxx.yy.zz.zip  
  install com\_askimetxx.yy.zz sagainst spammers using askimet webservices. Transparent for users.
 
- **/optionnal/module\_opencommentlatestxx.yy.zz.zip**  
+ /optionnal/module\_opencommentlatestxx.yy.zz.zip  
  A module for displaying the latest 10 comments
 
- **Issues? #Joomla component troubleshooting**  
+ Issues? #Joomla component troubleshooting  
  Please read [http://www.waltercedric.com/content/view/1059/247/](../content/view/1059/247/)
 
  Download HERE (2MB) unpack first! [http://www.waltercedric.com/dmdocuments/UnpackFirst-OpenComment3.0.30.zip](../dmdocuments/UnpackFirst-OpenComment3.0.30.zip)

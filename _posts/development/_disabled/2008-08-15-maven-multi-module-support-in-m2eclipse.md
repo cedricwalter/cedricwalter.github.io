@@ -64,9 +64,9 @@ Here is an example for common-spring:
 </project>
 ```
 
-[![maven.all.projects.](/assets/images/2008/08/maven.all_.projects._thumb.png)](/assets/images/2008/08/maven.all_.projects.png) **Do not make everything a Maven project!**
+[![maven.all.projects.](/assets/images/2008/08/maven.all_.projects._thumb.png)](/assets/images/2008/08/maven.all_.projects.png) Do not make everything a Maven project!
 
-With such a mapping **you’ll get in troubles**! not all plug ins seems to support this kind of trick (relativePath)   
+With such a mapping you’ll get in troubles! not all plug ins seems to support this kind of trick (relativePath)   
 In the maven reactor (maven-deploy, maven-release for example). It is a lot wiser to represent   
 your product or project also in eclipse in a tree manner. This will break the complexity, introduce   
 more flexibility, so why not just using maven modules??   

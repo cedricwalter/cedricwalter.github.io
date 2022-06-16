@@ -12,8 +12,8 @@ author: 'Cédric Walter'
 
  In a typical IOC scenario, the container creates all the objects, wires them together by setting the necessary properties, and determines when methods will be invoked. The three implementation pattern types for IOC are:
 
- **Type 1** Services need to implement a dedicated interface through which they are provided with an object from which they can look up dependencies (for example, additional needed services).
+ Type 1 Services need to implement a dedicated interface through which they are provided with an object from which they can look up dependencies (for example, additional needed services).
 
- **Type 2** Dependencies are assigned through #JavaBeans properties (for example, setter methods).
+ Type 2 Dependencies are assigned through #JavaBeans properties (for example, setter methods).
 
- **Type 3** Dependencies are provided as constructor parameters and are not exposed as #JavaBeans properties.
+ Type 3 Dependencies are provided as constructor parameters and are not exposed as #JavaBeans properties.

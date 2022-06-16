@@ -19,9 +19,9 @@ Interesting, after 100 lines I stop reading this promotionnal articles, really g
  3. NTFS, and why #Linux still can't support NTFS write natively (without using a MS DLL)?  
  4. All the hidden system calls that Microsoft uses internally, and which came up in the anti-trust case?*
 
- **shame on You M$**  
-  **more comments, all credits to authors on [www.slashdot.org](www.slashdot.org)  
- —** a brief synopsys?  
+ shame on You M$  
+  more comments, all credits to authors on [www.slashdot.org](www.slashdot.org)  
+ — a brief synopsys?  
  FUD  
  Corporate-speak FUD  
  Slick FUD  
@@ -30,10 +30,10 @@ Interesting, after 100 lines I stop reading this promotionnal articles, really g
  Bone to the FOSS community  
  FUD  
  Conclusion: FUD  
- **—**  
+ —  
  Discussion = earnest conversation.  
  Propaganda = The systematic propagation of a doctrine or cause or of information reflecting the views and interests of those advocating such a doctrine or cause.  
- **—**  
+ —  
  foreach ($potential\_problem) (@linux){   
  print "Linux is okay but it has this $potential\_problem\\n";   
  print "Yes, and I think you can see that Microsoft addresses this $potential\_problem to the benefit of our customers!\\n";   

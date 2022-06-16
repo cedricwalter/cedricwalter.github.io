@@ -16,7 +16,7 @@ tags:
     - securityimages
 ---
 
-# The new version** of com\_securityimages is now working locally in my developer environment.
+# The new version of com\_securityimages is now working locally in my developer environment.
 
 - Multi core enable (code developed to authorize many external core and versions). Today "core 1.1" and "freecap 1.4" are available…
 - Reload button which allow the user to ask a new pictures if he is not able to recognize the characters in the pictures
@@ -24,7 +24,7 @@ tags:
 - Refactored code with a lot of tricks 😉 -> interesting to read for all people wanting to try PHP
 - Sound support has been started…it is on the good way
 
-# What’s open before delivery…**
+# What’s open before delivery…
 
 - The installer is not up to date, I have at least 400% more files than in release 1.1.X … 🙂
 - The database schema has changed (one column more in DB) -> a migration path will be provided for all 1.1.X users

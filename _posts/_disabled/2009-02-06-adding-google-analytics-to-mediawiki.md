@@ -24,13 +24,13 @@ The current skins is configured in LocalSettings.php
 
 Just add your analytics scripts before the </body>. Now MediaWiki will add the marker in every page
 
-# Before**
+# Before
 
 ```
 <?php $<span class="kwrd">this->html(<span class="str">'bottomscripts'); <span class="rem">/* JS call to runBodyOnloadHook */ ?> <?php $<span class="kwrd">this->html(<span class="str">'reporttime') ?> <?php <span class="kwrd">if ( $<span class="kwrd">this->data[<span class="str">'debug'] ): ?> <!-- Debug output: <?php $<span class="kwrd">this->text( <span class="str">'debug' ); ?> --> <?php endif; ?> </body></html>
 ```
 
-# After**
+# After
 
 ```
 <?php $<span class="kwrd">this->html(<span class="str">'bottomscripts'); <span class="rem">/* JS call to runBodyOnloadHook */ ?> <?php $<span class="kwrd">this->html(<span class="str">'reporttime') ?> <?php <span class="kwrd">if ( $<span class="kwrd">this->data[<span class="str">'debug'] ): ?> <!-- Debug output: <?php $<span class="kwrd">this->text( <span class="str">'debug' ); ?> --> <?php endif; ?> <strong><script type=<span class="str">"text/javascript"> <span class="kwrd">var gaJsHost = ((<span class="str">"https:" == document.location.protocol) ? <span class="str">"https://ssl." : <span class="str">"http://www."); document.write(unescape(<span class="str">"%3Cscript src='" + gaJsHost

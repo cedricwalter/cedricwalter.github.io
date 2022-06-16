@@ -30,7 +30,7 @@ I also want to point out some very handy web applications, the first one is to m
 
 While the other are more for testing the result of your hard work:
 
-| ![waltercedric.iphone](/assets/images/2009/01/waltercedric.iphone.png) | <a>http://www.testiphone.com/</a>    This is a web browser based simulator for quickly testing your iPhone Applications. This tool has been so far tested and working using Internet Explorer 7, FireFox 2 and Safari 3 in Windows, but you need [**Safari**](http://www.apple.com/safari/) to get the real |
+| ![waltercedric.iphone](/assets/images/2009/01/waltercedric.iphone.png) | <a>http://www.testiphone.com/</a>    This is a web browser based simulator for quickly testing your iPhone Applications. This tool has been so far tested and working using Internet Explorer 7, FireFox 2 and Safari 3 in Windows, but you need [Safari](http://www.apple.com/safari/) to get the real |
 |---|---|
 | ![waltercedric.opera.mobile](/assets/images/2009/01/waltercedric.opera_.mobile.png) | <http://www.opera.com/mini/demo/>    A live demo of Opera Mini that functions like it would when installed on a handset (Java Applet) |
 | ![waltercedric.android.mobile](/assets/images/2009/01/waltercedric.android.mobile.png) | To test on Android, there is a bit much more effort: you’ll have to download a simulator (in fact the full sdk) and launch sdk\\tools\\emulator.exe |

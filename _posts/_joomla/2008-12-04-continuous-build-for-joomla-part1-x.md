@@ -12,11 +12,11 @@ author: 'Cédric Walter'
 
 #### Main ideas
 
-# Build is scalable**
+# Build is scalable
 
 Distributed build management optimize hardware resources utilization by parallelizing product builds within the build agents grid. With build chains support, it is even possible to break down a single build procedure into several parts to run them on different build agents — both in sequence and in parallel — using the same set of sources in all of them.
 
-# I want to be able to test my components against many versions of #Joomla!**
+# I want to be able to test my components against many versions of #Joomla!
 
 All versions of #Joomla! are in subversion as zip files in an own SVN repository
 
@@ -46,22 +46,22 @@ These repository ${JOOMLAxx\_VCS\_ROOT} are connected to all build as supplement
 
 If you don’t want to provide support a a specific version of #Joomla! just remove it from the trunk! or add new ones on purpose. That’s easy.
 
-# Ant tasks/Maven MOJO**
+# Ant tasks/Maven MOJO
 
 - Are responsible for unpacking all these zip files to the build temporary agent directory. ($AGENT\_BUILD\_DIR).
 - Filenames are found with a configurable regular expression,
 - All settings will be committed in \\joomla1.5\\trunk\\build.deploy.properties
 
-# Another ant script/task will for each zip,**
+# Another ant script/task will for each zip,
 
 - Start a Selenium test cases that will create a virtual user that use the regular #Joomla! installer and drive installation till the end.
 - All settings which have to be #Joomla! and build independent will be randomly generated, preferably UUID for password and database name for example.
 - Login and Admin password may be the same (admin:admin) at the beginning but can also be generated and written to a file on disk in ($BUILD\_DIR)/{joomlarootversion}/build.install.properties.
 - Directory installation ($BUILD\_DIR)/{joomlarootversion}/installation will be renamed to ($BUILD\_DIR)/{joomlarootversion}/installation.old or simply deleted
-- Selenium/PHP Unit test that are committed in \\joomla1.5\\trunk\\Installation.Checks will perform **basic checks** (login, logout, navigate) to ensure that installation of #Joomla! has been successful.   
+- Selenium/PHP Unit test that are committed in \\joomla1.5\\trunk\\Installation.Checks will perform basic checks (login, logout, navigate) to ensure that installation of #Joomla! has been successful.   
     If everything succeed, we will have a set of #Joomla! versions ready for our components regression testing.
 
-# Remarks:**
+# Remarks:
 
 - No build temporary directory. ($AGENT\_BUILD\_DIR) will be deleted by Ant or #Maven but by the build server itself. This will let developer look at the issues on file system and in database.
 - New scripts may be developed to extract from the build server or #Joomla! farm easily the non running #Joomla! instance files + database) so developers can install the broken setup locally.
@@ -74,13 +74,13 @@ This VCS root is also attached to the build and get check out at build time by T
 
 #### Packaging
 
-if a build.xml is present in {VCS\_ROOT}\\build.xml then it is executed prior to any further operations, purpose of build.xml is to produce a component binary distribution (zip or tar.gz) that can be then installed to **ALL #Joomla install** in the agent root directory.
+if a build.xml is present in {VCS\_ROOT}\\build.xml then it is executed prior to any further operations, purpose of build.xml is to produce a component binary distribution (zip or tar.gz) that can be then installed to ALL #Joomla install in the agent root directory.
 
 #### Deployment
 
-if a deploy.xml is present in {VCS\_ROOT}\\deploy.xml then it is executed, purpose of deploy.xml is to deploy **one or many component** binary distribution (zip or tar.gz) to **ALL #Joomla install** in the agent root directory.
+if a deploy.xml is present in {VCS\_ROOT}\\deploy.xml then it is executed, purpose of deploy.xml is to deploy one or many component binary distribution (zip or tar.gz) to ALL #Joomla install in the agent root directory.
 
-# Why one or many component?**
+# Why one or many component?
 
 I want to be able to track also component dependencies issues.
 

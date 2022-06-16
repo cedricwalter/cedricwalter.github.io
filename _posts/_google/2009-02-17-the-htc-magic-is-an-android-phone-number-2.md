@@ -14,10 +14,10 @@ tags:
     - opensource
 ---
 
-# ![android.g2](/assets/images/2009/02/android.g2.png)**
+# ![android.g2](/assets/images/2009/02/android.g2.png)
 
-# A new phone based on Google’s operating system Android has been unveiled by Vodafone at the Mobile World Congress in Barcelona.**
+# A new phone based on Google’s operating system Android has been unveiled by Vodafone at the Mobile World Congress in Barcelona.
 
 The touchscreen HTC Magic will feature a 3.2 Megapixel camera, Wi-Fi, and GPS, but no slide-out keyboard.
 
-# [news.bbc.co.uk](http://news.bbc.co.uk/2/hi/technology/7894516.stm) and <http://www.htc.com/www/product/magic/overview.html>**
+# [news.bbc.co.uk](http://news.bbc.co.uk/2/hi/technology/7894516.stm) and <http://www.htc.com/www/product/magic/overview.html>

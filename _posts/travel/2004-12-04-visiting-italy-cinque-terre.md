@@ -37,6 +37,6 @@ The Cinque Terre are five coastal villages in the province of La Spezia. “Disc
 
 Riomaggiore is situated in a small valley just along the coast. It is the first Village of Cinque Terre when you come from La Spezia. The houses of the medieval village lean one to the other, intersected by deep small streets and sheltered paths. Riomaggiore origins date back to the end of the XII century. “Rivus Major” is the ancient name of the biggets river which crossed the village. Typical coloured buildings in the village
 
-<span style="font-size: x-large;">**Walking (20min) using “Via dell’Amore”**
+<span style="font-size: x-large;">Walking (20min) using “Via dell’Amore”
 
 The way, offers a romantic atmospheres and panoramas of rare beauty. It cost 3€. It is the most famous path of Cinque Terre from Riomaggiore to Manarola.

@@ -13,5 +13,5 @@ tags:
     - 'My Homepage'
 ---
 
-| [![](/assets/images/2006/04/waltercedricWikiLogo.jpg)](wiki.waltercedric.com) | My new WIKI located at [wiki.waltercedric.com](http://wiki.waltercedric.com/) is now open, I am still migrating old pages of REFLEX-XTR from the [old instance](/wiki). #Joomla page are already there.  **What’s new:**  - WikiMedia 1.6.3 - Captcha extension enable (horrible but It will for sure block some bots)  Feel free to write Your tips, wishes or report your problems there in a constructive way! |
+| [![](/assets/images/2006/04/waltercedricWikiLogo.jpg)](wiki.waltercedric.com) | My new WIKI located at [wiki.waltercedric.com](http://wiki.waltercedric.com/) is now open, I am still migrating old pages of REFLEX-XTR from the [old instance](/wiki). #Joomla page are already there.  What’s new:  - WikiMedia 1.6.3 - Captcha extension enable (horrible but It will for sure block some bots)  Feel free to write Your tips, wishes or report your problems there in a constructive way! |
 |---|---|

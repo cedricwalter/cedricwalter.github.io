@@ -35,11 +35,11 @@ header:
 
 - Test case are automatically started (PHP Unit) by maven surefire.
 - [SolarJoomla](http://www.waltercedric.com/component/tag/solarjoomla.html) has Mylyn (Bugzilla supported and is the reference implementation for Mylyn) running and configured to connect to my JIRA repositories <http://jira.waltercedric.com>
-- [SolarJoomla](http://www.waltercedric.com/component/tag/solarjoomla.html) has TeamCity plugin running and configured to connect to my TeamCity <http://teamcity.waltercedric.com>, so authorized developer can do **private build**
+- [SolarJoomla](http://www.waltercedric.com/component/tag/solarjoomla.html) has TeamCity plugin running and configured to connect to my TeamCity <http://teamcity.waltercedric.com>, so authorized developer can do private build
 
-> [Delayed Commit](http://www.jetbrains.com/teamcity/features/newfeatures.html#Improved_Quality_Maintenance) (also known as **private build**). It allows you to run the full build with tests on the server as if you checked in all your changes, but **without actually checking in your changes until the build is successful,** so you will know if you’re about to break the build before you actually break it.
+> [Delayed Commit](http://www.jetbrains.com/teamcity/features/newfeatures.html#Improved_Quality_Maintenance) (also known as private build). It allows you to run the full build with tests on the server as if you checked in all your changes, but without actually checking in your changes until the build is successful, so you will know if you’re about to break the build before you actually break it.
 
-- **Ask Joomla! core team if they would not be interested by this engineering for Joomla! itself!**Done at <http://forum.joomla.org/viewtopic.php?p=1671501#p1671501> and [by contacting developer group Coordinators](http://developer.joomla.org/development-working-group.html)
+- Ask Joomla! core team if they would not be interested by this engineering for Joomla! itself!Done at <http://forum.joomla.org/viewtopic.php?p=1671501#p1671501> and [by contacting developer group Coordinators](http://developer.joomla.org/development-working-group.html)
     
     > *I did develop Continuous build for Joomla…*
     > 
@@ -52,14 +52,14 @@ header:
 
 ## Open
 
-- Deploy generated artifacts to a Joomla running stage (runtime farms of Joomla!) in order to run **integration tests** with Selenium
-- Add selenium test cases for testing the GUI, also running “**integration tests**”
+- Deploy generated artifacts to a Joomla running stage (runtime farms of Joomla!) in order to run integration tests with Selenium
+- Add selenium test cases for testing the GUI, also running “integration tests”
 - Packaging is jar, better would be zip or tar.gz
 - Use Phing ([http://docs.joomla.org/Setting\_up\_your\_workstation\_for\_extension\_development](http://docs.joomla.org/Setting_up_your_workstation_for_extension_development)) for developer environment, and maybe also deploy to farms
 - Deliver [SolarJoomla](http://www.waltercedric.com/component/tag/solarjoomla.html) as soon as PHPDocumentator, PHPUnit, DOxygen are running in XAMPP
 - Publish generated site artifacts’ to new sub domains
 - Add reporting plugin.
-- **DOCUMENT everything in my** [**WIKI**](http://wiki.waltercedric.com) **at the same time**
+- DOCUMENT everything in my [WIKI](http://wiki.waltercedric.com) at the same time
 
 ## Future
 

@@ -58,7 +58,7 @@ To list all available profile, just run as root
 cpufreqd-get -l
 ```
 
-# or**
+# or
 
 ```
 cpufreq-info
@@ -80,7 +80,7 @@ analyzing CPU 0:
 ## Changing the CPU speed
 
 Now lets change the speed. As a server, I don’t see any reason to try to minimize the speed except in order to save electricity. The profile onDemand should be able to provide the best compromise, changing CPU speed based on server load and thus be more green. For the sake of this article, I will forbid the CPU to downgrade its speed…   
-# Attention** you’ll have to respect the hardware limit of you processor. In my case I use currently an AMD K8 Opteron 146 rated at maximum 2GHz
+# Attention you’ll have to respect the hardware limit of you processor. In my case I use currently an AMD K8 Opteron 146 rated at maximum 2GHz
 
 So depending on your processor, you’ll have to either
 

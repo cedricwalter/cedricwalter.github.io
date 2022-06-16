@@ -26,15 +26,15 @@ Notice also that the specific concrete classes are dynamically loaded on demandâ
 # Source Code
 
 ```
-/**  * Creation date: (7/19/2002 2:50:45 PM)  *   * @author: Cedric Walter  */ public interface AuthentificationIF {          public boolean Authentificate(HttpServletRequest req,                        HttpServletResponse resp);        public boolean hasAutorisation(HttpServletRequest req,                        HttpServletResponse resp);}  public abstract class AuthentificationA implements AuthentificationIF { 
+/  * Creation date: (7/19/2002 2:50:45 PM)  *   * @author: Cedric Walter  */ public interface AuthentificationIF {          public boolean Authentificate(HttpServletRequest req,                        HttpServletResponse resp);        public boolean hasAutorisation(HttpServletRequest req,                        HttpServletResponse resp);}  public abstract class AuthentificationA implements AuthentificationIF { 
 ```
 
 ```
-/**   * AuthentificationA constructor comment.   */         public AuthentificationA() {                 super();        }          
+/   * AuthentificationA constructor comment.   */         public AuthentificationA() {                 super();        }          
 ```
 
 ```
-/**   * Authentificate method comment.   */         
+/   * Authentificate method comment.   */         
 ```
 
 ```
@@ -54,7 +54,7 @@ javax.servlet.http.HttpServletResponse resp);
 ```
 
 ```
-/**   * ComputeFactory constructor comment.   */         public AuthentificationFactoryA() {                 super();        }          public static void addFactory(String id, AuthentificationFactoryA f) {                 factories.put(id, f);        }          public static final AuthentificationIF createAuthentification(String id)                        
+/   * ComputeFactory constructor comment.   */         public AuthentificationFactoryA() {                 super();        }          public static void addFactory(String id, AuthentificationFactoryA f) {                 factories.put(id, f);        }          public static final AuthentificationIF createAuthentification(String id)                        
 
 	throws FactoryCreationException {                 if (!factories.containsKey(id)) {                         try {                                 // Load dynamically                                 Class.forName(id);                        
 
@@ -68,15 +68,15 @@ javax.servlet.http.HttpServletResponse resp);
 
 		       }                 return ((AuthentificationFactoryA) factories.get(id)).getAuthentification();        
 
-	}          protected abstract AuthentificationIF getAuthentification();}  /**  * concrete class of the abstract factory   */ public class MyAuthentificationFactory extends AuthentificationFactoryA {          public MyAuthentificationFactory() {                 super();        }          /**   * not use since it is subclass   */         protected AuthentificationIF getAuthentification() {                 return null;        } }  /**  * @author: Cedric Walter  */ public class NimiusAuthentification extends AuthentificationA implements                 AuthentificationIF {           private static class Factory extends AuthentificationFactoryA {                 protected AuthentificationIF getAuthentification() {                         return new NimiusAuthentification();                }         }          static {                 AuthentificationFactoryA.addFactory("com.waltercedric.gof.pattern.factory.NimiusAuthentification",                                new NimiusAuthentification.Factory());        }          
+	}          protected abstract AuthentificationIF getAuthentification();}  /  * concrete class of the abstract factory   */ public class MyAuthentificationFactory extends AuthentificationFactoryA {          public MyAuthentificationFactory() {                 super();        }          /   * not use since it is subclass   */         protected AuthentificationIF getAuthentification() {                 return null;        } }  /  * @author: Cedric Walter  */ public class NimiusAuthentification extends AuthentificationA implements                 AuthentificationIF {           private static class Factory extends AuthentificationFactoryA {                 protected AuthentificationIF getAuthentification() {                         return new NimiusAuthentification();                }         }          static {                 AuthentificationFactoryA.addFactory("com.waltercedric.gof.pattern.factory.NimiusAuthentification",                                new NimiusAuthentification.Factory());        }          
 ```
 
 ```
-/**   * Local constructor comment.   */         public NimiusAuthentification() {                 super();        }          
+/   * Local constructor comment.   */         public NimiusAuthentification() {                 super();        }          
 ```
 
 ```
-/**   * Authenficate method comment.   */         public boolean Authentificate(javax.servlet.http.HttpServletRequest req, 
+/   * Authenficate method comment.   */         public boolean Authentificate(javax.servlet.http.HttpServletRequest req, 
 
 				 javax.servlet.http.HttpServletResponse resp) 
 
@@ -84,13 +84,13 @@ javax.servlet.http.HttpServletResponse resp);
 
 				  javax.servlet.http.HttpServletResponse resp) 
 
-	{                  //do some stuff                 return true;        } }  /**  * @author: Cedric Walter  */ public class NoAuthentification extends AuthentificationA implements                 AuthentificationIF {          private static class Factory extends AuthentificationFactoryA {                 protected AuthentificationIF getAuthentification() {                         return new NoAuthentification();                }         }          static {                 AuthentificationFactoryA.addFactory(                                "com.waltercedric.gof.pattern.factory.NoAuthentification",                                new NoAuthentification.Factory());        }          /**   * Local constructor comment.   */         public NoAuthentification() {                 super();        }          /**   * Authenficate method comment.   */         public boolean Authentificate(javax.servlet.http.HttpServletRequest req,
+	{                  //do some stuff                 return true;        } }  /  * @author: Cedric Walter  */ public class NoAuthentification extends AuthentificationA implements                 AuthentificationIF {          private static class Factory extends AuthentificationFactoryA {                 protected AuthentificationIF getAuthentification() {                         return new NoAuthentification();                }         }          static {                 AuthentificationFactoryA.addFactory(                                "com.waltercedric.gof.pattern.factory.NoAuthentification",                                new NoAuthentification.Factory());        }          /   * Local constructor comment.   */         public NoAuthentification() {                 super();        }          /   * Authenficate method comment.   */         public boolean Authentificate(javax.servlet.http.HttpServletRequest req,
 
-                        javax.servlet.http.HttpServletResponse resp) {                 return true;        }          /**   * hasAutorisation method comment.   */         public boolean hasAutorisation(javax.servlet.http.HttpServletRequest req, 
+                        javax.servlet.http.HttpServletResponse resp) {                 return true;        }          /   * hasAutorisation method comment.   */         public boolean hasAutorisation(javax.servlet.http.HttpServletRequest req, 
 
-                       javax.servlet.http.HttpServletResponse resp) {                 return true;        } }  /**  * @author: Cedric Walter  */ public class ObtreeAuthentification extends AuthentificationA implements                 AuthentificationIF {          private static class Factory extends AuthentificationFactoryA {                 protected AuthentificationIF getAuthentification() {                         return new ObtreeAuthentification();                }         }          static {                 AuthentificationFactoryA.addFactory(                                "com.waltercedric.gof.pattern.factory.ObtreeAuthentification",                                new ObtreeAuthentification.Factory());        }          /**   * Local constructor comment.   */         public ObtreeAuthentification() {                 super();        }          /**   * Authenficate method comment.   */         public boolean Authentificate(javax.servlet.http.HttpServletRequest req,
+                       javax.servlet.http.HttpServletResponse resp) {                 return true;        } }  /  * @author: Cedric Walter  */ public class ObtreeAuthentification extends AuthentificationA implements                 AuthentificationIF {          private static class Factory extends AuthentificationFactoryA {                 protected AuthentificationIF getAuthentification() {                         return new ObtreeAuthentification();                }         }          static {                 AuthentificationFactoryA.addFactory(                                "com.waltercedric.gof.pattern.factory.ObtreeAuthentification",                                new ObtreeAuthentification.Factory());        }          /   * Local constructor comment.   */         public ObtreeAuthentification() {                 super();        }          /   * Authenficate method comment.   */         public boolean Authentificate(javax.servlet.http.HttpServletRequest req,
 
-                        javax.servlet.http.HttpServletResponse resp) {                 return true;        }          /**   * hasAutorisation method comment.   */         public boolean hasAutorisation(javax.servlet.http.HttpServletRequest req,
+                        javax.servlet.http.HttpServletResponse resp) {                 return true;        }          /   * hasAutorisation method comment.   */         public boolean hasAutorisation(javax.servlet.http.HttpServletRequest req,
 
                         javax.servlet.http.HttpServletResponse resp) {                 return true;        } } 
 ```

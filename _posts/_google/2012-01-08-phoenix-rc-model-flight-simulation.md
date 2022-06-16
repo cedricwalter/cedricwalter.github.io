@@ -31,7 +31,7 @@ Some pictures
 [![thunderTigerRaptor30_inPhoenixRC_00](http://www.waltercedric.com/images/Phoenix-RC_CDB1/thunderTigerRaptor30_inPhoenixRC_00_thumb.jpg "thunderTigerRaptor30_inPhoenixRC_00")](http://www.waltercedric.com/images/Phoenix-RC_CDB1/thunderTigerRaptor30_inPhoenixRC_00.jpg)  
 [![thunderTigerRaptor30_inPhoenixRC_01](http://www.waltercedric.com/images/Phoenix-RC_CDB1/thunderTigerRaptor30_inPhoenixRC_01_thumb.jpg "thunderTigerRaptor30_inPhoenixRC_01")](http://www.waltercedric.com/images/Phoenix-RC_CDB1/thunderTigerRaptor30_inPhoenixRC_01.jpg)
 
-# Current Minimum System Requirements:**
+# Current Minimum System Requirements:
 
 - Microsoft Windows 2000/XP/Vista\*
 - Microsoft DirectX9c or higher

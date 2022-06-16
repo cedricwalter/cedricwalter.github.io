@@ -45,20 +45,20 @@ So, how can you deal with these, possibly numerous, integration versions? The re
 
 > There are basically two ways to deal with them,
 > 
-> ***Use a naming convention**  
+> *Use a naming convention  
 > The idea is pretty simple, each time you publish a new integration of your module you give the same  
 > name to the version (in #maven world this is for example 1.0-SNAPSHOT). The dependency manager  
 > should then be aware that this version is special because it changes over time, so that it does not  
 > trust its local cache if it already has the version, but check the date of the version on the repository  
 > and see if it has changed.*
 > 
->  ***Create automatically a new version for each**  
+>  *Create automatically a new version for each  
 > in this case you use either a build number or a timestamp to publish each new integration version  
 > with a new version name. Then you can use one of the numerous ways in Ivy to express a version  
 > constraint. Usually selecting the very latest one (using ‘latest.integration’ as version constraint) is  
 > enough.*
 > 
-> *But usually **we recommend to use the second one**, because using a new version each time you publish* a new version better fits the version identity paradigm, and can make all your builds reproducible,  
+> *But usually we recommend to use the second one, because using a new version each time you publish* a new version better fits the version identity paradigm, and can make all your builds reproducible,  
 > even integration one. And this is interesting because it enables, with some work in your build system,  
 > to introduce a mechanism to promote an integration build to a more stable status, like a milestone  
 > or a release.
@@ -81,7 +81,7 @@ The example given is very interesting…
 > promote it to a milestone status, for example. this promotion indicates that you should keep track of  
 > this version in a long period, to be able to come back to it and create a branch if needed.*
 
-# Note** this is the strategy at #Eclipse.org, where a **nightly build** (N20080420) can be promoted to an **Maintenance**  
+# Note this is the strategy at #Eclipse.org, where a nightly build (N20080420) can be promoted to an Maintenance  
 release if quality is good enough. Below I’ve put an extract of a presentation document from © 2006 by Alex Blewitt;  
 made available under the EPL v1.0 | 2006-03-20 | <http://www.rcpapps.org/>
 
@@ -89,11 +89,11 @@ We are now using the same naming convention at [INNOVEO](http://www.innoveo.com/
 
 > [Eclipse](http://www.eclipse.org/) builds are of different type:
 > 
-> | **(N) Nightly** | - Built every night (whether successful or not) - Used to run quality metrics and whether tests have passed |
+> | (N) Nightly | - Built every night (whether successful or not) - Used to run quality metrics and whether tests have passed |
 > |---|---|
-> | **(I) Integration** | - Used to ensure that code works together - Used to run quality metrics |
-> | **(M) Maintenance** | - Released at the end of each build cycle |
-> | **(R) Release** | - Released at the end of each release cycle |
+> | (I) Integration | - Used to ensure that code works together - Used to run quality metrics |
+> | (M) Maintenance | - Released at the end of each build cycle |
+> | (R) Release | - Released at the end of each release cycle |
 > 
 > Each product is given a build id,
 > 

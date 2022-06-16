@@ -18,7 +18,7 @@ tags:
 Your project registration for MamboForge has been approved.
 
 Project Full Name: hashcash for Mambo – cryptographic fw  
-Project Unix Name: **hashcash**  
+Project Unix Name: hashcash  
 CVS Server: cvs.hashcash.mamboforge.net   
 Shell/Web Server: hashcash.mamboforge.net
 

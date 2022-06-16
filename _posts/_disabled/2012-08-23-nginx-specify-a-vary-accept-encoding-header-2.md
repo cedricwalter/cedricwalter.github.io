@@ -34,7 +34,7 @@ tags:
 
 Instructs proxy servers to cache two versions of the resource: one compressed, and one uncompressed. This helps avoid issues with public proxies that do not detect the presence of a `Content-Encoding` header properly.
 
-Configuration files are provided using *Gist* <https://gist.github.com/1620307> and are CONSTANTLY updated for added security and speed. Gist is a simple way to share snippets and pastes with others. All gists are git repositories, so they are automatically versioned, forkable and usable as a git repository. **I recommend you to starred them to stay up to date.**
+Configuration files are provided using *Gist* <https://gist.github.com/1620307> and are CONSTANTLY updated for added security and speed. Gist is a simple way to share snippets and pastes with others. All gists are git repositories, so they are automatically versioned, forkable and usable as a git repository. I recommend you to starred them to stay up to date.
 
 Just Add in /etc/[nginx](http://nginx.org/ "nginx A HTTP and mail proxy server licensed under a 2-clause BSD-like license.")/nginx.conf in the http { … } section the following
 

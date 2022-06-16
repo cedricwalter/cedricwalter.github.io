@@ -13,7 +13,7 @@ tags:
 - java
 ---
 
-Â **java.lang.ClassNotFound and ClassNotDefFoundError are different but what if my classes are in classpath?**
+Â java.lang.ClassNotFound and ClassNotDefFoundError are different but what if my classes are in classpath?
 
 Â Remember:
 

@@ -34,7 +34,7 @@ tags:
 Thanks for your efforts on #Joomla! related projects.  
 In order to show our appreciation, we want to add you to the #Joomla People list.  
 Joomla People is a list built by [www.joomlagate.com](http://www.joomlagate.com). Our purpose is to introduce most valuable developers, translators, leaders, etc, all those who contributed to #Joomla community, especially those who released their <font color="#6a6a6a">work as free software, to our Chinese #Joomla users. We want Chinese #Joomla users recognize and remember you all, and learn from your works, your spirit and your words.  
-Our website, www.joomlagate.com, is one of the biggest and popular #Joomla website in China. We have more than **12 thousands of registered members** at present. We believe that your story will inspire many #Joomla <font color="#6a6a6a">users and developers in our country.  
+Our website, www.joomlagate.com, is one of the biggest and popular #Joomla website in China. We have more than 12 thousands of registered members at present. We believe that your story will inspire many #Joomla <font color="#6a6a6a">users and developers in our country.  
 It is our pleasure to add you in this list. If you allow us to do this, please provide some personal information about you. We will give you some 
 Finally your original comments and our translation will both be published together.  
 We hope you can inform us of following items (of course you can keep your privacy by skip any of them):*
@@ -50,9 +50,9 @@ I am living in Zurich in the beautiful country of Switzerland but I am french an
 
 <font color="#6a6a6a">3. Your company website, or link to your blog, your project site, or any other link related to your #Joomla works.
 
-# blog**: [http://www.waltercedric.com ](http://www.waltercedric.com)
+# blog: [http://www.waltercedric.com ](http://www.waltercedric.com)
 
-# others**:
+# others:
 
 - [http://forums.waltercedric.com](http://forums.waltercedric.com) Support forums
 - [http://wiki.waltercedric.com](http://wiki.waltercedric.com) A WIKI that is used for my extensions documentation,
@@ -64,7 +64,7 @@ I am living in Zurich in the beautiful country of Switzerland but I am french an
 
 Joomla work: a lot of project, at joomla extension (<http://extensions.joomla.org>) my developer name is cedric\_walter
 
-# -> #Joomla! 1.0 projects owner** all are more now in maintenance mode, as I am adding new features in #Joomla! 1.5 native versions only, but most of them, if not all, work in legacy mode.
+# -> #Joomla! 1.0 projects owner all are more now in maintenance mode, as I am adding new features in #Joomla! 1.5 native versions only, but most of them, if not all, work in legacy mode.
 
 - com\_akoBookPlus a guest book
 - com\_akoCommentPlus commenting system with anti spammer protection
@@ -79,7 +79,7 @@ Joomla work: a lot of project, at joomla extension (<http://extensions.joomla.or
 - mod\_opensourcesupportt show your dedication to open source project
 - mod\_rssfriends add site to most used RSS feeder
 
-# -> #Joomla! 1.5 projects owner**
+# -> #Joomla! 1.5 projects owner
 
 - com\_akoBookPlus a guest book
 - com\_akoCommentPlus commenting system with anti spammer protection
@@ -97,7 +97,7 @@ MosSociable [http://extensions.joomla.org/extensions/clients-&amp;-groupware/soc
 RelatedArticles [http://extensions.joomla.org/extensions/search-&amp;-indexing/related-items/6209/details](http://extensions.joomla.org/extensions/search-&-indexing/related-items/6209/details)  
 joomlaCloud [http://extensions.joomla.org/extensions/search-&amp;-indexing/tags-&amp;-clouds/1215/details](http://extensions.joomla.org/extensions/search-&-indexing/tags-&-clouds/1215/details)
 
-# -> Projects where I am also developer**
+# -> Projects where I am also developer
 
 !joomlcomment [http://joomlacode.org/gf/project/joomagecomment/](http://joomlacode.org/gf/project/joomagecomment/) (commenting system ajax)  
 com\_version manager [http://joomlacode.org/gf/project/version\_manager/](http://joomlacode.org/gf/project/version_manager/) (From Soeren of Virtuemart)  

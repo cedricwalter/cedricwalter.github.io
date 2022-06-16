@@ -18,7 +18,7 @@ tags:
 
 ### IXS Tourmaster black
 
-IXS Tourmaster**   
+IXS Tourmaster   
 191 euro**   
 Botte en cuir n’offrant aucune protection mais en cuir souple trés agréable pour rouler pépère.
 

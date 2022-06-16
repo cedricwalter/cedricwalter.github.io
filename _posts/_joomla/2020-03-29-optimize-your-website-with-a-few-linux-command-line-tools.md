@@ -55,7 +55,7 @@ find . -type f -name "*.jpg" -exec guetzli {} {} \;
 
 ## Optimizing PNG files
 
-[`pngquant`](https://pngquant.org/) is a command-line utility and a library for lossy compression of PNG images. The conversion reduces file sizes significantly (often as much as 70%) and preserves **full alpha transparency**. Generated images are compatible with all web browsers and operating systems.
+[`pngquant`](https://pngquant.org/) is a command-line utility and a library for lossy compression of PNG images. The conversion reduces file sizes significantly (often as much as 70%) and preserves full alpha transparency. Generated images are compatible with all web browsers and operating systems.
 
 ```
 apt install pngquant # linux

@@ -18,20 +18,20 @@ All You have to do is to drop a file named .htaccess in Your /administrator dire
 
 | Here is a templates of .htaccess You can use |
 |---|
-| \# Do not allow any user to access this file – to copy in all .htaccess   <Files .htaccess>   order allow,deny   deny from all   </Files> \#force admin area with .htaccess password   AuthType Basic   AuthUserFile /**pathto**/.htpasswd   AuthGroupFile /dev/null   AuthName "Walter Cedric Administrator Area"   <Limit GET POST>   require valid-user   </Limit>   |
+| \# Do not allow any user to access this file – to copy in all .htaccess   <Files .htaccess>   order allow,deny   deny from all   </Files> \#force admin area with .htaccess password   AuthType Basic   AuthUserFile /pathto/.htpasswd   AuthGroupFile /dev/null   AuthName "Walter Cedric Administrator Area"   <Limit GET POST>   require valid-user   </Limit>   |
 
-- **pathto** should normally be outside you public webserver directory!  
+- pathto should normally be outside you public webserver directory!  
     In plesk, that means outside the httpdocs directory!
 - .htpasswd is a Text file which contains a mapping login:password.
 
 | Example of .htpasswd |
 |---|
-| admin:**XXXXXXX** |
+| admin:XXXXXXX |
 
 XXXXXXX must be replace by it’s crypt version, use that Url to create a new   
 crypted value:
 
-# http://de.selfhtml.org/cgi-bin/cryptform.pl?password=aSI45I#56B4KgR34542**
+# http://de.selfhtml.org/cgi-bin/cryptform.pl?password=aSI45I#56B4KgR34542
 
 In this example, I want to have aSI45I#56B4KgR34542 as password (my real password is even more complex!), the page then display me
 
@@ -58,11 +58,11 @@ I recommend You to google a little bit to find some exhaustive articles like thi
 
 If Youre using my component hashcash or any statistics log tools on YOur server, YOu may know the IP of the bad guys which try to break Your site. There is a way to block these attacking zombies at the server level. Just extends the section Limit of the .htaccess file
 
- ******<Limit GET POST>  
+ <Limit GET POST>  
 order allow,deny  
 allow from all  
-deny from****** XXX.XXX.XXX.XXX  
-# ****deny from .microsoft.com******   
-# </Limit>**
+deny from XXX.XXX.XXX.XXX  
+# deny from .microsoft.com   
+# </Limit>
 
 where XXX.XXX.XXX.XXX is the IP or part of the IP (XXX or XXX.XXX or XXX.XXX.XXX), but it can be a DNS. You can add as many lines as You want.

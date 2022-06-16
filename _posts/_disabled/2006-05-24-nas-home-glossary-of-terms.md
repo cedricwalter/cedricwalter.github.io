@@ -11,7 +11,7 @@ tags:
     - Storage
 ---
 
-origin: **WikiPedia**
+origin: WikiPedia
 
 [SAMBA](http://en.wikipedia.org/wiki/SAMBA)  
 *An open source implementation of the SMB file sharing protocol that provides file and print services to SMB/CIFS clients. Samba allows a non-Windows server to communicate with the same networking protocol as the Windows products. Samba was originally developed for Unix but can now run on #Linux, FreeBSD and other Unix variants. It is freely available under the GNU General Public License. The name Samba is a variant of SMB, the protocol from which it stems. As of version 3, samba not only provides file and print services for various Microsoft Windows clients but can also integrate with a Windows Server domain, either as a Primary Domain Controller (PDC) or as a Domain Member. It can also be part of an Active Directory domain.*   

@@ -13,9 +13,9 @@ tags:
     - software
 ---
 
-# ![](/assets/images/2007/06/google.desktop.search.for_.linux_.jpg)**
+# ![](/assets/images/2007/06/google.desktop.search.for_.linux_.jpg)
 
- **Google was set to launch late on Wednesday a beta version of Google Desktop search for #Linux in a sign of encouragement by the search giant for #Linux on the desktop.**
+ Google was set to launch late on Wednesday a beta version of Google Desktop search for #Linux in a sign of encouragement by the search giant for #Linux on the desktop.
 
  Google Desktop allows people to search the Web while also searching the full text of all the information on their computer, including Gmail and their Web search history. Because the index is stored locally on the computer, users can access Gmail and Web history while offline. [from News.com](http://news.com.com/2100-1032_3-6193579.html?part=rss&tag=2547-1_3-0-20&subj=news)
 

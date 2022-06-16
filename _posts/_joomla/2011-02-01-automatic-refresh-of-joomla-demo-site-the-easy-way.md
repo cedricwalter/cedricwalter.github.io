@@ -47,7 +47,7 @@ demo-joomla-1.6/
 
 In each of these Joomla! installation, copy this file snapshotit.bat inside and configure the variables accordingly. The file is well documented to not describe these variables here.
 
-This small batch file is making a snapshot of all files and database and create a new file **demo-joomla-1.5.zip** for example.
+This small batch file is making a snapshot of all files and database and create a new file demo-joomla-1.5.zip for example.
 
 ### Consider while installing Joomla!
 
@@ -56,7 +56,7 @@ This small batch file is making a snapshot of all files and database and create 
 
 On the server
 
-Copy now this file **demo-joomla-1.5.zip** to your server, using FTP, SSH
+Copy now this file demo-joomla-1.5.zip to your server, using FTP, SSH
 
 Copy also renew.sh to your server, using FTP, SSH
 
@@ -70,31 +70,31 @@ $ crontab -e
 
 add this line
 
-30 \* \* \* \* **locationOf\_renew.sh** **locationOf\_zip**  **locationof\_httpdocs dbuser dbpassword dbtablename unixuser unixgrp**
+30 \* \* \* \* locationOf\_renew.sh locationOf\_zip  locationof\_httpdocs dbuser dbpassword dbtablename unixuser unixgrp
 
 where
 
-- **locationOf\_renew.sh** fully qualified path to renew.sh
-- **locationOf\_zip** fully qualified path of zip file (containing Joomla! and .sql file)
-- **locationof\_httpdocs** fully qualified path of the httpdocs directory where this zip file content will be extracted
-- **dbuser** : database user that is used by Joomla!
-- **dbpassword** : database user password that is used by Joomla!
-- **dbtablename**: database schema name that is used by Joomla!
-- **unixuser**: unix user that is supposed to own all files in httpdocs, for example cedric
-- **unixgrp**: unix user that is supposed to own all files in httpdocs, for example psaserv
+- locationOf\_renew.sh fully qualified path to renew.sh
+- locationOf\_zip fully qualified path of zip file (containing Joomla! and .sql file)
+- locationof\_httpdocs fully qualified path of the httpdocs directory where this zip file content will be extracted
+- dbuser : database user that is used by Joomla!
+- dbpassword : database user password that is used by Joomla!
+- dbtablename: database schema name that is used by Joomla!
+- unixuser: unix user that is supposed to own all files in httpdocs, for example cedric
+- unixgrp: unix user that is supposed to own all files in httpdocs, for example psaserv
 
 ## Renew.sh
 
 This script renew.sh is doing the following with the zip file
 
-1. Delete all files in **locationof\_httpdocs** removing all potential security threat and settings changes by visitors of your demo site
+1. Delete all files in locationof\_httpdocs removing all potential security threat and settings changes by visitors of your demo site
 2. Lock the demo site by adding an htaccess and htpasswd files temporary
-3. Unzip all file in **demo-joomla-1.5.zip** to **locationof\_httpdocs**
-4. Restore the database with the file **demo-joomla-1.5.sql **found in **demo-joomla-1.5.zip**
-5. Change user and usergrp to the right one (**unixuser, **unixgrp****)
+3. Unzip all file in demo-joomla-1.5.zip to locationof\_httpdocs
+4. Restore the database with the file demo-joomla-1.5.sql found in demo-joomla-1.5.zip
+5. Change user and usergrp to the right one (unixuser, unixgrp)
 6. Change all files and directory to the minimum required set of permissions (555 for directory and 444 for files)
-7. Make the cache directory of Joomla! read write for the owner **unixuser**
-8. Delete the file **demo-joomla-1.5.sql** 
+7. Make the cache directory of Joomla! read write for the owner unixuser
+8. Delete the file demo-joomla-1.5.sql 
 9. It remove potentially dangerous components from demo site, among others
     1. com\_media Removing the users the right to upload, alter or delete files
     2. com\_config Removing the users the right to change configuration

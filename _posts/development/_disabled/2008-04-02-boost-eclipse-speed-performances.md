@@ -20,7 +20,7 @@ I am using these settings for more than a year now, and the speed gain you can e
 of 40%. [Eclipse](http://www.eclipse.org/) is more responsive, start up time is nearly divided by 2! These gains are reproducible   
 on different machines in the office.
 
-# Conditions**
+# Conditions
 
 - You must have a dual processor or quad core, (better if you use VMarg1)
 - You must start #Eclipse with #Java 1.6, note that you can still compile your project with #Java 1.5   

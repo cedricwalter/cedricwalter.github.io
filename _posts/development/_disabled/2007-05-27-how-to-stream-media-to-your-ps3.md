@@ -80,10 +80,10 @@ PS3 owners will be able to upgrade their PS3 with the latest Version 1.80 firmwa
 
  Here my PS3 is at 192.168.1.6
 
-| <small>**Turn UPnP On**</small> | <small>**Advertisement Period**</small> |
+| <small>Turn UPnP On</small> | <small>Advertisement Period</small> |
 |---|---|
 | <small>UPnP can be enabled or disabled for automatic device configuration. The default setting for UPnP is disabled. If disabled, the router will not allow any device to automatically control the resources, such as port forwarding (mapping), of the router. </small> | <small>The Advertisement Period is how often the router will advertise (broadcast) its UPnP information. This value can range from 1 to 1440 minutes. The default period is for 30 minutes. Shorter durations will ensure that control points have current device status at the expense of additional network traffic. Longer durations may compromise the freshness of the device status but can significantly reduce network traffic.</small> |
-| <small>**Advertisement Time To Live**</small> | <small>**UPnP Portmap Table**</small> |
+| <small>Advertisement Time To Live</small> | <small>UPnP Portmap Table</small> |
 | <small>The time to live for the advertisement is measured in hops (steps) for each UPnP packet sent. A hop is the number of steps allowed to propagate for each UPnP advertisement before it disappears. The number of hops can range from 1 to 255. The default value for the advertisement time to live is 4 hops, which should be fine for most home networks. If you notice that some devices are not being updated or reached correctly, then it may be necessary to increase this value a little.</small> | <small>The UPnP Portmap Table displays the IP address of each UPnP device that is currently accessing the router and which ports (Internal and External) that device has opened. The UPnP Portmap Table also displays what type of port is opened and if that port is still active for each IP address.</small> |
 
  

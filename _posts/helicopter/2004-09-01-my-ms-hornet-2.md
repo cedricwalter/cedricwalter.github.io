@@ -17,15 +17,15 @@ tags:
 right out the box  
 slowly assembling, click read more below
 
-![](../../Helico/hornet/hornet2/im/bullet-hornet.gif) <font color="#000000" face="Arial Black" size="4">**Equiped with**
+![](../../Helico/hornet/hornet2/im/bullet-hornet.gif) <font color="#000000" face="Arial Black" size="4">Equiped with
 
-| <font color="#ffffff">**Ms Modellsport Hornet 2** | <font color="#ffffff" size="1">**bought 130â&#130;¬
-on** [<font color="#ffffff" size="1">**www.ebay.com**](http://www.ebay.com/)<font color="#ffffff" size="1">  |
+| <font color="#ffffff">Ms Modellsport Hornet 2 | <font color="#ffffff" size="1">bought 130â&#130;¬
+on [<font color="#ffffff" size="1">www.ebay.com](http://www.ebay.com/)<font color="#ffffff" size="1">  |
 |---|---|
-| **Gyro:** | CSM 400 \*\* |
-| **RX:** | Rx 600 FM 41Mhz |
-| **Pitch/Roll/Nick-Servo:** | Hitec HS55 \*\* |
-| **Tail-Servo:** | Hitec HS55 \*\* |
+| Gyro: | CSM 400 \*\* |
+| RX: | Rx 600 FM 41Mhz |
+| Pitch/Roll/Nick-Servo: | Hitec HS55 \*\* |
+| Tail-Servo: | Hitec HS55 \*\* |
 | **
 Battery:** | 2000H3S 2000mAh LiPo Pack 3s Kokam     bought 213â&#130;¬ with charger on [http://www.rc-lipo.de/](http://www.rc-lipo.de/). battery are expensive but can be reused for my [Draganflyer 4 rotor helicopter](../../Helico/roswell/index.htm) |
 | **Blades:** | <font face="Verdana" size="2">Carbon blade \* |

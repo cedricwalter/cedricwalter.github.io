@@ -59,7 +59,7 @@ changing all your pom.xml and doing a technical commit will create merge conflic
 One solution, while not perfect is to do the following: You can add a separate execution to run a goal which will change
 the version of the POM automatically in the #Maven reactor. This small script will do it¨
 
-Create a [TeamCity](http://www.jetbrains.com/teamcity/) **Command line Build Step** with a custom script (Linux Bash)
+Create a [TeamCity](http://www.jetbrains.com/teamcity/) Command line Build Step with a custom script (Linux Bash)
 
 ```bash
 echo 'Change the version in pom.xml files...' branch=$(git rev-parse --abbrev-ref HEAD)  

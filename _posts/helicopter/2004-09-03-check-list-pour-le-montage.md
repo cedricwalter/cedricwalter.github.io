@@ -15,7 +15,7 @@ Date:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Réalisé par:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
 Machine:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**Montage :**  
+Montage :  
 \_\_\_\_\_ utiliser du frein filet sur toutes les vis et ecrous ou vis “parker”. (Loctite Bleu)  
 \_\_\_\_\_ Ne pas échanger des pas SAE la ou des pas métrique sont nécessaire.  
 \_\_\_\_\_ Tous les vis de bras de servo sont suffisament serrés dans l’axe de sortie des servos.  
@@ -37,7 +37,7 @@ protégées.
 \_\_\_\_\_ Le jeu entre l’engrenage principal et la transmission pour l’anticouple sont compatibles avec les
 recommandations du constructeur.
 
-**Moteur :**  
+Moteur :  
 \_\_\_\_\_ Rechercher la présence de débris a l’intérieur si il est neuf, ou le nettoyer surtout si il a été crashé.  
 \_\_\_\_\_ Toutes les fixations du moteur serrées.  
 \_\_\_\_\_ Le bati moteur est serré et loctité.  
@@ -52,7 +52,7 @@ les bruits suspects.
 \_\_\_\_\_ S’assurer que mi-gazs au stick correspond à mi-gazs au boisseau.  
 \_\_\_\_\_ Tester le prolongateur de bougie (si il existe).
 
-**Ligne d’essence :**  
+Ligne d’essence :  
 \_\_\_\_\_ Monter le réservoir et s’assurer qu’il ne bouge pas et est à l’abri des vibrations.  
 \_\_\_\_\_ Durites en parfait états et suivant un tracé conforme à la notice.  
 \_\_\_\_\_ Le plongeur ne doit pas toucher le fonds du réservoir.  
@@ -62,7 +62,7 @@ les bruits suspects.
 \_\_\_\_\_ Pressure test system with squeeze method if possible.  
 \_\_\_\_\_ Monter des clips pour sécuriser les durites.
 
-**Installation de la radio :**  
+Installation de la radio :  
 \_\_\_\_\_ Accus de reception 1000+ma chargé à pleine capacité.  
 \_\_\_\_\_ Batteries dans le Tx et Rx, déchargé et recharge, testé au galvanomètre (ESV).  
 \_\_\_\_\_ Batteries du Gyro (si différente du RX) chargées et testées.  

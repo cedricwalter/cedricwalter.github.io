@@ -12,9 +12,9 @@ tags:
     - university
 ---
 
-- **Build your own roswell:** [www.ifrance.com/Phobos-flyer](http://www.ifrance.com/Phobos-flyer) We planned to build our own roswell, using regular component.
-- **Buy a roswell flyer:** [http://ourworld.compuserve.com/homepages/larry\_flewelling/index.htm](http://ourworld.compuserve.com/homepages/larry_flewelling/index.htm) Larry is selling the roswell at a very good price : 350$ !!!!
-- **Links:**
+- Build your own roswell: [www.ifrance.com/Phobos-flyer](http://www.ifrance.com/Phobos-flyer) We planned to build our own roswell, using regular component.
+- Buy a roswell flyer: [http://ourworld.compuserve.com/homepages/larry\_flewelling/index.htm](http://ourworld.compuserve.com/homepages/larry_flewelling/index.htm) Larry is selling the roswell at a very good price : 350$ !!!!
+- Links:
 - <http://www.nyblimp.com/roswell/benton.htm> Benton modify the frame too.
 - <http://www.nyblimp.com/roswell/mount.htm> Roland modify the frame too.
 - <http://www.nyblimp.com/roswell.htm> Some links what others people do to change the frame.

@@ -12,7 +12,7 @@ tags:
 - programming
 ---
 
-# More sites using Google maps:**
+# More sites using Google maps:
 
 - [Geolocate where the server is on Google Maps](http://www.parsec.it/whereis/index.php), for
   example: [www.waltercedric.com](http://www.waltercedric.com/) server is in Paris 😉
@@ -35,5 +35,5 @@ hacks an tips, for example:
   and tools being influenced by Google Maps.
 
 And for finishing, the most beautiful hacks I’ve
-found: **[Google Maps Transparencies](http://www.kokogiak.com/gmaps-transparencies.html)
-and [extended box zooming function](http://www40.brinkster.com/rajbk/map.html)**
+found: [Google Maps Transparencies](http://www.kokogiak.com/gmaps-transparencies.html)
+and [extended box zooming function](http://www40.brinkster.com/rajbk/map.html)

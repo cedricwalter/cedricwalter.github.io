@@ -23,17 +23,17 @@ SVN/CVS in a flat way, it is just a set of files, or sometime even only the deli
 
 So these kind of subversion layout are not uncommon
 
-| **A set of files** | **A set of directory containing just different code version and code exploded** | **Just one version exploded in root** |
+| A set of files | A set of directory containing just different code version and code exploded | Just one version exploded in root |
 |---|---|---|
 | securityimages5.0.0.zip    securityimages4.3.2.zip    plugin4.3.3.zip | /securityimages5.0.0    /securityimages4.3.2    /plugin4.3.3 | file1.php    file2.php |
-| **layout A** | **layout B** | **layout C** |
+| layout A | layout B | layout C |
 
 All of these layout are highly not efficient…The point of SVN/CVS   
 is to compare and synchronize code easily (you merge code nearly 40% of your time   
 as a developer), and resolve code conflicts. SVN only store differences so sync is fast   
 and repository size is very low.
 
-> **Subversion**® is an open-source version control system. Subversion® allows developers to share   
+> Subversion® is an open-source version control system. Subversion® allows developers to share   
 > there projects on the repositories, where they are stored afterwards. Repository is much similar   
 > to a file server, except the fact, that it not only stores the copy of the file system, but its previous   
 > states and changing history. Subversion® access its repositories using network, so it provides a   
@@ -52,14 +52,14 @@ directory.
 
 I am now using the recommended SVN layout: /trunk /tags /branches
 
-> **Trunk** is a main (head) line of development. That’s where you share your project and do initial commit.   
+> Trunk is a main (head) line of development. That’s where you share your project and do initial commit.   
 > The code in trunk is considered not stable or in development. Usually nobody should commit code which   
 > break the trunk (to know it there is nothing else better than regression testing and continuous build server)   
->  **Tag** is a snapshot of the project state. You can create a tag of the one specified revision or a tag, containing   
+>  Tag is a snapshot of the project state. You can create a tag of the one specified revision or a tag, containing   
 > resources of different revisions. Tags are a kind of specific labels for a set of files each with its own revision   
 > number. Used to track the important events if project’s life cycle.
 > 
-> **Branching** means creating a new line of development on the repository location. This may be useful in   
+> Branching means creating a new line of development on the repository location. This may be useful in   
 > a different cases, for example if different clients wish to get the same product but with some differences   
 > in functionality. Of course it’s not convenient to create both products from the beginning to the end   
 > separately, so the developers create branches. Branches are the additional lines of development.   
@@ -67,7 +67,7 @@ I am now using the recommended SVN layout: /trunk /tags /branches
 > own development line and plan.
 
 I recommend you [using #Eclipse PDT (free),](http://www.eclipse.org/pdt/) So I have created 2 new PHP project in eclipse:   
-# securityimages4** (Joomla! 1.4) and **securityimages5** (Joomla! 1.5). For eaxmple **securityimages5**
+# securityimages4 (Joomla! 1.4) and securityimages5 (Joomla! 1.5). For eaxmple securityimages5
 
 - Contains #Joomla 1.5.3, my code is sometimes highly dependent on a specific #Joomla API version,   
     or may break if #Joomla! release a new version, so it has to be tested against some specific version of it
@@ -174,11 +174,11 @@ The ANT build file look like:
 ```
 
 ```
-<span class="lnum">  17:  <span class="kwrd"><<span class="html">fileset <span class="attr">dir<span class="kwrd">="${workspace.dir}/administrator/components/com_${component.name}" <span class="attr">includes<span class="kwrd">="**/*.*" <span class="kwrd">/>
+<span class="lnum">  17:  <span class="kwrd"><<span class="html">fileset <span class="attr">dir<span class="kwrd">="${workspace.dir}/administrator/components/com_${component.name}" <span class="attr">includes<span class="kwrd">="/*.*" <span class="kwrd">/>
 ```
 
 ```
-<span class="lnum">  18:  <span class="kwrd"><<span class="html">fileset <span class="attr">dir<span class="kwrd">="${workspace.dir}/components/com_${component.name}" <span class="attr">includes<span class="kwrd">="**/*.*" <span class="kwrd">/>
+<span class="lnum">  18:  <span class="kwrd"><<span class="html">fileset <span class="attr">dir<span class="kwrd">="${workspace.dir}/components/com_${component.name}" <span class="attr">includes<span class="kwrd">="/*.*" <span class="kwrd">/>
 ```
 
 ```
@@ -211,14 +211,14 @@ The ANT build file look like:
 
 <style type="text/css">    .csharpcode, .csharpcode pre { 	font-size: small; 	color: black; 	font-family: consolas, "Courier New", courier, monospace; 	background-color: #ffffff; 	/*white-space: pre;*/ } .csharpcode pre { margin: 0em; } .csharpcode .rem { color: #008000; } .csharpcode .kwrd { color: #0000ff; } .csharpcode .str { color: #006080; } .csharpcode .op { color: #0000c0; } .csharpcode .preproc { color: #cc6633; } .csharpcode .asp { background-color: #ffff00; } .csharpcode .html { color: #800000; } .csharpcode .attr { color: #ff0000; } .csharpcode .alt  { 	background-color: #f4f4f4; 	width: 100%; 	margin: 0em; } .csharpcode .lnum { color: #606060; }</style>Its purpose it to build a new deliverable in one click without going through the file system over and over.
 
-I also version the project **securityimages5** with the same version number, so I can then continue developing in trunk.
+I also version the project securityimages5 with the same version number, so I can then continue developing in trunk.
 
 ## Branching an existing release
 
 If someone report an issue, lets say in securityimages5.0.1.zip and code in /trunk is too far away in trunk or still unstable   
-to be released, I make a branch on project **securityimages5**
+to be released, I make a branch on project securityimages5
 
-I load the tag version 5.0.1 of the project **securityimages5** in my eclipse workspace (Team replace with – tags) and open   
+I load the tag version 5.0.1 of the project securityimages5 in my eclipse workspace (Team replace with – tags) and open   
 a branch (Team – open branch) and this project is now suddenly similar to another trunk:
 
 - A branch is not unique and is reacting like a trunk
@@ -240,7 +240,7 @@ A tag is a freeze code status from the past and the past can not be change 😉
 
 ## Joomla Releasing new versions
 
-Joomla release a new version? I install the new version of #Joomla! in my eclipse project **securityimages5** If securityimages still   
+Joomla release a new version? I install the new version of #Joomla! in my eclipse project securityimages5 If securityimages still   
 work, nice! if not I make changes for that version of #Joomla! and create a … new tag of securityimages.
 
 ## Conclusions

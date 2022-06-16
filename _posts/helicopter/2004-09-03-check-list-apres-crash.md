@@ -17,7 +17,7 @@ Machine:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Placer une croix devant la partie que vous venez de finir de vérifier…
 
-**Sur le terrain**  
+Sur le terrain  
 \_\_\_\_\_ Ne pas paniquer, devenir agressif, tout le monde s’est déjà crashé.  
 \_\_\_\_\_ Si possible, couper le moteur avec la radio pour éviter d’autres dégats . Couper l’arrivée d’essence dès que
 possible (penser à votre sécurité).   
@@ -28,22 +28,22 @@ possible (penser à votre sécurité).
 \_\_\_\_\_ Ne pas démonter la machine sur le terrain, il est plus facile de le faire à la maison avec l’équipements
 adapté.
 
-**A l’atelier**
+A l’atelier
 
-**Rotor de queue:**  
+Rotor de queue:  
 \_\_\_\_\_ vérifier les pales d’anticouples, fêlures ? chocs ?.  
 \_\_\_\_\_ examiner si l’arbre oppose une résistance à la rotation ou est tordu.  
 \_\_\_\_\_ Vérifier le curseur de commande d’anticouple, le glisseur.  
 \_\_\_\_\_ examiner le boitier d’anticouple, félé ?, cassé?, chocs?.  
 \_\_\_\_\_ examiner la partie centrale de la tête et les portes pales.
 
-**Poutre de queue:**  
+Poutre de queue:  
 \_\_\_\_\_ Pinion d’entrainement (dents abimées ? points dur ? Les dents sont en bon états ainsi que la courroie
 d’entrainement ?).  
 \_\_\_\_\_ Entrainement rigide ou par courroie, rechercher les dommages ou dents manquantes.  
 \_\_\_\_\_ Haubans de poutre de queue, fêlures ou jeu.
 
-**Bà¢ti principal:**  
+Bà¢ti principal:  
 \_\_\_\_\_ Chassis aluminium, lignes de brisures ou déformation structurelles. (Les lignes de brisures peuvent conduire
 a des interférences radio).  
 \_\_\_\_\_ Chassis en carbone : fêlures ou parties cassés.  

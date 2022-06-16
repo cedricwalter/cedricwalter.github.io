@@ -19,4 +19,4 @@ Another tool that open source community can be proud: [INKSCAPE](http://www.inks
 *Inkscape’s main motivation is to provide the Open Source community with a fully W3C compliant XML, SVG, and CSS2 drawing tool. Additional planned work includes conversion of the codebase from C/Gtk to C++/Gtkmm, emphasizing a lightweight core with powerful features added through an extension mechanism, and the establishment of a friendly, open, community-oriented development process.*
 
 To be convinced by the quality of operations performed by inkscape, a look [at the screenshots section](http://www.inkscape.org/screenshots/index.php) is invaluable. As usual in the open soure world, the code has been made to be highly portable, understand that inkscape [is available for download](http://www.inkscape.org/download.php) for #Linux, MacOsx and windows…  
-For any "**Bitmap only**" operations on pictures files, I recommend to use the complementary open source Tool [GIMP](http://www.gimp.org/)
+For any "Bitmap only" operations on pictures files, I recommend to use the complementary open source Tool [GIMP](http://www.gimp.org/)

@@ -12,7 +12,7 @@ header:
 
 ![](/assets/images/2004/09/alba1051.jpg)
 
-I am storing no pictures at the moment, mainly because **I love them all** (especially all the ones with Jessica alba). You can visit one of the following site to grab the latest pictures available. If the site are no more available, you can contact me.
+I am storing no pictures at the moment, mainly because I love them all (especially all the ones with Jessica alba). You can visit one of the following site to grab the latest pictures available. If the site are no more available, you can contact me.
 
  | <http://adinfinit.net/danation/> | Save Dark Angel – help us to have a saison 3 |
 |---|---|

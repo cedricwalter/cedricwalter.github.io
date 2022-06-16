@@ -46,7 +46,7 @@ Beside Dive, you can also use [docker inspect](https://docs.docker.com/engine/re
 docker image inspect image_id
 ```
 
-But Dive **is a lot better** as it allow to **navigate** and see the filesystem changes in a nice norton commander interface.
+But Dive is a lot better as it allow to navigate and see the filesystem changes in a nice norton commander interface.
 
 ![](/assets/images/2020/01/docker-dive-demo.gif)
 

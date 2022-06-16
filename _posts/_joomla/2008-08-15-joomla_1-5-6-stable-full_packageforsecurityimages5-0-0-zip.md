@@ -13,8 +13,8 @@ header:
 [![joomla_download_banner](/assets/images/2008/08/joomla_download_banner.png)](http://www.joomla.org/download.html) [![joomla_donate_banner](/assets/images/2008/08/joomla_donate_banner.png)](http://www.joomla.org/about-joomla/the-project/make-a-donation.html)
 
 The #Joomla! community is pleased to announce the immediate availability of #Joomla! 1.5.6 \[Vusani\].   
- **This is a quick turnaround security release to address a high level security issue and it is   
-recommended all users upgrade immediately.**
+ This is a quick turnaround security release to address a high level security issue and it is   
+recommended all users upgrade immediately.
 
 For more information about this exploit, [click here to visit the #Joomla Security Blog.](http://developer.joomla.org/security/news/241-20080801-core-password-remind-functionality.html)
 
@@ -22,12 +22,12 @@ For more information about this exploit, [click here to visit the #Joomla Securi
 
 - Allow login views, login modules, register, lost password, lost user account and contact section to be   
     protected by SecurityImages
-- Are for #Joomla! 1.5.6 **only** and SecurityImages 5.0.0Beta3 or later
+- Are for #Joomla! 1.5.6 only and SecurityImages 5.0.0Beta3 or later
 - 14 files has been altered, mostly views, and com\_contact/com\_user controller, click on picture below   
     for more details
-- Download file **Joomla\_1.5.6-Stable-Full\_PackageForSecurityImages5.0.0\_v01.00.00.zip** (33kB) and   
+- Download file Joomla\_1.5.6-Stable-Full\_PackageForSecurityImages5.0.0\_v01.00.00.zip (33kB) and   
     overwrite file on your server
-- Go to #Joomla! control panel and HIT at least **SAVE config** once, this will add a new boolean value   
+- Go to #Joomla! control panel and HIT at least SAVE config once, this will add a new boolean value   
     (true or false) in #Joomla! configuration for using SecurityImages
 
 Note there is no differences between the SecurityImages patches

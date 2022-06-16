@@ -20,7 +20,7 @@ A [CAPTCHA](http://www.captcha.net/) is a program that can tell whether its user
 
 ### What’s new
 
-- **Joomla 2.5 ready!**
+- Joomla 2.5 ready!
 - Has been tested on #Joomla! 1.6/1.7 and 2.5
 - Update [NuCaptcha](http://www.nucaptcha.com/) API to the latest version,
 - Fix a regression where [NuCaptcha](http://www.nucaptcha.com/) was not working properly on register page,
@@ -33,6 +33,6 @@ A [CAPTCHA](http://www.captcha.net/) is a program that can tell whether its user
 
 ##### Download / Documentation / Support
 
-To update your extension, Download the latest copy, uninstall from **Extensions → Install / Uninstall → Plugin** and install with the fresh copy.
+To update your extension, Download the latest copy, uninstall from Extensions → Install / Uninstall → Plugin and install with the fresh copy.
 
 [![](http://www.waltercedric.com/images/download-zip.png)](http://www.waltercedric.com/downloads/securityimages.html "downloads securityimages for Joomla")[![](http://www.waltercedric.com/images/documentation.jpg)](http://wiki.waltercedric.com/index.php?title=SecurityImages6.0.X "Read the documentation of securityimages for Joomla?")[![](http://www.waltercedric.com/images/support.png)](http://forums.waltercedric.com/ "Need Support for securityimages for Joomla?")

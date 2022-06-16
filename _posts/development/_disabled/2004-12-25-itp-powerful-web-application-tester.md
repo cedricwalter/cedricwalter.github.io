@@ -11,7 +11,7 @@ tags:
 - programming
 ---
 
-# Open-source** [ITP – Powerful web application tester ](http://www.incanica.com/itp.html)
+# Open-source [ITP – Powerful web application tester ](http://www.incanica.com/itp.html)
 
 *ITP is a deceptively simple, yet powerful web testing harness. It is a stand-alone #Java application that can test your
 website from a user’s perspective. It is amazingly simple and lightweight, yet can be used for powerful test-scripting

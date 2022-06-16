@@ -52,28 +52,28 @@ And an overall picture of the [Antec Skeleton](http://www.antec.com/Believe_it/p
 
 ## Features
 
-- **4 Drive Bays**   
+- 4 Drive Bays   
   • External 2 x 5.25¨   
   • Internal 2 x 3.5¨   
   • Optional 4 x 3.5¨ side panel mounted drive trays
-- **Layered tray design** for greater system integration flexibility
-- **8 Expansion Slots** with room for 11 graphics cards and multiple graphic card solutions, including NVIDIA 3-way SLI®
-- **Cooling System:**   
+- Layered tray design for greater system integration flexibility
+- 8 Expansion Slots with room for 11 graphics cards and multiple graphic card solutions, including NVIDIA 3-way SLI®
+- Cooling System:   
   • 1 top 250mm TriCool 3-speed multi color customizable LED Fan   
   • 1 front 92mm HD cooling fan
-- **Maximum video card size**: 11″/279mm (Note: some video cards may require removal of the adjacent hard drive cage)
-- **Compatible Motherboards:** Mini-ITX, microATX, Standard ATX
-- **Front ports:** 2 x USB 2.0, 1 x FireWire (IEEE1394), 1 x eSATA, Audio (AC97′ and HDA compatible) In and Out
-- **Rack mount quality side rails** for greater durability
-- **0.8mm cold rolled steel component tray and high density ABS frame reinforced with with 0.8mm cold rolled steel** for
+- Maximum video card size: 11″/279mm (Note: some video cards may require removal of the adjacent hard drive cage)
+- Compatible Motherboards: Mini-ITX, microATX, Standard ATX
+- Front ports: 2 x USB 2.0, 1 x FireWire (IEEE1394), 1 x eSATA, Audio (AC97′ and HDA compatible) In and Out
+- Rack mount quality side rails for greater durability
+- 0.8mm cold rolled steel component tray and high density ABS frame reinforced with with 0.8mm cold rolled steel for
   durability
-- **No Power Supply included:** To optimize performance of your Skeleton, your choice of power supply is crucial. Antec
+- No Power Supply included: To optimize performance of your Skeleton, your choice of power supply is crucial. Antec
   strongly recommends choosing from Signature or TruePower series.
-- **Unit Dimensions:**   
+- Unit Dimensions:   
   • 13″(H) x 14.8″(W) x 16.5″(D)   
   • 33 cm(H) x 37.6 cm(W) x 41.9 cm(D)
-- **Packaging Dimensions:**   
+- Packaging Dimensions:   
   • 15.74″(H) x 18.11″(W) x 18.89″(D)   
   • 40 cm(H) x 46 cm(W) x 48 cm(D)
-- **Net Weight:** 15.5 lb / 7.02 kg
-- **Gross Weight:** 21.4 lb / 9.7 kg
+- Net Weight: 15.5 lb / 7.02 kg
+- Gross Weight: 21.4 lb / 9.7 kg

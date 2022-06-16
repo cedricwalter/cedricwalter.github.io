@@ -43,7 +43,7 @@ Game Bit come in many sizes, the most popular Game Bit sizes is the 4.5mm and 3.
 
 Screwdrivers compatibility chart
 
-|  |  | **Games** | **System** | **Controller** |
+|  |  | Games | System | Controller |
 |---|---|---|---|---|
 | ![nintendo nes](http://www.videogamemuseum.com/images/store/systems/nintendo-nes.jpg "nintendo nes")  | Nintendo NES | ![gamebit.3.8mm](/assets/images/2010/12/gamebit.3.8mm.png "gamebit.3.8mm") | ![philips.screwdriver](/assets/images/2010/12/philips.screwdriver.png "philips.screwdriver") | ![philips.screwdriver](/assets/images/2010/12/philips.screwdriver.png "philips.screwdriver") |
 | ![super nintendo system](http://www.videogamemuseum.com/images/store/systems/nintendo%20super%20snes.jpg "super nintendo system") | Super Nintendo | ![gamebit.3.8mm](/assets/images/2010/12/gamebit.3.8mm.png "gamebit.3.8mm") | ![gamebit.3.8mm](/assets/images/2010/12/gamebit.3.8mm_d3ac46b047a893a1ffd39afe20929223.png "gamebit.3.8mm") | ![philips.screwdriver](/assets/images/2010/12/philips.screwdriver.png "philips.screwdriver") |

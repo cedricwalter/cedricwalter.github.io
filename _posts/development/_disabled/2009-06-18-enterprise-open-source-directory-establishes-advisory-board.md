@@ -8,13 +8,13 @@ author: 'Cédric Walter'
 
 ---
 
-I am really glad to announce that I am now officially in the **EOS Directory Advisory and Expert Board** of the [EOS directory](http://www.eosdirectory.com/).
+I am really glad to announce that I am now officially in the EOS Directory Advisory and Expert Board of the [EOS directory](http://www.eosdirectory.com/).
 
 The [EOS directory](http://www.eosdirectory.com/) is the leading online platform to help enterprises and organizations identify and evaluate Open Source technologies.
 
 Initially launched by [Optaros](http://www.optaros.com/), about two years ago, the platform has been recently handed over [Bruno von Rotz](http://www.accelit.ch/), initial sponsor of the initiative and well known Open Source specialist (follow Bruno on Twitter: [accelIT](http://twitter.com/accelIT)).
 
-In support to strengthen the neutral approach to ratings and selection of the technologies, the new **EOS Directory Advisory and Expert Board** has been established over the last weeks and [announced today](http://www.eosdirectory.com/blogs/2009/06/17/eos-directory-establishing-advisory-and-expert-board-with-key-open-source-experts/).
+In support to strengthen the neutral approach to ratings and selection of the technologies, the new EOS Directory Advisory and Expert Board has been established over the last weeks and [announced today](http://www.eosdirectory.com/blogs/2009/06/17/eos-directory-establishing-advisory-and-expert-board-with-key-open-source-experts/).
 
 > <cite>The Advisory and Expert Board will be both instrumental in 
 

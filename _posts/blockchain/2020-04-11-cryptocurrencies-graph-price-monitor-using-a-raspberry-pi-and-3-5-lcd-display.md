@@ -35,13 +35,13 @@ A [3.5” LCD screen from Amazon](https://amzn.to/2xmJHb9)
 
 ## Installing the Software
 
-Your SD-card needs to contain the software. You can take the long road by **building the SD-card** image yourself or **use the already prepared SD-Card image:**
+Your SD-card needs to contain the software. You can take the long road by building the SD-card image yourself or use the already prepared SD-Card image:
 
-# Download SD-Card image – Version 1.0:** **SOON**
+# Download SD-Card image – Version 1.0: SOON
 
-SHA-256: **xxxxxxxxxxx**
+SHA-256: xxxxxxxxxxx
 
-# Write the SD-Card image to your SD Card**
+# Write the SD-Card image to your SD Card
 
 You need to write the downloaded SD card image (the img.gz-file) to your SD card (16 GB minimum) – you can use the very easy tool Balena Etcher for this: <https://www.balena.io/etcher/> .. it’s available for Win, Mac &amp; Linux.
 
@@ -52,13 +52,13 @@ Insert the SD card and connect the power plug.
 
 ## BUILDING THE SD CARD
 
-# [Raspbian](https://waltercedric.com/tag/Raspbian/)** is THE official operating system for **all** models of the Raspberry Pi.
+# [Raspbian](https://waltercedric.com/tag/Raspbian/) is THE official operating system for all models of the Raspberry Pi.
 
-> **Raspbian** is a Debian-based (32 bit) computer operating system for Raspberry Pi. There are several versions of Raspbian including Raspbian Buster and Raspbian Stretch. Since 2015 it has been officially provided by the Raspberry Pi Foundation as the primary operating system for the family of Raspberry Pi single-board computers.
+> Raspbian is a Debian-based (32 bit) computer operating system for Raspberry Pi. There are several versions of Raspbian including Raspbian Buster and Raspbian Stretch. Since 2015 it has been officially provided by the Raspberry Pi Foundation as the primary operating system for the family of Raspberry Pi single-board computers.
 > 
 > <cite>[Wikipedia](https://en.wikipedia.org/wiki/Raspbian)</cite>
 
-We now use the **Raspberry Pi Imager** for an easy way to install Raspbian and other operating systems to an SD card ready to use with your Raspberry Pi:
+We now use the Raspberry Pi Imager for an easy way to install Raspbian and other operating systems to an SD card ready to use with your Raspberry Pi:
 
 - [Raspberry Pi Imager for Windows](https://downloads.raspberrypi.org/imager/imager.exe)
 - [Raspberry Pi Imager for macOS](https://downloads.raspberrypi.org/imager/imager.dmg)

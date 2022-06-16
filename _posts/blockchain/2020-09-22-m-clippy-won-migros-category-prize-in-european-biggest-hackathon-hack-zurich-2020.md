@@ -40,7 +40,7 @@ And we both were active in the Migros Slack channel. Thanks to some developers o
 
 ## The vision
 
-We started by filling up a **Problem Canvas**. A **Problem Canvas** allows you to identify the customer, the problematic action, the improvement areas, the reasons for customer to switch and the risks of not switching, all in a single view. The number one cause of startup failure is the lack of a real need in the market, according to a recent [post-mortem on startups](https://www.cbinsights.com/research/startup-failure-reasons-top/).
+We started by filling up a Problem Canvas. A Problem Canvas allows you to identify the customer, the problematic action, the improvement areas, the reasons for customer to switch and the risks of not switching, all in a single view. The number one cause of startup failure is the lack of a real need in the market, according to a recent [post-mortem on startups](https://www.cbinsights.com/research/startup-failure-reasons-top/).
 
 ![](/assets/images/2020/09/problem-statement-canvas-1.png)
 And we came up with the following idea:

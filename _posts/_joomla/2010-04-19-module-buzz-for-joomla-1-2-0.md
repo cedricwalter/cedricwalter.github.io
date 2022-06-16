@@ -17,7 +17,7 @@ tags:
 
 ## What’s new
 
-# New**: You can output 3 different kind of layout:
+# New: You can output 3 different kind of layout:
 
 1. The 1st layout is compact 
     - BuzzyBox = false
@@ -34,14 +34,14 @@ tags:
 
 [![Google.buzz.joomla.module](/assets/images/2010/04/Google.buzz_.joomla.module_thumb_dd9a27d7c76ece972c3671a7e6b67bd6.png "Google.buzz.joomla.module")](/assets/images/2010/04/Google.buzz_.joomla.module_2_8babe370e999265cbc3ecc91bd35017a.png)[![Google.buzz.for.joomla2](/assets/images/2010/04/Google.buzz_.for_.joomla2_thumb.png "Google.buzz.for.joomla2")](/assets/images/2010/04/Google.buzz_.for_.joomla2_2.png) [![google.buzz.module.noimages](/assets/images/2010/04/google.buzz_.module.noimages_thumb.png "google.buzz.module.noimages")](/assets/images/2010/04/google.buzz_.module.noimages_2.png)
 
-# New: **an improved administrator panel with tab help
+# New: an improved administrator panel with tab help
 
 [![google.buzz.module.admin](/assets/images/2010/04/google.buzz_.module.admin_thumb.png "google.buzz.module.admin")](/assets/images/2010/04/google.buzz_.module.admin_2.png)
 
-#### **New: **The origin of the buzz can be displayed [![twitter](/assets/images/2010/04/twitter_thumb.png "twitter")](/assets/images/2010/04/twitter_2.png) [![rss](/assets/images/2010/04/rss_thumb.png "rss")](/assets/images/2010/04/rss_2.png)   
-# New**: Internationalization, through .ini files   
-# New**: 3 css files, one per layout   
-# New**: debug mode = true and logs files are written in /logs/mod\_buzz.php
+#### New: The origin of the buzz can be displayed [![twitter](/assets/images/2010/04/twitter_thumb.png "twitter")](/assets/images/2010/04/twitter_2.png) [![rss](/assets/images/2010/04/rss_thumb.png "rss")](/assets/images/2010/04/rss_2.png)   
+# New: Internationalization, through .ini files   
+# New: 3 css files, one per layout   
+# New: debug mode = true and logs files are written in /logs/mod\_buzz.php
 
 ## Features
 

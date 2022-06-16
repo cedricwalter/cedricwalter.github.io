@@ -21,14 +21,14 @@ tags:
 |  | Left stick | Right stick |
 |---|---|---|
 | up/down | left/right | up/down | left/right |
-| **Mode 1** | elevator | rudder | throttle | aileron |
-| **Mode 2** | throttle | rudder | elevator | aileron |
-| **Mode 3** | elevator | aileron | throttle | rudder |
-| **Mode 4** | throttle | aileron | elevator | rudder |
+| Mode 1 | elevator | rudder | throttle | aileron |
+| Mode 2 | throttle | rudder | elevator | aileron |
+| Mode 3 | elevator | aileron | throttle | rudder |
+| Mode 4 | throttle | aileron | elevator | rudder |
 
- **Mode I**  
+ Mode I  
  The control stick configuration with the rudder and elevator being controlled by the left stick while the right stick controls the throttle and ailerons.  
- **Mode II**  
+ Mode II  
  The control stick configuration with the ailerons and elevator being controlled by the right stick while the left stick controls the rudder and throttle.
 
  To complete this how-to, you’ll have to remove 11 screws, swap a spring and ratchet, and flipping a switch.

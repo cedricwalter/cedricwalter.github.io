@@ -26,4 +26,4 @@ If you are running any of the following #Joomla versions it might just be a matt
 - Joomla! 1.5.9
 - And maybe to a lesser extent #Joomla! 1.5.10
 
- The latest, and most secure #Joomla version is **Joomla! 1.5.11** – and was released last week! Backup your site and database and just unpack the right #Joomla! distribution now.
+ The latest, and most secure #Joomla version is Joomla! 1.5.11 – and was released last week! Backup your site and database and just unpack the right #Joomla! distribution now.

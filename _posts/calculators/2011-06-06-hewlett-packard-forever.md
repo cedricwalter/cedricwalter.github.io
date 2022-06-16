@@ -24,6 +24,6 @@ my collection
 size. [My section concerning the HP calculator is outdated but still online](http://www.waltercedric.com/component/content/section/18.html)
 .
 
-Don’t forget also to visit **hpcalc.org** ([http://www.hpcalc.org](http://www.hpcalc.org/)), the premier source of
+Don’t forget also to visit hpcalc.org ([http://www.hpcalc.org](http://www.hpcalc.org/)), the premier source of
 software for and information about the HP 50, HP 49, HP 48, and HP 28 RPN programmable graphic calculators and the HP
 38G, HP 39, and HP 40 programmable graphic calculators.

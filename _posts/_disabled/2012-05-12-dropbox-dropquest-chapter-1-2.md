@@ -32,7 +32,7 @@ if abcde is the password….
 
 Valid solutions are
 
-1. **a=3 b=8 c=6 d=4 e=5**
+1. a=3 b=8 c=6 d=4 e=5
 2. a=1 b=24 c=0 d=12 e=-11
 3. a=2 b=12 c=5 d=6 e=1
 

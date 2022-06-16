@@ -27,11 +27,11 @@ tags:
 
 ![tux-droid-linux-companion](/assets/images/2009/03/tuxdroidlinuxcompanion_thumb.jpg "tux-droid-linux-companion")
 
-# [Tux Droid](http://www.kysoh.com/)** is a #Linux wireless Tux mascot (210mm x 180mm x 140mm – with lowered wings) with a programmable interface, allowing it to announce events by its gestures and by ALSA driven sound. The events are detected by specific gadgets, which are handled by the Tux Gadget Manager. The Tux Droid supports #Linux kernel 2.4 or later and needs a 800 MHz CPU and 128 MB RAM. It communicates by infrared to the USB port (1.1 or 2.0) and for media detection it needs an internet connection. The mascot is driven by Atmel AVR RISC microcontrollers. From [http://en.wikipedia.org/wiki/Tux\_Droid](http://en.wikipedia.org/wiki/Tux_Droid)
+# [Tux Droid](http://www.kysoh.com/) is a #Linux wireless Tux mascot (210mm x 180mm x 140mm – with lowered wings) with a programmable interface, allowing it to announce events by its gestures and by ALSA driven sound. The events are detected by specific gadgets, which are handled by the Tux Gadget Manager. The Tux Droid supports #Linux kernel 2.4 or later and needs a 800 MHz CPU and 128 MB RAM. It communicates by infrared to the USB port (1.1 or 2.0) and for media detection it needs an internet connection. The mascot is driven by Atmel AVR RISC microcontrollers. From [http://en.wikipedia.org/wiki/Tux\_Droid](http://en.wikipedia.org/wiki/Tux_Droid)
 
 *[Bamboo](http://www.atlassian.com/software/bamboo/)* is a continuous integration server from Atlassian Software Systems, the makers of JIRA, Confluence and Crowd. Bamboo is free for philanthropic and open-source projects. Academic and commercial organizations are charged based on type of license. Some other features of Bamboo are its unlimited build plans and unlimited projects that provide instant feedback and a platform to collaborate with other team members for build projects, and its ability to run distributed builds. It integrates with existing development tools, and it can be integrated with popular source code systems.
 
-# With this plugin**
+# With this plugin
 
 You can notify your Tux Droid with your TeamCity build results!
 

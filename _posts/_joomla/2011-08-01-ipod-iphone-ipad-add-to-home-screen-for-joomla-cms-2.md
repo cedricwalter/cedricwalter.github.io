@@ -32,15 +32,15 @@ This plugin is based on the project [add2Home](http://cubiq.org/add-to-home-scre
 
 [![add2Home_ipod_iphone_ipad_joomla_00](/assets/images/2011/08/add2Home_ipod_iphone_ipad_joomla_00_thumb.png "add2Home_ipod_iphone_ipad_joomla_00")](/assets/images/2011/08/add2Home_ipod_iphone_ipad_joomla_00.png)
 
-- **animationIn:** the animation the balloon appears with. Can be: `drop`, `bubble` and `fade`. Default: drop.
-- **animationOut:** the animation the balloon exits with. Can be: `drop`, `bubble` and `fade`. Default: fade.
-- **startDelay:** milliseconds to wait before showing the message. Default: 2000
-- **lifespan:** milliseconds to wait before hiding the message. Default: 20000
-- **bottomOffset:** distance in pixels from the bottom (iPhone) or the top (iPad). Default: 14
-- **expire:** minutes before displaying the message again. If you don’t want to show the message at each and every page load, you can set a timeframe in minutes. The message will be shown only one time inside that timeframe. Default: 0 (=always show).
-- **message:** Define a custom message to display OR set a fixed locale. If you don’t like the default message we have chosen for you, you can add your own. You can also force a language by passing the respective locale (eg: ‘en\_us’ will always display the English message). Default: ” (=script decides).
-- **touchIcon:** if set to `true`, the script checks for `link rel="apple-touch-icon"` in the page `HEAD` and displays the application icon next to the message. Default: false.
-- **arrow:** shows the little arrow pointing the bottom bar “add” icon. For custom designs you may want to disable it (ie: set it to `false`). Default: true.
+- animationIn: the animation the balloon appears with. Can be: `drop`, `bubble` and `fade`. Default: drop.
+- animationOut: the animation the balloon exits with. Can be: `drop`, `bubble` and `fade`. Default: fade.
+- startDelay: milliseconds to wait before showing the message. Default: 2000
+- lifespan: milliseconds to wait before hiding the message. Default: 20000
+- bottomOffset: distance in pixels from the bottom (iPhone) or the top (iPad). Default: 14
+- expire: minutes before displaying the message again. If you don’t want to show the message at each and every page load, you can set a timeframe in minutes. The message will be shown only one time inside that timeframe. Default: 0 (=always show).
+- message: Define a custom message to display OR set a fixed locale. If you don’t like the default message we have chosen for you, you can add your own. You can also force a language by passing the respective locale (eg: ‘en\_us’ will always display the English message). Default: ” (=script decides).
+- touchIcon: if set to `true`, the script checks for `link rel="apple-touch-icon"` in the page `HEAD` and displays the application icon next to the message. Default: false.
+- arrow: shows the little arrow pointing the bottom bar “add” icon. For custom designs you may want to disable it (ie: set it to `false`). Default: true.
 
 You can see a demo of it at <http://vimeo.com/19090508> and it is currently active on this blog.
 

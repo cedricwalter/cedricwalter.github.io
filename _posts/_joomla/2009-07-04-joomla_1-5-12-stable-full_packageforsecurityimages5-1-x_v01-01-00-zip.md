@@ -15,12 +15,12 @@ Only for SecurityImages 5.1.x and #Joomla! 1.5.12
 Allow login views, login modules, register, lost password, lost user account and contact section to be   
 protected by SecurityImages
 
-- Are for #Joomla! 1.5.12 **only** and SecurityImages 5.1.x or later
+- Are for #Joomla! 1.5.12 only and SecurityImages 5.1.x or later
 - 14 files has been altered, mostly views, and com\_contact/com\_user controller, click on picture below   
   for more details
-- Download file **Joomla\_1.5.12-Stable-Full\_PackageForSecurityImages5.1.x\_v01.01.00.zip** (33kB) and   
+- Download file Joomla\_1.5.12-Stable-Full\_PackageForSecurityImages5.1.x\_v01.01.00.zip (33kB) and   
   overwrite file on your server
-- Go to #Joomla! control panel and HIT at least **SAVE config** once, this will add a new boolean value   
+- Go to #Joomla! control panel and HIT at least SAVE config once, this will add a new boolean value   
   (true or false) in #Joomla! configuration for using SecurityImages.
 
 [Download ](https://waltercedric.com/new/?p=513)/ [Details](https://waltercedric.com/new/?p=513) / Keep up to date with

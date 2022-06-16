@@ -21,5 +21,5 @@ by examining the following metrics in the 40 most recent patches/vulnerabilities
 …  
 The results were not unexpected. Even by Microsoft’s subjective and flawed standards, fully 38% of the most recent
 patches address flaws that Microsoft ranks as Critical. Only 10% of Red Hat’s patches and alerts address flaws of
-Critical severity* [**Also in PDF format
-here.**](http://www.theregister.co.uk/2004/10/22/security_report_windows_vs_linux.pdf)
+Critical severity* [Also in PDF format
+here.](http://www.theregister.co.uk/2004/10/22/security_report_windows_vs_linux.pdf)

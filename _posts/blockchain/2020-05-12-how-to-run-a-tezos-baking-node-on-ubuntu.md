@@ -194,7 +194,7 @@ Congratulation, you have a running full [Tezos](https://tezos.com/) node!!!!
 
 ## Connecting Nanoledger S HSM
 
-![](/assets/images/2020/05/nanoledger-s.jpeg)<figcaption>**Ledger** Nano S: [The Ledger Nano S](https://amzn.to/2zB0yI0) is the most sold hardware wallet in the world. With its dedicated security chip, it protects you from unauthorized access to your crypto currencies, virtually and physically.</figcaption>A hardware wallet is a cryptocurrency wallet which stores the user’s private keys (critical piece of information used to authorize outgoing transactions on the blockchain network) in a secure hardware device. [Ledger Nano S](https://amzn.to/2zB0yI0) is a hardware wallet that is used for the storage of and transactions in popular cryptocurrencies like Bitcoin, Ethereum and other popular altcoins.
+![](/assets/images/2020/05/nanoledger-s.jpeg)<figcaption>Ledger** Nano S: [The Ledger Nano S](https://amzn.to/2zB0yI0) is the most sold hardware wallet in the world. With its dedicated security chip, it protects you from unauthorized access to your crypto currencies, virtually and physically.</figcaption>A hardware wallet is a cryptocurrency wallet which stores the user’s private keys (critical piece of information used to authorize outgoing transactions on the blockchain network) in a secure hardware device. [Ledger Nano S](https://amzn.to/2zB0yI0) is a hardware wallet that is used for the storage of and transactions in popular cryptocurrencies like Bitcoin, Ethereum and other popular altcoins.
 
 You can use the more expensive (has a lot more features and can run 100 apps/coins at the same time) [Ledger Nano X](https://amzn.to/2zB0J68), but it make just no sense: Your nano ledger will just run one Application: the Tezos Baking App.
 

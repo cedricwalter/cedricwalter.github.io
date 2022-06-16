@@ -11,7 +11,7 @@ tags:
 - 'RC helicopter'
 ---
 
-**Sur le terrain:**  
+Sur le terrain:  
 \_\_\_\_\_ Siphoner le réservoir si nécessaire.  
 \_\_\_\_\_ Utiliser le reste d’essence au fond du réservoir et y ajouter éventuellement de l’huile (afterrun oil).  
 \_\_\_\_\_ Eteindre Rx, Tx, gyro et tout autre équipements électriques.  
@@ -22,7 +22,7 @@ tags:
 \_\_\_\_\_ Sécuriser l’hélicoptère pour le transport.  
 \_\_\_\_\_ Sécuriser l’équipement de terrain.  
 \_\_\_\_\_ Faire l’inventaire de tous les outils, équippements radio, carte FFM.  
-**A l’atelier :**  
+A l’atelier :  
 \_\_\_\_\_ Nettoyer entièrement l’hélicoptère avec un tissus doux, serviettes jetable, cotons tiges et une solution
 nettoyante sans amoniaque.  
 \_\_\_\_\_ Vérifier tous les roulements à la recherche d’un bruit suspect.  

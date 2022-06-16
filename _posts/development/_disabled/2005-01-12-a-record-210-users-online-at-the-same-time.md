@@ -12,5 +12,5 @@ tags:
     - homepage
 ---
 
-| ![](/assets/images/2005/01/record210usersonline.png) | - The audience of my homepage is really starting to rise….a big thanks to all my visitors! 🙂 - I have also migrated [my Wiki](http://waltercedric.com/wiki/index.php?title=Main_Page) to the latest stable release of [WikiPedia](http://wikipedia.sourceforge.net/) **1.3.9 released 2004-12-12** |
+| ![](/assets/images/2005/01/record210usersonline.png) | - The audience of my homepage is really starting to rise….a big thanks to all my visitors! 🙂 - I have also migrated [my Wiki](http://waltercedric.com/wiki/index.php?title=Main_Page) to the latest stable release of [WikiPedia](http://wikipedia.sourceforge.net/) 1.3.9 released 2004-12-12 |
 |---|---|

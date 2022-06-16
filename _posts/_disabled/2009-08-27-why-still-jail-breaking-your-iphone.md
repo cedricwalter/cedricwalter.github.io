@@ -13,9 +13,9 @@ header:
 ![iphone3gs](/assets/images/2009/08/iphone3gs.jpg "iphone3gs") Just because of some software you will NEVER find anytime soon in the official iTunes store.
 
 - AdBlock: block advertisements,
-- **FREE**: PrivaCy for avoiding developer to track your usage habits (similar to analytics)
-- **FREE**: How to remove all advertisement in free applications and Safari
-- **FREE:** How to blacklist Malware server in Safari using Spybot immunize hosts entries
+- FREE: PrivaCy for avoiding developer to track your usage habits (similar to analytics)
+- FREE: How to remove all advertisement in free applications and Safari
+- FREE: How to blacklist Malware server in Safari using Spybot immunize hosts entries
 
 All these tips only work on Jail broken devices, the last 2 tips require a bit more knowledge than just installing an applications with [Cydia](http://cydia.saurik.com/), use at your own risk!
 
@@ -35,7 +35,7 @@ If you still want to remove all advertisements for FREE you can also follow a mo
 
 Download the replacement host file from [this link](http://jamesisbored.com/iphone/content/hosts.php) and replace your hosts file at the root of your iPhone using [iPhone Browser](http://code.google.com/p/iphonebrowser/) or any SCP client ([winscp](http://winscp.net/eng/index.php) for example)
 
-# Attention**
+# Attention
 
 - If you want to use the [Categories App](http://www.iphonehacks.com/2008/10/categories-app.html), then please remove the 127.0.0.1 mm.admob.com line from the downloaded replacement host file, otherwise it will not work. I
 - if you don’t want to disable Apple’s kill-switch mechanism then remove this line as well 127.0.0.1 iphone-services.apple.com from the replacement host file.
@@ -56,7 +56,7 @@ and open the hosts file from there, you now have a huge list of all malware know
 
 ## PrivaCy 
 
-# ![privacy.cydia.analytics.blocking](/assets/images/2009/08/privacy.cydia_.analytics.blocking_thumb.jpg "privacy.cydia.analytics.blocking")**
+# ![privacy.cydia.analytics.blocking](/assets/images/2009/08/privacy.cydia_.analytics.blocking_thumb.jpg "privacy.cydia.analytics.blocking")
 
 It has recently come to the attention of angry Cydia users that they are being watched by many of the applications they have installed from the App Store.
 
@@ -67,6 +67,6 @@ Flurry, Medialets, and [Mobclix](http://www.mobclix.com/).
 
 Developers integrate these systems for much the same reason people use Google Analytics: to better understand how their customers use their products. Unfortunately, due to the restrictions Apple places on their App Store, these providers are unable to directly interface with the users they affect. Instead, they rely on developers of every single application to document what information is being logged, and allow users to "opt-out" if they desire. Thanks to applications like redsn0w and Cydia, however, these restrictions are no longer important: a system-wide global "opt-out" setting is now possible. Pinch Media realized this fact, and took the lead in contacting me regarding getting this feature out there to all the users of jail broken devices: they care. With BigBoss, we then contacted all of the other providers, getting not only their blessing, but also their technical expertise in disabling their systems.
 
-The result is PrivaCy: a new Settings panel that allows you to selectively opt-out of sending anonymous usage statistics to each of these providers. This extension was a **team effort**, and was able to be executed as quickly as it was thanks to the help and interest of the companies involved.
+The result is PrivaCy: a new Settings panel that allows you to selectively opt-out of sending anonymous usage statistics to each of these providers. This extension was a team effort, and was able to be executed as quickly as it was thanks to the help and interest of the companies involved.
 
 From <http://cydia.saurik.com/package/com.saurik.privacy>

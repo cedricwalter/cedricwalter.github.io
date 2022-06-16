@@ -37,11 +37,11 @@ You normally don’t end up with these questions, issues may only appear if
 
 The use case behind this article is very simple, as I have a a continuous build were:
 
-- 5 web applications have to be deployed into a remote tomcat in phase **pre-integration-test**,
-- 2 databases are created for test cases in phase **generate-test-resources**
-- 1 more database is created and needed for runtime, done in phase **pre-integration-test**
-- One of these web applications is able to inject data into database using web services, a profile do this in a profile in phase **pre-integration-test**
-- Selenium test cases are run in phase **integration-test**
+- 5 web applications have to be deployed into a remote tomcat in phase pre-integration-test,
+- 2 databases are created for test cases in phase generate-test-resources
+- 1 more database is created and needed for runtime, done in phase pre-integration-test
+- One of these web applications is able to inject data into database using web services, a profile do this in a profile in phase pre-integration-test
+- Selenium test cases are run in phase integration-test
 
 All these steps are done using several [Apache #Maven](http://maven.apache.org/) pom profiles.
 
@@ -51,34 +51,34 @@ As it is a bit complicated to explain, lets first refresh some [Apache #Maven](h
 
 First you’ll have to keep in the mind [Apache Maven](http://maven.apache.org/) lifecycle of modules, 21 goals out of the box:
 
-- **Validate**: validate the project is correct and all necessary information is available
-- **generate**–**sources**: generate any source code for inclusion in compilation
-- **process**–**sources**: process the source code, for example to filter any values
-- **generate**–**resources**: generate resources for inclusion in the package
-- **process**–**resources**: copy and process the resources into the destination directory, ready for packaging
-- **compile**: compile the source code of the project
-- **process**–**classes**: post-process the generated files from compilation, for example to do byte code enhancement on Java classes
-- **generate**–**test-sources**: generate any test source code for inclusion in compilation
-- **process-test-sources**: process the test source code, for example to filter any values
-- **generate-test-resources** : create resources for testing
-- **process-test-resources**: copy and process the resources into the test destination directory
-- **test-compile**: compile the test source code into the test destination directory
-- **test**: run tests using a suitable unit testing framework. These tests should not require the code be packaged or deployed
-- **prepare-package**: perform any operations necessary to prepare a package before the actual packaging. This often results in an unpacked, processed version of the package   
-    **package** take the compiled code and package it in its distributable format, such as a JAR   
-    **pre-integration-test**: perform actions required before integration tests are executed. This may involve things such as setting up the required environment
-- **integration-test**: process and deploy the package if necessary into an environment where integration tests can be run (selenium test cases for example)   
-    **post-integration-test:** perform actions required after integration tests have been executed. This may including cleaning up the environment
-- **verify** run any checks to verify the package is valid and meets quality criteria
-- **install** install the package into the local repository, for use as a dependency in other projects locally
-- **deploy** code is deployed in artifactory or copied with ftp/scp for distribution
+- Validate: validate the project is correct and all necessary information is available
+- generate–sources: generate any source code for inclusion in compilation
+- process–sources: process the source code, for example to filter any values
+- generate–resources: generate resources for inclusion in the package
+- process–resources: copy and process the resources into the destination directory, ready for packaging
+- compile: compile the source code of the project
+- process–classes: post-process the generated files from compilation, for example to do byte code enhancement on Java classes
+- generate–test-sources: generate any test source code for inclusion in compilation
+- process-test-sources: process the test source code, for example to filter any values
+- generate-test-resources : create resources for testing
+- process-test-resources: copy and process the resources into the test destination directory
+- test-compile: compile the test source code into the test destination directory
+- test: run tests using a suitable unit testing framework. These tests should not require the code be packaged or deployed
+- prepare-package: perform any operations necessary to prepare a package before the actual packaging. This often results in an unpacked, processed version of the package   
+    package take the compiled code and package it in its distributable format, such as a JAR   
+    pre-integration-test: perform actions required before integration tests are executed. This may involve things such as setting up the required environment
+- integration-test: process and deploy the package if necessary into an environment where integration tests can be run (selenium test cases for example)   
+    post-integration-test: perform actions required after integration tests have been executed. This may including cleaning up the environment
+- verify run any checks to verify the package is valid and meets quality criteria
+- install install the package into the local repository, for use as a dependency in other projects locally
+- deploy code is deployed in artifactory or copied with ftp/scp for distribution
 
 if you run the goal compile
 
 > mvn compile
 
 on a simple multi module project, EVERY modules, one after the others, will go through these phases   
-# validate** –> **generate**–**sources –> **process**–**sources** –> **generate**–**resources** –> **process**–**resources –> **compile******
+# validate –> generate–sources –> process–sources –> generate–resources –> process–resources –> compile
 
 ### Apache Maven reactor
 
@@ -155,11 +155,11 @@ It start to be complicated when you provide a list of profile using [Apache Mave
 mvn post-integration-test –PdeployWeb,createDatabase,runSelenium,deployMonitoring
 ```
 
-# Chances are high** that you will get profile executed in wrong order, too early or too late..
+# Chances are high that you will get profile executed in wrong order, too early or too late..
 
 ## Rule #1 profiles are activated (if found) following reactor modules order
 
-The first rule is that profiles are activated in module reactor order first, if myProject is first it will go through all 18 phases of [Apache Maven](http://maven.apache.org/) (from **validate** to **post-integration-test in my example**). Keep in mind also that the list of profiles will be applied to EVERY modules in EVERY phase starting at the top most module in reactor.
+The first rule is that profiles are activated in module reactor order first, if myProject is first it will go through all 18 phases of [Apache Maven](http://maven.apache.org/) (from validate to post-integration-test in my example). Keep in mind also that the list of profiles will be applied to EVERY modules in EVERY phase starting at the top most module in reactor.
 
 - On modules myproject: 
     - [Apache Maven](http://maven.apache.org/) will activate profiles PdeployWeb,createDatabase,runSelenium,deployMonitoring if one or more in the list are present in myproject/pom.xml
@@ -175,10 +175,10 @@ The order you define in myProject/pom.xml for (=module aggregation) is still kep
 
 Not clear enough? look at the 2 examples below:
 
-| **myProject/pom.xml** | **mvn post-integration-test    Reactor build order (seen in logs)** | **Remarks** |
+| myProject/pom.xml | mvn post-integration-test    Reactor build order (seen in logs) | Remarks |
 |---|---|---|
-| remoting    **web    monitoring**    common    services | 1. myProject 2. common 3. services 4. remoting 5. **web** 6. **monitoring** | Maven adapt the order based on oriented graph of dependencies between modules. |
-| remoting    **monitoring    web**    common    services | 1. myProject 2. common 3. services 4. remoting 5. **monitoring** 6. **web** | Swapping module having no direct connections each others and having no conflicting dependencies to other may result in a different order in reactor!!!! and also different profile execution order. |
+| remoting    web    monitoring    common    services | 1. myProject 2. common 3. services 4. remoting 5. web 6. monitoring | Maven adapt the order based on oriented graph of dependencies between modules. |
+| remoting    monitoring    web    common    services | 1. myProject 2. common 3. services 4. remoting 5. monitoring 6. web | Swapping module having no direct connections each others and having no conflicting dependencies to other may result in a different order in reactor!!!! and also different profile execution order. |
 
 Since [Apache Maven](http://maven.apache.org/) has detected that the module monitoring and web have no connections, it accept the “human/natural” order found in myproject/pom.xml.
 
@@ -206,9 +206,9 @@ It is a good things, as it simply make no sense across all modules and all Maven
 
 If I want to insure that profiles deployWeb, createDatabase are run before the profiles runSelenium you have to keep that order in the pom.xml even if these profiles are acting in different Maven phase
 
-- createDatabase may run in phase **generate-test-resources**
-- deployWeb run in phase **pre-integration-test**
-- runSelenium run in phase **integration-test**
+- createDatabase may run in phase generate-test-resources
+- deployWeb run in phase pre-integration-test
+- runSelenium run in phase integration-test
 
 Considering the module ordering in reactor, a good pom.xml candidate could be web/pom.xml like this
 

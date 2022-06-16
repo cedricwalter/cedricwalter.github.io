@@ -32,7 +32,7 @@ Download [http://developer.android.com/sdk/installing/studio.html](http://develo
 
 This download includes:
 
-- Android Studio **early access preview**
+- Android Studio early access preview
 - All the Android SDK Tools to design, test, debug, and profile your app
 - The latest Android platform to compile your app
 - The latest Android system image to run your app in the emulator

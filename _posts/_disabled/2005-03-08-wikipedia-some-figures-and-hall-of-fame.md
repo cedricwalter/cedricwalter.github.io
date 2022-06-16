@@ -12,9 +12,9 @@ tags:
 - wikipedia
 ---
 
-Wikipedia, the online encyclopedia, has **490,000 articles — in English alone.** All together, including its French,
-German, Italian, Chinese, Spanish and many other versions, it has well over **1.3 million entries**. But without its **
-16,000 contributors**, Wikipedia would be about as useful as a moldy 1978 edition of Encyclopedia Americana. With them,
+Wikipedia, the online encyclopedia, has 490,000 articles — in English alone. All together, including its French,
+German, Italian, Chinese, Spanish and many other versions, it has well over 1.3 million entries. But without its 
+16,000 contributors, Wikipedia would be about as useful as a moldy 1978 edition of Encyclopedia Americana. With them,
 Wikipedia has become the world’s largest effort of its kind, and one that is compared to Encyclopedia Britannica in
 terms of quality and breadth.
 …. [read more about the best contributor of the system](http://www.wired.com/news/culture/0,1284,66814,00.html?tw=wn_story_page_prev2)

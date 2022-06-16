@@ -15,7 +15,7 @@ tags:
     - released
 ---
 
-- **BUG** (discovered by CS): scanner classes were not using generic database and tablename prefix. An empty dataset of words has trigger a division by 0…the right way is to use the #\_\_ prefix when building a SQL statement….
+- BUG (discovered by CS): scanner classes were not using generic database and tablename prefix. An empty dataset of words has trigger a division by 0…the right way is to use the #\_\_ prefix when building a SQL statement….
 
 Version has been released in [my download section](/downloads/task,cat_view/gid,296/ "http://www.waltercedric.com/component/option,com_docman/task,cat_view/gid,296/Itemid,64/"), at [joomla forge](http://forge.joomla.org), and at [demo.waltercedric.com](http://demo.waltercedric.com/) (see it live running and change settings in admin panel)
 

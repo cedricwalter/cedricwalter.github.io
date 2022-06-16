@@ -13,5 +13,5 @@ tags:
     - microsoft
 ---
 
- ***The liberty of a democracy is not safe if the people tolerate the growth of private power to a point where it becomes stronger than their democratic State itself. That in it’s \[sic\] essence, is Fascism – ownership of government by an individual, by a group or by any controlling private power."***  ***— Franklin D. Roosevelt, Message proposing the "Standard Oil" Monopoly Investigation, 1938***   
+ *The liberty of a democracy is not safe if the people tolerate the growth of private power to a point where it becomes stronger than their democratic State itself. That in it’s \[sic\] essence, is Fascism – ownership of government by an individual, by a group or by any controlling private power."*  *— Franklin D. Roosevelt, Message proposing the "Standard Oil" Monopoly Investigation, 1938*   
 Read more here: [Examining Microsoft’s business practices and lobbying](http://lxer.com/module/newswire/view/38971/index.html), an article found at [LXER #Linux news](http://lxer.com/)

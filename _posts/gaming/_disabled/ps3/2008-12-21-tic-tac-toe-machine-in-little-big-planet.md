@@ -12,7 +12,7 @@ header:
 
 ![sony_playstation_ps3](/assets/images/2005/06/sony_playstation_ps3.jpg "sony_playstation_ps3")
 
-With a sort of mechanical Artificial Intelligence 🙂 As always the machinery is presented at the end of the video. You can locate this level in little big planet easily by searching with **cristel** or going to the most hearted levels.
+With a sort of mechanical Artificial Intelligence 🙂 As always the machinery is presented at the end of the video. You can locate this level in little big planet easily by searching with cristel or going to the most hearted levels.
 
  <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=10,0,32,18" height="295" width="480"><param name="src" value="http://www.youtube.com/v/yUbRFfXEtls&hl=en&fs=1"></param><param name="allowfullscreen" value="true"></param><embed allowfullscreen="true" height="295" src="http://www.youtube.com/v/yUbRFfXEtls&hl=en&fs=1" type="application/x-shockwave-flash" width="480"></embed></object>
 
@@ -26,7 +26,7 @@ There is also another impressive computer is running an artificial life simulati
 > 
 > The “game” is actually a zero-player game, meaning that its evolution is determined by its initial state, needing no input from human players. One interacts with the Game of Life by creating an initial configuration and observing how it evolves. from [WikiPedia](http://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
 
-The level is call **LittleBigLife** 🙂
+The level is call LittleBigLife 🙂
 
  <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=10,0,32,18" height="344" width="425"><param name="src" value="http://www.youtube.com/v/13GOFa1C4e4&hl=en&fs=1"></param><param name="allowfullscreen" value="true"></param><embed allowfullscreen="true" height="344" src="http://www.youtube.com/v/13GOFa1C4e4&hl=en&fs=1" type="application/x-shockwave-flash" width="425"></embed></object>
 

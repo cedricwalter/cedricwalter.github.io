@@ -26,12 +26,12 @@ Development Status: 5 – Production/Stable
 - Topic: Board Games
 - User Interface: #Java AWT
 
-# I have already done a lot of small things…thanks to eclipse and it’s integrated refactoring browser**
+# I have already done a lot of small things…thanks to eclipse and it’s integrated refactoring browser
 
 - Huge refactoring : 12 new packages, no magic values in code, interface, factories, abstractions, and so on…
 - Add log4j support,
 - Create a robot: Dummy because Einstein as strategist is playing too good
-- A french dictionnary (ODS4: **369085 words**) and a german one are on track…
+- A french dictionnary (ODS4: 369085 words) and a german one are on track…
 - Internationalization: US-FR-DE
 
 You can participate to the project by contacting the administrator, I especially need help with AWT/(use SWT?)  

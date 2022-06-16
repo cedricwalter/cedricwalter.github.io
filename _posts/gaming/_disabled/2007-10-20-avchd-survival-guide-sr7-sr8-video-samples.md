@@ -10,7 +10,7 @@ tags:
 - gadget
 ---
 
-**Advanced Video Codec High Definition**) is a new high-definition recording format introduced by Sony and Panasonic. It
+Advanced Video Codec High Definition) is a new high-definition recording format introduced by Sony and Panasonic. It
 can use various storage media, including 8 cm (3") recordable DVD discs, a hard disk, or flash memory cards. The format
 is to compete with other handheld video camera recording formats, particularly HDV and MiniDV.
 \[from [WikiPedia](http://en.wikipedia.org/wiki/Advanced_Video_Codec_High_Definition)\]
@@ -27,14 +27,14 @@ links now:
   player ([VideoLan](http://www.videolan.org/) being free and multi platform)  
   ![power.dvd.7.ultra.avchd.player.jpg](/assets/images/2007/10/power.dvd_.7.ultra_.avchd_.player.jpg "power.dvd.7.ultra.avchd.player.jpg")
 
-## **Converting .m2ts to .wmv**
+## Converting .m2ts to .wmv
 
 [ Windows Media Encoder](http://www.microsoft.com/windows/win...r/default.mspx)
 + [K-Lite Codec Pack](http://www.free-codecs.com/K_Lite_Co...k_download.htm)  
 I have been able to use this combination and it works well. I can’t recommend encoding to .wmv (not as open as mpeg for
 many device) except if you wan to stream to an Xbox 360 (Media Center Extender
 
-## **Converting .m2ts to .mp4**
+## Converting .m2ts to .mp4
 
 [ Nero Recode](http://www.nero.com/eng/index.html) will convert .m2ts files to .mp4 without a hitch. Good quality, as
 well

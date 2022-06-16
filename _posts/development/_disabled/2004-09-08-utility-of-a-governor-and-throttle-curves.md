@@ -11,10 +11,10 @@ tags:
 - Techniques
 ---
 
-**by Steve Simpson** [**simpsons34@NIXcox.net**](mailto:simpsons34@NIXcox.net)
+by Steve Simpson [simpsons34@NIXcox.net](mailto:simpsons34@NIXcox.net)
 
-**> Hello, I understand the failsafe issues with the Governor so that you do not blow the engine. But how much of a risk
-is there to actually have your engine blow up on you.**  
+> Hello, I understand the failsafe issues with the Governor so that you do not blow the engine. But how much of a risk
+is there to actually have your engine blow up on you.  
 In model helicopters, there will always be some load from the fan and factory heli’s tend to have somewhat conservative
 gearing so with a stock motor running low or no nitro as is common in Europe, it would take a pretty unusual set of
 circumstances to actually ‘blow up’ and engine.  
@@ -30,7 +30,7 @@ airflow accelerates the blade, so there is a natural ‘air brake’ of sorts.
 However, when the rotor is spinning up via aerodynamic power, the engine is free to really give it shove into the ‘red’
 zone. Spitting a rotor blade is a much more serious event than spitting a connecting rod.
 
-# > What other benefits do you reap from installing one into your heli?**
+# > What other benefits do you reap from installing one into your heli?
 
 One of the vexing things about model heli’s up until recently was attempting to provide for some type of ‘synthetic’
 governing of engine speed. Early on it was with interconnected linkages and later with our friend the ‘throttle’ curve .

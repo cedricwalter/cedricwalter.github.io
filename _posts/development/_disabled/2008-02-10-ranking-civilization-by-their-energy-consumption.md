@@ -13,7 +13,7 @@ tags:
 
  The two articles below are among my favorites, I really like these ideas (because it follow th principle: you cannot undertand what you can not measure)
 
- [The first one try to rank civilization by their enery comsumption](http://www.cosmosmagazine.com/node/1683), and how aliens may do to get those energy. it is based on [**Kardashev scale**](http://en.wikipedia.org/wiki/Kardashev_scale)
+ [The first one try to rank civilization by their enery comsumption](http://www.cosmosmagazine.com/node/1683), and how aliens may do to get those energy. it is based on [Kardashev scale](http://en.wikipedia.org/wiki/Kardashev_scale)
 
  <span class="cap">Ask the average scientist about the possibility of an encounter with an extra-terrestrial lifeform, and it’s likely you’ll find you’ve prompted ‘the giggle factor’. After rolling their eyes, they remind you that the distances between stars are so vast, it’s virtually impossible for any aliens to visit us.
 

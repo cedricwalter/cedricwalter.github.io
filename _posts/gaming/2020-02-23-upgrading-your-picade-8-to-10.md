@@ -46,7 +46,7 @@ Total cost of upgrade: 37$ and a bit of time
 
 This 10.1 inch High-resolution 1366\*768 LCD display module kit is especially designed as a monitor for Raspberry Pi 3 / 2 Model B and Raspberry Pi B+ B A+. For use with a Raspberry Pi we suggest editing config.txt to set the HDMI to the native 1366×768 in case it doesn’t detect the resolution properly. The easiest way to edit the config.txt is to put the Pi TF card into an every day computer and edit config.txt with any text editor and save.
 
-# Features:**- <span data-spm-anchor-id="a2g0o.detail.1000023.i0.cdcf233cx2OfUQ">Screen Dimensions: 229mm x 127mm / 9.0″ x 5.0″
+# Features:- <span data-spm-anchor-id="a2g0o.detail.1000023.i0.cdcf233cx2OfUQ">Screen Dimensions: 229mm x 127mm / 9.0″ x 5.0″
 - Panel Type: a-Si TFT-LCD Panel
 - Panel Size: 10.1″
 - Resolution (RGB): 1366×768, WXGA

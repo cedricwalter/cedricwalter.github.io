@@ -22,7 +22,7 @@ DLP lamp-free LED-based projectors, including Optoma, with units expected to shi
 deployment of DLP Product’s now popular BrilliantColor technology, the solid-state, lamp-free innovation will first   
 be incorporated into home theater units and proliferate through corporate and education product lines thereafter.
 
-# Benefits of Lamp-free projectors**
+# Benefits of Lamp-free projectors
 
 - LED are coming from Luminus (120’000 hours lifetime or 13 years!),
 - With DLP chipset, more light can reach the screen resulting in a 50% increase in color gamut range producing more   

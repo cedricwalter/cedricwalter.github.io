@@ -42,7 +42,7 @@ The key features are:
 I wont maintain nor make any new versions of [JArtForms](http://joomlacode.org/gf/project/jartforms/). Please contact the authors and ask them to   
 patch their code, or with the next version my code will suddenly break…
 
-# For #Joomla 1.5**, either download
+# For #Joomla 1.5, either download
 
 - [JArtForms 2.1b7.1 update for SecurityImages 5](https://waltercedric.com/new/?p=234) OR
 - [JArtForms 2.1b7.1 for SecurityImages 5](https://waltercedric.com/new/?p=305)

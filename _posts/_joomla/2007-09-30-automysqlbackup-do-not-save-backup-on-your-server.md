@@ -11,8 +11,8 @@ tags:
 - MySQL
 ---
 
-**One of the most important rule is to always backup your data with multiple tools on different medium, just in case
-of.**
+One of the most important rule is to always backup your data with multiple tools on different medium, just in case
+of.
 
 Just imagine 5 minutes that you lose everything, what you have done in the last 3 months on your homepage..ok still not
 crying? you loose hundred of hours of work, nightly debugging, customizations, hours of Gimp/Photoshop, lengthy and good
@@ -26,7 +26,7 @@ solution: [AutoMySQLBackup](http://sourceforge.net/projects/automysqlbackup/)
 
 A script to take daily, weekly and monthly backups of your MySQL databases using mysqldump.
 
-**Features**
+Features
 
 - Backup mutiple databases
 - Single backup file or to a seperate file for each DB
@@ -50,7 +50,7 @@ A script to take daily, weekly and monthly backups of your MySQL databases using
 Just download the file, save it somewhere, and configure automysqlbackup
 with your editor of choice (25 first line of file). To test if everything work, just run the file.
 
-**Note**:
+Note:
 
 automysqlbackup require Mutt
 

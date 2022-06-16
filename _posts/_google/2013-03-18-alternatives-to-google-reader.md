@@ -20,7 +20,7 @@ Note: i am still not decided between Tiny RSS and Newsblur, both are running on 
 
 # The bad news
 
-> We launched **Google Reader** in 2005 in an effort to make it easy for people to discover and keep tabs on their favorite websites. While the product has a loyal following, over the years usage has declined. So, on July 1, 2013, we will retire Google Reader. Users and developers interested in RSS alternatives can export their data, including their subscriptions, with [Google Takeout](http://www.dataliberation.org/google/reader) over the course of the next four months. see [http://googleblog.blogspot.nl/2013/03/a-second-spring-of-cleaning.html](http://googleblog.blogspot.nl/2013/03/a-second-spring-of-cleaning.html "http://googleblog.blogspot.nl/2013/03/a-second-spring-of-cleaning.html")
+> We launched Google Reader in 2005 in an effort to make it easy for people to discover and keep tabs on their favorite websites. While the product has a loyal following, over the years usage has declined. So, on July 1, 2013, we will retire Google Reader. Users and developers interested in RSS alternatives can export their data, including their subscriptions, with [Google Takeout](http://www.dataliberation.org/google/reader) over the course of the next four months. see [http://googleblog.blogspot.nl/2013/03/a-second-spring-of-cleaning.html](http://googleblog.blogspot.nl/2013/03/a-second-spring-of-cleaning.html "http://googleblog.blogspot.nl/2013/03/a-second-spring-of-cleaning.html")
 
 # Get your data
 

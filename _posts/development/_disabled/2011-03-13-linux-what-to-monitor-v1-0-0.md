@@ -15,7 +15,7 @@ tags:
     - monitor
 ---
 
-I use to make mind map to organize my ideas, or to organize huge amount of data in a tree manner. **Maintaining your own root server is time consuming**, to say the least, but it will also force you to put your energy in areas where there is a lot of new things to learn. Here I present you a mind map that contains most of the tools and ideas of what you should monitor on a #Linux server.
+I use to make mind map to organize my ideas, or to organize huge amount of data in a tree manner. Maintaining your own root server is time consuming, to say the least, but it will also force you to put your energy in areas where there is a lot of new things to learn. Here I present you a mind map that contains most of the tools and ideas of what you should monitor on a #Linux server.
 
 This mind map is an ongoing work, that is why it has also a version number in it (v1.0.0). As soon as I will learn new tricks, the mind map will be updated. Your feedback is always welcomed!
 

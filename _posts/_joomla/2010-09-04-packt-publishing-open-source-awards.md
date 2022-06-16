@@ -23,15 +23,15 @@ tags:
 > 
 > Now in its fifth year, the Award, formerly known as the Open Source Content Management System (CMS) Award, is designed to encourage, support, recognize and reward not only CMSes but a wider range of Open Source projects.
 > 
-> The Awards are split up into two main stages. Firstly, nominations will begin on **August 9**. This is your chance to put forward your favorite Open Source project in each category to go through to the final stage of voting. **The top five** projects with the most nominations in each category will go through to the final stage of voting. The nominations will end on **September 17**.
+> The Awards are split up into two main stages. Firstly, nominations will begin on August 9. This is your chance to put forward your favorite Open Source project in each category to go through to the final stage of voting. The top five projects with the most nominations in each category will go through to the final stage of voting. The nominations will end on September 17.
 
 ## Categories
 
-- **Open Source CMS**
-- **Hall** **of Fame CMS**
-- **Most Promising Open Source Project**
-- **Open Source E-Commerce Applications**
-- **Open Source #JavaScript Libraries**
-- **Open Source Graphics Software**
+- Open Source CMS
+- Hall of Fame CMS
+- Most Promising Open Source Project
+- Open Source E-Commerce Applications
+- Open Source #JavaScript Libraries
+- Open Source Graphics Software
 
 You can of course vote for your favorite CMS ([Joomla!](http://www.joomla.org/), Drupal or WordPress) [HERE (registration required)](http://www.packtpub.com/open-source-awards-home/vote-hall-of-fame-cms)

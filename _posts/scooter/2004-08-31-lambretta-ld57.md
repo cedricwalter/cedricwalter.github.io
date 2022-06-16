@@ -53,7 +53,7 @@ en sens inverse des aiguilles d’une montre.
 
 Pour le démontage du rupteur nous pensons que le procédé le plus pratique consiste à desserrer l’écrou d’attache du
 ressort, puis après avoir enlevé le petit ressort d’arrêt placé sur l’axe de la à&#136;\* 1 :e mobile, à enlever
-celle-ci pour détendre **le ressort.** Pour le remontage exécuter la manoeuvre inverse. Allumage : étincelle sans raté 6
+celle-ci pour détendre le ressort. Pour le remontage exécuter la manoeuvre inverse. Allumage : étincelle sans raté 6
 mm. à partir de 150 tr/m. l’éclairage étant en fonctionnement.
 
 # Capacité du condensateur

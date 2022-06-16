@@ -17,5 +17,5 @@ header:
 
 ### 77MB to download, 3077MB reserved on disk… I am IN 🙂
 
-My pseudo is **MagicianLord**
+My pseudo is MagicianLord
 

@@ -30,7 +30,7 @@ $document->addScriptDeclaration("jQuery.noConflict();");
 
 Till here, this is what you will find on all #Joomla [forums](http://forums.waltercedric.com/), posts over the internet. The last tips is what make the difference!
 
-Instead of using a different alias for the [jQuery](http://jquery.com/ "jQuery ajax library") object (when using noConflict), you can write your [jQuery](http://jquery.com/ "jQuery ajax library") code by wrapping it all **in a closure**. This can be done in the document.ready function
+Instead of using a different alias for the [jQuery](http://jquery.com/ "jQuery ajax library") object (when using noConflict), you can write your [jQuery](http://jquery.com/ "jQuery ajax library") code by wrapping it all in a closure. This can be done in the document.ready function
 
 ```
 <p>$script = "jQuery(function($) {               $();</p><p>       });"; $document->addScriptDeclaration($script);</p>

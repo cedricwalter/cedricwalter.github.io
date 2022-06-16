@@ -33,6 +33,6 @@ Acunetix Web Vulnerability Scanner automatically scans your web applications / w
 
 “
 
-# [Scan your website for Cross Site Scripting Vulnerabilities at no cost NOW](http://www.acunetix.com/cross-site-scripting/Copy-scanner.htm)**
+# [Scan your website for Cross Site Scripting Vulnerabilities at no cost NOW](http://www.acunetix.com/cross-site-scripting/Copy-scanner.htm)
 
-# [Get an insight into Acunetix Manual](http://www.acunetix.com/vulnerability-scanner/wvs6manual.pdf)**
+# [Get an insight into Acunetix Manual](http://www.acunetix.com/vulnerability-scanner/wvs6manual.pdf)

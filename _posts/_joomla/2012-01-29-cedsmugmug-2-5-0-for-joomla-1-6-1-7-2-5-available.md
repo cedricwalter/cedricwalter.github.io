@@ -33,7 +33,7 @@ to 4 galleries are randomly supported).
 
 ###### Previous user of the following extensions?
 
-# Remove any previous** **extensions** from me, here is the list:
+# Remove any previous extensions from me, here is the list:
 
 - mod\_smugmugbadge
 - mod\_smugmugrandom
@@ -47,7 +47,7 @@ package cedSmugmug
 
 ###### First time installation
 
-Download the latest copy of com\_cedSmugmug.zip, from **Extensions → Install / Uninstall** and install with the fresh
+Download the latest copy of com\_cedSmugmug.zip, from Extensions → Install / Uninstall and install with the fresh
 copy.
 
 [![](/assets/images/2011/11/download-zip.png)](downloads/smugmug.html)[![](/assets/images/2012/01/documentation.jpg)](http://wiki.waltercedric.com/index.php?title=CedThumbnails_for_Joomla)[![](/assets/images/2011/12/support.png)](http://forums.waltercedric.com/)

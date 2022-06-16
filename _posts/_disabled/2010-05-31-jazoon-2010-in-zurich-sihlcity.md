@@ -15,14 +15,14 @@ tags:
 
 ![v3_jazoon_subt_black_web](/assets/images/2010/05/v3_jazoon_subt_black_web_3.jpg "v3_jazoon_subt_black_web")
 
-Tomorrow I will be tweeting from the **international industry conference on #Java technology**
+Tomorrow I will be tweeting from the international industry conference on #Java technology
 
-> [Jazoon](http://jazoon.com) is an **international industry conference on #Java technology in Zurich**. It addresses software developers and architects, IT decision-makers and consultants throughout Europe and around the world. Jazoon gives #Java experts a platform in the heart of Europe where they share their ideas and experiences.  
-> From **1 to 3 June 2010**, Zurich will be the meeting place for the international #Java community. By presenting a comprehensive conference program and creating a communicative atmosphere, Jazoon helps personal contacts grow and transcend technical, geographical and cultural boundaries. A supplementary program including an exhibition of solutions, tools and continuing education as well as career opportunities and various networking events ensure added benefits for every target group.
+> [Jazoon](http://jazoon.com) is an international industry conference on #Java technology in Zurich. It addresses software developers and architects, IT decision-makers and consultants throughout Europe and around the world. Jazoon gives #Java experts a platform in the heart of Europe where they share their ideas and experiences.  
+> From 1 to 3 June 2010, Zurich will be the meeting place for the international #Java community. By presenting a comprehensive conference program and creating a communicative atmosphere, Jazoon helps personal contacts grow and transcend technical, geographical and cultural boundaries. A supplementary program including an exhibition of solutions, tools and continuing education as well as career opportunities and various networking events ensure added benefits for every target group.
 
 I am planning to attend the following conferences:
 
-### **Tuesday, 1 June 201**
+### Tuesday, 1 June 201
 
 9:30-10:30  
 [Java SE and JavaFX: The Road Ahead](http://jazoon.com/Conference/Tuesday/Coward)  

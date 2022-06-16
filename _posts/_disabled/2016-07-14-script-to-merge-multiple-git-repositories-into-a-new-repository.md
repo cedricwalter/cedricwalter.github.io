@@ -16,9 +16,9 @@ tags:
 
 There are numerous ways (Submodule, Subtree) to merge multiple #GIT repositories into one new #GIT repository while keeping history.
 
-# submodule** is a better fit for component-based development, where your main project depends on a fixed version of another component (repo). You keep only references in your parent repo (gitlinks, special entries in the index)
+# submodule is a better fit for component-based development, where your main project depends on a fixed version of another component (repo). You keep only references in your parent repo (gitlinks, special entries in the index)
 
-# subtree** is more like a system-based development, where your all repo contains everything at once, and you can modify any part.
+# subtree is more like a system-based development, where your all repo contains everything at once, and you can modify any part.
 
 I’ve tried a lot of them without success till I found this script [https://github.com/eitch/bash\_scripts/blob/master/mergeGitRepositories2.sh](https://github.com/eitch/bash_scripts/blob/master/mergeGitRepositories2.sh "https://github.com/eitch/bash_scripts/blob/master/mergeGitRepositories2.sh")
 

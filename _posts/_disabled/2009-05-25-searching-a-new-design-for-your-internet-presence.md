@@ -14,8 +14,8 @@ tags:
     - web2.0
 ---
 
-# [![showcase](/assets/images/2009/05/showcase.jpg "showcase")](http://browsershots.org/showcase/)**
+# [![showcase](/assets/images/2009/05/showcase.jpg "showcase")](http://browsershots.org/showcase/)
 
-# 35589** web design screenshots online!
+# 35589 web design screenshots online!
 
 [Browsershots Showcase](http://browsershots.org/showcase/) features more than 30,000 web designs for inspiration and they add 50-100 new entries every day. It’s the largest and most updated web design &amp; CSS gallery on the web.

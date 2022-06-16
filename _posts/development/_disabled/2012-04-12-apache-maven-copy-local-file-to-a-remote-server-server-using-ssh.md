@@ -52,7 +52,7 @@ This snippet of code is a ready to use code that make use of [Apache Ant task sc
                     <echo message="Push to server/home/"/>
                     <scp trust="yes" todir="user:password@server:/home/">
                         <fileset dir="${basedir}/target">
-                            <include name="**/*.tar.gz"/>
+                            <include name="/*.tar.gz"/>
                         </fileset>
                     </scp>
                 </target>

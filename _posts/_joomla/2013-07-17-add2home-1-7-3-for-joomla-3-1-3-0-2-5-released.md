@@ -22,10 +22,10 @@ tags:
 
 ##  What’s new?
 
-- **BUG**: The Custom Message was not always properly working.
-- **BUG**: Fix 'null' in balloon text when no icon can be found.
-- **NEW**: New setting to let the user close the balloon. Default: true.
-- **NEW**: Update add2Home #JavaScript to version 2.0.7
-- **NEW**: Ukrainian localization added.
+- BUG: The Custom Message was not always properly working.
+- BUG: Fix 'null' in balloon text when no icon can be found.
+- NEW: New setting to let the user close the balloon. Default: true.
+- NEW: Update add2Home #JavaScript to version 2.0.7
+- NEW: Ukrainian localization added.
 
  [![Download cedadd2home for joomla](/assets/images/2013/07/download-zip.png)](http://www.waltercedric.com/downloads/add2home.html)[![Documentation for cedadd2home for joomla](/assets/images/2013/07/documentation.jpg)](http://wiki.waltercedric.com/index.php?title=Add2Home_(Apple_springboard)_your_Joomla_site)[![Support cedadd2home for joomla](/assets/images/2013/07/support.png)](http://forums.waltercedric.com/)

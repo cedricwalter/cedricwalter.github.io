@@ -14,7 +14,7 @@ What a windows users do need to install or use in SUSE 9 to complete the same ta
 
 ## <font face="Arial Black" size="7">Migration to linux
 
-## **Round 2**
+## Round 2
 
  GNU Free Documentation License Copyright (c) 2003 Cédric Walter
 
@@ -26,9 +26,9 @@ What a windows users do need to install or use in SUSE 9 to complete the same ta
 
 # I am using Windows since 10 years now, what decide me to switch all my personal PC (2) to #Linux is [# here](images/pc/suse/myExperience.htm#Why%20choosing%20Linux%20now?)# . I decide to try a completely free and open source Operating System to do my everyday private job….or better said some tasks….This small review has been done during evenings while watching TV, chatting on MSN, ![](/assets/images/2004/08/ohno.gif), I have only taking notes on my notebook while playing with SUSE. I hope that the quality will be good enough and that it may convince You to give SUSE or #Linux in general a try.
 
-# **New 21.01.2003**, my anti virus [# AVG](http://www.grisoft.com/)#  (free edition) was running under Windows 2000 SP5, I encounter an electricity problem, Pc reboot, since this event I can not start my system anymore! safe mode, last good configuration, scandisk, nothing work. The anti virus may have let some file open, since I get a blue screen with an error message saying: can not get exclusive access to the disk….an opportunities to kill my multi boot and only use #Linux SuSE, I do not regret the switch since..
+# New 21.01.2003, my anti virus [# AVG](http://www.grisoft.com/)#  (free edition) was running under Windows 2000 SP5, I encounter an electricity problem, Pc reboot, since this event I can not start my system anymore! safe mode, last good configuration, scandisk, nothing work. The anti virus may have let some file open, since I get a blue screen with an error message saying: can not get exclusive access to the disk….an opportunities to kill my multi boot and only use #Linux SuSE, I do not regret the switch since..
 
-# **New 12.04.2004** My corporate ladtop running under M$ XP sp1, was defragmenting my Maxtor 250Gb external harddisk (FAT32) when the system hang. Rebooting windows has destruct the filesystem and leave me with a ‘disk I/O error’ and a blank disk! (Real men dont do backup but they often cry…..I was really pissed of at that time, lossing 180Gb of data is really a bad experience), I’ve tried to recover the data with scandisk, and Norton Disk Doctor 2004 (report error ‘no filesystem’ ) without any success 🙁 Last chance was my second PC running Suse #Linux, **MIRACLE**, I’ve recover most of the data (95%) since #Linux has mount and read all data from the damaged disk. **Conclusions**: defragmenting is dangerous! I consider now windows as a joke and I won’t ever install a non journalised and transactionnal filesystem….Reiserfs 4 will be my next filesystem and I will replace my PC2 (w2k) with #Linux SuSE 9.1 when it will be available.
+# New 12.04.2004 My corporate ladtop running under M$ XP sp1, was defragmenting my Maxtor 250Gb external harddisk (FAT32) when the system hang. Rebooting windows has destruct the filesystem and leave me with a ‘disk I/O error’ and a blank disk! (Real men dont do backup but they often cry…..I was really pissed of at that time, lossing 180Gb of data is really a bad experience), I’ve tried to recover the data with scandisk, and Norton Disk Doctor 2004 (report error ‘no filesystem’ ) without any success 🙁 Last chance was my second PC running Suse #Linux, MIRACLE, I’ve recover most of the data (95%) since #Linux has mount and read all data from the damaged disk. **Conclusions**: defragmenting is dangerous! I consider now windows as a joke and I won’t ever install a non journalised and transactionnal filesystem….Reiserfs 4 will be my next filesystem and I will replace my PC2 (w2k) with #Linux SuSE 9.1 when it will be available.
 
 ## <font face="Arial Black" size="4">Test system
 

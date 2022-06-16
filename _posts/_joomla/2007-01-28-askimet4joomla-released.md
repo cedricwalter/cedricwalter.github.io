@@ -31,8 +31,8 @@ tags:
 
 You might consider buying a [pro-blogger license for $5/mo](http://akismet.com/buy/pro-blogger/). If you would like to participate in the development of the GPL [Akismet](http://akismet.com/) WordPress plugin or discuss adapting the [Akismet](http://akismet.com/) API for a different platform, [join the Spam Stopper mailing list](http://lists.automattic.com/mailman/listinfo/spam-stopper) and introduce yourself and your ideas. The more the merrier. 🙂
 
-<big><big>**Warranty**</big></big>  
+<big><big>Warranty</big></big>  
  This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  
- **A GNU-GPL release**
+ A GNU-GPL release
 
 Download it in my download section.

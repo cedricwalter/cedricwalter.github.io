@@ -15,10 +15,10 @@ tags:
     - 'search engine'
 ---
 
-# MapReduce: Simplifed Data Processing on Large Clusters**
+# MapReduce: Simplifed Data Processing on Large Clusters
 
  "*MapReduce is a programming model and an associated implementation for processing and generating large data sets. Users specify a map function that processes a key/value pair to generate a set of intermediate key/value pairs, and a reduce function that merges all intermediate values associated with the same intermediate key.* "  
- **Statistics of jobs in august 2004, as usual impressive amount of data!!!**  
+ Statistics of jobs in august 2004, as usual impressive amount of data!!!  
  *Number of jobs 29,423   
  Average job completion time 634 se  
  Machine days used 79,186 days  

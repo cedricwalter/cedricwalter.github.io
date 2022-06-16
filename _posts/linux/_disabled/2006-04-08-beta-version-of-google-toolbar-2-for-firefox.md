@@ -12,7 +12,7 @@ tags:
 
 Google has release the beta version of [Google Toolbar 2 for Firefox](http://www.google.com/tools/firefox/toolbar/index.html). This toolbar for Firefox is now available for Windows, Mac, and #Linux — and in 16 languages.
 
-# This new release also includes:**
+# This new release also includes:
 
 - Feed integration with the [Google Personalized Homepage](http://www.google.com/ig) and a number of other feed readers.
 - Better search by including previous queries,

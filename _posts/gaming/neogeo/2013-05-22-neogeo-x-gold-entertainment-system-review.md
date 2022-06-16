@@ -53,7 +53,7 @@ If you’re lucky to order 3 Neo Geo X like me, you may get them in the original
 
 - Hand held quality is high,
 - Clicky joystick on hand held,
-- Real size AES stick USB which can work under windows without any specific driver ([MAME](http://mamedev.org/ "Multiple Arcade Machine Emulator") **M**ultiple **A**rcade **M**achine **E**mulator, in a game press: TAB, Input (General) or Input (this Game) and you can setup Neo stick there.)
+- Real size AES stick USB which can work under windows without any specific driver ([MAME](http://mamedev.org/ "Multiple Arcade Machine Emulator") Multiple Arcade Machine Emulator, in a game press: TAB, Input (General) or Input (this Game) and you can setup Neo stick there.)
 - Docking station is looking great on the shelves,
 
 # Limitations

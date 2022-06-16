@@ -13,10 +13,10 @@ tags:
     - 'Doll House'
 ---
 
-| ![](/assets/images/2005/07/index.jpg) | **Fantastic Doll House \| Dimensions \| \|---\|---\| \| "Lx"Wx"H (includes base)   Everything seen on pictures are included and for sale   Contact me for price \|  **click read more to see more pictures…****  |
+| ![](/assets/images/2005/07/index.jpg) | Fantastic Doll House \| Dimensions \| \|---\|---\| \| "Lx"Wx"H (includes base)   Everything seen on pictures are included and for sale   Contact me for price \|  click read more to see more pictures…  |
 |---|
 
-# Details from the outside…**
+# Details from the outside…
 
 | ![](/assets/images/2005/07/doll-house-minicastle-10.jpg) |  | ![](/assets/images/2005/07/doll-house-minicastle-16.jpg) |  |
 |---|---|---|---|
@@ -26,7 +26,7 @@ tags:
 |  |  |  |  |
 |  |  |  |  |
 
-# From the inside…**
+# From the inside…
 
 | ![](/assets/images/2005/07/doll-house-minicastle-21.jpg) |  |  | ![](/assets/images/2005/07/doll-house-minicastle-3.jpg)   ![](/assets/images/2005/07/doll-house-minicastle-5.jpg) |
 |---|---|---|---|

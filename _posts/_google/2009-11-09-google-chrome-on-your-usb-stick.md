@@ -14,7 +14,7 @@ tags:
 
 ![googlechrome](/assets/images/2009/11/googlechrome.png "googlechrome") Google Chrome Portable is a web browser that runs web pages and applications with lightning speed. It’s designed to be simple and stylish. It’s packaged as a [portable app](http://portableapps.com/about/what_is_a_portable_app), so you can take your browsing experience with you. You just need a memory stick with 40MB of space
 
-[**Download 3.0.195.27 Rv2** ](http://downloads.sourceforge.net/portableapps/GoogleChromePortable_3.0.195.27_Rev_2_online_.paf.exe)
+[Download 3.0.195.27 Rv2 ](http://downloads.sourceforge.net/portableapps/GoogleChromePortable_3.0.195.27_Rev_2_online_.paf.exe)
 
 *for Windows, Multilingual – 11MB download / 34MB installed*
 

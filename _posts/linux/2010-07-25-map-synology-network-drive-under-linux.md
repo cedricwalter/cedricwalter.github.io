@@ -29,7 +29,7 @@ sudo mkdir /mnt/music
 ```
 
 Unfortunately there is no frontend or editor user interface for maintaining the entries of /etc/fstab, you’ll have to
-use your favorite text editor to add the following entries (one shared folder = **one line**)
+use your favorite text editor to add the following entries (one shared folder = one line)
 
 ```bash
 vi /etc/fstab

@@ -16,7 +16,7 @@ tags:
 
 # Ever pondered how
 Companies make money from free and open source development projects? Could you open source your
-code and still make a profit?**
+code and still make a profit?
 
 In this easy-to-follow 
 Weâ&#128;&#153;ll investigate the different ways of generating revenue from open source software and how to reduce

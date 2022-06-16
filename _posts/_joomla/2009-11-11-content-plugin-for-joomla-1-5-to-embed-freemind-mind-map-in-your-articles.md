@@ -12,7 +12,7 @@ author: 'Cédric Walter'
 
 I offer You now a new plug-in for #Joomla! 1.5 that allow you to display any Freemind Mind Map using a fancy Flash applet in article content.
 
-You can put anywhere in your article the following keywords **{freemind uri= width= height=}**
+You can put anywhere in your article the following keywords {freemind uri= width= height=}
 
 [![freemind.example2](/assets/images/2009/11/freemind.example2_thumb.png "freemind.example2")](/assets/images/2009/11/freemind.example2.png) This #Joomla! plugin use Freemind Flash Browser: [http://freemind.sourceforge.net/wiki/index.php/Flash\_browser](http://freemind.sourceforge.net/wiki/index.php/Flash_browser)
 

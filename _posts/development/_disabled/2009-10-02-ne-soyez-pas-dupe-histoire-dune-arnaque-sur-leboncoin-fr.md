@@ -41,7 +41,7 @@ Je contacte cette personne Laurent <lrntb4@gmail.com> … et voila sa réponse:
 - Un mensonge, en bleu, l’object après verifications sur [www.ebay.fr](http://www.ebay.fr) n’est pas en ligne,
 - L’attente d’une indiscrétion de votre part (en vert), il vous demande de révéler quelque chose sur vous: votre pseudo ebay, votre adresse. La j’avoue que je ne sait pas encore pourquoi et dans quel but. Je pense que le voleur va essayer de voler votre mot de passe ebay en les contactant par email, et se servir de votre compte pour des vols ultérieur sur ebay.. Si quelqu’un a une idée de la raison de cette demande pour le moins bizarre, qu’il me contacte ou laisse un commentaire ci dessous.
 - Taper l’email: lrntb4@gmail.com [dans Google](http://www.google.fr/search?q=lrntb4%40gmail.com&ie=utf-8&oe=utf-8&aq=t&client=firefox-a&rlz=1R1GGGL_en___FR347), une autre personne qui a été dupé peut apparaitre.
-- **Le PRIX, 1300 euro,** 1/4 du prix du neuf, ce qui est anormalement bas. Acheter quelque chose à vil prix, ne peut se justifier devant la justice: cela peut constituer du recel et pas comme vous le pensez une bonne affaire (sic).
+- Le PRIX, 1300 euro, 1/4 du prix du neuf, ce qui est anormalement bas. Acheter quelque chose à vil prix, ne peut se justifier devant la justice: cela peut constituer du recel et pas comme vous le pensez une bonne affaire (sic).
 
 *Le recel est le fait de dissimuler, de détenir ou de transmettre une chose, ou de faire office d’intermédiaire afin de la transmettre, en sachant que cette chose provient d’un crime ou d’un délit. Constitue également un recel le fait, en connaissance de cause, de bénéficier, par tout moyen, du produit d’un crime ou d’un délit. Le recel est puni de cinq ans d’emprisonnement et de 375000 euros d’amende.*
 

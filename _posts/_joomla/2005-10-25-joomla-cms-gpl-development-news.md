@@ -38,7 +38,7 @@ tags:
  You have found bugs?   
  Please, do not contact me and ask for support on my homepage, ALL Projects are now hosted at #Joomlaforge and have each one their Tracker
 
-| **Project** | **Report Bug here** |
+| Project | Report Bug here |
 |---|---|
 | [http://developer.joomla.org/sf/projects/com\_securityimages](http://developer.joomla.org/sf/projects/com_securityimages) | click on Tracker icon |
 | [http://developer.joomla.org/sf/projects/com\_hashcash](http://developer.joomla.org/sf/projects/com_hashcash) | click on Tracker icon |

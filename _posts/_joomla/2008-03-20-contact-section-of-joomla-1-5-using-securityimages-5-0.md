@@ -14,10 +14,10 @@ SecurityImages BETA will be available in no more than 2 days…
 
 Note that SecurityImages is still WAY to intrusive toward #Joomla! as core file has to be changed in order to use Captcha.
 
-Lets take the **contact section** of #Joomla! as an example.
+Lets take the contact section of #Joomla! as an example.
 
-- **Download the patch** **HERE** (soon available as a ready to use patch) and overwrite file on your server OR
-- **Do it on your own, this is more for** 3rd party developer, or people wanting to understand the internal of #Joomla! or SecurityImages
+- Download the patch HERE (soon available as a ready to use patch) and overwrite file on your server OR
+- Do it on your own, this is more for 3rd party developer, or people wanting to understand the internal of #Joomla! or SecurityImages
 
 Click Read MORE!
 

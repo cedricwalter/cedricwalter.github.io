@@ -18,7 +18,7 @@ With this funny applet, you can judge of the complexity of a web page by just ge
 
 ### <http://websitesasgraphs.waltercedric.com> 
 
-# What do the colors mean?**   
+# What do the colors mean?   
 blue: for links (the A tag)   
 red: for tables (TABLE, TR and TD tags)   
 green: for the DIV tag   
@@ -45,7 +45,7 @@ So I’ve create a small script call display.php that return the content of a we
 
       $input[$name] !== <span class="kwrd">null) ? $input[$name] : 
 
-                        <span class="str">"http://www.waltercedric.com";  $timeout = 10; $show_errors = <span class="kwrd">true;  <span class="kwrd">if (function_exists(<span class="str">'curl_init')) {    <span class="kwrd">return getDataFromUrlWithCurl($url, $timeout, $show_errors); }   <span class="kwrd">else {    <span class="kwrd">return getDataFromUrlWithFopen($url, $timeout); } <span class="rem">/** <span class="rem"> * CURL function to retrieve data from a URL. <span class="rem"> */  <span class="kwrd">function getDataFromUrlWithCurl($url, $timeout = 10, $show_errors = <span class="kwrd">false) {    $ch = curl_init();    $agent = <span class="str">"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0)";    curl_setopt($ch, CURLOPT_USERAGENT, $agent);    curl_setopt ($ch, CURLOPT_HEADER, 0);    curl_setopt($ch,CURLOPT_URL,$url);    curl_setopt($ch,CURLOPT_HTTPGET,1);    curl_setopt($ch,CURLOPT_CRLF,1);    curl_setopt($ch,CURLOPT_RETURNTRANSFER,1); <span class="rem">// so it will return data into a 
+                        <span class="str">"http://www.waltercedric.com";  $timeout = 10; $show_errors = <span class="kwrd">true;  <span class="kwrd">if (function_exists(<span class="str">'curl_init')) {    <span class="kwrd">return getDataFromUrlWithCurl($url, $timeout, $show_errors); }   <span class="kwrd">else {    <span class="kwrd">return getDataFromUrlWithFopen($url, $timeout); } <span class="rem">/ <span class="rem"> * CURL function to retrieve data from a URL. <span class="rem"> */  <span class="kwrd">function getDataFromUrlWithCurl($url, $timeout = 10, $show_errors = <span class="kwrd">false) {    $ch = curl_init();    $agent = <span class="str">"Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0)";    curl_setopt($ch, CURLOPT_USERAGENT, $agent);    curl_setopt ($ch, CURLOPT_HEADER, 0);    curl_setopt($ch,CURLOPT_URL,$url);    curl_setopt($ch,CURLOPT_HTTPGET,1);    curl_setopt($ch,CURLOPT_CRLF,1);    curl_setopt($ch,CURLOPT_RETURNTRANSFER,1); <span class="rem">// so it will return data into a 
 ```
 
 > ```

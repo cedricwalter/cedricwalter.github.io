@@ -22,6 +22,6 @@ tags:
 
 # You can found me on twitter at <http://twitter.com/cedricwalter>
 
-I recommend you to use **[twhirl](http://www.twhirl.org/)** as a desktop client to interact with Twitter, Friendfeed, identi.ca, or seesmic.
+I recommend you to use [twhirl](http://www.twhirl.org/) as a desktop client to interact with Twitter, Friendfeed, identi.ca, or seesmic.
 
 By the way [Barrack Obama](http://twitter.com/BarackObama)‘s account has [258,106 Followers ](http://twitter.com/BarackObama/followers)!

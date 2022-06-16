@@ -27,7 +27,7 @@ tags:
 
 With the service’s latest beta desktop software, [Dropbox](https://www.dropbox.com/referrals/NTIyNTc5NDk) has added an automatic photo import feature. Plug in a camera or smartphone, and you’ll have the option to automatically import those pictures to your [Dropbox](https://www.dropbox.com/referrals/NTIyNTc5NDk) account.
 
-During this beta period, [Dropbox](https://www.dropbox.com/referrals/NTIyNTc5NDk) is also offering additional free space to test automatic uploading of photos and videos. For every 500MB of photos and videos automatically uploaded, you’ll receive another 500MB space bonus, up to 4.5GB total. \[**Update**: To clarify, you can get up to 5GB of free space with this feature, if you count the initial 500MB space for the first photo import\].
+During this beta period, [Dropbox](https://www.dropbox.com/referrals/NTIyNTc5NDk) is also offering additional free space to test automatic uploading of photos and videos. For every 500MB of photos and videos automatically uploaded, you’ll receive another 500MB space bonus, up to 4.5GB total. \[Update: To clarify, you can get up to 5GB of free space with this feature, if you count the initial 500MB space for the first photo import\].
 
 <div class="alert2">As usual, [Dropbox](https://www.dropbox.com/referrals/NTIyNTc5NDk) strongly recommend making a backup of your [Dropbox](https://www.dropbox.com/referrals/NTIyNTc5NDk) before upgrading to this build as we’ll need a few weeks to be certain of its stability.Windows: <http://dl-web.dropbox.com/u/17/Dropbox%201.3.13.exe>  
 Mac OS X: <http://dl-web.dropbox.com/u/17/Dropbox%201.3.13.dmg>  

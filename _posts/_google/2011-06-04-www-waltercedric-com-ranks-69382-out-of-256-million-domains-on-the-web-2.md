@@ -19,5 +19,5 @@ Sometimes it is good to Google for your name, sometimes some funny stuff popup�
 > Germany, www.waltercedric.com is being sponsored by advertising networks such as google adsense, with an estimated
 > monthly earnings of $1440 and an estimated worth of $5’809’581 with 852569 visitors a month.
 
-Hum, I understand now maybe better why my host get sometimes unstable…nice **but I do not earn so much money every
-months**, maybe I should contact [this company](http://domainsoutlook.com/w/site/www.waltercedric.com.html) …
+Hum, I understand now maybe better why my host get sometimes unstable…nice but I do not earn so much money every
+months, maybe I should contact [this company](http://domainsoutlook.com/w/site/www.waltercedric.com.html) …

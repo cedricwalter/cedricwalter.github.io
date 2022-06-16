@@ -173,7 +173,7 @@ In bold games I already have, [Contact me if you have any items I do not own](ht
 | 114 |  |  |  |  |
 | 115 |  |  |  |  |
 | 116 | SNK vs Capcom Card Fighters Clash 2: Expand Edition |  |  |  |
-| ***Best Collection Releases (Japan Only)*** |
+| *Best Collection Releases (Japan Only)* |
 | 117 | Fatal Fury: 1st Contact |  |  |  |
 | 217 | Metal Slug 1st Mission |  |  |  |
 | 307 | Samurai Shodown! 2 / Samurai Spirits 2 |  |  |  |

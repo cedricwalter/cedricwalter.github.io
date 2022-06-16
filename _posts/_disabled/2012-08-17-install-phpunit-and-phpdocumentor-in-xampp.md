@@ -34,7 +34,7 @@ You can check that PHPUnit get preoperly installed by running
 phpunit --version
 ```
 
-should now return **PHPUnit 3.6.12 by Sebastian Bergmann**.
+should now return PHPUnit 3.6.12 by Sebastian Bergmann.
 
 # PHP Pear help
 

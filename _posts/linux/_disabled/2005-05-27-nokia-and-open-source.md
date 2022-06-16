@@ -11,7 +11,7 @@ tags:
 - official
 ---
 
-# Legally Binding Commitment Not to Assert Nokia Patents against the #Linux Kernel**
+# Legally Binding Commitment Not to Assert Nokia Patents against the #Linux Kernel
 
 [Nokia hereby commits not to assert any of its Patents](http://www.nokia.com/nokia/0,1522,,00.html?orig=/iprstatements) (
 as defined herein below) against any #Linux Kernel (as defined herein below) existing as of 25 May 2005. The aforesaid

@@ -18,10 +18,10 @@ tags:
 
 [![CCD-Poster-A2](http://www.waltercedric.com/images/ccd-poster-a2_thumb.png "CCD-Poster-A2")](/assets/images/2016/07/ccd-poster-a2_2.png)
 
-The **Clean Code Developer Initiative** was initiated by [Stefan Lieser](http://lieser-online.de/)
+The Clean Code Developer Initiative was initiated by [Stefan Lieser](http://lieser-online.de/)
 and [Ralph Westphal](http://www.ralfw.de/) early in 2009. Largely inspired by the
 Book [Clean Code](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/) — a Handbook of Agile
-Software Craftsmanship by **Robert C. Martin**, the Initiative aims at growing an attitude of professionalism amongst
+Software Craftsmanship by Robert C. Martin, the Initiative aims at growing an attitude of professionalism amongst
 software developers. It is rooted in the Software Craftsmanship and Agile Movement. As a help for understanding and
 practicing, the Clean Code Developer Initiative grouped these into five levels or degrees (in allusion to martial arts
 training).
@@ -53,7 +53,7 @@ Resist using an interesting solution, when there also is a straight forward (alb
 
 Distrust your own cleverness. “More computing sins are committed in the name of efficiency than for any other single
 reason – including blind stupidity” (W.A.Wulf). Defer improvements “for later”. Require an objective proof for
-performance problems, based on real-world data. **It is always easier** and better to profile later your code on a
+performance problems, based on real-world data. It is always easier and better to profile later your code on a
 proven architecture and readable code than the other way around! Moreover locally premature optimization lead most of
 the time to difficult to read and duplicated code: e.g. writing N cache instead of seeing later in profiler that you may
 need one at many place in your architecture for a lot of different abstractions.
@@ -74,7 +74,7 @@ this, they make small regular contributions to code base health every day.
 ### [Root Cause Analysis](https://en.wikipedia.org/wiki/Root_cause_analysis)
 
 Never do “programming by coincidence”. Try to understand why something works or breaks. Never act based on assumptions.
-Don’t treat symptoms. **Better don’t act unless you understand**.
+Don’t treat symptoms. Better don’t act unless you understand.
 
 ### Use Version Management
 
@@ -159,7 +159,7 @@ low-level functions, turn the latter into services and thus make both depend on 
 
 ### Liskov Substitution Principle
 
-The **Liskov Substitution Principle** (LSP, lsp) is a concept in Object Oriented Programming that states: Functions that
+The Liskov Substitution Principle (LSP, lsp) is a concept in Object Oriented Programming that states: Functions that
 use pointers or references to base classes must be able to use objects of derived classes without knowing it.
 
 ### Rule of Least Surprise
@@ -217,7 +217,7 @@ tell an object what to do.
 don’t write “train wreck code”. Talk to direct collaborators only. Within each scope, confine yourself to using the
 parameters, local methods, locally created objects, associated partners and global services.
 
-The **Law of Demeter** (**LoD**) or **principle of least knowledge** is a design 
+The Law of Demeter (LoD) or principle of least knowledge is a design 
 particularly object-oriented programs. In its general form, the LoD is a specific case of loose coupling. The 
 was proposed at Northeastern University^towards the end of 1987, and can be succinctly summarized in each of the
 following ways:
@@ -297,7 +297,7 @@ some kind of isolation, which helps to cut down complexity.
 
 ### Test first
 
-Also known as **[Test-driven development (TDD)](https://en.wikipedia.org/wiki/Test-driven_development)** is a software
+Also known as [Test-driven development (TDD)](https://en.wikipedia.org/wiki/Test-driven_development) is a software
 development process that relies on the repetition of a very short development cycle: requirements are turned into very
 specific test cases, then the software is improved to pass the new tests, only. Practice and improve your skills by
 doing some TDD [Kata 1](http://osherove.com/tdd-kata-1/) – [Kata 2](http://osherove.com/tdd-kata-2)

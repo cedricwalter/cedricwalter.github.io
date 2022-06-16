@@ -38,10 +38,10 @@ tags:
 # openssl x509 -req -days 365 -in server.csr -signkey server.key -out server.crt
 ```
 
-### **Add the SSL certificate to Apache**
+### Add the SSL certificate to Apache
 
 # <span style="color: rgb(255, 0, 0);">Attention  
-<span style="color: rgb(255, 0, 0);">path to server.key and server.crt may differ!**
+<span style="color: rgb(255, 0, 0);">path to server.key and server.crt may differ!
 
 <small style="color: rgb(51, 51, 51);">(SuSE 9.3 keys store at /etc/apache2/ssl.key/)</small>
 

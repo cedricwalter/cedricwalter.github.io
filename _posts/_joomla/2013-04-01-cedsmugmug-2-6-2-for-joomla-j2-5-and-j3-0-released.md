@@ -22,10 +22,10 @@ You can visit also the [blog of CedSmugmug for joomla](http://www.waltercedric.c
 
 NEW compatibility improved for [Joomla](http://www.joomla.org/ "Joomla is one of the world’ s most popular open source CMS (content management system).") 2.5 and also now for [Joomla](http://www.joomla.org/ "Joomla is one of the world’ s most popular open source CMS (content management system).") 3.0
 
-# BUG** Button in the backend was always working properly while when being logged in the the frontend of the site, It was returning an error 404.
+# BUG Button in the backend was always working properly while when being logged in the the frontend of the site, It was returning an error 404.
 
 ## First time installation
 
-Download the latest copy of cedSmugmug, and under **Extensions → Install / Uninstall** and install with the fresh copy.
+Download the latest copy of cedSmugmug, and under Extensions → Install / Uninstall and install with the fresh copy.
 
 [![](/assets/images/2011/11/download-zip.png)](http://www.waltercedric.com/downloads/smugmug.html "Download CedSmugmug for #Joomla")[![](/assets/images/2013/04/documentation.jpg)](http://wiki.waltercedric.com/index.php?title=CedThumbnails_for_Joomla "Online documentation of CedSmugmug for #Joomla")[![](/assets/images/2011/12/support.png)](http://forums.waltercedric.com/ "Support of CedSmugmug for #Joomla")

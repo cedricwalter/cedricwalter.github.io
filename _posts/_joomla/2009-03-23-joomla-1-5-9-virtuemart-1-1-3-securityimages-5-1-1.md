@@ -18,10 +18,10 @@ Go to yoursite/administrator/index.php?pshop\_mode=admin&amp;page=admin.user\_fi
 
  [![virtuemart.securityimages](/assets/images/2009/03/virtuemart.securityimages_thumb.png "virtuemart.securityimages")](/assets/images/2009/03/virtuemart.securityimages.png)
 
-# Add a new field! (Add / Edit User Fields)**
+# Add a new field! (Add / Edit User Fields)
 
  [![virtuemart.securityimages.2](/assets/images/2009/03/virtuemart.securityimages.2_thumb.png "virtuemart.securityimages.2")](/assets/images/2009/03/virtuemart.securityimages.2.png)   
-# Result, layout can be optimized a bit I agree**
+# Result, layout can be optimized a bit I agree
 
  [![virtuemart.securityimages.3](/assets/images/2009/03/virtuemart.securityimages.3_thumb.png "virtuemart.securityimages.3")](/assets/images/2009/03/virtuemart.securityimages.3.png)
 

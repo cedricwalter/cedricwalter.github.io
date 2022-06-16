@@ -14,19 +14,19 @@ tags:
 
 ![](/assets/images/2012/01/cedThumbnails.png)
 
-[CedThumbnails](http://www.waltercedric.com/index.php/joomlacms/1999-cedthumbnails-250-for-joomla-161725-available) has been updated to version 2.5.7 and contains 4 new features and correct a critical bug for both #Joomla 1.7 and #Joomla 2.5. For existing users the update will display in the **Extensions Manager** under **Updates**. If you do not have this currently installed, you can click the link below and install as normal via the Extensions Manager.
+[CedThumbnails](http://www.waltercedric.com/index.php/joomlacms/1999-cedthumbnails-250-for-joomla-161725-available) has been updated to version 2.5.7 and contains 4 new features and correct a critical bug for both #Joomla 1.7 and #Joomla 2.5. For existing users the update will display in the Extensions Manager under Updates. If you do not have this currently installed, you can click the link below and install as normal via the Extensions Manager.
 
 ###### What’s new?
 
-# BUG**: Highly critical bug that was under some conditions leading to infinite loop and as a result lead to too many open connections from and to your server.
+# BUG: Highly critical bug that was under some conditions leading to infinite loop and as a result lead to too many open connections from and to your server.
 
-# NEW:** Better algorithm to clean and remove invalid images,
+# NEW: Better algorithm to clean and remove invalid images,
 
-# NEW**: Status icon in the administrator panel to help you detecting misconfiguration of your server and in the future help troubleshooting installation issues,
+# NEW: Status icon in the administrator panel to help you detecting misconfiguration of your server and in the future help troubleshooting installation issues,
 
-# NEW**: Specify the image dimensions in the source code, which improves the page score according to Google Page speed. (thanks to Puneet for the idea)
+# NEW: Specify the image dimensions in the source code, which improves the page score according to Google Page speed. (thanks to Puneet for the idea)
 
-# NEW**: plugins oriented architecture for rendering and a cleaner controller for the plugin, this will allow me to add new output more easily,
+# NEW: plugins oriented architecture for rendering and a cleaner controller for the plugin, this will allow me to add new output more easily,
 
 Full list of changes available in [GIT](http://git-scm.com/) commit [99f25840fd3c0f15b864f45c7321cd42820aa2f5](https://github.com/cedricwalter/cedthumbnails/commit/99f25840fd3c0f15b864f45c7321cd42820aa2f5)
 

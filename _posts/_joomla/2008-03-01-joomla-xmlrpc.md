@@ -13,12 +13,12 @@ author: 'Cédric Walter'
 | ![bloggar for joomla](/assets/images/2008/03/01.bloggar.for_.joomla.gif) | XML-RPC allow other programs to interact with the backend of your publishing system.     In practical terms, You can post an entry to a Metaweblog API-compatible site from     an external program!  Using such tool has a lot of advantages:  - Post and Publish on most blogs/cms, one tool to rule them all - Edit Posts and Templates without timeout, browser crash 😉 - Save Posts locally for further publishing, - Import Text files, - Add links and images, more complex formatting - Format text font and alignment faster, - Multiple accounts and blogs supported in one tools - Post/visualize preview - Colorized HTML code - Find/Replace option - Post to many blogs at the same time! - Spell Checking - File and Image Upload |
 |---|---|
 
- Back to joomla! There is a lot of API to interact with #Joomla: XML-RPC, Blogger and **MetaWeblog API.**
+ Back to joomla! There is a lot of API to interact with #Joomla: XML-RPC, Blogger and MetaWeblog API.
 
-The **MetaWeblog API,** is an [application programming interface](http://en.wikipedia.org/wiki/Application_programming_interface) created by [Dave Winer](http://en.wikipedia.org/wiki/Dave_Winer) that enables [blog](http://en.wikipedia.org/wiki/Blogs) entries to be written, edited, and deleted using client software or web services.  
+The MetaWeblog API, is an [application programming interface](http://en.wikipedia.org/wiki/Application_programming_interface) created by [Dave Winer](http://en.wikipedia.org/wiki/Dave_Winer) that enables [blog](http://en.wikipedia.org/wiki/Blogs) entries to be written, edited, and deleted using client software or web services.  
  The API is implemented as an [XML-RPC](http://en.wikipedia.org/wiki/XML-RPC) web service with three methods whose names describe their function: metaweblog.newPost(), metaweblog.getPost() and metaweblog.editPost(). These methods take arguments that specify the blog author’s username and password along with information related to an individual weblog entry (also called a “post.”). [\[from wikipedia\]](http://en.wikipedia.org/wiki/MetaWeblog)
 
-For #Joomla 1.5 you can use **Metaweblog API**, which can be dwonloaded here: [download MetaWeblog API at #JoomlaCode ](http://joomlacode.org/gf/project/metaweblogapi/frs/?action=FrsReleaseBrowse&frs_package_id=3263)The latest version that has work for me is the version 0.9. Working yes but with some limitations, you can’t for example put any pictures in your post.Movable API is another 3rd party plugin developed in japan by Jomler!.net exist for both #Joomla 1.0 and #Joomla! 1.5 ([Metaweblog plugin for #Joomla](http://www.joomler.net/component/option,com_alphacontent/section,2/cat,57/task,view/id,168/Itemid,7/)). Movable API is much more powerful than **Metaweblog<span style="font-weight: normal;">, but I did not succeed in making it running**
+For #Joomla 1.5 you can use Metaweblog API, which can be dwonloaded here: [download MetaWeblog API at #JoomlaCode ](http://joomlacode.org/gf/project/metaweblogapi/frs/?action=FrsReleaseBrowse&frs_package_id=3263)The latest version that has work for me is the version 0.9. Working yes but with some limitations, you can’t for example put any pictures in your post.Movable API is another 3rd party plugin developed in japan by Jomler!.net exist for both #Joomla 1.0 and #Joomla! 1.5 ([Metaweblog plugin for #Joomla](http://www.joomler.net/component/option,com_alphacontent/section,2/cat,57/task,view/id,168/Itemid,7/)). Movable API is much more powerful than Metaweblog<span style="font-weight: normal;">, but I did not succeed in making it running
 
 ##Setting Joomla 1.5 for XMLRPC
 
@@ -32,13 +32,13 @@ Install the plugin using the Plugin manager, and do not forget to publish it
 
 Then you’ll need a client software running locally:
 
-# Linux**
+# Linux
 
 - [BlogGTK](http://blogtk.sourceforge.net/)
 - [Gnome-Blog](http://www.gnome.org/%7Eseth/gnome-blog/)
 - [Drivel](http://www.dropline.net/drivel/)
 
-# Windows**
+# Windows
 
 - w.Bloggar (opensource – [http://www.wbloggar.com/](http://www.wbloggar.com/ "http://www.wbloggar.com/"))
 - Using Flock web browser ( <http://www.flock.com/> )
@@ -70,7 +70,7 @@ Download [w.Bloggar](http://www.wbloggar.com/) and install it, the first start o
 
 ![](/assets/images/2008/03/08.bloggar.running.with_.joomla.gif) 
 
-# **Windows Live Writer 2008**
+# Windows Live Writer 2008
 
 Can be download free of charge at [http://writer.live.com](http://writer.live.com/)
 

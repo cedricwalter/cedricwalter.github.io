@@ -17,8 +17,8 @@ Translated by Walter cedric from
 <http://www.midmad.com/ek4/settings/ek4settings.html>  
 All credits to Authors
 
-*Félicitations pour votre achat du **plus monstrueux, vil et méchant truck radiocommandé qui soit jamais sorti d’une
-usine de production.***
+*Félicitations pour votre achat du plus monstrueux, vil et méchant truck radiocommandé qui soit jamais sorti d’une
+usine de production.*
 
 *Commencons par quelques informations qui ont trait aux réglages du carburateur*
 

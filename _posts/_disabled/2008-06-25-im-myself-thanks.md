@@ -14,7 +14,7 @@ header:
 
 [ *Download &amp; Customize. Creative Commons SA BY NC*](http://download.tuxfamily.org/pollyrepo/iniziative/myself/myself-source.xcf)
 
-# I’m myself, thanks.** That’s the answer to those stupid commercials aimed at identifying yourself   
+# I’m myself, thanks. That’s the answer to those stupid commercials aimed at identifying yourself   
 with that company or the other. Download, Customize, Use it on your site/blog and Share it freely   
 (CC sa by nc). Get rid of the marketing: they can’t just stick a logo on you!
 

@@ -16,7 +16,7 @@ tags:
 The project VBP (Vertrieb und Beratungs Plattform) of [Helvetia Patria](http://www.helvetiapatria.ch) is now closed after 3 years of development. We All have reach major milestones:
 
 - Offline plattform,
-- **ePAKT** project (where I was working) is a new Web application and the first software for the collective life insurance business in Switzerland. **ePAKT** offers to customers and selling partners all relevant contracts and policies informations and is completely integrated into the old system **acompaNet**.(.NET) Indoor service also profit strongly from ePAKT: they now possess a selling-oriented, self-describing information platform.
+- ePAKT project (where I was working) is a new Web application and the first software for the collective life insurance business in Switzerland. ePAKT offers to customers and selling partners all relevant contracts and policies informations and is completely integrated into the old system acompaNet.(.NET) Indoor service also profit strongly from ePAKT: they now possess a selling-oriented, self-describing information platform.
 - Kubi project
 - Commercio project
 - …

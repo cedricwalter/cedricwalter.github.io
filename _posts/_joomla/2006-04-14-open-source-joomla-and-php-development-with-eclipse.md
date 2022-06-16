@@ -14,7 +14,7 @@ tags:
 
 
 
-| **When #Eclipse meet #Joomla** |  |
+| When #Eclipse meet #Joomla |  |
 |---|---|
 | ![](/assets/images/2006/04/eclipse.jpg) | ![](/assets/images/2005/10/Joomla-Logo-Horz-Color-Thumbnail.png) |
 |  |  |

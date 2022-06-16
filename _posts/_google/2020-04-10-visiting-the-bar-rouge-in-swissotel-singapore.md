@@ -50,7 +50,7 @@ Inside Singapore Bar Rouge SwissÔtel
 
 71 floors above the city of Singapore with an unobstructed view of Marina Bay area.
 
-<iframe class="uagb-google-map__iframe" src="https://www.google.com/maps/embed/v1/place?key=AIzaSyAsd_d46higiozY-zNqtr7zdA81Soswje4&q=bar%20rouge%20singapore&zoom=17" style="height:300px"></iframe>**Located in:** Swissôtel The Stamford, 2 Stamford Rd, Level 71 Swissotel The Stamford, Singapore 178882
+<iframe class="uagb-google-map__iframe" src="https://www.google.com/maps/embed/v1/place?key=AIzaSyAsd_d46higiozY-zNqtr7zdA81Soswje4&q=bar%20rouge%20singapore&zoom=17" style="height:300px"></iframe>Located in: Swissôtel The Stamford, 2 Stamford Rd, Level 71 Swissotel The Stamford, Singapore 178882
 
 {% include gallery layout="half" caption="Inside Singapore Bar Rouge SwissÔtel" %}
 

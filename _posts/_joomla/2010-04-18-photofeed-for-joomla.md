@@ -20,12 +20,12 @@ example above with [Flickr RSS](http://api.flickr.com/services/feeds/photos_publ
 
 What’s new?
 
-# NEW**: supports HTML caching of the resulting pictures grid   
-# NEW**: RSS caching (lifetime can be choosen in admin panel)   
-# NEW**: You can change the layout through CSS class .photofeed and .photofeedLine   
-# NEW**: You can decide how many pictures you want per lines   
-# NEW**: logs files are now written in debug mode to /logs/plg.photofeed.log.php   
-# NEW**: improve documentation and now use a widget in administrator panel with tabs.   
+# NEW: supports HTML caching of the resulting pictures grid   
+# NEW: RSS caching (lifetime can be choosen in admin panel)   
+# NEW: You can change the layout through CSS class .photofeed and .photofeedLine   
+# NEW: You can decide how many pictures you want per lines   
+# NEW: logs files are now written in debug mode to /logs/plg.photofeed.log.php   
+# NEW: improve documentation and now use a widget in administrator panel with tabs.   
 Rewrite some parts to not have a monolithic architecture
 
 - - - - - -
@@ -49,12 +49,12 @@ Rewrite some parts to not have a monolithic architecture
 - GPL v3.0,
 - Non commercial.
 
-# Support:** If you require support for this component please visit the [Support Forums](http://forums.waltercedric.com/index.php?board=74.0).
+# Support: If you require support for this component please visit the [Support Forums](http://forums.waltercedric.com/index.php?board=74.0).
 
-# Documentation:** Official documentation available at [Cédric Walter Wiki](http://wiki.waltercedric.com/index.php?title=Photofeed_fo_Joomla).
+# Documentation: Official documentation available at [Cédric Walter Wiki](http://wiki.waltercedric.com/index.php?title=Photofeed_fo_Joomla).
 
-# Do you like this extension?** Rate it at [Joomla! Extensions Directory](http://extensions.joomla.org/extensions/external-contents/multimedia-channels/photo-channels/8941)
+# Do you like this extension? Rate it at [Joomla! Extensions Directory](http://extensions.joomla.org/extensions/external-contents/multimedia-channels/photo-channels/8941)
 
-# Download** Visit [http://www.waltercedric.com/index2.php?option=com\_versions&amp;catid=23](index2.php?option=com_versions&catid=17)
+# Download Visit [http://www.waltercedric.com/index2.php?option=com\_versions&amp;catid=23](index2.php?option=com_versions&catid=17)
 
-# Always use the latest version** subscribe to [the download RSS ![Feed Icon](http://localhost/dev/plugins/content/photofeed/doc/img/feed-icon.png)](index2.php?option=com_versions&catid=17&task=feed)
+# Always use the latest version subscribe to [the download RSS ![Feed Icon](http://localhost/dev/plugins/content/photofeed/doc/img/feed-icon.png)](index2.php?option=com_versions&catid=17&task=feed)

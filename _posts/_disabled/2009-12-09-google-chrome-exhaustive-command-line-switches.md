@@ -20,9 +20,9 @@ tags:
 
 From the source file chrome\_switches.cc at [http://src.chromium.org/svn/trunk/src/chrome/common/chrome\_switches.cc](http://src.chromium.org/svn/trunk/src/chrome/common/chrome_switches.cc) The list of switches is evolving so consider looking at source code to check for changes. Right click on Google Chrome desktop icon and use properties
 
-| **–enable-sync** | **Enable syncing bookmarks to a Google Account.** |
+| –enable-sync | Enable syncing bookmarks to a Google Account. |
 |---|---|
-| **–incognito** | **Causes the browser to launch directly in incognito mode.** |
+| –incognito | Causes the browser to launch directly in incognito mode. |
 | –disable-hang-monitor | Suppresses hang monitor dialogs in renderer processes. |
 | –disable-metrics | Completely disables UMA metrics system. |
 | –disable-metrics-reporting | Disables only the sending of metrics reports. In contrast to    kDisableMetrics, this executes all the code that a normal client would use    for reporting, except the report is dropped rather than sent to the server.    This is useful for finding issues in the metrics code during UI and    performance tests. |

@@ -94,7 +94,7 @@ The 12” Propellers fitted to the super efficient 600kv brushless motors and 18
 
 ## Reely QuadroCopter 450 RtB - $350
 
-# [![Reely_QuadroCopter_450_RtB_1](/assets/images/2011/11/Reely_QuadroCopter_450_RtB_1_thumb.jpg "Reely_QuadroCopter_450_RtB_1")](http://www.waltercedric.com/images/QUadroCopter-world_6E41/Reely_QuadroCopter_450_RtB_1.jpg)[![Reely_QuadroCopter_450_RtB_2](/assets/images/2011/11/Reely_QuadroCopter_450_RtB_2_thumb.jpg "Reely_QuadroCopter_450_RtB_2")](http://www.waltercedric.com/images/QUadroCopter-world_6E41/Reely_QuadroCopter_450_RtB_2.jpg)**
+# [![Reely_QuadroCopter_450_RtB_1](/assets/images/2011/11/Reely_QuadroCopter_450_RtB_1_thumb.jpg "Reely_QuadroCopter_450_RtB_1")](http://www.waltercedric.com/images/QUadroCopter-world_6E41/Reely_QuadroCopter_450_RtB_1.jpg)[![Reely_QuadroCopter_450_RtB_2](/assets/images/2011/11/Reely_QuadroCopter_450_RtB_2_thumb.jpg "Reely_QuadroCopter_450_RtB_2")](http://www.waltercedric.com/images/QUadroCopter-world_6E41/Reely_QuadroCopter_450_RtB_2.jpg)
 
 39. Flight characteristics: 3 different basic outlooks for beginner up to professional
 40. Stabilised through efficient RISC microprocessors
@@ -121,7 +121,7 @@ The 12” Propellers fitted to the super efficient 600kv brushless motors and 18
     
     Price range from 600€ to the sky!
     
-    ## **Multicopter Quadrocopter R360X – $650**
+    ## Multicopter Quadrocopter R360X – $650
     
     From <http://www.multicopter.ch/Multicopter/>
     
@@ -131,7 +131,7 @@ The 12” Propellers fitted to the super efficient 600kv brushless motors and 18
     
     From <http://rotorconcept.com/>
     
-    Rotor Concept’s high performance quad copter (HPQ1) comes fully assembled and 100% ready to fly (RTF), with **Built in safety features: Low battery protection, Loss of RC signal and Start-up throttle protection.** The HPQ-2 quad copter is a foldable and comes with a 28×8.5×8.5 inch metal carrying case and is capable of carrying up to 1.4kg payload.
+    Rotor Concept’s high performance quad copter (HPQ1) comes fully assembled and 100% ready to fly (RTF), with Built in safety features: Low battery protection, Loss of RC signal and Start-up throttle protection. The HPQ-2 quad copter is a foldable and comes with a 28×8.5×8.5 inch metal carrying case and is capable of carrying up to 1.4kg payload.
     
     ##  
     

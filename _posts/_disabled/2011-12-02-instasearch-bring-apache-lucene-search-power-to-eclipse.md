@@ -28,21 +28,21 @@ txt,vxml,wml,wsdd,wsdl,wsil,wsimsg,wssc,wssr,xhtml,xmi,xml,xpl,xproc,xq,xql,xqm,
 
 As it use [Apache Lucene](http://lucene.apache.org/) internally you can build some nice queries:
 
-- Searching for ***icefaces*** could result in 35 hits (items contain the word *icefaces* )
-- Searching for ***web.xml*** results in 3 hits (items contain the word *web.xml or file named *web.xml** )
-- Searching for ***icefaces** ***web.xml**** (without quotes) results in 148 hits (items contain the words *icefaces* or *web.xml* or both)
-- Searching for **icefaces and *web.xml*** results in 3 hits (results contain both words *icefaces* and *web.xml* )
+- Searching for *icefaces* could result in 35 hits (items contain the word *icefaces* )
+- Searching for *web.xml* results in 3 hits (items contain the word *web.xml or file named *web.xml )
+- Searching for *icefaces *web.xml (without quotes) results in 148 hits (items contain the words *icefaces* or *web.xml* or both)
+- Searching for icefaces and *web.xml* results in 3 hits (results contain both words *icefaces* and *web.xml* )
 
  [![eclipse_instasearch_01](/assets/images/2011/12/eclipse_instasearch_01_thumb.png "eclipse_instasearch_01")](/assets/images/2011/12/eclipse_instasearch_01.png)
 
-- To exclude search terms just add a “-” in front of it: **icefaces –application**
-- To perform a single character wildcard search use the "**?**" symbol.
-- To perform a multiple character wildcard search use the "**\***" symbol (looks for 0 or more characters).
-- Finding words that are within a specific distance away. To do a proximity search use the tilde, "~", symbol at the end of a Phrase. For example to search for "**Specifies**" and "**milliseconds**" within 5 words of each other in a document use the search: **"Specifies" "milliseconds" ~5**
+- To exclude search terms just add a “-” in front of it: icefaces –application
+- To perform a single character wildcard search use the "?" symbol.
+- To perform a multiple character wildcard search use the "\*" symbol (looks for 0 or more characters).
+- Finding words that are within a specific distance away. To do a proximity search use the tilde, "~", symbol at the end of a Phrase. For example to search for "Specifies" and "milliseconds" within 5 words of each other in a document use the search: "Specifies" "milliseconds" ~5
 
 [![eclipse_instasearch_02](/assets/images/2011/12/eclipse_instasearch_02_thumb.png "eclipse_instasearch_02")](/assets/images/2011/12/eclipse_instasearch_02.png)
 
-# Main Features**
+# Main Features
 
 - Instantly shows search results
 - Shows suggestions using auto-completion

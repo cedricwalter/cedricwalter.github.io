@@ -16,7 +16,7 @@ The #Joomla Project is pleased to announce the immediate availability of #Joomla
 
 This release marks an important milestone for the #Joomla Project due to the upgrade of the PEAR library to the new BSD licensed version, which brings the codebase into full compliance with the GPL. In addition, this release contains an important upgrade to TinyMCE v 3.2.4.1.
 
-# Statistics for the 1.5.12 release period:**
+# Statistics for the 1.5.12 release period:
 
 - Joomla 1.5.12 contains: 
     - 25 issues fixed in SVN
@@ -30,7 +30,7 @@ This release marks an important milestone for the #Joomla Project due to the upg
     - 60 confirmed
     - 27 pending
 
- **Download**
+ Download
 
 - [Download #Joomla 1.5.12 (Full package)](http://joomlacode.org/gf/download/frsrelease/10547/41305/Joomla_1.5.12-Stable-Full_Package.zip)
 - [Download #Joomla 1.5.11 > 1.5.12 update package](http://joomlacode.org/gf/download/frsrelease/10548/41314/Joomla_1.5.11_to_1.5.12-Stable-Patch_Package.zip)

@@ -11,7 +11,7 @@ tags:
     - 'Home Cinema'
 ---
 
-# 720p, 1080i and 1080p** are shorthand name for a category of video modes.  
+# 720p, 1080i and 1080p are shorthand name for a category of video modes.  
 720p is a smaller HD resolution than 1080p.720p is made up of 1280 (horizontal) x 720 (vertical) pixels.1080p is made up of 1920 (horizontal) x 1080 (vertical) or 1440 (horizontal) x 1080 (vertical) pixels in1080i.  
 In other words, if you compare 720p and 1080p movies on a 42" TV, you will notice that the 1080p most likely looks better. The pixel size in 720p is much larger on a 42" TV than 1080p. The smaller the pixel size the sharper the picture is.  
 [WikiPedia 720p](http://en.wikipedia.org/wiki/720p)[ ](http://en.wikipedia.org/wiki/720p)– [WikiPedia 1080p](http://en.wikipedia.org/wiki/1080p) – [WikiPedia 1080i](http://en.wikipedia.org/wiki/1080i)
@@ -24,7 +24,7 @@ First you need to have a video player of any kind. I like [Videolan](http://www.
 
 Then you need to download and install the Combined Community Codec Pack, which [you can download here](http://www.cccp-project.net/):
 
-The CCCP (***C**ombined **C**ommunity **C**odec **P**ack*) is a DirectShow filter pack specifically built for playing anime. It has been assembled by some of the most knowledgeable people in online anime distribution, and one of the primary design goals is to play as much as possible with as little as possible. The CCCP attempts to be as unintrusive on your system as possible. \[[WIKI](http://www.cccp-project.net/wiki/index.php?title=Main_Page)\]
+The CCCP (*Combined Community Codec Pack*) is a DirectShow filter pack specifically built for playing anime. It has been assembled by some of the most knowledgeable people in online anime distribution, and one of the primary design goals is to play as much as possible with as little as possible. The CCCP attempts to be as unintrusive on your system as possible. \[[WIKI](http://www.cccp-project.net/wiki/index.php?title=Main_Page)\]
 
 If you find your hardware can’t play it quite quick enough with CCCP, You can still try to [buy a copy of CoreAVC](http://www.coreavc.com/), the fastest [H264 software decoder](http://en.wikipedia.org/wiki/H.264) (but you may still need some of the software from CCCP, so keep that on there).  
 ![](/Image/stories/gadget/homecinema/fcoreavc.png)  

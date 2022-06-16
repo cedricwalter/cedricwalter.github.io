@@ -15,7 +15,7 @@ tags:
 - upgrades
 ---
 
-**Caliber 30 upgrades parts from** [**Correct**](http://www4.ocn.ne.jp/%7Ecorrect/)    courtesy authorization of company
+Caliber 30 upgrades parts from [Correct](http://www4.ocn.ne.jp/%7Ecorrect/)    courtesy authorization of company
 Correct |
 Please note that I have no connection with the compagny Correct, simply I find their upgrades beautiful and want to show
 them here. |
@@ -60,6 +60,6 @@ approx. 200â?¬
 ![FRPL_.jpg](/assets/images/2004/08/TN_FRPL_.JPG)](/assets/images/2004/08/FRPL_.jpg)[    FRPL\_.jpg](/assets/images/2004/08/FRPL_.jpg)
 ![FRPR.jpg](/assets/images/2004/08/TN_FRPR.JPG)](/assets/images/2004/08/FRPR.jpg)[    FRPR.jpg](/assets/images/2004/08/FRPR.jpg)
 ![](/assets/images/2004/08/tn016-147.JPG)](/assets/images/2004/08/016-147.JPG) \| |
-**Mail of the compagny
-Correct**: [correct@orange.ocn.ne.jp](images/Helico/caliber/correct/correct@orange.ocn.ne.jp)    **Their
-Homepage:** [www4.ocn.ne.jp/~correct](images/Helico/caliber/upgrades/www4.ocn.ne.jp/%7Ecorrect) |
+Mail of the compagny
+Correct: [correct@orange.ocn.ne.jp](images/Helico/caliber/correct/correct@orange.ocn.ne.jp)    Their
+Homepage: [www4.ocn.ne.jp/~correct](images/Helico/caliber/upgrades/www4.ocn.ne.jp/%7Ecorrect) |

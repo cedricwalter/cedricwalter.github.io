@@ -29,7 +29,7 @@ I’m trying to answer all these questions at <https://ico.tokens-economy.com/di
 
 ### advisors, airdrop, bonus, bounty, burned, community, company, crowdsale, ecommerce, foundation, founder, investors, legal, lockup, marketing, operations, pool, premined, presale, referrals, research, reserves, team
 
-# The tedious work** was to get the data and map categories (people used a huge amount of synonyms: up to 1936 unique words/sentences, including typos) down to 24 categories!
+# The tedious work was to get the data and map categories (people used a huge amount of synonyms: up to 1936 unique words/sentences, including typos) down to 24 categories!
 
 Some examples:
 

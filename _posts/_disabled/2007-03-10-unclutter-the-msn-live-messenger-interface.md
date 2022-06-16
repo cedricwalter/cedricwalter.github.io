@@ -22,6 +22,6 @@ But there is a very simple way to clan an remove all uneeded stuff in Messenger�
 
 [![](/assets/images/2007/03/patch.messenger.live_.with_.apatch.gif)](http://apatch.org/index.php)
 
-# "Featuring a massive 71 options! A-Patch boasts a tremendous amount of customization to better your Windows Live/MSN Messenger experience, with even more planned! **Remove advertisements** and buttons you don’t need, cut down on wasted space, **sign-in to more than one e-mail address** at the same time and even more features just waiting for you to take advantage of! # "  
+# "Featuring a massive 71 options! A-Patch boasts a tremendous amount of customization to better your Windows Live/MSN Messenger experience, with even more planned! Remove advertisements and buttons you don’t need, cut down on wasted space, sign-in to more than one e-mail address at the same time and even more features just waiting for you to take advantage of! # "  
 [  
 Take the control back of MSN messenger, use A-Patch](http://apatch.org/index.php)

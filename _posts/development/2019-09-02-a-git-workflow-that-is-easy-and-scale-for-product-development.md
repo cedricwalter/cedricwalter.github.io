@@ -52,7 +52,7 @@ is done first in a new branch from master
   automatic releases notes because [Jira ](https://www.atlassian.com/software/jira)
   and [Confluence](https://www.atlassian.com/software/confluence) will recognize the ticket number in the branch name
 
-These **ticket, bugs, fix, features** should **NEVER be merged to master without a Pull Request** (PR) and a code
+These ticket, bugs, fix, features should NEVER be merged to master without a Pull Request (PR) and a code
 review.
 
 After the review process it can be merged to master. (merge will be blocked if no reviewer has accepted the code
@@ -65,9 +65,9 @@ Code deployed to production or customer instance can ONLY be deployed from a rel
 ## Fixes in production or customer release
 
 Fixes in production or customer release branch are done the usual way (ticket-name but branch created from release
-branch name) and **create a new git tag 1.0.1** (first fix of release 1.0.1, then 1.0.2 ….)
+branch name) and create a new git tag 1.0.1 (first fix of release 1.0.1, then 1.0.2 ….)
 
-These branches created from release branches **can but must NOT be merged to master** depending on the quality of the
+These branches created from release branches can but must NOT be merged to master depending on the quality of the
 fix and urgency. To be discussed on a case by case basis
 
 - e.g. hot ugly fixes, aka workaround, done in urgency for a customer wont be merged to master and may be rewritten to

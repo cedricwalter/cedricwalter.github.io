@@ -19,7 +19,7 @@ tags:
 
 Super Mario celebrates its 35th birthday. At the same time, the classic game Super Mario Bros. for the NES is 30 years old. Reason enough for Nintendo to celebrate its heroes with a new retro console in mini format.
 
-# Coming November 13 2020**
+# Coming November 13 2020
 
 ![](/assets/images/2020/09/super-mario-35th-anniversary-game-and-watch-box.jpg)This Game &amp; Watch: Super Mario Bros. is a copy of the very first console that Nintendo brought to market 40 years ago. Just like the original from back then, a digital clock is integrated.
 

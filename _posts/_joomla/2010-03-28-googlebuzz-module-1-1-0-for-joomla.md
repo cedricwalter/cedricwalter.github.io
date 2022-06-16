@@ -38,11 +38,11 @@ The administrator panel has now a bit more settings:
 
 [![google.buzz.for.joomla.adminpanel](/assets/images/2010/03/google.buzz_.for_.joomla.adminpanel_thumb_1.png "google.buzz.for.joomla.adminpanel")](/assets/images/2010/03/google.buzz_.for_.joomla.adminpanel_4.png)
 
-- **PHP Code license:** [GNU GPL V3](http://www.gnu.org/licenses/gpl-3.0.html)
-- **Support:** If you require support for this component please visit the [Support Forums](http://forums.waltercedric.com/index.php?board=77.0).
-- **Documentation:** Official documentation available at [Cédric Walter Wiki](http://wiki.waltercedric.com/index.php?title=GoogleBuzzForJoomlaModule).
-- **Do you like this extension?** Rate it at [Joomla.org](http://extensions.joomla.org/extensions/social-web/social-channels-display/11489)
-- **Always use the latest version** subscribe to [the download RSS ](index2.php?option=com_versions&catid=28&task=feed)[![feed-icon-14x14](/assets/images/2010/03/feed-icon-14x14_thumb.png "feed-icon-14x14")](/assets/images/2010/03/feed-icon-14x14_2.png)
+- PHP Code license: [GNU GPL V3](http://www.gnu.org/licenses/gpl-3.0.html)
+- Support: If you require support for this component please visit the [Support Forums](http://forums.waltercedric.com/index.php?board=77.0).
+- Documentation: Official documentation available at [Cédric Walter Wiki](http://wiki.waltercedric.com/index.php?title=GoogleBuzzForJoomlaModule).
+- Do you like this extension? Rate it at [Joomla.org](http://extensions.joomla.org/extensions/social-web/social-channels-display/11489)
+- Always use the latest version subscribe to [the download RSS ](index2.php?option=com_versions&catid=28&task=feed)[![feed-icon-14x14](/assets/images/2010/03/feed-icon-14x14_thumb.png "feed-icon-14x14")](/assets/images/2010/03/feed-icon-14x14_2.png)
 
 ## [Download GoogleBuzz module 1.1.0 for Joomla!](joomla-releases-mainmenu-269.html?QUERY_STRING=#Module%20Google%20Buzz)
 

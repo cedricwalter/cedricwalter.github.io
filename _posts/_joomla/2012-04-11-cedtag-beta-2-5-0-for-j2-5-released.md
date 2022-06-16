@@ -46,7 +46,7 @@ A real free tag system for #Joomla!
 - Tags filter by section and category.
 - One click installation.
 
-# User of #Joomla Tags**, just install this all in one package and select Import – Souce – #Joomla Tags and click import to copy your data in the new table.
+# User of #Joomla Tags, just install this all in one package and select Import – Souce – #Joomla Tags and click import to copy your data in the new table.
 
 cedTag a new Tag system for #Joomla 2.5 (based on #Joomla tags) is now deployed on my showcase
 

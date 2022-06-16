@@ -38,7 +38,7 @@ Why it take so much time? because they have decide to translate the buffer overf
 
 - In OpenBSD since year (BSD 4.0),
 - In Linux since [Kernel 2.6.12](http://lwn.net/Articles/121845/) (<font size="-1">17 Jun 2005) or as an addon [http://pax.grsecurity.net](http://pax.grsecurity.net/)
-- Third party company are selling addons for windows here are some: **[BufferShield](http://www.sys-manage.com/english/products/products_BufferShield.html) (since 1998 for** XP, 2000, 2003, NT4**),**  [WehnTrust](http://www.wehnus.com/products.pl) (XP, 2000, 2003), StackGuard (compiler Canary and ASLR)
+- Third party company are selling addons for windows here are some: [BufferShield](http://www.sys-manage.com/english/products/products_BufferShield.html) (since 1998 for XP, 2000, 2003, NT4),  [WehnTrust](http://www.wehnus.com/products.pl) (XP, 2000, 2003), StackGuard (compiler Canary and ASLR)
 
  Canaries are not implemented in Vista but are also worth mentionning:   
   

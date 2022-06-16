@@ -21,7 +21,6 @@ numbers are increased to 700 mW and 8 channels.
 that you should follow your local regulations regarding which mode to use.
 
 ## How to switch to FCC mode from CE mode
-
 - Take the micro SD Card out of the Air Unit
 - Create a text file on the root directory, name it `naco.txt`
 - Write `1` in the file, which means FCC mode for USA or any other number according to this list:
@@ -39,5 +38,5 @@ that you should follow your local regulations regarding which mode to use.
 in the Player menu you should see now 8 channels.
 
 # Attention
-updating the firmware on your DJI FPV goggles and Air Unit will always reset the power setting back to the default
+{: .notice--danger} Updating the firmware on your DJI FPV goggles and Air Unit will always reset the power setting back to the default
 settings according to your region!

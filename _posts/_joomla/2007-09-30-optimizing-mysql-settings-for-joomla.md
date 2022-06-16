@@ -13,11 +13,11 @@ tags:
 
  I publish here some of my server settings in the hope that it will also help others…
 
- **Server Setup**
+ Server Setup
 
  AMD64 1 Gb RAM, #Linux OSS 10.0, 7 #Joomla instances (one being waltercedric.com with 250’000 unique visitors per months), 1 simple machine forums, 3 gallery2 install
 
- **All MySQL tables are myISAM** (table locking instead of row loacking in innodb, myIsam make sense as ther is more read then insert)
+ All MySQL tables are myISAM (table locking instead of row loacking in innodb, myIsam make sense as ther is more read then insert)
 
  \# vi in /etc/my.cnf
 

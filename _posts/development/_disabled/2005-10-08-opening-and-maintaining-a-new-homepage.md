@@ -17,7 +17,7 @@ tags:
 
 i am currently Opening and maintaining a new homepage for my parents…
 
-Broc-Antique will be a **supplier of the best hand made dolls’ houses and miniature collectables.**
+Broc-Antique will be a supplier of the best hand made dolls’ houses and miniature collectables.
 
 <http://www.broc-antique.com/>  
 [![](/assets/images/2005/10/www.broc-antique.com_.header.jpg)](http://www.broc-antique.com/)

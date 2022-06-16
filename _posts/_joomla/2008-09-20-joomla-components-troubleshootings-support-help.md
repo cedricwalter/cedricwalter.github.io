@@ -34,7 +34,7 @@ The official forums has currently 2251 Posts in 598 Topics by 854 Members. I did
 
 ### Help you each other
 
-For the same reason, **if You solve Your problem**, publish how you did solve your issue!!! this may help someone else in the community
+For the same reason, if You solve Your problem, publish how you did solve your issue!!! this may help someone else in the community
 
 - On your homepage,
 - On ANY forums, [my forum](http://forums.waltercedric.com/) would just be more efficient
@@ -47,7 +47,7 @@ For the same reason, **if You solve Your problem**, publish how you did solve yo
 
 It may be a Bug, so first search into the forum [forums.waltercedric.com](http://forums.waltercedric.com) or into the tracker [bug.waltercedric.com](http://bug.waltercedric.com/) [](http://forge.joomla.org/sf/tracker/do/listTrackers/projects.com_securityimages/tracker)to see if this issue is known. Please try to be as descriptive as possible: URL of your site, PHP info as a dump, error messages if available.
 
-You can enter a new bug in **English, German or French**, I can’t read/understand at the moment any other languages sorry.
+You can enter a new bug in English, German or French, I can’t read/understand at the moment any other languages sorry.
 
 I do a lot of bugs like other developers, while I still do not accept it, it is a reality…but I always try to do my best and I will correct issues as fast as possible…
 
@@ -57,7 +57,7 @@ Security issues will be solved ASAP if not immediately, send me an email startin
 
 ### Last
 
-If you still do not get my components working, or found help **in a reasonable delay**, send me: URL, login and password for your administrator panel, so I can check if everything is right (I need to be admin or superadmin to install remove my components!)
+If you still do not get my components working, or found help in a reasonable delay, send me: URL, login and password for your administrator panel, so I can check if everything is right (I need to be admin or superadmin to install remove my components!)
 
 ### Donation
 

@@ -10,7 +10,7 @@ header:
   teaser: /assets/images/2008/08/AntiVirusFlawed_thumb.png
 ---
 
-# It can’t be that my anti virus want to scan my disk every day** (default settings) and take 23 hours to do so.
+# It can’t be that my anti virus want to scan my disk every day (default settings) and take 23 hours to do so.
 
 - Either windows stop and sandbox all applications using an hypervisor…and KNOW what   
      applications are doing or what is written down to disk so the anti virus scan can be optimized

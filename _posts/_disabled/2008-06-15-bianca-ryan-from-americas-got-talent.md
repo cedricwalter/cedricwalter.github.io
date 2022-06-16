@@ -9,7 +9,7 @@ author: 'Cédric Walter'
 ---
 
 I just discovered that video on you tube 3 week ago, I was never impressed by such   
-a voice (except by [Joss Stone](http://www.jossstone.com/), [Christina Aguilera](http://www.christinaaguilera.com/)) but **He** she’s only 11 years old…
+a voice (except by [Joss Stone](http://www.jossstone.com/), [Christina Aguilera](http://www.christinaaguilera.com/)) but He she’s only 11 years old…
 
 Bianca Ryan from America’s Got Talent
 

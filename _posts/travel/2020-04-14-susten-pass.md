@@ -4,13 +4,11 @@ title: 'Susten Pass'
 date: '2020-04-14T11:58:01+02:00'
 author: 'Cédric Walter'
 categories:
-- travel
-
-
-
-    
+- travel 
 header:
-  teaser: /assets/images/2020/04/susten-pass-switzerland-8.jpg
+overlay_image: /assets/images/2020/04/susten-pass-switzerland-8.jpg
+teaser: /assets/images/2020/04/susten-pass-switzerland-8.jpg
+caption: "Susten Pass - Switzerland"
 tags:
     - car
     - switzerland

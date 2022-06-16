@@ -19,7 +19,7 @@ tags:
     - travel
 ---
 
-The **Grimsel Pass** (German: *Grimselpass*; French: *Col du Grimsel*; Italian: *Passo del Grimsel*) is a mountain pass in Switzerland, crossing the Bernese Alps at an elevation of 2,164 metres (7,100 ft). The pass connects the Haslital, the upper valley of the river Aare, with the upper valley of the Rhône. In so doing, and as the Aare is a tributary of the Rhine, the pass crosses the continental divide between the North Sea and the Mediterranean Sea.
+The Grimsel Pass (German: *Grimselpass*; French: *Col du Grimsel*; Italian: *Passo del Grimsel*) is a mountain pass in Switzerland, crossing the Bernese Alps at an elevation of 2,164 metres (7,100 ft). The pass connects the Haslital, the upper valley of the river Aare, with the upper valley of the Rhône. In so doing, and as the Aare is a tributary of the Rhine, the pass crosses the continental divide between the North Sea and the Mediterranean Sea.
 
 <iframe class="uagb-google-map__iframe" src="https://www.google.com/maps/embed/v1/place?key=AIzaSyAsd_d46higiozY-zNqtr7zdA81Soswje4&q=grimselpass&zoom=12" style="height:300px" title="Google Map for grimselpass"></iframe>A paved road follows the pass, running 38 kilometres (24 mi) from Gletsch to Meiringen. The road is normally closed between October and May, due to the high snowfall on the pass. As it is the only direct road pass between the cantons of Bern and Valais across the Bernese Alps, attempts are made to keep the road open as long as possible with snow ploughs. A PostBus Switzerland service uses the pass several times a day, connecting Meiringen and Oberwald. [Wikipedia](https://en.wikipedia.org/wiki/Grimsel_Pass)
 

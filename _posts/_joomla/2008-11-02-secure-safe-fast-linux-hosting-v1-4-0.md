@@ -10,7 +10,7 @@ header:
   teaser: /assets/images/2008/11/mindmap.png
 ---
 
-This list is an ongoing work and [since the version 1.0](http://www.waltercedric.com/internet-www-mainmenu-54/313-security/1272-secure-safe-fast-linux-hosting.html) (01 March 2008), a lot of nodes/ideas **and now links have been added**. The tree is also now **a lot more structured…**
+This list is an ongoing work and [since the version 1.0](http://www.waltercedric.com/internet-www-mainmenu-54/313-security/1272-secure-safe-fast-linux-hosting.html) (01 March 2008), a lot of nodes/ideas and now links have been added. The tree is also now a lot more structured…
 
 *Secure, Safe, Fast #Linux Hosting sound silly as nothing can be fast and secure at the same time, but I’ve compiled a list of things that are worth doing if you are maintaining your own server. This list is clearly targeted for people running an open source stack made of Apache, MySQL, PHP and #Linux.*
 

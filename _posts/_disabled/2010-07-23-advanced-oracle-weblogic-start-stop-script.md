@@ -18,7 +18,7 @@ tags:
 
 ## Some notes
 
-#### **This script may look unsecure (and it is)** 
+#### This script may look unsecure (and it is) 
 
 Since password are store inside (admin server login: admin and password is admin), by doing so I can restart [Oracle Weblogic](http://www.oracle.com/us/products/middleware/application-server/index.htm) in a cron job since stopping wont query the console for the login and password: feel free to remove these lines in blue
 
@@ -30,7 +30,7 @@ I always recommend to install web process in its own user group and use a dedica
 
 Install then weblogic in /home/weblogic
 
-#### **Respect the order of component for starting**
+#### Respect the order of component for starting
 
 1. Start Weblogic Node Manager,
 2. Start WebLogic Admin server,
@@ -42,11 +42,11 @@ and stopping components
 2. Stop all Managed WebLogic server
 3. Stop WebLogic
 
-#### **Names of the managed server**
+#### Names of the managed server
 
- **<font color="#ff8000">managed server names are in the script** so add remove start and stop command for them
+ <font color="#ff8000">managed server names are in the script so add remove start and stop command for them
 
-#### **Logs files of start and stop operations** 
+#### Logs files of start and stop operations 
 
 are written in 2 files, that use timestamp, see WLS\_LOG\_START and WLS\_LOG\_STOP
 
@@ -62,7 +62,7 @@ and paste inside the following
 > \# description: webLogic adminServer and managedServer start script   
 > \# 
 > 
-> **\# customized below to your likings**   
+> \# customized below to your likings   
 > WLS\_DOMAIN=mytestdomain   
 > WLS\_BASE=/home/weblogic/   
 > WLS\_HOME=${WLS\_BASE}/bea/user\_projects/domains/$WLS\_DOMAIN   
@@ -86,7 +86,7 @@ and paste inside the following
 >  exit   
 > fi 
 > 
-> **startWeblogic**()   
+> startWeblogic()   
 > {   
 > su – $WLS\_OWNER -c “nohup $WLS\_NODE\_HOME/startNodeManager.sh > ${WLS\_LOG\_START} 2>&amp;1 &amp;”   
 > sleep 10   
@@ -98,7 +98,7 @@ and paste inside the following
 > return 0   
 > } 
 > 
-> **stopWeblogic**()   
+> stopWeblogic()   
 > {   
 > su – $WLS\_OWNER -c “nohup $WLS\_NODE\_HOME/stopNodeManager.sh > ${WLS\_LOG\_STOP} 2>&amp;1 &amp;”   
 > sleep 10   

@@ -22,20 +22,20 @@ Social ranking is crucial because it can be thought of as a measurement of your 
 
 Interesting are some figures of my home page, like indexed pages in some search engine
 
-- Google: **7,120 pages**
-- Yahoo!: **46,200 pages**
-- Bing: **35,300 pages**
+- Google: 7,120 pages
+- Yahoo!: 46,200 pages
+- Bing: 35,300 pages
 
-# waltercedric.com Social Rank: **3/10****
+# waltercedric.com Social Rank: 3/10
 
-but what catch my eyes was the estimated value: **$ 2,058,000 (**[**Value (beta): $2,058,000**](http://buildstats.com/waltercedric.com)**), yes 2 MILLIONS DOLLARS 🙂**
+but what catch my eyes was the estimated value: $ 2,058,000 ([Value (beta): $2,058,000](http://buildstats.com/waltercedric.com)), yes 2 MILLIONS DOLLARS 🙂
 
 The most popular site out there are for sure pushing the algorithm to a crash:
 
-- Joomla.org Social Rank: **10/10** [Value (beta): sky high](http://buildstats.com/joomla.org)
-- Techcrunch.com Social Rank: **10/10** [Value (beta): unknown](http://buildstats.com/techcrunch.com)
-- engadget.com Social Rank: **10/10** [Value (beta): unknown](http://buildstats.com/engadget.com)
-- osnews.com Social Rank: **10/10** [Value (beta): unknown](http://buildstats.com/osnews.com)
+- Joomla.org Social Rank: 10/10 [Value (beta): sky high](http://buildstats.com/joomla.org)
+- Techcrunch.com Social Rank: 10/10 [Value (beta): unknown](http://buildstats.com/techcrunch.com)
+- engadget.com Social Rank: 10/10 [Value (beta): unknown](http://buildstats.com/engadget.com)
+- osnews.com Social Rank: 10/10 [Value (beta): unknown](http://buildstats.com/osnews.com)
 
 This has giving me news ideas for my site, as I have currently issues to answer questions into my forums, build server are not running fully, My [Atlassian Jira](http://jira.waltercedric.com) is not used as I would like..
 

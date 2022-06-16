@@ -16,10 +16,10 @@ tags:
 |---|---|
 
 Install:  
- You need to install the component com\_opencomment3.0.0beta.zipAND mos\_opencomment3.0.0beta.zip. You can download them **[OpenComment Installation](http://forums.waltercedric.com/index.php/board,16.0.html)**, all beta version will be available there. based on your finding, I will increase the patch number: 3.0.1, 3.0.2 and so on…
+ You need to install the component com\_opencomment3.0.0beta.zipAND mos\_opencomment3.0.0beta.zip. You can download them [OpenComment Installation](http://forums.waltercedric.com/index.php/board,16.0.html), all beta version will be available there. based on your finding, I will increase the patch number: 3.0.1, 3.0.2 and so on…
 
 Bugs &amp; change requests:  
- Please report them in the forums: **[OpenComment Bugtracker](http://forums.waltercedric.com/index.php/board,14.0.html)** and **[Feature Requests](http://forums.waltercedric.com/index.php/board,18.0.html)**
+ Please report them in the forums: [OpenComment Bugtracker](http://forums.waltercedric.com/index.php/board,14.0.html) and [Feature Requests](http://forums.waltercedric.com/index.php/board,18.0.html)
 
 Know Bugs:
 

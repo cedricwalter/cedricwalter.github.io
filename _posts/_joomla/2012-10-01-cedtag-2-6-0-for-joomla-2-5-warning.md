@@ -8,7 +8,7 @@ author: 'Cédric Walter'
 
 ---
 
-<div class="alert"><div class="typo-icon">**Attention**
+<div class="alert"><div class="typo-icon">Attention
 
 IT IS MANDATORAY TO COMPLETELY REMOVE ALL VERSION of cedTag older than 2.6.0 BEFORE INSTALLING cedTag 2.6.0
 

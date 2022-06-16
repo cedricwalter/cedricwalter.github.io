@@ -21,7 +21,7 @@ tags:
 - system
 ---
 
-# Demande adressée au responsable de l’Assistance Technique**
+# Demande adressée au responsable de l’Assistance Technique
 
 Il y a 10 ans, j’ai change ma version “Fiancée 7.0” par la version “Epouse 1.0” et j’ai observe que le programme a lance
 une application inattendue appelée “Bébé 1.0” qui prend beaucoup d’espace dans mon disque dur.  
@@ -41,7 +41,7 @@ me semble fort complexe, et je ne mesure encore pas bien les risques que cela pe
 comme “Bébé 1.0”, qui je l’avoue est très convivial.  
 Pouvez-vous m’aider ? Un utilisateur démoralise.
 
-# REPONSE :**
+# REPONSE :
 
 Cher Utilisateur :  
 Votre plainte est très fréquente parmi les utilisateurs du programme “Epouse 1.0” , mais elle est due la plupart du

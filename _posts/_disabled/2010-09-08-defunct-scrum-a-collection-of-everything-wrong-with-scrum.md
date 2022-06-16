@@ -10,7 +10,7 @@ tags:
     - blogspot
 ---
 
-> **Scrum** is an iterative, incremental framework for project management and agile software development.   
+> Scrum is an iterative, incremental framework for project management and agile software development.   
 > Although Scrum was intended for management of software development projects, it can be used to run software maintenance teams, or as a general project/program management approach.
 
 And now visit the [funny Scrum cartoons](http://defunctscrum.blogspot.com/)

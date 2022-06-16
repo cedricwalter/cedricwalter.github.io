@@ -10,7 +10,7 @@ header:
   teaser: /assets/images/2008/05/img.php_thumb.jpg
 ---
 
-[**![img.php](/assets/images/2008/05/img.php_thumb.jpg)**](/assets/images/2008/05/img.php_.jpg) I’ve decide to join the team of [!JoomlaComment](http://joomlacode.org/gf/project/joomagecomment/) and help Alain and   
+[![img.php](/assets/images/2008/05/img.php_thumb.jpg)](/assets/images/2008/05/img.php_.jpg) I’ve decide to join the team of [!JoomlaComment](http://joomlacode.org/gf/project/joomagecomment/) and help Alain and   
 Daniel continuing the development. Right now I will try to reduce the spamming attacks   
 I’ve encountered in the last few days (250 comments entered by a bot)
 

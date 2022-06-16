@@ -45,7 +45,7 @@ I did develop this solution at work for our internal purpose at [www.innoveo.com
 
 ## Drawbacks
 
-- A shared developer environment is a **Single point of failure** –> you need a very good backup, and eventually hardware fallback machine in hot standby!
+- A shared developer environment is a Single point of failure –> you need a very good backup, and eventually hardware fallback machine in hot standby!
 - You can not work if developer have no or limited internet access, in train for example.
 - It required a bit of initial engineering, hence this article.
 
@@ -73,7 +73,7 @@ or in RED HAT
 
 Create a script .sh file to save the connection parameters:
 
-*rdesktop -A -C -k de-ch -r PRIMARYCLIPBOARD -u **username** -p **password** -xl **ipadress***
+*rdesktop -A -C -k de-ch -r PRIMARYCLIPBOARD -u username -p password -xl ipadress*
 
 # Eclipse
 
@@ -82,7 +82,7 @@ Create a script .sh file to save the connection parameters:
 1. Unpack the latest eclipse in any location, I recommend on *c:\\eclipse-3.5*, but any location where you have some space will work.
 2. Start eclipse as administrator and install all required 3r party plugin: we use M2Eclipse, Subversive for example.
 3. Stop Eclipse,
-4. **Remove ALL write rights to ALL users** including admin if needed.
+4. Remove ALL write rights to ALL users including admin if needed.
 5. When Eclipse will start under a developer account, it will copy its configuration files into C:\\Users\\%USERNAME%\\.eclipse
 6. Every users will be able to adjust the eclipse.ini but these settings are a good start (adapt memory to your requirements)
 7. Create a shortcut for every developer on their desktop pointing to c:\\eclipse\\eclipse.exe

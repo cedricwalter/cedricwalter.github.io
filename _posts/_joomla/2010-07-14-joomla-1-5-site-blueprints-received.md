@@ -22,11 +22,11 @@ tags:
 
 ## Note:
 
-I will offer this book **after the review** randomly to one of my twitter follower!!!! more details soon.
+I will offer this book after the review randomly to one of my twitter follower!!!! more details soon.
 
 Here is a [link to Packt online shop](http://www.packtpub.com/joomla-1-5-site-blueprints/book/mid/250610gn280p?utm_source=waltercedric.com&utm_medium=bookrev&utm_content=blog&utm_campaign=mdb_003736)
 
-# What you will learn from this book :**
+# What you will learn from this book :
 
 You will see how to build the following site projects:
 
@@ -41,9 +41,9 @@ You will see how to build the following site projects:
 - A Googlemap site to create complex Googlemap mashups
 - A news aggregating site for publishing news feeds from several sources
 
-# Language :** English   
-# Paperback :** 270 pages \[ 235mm x 191mm \]   
-# Release Date :** May 2010   
-# ISBN :** 1849511705   
-# ISBN 13 :** 978-1-849511-70-4   
-# Author(s) :** Timi Ogunjobi
+# Language : English   
+# Paperback : 270 pages \[ 235mm x 191mm \]   
+# Release Date : May 2010   
+# ISBN : 1849511705   
+# ISBN 13 : 978-1-849511-70-4   
+# Author(s) : Timi Ogunjobi

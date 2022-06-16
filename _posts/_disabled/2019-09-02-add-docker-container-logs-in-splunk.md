@@ -16,17 +16,17 @@ tags:
 
 With [Splunk](https://www.splunk.com) You will be able to
 
-# optimize container usage** by monitoring CPU, memory, disk and network performance metrics from your containers. Pay only for what you need by managing resources and measuring the impact on service reliability and container resource requirements.
+# optimize container usage by monitoring CPU, memory, disk and network performance metrics from your containers. Pay only for what you need by managing resources and measuring the impact on service reliability and container resource requirements.
 
-# Get a complete overview of Kubernetes and OpenShift Environments** Correlate performance metrics, container logs and OpenShift/Kubernetes configuration and metadata for a better understanding of how your infrastructure is performing and how hosted applications are behaving.
+# Get a complete overview of Kubernetes and OpenShift Environments Correlate performance metrics, container logs and OpenShift/Kubernetes configuration and metadata for a better understanding of how your infrastructure is performing and how hosted applications are behaving.
 
  ![](/assets/images/2019/09/manage-container-resources.png)
 
 ## Add a new HTTP Event Collector
 
-you need to enable the [Splunk](https://www.splunk.com) HTTP Event Collector. In the Splunk UI, go to ***Settings*** -> ***Data Inputs*** -> ***HTTP Event Collector*** -> ***Global Settings***.
+you need to enable the [Splunk](https://www.splunk.com) HTTP Event Collector. In the Splunk UI, go to *Settings* -> *Data Inputs* -> *HTTP Event Collector* -> *Global Settings*.
 
-Click **Enabled** alongside ‘**All Tokens**’, and **enable SSL**. This will enable the HTTP Event Collector on port 8088 (the default), using the [Splunk](https://www.splunk.com) default certificate.
+Click Enabled alongside ‘All Tokens’, and enable SSL. This will enable the HTTP Event Collector on port 8088 (the default), using the [Splunk](https://www.splunk.com) default certificate.
 
 Note down the token, e.g. f7a00add-34cd-5c00-bb16-e4f813805d81
 
@@ -42,7 +42,7 @@ Navigate to yourSplunkHost/en-US/manager/launcher/appsremote?offset=0&amp;count=
 
 ![](/assets/images/2019/09/splunk-add-docker-app.png)
 
-Click Install and log using **your Splunk.com credentials** [(register now](https://www.splunk.com) if needed)
+Click Install and log using your Splunk.com credentials [(register now](https://www.splunk.com) if needed)
 
 ## Configure Docker to log to Splunk
 

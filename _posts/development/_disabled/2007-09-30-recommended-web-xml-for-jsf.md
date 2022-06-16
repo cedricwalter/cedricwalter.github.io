@@ -10,7 +10,7 @@ tags:
     - java
 ---
 
-The file <span style="font-family: Courier New,Courier,monospace">web.xml inside the **WEB-INF** folder is the Web Application Deployment Descriptor for your application. This is an XML file describing the servlets and other components that make up your application. The file below is what I use at work. It contains better settings than the default one, plus all descriptions of parameters.
+The file <span style="font-family: Courier New,Courier,monospace">web.xml inside the WEB-INF folder is the Web Application Deployment Descriptor for your application. This is an XML file describing the servlets and other components that make up your application. The file below is what I use at work. It contains better settings than the default one, plus all descriptions of parameters.
 
 | <?xml version="1.0" encoding="UTF-8"?>    <web-app version="2.4" xmlns="http://java.sun.com/xml/ns/j2ee"    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"    xsi:schemaLocation="http://java.sun.com/xml/ns/j2ee http://java.sun.com/xml/ns/j2ee/web-app\_2\_4.xsd"> |  |
 |---|---|

@@ -8,7 +8,7 @@ author: 'Cédric Walter'
 
 ---
 
-# Basic smileys**
+# Basic smileys
 
 🙂 This smiley is used to inflect a sarcastic or joking statement since we can’t hear voice inflection over e-mail.
 
@@ -24,7 +24,7 @@ author: 'Cédric Walter'
 
 >;-> Winky and devil combined. A very lewd remark was just made.
 
-# Most used smileys**
+# Most used smileys
 
 (-: User is left handed.
 
@@ -176,7 +176,7 @@ X-( User just died.
 
 -=\* 🙂 User is a TeX wizard.
 
-# Midget smileys**
+# Midget smileys
 
 🙂 Midget smiley.
 
@@ -220,7 +220,7 @@ X-( User just died.
 
 ^o Snoring.
 
-# Special** **smileys**
+# Special smileys
 
 ~~:-( Net.flame
 
@@ -232,7 +232,7 @@ X-( Net.suicide
 
 E-:-I Net.ham-radio
 
-# Emotional smileys**
+# Emotional smileys
 
 🙂 ha ha
 

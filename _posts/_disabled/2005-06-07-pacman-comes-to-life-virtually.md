@@ -14,7 +14,7 @@ tags:
 ---
 
 # A human version of the classic arcade game Pacman
-Superimposing the virtual 3D game world on to city streets and buildings, is being developed by researchers at Singapore.**
+Superimposing the virtual 3D game world on to city streets and buildings, is being developed by researchers at Singapore.
 
 Players equipped with a wearable computer, headset and goggles can physically enter a real world game space by choosing
 to play the role of Pacman or one of the

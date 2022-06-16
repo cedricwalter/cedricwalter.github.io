@@ -32,7 +32,7 @@ tags:
     - vintagegaming
 ---
 
-The games **I do not own are still in red color**, [you can contact me if you are selling some of them](http://www.waltercedric.com/-contact-me.html).
+The games I do not own are still in red color, [you can contact me if you are selling some of them](http://www.waltercedric.com/-contact-me.html).
 
 [![viewpoint.neogeocd](/assets/images/2009/10/viewpoint.neogeocd.jpg)](/assets/images/2009/10/viewpoint.neogeocd.jpg)
 

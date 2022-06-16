@@ -10,23 +10,23 @@ author: 'Cédric Walter'
 
 My platform of development is Suse 9.0 and #Eclipse 3.0M4
 
-# eclipse launcher (link)**
+# eclipse launcher (link)
 
 The best eclipse launcher available as today, written in smalltalk by my friends of [www.xdreamteam.ch](http://www.xdreamteam.ch/)
 
-[**xdt Eclipse Launcher V1.0 RC2**](java/eclipse/EclipseLauncherinstall.zip) (761 KB) ist ein Tool fÃ¼r #Java-Entwickler die mit #Eclipse arbeiten.Mit dem xdt Eclipse Launcher verwalten Sie ihre Workspaces und kÃ¶nnen diese von einem Ort aus starten. Der xdt #Eclipse Launcher startet als System-Tray Program, von wo Sie die MÃ¶glichkeit haben neue Definitionen einzutragen, oder die bestehenden Definitionen einfach und schnell zu starten.
+[xdt Eclipse Launcher V1.0 RC2](java/eclipse/EclipseLauncherinstall.zip) (761 KB) ist ein Tool fÃ¼r #Java-Entwickler die mit #Eclipse arbeiten.Mit dem xdt Eclipse Launcher verwalten Sie ihre Workspaces und kÃ¶nnen diese von einem Ort aus starten. Der xdt #Eclipse Launcher startet als System-Tray Program, von wo Sie die MÃ¶glichkeit haben neue Definitionen einzutragen, oder die bestehenden Definitionen einfach und schnell zu starten.
 
-# HP Nimius/E3 launcher**
+# HP Nimius/E3 launcher
 
 > Plugin for starting a HP Nimius application, Hewlett Packard Nimius informations can be found at [www.hpnimius.com](http://www.hpnimius.com/) This plugin was originally developped at work, and has been totally rewritten to avoid any copyright infrigment.  
 >  Why is the difference with a #Eclipse Launcher? you have 3 icons…
 > 
-> **Installation:**
+> Installation:
 > 
 > - Unzip the zip file in your eclipse/plugins/ directory and restart eclipse.
-> - **Or** point the download manager to this url [http://www.waltercedric.com/java/eclipse/plugins/site.xml](http://www.chez.com/waltercedric/java/eclipse/plugins/site.xml) **SOON**
+> - Or point the download manager to this url [http://www.waltercedric.com/java/eclipse/plugins/site.xml](http://www.chez.com/waltercedric/java/eclipse/plugins/site.xml) SOON
 > 
-> **Prerequisite:** This plugin assume that you are using a project for E3 which have the following structure (but you can change the default location of components):
+> Prerequisite: This plugin assume that you are using a project for E3 which have the following structure (but you can change the default location of components):
 > 
 > |  |  |  |
 > |---|---|---|
@@ -34,22 +34,22 @@ The best eclipse launcher available as today, written in smalltalk by my friends
 > | Project XXX/log |  |  |
 > | Project XXX/lib | contains applications E3 services and java code |  |
 > 
-> **Greetings:**  
+> Greetings:  
 >  This plugin is based on Tomcat sysdeo plugin and was simply extended. Since the original code is based on the MIT licence, I am also giving you this code under the same conditions.
 > 
->  **The MIT Licence:**  
+>  The MIT Licence:  
 >  Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following   
 >  conditions:  
 >  The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.  
 >  THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 > 
-> **Tutorials:**
+> Tutorials:
 
 [http://www.awprofessional.com/articles/article.asp?p=31789&amp;seqNum=1](http://www.awprofessional.com/articles/article.asp?p=31789&seqNum=1)
 
 FAQ:
 
-# Starting Tomcat in eclipse**
+# Starting Tomcat in eclipse
 
 i get the following exceptions:
 

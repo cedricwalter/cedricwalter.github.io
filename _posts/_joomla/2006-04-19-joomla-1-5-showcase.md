@@ -12,12 +12,12 @@ I’ve set a new subdomain <http://www.waltercedric.com/demo> with #Joomla 1.1 (
 
 This is a showcase server where You’ll be able to test all my component including access to administrator panel.
 
-| **Where** | **Running** | **What You’ll find there** |  |
+| Where | Running | What You’ll find there |  |
 |---|---|---|---|
 | <http://demo.waltercedric.com > | Joomla 1.0.X | Today all my components |  |
 | [http://demo2.waltercedric.com](http://demo2.waltercedric.com/) | Joomla 1.5.X | Soon, but I have to migrate    my code 🙂 |  |
 
-# About #Joomla 1.5**
+# About #Joomla 1.5
 
 *The sheer volume of changes in the #Joomla! core (Joomla! framework) made a minor point (.1) increment inconsistent with the amount of work undertaken. While it may not be obvious by simply looking at release dates, today’s #Joomla! core has <span class="misspell">mutiple technology shifts under the engine.  
 Much of the work reflects meeting the expectations from requests by the international community, to make #Joomla! fully <span class="misspell">internationalised &#151; and this was given the highest priority. Lead developer of 1.5 Johan Janssens said the development issues involved in implementing <span class="misspell">internationalisation required "significantly more developer muscle compared to what shipped in #Joomla! 1.0".   

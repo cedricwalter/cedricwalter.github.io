@@ -38,7 +38,7 @@ In this small post i will present you how to
 
 To solve the problem number 1, we will use Manifest files
 
-> On the #Java platform, a **`manifest file`** is a specific file contained within a JAR archive. It is used to define extension and package related data. It is a metadata file that contains name-value pairs organized in different sections. If a JAR file is intended to be used as an executable file, the manifest file specifies the main class of the application. The manifest file is named `MANIFEST.MF`. \[[Wikipedia](http://en.wikipedia.org/wiki/Manifest_(computing))\]
+> On the #Java platform, a `manifest file` is a specific file contained within a JAR archive. It is used to define extension and package related data. It is a metadata file that contains name-value pairs organized in different sections. If a JAR file is intended to be used as an executable file, the manifest file specifies the main class of the application. The manifest file is named `MANIFEST.MF`. \[[Wikipedia](http://en.wikipedia.org/wiki/Manifest_(computing))\]
 
 If you do nothing special in #Maven., you will see across your jar files the following in all META-INF/MANIFEST.MF
 
@@ -54,7 +54,7 @@ Built-By: agent1
  Build-Jdk: 1.6.0_20 Specification-Title: Unnamed - com.waltercedric:web:war:1.0.0-SNAPSHOT Specification-Version: 1.0.0-SNAPSHOT Specification-Vendor: waltercedric Implementation-Title: Unnamed - com.waltercedric:web:war:1.0.0-SNAPSHOT 
 ```
 
-# Implementation-Version: 1.0.0-SNAPSHOT**
+# Implementation-Version: 1.0.0-SNAPSHOT
 
 ```
  Implementation-Vendor-
@@ -69,7 +69,7 @@ Class-Path: spring-ws-core-1.5.6.jar spring-aop-2.5.6.jar spring-  web-2.5.6.jar
 Thanks to the usage of Manifest, You will
 
 - Never come across any jar file with a version that is not identified,
-- Never ask anymore when it was build (**buildDate**) and where (**Built-By** helpful if you have distributed build server agent) with what (**svnrevision**)
+- Never ask anymore when it was build (buildDate) and where (Built-By helpful if you have distributed build server agent) with what (svnrevision)
 - Never try to guess what was in the class path.
 
 Lets add a bit of “magic” in one of our pom.xml, I assume that you have crafted a pom hierarchy using pom inheritance, isn’t’ it? so this code may have it’s place in your organization wide super pom.
@@ -155,7 +155,7 @@ The next time you run a “mvn package” on your project, or multi module proje
 
 To solve problem number 2,
 
-![](/assets/images/2010/09/section-java-testing.gif)When you are using **guerilla testing techniques** (describe rapid iterations of user testing with few users) You expect the testing team:
+![](/assets/images/2010/09/section-java-testing.gif)When you are using guerilla testing techniques (describe rapid iterations of user testing with few users) You expect the testing team:
 
 - to deliver some quality bugs reports.
 - to receive as much information as possible to be able to crush bugs efficiently.

@@ -18,7 +18,7 @@ The Seagate® Momentus® XT drive enables laptop PC users to enjoy solid state-l
 
 Here is the drive I am testing, information you can easily found with drivedetect.exe ([http://support.seagate.com/kbimg/utils/drivedetect.exe](http://support.seagate.com/kbimg/utils/drivedetect.exe "http://support.seagate.com/kbimg/utils/drivedetect.exe"))
 
-Model: ST95005620AS, Serial: 5YX03VW9, **Firmware: SD23**
+Model: ST95005620AS, Serial: 5YX03VW9, Firmware: SD23
 
 this is by the way the latest firmware as for today 28.10.2010
 
@@ -32,13 +32,13 @@ In order to try to try to reveal the real performance of the disk without the SS
 
 As a reference here is my old drive, a Western Digital blue WD3200BJKT from August 2008. Again not a lot of differences[.![western.digital.WD3200BJKT.crystaldiskmark](/assets/images/2010/08/western.digital.WD3200BJKT.crystaldiskmark_thumb.png "western.digital.WD3200BJKT.crystaldiskmark")](/assets/images/2010/08/western.digital.WD3200BJKT.crystaldiskmark.png) ![western.digital.WD3200BJKT](/assets/images/2010/08/western.digital.WD3200BJKT.png "western.digital.WD3200BJKT")
 
-And the Intel SSD flagship SSDSA2M160G2GC (160GB) . This **Intel X25-M SSD 160GB** was paid 400€, so 3.5 times more expensive (400€/114€) for 2.3 (240.1/104) more performances:
+And the Intel SSD flagship SSDSA2M160G2GC (160GB) . This Intel X25-M SSD 160GB was paid 400€, so 3.5 times more expensive (400€/114€) for 2.3 (240.1/104) more performances:
 
 [![intel.ssd.160gb.sa2m160G2GC](/assets/images/2010/08/intel.ssd_.160gb.sa2m160G2GC_thumb.png "intel.ssd.160gb.sa2m160G2GC")](/assets/images/2010/08/intel.ssd_.160gb.sa2m160G2GC.png)![intel.x25m.G2.ssd.160gb](/assets/images/2010/08/intel.x25m.G2.ssd_.160gb.png "intel.x25m.G2.ssd.160gb")
 
 ## Conclusions
 
-|  | **Seagate Momentus XT** | **Intel X25-M SSD 160GB** |
+|  | Seagate Momentus XT | Intel X25-M SSD 160GB |
 |---|---|---|
 | Sequential Read    Sequential Write    Random Read 512KB    Random Write 512KB    Random Read 4KB (QD=1)    Random Write 4KB (QD=1)    Random Read 4KB (QD=32)    Random Write 4KB (QD=32)  Test : 1000 MB | 104.513 MB/s    79.800 MB/s    37.805 MB/s    48.630 MB/s    0.466 MB/s \[ 113.7 IOPS\]    0.928 MB/s \[ 226.5 IOPS\]    1.052 MB/s \[ 256.8 IOPS\]    0.833 MB/s \[ 203.5 IOPS\]  \[C: 39.5% (48.5/123.0 GB)\] (x5)    Date : 2010/08/28 14:17:07 | 240.086 MB/s    107.052 MB/s    163.351 MB/s    76.210 MB/s    22.328 MB/s \[ 5451.2 IOPS\]    45.021 MB/s \[ 10991.4 IOPS\]    23.918 MB/s \[ 5839.3 IOPS\]    50.876 MB/s \[ 12420.9 IOPS\]  \[C: 69.7% (103.9/149.0 GB)\] (x5)    Date : 2010/08/28 14:03:54 |
 | OS : Windows 7 | Ultimate Edition \[6.1 Build 7600\] (x64) | \[6.1 Build 7600\] (x64) |

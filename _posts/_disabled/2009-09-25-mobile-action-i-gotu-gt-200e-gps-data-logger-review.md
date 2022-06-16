@@ -30,7 +30,7 @@ tags:
 
 i-gotU is a GPS Device that can record the trace of your journey, auto-add GPS information on the photos taken on your journey, present it in 3rd dimension and export in multiple sharable file formats. i-gotU not only is compatible with all digital cameras &amp; camera phones available in the market, providing you the coolest GPS tracking gadget while saving you extra expenses on other equipments
 
-# Forewords**
+# Forewords
 
 I was greatly surprised to be contacted by [Mobile Action](http://global.mobileaction.com).I would like to thank them for having send me a free sample for that review and of course, I encourage all companies around the world to do the same ;-))
 
@@ -38,10 +38,10 @@ I was greatly surprised to be contacted by [Mobile Action](http://global.mobilea
 
 ![](/assets/images/2020/04/IMG_1322.jpg)The i-GotU GPS data logger includes the following items in the box:
 
-- ****GPS Logger** Cable** works both as **GT-200 / GT-200e / GT-120** built-in battery charger and data transfer medium for **GT-200 / GT-200e / GT-120**.
-- **@trip PC** is an easy to use software tool to fast create and personalize the [Travel Blog](http://www.a-trip.com) for your journey.
-- **Jelly case**: Besides especially designed for broader appliances, both **GPS Logger (USB)** &amp; **GPS Logger (Bluetooth)** also comes with a jelly case for easier wear or any other kind of attachment.
-- **GPS Logger Fastening Strap** allows you to tie and fasten the GPS Logger anywhere for easier travel.
+- GPS Logger Cable works both as GT-200 / GT-200e / GT-120 built-in battery charger and data transfer medium for GT-200 / GT-200e / GT-120.
+- @trip PC is an easy to use software tool to fast create and personalize the [Travel Blog](http://www.a-trip.com) for your journey.
+- Jelly case: Besides especially designed for broader appliances, both GPS Logger (USB) &amp; GPS Logger (Bluetooth) also comes with a jelly case for easier wear or any other kind of attachment.
+- GPS Logger Fastening Strap allows you to tie and fasten the GPS Logger anywhere for easier travel.
 
 This is how the package look like
 
@@ -105,7 +105,7 @@ The front of the [i-gotU 200E](http://www.i-gotu.com/) has two LED (red and blue
     
     Let’s compare the size of the [i-gotU 200E](http://www.i-gotu.com/) with the [i-gotU GT-120](http://global.mobileaction.com/product/product_i-gotU_USB.jsp)
     
-     ![Home_GT-200](/assets/images/2009/09/Home_GT200.png "Home_GT-200")![Home_GT-120](/assets/images/2009/09/Home_GT120.png "Home_GT-120") | **Front view** | **Side view** | **Top view** |
+     ![Home_GT-200](/assets/images/2009/09/Home_GT200.png "Home_GT-200")![Home_GT-120](/assets/images/2009/09/Home_GT120.png "Home_GT-120") | Front view | Side view | Top view |
     |---|---|---|
     | [![i-gotU.size.bt120.bt200e-front](/assets/images/2009/09/igotU.size_.bt120.bt200efront_thumb.png "i-gotU.size.bt120.bt200e-front")](/assets/images/2009/09/igotU.size_.bt120.bt200efront.png) | [![i-gotU.size.bt120.bt200e-side](/assets/images/2009/09/igotU.size_.bt120.bt200eside_thumb.png "i-gotU.size.bt120.bt200e-side")](/assets/images/2009/09/igotU.size_.bt120.bt200eside.png) | [![i-gotU.size.bt120.bt200e-top](/assets/images/2009/09/igotU.size_.bt120.bt200etop_thumb.png "i-gotU.size.bt120.bt200e-top")](/assets/images/2009/09/igotU.size_.bt120.bt200etop.png) [![i-gotU.size.bt120.bt200e.legend](/assets/images/2009/09/igotU.size_.bt120.bt200e.legend_thumb.png "i-gotU.size.bt120.bt200e.legend")](/assets/images/2009/09/igotU.size_.bt120.bt200e.legend.png) |
     
@@ -158,11 +158,11 @@ The front of the [i-gotU 200E](http://www.i-gotu.com/) has two LED (red and blue
     - Based on speed, starting at speed X, a new GPS point will be saved,
     - Both of the above. The objective of all these settings is to avoid recording too many points, and as such flooding the internal memory with redundant positions. The graphical user interface is very intuitive, and quite pleasant to the eyes as seen in the screenshots below:
         
-        **Slow walking tracking mode**
+        Slow walking tracking mode
         
         [![configuring.03](/assets/images/2009/09/configuring.03_thumb.png "configuring.03")](/assets/images/2009/09/configuring.03.png) [![configuring.04](/assets/images/2009/09/configuring.04_thumb.png "configuring.04")](/assets/images/2009/09/configuring.04.png)  
-        **Bicycle and scooter tracking mode** [![configuring.05](/assets/images/2009/09/configuring.05_thumb.png "configuring.05")](/assets/images/2009/09/configuring.05.png) [![configuring.06](/assets/images/2009/09/configuring.06_thumb.png "configuring.06")](/assets/images/2009/09/configuring.06.png)  
-        **Boat and car mode**  
+        Bicycle and scooter tracking mode [![configuring.05](/assets/images/2009/09/configuring.05_thumb.png "configuring.05")](/assets/images/2009/09/configuring.05.png) [![configuring.06](/assets/images/2009/09/configuring.06_thumb.png "configuring.06")](/assets/images/2009/09/configuring.06.png)  
+        Boat and car mode  
         [![configuring.07](/assets/images/2009/09/configuring.07_thumb.png "configuring.07")](/assets/images/2009/09/configuring.07.png) [![configuring.08](/assets/images/2009/09/configuring.08_thumb.png "configuring.08")](/assets/images/2009/09/configuring.08.png)
         
         Your device is now ready, depending on the recording speed, you may use it up to 80 hours.

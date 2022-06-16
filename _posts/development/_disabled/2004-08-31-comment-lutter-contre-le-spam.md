@@ -14,7 +14,7 @@ tags:
 
 ---
 
-# Definition**: On défnit le *
+# Definition: On défnit le *
 
 spam* comme étant l’envoi non solicité de mails à des centaines, des milliers ou des millions d’utilisateurs au hasard.
 Ces messages propose des biens matériels, des services financiers, des fichiers importants et même de la pornographie.
@@ -34,7 +34,7 @@ sans publicité.
 
 ## Firewall: filtrer l’accés aux ports du pc
 
-### Toujours installer un firewall,** il s’agit d’un logiciel qui filtre les ports de communications de votres pc et permet de définir des règles d’autorisation, vour verrez alors:
+### Toujours installer un firewall, il s’agit d’un logiciel qui filtre les ports de communications de votres pc et permet de définir des règles d’autorisation, vour verrez alors:
 
 - Quelquefois votre pc envoyer des donnees vers des sites étranges alors que vous ne browser pas de page, il s’agit de
   scripts qui renvoie des *cookies* (petit fichiers texte qui contiennent des informations sur vos habitudes, ou qui
@@ -142,7 +142,7 @@ vous pourrez utliser un plugin outlook, il existe un réseau peer to peer de lut
 plugin), il s’agit d’un réseau communautaire de lutte ou chacun marque les emails suspect et aide les autres à ne plus
 les recevoir.
 
-- [**http://www.cs.berkeley.edu/~zf/spamwatch/**](http://www.cs.berkeley.edu/~zf/spamwatch/) *“SpamWatch is a
+- [http://www.cs.berkeley.edu/~zf/spamwatch/](http://www.cs.berkeley.edu/~zf/spamwatch/) *“SpamWatch is a
   collaborative spam filtering system built on top of Tapestry, a peer-to-peer location/routing infrastructure.
   SpamWatch has the following features:   
   Collaborative – Every user in a SpamWatch community contributes to the community by tagging certain emails as spam,
@@ -152,7 +152,7 @@ les recevoir.
   Content similarity based – The identification of spam emails are based on the content of emails, not on subject,
   sender or IP address. Moreover, moderate altercation of the content is tolerated. Common techniques used by spammers
   such as changing the salutation or spacing between words will not prevent the spams from being caught.”*
-- [**http://www.outlook-spam-filter.com/**](http://www.outlook-spam-filter.com/) *Outlook Spam Filter 2.0 is an
+- [http://www.outlook-spam-filter.com/](http://www.outlook-spam-filter.com/) *Outlook Spam Filter 2.0 is an
   easy-to-use Microsoft OutlookÂ® add-on designed to provide an advanced protection against spammers and unsolicited
   emails. The program uses Bayesian filtering technology that identifies about 97% of incoming spam messages. Outlook
   Spam Filter seamlessly integrates into the Microsoft OutlookÂ® workspace, scanning and quarantining away junk emails.

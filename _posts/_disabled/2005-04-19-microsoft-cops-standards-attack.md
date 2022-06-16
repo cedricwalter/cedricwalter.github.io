@@ -17,7 +17,7 @@ tags:
 ---
 
 # *Microsoft Australia has come under fire from rival vendors and open-source advocates for keeping its Office document
-standards proprietary.***
+standards proprietary.*
 
 *Greg Stone, Microsoft’s national technology officer for Australia and New Zealand, faced the criticism during his
 presentation at the Australian Unix User Group’s Open Computing in Government conference in Canberra. However, he stood

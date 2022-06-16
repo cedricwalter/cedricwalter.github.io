@@ -16,9 +16,9 @@ tags:
 
 SecurityImages has been updated to version 6.0.3 and correct 1 bugs for both #Joomla 1.7 and #Joomla 2.5.
 
-# BUG**: If enabled for Contacts, it prevents a backend administrator from saving contact details in the backend. It fails with a captcha error. This is because SecurityImages 6.0.2 and previous was enforcing a captcha entry, yet the backend cannot facilitate the display of the captcha.
+# BUG: If enabled for Contacts, it prevents a backend administrator from saving contact details in the backend. It fails with a captcha error. This is because SecurityImages 6.0.2 and previous was enforcing a captcha entry, yet the backend cannot facilitate the display of the captcha.
 
-You can click the link below and install as normal via the Extensions Manager. or use the update manager (updates will display in the **Extensions Manager** under **Updates**).
+You can click the link below and install as normal via the Extensions Manager. or use the update manager (updates will display in the Extensions Manager under Updates).
 
 Full list of changes available in [GIT](http://git-scm.com/) commit [18c1209801195e1138d61db87496408c38d2f49f](https://github.com/cedricwalter/securityimages/commit/18c1209801195e1138d61db87496408c38d2f49f "Git commit for securityimages 6.0.3")
 

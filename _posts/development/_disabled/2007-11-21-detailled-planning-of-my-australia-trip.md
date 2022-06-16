@@ -15,7 +15,7 @@ tags:
     - vacation
 ---
 
-I wont be able to browse my [forum](forums.waltercedric.com), or respond to any emails inquiries <span style="font-size: 10pt;">**from 4** <span style="font-size: 13.3333px;">**December** **2007 to 16 January 2008**, as I will be at the end of the world in Australia. I will carry a lot of gadget stuff with me (GPS, camera and camcorder), in order to be able to map all pictures taken and video on Google Map / Google Earth . So You will have enough to browse beginning of next year.
+I wont be able to browse my [forum](forums.waltercedric.com), or respond to any emails inquiries <span style="font-size: 10pt;">from 4 <span style="font-size: 13.3333px;">December 2007 to 16 January 2008, as I will be at the end of the world in Australia. I will carry a lot of gadget stuff with me (GPS, camera and camcorder), in order to be able to map all pictures taken and video on Google Map / Google Earth . So You will have enough to browse beginning of next year.
 
 Below You can find the detailed planning of my trip, so you can imagine yourself where I am week per week. Australia is so big, (14 times the size of France), that I am forced to take airplanes (4 companies: Singapore Airlines, Quantas, Virgin Blue and Cathay Pacific) from city to city….
 

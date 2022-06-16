@@ -20,6 +20,6 @@ tags:
 - Full multiligual support.
 - Changed the whole source code to enhanced User’s Accessibility and Interface.
 - Administrator can now config the MAXSIZE of upload images!
-- **Integrate SecurityImage of WalterCedric** –> better anti spamer and hacker.
+- Integrate SecurityImage of WalterCedric –> better anti spamer and hacker.
 - Installer 
 - and many more…

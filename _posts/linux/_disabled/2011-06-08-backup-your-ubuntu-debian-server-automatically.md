@@ -29,7 +29,7 @@ And here is my how to install for [Debian](http://www.debian.org/) /[Ubuntu](htt
 wget http://puzzle.dl.sourceforge.net/sourceforge/reoback/reoback-1.0-3.noarch.rpm apt-get install alien alien reoback-1.0-3.noarch.rpm dpkg -i reoback_1.0-4_all.deb
 ```
 
-Configure [ReoBack](http://reoback.sourceforge.ne) by editing the file **settings.conf**
+Configure [ReoBack](http://reoback.sourceforge.ne) by editing the file settings.conf
 
 ```
 vi /etc/reoback/settings.conf
@@ -41,7 +41,7 @@ vi /etc/reoback/settings.conf
 host            = myhostname.com backupdays      = 7 files           = /etc/reoback/files.conf tmpdir          = /var/lib/reoback/tmp/ datadir          = /var/lib/reoback/data/ localbackup     = /var/lib/reoback/backups/ keeplocalcopy   = 1 remotebackup    = 1 rbackuptype     = FTP localmount      = /mnt/server/ remotehost      = xxxxxxxxx remotepath      = /reobackup/ ftpuser         = xxxxxxxxx ftppasswd       = xxxxxxxxx
 ```
 
-Specify which files on your server need to be saved by editing the file **files.conf**
+Specify which files on your server need to be saved by editing the file files.conf
 
 ```
 vi /etc/reoback/files.conf
@@ -53,7 +53,7 @@ Here is a sample, I exclude some files that are changing all the time since they
 File: homes /home/  File: var /var Skip: /var/run/* Skip: /var/lib/mysql/* Skip: /var/lib/reoback/*  File: mysql /var/lib/mysql /tmp/mysql.sock Skip: /var/lib/mysql/mysql.sock Skip: /var/lib/mysql/mysqld.pid  File: plesk /opt/psa /etc/psa /usr/local/psa
 ```
 
-Adapt the location path of these 2 files (**files.conf / **settings.conf****) in run\_reoback.sh
+Adapt the location path of these 2 files (files.conf / settings.conf) in run\_reoback.sh
 
 ```
 vi /etc/reoback/run_reoback.sh

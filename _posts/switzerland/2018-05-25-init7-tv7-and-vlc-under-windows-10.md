@@ -3,9 +3,6 @@
 title: 'Init7 TV7 and VLC under windows 10'
 date: '2018-05-25T20:17:37+02:00'
 author: 'Cédric Walter'
-
-
-
 tags:
 - box
 - computer
@@ -32,7 +29,7 @@ playlist with all TV7 channels and the multicast addresses is provided for this 
 - [VLC Playlist (XSPF)](https://api.init7.net/tvchannels.xspf)
 - [M3U Playlist ](https://api.init7.net/tvchannels.m3u)
 
-# You have the following options:**
+# You have the following options:
 
 1. You open the URL directly from within VLC (Open -> Network and then paste the URL from the above link), so you always
    have the latest updated channel list.

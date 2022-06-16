@@ -21,8 +21,8 @@ The [Development Working Group](http://community.joomla.org/contributors/develop
 ![](/assets/images/2020/02/smallbox_securityimages.jpg) Since #Joomla 1.5.5 is released…Here are the new patches for SecurityImages 5.0.0
 
 - Allow login views, login modules, register, lost password, lost user account and contact section to be protected by SecurityImages
-- Are for #Joomla! 1.5.5 **only** and SecurityImages 5.0.0Beta3 or later
+- Are for #Joomla! 1.5.5 only and SecurityImages 5.0.0Beta3 or later
 - 14 files has been altered, mostly views, and com\_contact/com\_user controller, click on picture below for more details
-- Download file **Joomla\_1.5.5-Stable-Full\_PackageForSecurityImages5.0.0\_v01.00.00.zip** (33kB) and overwrite file on your server
-- Go to #Joomla! control panel and HIT at least **SAVE config** once, this will add a new boolean value (true or false) in #Joomla! configuration   
+- Download file Joomla\_1.5.5-Stable-Full\_PackageForSecurityImages5.0.0\_v01.00.00.zip (33kB) and overwrite file on your server
+- Go to #Joomla! control panel and HIT at least SAVE config once, this will add a new boolean value (true or false) in #Joomla! configuration   
     for using SecurityImages

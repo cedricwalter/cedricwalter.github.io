@@ -15,7 +15,7 @@ header:
 
 I am running with Firefox 3.0 beta 4 since it is available (so since 2 weeks) and the progress made concerning memory management are so huge that you cannot start using it NOW, especially if you are always keeping Firefox open for hours or days. I am now able to say that Firefox is on par with my other favorite browser Opera 9.5, speed and rendering time are very close. I still prefer Opera through as I always keep 25 tabs open.
 
-It is time now for me to **test the Beta 5!**
+It is time now for me to test the Beta 5!
 
 Firefox 3 Beta 5 is available in 45 languages as a public preview release intended for developer testing and community feedback. It includes [new features](http://www.mozilla.com/en-US/firefox/3.0b5/releasenotes/#whatsnew) as well as [dramatic improvements](http://www.mozilla.com/en-US/firefox/3.0b5/releasenotes/#performance) to performance, memory usage and speed. [You can download it HERE](http://www.mozilla.com/en-US/firefox/all-beta.html)
 

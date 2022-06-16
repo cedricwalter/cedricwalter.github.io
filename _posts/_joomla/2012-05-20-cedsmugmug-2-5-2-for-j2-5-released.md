@@ -28,6 +28,6 @@ You can download the latest version and just upgrade without any loss of data by
 
 ###### First time installation
 
-Download the latest copy of com\_cedSmugmug\_j25.zip, from **Extensions → Install / Uninstall** and install with the fresh copy.
+Download the latest copy of com\_cedSmugmug\_j25.zip, from Extensions → Install / Uninstall and install with the fresh copy.
 
 [![](/assets/images/2011/11/download-zip.png)](http://www.waltercedric.com/downloads/smugmug.html)[![](/assets/images/2012/05/documentation.jpg)](http://wiki.waltercedric.com/index.php?title=CedThumbnails_for_Joomla)[![](/assets/images/2011/12/support.png)](http://forums.waltercedric.com/)

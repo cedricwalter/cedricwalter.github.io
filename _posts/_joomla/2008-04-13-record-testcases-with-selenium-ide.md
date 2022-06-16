@@ -10,7 +10,7 @@ header:
   teaser: /assets/images/2008/04/open.qa_.logo_thumb.gif
 ---
 
-| [![open.qa.logo](/assets/images/2008/04/open.qa_.logo_thumb.gif)](/assets/images/2008/04/open.qa_.logo_.gif) | **Selenium** is a test tool for web applications. Selenium tests run **directly in a browser**, just like real users do. It runs in Internet Explorer, Mozilla and Firefox on Windows, #Linux, and Macintosh, Safari on the Mac. They have plans to target Safari on the iPhone in some months. The tool is free and available under Apache 2.0. |
+| [![open.qa.logo](/assets/images/2008/04/open.qa_.logo_thumb.gif)](/assets/images/2008/04/open.qa_.logo_.gif) | Selenium is a test tool for web applications. Selenium tests run directly in a browser, just like real users do. It runs in Internet Explorer, Mozilla and Firefox on Windows, #Linux, and Macintosh, Safari on the Mac. They have plans to target Safari on the iPhone in some months. The tool is free and available under Apache 2.0. |
 |---|---|
 
 - [Install the firefox plugin](http://selenium-ide.openqa.org/download.jsp), note the latest version work only in Firefox 2.0 not in 3.0Beta!
@@ -35,13 +35,13 @@ header:
 - Into C, You can now cut and paste one or many lines, insert new commands (add more assert)
 - And replay [![seleniumSecurityImages2](/assets/images/2008/04/seleniumSecurityImages2_thumb.png)](http://www.waltercedric.com/images/stories/fb3471ee3ca9_F98F/seleniumSecurityImages2.png) till the bar is green
 
-# Attention:**
+# Attention:
 
 - Do not abuse XPATH expression as it somehow hard code the previous position of the element in the page.
 - Try to make each test run on its own, do not expect that the test before is successful (so login. test functionality 1, logout)
 - Keep unit test small,
 - Keep all test in a repository (CVS or SVN) or many backup.
 
-# Read also:**
+# Read also:
 
 - [Develop web testcases using Selenium IDE in Firefox for Joomla!](http://www.waltercedric.com/mambo-mainmenu-102/222-development/1309-develop-web-testcases-using-selenium-ide-in-firefox-for-joomla.html)

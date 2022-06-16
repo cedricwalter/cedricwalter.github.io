@@ -15,7 +15,7 @@ header:
 
 A small how to install [PHPUnit](http://www.phpunit.de/) via [PEAR](http://pear.php.net) in an [XAMPP](http://www.apachefriends.org/en/xampp.html) running on a windows box. A prerequisite for a continuous build strategy.
 
-# PHPUnit** is a member of the xUnit family of testing frameworks and provides both a framework that makes the writing of tests easy as well as the functionality to easily run the tests and analyze their results.
+# PHPUnit is a member of the xUnit family of testing frameworks and provides both a framework that makes the writing of tests easy as well as the functionality to easily run the tests and analyze their results.
 
 - [PHPUnit homepage](http://www.phpunit.de/)
 - [ONLamp.com – Testing PHP Code with PHPUnit](http://www.onlamp.com/pub/a/php/2005/12/08/phpunit.html)
@@ -43,7 +43,7 @@ A small how to install [PHPUnit](http://www.phpunit.de/) via [PEAR](http://pear.
 
 - Execute `pear install Testing_Selenium`
 
-# Some useful pear commands to keep your PHP up to date**
+# Some useful pear commands to keep your PHP up to date
 
 - \\xampp\\php\\pear list-upgrades
 - \\xampp\\php\\pear upgrade-all

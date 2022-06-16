@@ -16,13 +16,13 @@ tags:
 
 ![nimbusex2](images/stories/nimbusex2_5.png "nimbusex2")
 
-If you would like to use the same tag cloud as the one I am using at the bottom of this page, you will be please by the release of this new module for #Joomla! call **Nimbus**.
+If you would like to use the same tag cloud as the one I am using at the bottom of this page, you will be please by the release of this new module for #Joomla! call Nimbus.
 
 I came across [Joomulus](http://extensions.joomla.org/extensions/6493/details) module a while ago, it goes through your #Joomla! articles content and create a tag cloud:
 
-> A **tag cloud** or word cloud (or weighted list in visual design) is a visual depiction of user-generated tags, or simply the word content of a site, used typically to describe the content of web sites. Tags are usually single words and are typically listed alphabetically, and the importance of a tag is shown with font size or color.
+> A tag cloud or word cloud (or weighted list in visual design) is a visual depiction of user-generated tags, or simply the word content of a site, used typically to describe the content of web sites. Tags are usually single words and are typically listed alphabetically, and the importance of a tag is shown with font size or color.
 
-This is the solution you are looking for, and you should not need to read any further if you DO NOT USE **[Joomla! Tags from Phil Taylor](http://www.joomla-tags.com).**
+This is the solution you are looking for, and you should not need to read any further if you DO NOT USE [Joomla! Tags from Phil Taylor](http://www.joomla-tags.com).
 
 But I am using a proprietary tagging solutions since 2 years that I like very much: #Joomla Tags from Phil Taylor
 
@@ -34,7 +34,7 @@ Why did I choose Nimbus as a name? for obvious reasons:
 
 > ![nimbuscloud](/assets/images/2009/12/nimbuscloud_3.jpg "nimbuscloud")
 > 
-> A **nimbus cloud** is a cloud that produces precipitation. Usually the precipitation reaches the ground as rain, hail or snow, however, that is not a requirement, falling precipitation may evaporate before reaching the ground
+> A nimbus cloud is a cloud that produces precipitation. Usually the precipitation reaches the ground as rain, hail or snow, however, that is not a requirement, falling precipitation may evaporate before reaching the ground
 
 ##  
 

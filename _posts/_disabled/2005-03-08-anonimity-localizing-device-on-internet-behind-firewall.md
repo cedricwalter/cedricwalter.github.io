@@ -10,7 +10,7 @@ tags:
 - Electronics
 ---
 
-Another scary news …**even If you are behind a firewall**, it is possible to fingerprint (identifying) Your computer…yes
+Another scary news …even If you are behind a firewall, it is possible to fingerprint (identifying) Your computer…yes
 we may be not alone 🙂
 
 *The technique works by "exploiting small, microscopic deviations in device hardware: clock skews." In practice, Kohno’s

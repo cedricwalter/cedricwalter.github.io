@@ -18,11 +18,11 @@ According to the latest studies in germany (companies not affiliate with M$).
 - <font face="Verdana,Arial">[Four out of four experts agree: #Linux lowers TCO](http://www.osnews.com/story.php?news_id=7309)
 
 But what is the TCO (Total Cost of Ownership)?? The table below show You the main differences between   
-# *Free Softwares and Proprietary Softwares TCO.***
+# *Free Softwares and Proprietary Softwares TCO.*
 
-   ***Free Softwares and Proprietary Softwares TCO.***
+   *Free Softwares and Proprietary Softwares TCO.*
 
-| ***All Costs = TCO***                      | ***Free Softwares*** | ***Proprietary Softwares*** |
+| *All Costs = TCO*                      | *Free Softwares* | *Proprietary Softwares* |
 |--------------------------------------------|----------------------|-----------------------------|
 | Buy the software                           | 0                    | $                           |
 | Configuration – installation               | $                    | $                           |

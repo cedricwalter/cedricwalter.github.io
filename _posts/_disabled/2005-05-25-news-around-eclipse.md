@@ -12,7 +12,7 @@ tags:
 - environment
 ---
 
-<font face="times new roman,times,serif" size="2">**Pollinate Milestone 3** On
+<font face="times new roman,times,serif" size="2">Pollinate Milestone 3 On
 March 2 the
 #Eclipse [Pollinate project](http://www.eclipse.org/pollinate)
 release milestone 3. The goal of the Pollinate project is to build an #Eclipse-based IDE and toolset that leverages the
@@ -24,7 +24,7 @@ Pollinate will provide a full-featured #Java development environment that enable
 assemble enterprise-scale web applications, JSPs, web services, and leverage the #Java controls framework for creating
 and consuming J2EE  
 components.  
-**[BEA Joins #Eclipse Foundation](http://www.eclipse.org/org/press-release/feb222005beasybase.htm): **[BEA](www.bea.com)
+[BEA Joins #Eclipse Foundation](http://www.eclipse.org/org/press-release/feb222005beasybase.htm): [BEA](www.bea.com)
 has joined the #Eclipse Foundation as a Board Member and Strategic Developer. As part of this commitment, BEA offered to
 lead the Web Tools Platform (WTP) project, an offer that was accepted with the selection of
 a [BEA](www.bea.com) senior architect

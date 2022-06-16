@@ -14,7 +14,7 @@ tags:
     - 'RC helicopter'
 ---
 
-![futaba.14mz.rc](/assets/images/2010/01/futaba.14mz.rc_3.jpg "futaba.14mz.rc") Finally Got my Futaba 14MZ today, it’s a 14-Channel 2.4GHz Computer System from Futaba. I win it 5 days ago on [www.ricardo.ch](http://www.ricardo.ch). A big Thanks to **Juan Luis** **Suazo** from Basel for the delivery and the nice talk we had about our common experiences using RC helicopter. The next step will be to try to correctly configure this monster and do some practice in Reflex XTR
+![futaba.14mz.rc](/assets/images/2010/01/futaba.14mz.rc_3.jpg "futaba.14mz.rc") Finally Got my Futaba 14MZ today, it’s a 14-Channel 2.4GHz Computer System from Futaba. I win it 5 days ago on [www.ricardo.ch](http://www.ricardo.ch). A big Thanks to Juan Luis Suazo from Basel for the delivery and the nice talk we had about our common experiences using RC helicopter. The next step will be to try to correctly configure this monster and do some practice in Reflex XTR
 
 [![reflex-xtr.raptor.60](/assets/images/2010/01/reflex-xtr.raptor.60_thumb.jpg "reflex-xtr.raptor.60")](/assets/images/2010/01/reflex-xtr.raptor.60_2.jpg)   
 reflex XTR

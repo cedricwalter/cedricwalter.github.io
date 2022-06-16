@@ -20,7 +20,7 @@ the gallery content will be displayed as a result
 
 ![photoFeed.result](/assets/images/2009/06/photoFeed.result.png "photoFeed.result")
 
-# FEATURES:**
+# FEATURES:
 
 - It can fetch photos from [Smugmug](http://www.Smugmug.com)
 - It can fetch photos from [Flickr](http://www.flickr.com)
@@ -39,7 +39,7 @@ The photoFEED plugin uses the lastRSS class to grab images from a [Smugmug](http
 
 It provides access to the Images title, description and content
 
-# USAGE:** you can do it from any of your post or page. you can set any RSS feed like Smugmug, Picasa, Flickr etc with a limit of how many photos you want in your post/page. You need to keep in mind that you need to assign to things there:
+# USAGE: you can do it from any of your post or page. you can set any RSS feed like Smugmug, Picasa, Flickr etc with a limit of how many photos you want in your post/page. You need to keep in mind that you need to assign to things there:
 
 ```
    1. rss uri = feed location
@@ -59,6 +59,6 @@ Alternatively you can leave the limit blank like this to get all the photos {rss
 
 This #Joomla! plugin is based on [fdsPhotoFEED v1.0.0](http://wordpress.org/extend/plugins/fdsphotofeed-v100/) and all credits should be given to the original author: Nurul Ferdous, I did just wrap his hard work in a #Joomla! content plugin to solve my needs.
 
-# Code is GPL v2.0**
+# Code is GPL v2.0
 
 #### [Download ](http://www.waltercedric.com/downloads/doc_download/99-photofeed.html)and [Details ](http://www.waltercedric.com/downloads/doc_details/99-photofeed.html)

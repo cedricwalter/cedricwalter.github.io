@@ -27,7 +27,7 @@ by personal users are already floating around on the internet.
   preliminary [studies on the forum](http://www.psp-linux.org/forums/) for PSP, (
   The [DS linux port](http://www.dslinux.org/) is also ongoing)
 
-For the more courageous: [disassembling the PSP](http://www.informit.com/articles/article.asp?p=380915&rl=1) **Forums**
-are popping up [PSPforum](http://www.pspforums.com/), [forums.ps2dev.org](http://forums.ps2dev.org/) **
-Portal**: [PSP 1up](http://psp.1up.com/do/feature?cId=3139112) – [PSPhacks.net](http://www.psphacks.net/)
+For the more courageous: [disassembling the PSP](http://www.informit.com/articles/article.asp?p=380915&rl=1) Forums
+are popping up [PSPforum](http://www.pspforums.com/), [forums.ps2dev.org](http://forums.ps2dev.org/) 
+Portal: [PSP 1up](http://psp.1up.com/do/feature?cId=3139112) – [PSPhacks.net](http://www.psphacks.net/)
 – [PSP ign.com](http://psp.ign.com/) tocontinue

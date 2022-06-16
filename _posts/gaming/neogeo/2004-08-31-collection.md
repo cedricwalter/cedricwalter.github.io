@@ -19,17 +19,17 @@ tags:
     - vintagegaming
 ---
 
-![](/assets/images/2004/08/mai96taunt.gif)## **Neo Geo AES US system No 007444**
+![](/assets/images/2004/08/mai96taunt.gif)## Neo Geo AES US system No 007444
 
 Bought 21 Aug 1991 – Complete in Box – Collector state
 
 [See HERE for an up to date list of SNK NEO GEO AES](component/content/article/1684.html)
 
-[![](/assets/images/2004/08/tn_NeoGeoAES.jpg)](snk/amoi/NeoGeoAES.jpg)**– 4 memory cards  
+[![](/assets/images/2004/08/tn_NeoGeoAES.jpg)](snk/amoi/NeoGeoAES.jpg)– 4 memory cards  
 – 3 arcade joystick AES  
 – 4 Neo Geo cd Pad  
 – 2 Big sticker  
-– 1 Neo Geo pad “Haricot”****![](/assets/images/2004/08/spriteMS03.gif)![](/assets/images/2004/08/alien.gif) ![](/assets/images/2004/08/ani_u_tan_kun.gif)![](/assets/images/2004/08/ani_marco.gif)![](/assets/images/2004/08/terry.gif) ![](/assets/images/2004/08/terry.gif)[![](/assets/images/2004/08/terry.gif) ![](/assets/images/2004/08/ani_chuminkon.gif)![](/assets/images/2004/08/ani_worp.gif) ](/assets/images/2004/08/terry.gif)**## **Neo Geo CD Front Loading JAP system No 001078**
+– 1 Neo Geo pad “Haricot”![](/assets/images/2004/08/spriteMS03.gif)![](/assets/images/2004/08/alien.gif) ![](/assets/images/2004/08/ani_u_tan_kun.gif)![](/assets/images/2004/08/ani_marco.gif)![](/assets/images/2004/08/terry.gif) ![](/assets/images/2004/08/terry.gif)[![](/assets/images/2004/08/terry.gif) ![](/assets/images/2004/08/ani_chuminkon.gif)![](/assets/images/2004/08/ani_worp.gif) ](/assets/images/2004/08/terry.gif)## Neo Geo CD Front Loading JAP system No 001078
 
 Bought 09 Sept 2003 www.ebay.fr – Complete in Box – Collector state
 

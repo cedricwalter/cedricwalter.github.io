@@ -54,11 +54,11 @@ A promising component with Ajax and nearly all functionality of joomla! Tags, it
 Homepage: <http://www.fijiwebdesign.com/products/joomla-tag-component.html>   
 Forum: [http://www.fijiwebdesign.com/component/option,com\_fireboard/Itemid,54/](http://www.fijiwebdesign.com/component/option,com_fireboard/Itemid,54/)
 
-# Installation:**   
+# Installation:   
 You’ll need to install the Tag Component and the Tag Content Plugin and publish it in order to get it working.   
 Optional are the Tag Cloud Module and the Auto Tag Plugin.
 
-# Tag Cloud Component Features:**
+# Tag Cloud Component Features:
 
 - It can be linked to the menu, to display a tag cloud in its own page. eg: <http://www.visitireland
 - It can display tagged content in a list: <http://www.visitireland
@@ -67,18 +67,18 @@ Optional are the Tag Cloud Module and the Auto Tag Plugin.
 - Related tags views – Tags related to a set of tags
 - Tags administration, publish, add, edit, delete, filters etc.
 
-# Joomla Tag Content Plugin Features:**
+# Joomla Tag Content Plugin Features:
 
 - Displays the tags inline in articles
 - Registered users can add tags.
 - Adding tags is done via AJAX in the background, while the tags update automatically.
 
-# Joomla Tag Cloud Module Features:**
+# Joomla Tag Cloud Module Features:
 
 - Displays a tag cloud – alphabetical, with tag density determining size of the tag.
 - Displays a related tag cloud – A density based cloud for the content being viewed, whether section, category, or list of tagged articles, or list of tags.
 
-# Joomla Auto Tag Plugin Features:**
+# Joomla Auto Tag Plugin Features:
 
 - Automatically tags each Content Item when viewed.
 - At the moment, single keyword tags are pulled from the title, however we plan to add full context analysis, 2,3 word phrases, stemming etc. in the future versions.

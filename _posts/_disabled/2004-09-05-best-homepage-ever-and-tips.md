@@ -14,7 +14,7 @@ tags:
 [www.midmad.com](http://www.midmad.com/)   
  the ultimate forum for monster trucks
 
- **(Tips below are hotlinking from** [www.midmad.com](http://www.midmad.com/) **)  
+ (Tips below are hotlinking from [www.midmad.com](http://www.midmad.com/) )  
  [Wheelie Bar](http://www.midmad.com/ek4/wheelie/ek4wb.html)  
  [New wheels and tires](http://www.midmad.com/ek4/mt3/ek4mt3.html)  
  [EK4 shims](http://www.midmad.com/ek4/shim/ek4shim.html)  

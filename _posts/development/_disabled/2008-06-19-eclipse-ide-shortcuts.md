@@ -10,7 +10,7 @@ header:
   teaser: /assets/images/2008/06/eclipse.best_.shortcut.ctrl3_thumb.jpg
 ---
 
-I found today **the mother of all shortcuts in eclipse**, by accident….
+I found today the mother of all shortcuts in eclipse, by accident….
 
 Type CTRL-3 in eclipse and a pop windows will appear where you can type any part of   
 a keyword

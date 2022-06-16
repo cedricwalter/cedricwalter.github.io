@@ -107,9 +107,9 @@ In case it is not working read the manual: Aeotec [Z-Stick Gen 5 user manual.](h
 
 ### Installation of the VISION Z-WAVE PLUS ALARM
 
-# First, remove the bracket** from the siren by pressing the locking tab and gently sliding the siren up. Insert the batteries watching for correct orientation. Next, choose a central location for the siren. Use the included screws or adhesive tape to affix the bracket to a flat surface.
+# First, remove the bracket from the siren by pressing the locking tab and gently sliding the siren up. Insert the batteries watching for correct orientation. Next, choose a central location for the siren. Use the included screws or adhesive tape to affix the bracket to a flat surface.
 
-# Slide the front cover onto the siren** — the LED should turn on and start flashing to indicate the siren is ready to be included to a new network.
+# Slide the front cover onto the siren — the LED should turn on and start flashing to indicate the siren is ready to be included to a new network.
 
 Before including the device, please refer to your Z-Wave controller’s inclusion instructions as they may differ for each controller.
 

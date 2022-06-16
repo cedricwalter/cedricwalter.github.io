@@ -18,16 +18,16 @@ New ideas/features/bugs are always welcomed either through [forums](http://forum
 
 #### What’s new?
 
-- **BUG**: Latest Articles module for the doesn’t take the pictures after the "readmore"hr <hr id="system-readmore" />.   
+- BUG: Latest Articles module for the doesn’t take the pictures after the "readmore"hr <hr id="system-readmore" />.   
      is only using the images within the intro text.
-- **BUG**: Most Popular with thumbnails module.
-- **BUG:** was also in plugin, it is also solved there.
-- **FEATURE**: update servers, use the update manager of #Joomla for updating easily after this version 2.5.3
-- **FEATURE**: add new layout "horizontal" for modules Latest Articles/Most Popular
+- BUG: Most Popular with thumbnails module.
+- BUG: was also in plugin, it is also solved there.
+- FEATURE: update servers, use the update manager of #Joomla for updating easily after this version 2.5.3
+- FEATURE: add new layout "horizontal" for modules Latest Articles/Most Popular
 
 You can now use safely "search in intro text but if not found try in full text" for thumbnails source.
 
-You can click the link below and install as normal via the Extensions Manager. After having installed this version 2.5.3, all future updates will be done through the update manager (updates will display in the **Extensions Manager** under **Updates**).
+You can click the link below and install as normal via the Extensions Manager. After having installed this version 2.5.3, all future updates will be done through the update manager (updates will display in the Extensions Manager under Updates).
 
 Full list of changes available in [GIT](http://git-scm.com/) commit [c7af3623e5dfb270d324ebdddcb4d82a61b2f280](https://github.com/cedricwalter/cedthumbnails/commit/c7af3623e5dfb270d324ebdddcb4d82a61b2f280)
 

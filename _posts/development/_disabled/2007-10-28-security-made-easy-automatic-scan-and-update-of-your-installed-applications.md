@@ -14,7 +14,7 @@ tags:
 
  If you are on the paranoia side, and you better should, if you’re using ebanking on an internet connected pc.
 
- Secunia is a well known internet site, **Secunia** is a Danish computer security service provider best known for tracking vulnerabilities in more than 12,400 pieces of software and operating systems. Numbers of "unpatched" vulnerabilities in popular applications are frequently quoted in software comparisons.Secunia also tracks currently active computer viruses. Secunia has gained publicity and a notable reputation with the discovery of major zero-day vulnerabilities in Internet Explorer and other widely used programs
+ Secunia is a well known internet site, Secunia is a Danish computer security service provider best known for tracking vulnerabilities in more than 12,400 pieces of software and operating systems. Numbers of "unpatched" vulnerabilities in popular applications are frequently quoted in software comparisons.Secunia also tracks currently active computer viruses. Secunia has gained publicity and a notable reputation with the discovery of major zero-day vulnerabilities in Internet Explorer and other widely used programs
 
 - [Secunia website](http://secunia.com/ "http://secunia.com/")
 - [Secunia corporate website](http://corporate.secunia.com/ "http://corporate.secunia.com/")
@@ -25,7 +25,7 @@ tags:
 
  ![](/assets/images/2007/10/secunia.psi_.scanning.pc_.jpg)
 
- **Highlights of The** [Secunia PSI](https://psi.secunia.com/)**:**
+ Highlights of The [Secunia PSI](https://psi.secunia.com/):
 
 - The [Secunia PSI](https://psi.secunia.com/) will be available free of charge
 - Calculates your unique Secunia System Score

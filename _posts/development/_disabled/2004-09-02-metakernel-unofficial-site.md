@@ -17,7 +17,7 @@ tags:
     - metakernel
 ---
 
-This is **not the Official MetaKernel Home Page**.
+This is not the Official MetaKernel Home Page.
 
 A huge portion of that page was first published in raw HTML in 1998! (without CSS)
 
@@ -109,40 +109,40 @@ They apparently control the rights to the code from the 49G onward, but not the 
 Please be patient I must updated all descriptions and credit to the authors. We need your help : Please help us and develop program for MDG Kernel.  
 If You want to get in touch with the author : [Gérald squelart](mailto:squelart@aemiaif.lip6.fr) or [Jean Yves Avenard](mailto:avenar_j@epita.fr) or [from archive.org](https://web-beta.archive.org/web/20010301172356/http://www.epita.fr:8000/~avenar_j/hp/calc.html)
 
-[**EditK** ](MetaKernel/progs/EDITK)(386oct)by ELTA (me : walter cedric)  
+[EditK ](MetaKernel/progs/EDITK)(386oct)by ELTA (me : walter cedric)  
 a replacement for the EDITB command.  
 Now : Lib are visible, Asm can be edit and compiled automatically w/n error, rpl object are dissasemble and created easily (nothing on stack).
 
-[**Table.48g** (29Ko) ](/assets/images/2004/09/tablegx.zip)all credit to B. De Singlyconvert by ELTA (me : walter cedric)  
+[Table.48g (29Ko) ](/assets/images/2004/09/tablegx.zip)all credit to B. De Singlyconvert by ELTA (me : walter cedric)  
 This is a replacement for the internal table of MDGKer. It use very simple and comprehensive mnemonics. Useful to dissasemble Rom entry Point.
 
-[**Table.48g** (49Ko)](/assets/images/2004/09/table48g.zip) The original one, included with the package.
+[Table.48g (49Ko)](/assets/images/2004/09/table48g.zip) The original one, included with the package.
 
-[**Table Creator** (109Ko)](MetaKernel/progs/tableCreator.zip)New Version **You must recompile the old table in order to use them with MDGker 2.30**  
+[Table Creator (109Ko)](MetaKernel/progs/tableCreator.zip)New Version You must recompile the old table in order to use them with MDGker 2.30  
 Program to convert the startext file under Windows 95 into Ascii format and back In MDGker format.included with the package.
 
 # Utilities
 
-- [**TermHp** by Jean Yves Avenard. (1.2Ko)](http://www.epita.fr:8000/%7Eavenar_j/hp/product/termhp.html) TermHP is a terminal emulator for your HP48GX. TermHP is very small (1.2kb), and may be the only terminal for your HP48, which won’t lose  
+- [TermHp by Jean Yves Avenard. (1.2Ko)](http://www.epita.fr:8000/%7Eavenar_j/hp/product/termhp.html) TermHP is a terminal emulator for your HP48GX. TermHP is very small (1.2kb), and may be the only terminal for your HP48, which won’t lose  
     any characters. Full-Duplex, you can type and receive characters at the same time.
-- [**Tools** (1Ko)](/assets/images/2004/09/tools2conv.zip) 4 tools to switch between the different format: Grob<->font,external <->liste.included with the package.
-- [**Mkutils** (7 Ko)](MetaKernel/progs/mkutil.lib) Man utils : flags, bzk, grob->font and much more.
-- [**Gker** (2Ko)](MetaKernel/progs/GKER.LIB) Improve stack viewing with grey grob. included with the package.
-- [**Kerutils** (3Ko)](MetaKernel/progs/mkf20.lib) Many good utils written in asm.
-- [**MkFlags32** (3Ko)](MetaKernel/progs/mkflg32.lib) by Stephen JANNIN Manage hp48 flags and MDGker easily.HomePage: [http://wwwperso.hol.fr/~janninst/](http://wwwperso.hol.fr/%7Ejanninst/)
+- [Tools (1Ko)](/assets/images/2004/09/tools2conv.zip) 4 tools to switch between the different format: Grob<->font,external <->liste.included with the package.
+- [Mkutils (7 Ko)](MetaKernel/progs/mkutil.lib) Man utils : flags, bzk, grob->font and much more.
+- [Gker (2Ko)](MetaKernel/progs/GKER.LIB) Improve stack viewing with grey grob. included with the package.
+- [Kerutils (3Ko)](MetaKernel/progs/mkf20.lib) Many good utils written in asm.
+- [MkFlags32 (3Ko)](MetaKernel/progs/mkflg32.lib) by Stephen JANNIN Manage hp48 flags and MDGker easily.HomePage: [http://wwwperso.hol.fr/~janninst/](http://wwwperso.hol.fr/%7Ejanninst/)
 
 # Graphics and fonts
 
-- [**15 differents fonts** (15.3Ko).](MetaKernel/progs/FontOr.zip) included with the package.
-- [**3 Micro font** (1.96Ko).](/assets/images/2004/09/microfont.zip)included with the package.
-- [**customs** (5.41Ko)](/assets/images/2004/09/customs_ex.zip) Customize your kernel with some of these examples. included with the package.
+- [15 differents fonts (15.3Ko).](MetaKernel/progs/FontOr.zip) included with the package.
+- [3 Micro font (1.96Ko).](/assets/images/2004/09/microfont.zip)included with the package.
+- [customs (5.41Ko)](/assets/images/2004/09/customs_ex.zip) Customize your kernel with some of these examples. included with the package.
 
 # A picture for history
 
-[**Startup** : ](MetaKernel/progs/STARTUP.var)by ELTA (me : Cédric Walter)  
+[Startup : ](MetaKernel/progs/STARTUP.var)by ELTA (me : Cédric Walter)  
 I did this picture on 20th march 1998 while being at the engineer school. Dot by Dot in the standard graphic editor and published it under GNU/GPL. I don’t know but it somehow reached the authors of the MetaKernel and was included in the ROM.
 
-You can now take **any** HP49G/HP49Gx/HP50G in the world, and do a soft reset (ON-C), and you can see …. my picture!!!!!. My signature is on the left corner, you can press ON quickly to freeze the picture.
+You can now take any HP49G/HP49Gx/HP50G in the world, and do a soft reset (ON-C), and you can see …. my picture!!!!!. My signature is on the left corner, you can press ON quickly to freeze the picture.
 
 ![](/assets/images/2004/09/hp49boot.gif)
 

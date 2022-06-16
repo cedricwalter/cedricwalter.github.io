@@ -16,7 +16,7 @@ tags:
 
 [From the official press release](http://www.joomla.org/announcements/release-news/5318-joomla-1522-released.html)
 
-The #Joomla Project announces the immediate availability of #Joomla 1.5.22 \[senu takaa ama woi\]. **This is a security release,** and we recommend users upgrade immediately.
+The #Joomla Project announces the immediate availability of #Joomla 1.5.22 \[senu takaa ama woi\]. This is a security release, and we recommend users upgrade immediately.
 
 The [Development Working Group’s](http://docs.joomla.org/Development_Working_Group) goal is to continue to provide regular, frequent updates to the #Joomla community.
 

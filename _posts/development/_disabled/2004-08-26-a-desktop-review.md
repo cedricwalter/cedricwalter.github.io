@@ -12,17 +12,17 @@ teaser: /assets/images/2004/08/suse.gif
 
 This page was last modified on Mon, 16 Aug 2004 17:06:24 GMT
 
-![](/assets/images/2004/08/suse.gif)<font face="Arial Black" size="7">**SUSE 9.0  
-a desktop review** <font face="Arial Black" size="4">**My experience installing #Linux and some
-throughts…**<font face="Arial Black" size="7">**![](/assets/images/2004/08/linux.gif)**  
+![](/assets/images/2004/08/suse.gif)<font face="Arial Black" size="7">SUSE 9.0  
+a desktop review <font face="Arial Black" size="4">My experience installing #Linux and some
+throughts…<font face="Arial Black" size="7">![](/assets/images/2004/08/linux.gif)  
 When you finish this article, You may want to read
 the [round 2 HERE ](images/pc/suse/migrationToLinux.htm)![](/assets/images/2004/08/pnew.gif)
 
-| **GNU Free Documentation
-License** – Copyright (c) 2003 Walter CÃ©dric. Permission is granted to copy, distribute and/or modify this document    under the terms of the GNU Free Documentation License, Version 1.2    or any later version published by the Free Software Foundation; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover    Texts. A copy of the license is included in the section entitled “[GNU Free Documentation License](http://www.gnu.org/licenses/fdl.html)“. |
+| GNU Free Documentation
+License – Copyright (c) 2003 Walter CÃ©dric. Permission is granted to copy, distribute and/or modify this document    under the terms of the GNU Free Documentation License, Version 1.2    or any later version published by the Free Software Foundation; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover    Texts. A copy of the license is included in the section entitled “[GNU Free Documentation License](http://www.gnu.org/licenses/fdl.html)“. |
 |---|
 
--> this page is getting bigger and bigger with the time, I will also start **soon** a SUSE section and divide this page
+-> this page is getting bigger and bigger with the time, I will also start soon a SUSE section and divide this page
 into smaller sections.
 
 I decide to buy the professional edition instead of downloading all cd from [ftp.suse](ftp://ftp.suse/) even if I have a
@@ -66,7 +66,7 @@ knoppix and let you start linux everywhere if you can boot on USB!     You can: 
 pictures, scan, browse internet, word processing, sync a Palm PDA, read PDF files, start a webserver and more…. read
 more here:     <http://linuxdocs.tuxfamily.org/flonix/doc/wakka.php?wiki=EnPresentation> |
 
-# \* can be download freely**
+# \* can be download freely
 
 <font face="Arial Black" size="4">![](/assets/images/2004/08/susebullet.gif) Test system:
 
@@ -88,7 +88,7 @@ reproduced [# HERE](XID/faqxid.html)# , sorry it is in french ![](/assets/images
 
 <font face="Arial Black" size="4">![](/assets/images/2004/08/susebullet.gif) Some sentences you may hear about #Linux:
 
-# Linux user interface is ugly, Xp is better!**
+# Linux user interface is ugly, Xp is better!
 
 Who can still says this?, look at this KDE 3.2 pictures
 
@@ -96,13 +96,13 @@ Who can still says this?, look at this KDE 3.2 pictures
 |---|
 | (click to enlarge). KDE default user interface for Ark #Linux, Conectiva, Knoppix, Lindows, Lycoris, Mandrake #Linux, SUSE #Linux, TurboLinux and Xandros. |
 
-Moreover you can choose another desktop manager, instead of **KDE**, a lot of people prefer **Gnome.** If you still
+Moreover you can choose another desktop manager, instead of KDE, a lot of people prefer Gnome. If you still
 can’t live without Windows, try this windows manager under
-linux [**http://www.xpde.com/index.php**](http://www.xpde.com/index.php)
+linux [http://www.xpde.com/index.php](http://www.xpde.com/index.php)
 
-# Suse (or #Linux in general) is difficult to use!**
+# Suse (or #Linux in general) is difficult to use!
 
-Not so much, in fact the tool **YAST**: “Yet Another Setup Tool” do a great job when dealing with the configuration of
+Not so much, in fact the tool YAST: “Yet Another Setup Tool” do a great job when dealing with the configuration of
 your computer, softwares and hardware can be configured in a hierarchical control panel. I found it even better than the
 equivalent of “Windows world”. What can be disturbing is the organisation of files and program on disk. I would say that
 someone who never use Windows before will have the same learning curve and encounter more or less the same difficulties
@@ -133,7 +133,7 @@ years), you will encounter some difficulties, I prefer to say “forget some bad
   without restarting the whole (restart the network server or the soundcard). Try also CTRL-ALT- ESC to kill graphically
   a process!
 
-# Why choosing #Linux now?">**Why choosing #Linux now?**</a>
+# Why choosing #Linux now?">Why choosing #Linux now?</a>
 
 <http://www.mandrake.tips.4.free.fr/switchsuccess.html> ![](/assets/images/2004/08/smallnew.gif) A very good article,
 how you can switch with success and what your motivation can be
@@ -249,7 +249,7 @@ to gain a higher level access or may install a trojan horse)
 The 2 integrated networks card were detected automatically (mainboard ASUS nforce 2 desluxe has a 3COM and Nvidia 100MB
 network card),
 
-The system then ask if you want to download **new packages and security upgrades** from internet. This is higly
+The system then ask if you want to download new packages and security upgrades from internet. This is higly
 recommended. No compagny in the world can ship a perfect code, this is True even in #Linux world. I am pretty convince
 bugs handling is better in opensource paradigm, because nearly all users can see the source code (OK, I admit NO all
 users are developers, but there is a lot of great skilled developer which in their spare time review code, not to speak
@@ -270,18 +270,18 @@ during the install), or block installation of some packages which can help a hac
 
 I strongly recommend You to deactivate auto login, security come always at a cost, I do not want that somebody simply
 restart the computer to gain access to my data and read private documents: Yes you will have to enter your password at
-each restart. Password is limited to 8 characters…which is somehow strange ![](/assets/images/2004/08/updated.gif) **The
+each restart. Password is limited to 8 characters…which is somehow strange ![](/assets/images/2004/08/updated.gif) The
 password length is limited to 8 character because the default password encryption methd is set to DES (most compatible
 but SUSE also allow md5 or blowfish which have no length limit but at the cost of more cpu power and the loss of
 backward compatibility across other systems or old software). You can change this
-under** <font face="Courier New" size="2">**Yast – Security and Users Password settings**
+under <font face="Courier New" size="2">Yast – Security and Users Password settings
 
 Finally the release note of suse 9.0 is displayed, You can read it to be sure that nothing has changed since the manual
 printout.
 
 YAST, then dectect hardware and set a graphical resolution.
 
-![](/assets/images/2004/08/Gyro.gif) **ATTENTION**, always use the test button to validate any refresh rate and
+![](/assets/images/2004/08/Gyro.gif) ATTENTION, always use the test button to validate any refresh rate and
 resolution before applying changes, otherwise you may have a black screen at the next logon! If it ever happen, the only
 way is to reboot and choose “safe mode”, logging as root, go to /etc/X11 and open the file X86Config….or rename the
 previous backup done by YAST (backup named X86Config.YAST). I have also done this
@@ -357,16 +357,16 @@ clones of Norton Commander.
 
 <font face="Arial Black" size="4">![](/assets/images/2004/08/susebullet.gif) Forums and Help
 
-**French**  
+French  
 [www.linuxfrench.net](http://www.linuxfrench.net/)   
 [www.linuxquestion.org](http://www.linuxquestion.org/)
 
-**English**  
+English  
 <http://librenix.com/> news site on linux  
 [![](/assets/images/2004/08/www.linuxforum.com_.jpg)](http://www.linuxforum.com/) Great forums
 
 <font face="Arial Black" size="4">![](/assets/images/2004/08/susebullet.gif) Others reviews # you can submit me a new
-link [**HERE**](comment.html)
+link [HERE](comment.html)
 
 <http://www.unixreview.com/documents/s=8925/ur0310l/>   
 <http://www.arstechnica.com/etc/linux/index.html>   
@@ -405,5 +405,5 @@ article ![](/assets/images/2004/08/smallnew.gif)
 | [http://www.linuxiso.org](http://www.linuxiso.org/)
 | [Here](http://www.linuxiso.org/forums/viewtopic.php?t=16245&highlight=walter+cedric) |
 
-# ![](/assets/images/2004/08/pnew.gif)** **When you finish this article, You may want to read the** [**round 2
-HERE** ](images/pc/suse/migrationToLinux.htm)**![](/assets/images/2004/08/pnew.gif)**
+# ![](/assets/images/2004/08/pnew.gif) When you finish this article, You may want to read the [round 2
+HERE ](images/pc/suse/migrationToLinux.htm)![](/assets/images/2004/08/pnew.gif)

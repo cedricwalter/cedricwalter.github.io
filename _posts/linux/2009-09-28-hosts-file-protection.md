@@ -28,7 +28,7 @@ tags:
     - windows
 ---
 
-[![hosts.file](/assets/images/2009/09/hosts.file_thumb.png "hosts.file")](/assets/images/2009/09/hosts.file_.png) The **hosts file** is a computer file used by an operating system to map hostnames to IP addresses. This method is one of several methods used by an operating system to locate network nodes on a computer network. [Spybot Search and Destroy](http://www.safer-networking.org) is using this technique when you click on immunize button behind the scene.
+[![hosts.file](/assets/images/2009/09/hosts.file_thumb.png "hosts.file")](/assets/images/2009/09/hosts.file_.png) The hosts file is a computer file used by an operating system to map hostnames to IP addresses. This method is one of several methods used by an operating system to locate network nodes on a computer network. [Spybot Search and Destroy](http://www.safer-networking.org) is using this technique when you click on immunize button behind the scene.
 
 Found at <http://someonewhocares.org/hosts/>
 

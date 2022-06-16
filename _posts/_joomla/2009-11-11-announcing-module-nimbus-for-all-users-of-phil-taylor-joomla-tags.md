@@ -28,7 +28,7 @@ You can discover my module live at the bottom of this page.
 
 ![nimbus.for.joomla.tags](/assets/images/2009/11/nimbus.for_.joomla.tags_.png "nimbus.for.joomla.tags")
 
-# NOTA**
+# NOTA
 
 1. If you don’t have or use [Joomla! tags](http://www.joomla-tags.com/), this module wont be useful at all! You will have to search for a custom or [alternate solution in JED](http://extensions.joomla.org/extensions/search-a-indexing/tags-a-clouds)
 2. The name [nimbus is coming from a certain type of clouds](http://en.wikipedia.org/wiki/Nimbus_%28meteorology%29)

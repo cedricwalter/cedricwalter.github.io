@@ -20,15 +20,15 @@ I did upgrade my version of TeamCity at [teamcity.waltercedric.com](http://teamc
 
 This release brings many usability improvements, updated IDE plugin with some new VCSs supported, plus exciting enterprise-level features, not found in previous versions:
 
-- **User Groups** are now supported when defining user roles and notifications
-- **Extended LDAP support** with automatic user profile synchronization
-- Multiple UI improvements, including **tests grouping** and **project-wide test details, problematic tests, and change log**
-- You can now **assign responsibility** for broken builds
-- In addition to traditional test results handling, TeamCity is now able to **parse raw XML reports** from ANT’s JUnit tasks, NUnit, Surefire, PMD, and FindBugs
-- **Mono framework** is now automatically detected and can be used as a .NET platform for continuous builds
+- User Groups are now supported when defining user roles and notifications
+- Extended LDAP support with automatic user profile synchronization
+- Multiple UI improvements, including tests grouping and project-wide test details, problematic tests, and change log
+- You can now assign responsibility for broken builds
+- In addition to traditional test results handling, TeamCity is now able to parse raw XML reports from ANT’s JUnit tasks, NUnit, Surefire, PMD, and FindBugs
+- Mono framework is now automatically detected and can be used as a .NET platform for continuous builds
 - Improved IDE integrations:
-- *Eclipse*: **CVS** is now supported for Remote Run and Pre-tested Commit; added support for Perforce plugin version 2008.2
-- *Visual Studio*: Remote Run and Pre-tested Commit now work with **Perforce**
+- *Eclipse*: CVS is now supported for Remote Run and Pre-tested Commit; added support for Perforce plugin version 2008.2
+- *Visual Studio*: Remote Run and Pre-tested Commit now work with Perforce
 
 To see What’s New in TeamCity 4.5, [just visit this page](http://www.jetbrains.com/teamcity/features/newfeatures.html)
 

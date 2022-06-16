@@ -17,7 +17,7 @@ More and more I am using XEN at work, and here is a small how to of some very co
 
 > [Citrix® XenServer](http://www.citrix.com/)® is a complete, managed [server virtualization](http://www.citrix.com/xenserver/server-virtualization) platform built on the powerful Xen® hypervisor. Xen technology is widely acknowledged as the fastest and most secure virtualization software in the industry. XenServer is designed for efficient management of Windows® and #Linux® [virtual servers ](http://www.citrix.com/xenserver/server-virtualization)and delivers cost-effective server consolidation and business continuity.
 
-By the way if you succeed installing XEN server on a [Strato.com](http://www.strato.com/) dedicated #Linux server **with a minimal downtime**, [contact me I am interested](http://www.waltercedric.com/-contact-me.html)!
+By the way if you succeed installing XEN server on a [Strato.com](http://www.strato.com/) dedicated #Linux server with a minimal downtime, [contact me I am interested](http://www.waltercedric.com/-contact-me.html)!
 
 # Basic operations
 
@@ -26,7 +26,7 @@ By the way if you succeed installing XEN server on a [Strato.com](http://www.str
 This uuid is required to identify XEN guest.
 
 > \# xe vm-list   
-> uuid ( RO) : **99bb0e42-0616-6f02-ed41-be48bb338280**   
+> uuid ( RO) : 99bb0e42-0616-6f02-ed41-be48bb338280   
 >  name-label ( RW): server01   
 >  power-state ( RO): running
 
@@ -36,8 +36,8 @@ A sr-uuid identify a storage resources attached to a XEN server, this unique id 
 
 Run as root, in the XEN server console
 
-> **\# xe sr-list**   
-> uuid ( RO) : **99f191c4-4563-8672-7d8e-4602850fbeb0**   
+> \# xe sr-list   
+> uuid ( RO) : 99f191c4-4563-8672-7d8e-4602850fbeb0   
 >  name-label ( RW): Local storage   
 >  name-description ( RW):   
 >  host ( RO): xen01   
@@ -54,7 +54,7 @@ Identify the locale storage by looking at the name-label and copy the uuid
 
 Run as root, in the XEN server console
 
-> \# xe vm-export vm=**99bb0e42-0616-6f02-ed41-be48bb338280** filename=server01.xva
+> \# xe vm-export vm=99bb0e42-0616-6f02-ed41-be48bb338280 filename=server01.xva
 
 ## Import XEN Guest
 
@@ -63,7 +63,7 @@ Run as root, in the XEN server console
 
 Run as root, in the XEN server console
 
-> \# xe vm-import filename=server01.xva sr-uuid=**99bb0e42-0616-6f02-ed41-be48bb338280**
+> \# xe vm-import filename=server01.xva sr-uuid=99bb0e42-0616-6f02-ed41-be48bb338280
 
 ## Export a XEN template to disk
 
@@ -75,13 +75,13 @@ Run as root, in the XEN server console
 If there is too much templates, you can filter with grep or by using name-label
 
 > \# xe template-list name-label=”myTemplate label”   
-> uuid ( RO) : **c4962b6b-5678-a72b-85cd-e33f01b1320a   
-> **name-label ( RW): mytemplate label   
+> uuid ( RO) : c4962b6b-5678-a72b-85cd-e33f01b1320a   
+> name-label ( RW): mytemplate label   
 > name-description ( RW):
 
 To export, run
 
-> \# xe template-export uuid=**c4962b6b-5678-a72b-85cd-e33f01b1320a **filename=myTemplate.xva
+> \# xe template-export uuid=c4962b6b-5678-a72b-85cd-e33f01b1320a filename=myTemplate.xva
 
 You can see the export progression in tab “logs“ of that template in XEN-Center
 
@@ -92,6 +92,6 @@ You can see the export progression in tab “logs“ of that template in XEN-Cen
 
 To import, run
 
-> \# xe vm-import filename=myTemplate.xva sr-uuid=**99bb0e42-0616-6f02-ed41-be48bb338280**
+> \# xe vm-import filename=myTemplate.xva sr-uuid=99bb0e42-0616-6f02-ed41-be48bb338280
 
 ### TO be continued…

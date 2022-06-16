@@ -16,9 +16,9 @@ tags:
 
 Some useful Bash #Linux alias taken from my user profile. If you have a long command that you type frequently consider putting it in as an *alias*.
 
-In computing, **alias** is a command in various command line interpreters (shells) such as Unix shells, 4DOS/4NT and Windows PowerShell, which enables a replacement of a word with another string. It is mainly used for abbreviating a system command, or for adding default arguments to a regularly used command. \[[WikiPedia](http://en.wikipedia.org/wiki/Alias_(command))\]
+In computing, alias is a command in various command line interpreters (shells) such as Unix shells, 4DOS/4NT and Windows PowerShell, which enables a replacement of a word with another string. It is mainly used for abbreviating a system command, or for adding default arguments to a regularly used command. \[[WikiPedia](http://en.wikipedia.org/wiki/Alias_(command))\]
 
-| **Description** |  |
+| Description |  |
 |---|---|
 | Find all directories and and chmod them to rwxr.xr.x | alias fixpermD=’find . -type d -exec chmod 755 {} \\;’ |
 | Find all files and and chmod them to rw.r..r.. | alias fixpermF=’find . -type f -exec chmod 644 {} \\;’ |

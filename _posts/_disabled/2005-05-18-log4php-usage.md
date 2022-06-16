@@ -20,7 +20,7 @@ If You’re familiar with log4j, You will have no problem to use Log4PHP, if it 
 read [my introduction](https://waltercedric.com/new/?p=994) or jump to the official Home of Log4j where You’ll find
 invaluable tutorials and extensions.
 
-**Using log4PHP in Your daily code….**
+Using log4PHP in Your daily code….
 
 Log4j only suppose that the config file should be in classpath…either a log4j.properties or a log4j.xml
 
@@ -50,11 +50,11 @@ $logger->error("this is a error statement");
 $logger->fatal("this is a fatal statement");
 ```
 
-<span style="font-size: large;">**Log4J, Log4PHP need to be configured…**
+<span style="font-size: large;">Log4J, Log4PHP need to be configured…
 
 A log4PHP file may contains many appenders, layout, logger…
 
-# Different Appenders**
+# Different Appenders
 
 - Appenders are kind of object outputing their data to device : mail, file, console, database, socket, ….there is no
   limits

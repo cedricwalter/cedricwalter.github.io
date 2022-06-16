@@ -25,15 +25,15 @@ I am also passionate about AI, white hacking and promoting test-driven developme
 - I’m member of the Bitcoin Association Switzerland,
 - I’m member of the Cryptovalley association Switzerland,
 
-# Resume**
+# Resume
 
 One page <http://tiny.cc/s0gmbz>   
 Short 1 – 3 pages <http://tiny.cc/m1gmbz>   
 Long 12 pages <http://tiny.cc/y1gmbz>
 
-# Github** [https://github.com/cedricwalter ](https://github.com/cedricwalter)
+# Github [https://github.com/cedricwalter ](https://github.com/cedricwalter)
 
-# Sourcerer** <https://sourcerer.io/cedricwalter>
+# Sourcerer <https://sourcerer.io/cedricwalter>
 
 <div class="container-resume"><div class="word_split wrapper"><span class="word word1">Cédric <span class="word word2">Walter <span class="word word3">Personal <span class="word word4">Details <span class="word word5">Employment <span class="word word6">History  <span class="word word7">Education <span class="word word8">Personal <span class="word word9">Skills  <span class="word word10">Technical <span class="word word11">Skills  <span class="word word12">Get In  <span class="word word13">Touch<div class="bubble1">HI!   
  I AM..<div class="bubble2">![](/assets/images/2010/07/cedric.walter.smallest.jpg)<div class="bubble3">French  

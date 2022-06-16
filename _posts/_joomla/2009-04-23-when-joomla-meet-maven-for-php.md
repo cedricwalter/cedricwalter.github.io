@@ -21,7 +21,7 @@ The trick I made is to package the whole #Joomla distribution in a jar file, and
 php -d include_path=
 ```
 
-That’s also why, It is very important **to not put anything** from this directory under version control (add a cvs.ignore or svn properties svn:ignore) as it contains dependencies that have no reason to be put under version control in #Maven paradigm (they have to reside in a #Maven repository)
+That’s also why, It is very important to not put anything from this directory under version control (add a cvs.ignore or svn properties svn:ignore) as it contains dependencies that have no reason to be put under version control in #Maven paradigm (they have to reside in a #Maven repository)
 
 So I create a new zip file joomla-1.5.10.jar with a directory inside named ‘Joomla’ that contains a standard binary distribution…this jar is published in artifactory with a groupid *org.joomla* (arbitrary chosen by me)
 
@@ -50,7 +50,7 @@ With the code below I can bind my component to a new version or old version of J
 </dependency>
 ```
 
-Test cases classes are directly in the eclipse project under src/test/php (this directory is created by the archetype php5-lib-archetype), In **bold**, this is how you can import the whole Joomla! framework!
+Test cases classes are directly in the eclipse project under src/test/php (this directory is created by the archetype php5-lib-archetype), In bold, this is how you can import the whole Joomla! framework!
 
 ```
 require_once ('PHPUnit/Framework.php'); 

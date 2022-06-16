@@ -17,7 +17,7 @@ tags:
     - travel
 ---
 
-# Furka Pass** (French: *Le Col de la Furka*), with an elevation of 2,429 metres (7,969 ft), is a high mountain pass in the Swiss Alps connecting Gletsch, Valais with Realp, Uri. The Furka Oberalp Bahn line through the Furka Tunnel bypasses the pass. The base tunnel opened in 1982 and replaced a tunnel at 2100 m.
+# Furka Pass (French: *Le Col de la Furka*), with an elevation of 2,429 metres (7,969 ft), is a high mountain pass in the Swiss Alps connecting Gletsch, Valais with Realp, Uri. The Furka Oberalp Bahn line through the Furka Tunnel bypasses the pass. The base tunnel opened in 1982 and replaced a tunnel at 2100 m.
 
 The Furka Pass was used as a location in the James Bond film Goldfinger. One curve on the east side of the pass is even named “James Bond Strasse”. At the sign, there is a lookout point with a small parking area. Visitors can also park next to Hotel Belvédère, close to the top of the pass on the west side, and take the short walk to the Rhone Glacier Ice Grotto. The glacier moves 30-40 meters a year and the 100 m long tunnel and ice chamber can be visited from June when the road opens. [Wikipedia](https://en.wikipedia.org/wiki/Furka_Pass)
 

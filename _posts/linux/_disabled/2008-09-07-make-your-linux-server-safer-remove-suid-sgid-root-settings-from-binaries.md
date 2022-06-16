@@ -15,17 +15,17 @@ tags:
     - server
 ---
 
-First let’s refresh some definitions…**set user ID (SUID)**
+First let’s refresh some definitions…set user ID (SUID)
 
 The SUID permission causes a script to run as the user who is the owner of the script, rather than the user who started it. It is normally considered extremely bad practice to run a program in this way as it can pose many security problems.
 
-## **set group ID (SGID)** 
+## set group ID (SGID) 
 
 The SGID permission causes a script to run with its group set to the group of the script, rather than the group of the user who started it. It is normally considered extremely bad practice to run a program in this way as it can pose many security problems.
 
 Latest versions of the #Linux kernel will even prohibit the running of shell scripts that have SGID/SUID attribute set.
 
-Use of the SUID bit on binaries (to run with root privileges, aka ”setuid bit”) **MUST be limited** to those shown in   
+Use of the SUID bit on binaries (to run with root privileges, aka ”setuid bit”) MUST be limited to those shown in   
 the following list:
 
 ```

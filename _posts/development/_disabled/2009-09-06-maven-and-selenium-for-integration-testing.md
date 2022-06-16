@@ -14,7 +14,7 @@ tags:
     - tutorial
 ---
 
-‘Integration testing’ (sometimes called Integration and Testing, abbreviated **I&amp;T**) is the activity of software testing in which individual software modules are combined and tested as a group. It occurs after unit testing and before system testing. Integration testing takes as its input modules that have been unit tested, groups them in larger aggregates, applies tests defined in an integration test plan to those aggregates, and delivers as its output the integrated system ready for system testing. \[[WikiPedia](http://en.wikipedia.org/wiki/Integration_testing)\]
+‘Integration testing’ (sometimes called Integration and Testing, abbreviated I&amp;T) is the activity of software testing in which individual software modules are combined and tested as a group. It occurs after unit testing and before system testing. Integration testing takes as its input modules that have been unit tested, groups them in larger aggregates, applies tests defined in an integration test plan to those aggregates, and delivers as its output the integrated system ready for system testing. \[[WikiPedia](http://en.wikipedia.org/wiki/Integration_testing)\]
 
 I will put Selenium to that JOB. [Selenium](http://seleniumhq.org/) will allow me to run a set of unit test against a running instance of my application and get a feedback on the quality before delivering the software to a testing team.
 
@@ -62,7 +62,7 @@ You will have to somehow make your own Selenium framework out of the generated c
 - You can not let the URL and port of the container fix coded <span class="str"><http://localhost/helloworld>, this URL may change if you target different runtime.
 - You may want to reuse some part of the generated code multiple times, in different unit test, (like login/logout stuff), java inheritance, interface, and patterns may arrive sooner or later, even if this is unit test code.
 
-# Selenium test cases or integration tests are meant to be run in phase “integration-test” against a running instance of your application.** That is why don’t forget to deploy your application with Maven cargo or run it inside Jetty in Maven phase “pre-integration-test”
+# Selenium test cases or integration tests are meant to be run in phase “integration-test” against a running instance of your application. That is why don’t forget to deploy your application with Maven cargo or run it inside Jetty in Maven phase “pre-integration-test”
 
 ## How to use Surefire to run JUnit test in phase “test” and integration tests in phase “integration-test”
 
@@ -80,8 +80,8 @@ In phase test, test cases with a word integration or selenium are omitted, while
         <skip>false</skip>
         <testFailureIgnore>true</testFailureIgnore>
         <excludes>
-            <exclude>**/integration/*</exclude>
-            <exclude>**/selenium/*</exclude>
+            <exclude>/integration/*</exclude>
+            <exclude>/selenium/*</exclude>
         </excludes>
     </configuration>
     <executions>
@@ -97,8 +97,8 @@ In phase test, test cases with a word integration or selenium are omitted, while
                     <exclude>none</exclude>
                 </excludes>
                 <includes>
-                    <include>**/integration/*</include>
-                    <include>**/selenium/*</include>
+                    <include>/integration/*</include>
+                    <include>/selenium/*</include>
                 </includes>
             </configuration>
         </execution>
@@ -110,7 +110,7 @@ Now it is time to start a selenium server locally or remotely so we can start ou
 
 ## Selenium Remote control
 
-# Selenium Remote Control** (RC) is a test tool that allows you to write automated web application UI tests in any programming language against any HTTP website using any mainstream JavaScript-enabled browser.
+# Selenium Remote Control (RC) is a test tool that allows you to write automated web application UI tests in any programming language against any HTTP website using any mainstream JavaScript-enabled browser.
 
 You can either start a selenium RC server
 

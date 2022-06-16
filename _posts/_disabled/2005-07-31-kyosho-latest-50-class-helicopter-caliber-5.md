@@ -15,4 +15,4 @@ tags:
 
 | [![](/assets/images/2005/07/Kyosho-caliber5-1.jpg)](http://www.kyosho.co.jp/web/products/helicopters/caliber/caliber50/caliber5/caliber5-e.html) |
 |---|
-| *picture may represent a prototype…**Forgiving but still exciting 50-class flight style covers beginners to 3D stunt fliers.   A new standard in flight performance creates a new class of heli!* The Caliber 5 has been pushed back until a January delivery date. The will be shipping from Japan in November/December.  More on [official Kyosho Homepage](http://www.kyosho.co.jp/web/products/helicopters/caliber/caliber50/caliber5/caliber5-e.html) |
+| *picture may represent a prototype…Forgiving but still exciting 50-class flight style covers beginners to 3D stunt fliers.   A new standard in flight performance creates a new class of heli!* The Caliber 5 has been pushed back until a January delivery date. The will be shipping from Japan in November/December.  More on [official Kyosho Homepage](http://www.kyosho.co.jp/web/products/helicopters/caliber/caliber50/caliber5/caliber5-e.html) |

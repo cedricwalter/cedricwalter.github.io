@@ -20,7 +20,7 @@ This small plugin for #Joomla! add a message inviting iPhone/iPad users to add t
 
 The new version 1.6.2 introduce (for #Joomla 1.5/1.7)
 
-# Custom image for IPad** in landscape and Portrait mode for your #Joomla! site
+# Custom image for IPad in landscape and Portrait mode for your #Joomla! site
 
 7. iPhone Custom startup image (320 x 460 pixels)
 8. iPad Custom startup Landscape image (748 x 1024 pixels): On iPad, the image must be 748 x 1024 pixels pixels and in landscape orientation.(20 pixels are used to display the top status bar with information about the phone carrier, battery, time, etc.). If you use PNG images with the same proportions Safari should be able to re-scale them.

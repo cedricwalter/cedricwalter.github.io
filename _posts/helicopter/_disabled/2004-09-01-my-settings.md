@@ -10,10 +10,10 @@ tags:
     - european
 ---
 
-# European mode (throttle on right stick)**
+# European mode (throttle on right stick)
 
 | *Channel 1* | *Channel 2* | *Channel 3* | *Channel 4* |
 |---|---|---|---|
-| **Aileron** | **Elevator** | **Throttle** | **Rudder** |
+| Aileron | Elevator | Throttle | Rudder |
 | Green | Blue | Multicolor | Yellow |
 | REV | REV | REV | NORMAL |

@@ -14,7 +14,7 @@ header:
 
 [Arducopter](http://www.arducopter.co.uk/) is an easy to use multirotor / helicopter UAV. Arducopter runs on the ArduPilot/Pixhawk autopilot. With GPS, this APM/pixhawk is a complete UAV solution that sets it apart from traditional multirotor which often only support remote control. The [Arducopter](http://www.arducopter.co.uk/) system features fully autonomous way-point based flight, with mission planning and real time telemetry via the powerful ground control station. The code is capable of controlling all of the major rotor wing airframes, including Traditional Helicopters, Tricopter(3/Y6), Quadrotor (X/+), Hexa(X/+), and Octa(X/+/V). All you need to do is change the firmware and some parameters on your ArduPilot Mega board.
 
-Note that [Arducopter](http://www.arducopter.co.uk/) software is **fairly mature** and has some great power features, but **is considered to be at the end of its life**, from a software viewpoint, future features are due to be on the [Pixhawk](https://pixhawk.org/) only.
+Note that [Arducopter](http://www.arducopter.co.uk/) software is fairly mature and has some great power features, but is considered to be at the end of its life, from a software viewpoint, future features are due to be on the [Pixhawk](https://pixhawk.org/) only.
 
 ## PixHawk
 
@@ -26,7 +26,7 @@ Some of the features of the Pixhawk are good for safety such as dual GPS, the EK
 
 ### [VRBRAIN](https://vrbrain.wordpress.com/)
 
-# VRBRAIN** autopilot system is a versatile UAV system based around the **VRBRAIN** multipurpose board loaded with a 32 bit version of [Arducopter firmware](http://copter.ardupilot.com/) and a ground station based on [Mission Planner](http://copter.ardupilot.com/wiki/common-install-mission-planner/) software. The autopilot controls the multicopter during flight using internal gyroscopes, accelerometers, and other electronic components. Flight missions are created using Mission Planner on your ground station and loaded onto the autopilot. Once the copter is placed in autonomous mode, the autopilot receives location data from the GPS module and executes the mission script. For safety, a radio control (RC) receiver is connected to the APM to allow for manual control using an RC transmitter.
+# VRBRAIN autopilot system is a versatile UAV system based around the VRBRAIN multipurpose board loaded with a 32 bit version of [Arducopter firmware](http://copter.ardupilot.com/) and a ground station based on [Mission Planner](http://copter.ardupilot.com/wiki/common-install-mission-planner/) software. The autopilot controls the multicopter during flight using internal gyroscopes, accelerometers, and other electronic components. Flight missions are created using Mission Planner on your ground station and loaded onto the autopilot. Once the copter is placed in autonomous mode, the autopilot receives location data from the GPS module and executes the mission script. For safety, a radio control (RC) receiver is connected to the APM to allow for manual control using an RC transmitter.
 
 APM, PX4 and Pixhawk are "open source" and "open hardware" and are supported by an international team of developers. Pixhawk and VRBrain development is ongoing and improvements and new capabilities are added very frequently.
 

@@ -14,7 +14,7 @@ tags:
 
 ![](/assets/images/2012/01/cedThumbnails.png)
 
-[CedThumbnails](http://www.waltercedric.com/index.php/joomlacms/1999-cedthumbnails-250-for-joomla-161725-available) has been updated to version 2.5.5 and contains 1 new features for both #Joomla 1.7 and #Joomla 2.5. For existing users the update will display in the **Extensions Manager** under **Updates**. If you do not have this currently installed, you can click the link below and install as normal via the Extensions Manager.
+[CedThumbnails](http://www.waltercedric.com/index.php/joomlacms/1999-cedthumbnails-250-for-joomla-161725-available) has been updated to version 2.5.5 and contains 1 new features for both #Joomla 1.7 and #Joomla 2.5. For existing users the update will display in the Extensions Manager under Updates. If you do not have this currently installed, you can click the link below and install as normal via the Extensions Manager.
 
 #### What’s new?
 

@@ -14,7 +14,7 @@ tags:
 
 [The Open Handset Alliance](http://www.openhandsetalliance.com), a group of more than 30 technology and mobile companies, developed Andro
 
-### **ANDROID is now OPEN SOURCE software**
+### ANDROID is now OPEN SOURCE software
 
 At <http://source.android.com/download> they describes how to set up your local work environment, how to use #GIT to get the Android files, and how to build the files on your machine. The source is approximately 2.1GB in size.
 
@@ -25,7 +25,7 @@ Try android emulator for FREE
 
 [![free.android.emulator](/assets/images/2008/10/free.android.emulator_thumb.png)](/assets/images/2008/10/free.android.emulator.png)
 
-# Important links:**
+# Important links:
 
 - [Android Developer Home Page](http://code.google.com/android/)
 - [Android Developer Documentation, including the Getting Started 

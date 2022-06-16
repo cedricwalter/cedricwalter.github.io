@@ -17,9 +17,9 @@ tags:
 With Mindmapping you can
 
 - Keep track of projects, including subtasks, state of subtasks and time recording, moving items as they evolve.
-- Project **workplace**, including links to necessary files, executables, source of information and of course information
-- Keeping a collection of small or middle sized **notes** with links on some area which expands as needed. Such a collection of notes is sometimes called **knowledge base**.
-- **Essay writing** and **brainstorming**, using colors to show which essays are open, completed, not yet started…
+- Project workplace, including links to necessary files, executables, source of information and of course information
+- Keeping a collection of small or middle sized notes with links on some area which expands as needed. Such a collection of notes is sometimes called knowledge base.
+- Essay writing and brainstorming, using colors to show which essays are open, completed, not yet started…
 - Wikipedia as an extensive article available here [http://en.wikipedia.org/wiki/Mind\_map](http://en.wikipedia.org/wiki/Mind_map)
 
 | [FreeMind](http://freemind.sourceforge.net/wiki/index.php/Main_Page) |  |

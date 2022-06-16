@@ -87,7 +87,7 @@ by [www.motorix.ch](http://www.motorix.ch/)
 - Idem attendez le hors serie conso de “Moto Magazine” avant d’acheter de l’equipement lourd (€€) et ne marchez pas au
   coup de coeur. Si vous acheter une moto, prevoyer des le départ un budget équipement et n’économiser pas dessus !
 - Dainese est cher et tendance, au crash test leur produits sont les meilleurs et de loin, regarder les comparatifs et
-  choississer en connaissance de cause. **Mieux vaut 1 cuir de qualité que 2 pour frimer**.
+  choississer en connaissance de cause. Mieux vaut 1 cuir de qualité que 2 pour frimer.
 - Cuir ou textile? pour résumer : cuir pour la route et la vitesse c’est ce qui offre la meilleure protection, textile
   pour la ville et les sorties basse vitesse (basse vitesse je veut dire législation francaise urbaine de vitesse 😉 )
 
@@ -135,11 +135,11 @@ by [www.motorix.ch](http://www.motorix.ch/)
 [![](images/Helico/gallery/tn_moiamoto.jpg)](images/Helico/gallery/moiamoto.jpg)
 
 
-| **Moteur**                              | 4 cylindres en ligne, 4 temps, à double ACT et 16 soupapes, refroidissement liquide                                                                                                                                                                                      |
+| Moteur                              | 4 cylindres en ligne, 4 temps, à double ACT et 16 soupapes, refroidissement liquide                                                                                                                                                                                      |
 |-----------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Alésage x Course**                    | 65 x 45,2 mm                                                                                                                                                                                                                                                             |
-| **Cylindrée**                           | 599 cm3                                                                                                                                                                                                                                                                  |
-| **Rapport volumétrique de compression** | 12 : 1                                                                                                                                                                                                                                                                   |
+| Alésage x Course                    | 65 x 45,2 mm                                                                                                                                                                                                                                                             |
+| Cylindrée                           | 599 cm3                                                                                                                                                                                                                                                                  |
+| Rapport volumétrique de compression | 12 : 1                                                                                                                                                                                                                                                                   |
 | **Alimentation**                        | 4 carburateurs à dépression, diam. 34 mm, type CV                                                                                                                                                                                                                        |
 | **Puissance maximale**                  | 95,3 ch CE (70 kW) à 12 000 tr/min (en fait 75ch et le moteur saute de 20ch apres 8000 tr/min) Vous en faites pas on atteint très très vite 8000 tr/min   (démoniaque dans les tours), 100km/h en 3.2 secondes…(une Ferrari), et dire qu’il existe encore plus puissant… |
 | **Couple maximal**                      | 64,6 N.m CE à 10 000 tr/min                                                                                                                                                                                                                                              |

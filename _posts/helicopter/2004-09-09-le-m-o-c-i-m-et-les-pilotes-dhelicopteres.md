@@ -24,8 +24,8 @@ tags:
 - 'RC helicopter'
 ---
 
-Il est recommandé si vous n’avez pas encore d’helicoptère *RC* (=Radio-Commandé) de venir vous renseigner au club **
-avant**, en effet nous pourrons vous conseiller sans interêts mercantile sur le meilleur matériel Ã acquérir. Néanmoins
+Il est recommandé si vous n’avez pas encore d’helicoptère *RC* (=Radio-Commandé) de venir vous renseigner au club 
+avant, en effet nous pourrons vous conseiller sans interêts mercantile sur le meilleur matériel Ã acquérir. Néanmoins
 il est chaudement recommandé de ne commencer que par un simulateur 1 bon mois à raison de 15 minutes par jour (example
 de simulateur [http://www.reflex-sim.de](http://www.reflex-sim.de/) (le meilleur regarder ici les screenshots de la
 futur version 2004 : [http://www.rcsim.de/sreenshots\_xtr.htm](http://www.rcsim.de/sreenshots_xtr.htm) )
@@ -41,8 +41,8 @@ samedi apres midi….(ce qui arrive malheureusement souvent) idem pour les comma
 C’est pour cela que nous recommandons l’une des machines suivantes et ce sans ordre de préférence car elles sont toutes
 les deux excellentes:
 
-- **Caliber 30 de Kyosho**
-- **Raptor 30 V2 de Thunder Tiger**
+- Caliber 30 de Kyosho
+- Raptor 30 V2 de Thunder Tiger
 
 Éventuellement vous pouvez acquérir un Raptor 50 voir un Raptor 60 mais nous vous le déconseillont car ces machines
 consomment 50% de carburant en plus (+55% pour un classe 50 et +70% pour un classe 60 à 3€ le litre de SyntoGlow 1%

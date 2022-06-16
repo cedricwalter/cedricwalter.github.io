@@ -26,10 +26,10 @@ I did integrate the [Flickr widget from RoyTanck.com](http://www.roytanck.com/) 
 
 ## What’s new
 
- **NEW**: version 1.6.0 is only for [Joomla!](http://www.joomla.org/) 1.6   
-# NEW**: This version use the #Joomla! build in update manager, just browse to the page **Extension Manager: Update** (at yoursite/administrator/index.php?option=com\_installer&amp;view=update) to fetch and update this extension with one click   
-# NEW:** Use #Joomla! templating best practices   
-# NEW:** Embeded documentation windows to [live wiki page for always up to date documentation](http://wiki.waltercedric.com/index.php?title=Photowidget)
+ NEW: version 1.6.0 is only for [Joomla!](http://www.joomla.org/) 1.6   
+# NEW: This version use the #Joomla! build in update manager, just browse to the page Extension Manager: Update (at yoursite/administrator/index.php?option=com\_installer&amp;view=update) to fetch and update this extension with one click   
+# NEW: Use #Joomla! templating best practices   
+# NEW: Embeded documentation windows to [live wiki page for always up to date documentation](http://wiki.waltercedric.com/index.php?title=Photowidget)
 
 ## Features
 

@@ -10,12 +10,12 @@ author: 'Cédric Walter'
 
 <div style="text-align: center;"><div id="outline">#  Sorry 404 – The page you were looking for could not be found
 
-<div id="errorboxoutline"><div id="errorboxbody">**You may not be able to visit this page because of:**
+<div id="errorboxoutline"><div id="errorboxbody">You may not be able to visit this page because of:
 
-- an **out-of-date bookmark/favourite**
-- a search engine that has an **out-of-date listing for this site**
-- a **mistyped address**
-- you have **no access** to this page
+- an out-of-date bookmark/favourite
+- a search engine that has an out-of-date listing for this site
+- a mistyped address
+- you have no access to this page
 - The requested resource was not found.
 - An error has occurred while processing your request.
 

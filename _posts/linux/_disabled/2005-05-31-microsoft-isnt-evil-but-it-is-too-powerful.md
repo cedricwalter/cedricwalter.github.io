@@ -13,7 +13,7 @@ tags:
 - microsoft
 ---
 
-*Microsoft isn’t evil. But it is too powerful, **and consumers are being harmed by it**. **They’re limiting the
+*Microsoft isn’t evil. But it is too powerful, and consumers are being harmed by it. They’re limiting the
 available software, and charging us more and more for it.   
 With less competition comes less real innovation and less genuine improvement. The only new ideas that get to market are
 those that serve Microsoft’s agenda. The real improvements that come along, do so much more slowly. That means less

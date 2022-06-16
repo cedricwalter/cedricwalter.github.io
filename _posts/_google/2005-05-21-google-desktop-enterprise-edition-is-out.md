@@ -26,7 +26,7 @@ tags:
 - It support web history of the most famous alternate web browser: [Firefox](www.mozilla.com/firefox)!
 - It can search on all drive, and be connect to the a [Google appliance server](http://www.google.com/enterprise/) (if Your company has put one in its intranet)
 - The data created by google desktop search on your disk are encrypted… (by which cipher this is unknow 🙁 )
-- It is reading a lot more enterprise files, like …. **Lotus Notes mail!** Yeah after 3 years of use, I can drop the catastrophical built in search of **Lotus Notes**!!! and   
+- It is reading a lot more enterprise files, like …. Lotus Notes mail! Yeah after 3 years of use, I can drop the catastrophical built in search of Lotus Notes!!! and   
     Outlook, Outlook Express, Netscape Mail, Mozilla Mail and Thunderbird for naming a few…
 - Native support of  PDF, MP3, image, audio and video files are also supported while You need to install [some plugins](http://desktop.google.com/plugins.html) in the [Google desktop public edition](http://desktop.google.com/).
 - [The premium support Costs](http://desktop.google.com/enterprise/premiumsupport.html) are described here.

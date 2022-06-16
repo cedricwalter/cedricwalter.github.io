@@ -23,11 +23,11 @@ This game console is part of my growing collection of vintage gaming system, so 
 
 # [![Sega Master System2](/assets/images/2010/09/SegaMasterSystem2_thumb.jpg "Sega Master System2")](/assets/images/2010/09/SegaMasterSystem2.jpg) Sega Master System 2   
 Model 3006-09   
-Bought** 2010.09.19   
-# Price paid:** 0.5€   
+Bought 2010.09.19   
+# Price paid: 0.5€   
 Game console + 1 broken pad
 
-> The **Sega Master System** (abbreviated to **SMS** or **Master System** Japanese マスターシステム (Masutā Shisutemu<sup>[?](http://en.wikipedia.org/wiki/Help:Installing_Japanese_character_sets)</sup>) is a third-generation 8-bit cartridge-based video game console that was manufactured and released by Sega in 1986 in North America, seven months after the original NES,<sup> </sup>and in 1987 in Europe. Its original Japanese incarnation was the “Sega Mark III”, which was first released in 1985. \[[Wikipedia](http://en.wikipedia.org/wiki/Sega_Master_System)\]
+> The Sega Master System (abbreviated to SMS or Master System Japanese マスターシステム (Masutā Shisutemu<sup>[?](http://en.wikipedia.org/wiki/Help:Installing_Japanese_character_sets)</sup>) is a third-generation 8-bit cartridge-based video game console that was manufactured and released by Sega in 1986 in North America, seven months after the original NES,<sup> </sup>and in 1987 in Europe. Its original Japanese incarnation was the “Sega Mark III”, which was first released in 1985. \[[Wikipedia](http://en.wikipedia.org/wiki/Sega_Master_System)\]
 
 ## [![IMG_3140](/assets/images/2010/09/IMG_3140_thumb_54ac8cca7678c2631a554066f4f0b6db.jpg "IMG_3140")](/assets/images/2010/09/IMG_3140_05867f639a73f5f08e52426db7271d99.jpg)[![IMG_3141](/assets/images/2010/09/IMG_3141_thumb.jpg "IMG_3141")](/assets/images/2010/09/IMG_3141.jpg)
 

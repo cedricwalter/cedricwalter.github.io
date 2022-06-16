@@ -38,7 +38,7 @@ Customized by EGLI ([www.egli-racing.ch](http://www.egli-racing.ch))
 | Rake (Caster Angle) | 31.0 in |
 | Fuel Capacity | 4.0 gal |
 | Fuel Economy\*\* | 27 mpg |
-| Wet Weight | 683 lb **(310 kg)** |
+| Wet Weight | 683 lb (310 kg) |
 
 [![](http://cedricwalter.smugmug.com/photos/478689257_Hurs7-S.jpg)](http://cedricwalter.smugmug.com/gallery/7421071_53xgf/1/478689283_YyE2X)
 

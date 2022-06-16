@@ -10,7 +10,7 @@ tags:
     - joomla
 ---
 
- **Joomla! 1.5 Beta is out, I will migrate my homepage to the latest version as soon as it is final, In the meantime, I am committed to support #Joomla! 1.5 for all my components and plugins.**
+ Joomla! 1.5 Beta is out, I will migrate my homepage to the latest version as soon as it is final, In the meantime, I am committed to support #Joomla! 1.5 for all my components and plugins.
 
  *Exactly one year ago, #Joomla! 1.0 was released. Today, #Joomla! releases the next generation framework built from the ground up. [Joomla! 1.5 beta](http://forge.joomla.org/sf/frs/do/viewRelease/projects.joomla/frs.joomla_1_1_x.1_5_0_beta "Joomla! 1.5 Beta") delivers more simplicity for the user and much more power for developers. The innovation and skill of our development team is clearly setting higher and higher standards.*
 

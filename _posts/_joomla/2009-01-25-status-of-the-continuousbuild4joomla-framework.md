@@ -28,7 +28,7 @@ tags:
 
 I put some effort the last few days in this new framework.
 
-# Done:**
+# Done:
 
 - I did document some part of it at <http://wiki.waltercedric.com/index.php?title=ContinuousBuildforJoomla>
 - TeamCity is installed/configured/documented (windows only)
@@ -44,14 +44,14 @@ Selenium test suite do not accept a baseurl (or only a part of it) so I have a f
 
 ## Architecture
 
-### **3rd Party**
+### 3rd Party
 
 - I use antelope for some advance ANT operations: substring, indexof, loop
 - I use selenium java server on port 4444 (default)
 
 ### Cluster
 
-All cluster operations are in **cluster.xml** these basic functions are
+All cluster operations are in cluster.xml these basic functions are
 
 - cluster.init
 - cluster.remove remove all instances of #Joomla! in checkout directory
@@ -66,7 +66,7 @@ All cluster operations are in **cluster.xml** these basic functions are
 
 ### Joomla!
 
-All #Joomla specific operations are in **joomla.library.xml**
+All #Joomla specific operations are in joomla.library.xml
 
 - Unpack a #Joomla! version
 - Remove the installation directory form a version
@@ -75,15 +75,15 @@ All #Joomla specific operations are in **joomla.library.xml**
 
 ### Selenium
 
-- All selenium operations are in **selenium.xml**
+- All selenium operations are in selenium.xml
 - All test suite and test cases are in /selenium/joomla/
 
 ### PHPUnit
 
-All PHPUnit operation are in **phpunit.xml**
+All PHPUnit operation are in phpunit.xml
 
 ### Settings
 
-Settings are in **setEnv.xml**, in future I will lazy load a file if it exist as environment variable
+Settings are in setEnv.xml, in future I will lazy load a file if it exist as environment variable
 
 If you know ANT, the code is quite readable…

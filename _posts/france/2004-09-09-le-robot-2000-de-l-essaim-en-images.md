@@ -16,7 +16,7 @@ Le Robot de l’ESSAIM (aujourd’hui appeleé [ENSISA](http://www.ensisa.uha.fr
 
 L’ESSAIM est créée par décret le 1<sup>er</sup> août 1990. L’Administrateur Provisoire de cette nouvelle Ecole est le Directeur de l’IRP : Monsieur Gérard METZGER.
 
-L’ENSISA est une école d’ingénieurs publique qui résulte de la fusion de l’ENSITM (Ecole Nationale Supérieure des industries Textiles de **Mulhouse**) et de l’**ESSAIM** (école supérieure des sciences appliquées pour l’ingénieur de **Mulhouse**). Elle a été créée en juillet 2006 .
+L’ENSISA est une école d’ingénieurs publique qui résulte de la fusion de l’ENSITM (Ecole Nationale Supérieure des industries Textiles de Mulhouse) et de l’ESSAIM (école supérieure des sciences appliquées pour l’ingénieur de Mulhouse). Elle a été créée en juillet 2006 .
 
 - [![](/assets/images/2020/04/robot-essaim-ensisa-coupe-robotique-2.jpg)](/assets/images/2020/04/robot-essaim-ensisa-coupe-robotique-2.jpg)
 - [![](/assets/images/2020/04/robot-essaim-ensisa-coupe-robotique-3.jpg)](/assets/images/2020/04/robot-essaim-ensisa-coupe-robotique-3.jpg)

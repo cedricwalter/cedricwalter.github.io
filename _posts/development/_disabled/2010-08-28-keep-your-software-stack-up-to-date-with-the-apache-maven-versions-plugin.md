@@ -58,7 +58,7 @@ in any [Apache #Maven](http://maven.apache.org/) project or modules, you’ll ge
 
 It is not always an easy task to update some core components or 3rd party libraries in a complex software, as it may introduce some regressions, incompatibilities..
 
-At least thanks to this Versions plug in, you are aware that they may be something newer to try. What this plug in do not report is **why** you may want to update some artifacts libraries:
+At least thanks to this Versions plug in, you are aware that they may be something newer to try. What this plug in do not report is why you may want to update some artifacts libraries:
 
 - Do I have to use the latest version x.y.z because of security issues?
 - Will i get more performances by updating to x.y.z?

@@ -31,7 +31,7 @@ tags:
 - Supported Flight Control System: F3,F4,F7
 - Operating Temperature Range: 32° to 104° F (0℃ ~40℃)Input Power: 7.4-26.4V
 
-## **DJI Camera Specifications**
+## DJI Camera Specifications
 
 - Sensor: 1/3.2” CMOS
 - Effective Pixels: 4M

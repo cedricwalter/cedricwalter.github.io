@@ -46,7 +46,7 @@ Click browse and select on disk c:\\Windows\\inf\\usbstor.inf
 
 ![image](/assets/images/2016/07/image_14.png "image")
 
-Click OK, Select **the** **second choice** in list: “USB Attached SCSI (UAS) Mass Storage Device” then button Next
+Click OK, Select the second choice in list: “USB Attached SCSI (UAS) Mass Storage Device” then button Next
 
 [![image](/assets/images/2016/07/image_thumb_5.png "image")](/assets/images/2016/07/image_16.png)
 

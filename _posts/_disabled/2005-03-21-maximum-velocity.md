@@ -11,7 +11,7 @@ tags:
 ---
 
 # *A compendium of the fastest things the world has to offer, and a celebration of the technological breakthroughs that
-feed the rush***
+feed the rush*
 
 *Both man and machine are approaching the future at an ever-accelerating clip. Almost every year, our vehicles break
 speed records. This past fall, the X-43A scramjet-powered aircraft reached a speed of nearly Mach 10, beating a record

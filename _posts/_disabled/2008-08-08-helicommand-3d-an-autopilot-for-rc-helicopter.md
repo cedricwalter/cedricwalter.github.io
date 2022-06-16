@@ -28,7 +28,7 @@ show that I can while so many can’t…
 
 Price: 550$ = 4 crash or just one big crash 😉
 
-| ****[![HeliCommand3D](/assets/images/2008/08/HeliCommand3D_thumb.jpg)](/assets/images/2008/08/HeliCommand3D.jpg)**** | <object classid="CLSID:22D6F312-B0F6-11D0-94AB-0080C74C7E95" codebase="http://activex.microsoft.com/activex/controls/mwmplayer/en/nsmp2inf.cab#Version=6,4,7,1112" height="360" id="WMPlay" standby="Loading Microsoft® Windows® Media Player components..." width="360"><embed autosize="0" autostart="0" bgcolor="white" height="360" loop="0" name="WMPlay" showcontrols="1" showdisplay="0" showstatusbar="1" showtracker="1" src="http://atvie-stream-01.maz24.com/robbevideo/1-8493.wmv" type="application/x-mplayer2" videoborder3d="0" width="360"></embed></object> |
+| [![HeliCommand3D](/assets/images/2008/08/HeliCommand3D_thumb.jpg)](/assets/images/2008/08/HeliCommand3D.jpg) | <object classid="CLSID:22D6F312-B0F6-11D0-94AB-0080C74C7E95" codebase="http://activex.microsoft.com/activex/controls/mwmplayer/en/nsmp2inf.cab#Version=6,4,7,1112" height="360" id="WMPlay" standby="Loading Microsoft® Windows® Media Player components..." width="360"><embed autosize="0" autostart="0" bgcolor="white" height="360" loop="0" name="WMPlay" showcontrols="1" showdisplay="0" showstatusbar="1" showtracker="1" src="http://atvie-stream-01.maz24.com/robbevideo/1-8493.wmv" type="application/x-mplayer2" videoborder3d="0" width="360"></embed></object> |
 |---|---|
 |  |  |
 

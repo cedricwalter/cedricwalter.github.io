@@ -17,7 +17,7 @@ tags:
 
  This small plugin add automatically to any article a set of social icons that let your reader increase your social ranking. It support: [Twitter](https://www.twitter.com/), [Facebook](https://www.facebook.com/), [Google +](https://plus.google.com/), [Google Buzz](http://www.google.com/buzz), [Digg](http://www.digg.com/), [Xing ](https://www.xing.com/)and [LinkedIn](https://www.linkedin.com/)
 
- SocialSharing For #Joomla! has been released at version **2.0.0** for #Joomla! 1.5 and for #Joomla! 1.7. It is running on this blog and at the various showcase site:
+ SocialSharing For #Joomla! has been released at version 2.0.0 for #Joomla! 1.5 and for #Joomla! 1.7. It is running on this blog and at the various showcase site:
 
 - [http://demo-joomla-1.7.waltercedric.com/](http://demo-joomla-1.7.waltercedric.com/ "http://demo-joomla-1.7.waltercedric.com/")
 - [http://demo-joomla-1.6.waltercedric.com/](http://demo-joomla-1.6.waltercedric.com/ "http://demo-joomla-1.6.waltercedric.com/")
@@ -25,19 +25,19 @@ tags:
 
  ![socialSharing.Joomla](/assets/images/2011/08/socialSharing.Joomla.png "socialSharing.Joomla")
 
- To update your extension, [Download](https://waltercedric.com/new/?p=2345) the latest copy, uninstall from **Extensions → Install / Uninstall → Plugin** and install with the fresh copy.
+ To update your extension, [Download](https://waltercedric.com/new/?p=2345) the latest copy, uninstall from Extensions → Install / Uninstall → Plugin and install with the fresh copy.
 
  Online documentation is available [in the wiki](http://wiki.waltercedric.com/index.php?title=SocialSharing)
 
 ##  Changelog
 
- **NEW**
+ NEW
 
 - Improved caching for more speed,
 - Add [Xing share button](http://www.xing.com), available in 16×16, 32×32 and 64×64 pixels,
-- Use the official **Facebook share button** and not anymore the third party provider fbshare.me for more security and better sharing options.
+- Use the official Facebook share button and not anymore the third party provider fbshare.me for more security and better sharing options.
 
- **BUGS**
+ BUGS
 
 - Remove a bug where the sectionid was accessed even while not being viewing an article,
 - One version number 2.0.0 for all version of #Joomla!

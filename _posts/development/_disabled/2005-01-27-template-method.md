@@ -17,7 +17,7 @@ Defines the skeleton of an algorithm in an operation, deferring some steps to su
 # Source Code
 
 ```
-/**  
+/  
 
 * This class defines abstract primitive operations  that concrete  
 
@@ -27,23 +27,23 @@ Defines the skeleton of an algorithm in an operation, deferring some steps to su
 
 *   
 
-* @role __TemplateContext  */  public abstract class Context {  /**   
+* @role __TemplateContext  */  public abstract class Context {  /   
 
 * Primitive operation.   
 
-*/  public abstract void doPrimitiveOperation();  /**   
+*/  public abstract void doPrimitiveOperation();  /   
 
 * Defines the skeleton of an algorithm. Calls primitive operations as well   
 
 * as operations defined in AbstractClass or those in other objects.   
 
-*/  public void templateMethod() {  // put your code here  doPrimitiveOperation();  // put your code here  } }  /**  
+*/  public void templateMethod() {  // put your code here  doPrimitiveOperation();  // put your code here  } }  /  
 
 * Implements the primitive operations to carry out subclass-specific steps of  
 
 * the algorithm.  
 
-*/  public class ConcreteClass extends Context {  /** 
+*/  public class ConcreteClass extends Context {  / 
 
 @see patterns.gof.templatemethod.Context#doPrimitiveOperation() 
 

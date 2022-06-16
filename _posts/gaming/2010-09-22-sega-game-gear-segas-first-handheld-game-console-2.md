@@ -21,11 +21,11 @@ This game console is part of my growing collection of vintage gaming system, so 
 
 [![sega.gamegear.5games](/assets/images/2010/09/sega.gamegear.5games_thumb.jpg "sega.gamegear.5games")](/assets/images/2010/09/sega.gamegear.5games.jpg)
 
-# Bought** 2010.09.19   
-# Price paid:** 10€   
+# Bought 2010.09.19   
+# Price paid: 10€   
 K xxxxxxx with box, without notices, 5 games
 
-The **Sega Game Gear** (ゲームギア *Gēmu Gia*<sup>?</sup>) was Sega’s first handheld game console. It was the third commercially available color handheld console, after the Atari Lynx and the Turbo Express.
+The Sega Game Gear (ゲームギア *Gēmu Gia*<sup>?</sup>) was Sega’s first handheld game console. It was the third commercially available color handheld console, after the Atari Lynx and the Turbo Express.
 
 Work began on the console in 1989 under the codename “Project Mercury”, following Sega’s policy at the time of codenaming their systems after planets. The system was released in Japan on October 6, 1990, North America, Europe and Brazil in1991,<sup>\[1\]</sup> and Australia in 1992. The launch price was $150 US and £145 UK.<sup> </sup>Sega dropped support for the Game Gear in early 1997.
 
@@ -38,7 +38,7 @@ Work began on the console in 1989 under the codename “Project Mercury”, foll
     - Australia 1992
 - Introductory price: US$150
 - Discontinued: 1997
-- Units sold : **11 million**
+- Units sold : 11 million
 - Successor: [Sega Nomad](http://en.wikipedia.org/wiki/Sega_Nomad)
 
 [![sega.gamegear.3games-front](/assets/images/2010/09/sega.gamegear.3gamesfront_thumb.jpg "sega.gamegear.3games-front")](/assets/images/2010/09/sega.gamegear.3gamesfront.jpg)[![sega.gamegear.3games-back](/assets/images/2010/09/sega.gamegear.3gamesback_thumb.jpg "sega.gamegear.3games-back")](/assets/images/2010/09/sega.gamegear.3gamesback.jpg)
@@ -68,21 +68,21 @@ and also with carton box, plastic box only
 
 ### Technical specifications
 
-- **Main processor:** Zilog Z80 (8-bit)
-- **Processor speed:** 3.58 MHz<sup>[\]](http://en.wikipedia.org/wiki/Sega_Game_Gear#cite_note-game_console-4)</sup> (same as NTSC dot clock)
-- **Resolution:** 160 x 144 pixels (same as Nintendo’s Game Boy)
-- **Colors available:** 4,096
-- **Colors on screen:** 32
-- **Maximum sprites:** 64
-- **Sprite size:** 8×8 or 8×16
-- **Screen size:** 3.2 inches (81 mm)
-- **Audio:** 3 square wave generators, 1 noise generator, the system has a mono speaker, but stereo sound can be had via headphone output
-- **RAM:** 8 KB
-- **Video RAM:** 16 KB
-- **Power:**
+- Main processor: Zilog Z80 (8-bit)
+- Processor speed: 3.58 MHz<sup>[\]](http://en.wikipedia.org/wiki/Sega_Game_Gear#cite_note-game_console-4)</sup> (same as NTSC dot clock)
+- Resolution: 160 x 144 pixels (same as Nintendo’s Game Boy)
+- Colors available: 4,096
+- Colors on screen: 32
+- Maximum sprites: 64
+- Sprite size: 8×8 or 8×16
+- Screen size: 3.2 inches (81 mm)
+- Audio: 3 square wave generators, 1 noise generator, the system has a mono speaker, but stereo sound can be had via headphone output
+- RAM: 8 KB
+- Video RAM: 16 KB
+- Power:
     - internal: 6 AA batteries
     - external: 9V DC, 300mA, 3W
-- **Physical:**
+- Physical:
     - Width: 209 mm
     - Height: 111 mm
     - Depth: 37 mm

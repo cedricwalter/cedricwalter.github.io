@@ -33,4 +33,4 @@ to take a long time to hack the system. That is sort of the ultimate in #Linux s
 it to reduce points of entry for people to issue privledged commands, and this is done by reducing features. And that
 means a decrease in usability."*
 
-# it is extreme 🙂**
+# it is extreme 🙂

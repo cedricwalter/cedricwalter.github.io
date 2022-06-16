@@ -12,12 +12,12 @@ tags:
 - myhobbies
 ---
 
-# **100 000V de ddp et plus**
+# 100 000V de ddp et plus
 
 | ![](electricity/img/plasma.jpg) | Les sphères Ã plasma sont des sphères en verre qui créent des étincelles filantes vers la face externe de la sphère et qui se concentrent sous vos doigts si on la touche. J’en possède une pour l’instant une de 16 cm et une de 35cm de diamètre. |
 |---|---|
 
-## **Comment Ã§a Marche ?**
+## Comment Ã§a Marche ?
 
 Le globe en verre contient typiquement un mélange de gaz inerte Ã pression réduite. La pression est en-dessous la
 pression atmosphérique pour favoriser les longues étincelles, permettre d’avoir un voltage moins important, éviter les
@@ -52,7 +52,7 @@ krypton favorise les fumerolles très lumineuses.
 Malheureusement, le xénon est aussi très cher et n’est utilisé que dans les sphères qui possèdent la pression interne la
 plus faible. La machine n’est pas dangeureuse mis a part sa relative fragilité (verre souflé)
 
-### **Couleurs et effets des différents Gazs:**
+### Couleurs et effets des différents Gazs:
 
 | Helium | Etincelles brillantes blanches-orangées-jaunes comme dans les lampes au sodium HP. Les couleurs sont variables selon la pression, dimension, courant, et dimension de la sphère. |
 |---|---|

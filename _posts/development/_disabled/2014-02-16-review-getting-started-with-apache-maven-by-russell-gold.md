@@ -49,49 +49,49 @@ The section six handles the release process and the work to do if you want to pu
 
 Overall these video are a really good introduction to [Apache Maven](<http://Apache Maven>) and its vocabulary.
 
-1. **Introduction** **\[18:29 minutes\]**
+1. Introduction \[18:29 minutes\]
     - Introduction to Apache Maven
     - Installing Apache Maven
     - Understanding the Maven Repository
     - Understanding the Maven Lifecycle
     - Understanding the Role of Plugins
-2. **Dependencies** **\[14:25 minutes\]**
+2. Dependencies \[14:25 minutes\]
     - Introducing Maven Dependencies
     - Controlling Maven Class paths
     - Maven and Transitive Dependencies
     - Managing Dependencies that All Projects Need – Part 1
     - Managing Dependencies that All Projects Need – Part 2
-3. **Plugins** **\[16:14 minutes\]**
+3. Plugins \[16:14 minutes\]
     - Introducing Maven Plugins
     - Adding Steps to a Maven Build
     - Code Generation
     - Managing Plugins with a Parent POM
     - Finding Available Plugins
-4. **Controlling the Build** **\[17:16 minutes\]**
+4. Controlling the Build \[17:16 minutes\]
     - Maven Build Properties
     - Maven Profiles
     - Profile Activation via Properties
     - Profile Activation via Environment
     - User Settings, Profiles and Repositories
-5. **The Project Website** **\[18:14 minutes\]**
+5. The Project Website \[18:14 minutes\]
     - The Basic Website and Reports
     - Using Report Plugins
     - Creating Custom Pages
     - FAQ (frequently asked question) Pages and Site Appearance
     - Deploying to a Web Server
-6. **The Maven Release Process** **\[18:40 minutes\]**
+6. The Maven Release Process \[18:40 minutes\]
     - Deploying to a Repository
     - Using Snapshots
     - Preparing for a Release
     - Releasing Maven Artifacts
     - Preparing for an Open Source Release
     - Publishing to Maven Central
-7. **Multi-module Projects** **\[12:42 minutes\]**
+7. Multi-module Projects \[12:42 minutes\]
     - Understanding the Multi-module Project
     - Incremental Building with Multiple Modules
     - Building a Website for a Multi-module project
     - Releasing the Multi-module Project
-8. **Maven Tricks and Patterns** **\[19:47 minutes\]**
+8. Maven Tricks and Patterns \[19:47 minutes\]
     - Invoking Ant from Maven
     - Accessing Maven Artifacts from Ant
     - Building a Simple Installer

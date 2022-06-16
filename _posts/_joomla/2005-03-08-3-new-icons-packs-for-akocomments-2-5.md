@@ -14,7 +14,7 @@ tags:
     - joomla
 ---
 
-# Attention**: I did not rename the inserted tag correctly (I mean there is no grammar across settings.php) that means that migration from one theme to the other can be difficult. If someone want to invest some time and identify each smileys in each pack and assign the good description in settings.php…. for example a smiling smyleys should have : – )
+# Attention: I did not rename the inserted tag correctly (I mean there is no grammar across settings.php) that means that migration from one theme to the other can be difficult. If someone want to invest some time and identify each smileys in each pack and assign the good description in settings.php…. for example a smiling smyleys should have : – )
 
 click more for pictures…..available in download section…enjoy!
 
@@ -23,7 +23,7 @@ click more for pictures…..available in download section…enjoy!
 
 ![](/assets/images/2005/03/Chrismeuze.gif)
 
-# Basic Smileys**
+# Basic Smileys
 
 🙂 Your basic smiley. This smiley is used to inflect a sarcastic or joking statement since we can’t hear voice inflection over e-mail.
 
@@ -39,7 +39,7 @@ click more for pictures…..available in download section…enjoy!
 
 >;-> Winky and devil combined. A very lewd remark was just made.
 
-# Widely used Smileys**
+# Widely used Smileys
 
 (-: User is left handed.
 
@@ -191,7 +191,7 @@ X-( User just died.
 
 -=\* 🙂 User is a TeX wizard.
 
-# Midget Smileys**
+# Midget Smileys
 
 A lot of these can be typed without noses to make midget smileys.
 

@@ -17,7 +17,7 @@ tags:
 I will one more time this year attend [JAZOON 09](http://jazoon.com/) in Zürich. So you’ll be able to meet me there
 
 Jazoon is an international industry conference on #Java technology in Zurich. It addresses software developers and architects, IT decision-makers and consultants throughout Europe and around the world. Jazoon gives #Java experts a platform in the heart of Europe where they share their ideas and experiences.   
-From **22 to 25 June 2009**, Zurich will be the meeting place for the international #Java community. By presenting a comprehensive conference program and creating a communicative atmosphere, Jazoon helps personal contacts grow and transcend technical, geographical and cultural boundaries. A supplementary program including an exhibition of solutions, tools and continuing education as well as career opportunities and various networking events ensure added benefits for every target group.
+From 22 to 25 June 2009, Zurich will be the meeting place for the international #Java community. By presenting a comprehensive conference program and creating a communicative atmosphere, Jazoon helps personal contacts grow and transcend technical, geographical and cultural boundaries. A supplementary program including an exhibition of solutions, tools and continuing education as well as career opportunities and various networking events ensure added benefits for every target group.
 
 Below you’ll find the conference list i will attend..
 

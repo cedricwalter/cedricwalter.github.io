@@ -12,10 +12,10 @@ header:
 
 All in all, there are 48 trophies (PS3 reward system) for Little Big Planet
 
-| [![littlebigplanet](/assets/images/2008/09/littlebigplanet_thumb.jpg)](/assets/images/2008/09/littlebigplanet.jpg) | **Platinum Trophy**  - Earn all LittleBigPlanet trophies to unlock this platinum trophy  **Gold Trophies**  - Play – Complete all story levels without dying, with the exception of those levels that only end when you die - Create – A level you published was hearted by 50 or more people and you were hearted by 30 or more people - Share – Play 150 community levels, tag 50 community levels and heart 10 community levels  **Silver Trophies**  - Just Beginning – Complete all the main path story levels - 20X Multiplier! – Get a 20X Multiplier - Hi Score – Collect 1,000,000 points over all levels you have played - Booty Master – Collect all the prize bubbles on the story levels - Dr Frankenstein – Create a living creature with at least 2 eyes, 2 legs or wheels, and a brain - Crowd Pleaser – A level you published was played by 50 or more people - Feel the Love – A level you published was hearted by 10 or more people - Celebrity – You were hearted by 5 or more people as a player |
+| [![littlebigplanet](/assets/images/2008/09/littlebigplanet_thumb.jpg)](/assets/images/2008/09/littlebigplanet.jpg) | Platinum Trophy  - Earn all LittleBigPlanet trophies to unlock this platinum trophy  Gold Trophies  - Play – Complete all story levels without dying, with the exception of those levels that only end when you die - Create – A level you published was hearted by 50 or more people and you were hearted by 30 or more people - Share – Play 150 community levels, tag 50 community levels and heart 10 community levels  Silver Trophies  - Just Beginning – Complete all the main path story levels - 20X Multiplier! – Get a 20X Multiplier - Hi Score – Collect 1,000,000 points over all levels you have played - Booty Master – Collect all the prize bubbles on the story levels - Dr Frankenstein – Create a living creature with at least 2 eyes, 2 legs or wheels, and a brain - Crowd Pleaser – A level you published was played by 50 or more people - Feel the Love – A level you published was hearted by 10 or more people - Celebrity – You were hearted by 5 or more people as a player |
 |---|---|
 
-# Bronze Trophies**
+# Bronze Trophies
 
 - The Gardens – Complete all levels in The Gardens
 - The Savannah – Complete all levels in The Savannah

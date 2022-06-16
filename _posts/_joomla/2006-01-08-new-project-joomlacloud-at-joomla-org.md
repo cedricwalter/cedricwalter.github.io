@@ -16,7 +16,7 @@ tags:
 
  I am proud to announce You that I’ve create a new project at #Joomla forge: joomlacloud (link soon here)
 
-A **tag cloud** (more traditionally known as a **weighted list** in the field of visual design) is a visual depiction of content tags used on a website. Often, more frequently used tags are depicted in a larger font or otherwise emphasized, while the displayed order is generally alphabetical. Thus both finding a tag by alphabet and by popularity is possible. Selecting a single tag within a tag cloud will generally lead to a collection of items that are associated with that tag. [from WikiPedia](http://en.wikipedia.org/wiki/Tag_cloud)
+A tag cloud (more traditionally known as a weighted list in the field of visual design) is a visual depiction of content tags used on a website. Often, more frequently used tags are depicted in a larger font or otherwise emphasized, while the displayed order is generally alphabetical. Thus both finding a tag by alphabet and by popularity is possible. Selecting a single tag within a tag cloud will generally lead to a collection of items that are associated with that tag. [from WikiPedia](http://en.wikipedia.org/wiki/Tag_cloud)
 
 Features:
 

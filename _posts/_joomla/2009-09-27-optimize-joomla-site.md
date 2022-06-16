@@ -19,7 +19,7 @@ Click read more to apply the same for your internet site.
 
 ## Use Joomla Module caching
 
-Not all 3rd party Joomla modules are using caching. This means that in worst case, some Joomla! modules may create way too much SQL queries. A way to reduce the load is to activate module caching. You’ll have to go through **all 3rd party modules** and check that they have in their administrator panel a setting to enable/disable cache.
+Not all 3rd party Joomla modules are using caching. This means that in worst case, some Joomla! modules may create way too much SQL queries. A way to reduce the load is to activate module caching. You’ll have to go through all 3rd party modules and check that they have in their administrator panel a setting to enable/disable cache.
 
 ![jooomla.enable.caching](/assets/images/2009/09/jooomla.enable.caching.png "jooomla.enable.caching")
 
@@ -29,7 +29,7 @@ For every module without cache, open the xml file at /modules/mod\_xxxxxxx/mod\_
 
 Note that if <params> .. </params> do not exist, just add it like below
 
-Visit or reload the admin panel of that module and set the **Enable Cache** to **Yes.** Click Save/Apply at least once.
+Visit or reload the admin panel of that module and set the Enable Cache to Yes. Click Save/Apply at least once.
 
 Now the output of this module will be saved in /cache and only refresh when global Joomla cache timeout (900 seconds as default). Consider also contacting the author of the module so he can patch his code.
 

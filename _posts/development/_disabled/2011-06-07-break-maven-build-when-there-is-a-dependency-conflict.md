@@ -78,6 +78,6 @@ and
 +-org.slf4j:slf4j-api:1.6.0
 ```
 
-You can use the standard dependencies management to enforce the version of **org.slf4j** you are coding/expecting.
+You can use the standard dependencies management to enforce the version of org.slf4j you are coding/expecting.
 
 In the same category, you can enforce dependencies in another way: force some dependencies to be never use thanks to the rule: [bannedDependencies](http://maven.apache.org/enforcer/enforcer-rules/bannedDependencies.html) – enforces that excluded dependencies aren’t included. And if you’re are still not satisfied, you can [even write your own rules](http://maven.apache.org/enforcer/enforcer-api/writing-a-custom-rule.html)!

@@ -40,5 +40,5 @@ If you have bought one, you may be interested in
 - For Fun: [Installing iPad Wi-Fi Battery Replacement](http://www.ifixit.com/
 - My favorite sport: Jailbreaking! you can use [Spirit](http://spiritjb.com/) now
 
-> Spirit is an **untethered** jailbreak for **iPad, iPhone, and iPod touch** on the latest firmwares   
-> Any **iPad, iPhone, or iPod touch** on firmware **3.1.2, 3.1.3, or 3.2**.
+> Spirit is an untethered jailbreak for iPad, iPhone, and iPod touch on the latest firmwares   
+> Any iPad, iPhone, or iPod touch on firmware 3.1.2, 3.1.3, or 3.2.

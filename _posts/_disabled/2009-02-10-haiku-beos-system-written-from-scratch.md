@@ -15,7 +15,7 @@ header:
 
  Remember me my time with [BEOS DanO](http://en.wikipedia.org/wiki/Dano_(BeOS)), in 2001 when I was still booting my dual Celeron 450 MHz. Haiku project can be visited at <http://www.haiku-os.org/>
 
-| [![bebox_large](/assets/images/2009/02/bebox_large_thumb.jpg)](/assets/images/2009/02/bebox_large.jpg)    **A dual 133MHz PowerPC 603 BeBox** | I was looking on ebay.com in 1998 for a BeBOX but did never found one available except with horrible price tag (1000€ or more) |
+| [![bebox_large](/assets/images/2009/02/bebox_large_thumb.jpg)](/assets/images/2009/02/bebox_large.jpg)    A dual 133MHz PowerPC 603 BeBox | I was looking on ebay.com in 1998 for a BeBOX but did never found one available except with horrible price tag (1000€ or more) |
 |---|---|
 
 Great Work [HAIKU team](http://www.haiku-os.org/about/teams)!

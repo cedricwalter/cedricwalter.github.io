@@ -12,7 +12,7 @@ tags:
 ---
 
 # Status: in development  
-Developers: 5**
+Developers: 5
 
 | homepage | [www.freenas.org](http://www.freenas.org/) |
 |---|---|

@@ -35,7 +35,7 @@ Now that the server is running, you can connect without any password
 
 \# mysql –user=root mysql  
  Enter password:   
-mysql> update user set Password=PASSWORD(‘**newpassword**‘) WHERE User=’root’;   
+mysql> update user set Password=PASSWORD(‘newpassword‘) WHERE User=’root’;   
  Query OK, 2 rows affected (0.04 sec)   
  Rows matched: 2 Changed: 2 Warnings: 0   
 mysql> flush privileges;   
@@ -54,7 +54,7 @@ hit CTRL\_C to kill the process and start normally MySQL
 
 You should now be able to connect to your server using the password
 
-\# mysql –user=root –pass **newpassword**   
+\# mysql –user=root –pass newpassword   
  Enter password:
 
 ## Reset the MySQL root password
@@ -63,7 +63,7 @@ If you’ve got access to the root account already, because you know the passwor
 
 \# mysql –user=root –pass mysqlpassword   
  Enter password:   
-mysql> update user set Password=PASSWORD(‘**newpassword**‘) WHERE User=’root’;   
+mysql> update user set Password=PASSWORD(‘newpassword‘) WHERE User=’root’;   
  Query OK, 2 rows affected (0.04 sec)   
  Rows matched: 2 Changed: 2 Warnings: 0   
 mysql> flush privileges;   

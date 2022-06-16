@@ -16,7 +16,7 @@ free software!   (a commecial version exist with more possibility for
 $39 [HERE](http://www.xzeos.net/site_xnview_uk/index))
 
 - Windows 3.x, Windows 9x/NT/2000/ME/XP, MacOS X       
-**Linux x86**, Linux ppc, FreeBSD x86, OpenBSD x86, NetBSD x86
+Linux x86, Linux ppc, FreeBSD x86, OpenBSD x86, NetBSD x86
   Irix mips, Solaris sparc, Solaris x86, HP-UX,AIX !!! - Import about 400 graphic file formats - Export about 50 graphic
   file formats - Multipage TIFF, Animated GIF, Animated ICO support - IPTC, EXIF - Resize, Copy/Cut/Crop - TWAIN
   support (Windows only) - Print support (Windows only) - Drag &amp; Drop support (Windows only) - 44 languages

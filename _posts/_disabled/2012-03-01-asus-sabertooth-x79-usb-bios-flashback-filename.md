@@ -14,11 +14,11 @@ header:
 
 Latest BIOS can be downloaded from ASUS Service Site ([ASUSTeK Computer Inc.](http://www.asus.com/))
 
-The trick for the [Asus SABERTOOTH X79](http://www.asus.com/Motherboards/Intel_Socket_2011/SABERTOOTH_X79/) is **to name the file correctly**! the support of Asus did not understand my question and was not able to answer under which filename you have to save the bios, hence this small post.
+The trick for the [Asus SABERTOOTH X79](http://www.asus.com/Motherboards/Intel_Socket_2011/SABERTOOTH_X79/) is to name the file correctly! the support of Asus did not understand my question and was not able to answer under which filename you have to save the bios, hence this small post.
 
 When you’ll download the latest bios version from ASUS Service Site ([ASUSTeK Computer Inc.](http://www.asus.com/)), you’ll end up with a file name like this one: SABERTOOTH-X79-ASUS-0906.ROM for example
 
-# Rename the file to SABERX79.ROM** before copying it on the USB disk or it wont be recognized by the bios flashback function.
+# Rename the file to SABERX79.ROM before copying it on the USB disk or it wont be recognized by the bios flashback function.
 
 How did I find this? brute forcing the file name by trying something like 25 filename and having luck : ridiculous.
 

@@ -1,11 +1,8 @@
 ---
 
-title: 'Welcome to Switzerland'
+title: 'Via Secura'
 date: '2012-12-17T15:28:15+01:00'
 author: 'Cédric Walter'
-
-
-
 tags:
 - switzerland
 ---
@@ -22,18 +19,18 @@ tags:
 [http://www.news.admin.ch/message/index.html?lang=it&amp;msg-id=46713](http://www.news.admin.ch/message/index.html?lang=it&msg-id=46713 "http://www.news.admin.ch/message/index.html?lang=it&msg-id=46713")
 
 Il y a délit de chauffard lorsque la vitesse prescrite est dépassée de :   
-  • 40 km/h dans une zone 30   
-  • 50 km/h en localité (50 km/h)   
-  • 60 km/h hors des localités (80 km/h)   
-  • 80 km/h sur les autoroutes (120 km/h)
+• 40 km/h dans une zone 30   
+• 50 km/h en localité (50 km/h)   
+• 60 km/h hors des localités (80 km/h)   
+• 80 km/h sur les autoroutes (120 km/h)
 
-En cas de délit de chauffard, **le permis de conduire est retiré pour au moins deux ans**. **Il est retiré
-définitivement pour les récidivistes**. Une restitution exceptionnelle après 10 ans n’est possible que si une expertise
+En cas de délit de chauffard, le permis de conduire est retiré pour au moins deux ans. Il est retiré
+définitivement pour les récidivistes. Une restitution exceptionnelle après 10 ans n’est possible que si une expertise
 psychologique favorable a été délivrée. Par ailleurs, les peines appliquées en cas de délit de chauffard deviennent plus
 sévères. Désormais, la peine privative de liberté est d’un an au minimum et de 4 ans au maximum.
 
-# Confiscation et réalisation de véhicules automobiles**
+# Confiscation et réalisation de véhicules automobiles
 
-En cas d’infraction grave aux règles de la circulation routière, par exemple un excès de vitesse important, **le
-véhicule peut être confisqué et réalisé**, pour autant que cette mesure permette d’empêcher le contrevenant de commettre
+En cas d’infraction grave aux règles de la circulation routière, par exemple un excès de vitesse important, le
+véhicule peut être confisqué et réalisé, pour autant que cette mesure permette d’empêcher le contrevenant de commettre
 d’autres délits.

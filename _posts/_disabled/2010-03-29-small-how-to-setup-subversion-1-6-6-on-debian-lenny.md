@@ -16,7 +16,7 @@ tags:
 
 ![debian_logo](/assets/images/2010/03/debian_logo_3.png "debian_logo") ![subversion_logo](/assets/images/2010/03/subversion_logo_3.png "subversion_logo")
 
-> **[Subversion](http://subversion.tigris.org/)** (**SVN**) is an open source version control system. It allows users to keep track of changes made over time to any type of electronic data. Typical uses are versioning source code, web pages or design documents.
+> [Subversion](http://subversion.tigris.org/) (SVN) is an open source version control system. It allows users to keep track of changes made over time to any type of electronic data. Typical uses are versioning source code, web pages or design documents.
 
 Installing the latest [Subversion](http://subversion.tigris.org/) (svn) version 1.6.6 is a bit more difficult than just running apt-get install subversion, as the latest stable version in [Debian](http://www.debian.org/) Lenny is considered to be SVN 1.5.1 not Subversion 1.6.6
 

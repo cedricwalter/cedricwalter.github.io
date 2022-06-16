@@ -32,7 +32,7 @@ tags:
 - Most of the time, the problems [come from the configuration of the server…](http://waltercedric.com/wiki/index.php?title=Com_securityimages_a_captcha_framework#Known_Issues) libraries are missing in PHP, security settings, file user rights …
 - I do a lot of software bugs like other developers, while I still do not accept it, it is a reality I can’t change…but I always try to do my best and I will correct issues as fast as possible
 
- If you still do not get my components working, or found help **in a reasonable delay**, send me: URL, login and password for your administrator panel, so I can check if everything is right (I need to be super admin to install remove my components!)
+ If you still do not get my components working, or found help in a reasonable delay, send me: URL, login and password for your administrator panel, so I can check if everything is right (I need to be super admin to install remove my components!)
 
 | <span style="color: rgb(255, 255, 255); font-weight: bold;">Best friend | Official Homepage | Official download |
 |---|---|---|

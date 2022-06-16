@@ -18,7 +18,7 @@ I win [15455 positions](http://www.waltercedric.com/search/tags/statistics.html)
 
 ##### [Visit Alexa](http://www.alexa.com/siteinfo/waltercedric.com)
 
-# Top Downloads**
+# Top Downloads
 
 - [![file icon](components/com_docman/themes/mjaztools_blogtheme/images/icons/16x16/generic.png)com\_securityimages 4.3.3 (43800)](http://www.waltercedric.com/component/docman/cat_view/290-joomla/291-securityimages.html)
 - [![file icon](components/com_docman/themes/mjaztools_blogtheme/images/icons/16x16/generic.png)SecurityImages 5.1.1 for #Joomla! 1.5 (41066)](http://www.waltercedric.com/component/docman/cat_view/333-joomla15/334-securityimages.html)
@@ -26,7 +26,7 @@ I win [15455 positions](http://www.waltercedric.com/search/tags/statistics.html)
 - [![file icon](components/com_docman/themes/mjaztools_blogtheme/images/icons/16x16/generic.png)JoomlaPatches for #Joomla 1.0.15 for SecurityImages 4.x only (7876)](http://www.waltercedric.com/component/docman/cat_view/290-joomla/291-securityimages.html)
 - [![file icon](components/com_docman/themes/mjaztools_blogtheme/images/icons/16x16/generic.png)component Hashcash 1.2.2 (7263)](http://www.waltercedric.com/component/docman/cat_view/290-joomla/292-hashcash.html)
 
-# Upstream Sites**
+# Upstream Sites
 
 Percent of total visits to waltercedric.com preceded by a visit to the upstream site.
 

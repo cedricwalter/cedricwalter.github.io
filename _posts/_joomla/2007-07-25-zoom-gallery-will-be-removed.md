@@ -21,7 +21,7 @@ In the few coming days…main reason is the lack of project visibility and numbe
 
  I choose [Gallery2](http://gallery.menalto.com/) , for the number of developer, install base and healthy patch release management. There is a bridge if you want to integrate it into #Joomla!
 
-[Gallery2](http://gallery.menalto.com/) the open source web based **photo album organizer**. Gallery gives you an intuitive way to blend photo management seamlessly into your own website whether you’re running a small personal site or a large community site. 
+[Gallery2](http://gallery.menalto.com/) the open source web based photo album organizer. Gallery gives you an intuitive way to blend photo management seamlessly into your own website whether you’re running a small personal site or a large community site. 
 
  I choose the theme [Ajaxian](http://codex.gallery2.org/Gallery2:Themes:ajaxian):
 

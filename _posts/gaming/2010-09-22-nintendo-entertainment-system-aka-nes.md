@@ -23,10 +23,10 @@ This game console is part of my growing collection of vintage gaming system, so 
 
 [![Nintendo.Entertainment.System.NES](/assets/images/2010/09/Nintendo.Entertainment.System.NES_thumb.jpg "Nintendo.Entertainment.System.NES")](/assets/images/2010/09/Nintendo.Entertainment.System.NES_.jpg)
 
- **Bought** 2010.09.19   
-# Price paid:** 20€ for 2 NES, cables, power, 1 Zapper Gun, 4 games
+ Bought 2010.09.19   
+# Price paid: 20€ for 2 NES, cables, power, 1 Zapper Gun, 4 games
 
-The **Nintendo Entertainment System** (abbreviated to **NES** or **Nintendo**) is an 8-bit video game console that was released by Nintendo in North America, Europe and Australia in 1985. In most of Asia, including Japan (where it was first launched in1983), China, Vietnam, Singapore, Middle East and Hong Kong, it was released as the **Family Computer** (ファミリーコンピュータ *Famirī Konpyūta*<sup>[?](http://en.wikipedia.org/wiki/Help:Installing_Japanese_character_sets)</sup>), commonly abbreviated as the Famicom. \[[Wikipedia](http://en.wikipedia.org/wiki/Nintendo_Entertainment_System)\]
+The Nintendo Entertainment System (abbreviated to NES or Nintendo) is an 8-bit video game console that was released by Nintendo in North America, Europe and Australia in 1985. In most of Asia, including Japan (where it was first launched in1983), China, Vietnam, Singapore, Middle East and Hong Kong, it was released as the Family Computer (ファミリーコンピュータ *Famirī Konpyūta*<sup>[?](http://en.wikipedia.org/wiki/Help:Installing_Japanese_character_sets)</sup>), commonly abbreviated as the Famicom. \[[Wikipedia](http://en.wikipedia.org/wiki/Nintendo_Entertainment_System)\]
 
 ### The NES Zapper
 

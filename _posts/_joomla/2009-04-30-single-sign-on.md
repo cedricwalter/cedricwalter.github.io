@@ -29,7 +29,7 @@ Each of the above domains/sub domains has its own registration and login process
 
 Basically One solution would be likely to use [OpenID](http://openid.net/)
 
-> **OpenID** is an open, decentralized standard for user authentication and access control, allowing users to log onto many services with the same digital identity. As such, it replaces the common login process that uses a login-name and a password, by allowing a user to log in once and gain access to the resources of multiple software systems. \[[WikiPedia](http://en.wikipedia.org/wiki/Openid)\]<sup>[](http://en.wikipedia.org/wiki/Openid#cite_note-eeldon-0)</sup>
+> OpenID is an open, decentralized standard for user authentication and access control, allowing users to log onto many services with the same digital identity. As such, it replaces the common login process that uses a login-name and a password, by allowing a user to log in once and gain access to the resources of multiple software systems. \[[WikiPedia](http://en.wikipedia.org/wiki/Openid)\]<sup>[](http://en.wikipedia.org/wiki/Openid#cite_note-eeldon-0)</sup>
 
 ## Advantages
 

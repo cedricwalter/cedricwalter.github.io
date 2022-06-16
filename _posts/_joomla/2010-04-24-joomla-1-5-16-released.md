@@ -18,7 +18,7 @@ tags:
 
 *IMPORTANT NOTE: There is a problem in the upgrade packages for version 1.5.16. Until this can be fixed, please upgrade using the full package file above. You can follow the same instructions as for the upgrade packages. Just use the full file instead of the version file. They will correct this situation as soon as possible.*
 
-# Statistics for the 1.5.16 release period:**
+# Statistics for the 1.5.16 release period:
 
 - Joomla 1.5.16 contains: 
     - 48 issues fixed in SVN

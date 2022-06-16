@@ -31,7 +31,7 @@ tags:
 ### Notes
 
 - A Docker image is a lightweight, stand-alone, executable package of a piece of software that includes everything needed to run it: code, runtime, system tools, system libraries, settings. Available for both #Linux and #Windows based apps, containerized software will always run the same, regardless of the environment. #Containers isolate software from its surroundings, for example differences between development and staging environments and help reduce conflicts between teams running different software on the same infrastructure.
-- A container is a runtime instance of an image—what the image becomes in memory when actually executed. It runs completely isolated from the host environment by default, only accessing host files and ports if configured to do so. **\#Container are stateless and should be considered read only! (you can go inside the container change data, but at container creation your changes are lost)**
+- A container is a runtime instance of an image—what the image becomes in memory when actually executed. It runs completely isolated from the host environment by default, only accessing host files and ports if configured to do so. \#Container are stateless and should be considered read only! (you can go inside the container change data, but at container creation your changes are lost)
 - Both MYSQL (Data, users) and WordPress (plugins, themes, uploads) are stateful, so we have to use #Docker volume to persist data across container restart.
 - expose: 3306 will let you connect later with MySQLWorbench to the port from outside of the container. it is optional.
 - depends\_on tell #wordpress to wait till mysql db container is up

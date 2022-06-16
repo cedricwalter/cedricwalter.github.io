@@ -23,8 +23,8 @@ Throttle Hold) par 2 pour avoir la valeur du décalage en degrées. (par ex.. pa
 Diff = 4 deg, tout doit être centrés à +2 degrées d’offset pour donner une plage de +10Â° -10Â° de déplacement autour du
 centre) Noter que tous les hélicoptère ont une plage de pas qui dépasse 20 degrées. Dans ce cas si vous alignez tout vos
 réglages sur le pas nécessaires au décollage (par ex. +5 deg.) le pas maximum sera forcément limité par la puissance du
-moteur, par le système d’échappement et le type de pales. **Votre mélange va certainement varier, vous devez comprendre
-et assumer tous les risques que vous encourez a suivre ce setup**.
+moteur, par le système d’échappement et le type de pales. Votre mélange va certainement varier, vous devez comprendre
+et assumer tous les risques que vous encourez a suivre ce setup.
 
 \_\_\_\_\_ Choisir un nouveau modèle.  
 \_\_\_\_\_ Choisir un modéle et un type de commande de plateau cyclique de type héli 1 (Commande de pas collectif
@@ -54,17 +54,17 @@ pas (min max) et le cyclique latérale et longitudinale.
 \_\_\_\_ Attacher la jauge de mesure de pas sur une pale. Vérifier en fixant le pas à 0 ° que lors de la rotation du
 rotor, ce pas soit conservé et lisible sur la jauge (vérifier à 12h, 3h, 6h, et 9h).
 
-**Réglages préliminaires de la courbe de gazs en vol normal**  
+Réglages préliminaires de la courbe de gazs en vol normal  
 \_\_\_\_ Laisser la courbe de gazs de 0% à 100%, et utiliser l’ATV de la voie de gazs pour obtenir respectivement les
 positions : boisseau ouvert à fond et complétement fermé.  
 Manche à mi course, les gazs doivent être à 50% pour les trims de gazs à 50%(par ex. 0% / 25% / 50% / 75% / 100%)
 Utiliser l’ATV pour complétement fermé le boisseau si le trim est minimum.
 
-**Réglages préliminaires de la courbe de gazs en mode idle-up 1 (si besoin est)**  
+Réglages préliminaires de la courbe de gazs en mode idle-up 1 (si besoin est)  
 \_\_\_\_\_ Gazs à mi-manche et au-dessus % devrait être identique au mode normal de vol normal. En dessous, pour des
 valeurs de gazs inférieurs, on devrait avoir des valeurs supérieures. (par ex. 40% / 25% / 50% / 75% / 100%)
 
-**Réglages préliminaires de la courbe de gazs en mode idle-up 2 (si besoin est)**  
+Réglages préliminaires de la courbe de gazs en mode idle-up 2 (si besoin est)**  
 \_\_\_\_\_ Ceci est réalisé avec un pas à 0 ° à mi manche et This is set up with 0 deg pitch at half stick and hover
 points at 1/4 and 3/4 stick. Hover throttle % should be the same as hover % in Idle-Up 1 and Normal. (i.e. 100% / 50% /
 40% / 50% / 100%)  

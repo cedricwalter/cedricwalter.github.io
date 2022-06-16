@@ -42,7 +42,7 @@ I always have 2 projects prepared:
 - One TestSimpleProject: one #Maven project with no code
 - One TestComplexProject: one #maven project and 2 #Maven sub modules
 
-For the reader that can not wait here is the running command line from TeamCity to be put in **Build Runner Goals**
+For the reader that can not wait here is the running command line from TeamCity to be put in Build Runner Goals
 
 release:clean release:prepare release:perform -Dusername=xxxxxxx -Dpassword=yyyyyy
 
@@ -103,7 +103,7 @@ Sometimes an issue if you craft some certificate yourself, You need to import ce
 
 > \# svn co <https://svn.xxxxxx.com/svn/yyyyyy/skye>
 
-at least once and accepting permanently the certificate (break the command afterward) Do this **with the same** UNIX user under which the agent run or you’ll always get this error:
+at least once and accepting permanently the certificate (break the command afterward) Do this with the same UNIX user under which the agent run or you’ll always get this error:
 
 ```
 [11:52:11]: [ERROR] BUILD FAILURE 
@@ -126,9 +126,9 @@ at least once and accepting permanently the certificate (break the command after
 You can not use in <scm> tag this kind of URL’s https://user:passwd@svn.xxxxxxx.com like in the example below:
 
 > <scm>   
-> <connection>scm:svn:https://username:password@svn.xxxxx.com/svn/yyyyy/skye/trunk/**skye**</connection>   
-> <developerConnection>scm:svn:https://username:password@svn.xxxx.com/svn/yyyyy/skye/trunk/**skye**</developerConnection>   
-> <url>scm:svn:https://username:password@svn.xxxx.com/svn/yyyyy/skye/trunk/**skye**</url>   
+> <connection>scm:svn:https://username:password@svn.xxxxx.com/svn/yyyyy/skye/trunk/skye</connection>   
+> <developerConnection>scm:svn:https://username:password@svn.xxxx.com/svn/yyyyy/skye/trunk/skye</developerConnection>   
+> <url>scm:svn:https://username:password@svn.xxxx.com/svn/yyyyy/skye/trunk/skye</url>   
 > </scm>
 
 Even if the documentation state otherwise, as the [maven-release-plugin](http://maven.apache.org/plugins/maven-release-plugin/) go “crazy” by concatenating wrongly the tagging URL.

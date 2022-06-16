@@ -17,14 +17,14 @@ tags:
 
 Â
 
-# Conclusions**
+# Conclusions
 
 # PC1: true Xp2800+ (not Barton) on Nforce2 Asus A7N8X deluxe – 1024Mb  
-PC2: true XP1700+@2350MHz on Nforce2 Asus A7N8X deluxe -512 Mb**
+PC2: true XP1700+@2350MHz on Nforce2 Asus A7N8X deluxe -512 Mb
 
 click here to hear my system running on <[1 Fan](images/pc/)> <[2 Fans](images/pc/)> <[No Fan](images/pc/)>
 
-# Rating**
+# Rating
 
 - A must for ears, so quiet and so easy to install ![](/assets/images/2004/08/smileLol.gif) (only if you reduce voltage of fans from 12V to 5V as on PC2).
 - I recommend you a middle or big tower to install everything inside (as on PC1)

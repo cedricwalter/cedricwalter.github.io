@@ -1,34 +1,31 @@
 ---
 
-title: 'choix de l&#8217;électronique'
+title: 'RC helicopter FAQ'
 date: '2004-09-01T23:39:52+02:00'
 author: 'Cédric Walter'
-
-
-
 tags:
-
 - 'Astuces (fr)'
 - 'RC helicopter'
-
 ---
 
 ## Sécurité
-- N’ayer jamais personne derrière vous : en cas d’imprévu vous risqueriez de trébucher et la….gag.
-- Ne jamais avoir moins de 15 mètres entre vous et l’hélico! si une pièces s’éjecte du rotor (a plus de 450km/h) ou que
+- N’ayez jamais personne derrière vous : en cas d’imprévu vous risqueriez de trébucher et la….gag.
+- Ne jamais avoir moins de 15 mètres entre vous et l’hélicoptère ! si une pièces s’éjecte du rotor (a plus de 450km/h) ou que
   vous crasher, vous risquez vous ou des spectateurs de prendre un débris.
 - Un écrou frein pour être efficace doit avoir au moins 3 filets au dela de la bague plastique. Ceci n’est pas le cas
-  des pales de l’anticouple du raptor -> a changer. Changer l’ecrou frein tous les 4-5 démontage et vérifier si la bague
+  des pales de l’anti-couple du raptor -> à changer. Changer l’écrou frein tous les 4-5 démontage et vérifier si la bague
   plastique est toujours efficace.
-- Voler Ã deux helicopteres c’est pas bien… ou avec des avions autour… essayer d’avoir un camarade pres de vous qui
-  surveille la scène au cas ou…
-- Voler seul dans un champ c’est cool, mais vous ferez quoi en cas d’accident ????
-- Ayer une trousse de premier secours sur vous, le strict minimum : gazes et bandes, + de quoi faire un garrot….et un
+- Voler À deux hélicoptères, ce n'est pas bien… ou avec des avions autour… essayer d’avoir un camarade pres de vous qui
+  surveille la scène au cas où…
+- Voler seul dans un champ, c'est cool, mais vous ferez quoi en cas d’accident ????
+- Ayez une trousse de premier secours sur vous, le strict minimum : gazes et bandes, + de quoi faire un garrot….et un
   portable, un copain pourra vous porter secours ainsi plus facilement.
-- Sur votre caisse de modélisme ou malette radio, coller un papier donnant :  
-  | – Votre groupe sanguin complet (type et rhésus), – Nom, adresse, numero de téléphone des personnes Ã contacter, –
-  Hopital de prédilection (public ou privé de votre région)    – Numéro de securité sociale. – allergies ou
-  instructions. |
+- Sur votre caisse de modélisme ou mallette radio, coller un papier donnant :  
+    – Votre groupe sanguin complet (type et rhésus), 
+    – Nom, adresse, numéro de téléphone des personnes à contacter, 
+    - Hospital de prédilection (public ou privé de votre région)    
+    - Numéro de sécurité sociale. 
+    - Allergies ou instructions.
 - Vous ne mettriez jamais la main sous votre tondeuse Ã gazon en marche, non ???? ben regarder votre hélicoptere : c’est
   comme une méga tondeuse sans carter de protection des lames ! alors quand le rotor tourne, on s’éloigne !
 - Penser a TOUT MOMENTS que : une interfèrence, une chape/rotule ou un servo qui lÃ¢che ou se bloque et l’hélico peut se
@@ -486,7 +483,7 @@ Un hélico taille 30 fonctionne en 24 ou 30 accus, ce qui fait deja un investiss
   envoyant 1000 A ou plus en impulsionnel ds chaque accus). Les fabriquants ne garantissent pas la fiabilité !
 - Pas de nimh sur un helico 24 elts, pas d’applicaion ou plus de 20A sont demandés (peut Ãªtre dans le futur)
 - Préférer des NiCad plus rustique mais plus tolérant face aux erreurs et brutalité que vous leur ferez subir. Si possible des RC2000 ou RC2400
-- Accus **SANYO** :
+- Accus SANYO :
 
 - type “R” Accus pour charge rapide, adapté aux fort    courants de decharge et de charge.AR,SCR, RC.
 - type “E” Capacité supérieure, meilleur rapport capacité    poids. AE, SCE

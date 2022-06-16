@@ -17,8 +17,8 @@ tags:
     - php
 ---
 
-Maven for PHP uses the power of #Maven for building, reporting on and creating documentations of PHP projects. It adapts the #Maven build lifecycle to the PHP world while fully supporting PHP 4 and PHP 5. PHP for #Maven uses [**PHPUnit** ](http://www.phpunit.de/)for unit testing and [**doxygen** ](http://www.stack.nl/%7Edimitri/doxygen/)for creating the api documentation.   
-Use a **PHP library project** to create a library that can be used by other PHP libraries or PHP web projects. Use a **PHP web project** to create a standalone web project.
+Maven for PHP uses the power of #Maven for building, reporting on and creating documentations of PHP projects. It adapts the #Maven build lifecycle to the PHP world while fully supporting PHP 4 and PHP 5. PHP for #Maven uses [PHPUnit ](http://www.phpunit.de/)for unit testing and [doxygen ](http://www.stack.nl/%7Edimitri/doxygen/)for creating the api documentation.   
+Use a PHP library project to create a library that can be used by other PHP libraries or PHP web projects. Use a PHP web project to create a standalone web project.
 
 So I quickly describe what I did install on my root server (OpenSuse 11.X)
 
@@ -53,11 +53,11 @@ Since I would like to avoid having a version number in my configuration build pa
 # ln -s apache-maven-2.1.0 maven
 ```
 
-I just now tell [TeamCity](http://www.jetbrains.com/teamcity/) to use my own Maven version, by specifying the **Maven Home Path**
+I just now tell [TeamCity](http://www.jetbrains.com/teamcity/) to use my own Maven version, by specifying the Maven Home Path
 
 ## phpDocumentor
 
-> **[phpDocumentor](http://www.phpdoc.org/)** is an open source documentation generator written in PHP. It automatically parses PHP source code and produces readable API and source code documentation in a variety of formats. [phpDocumentor](http://www.phpdoc.org/) generates documentation based on PHPDoc-formatted comments and the structure of the source code itself. It supports documentation of both object-oriented and procedural code. [phpDocumentor](http://www.phpdoc.org/) can create documentation in HTML, PDF, CHM or Docbook formats.
+> [phpDocumentor](http://www.phpdoc.org/) is an open source documentation generator written in PHP. It automatically parses PHP source code and produces readable API and source code documentation in a variety of formats. [phpDocumentor](http://www.phpdoc.org/) generates documentation based on PHPDoc-formatted comments and the structure of the source code itself. It supports documentation of both object-oriented and procedural code. [phpDocumentor](http://www.phpdoc.org/) can create documentation in HTML, PDF, CHM or Docbook formats.
 
 Can be installed using PEAR, simply run
 
@@ -71,7 +71,7 @@ upgrade ok: channel://pear.php.net/PhpDocumentor-1.4.2
 
 ## PHPUnit
 
-> **[PHPUnit](http://www.phpunit.de/)** is a unit testing framework for the PHP programming language. Created by Sebastian Bergmann, [PHPUnit](http://www.phpunit.de/) is one of the xUnit family of frameworks that originated with Kent Beck’s SUnit.
+> [PHPUnit](http://www.phpunit.de/) is a unit testing framework for the PHP programming language. Created by Sebastian Bergmann, [PHPUnit](http://www.phpunit.de/) is one of the xUnit family of frameworks that originated with Kent Beck’s SUnit.
 
 Can be installed using PEAR, simply run
 
@@ -81,9 +81,9 @@ Can be installed using PEAR, simply run
 
 ## DOxygen
 
-> **Doxygen** is a documentation generator for C++, C, Java, Objective-C, Python, IDL (Corba and Microsoft flavors), Fortran, VHDL, PHP, C#, and to some extent D. It runs on most Unix-like systems, including Mac OS X, as well as on Windows. The first version of Doxygen borrowed some code of an old version of DOC++; later, the Doxygen code was rewritten by Dimitri van Heesch. from <cite>[www.**doxygen**.org](http://www.doxygen.org)</cite>
+> Doxygen is a documentation generator for C++, C, Java, Objective-C, Python, IDL (Corba and Microsoft flavors), Fortran, VHDL, PHP, C#, and to some extent D. It runs on most Unix-like systems, including Mac OS X, as well as on Windows. The first version of Doxygen borrowed some code of an old version of DOC++; later, the Doxygen code was rewritten by Dimitri van Heesch. from <cite>[www.doxygen.org](http://www.doxygen.org)</cite>
 > 
-> <cite>[www.**doxygen**.org](http://www.doxygen.org)</cite>
+> <cite>[www.doxygen.org](http://www.doxygen.org)</cite>
 
 ```
 # zypper se doxy 
@@ -169,7 +169,7 @@ content
 </settings>
 ```
 
-Attention: [Artifactory](http://www.jfrog.org/index.php) WIKI tell to use <http://maven.waltercedric.com/artifactory/plugins-releases> and not [http://maven.waltercedric.com/artifactory/plugins-releases](http://maven.waltercedric.com/artifactory/plugins-releases/)[**/**](http://maven.waltercedric.com/artifactory/plugins-releases/) on my HOST with mod\_proxy it made an error 404 If I do not add a slash at the end. Try with your host before, you will gain a lot of time by checking if the URL is valid!
+Attention: [Artifactory](http://www.jfrog.org/index.php) WIKI tell to use <http://maven.waltercedric.com/artifactory/plugins-releases> and not [http://maven.waltercedric.com/artifactory/plugins-releases](http://maven.waltercedric.com/artifactory/plugins-releases/)[/](http://maven.waltercedric.com/artifactory/plugins-releases/) on my HOST with mod\_proxy it made an error 404 If I do not add a slash at the end. Try with your host before, you will gain a lot of time by checking if the URL is valid!
 
 Note that [http://url:port/artifactory/repo/](http://urlport) is a virtual repositories that proxy all external repositories
 

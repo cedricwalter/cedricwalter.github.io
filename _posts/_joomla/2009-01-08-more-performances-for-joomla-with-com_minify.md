@@ -19,7 +19,7 @@ it *Combines, minifies, and caches #JavaScript and CSS files on demand to speed 
 > 
 > *One way to reduce the number of components in the page is to simplify the page’s design. But is there a way to build pages with richer content while also achieving fast response times? Here are some techniques for reducing the number of HTTP requests, while still supporting rich page designs.*
 > 
-> ***Combined files** are a way to reduce the number of HTTP requests by combining all scripts into a single script, and similarly combining all CSS into a single style sheet. Combining files is more challenging when the scripts and style sheets vary from page to page, but making this part of your release process improves response times.*
+> *Combined files are a way to reduce the number of HTTP requests by combining all scripts into a single script, and similarly combining all CSS into a single style sheet. Combining files is more challenging when the scripts and style sheets vary from page to page, but making this part of your release process improves response times.*
 
 I was developing this week end this component (name com\_combine) but decide it would be better to use a proven engine, and I found one:   
 <http://code.google.com/p/minify/>

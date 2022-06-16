@@ -12,7 +12,7 @@ tags:
     - maven
 ---
 
-Depending on your project requirements/number of customers, you may have to support different target environment. This article will help you to make your #Maven build a bit more portable in that sense. [Maven](http://maven.apache.org/) can help you avoiding having stage dependent data across all your [Maven](http://maven.apache.org/) projects/ modules very easily thanks to **[resources filtering](http://maven.apache.org/plugins/maven-resources-plugin/examples/filter.html)**.
+Depending on your project requirements/number of customers, you may have to support different target environment. This article will help you to make your #Maven build a bit more portable in that sense. [Maven](http://maven.apache.org/) can help you avoiding having stage dependent data across all your [Maven](http://maven.apache.org/) projects/ modules very easily thanks to [resources filtering](http://maven.apache.org/plugins/maven-resources-plugin/examples/filter.html).
 
 Let’s imagine you want to build your software against many different runtime stack:
 
@@ -71,8 +71,8 @@ Notes
         <includes>
             <include>*.properties</include>
             <include>*.xml</include>
-            <include>**/*.xml</include>
-            <include>**/*.properties</include>
+            <include>/*.xml</include>
+            <include>/*.properties</include>
         </includes>
     </resource>
     <resource>
@@ -81,8 +81,8 @@ Notes
         <excludes>
             <exclude>*.properties</exclude>
             <exclude>*.xml</exclude>
-            <exclude>**/*.xml</exclude>
-            <exclude>**/*.properties</exclude>
+            <exclude>/*.xml</exclude>
+            <exclude>/*.properties</exclude>
         </excludes>
     </resource>
     <resource>
@@ -91,8 +91,8 @@ Notes
         <includes>
             <include>*.properties</include>
             <include>*.xml</include>
-            <include>**/*.xml</include>
-            <include>**/*.properties</include>
+            <include>/*.xml</include>
+            <include>/*.properties</include>
         </includes>
     </resource>
     <resource>
@@ -101,8 +101,8 @@ Notes
         <excludes>
             <exclude>*.properties</exclude>
             <exclude>*.xml</exclude>
-            <exclude>**/*.xml</exclude>
-            <exclude>**/*.properties</exclude>
+            <exclude>/*.xml</exclude>
+            <exclude>/*.properties</exclude>
         </excludes>
     </resource>
 </resources>
@@ -113,8 +113,8 @@ Notes
     <includes>
         <include>*.properties</include>
         <include>*.xml</include>
-        <include>**/*.xml</include>
-        <include>**/*.properties</include>
+        <include>/*.xml</include>
+        <include>/*.properties</include>
     </includes>
 </testResource>
 <testResource>
@@ -123,8 +123,8 @@ Notes
     <excludes>
         <exclude>*.properties</exclude>
         <exclude>*.xml</exclude>
-        <exclude>**/*.xml</exclude>
-        <exclude>**/*.properties</exclude>
+        <exclude>/*.xml</exclude>
+        <exclude>/*.properties</exclude>
     </excludes>
 </testResource>
 </testResources>
@@ -154,7 +154,7 @@ Note here that in order to be able to build against different target runtime, I 
 
 Definition and motivation of using profiles
 
-> *Maven 2.0 goes to great lengths to ensure that builds are portable. Among other things, this means allowing build configuration inside the POM, avoiding **all** file system references (in inheritance, dependencies, and other places), and leaning much more heavily on the local repository to store the metadata needed to make this possible.*
+> *Maven 2.0 goes to great lengths to ensure that builds are portable. Among other things, this means allowing build configuration inside the POM, avoiding all file system references (in inheritance, dependencies, and other places), and leaning much more heavily on the local repository to store the metadata needed to make this possible.*
 > 
 > *However, sometimes portability is not entirely possible. Under certain conditions, plugin may need to be configured with local file system paths. Under other circumstances, a slightly different dependency set will be required, and the project’s artifact name may need to be adjusted slightly. And at still other times, you may even need to include a whole plugin in the build lifecycle depending on the detected build environment.*
 > 

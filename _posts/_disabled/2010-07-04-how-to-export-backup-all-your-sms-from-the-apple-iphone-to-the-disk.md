@@ -21,7 +21,7 @@ shh to your iphone, using [WINSCP](http://winscp.net/eng/index.php) for example
 
 [![iphone.export.sms.00](/assets/images/2010/07/iphone.export.sms_.00_thumb.jpg "iphone.export.sms.00")](http://www.waltercedric.com/images/stories/iphone.export.sms.00.jpg)
 
-Use login **root**, default password is **alpine** (but you should have change it to something else for better security a long time ago)
+Use login root, default password is alpine (but you should have change it to something else for better security a long time ago)
 
 Go to the directory /private/var/mobile/Library/SMS
 
@@ -39,7 +39,7 @@ Download SQL lite browser at <http://sqlitebrowser.sourceforge.net/>
 > - Browse, edit, add and delete records
 > - Search records
 > - Import and export records as text
-> - **Import and export tables from/to CSV files**
+> - Import and export tables from/to CSV files
 > - Import and export databases from/to SQL dump files
 > - Issue SQL queries and inspect the results
 > - Examine a log of all SQL commands issued by the application

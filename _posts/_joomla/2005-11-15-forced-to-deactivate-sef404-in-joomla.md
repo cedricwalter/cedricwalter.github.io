@@ -13,11 +13,11 @@ tags:
 
 One more time my Site is creating too much load on mysql server, and this probably because of SEF404.
 
-*(**SEF**) Allows Search Engine Friendly URLS for apache and IIS, returns proper 404 status code for missing content, provides logging of 404 errors, and creation of special "shortcut" URLs that allow the user to redirection to the new URL.*
+*(SEF) Allows Search Engine Friendly URLS for apache and IIS, returns proper 404 status code for missing content, provides logging of 404 errors, and creation of special "shortcut" URLs that allow the user to redirection to the new URL.*
 
 My ranking will probably go down for a while, since in 2 weeks my url are constantly changing on my homepage. In between I have installed [OpenSEF](http://opensef.org/)
 
-# *OpenSEF** is an open source advanced SEF component for #Joomla!/Mambo/OSM which enables automatic and manual text-based search engine friendly URLs for core and 3rd-party components. One goal of the OpenSEF project is to create relationships with many 3rd-party component developers to ensure that OpenSEF works immediately and flawlessly with all components.*
+# *OpenSEF is an open source advanced SEF component for #Joomla!/Mambo/OSM which enables automatic and manual text-based search engine friendly URLs for core and 3rd-party components. One goal of the OpenSEF project is to create relationships with many 3rd-party component developers to ensure that OpenSEF works immediately and flawlessly with all components.*
 
 I’ve patched #Joomla kernel to display some interesting information in one log file on server: because #Joomla normaly output only sql statement in user browser.
 
@@ -37,7 +37,7 @@ defined( '_VALID_MOS' );
 
 
 
-/** a small hack to display all  queries executed by joomla per page 
+/ a small hack to display all  queries executed by joomla per page 
 
  * @authors Walter Cedric
 
@@ -102,7 +102,7 @@ if ($mosConfig_debug) {
 
 ```
 
-# <font style="BACKGROUND-COLOR: rgb(255,255,0)">2. open index.php and replace**
+# <font style="BACKGROUND-COLOR: rgb(255,255,0)">2. open index.php and replace
 
 ```
 // displays queries performed for page
@@ -122,7 +122,7 @@ if ($mosConfig_debug) {
 }
 ```
 
-# <font style="BACKGROUND-COLOR: rgb(255,255,0)">by**
+# <font style="BACKGROUND-COLOR: rgb(255,255,0)">by
 
 ```
 //add by <a>www.waltercedric.com</a>
@@ -132,17 +132,17 @@ include($mosConfig_absolute_path.'/logger.php');
 
 ```
 
-# <font style="BACKGROUND-COLOR: rgb(255,255,0)">3. Open /includes/database.php and replace line 261 what’s in bold**global $mosConfig\_debug;  
+# <font style="BACKGROUND-COLOR: rgb(255,255,0)">3. Open /includes/database.php and replace line 261 what’s in boldglobal $mosConfig\_debug;  
  if ($this->\_limit > 0 || $this->\_offset > 0) {  
  $this->\_sql .= "\\nLIMIT $this->\_offset, $this->\_limit";  
  }  
  $this->\_errorNum = 0;  
  $this->\_errorMsg = ”;  
- **if ($this->\_debug) {  
+ if ($this->\_debug) {  
  $this->\_ticker++;  
  $this->\_log\[\] = $this->\_sql;  
  }   
- $this->\_cursor = mysql\_query( $this->\_sql, $this->\_resource );****<font style="BACKGROUND-COLOR: rgb(255,255,0)">by:**
+ $this->\_cursor = mysql\_query( $this->\_sql, $this->\_resource );<font style="BACKGROUND-COLOR: rgb(255,255,0)">by:
 
 ```
 //add by waltercedric.com
@@ -168,7 +168,7 @@ include($mosConfig_absolute_path.'/logger.php');
 
 ```
 
-<font style="BACKGROUND-COLOR: rgb(255,255,0)">**4. Create a file**   
+<font style="BACKGROUND-COLOR: rgb(255,255,0)">4. Create a file   
 sqllogs.txt under Joomla root and chmod to 666
 
 ```

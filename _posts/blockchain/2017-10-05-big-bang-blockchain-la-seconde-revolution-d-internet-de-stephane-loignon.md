@@ -26,7 +26,7 @@ universitaires, députés…). Avec enthousiasme, esprit critique et pédagogie,
 blockchain, explique ses enjeux, évalue son potentiel et expose toutes les applications existantes et futures. Une
 révolution qui nous concerne tous.
 
-**Trés bonne introduction á la technologie du blockchain**, sans rentrer dans trop de détails techniques. Stéphane
+Trés bonne introduction á la technologie du blockchain, sans rentrer dans trop de détails techniques. Stéphane
 Loignon commence par nous amener dans un voyage vers le future pour nous présenter à quoi pourrait ressembler un monde
 post-blockchain, par la suite il retrace l’histoire et l’origine de cette technologie révolutionaire . Le livre ensuite
 dévelope le potentiel et les impacts de la blockchain vu par des startups, états, banques et dans des domaines variés:

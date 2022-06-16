@@ -39,19 +39,19 @@ This virtual appliance may be used by multi purpose operations, such as source c
 
 From <http://linux.waltercedric.com/>
 
-- **VM Information**
-    - **CPU’s :** 1
-    - **Memory :** 1G
-    - **Disk :** 20G
-- **Authentication Credentials**
-    - **Username :** user
-    - **Password :** user1234
+- VM Information
+    - CPU’s : 1
+    - Memory : 1G
+    - Disk : 20G
+- Authentication Credentials
+    - Username : user
+    - Password : user1234
 
-# Root password is not set!**
+# Root password is not set!
 
 Some operating systems does not enable root password by default in order to protect the system files. In these systems, user may gain root access by using “sudo” command, with determining his/her own password.
 
-# Example :** with this command, user will be able of restarting the system.
+# Example : with this command, user will be able of restarting the system.
 
 ```
 sudo init 1 user

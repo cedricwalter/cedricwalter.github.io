@@ -28,7 +28,7 @@ Here the device with a little transparent plastic sheet on it to help the user b
 
 You can find vintage Telecran on Ebay for as low as 14 to 20 euros
 
-# Links**
+# Links
 
 - [http://fr.wikipedia.org/wiki/%C3%89cran\_magique](http://fr.wikipedia.org/wiki/%C3%89cran_magique)
 - [http://en.wikipedia.org/wiki/Etch\_A\_Sketch](http://en.wikipedia.org/wiki/Etch_A_Sketch)

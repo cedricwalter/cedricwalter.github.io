@@ -41,11 +41,11 @@ sharing mechanisms. A weather based parametric micro insurance using Ethereum wa
 
 ![](/assets/images/2019/07/BlockByte-won-Trust-Square-biggest-blockchain-Hackathon-SBHACK19.jpg)](
 /assets/images/2019/07/BlockByte-won-Trust-Square-biggest-blockchain-Hackathon-SBHACK19.jpg)<figcaption>BlockByte
-team: **[Aleksandr Kopnin](https://www.linkedin.com/in/kopnin/)
+team: [Aleksandr Kopnin](https://www.linkedin.com/in/kopnin/)
 – [Cédric Walter](https://www.linkedin.com/in/cedricwalter/)
 – [Michael Sladoje](https://www.linkedin.com/in/ACoAAAjVY8wBnH8xAfsNGlaTf0emVPNOxbCDETg/?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BteT6qrH%2FTZyh6rEn9j1PiA%3D%3D)
 – [Mike Schälchli](https://www.linkedin.com/in/ACoAAB6EAfYBbrxTSgOh801_aiIRxegHLxaw0w8/?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BteT6qrH%2FTZyh6rEn9j1PiA%3D%3D)
-– [Silke Humbert](https://www.linkedin.com/in/ACoAAAyD49EBQ1HRqOw234hHiebbfYtdJJhr8yg/?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BteT6qrH%2FTZyh6rEn9j1PiA%3D%3D)**
+– [Silke Humbert](https://www.linkedin.com/in/ACoAAAyD49EBQ1HRqOw234hHiebbfYtdJJhr8yg/?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BteT6qrH%2FTZyh6rEn9j1PiA%3D%3D)
 ![](/assets/images/2022/02/IMG_3724.jpg)Our code is hosted at <https://github.com/blockbyte-sbhack19> and you can watch
 all other submissions here <http://jury.sbhack.ch/>
 

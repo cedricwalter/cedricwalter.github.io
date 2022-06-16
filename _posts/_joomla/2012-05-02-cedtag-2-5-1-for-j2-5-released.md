@@ -16,7 +16,7 @@ tags:
 
 CedTag has been updated to version 2.5.1 and correct a lot of bugs and contains some nice features.
 
-CedTag is the continuation of the GPL component #Joomla Tags ([www.joomlatags.org](http://www.joomlatags.org)), **Most of the code** has been rewritten according to the new standard of #Joomla 2.5, the component has been greatly extended and most bugs have been removed. I will continue removing, refactoring existing codebase, in order to be able to add new features faster.
+CedTag is the continuation of the GPL component #Joomla Tags ([www.joomlatags.org](http://www.joomlatags.org)), Most of the code has been rewritten according to the new standard of #Joomla 2.5, the component has been greatly extended and most bugs have been removed. I will continue removing, refactoring existing codebase, in order to be able to add new features faster.
 
 CedTag is used on this site with more than 5000 tags in 2200 articles.
 
@@ -56,7 +56,7 @@ More than 501 fonts can be used, 15 are proposed as default.
 
 ### New import function
 
-# Import from Joomla Tags** of Phil Taylor (extensions discontinued working only for Joomla 1.5)
+# Import from Joomla Tags of Phil Taylor (extensions discontinued working only for Joomla 1.5)
 
 ### New Export functions
 

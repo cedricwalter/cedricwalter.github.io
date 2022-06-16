@@ -24,10 +24,10 @@ tags:
  Since I never buy anything without analysing carefully all specs, I came across this page from Rob Galbraith
 
  *<span class="data">[ The CF/SD Performance Database](http://www.robgalbraith.com/bins/multi_page.asp?cid=6007) is a regularly-updated compilation of write and read speed test results designed to aid the serious and professional photographer in selecting camera storage media for a Canon or Nikon digital SLR.  
- <span class="data">**Write speed test results for each of the digital SLR models actively being tested, as well as card-to-computer transfer rates, can be accessed from the popup menu above.***
+ <span class="data">Write speed test results for each of the digital SLR models actively being tested, as well as card-to-computer transfer rates, can be accessed from the popup menu above.*
 
  So If you ask yourself if a Sandisk Ultra 2, III or IV is worth the money, you’re at the right place!
 
  Attention a LOT of fake card are circulating on ebay!!!! read this for not bein f… [Fake Sandisk Card on ebay](http://members.shaw.ca/fakesandisk/)
 
- or [****FAKE Sony Memory Stick Pro Duo MagicGate Cards Exposed****](http://reviews.ebay.ca/FAKE-Sony-Memory-Stick-Pro-Duo-MagicGate-Cards-Exposed_W0QQugidZ10000000001236041)
+ or [FAKE Sony Memory Stick Pro Duo MagicGate Cards Exposed](http://reviews.ebay.ca/FAKE-Sony-Memory-Stick-Pro-Duo-MagicGate-Cards-Exposed_W0QQugidZ10000000001236041)

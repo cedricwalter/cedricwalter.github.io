@@ -32,7 +32,7 @@ Edit APT sources list
 
 The original Sun Java 2 is available in the ‘non-free’ section of the [Debian](http://www.debian.org/) repositories. To enable this section first add the non-free repository to the apt sources file – the /etc/apt/sources.list should look like, – important parts are in bold:
 
-> deb <http://ftp.ch.debian.org/debian/> lenny main **non-free** deb-src <http://ftp.ch.debian.org/debian/> lenny main **non-free** deb <http://security.debian.org> lenny/updates main
+> deb <http://ftp.ch.debian.org/debian/> lenny main non-free deb-src <http://ftp.ch.debian.org/debian/> lenny main non-free deb <http://security.debian.org> lenny/updates main
 
 Update the list of sources
 

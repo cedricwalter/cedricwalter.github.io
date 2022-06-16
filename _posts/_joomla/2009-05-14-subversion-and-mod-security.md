@@ -41,7 +41,7 @@ This is where I discover that most of my issues were related to [mod security.](
 
 from /var/log/apache2/svn.waltercedric.com-error\_log, I saw the rule
 
-[Thu May 14 12:37:40 2009\] \[error\] \[client 81.49.237.230\] ModSecurity: Access denied with code 501 (phase 2). Match of "rx (?:^(?:application\\\\\\\\/x-www-form-urlencoded(?:;(?:\\\\\\\\s?charset\\\\\\\\s?=\\\\\\\\s?\[\\\\\\\\w\\\\\\\\d\\\\\\\\-\]{1,18})?)??$|multipart/form-data;)|text/xml)" against "REQUEST\_HEADERS:Content-Type" required. \[file "/etc/apache2/conf.d/rules/modsecurity\_crs\_30\_http\_policy.conf"\] \[line "69"\] \[id "**960010**"\] \[msg "Request content type is not allowed by policy"\] \[severity "WARNING"\] \[tag "POLICY/ENCODING\_NOT\_ALLOWED"\] \[hostname "svn.waltercedric.com"\] \[uri "/joomla/!svn/wrk/0fe0b23e-2101-0010-9594-fd4f2e3d467d/trunk/joomla16/pom.xml"\] \[unique\_id "6tr1nFXWZtMAABlaPS0AAAAF"\]
+[Thu May 14 12:37:40 2009\] \[error\] \[client 81.49.237.230\] ModSecurity: Access denied with code 501 (phase 2). Match of "rx (?:^(?:application\\\\\\\\/x-www-form-urlencoded(?:;(?:\\\\\\\\s?charset\\\\\\\\s?=\\\\\\\\s?\[\\\\\\\\w\\\\\\\\d\\\\\\\\-\]{1,18})?)??$|multipart/form-data;)|text/xml)" against "REQUEST\_HEADERS:Content-Type" required. \[file "/etc/apache2/conf.d/rules/modsecurity\_crs\_30\_http\_policy.conf"\] \[line "69"\] \[id "960010"\] \[msg "Request content type is not allowed by policy"\] \[severity "WARNING"\] \[tag "POLICY/ENCODING\_NOT\_ALLOWED"\] \[hostname "svn.waltercedric.com"\] \[uri "/joomla/!svn/wrk/0fe0b23e-2101-0010-9594-fd4f2e3d467d/trunk/joomla16/pom.xml"\] \[unique\_id "6tr1nFXWZtMAABlaPS0AAAAF"\]
 
 in /srv/www/vhosts/waltercedric.com/subdomains/svn/conf/vhost.conf add the following section, to switch off the rule specifically
 
@@ -49,7 +49,7 @@ in /srv/www/vhosts/waltercedric.com/subdomains/svn/conf/vhost.conf add the follo
 > 
 > <Directory /srv/www/vhosts/waltercedric.com/subdomains/svn/httpdocs>   
 > \# SecRuleEngine Off <- dont switch off mod security totally, way too unsecure   
-> SecRuleRemoveByID **960010**   
+> SecRuleRemoveByID 960010   
 > </Directory> 
 > 
 > </IfModule>
@@ -74,7 +74,7 @@ This solution will allow HTTP requests to contains any of the above keyword. Thi
 > 
 > <Directory /srv/www/vhosts/waltercedric.com/subdomains/svn/httpdocs>   
 > \# SecRuleEngine Off <- dont switch off mod security totally, way too unsecure   
-> SecRuleRemoveByID **960010**
+> SecRuleRemoveByID 960010
 > 
 >  SecRule REQUEST\_METHOD "^(PROPFIND|PROPPATCH)$" allow   
 > SecRule REQUEST\_METHOD "^(REPORT|OPTIONS)$" allow   

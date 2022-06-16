@@ -28,7 +28,7 @@ tags:
     - tutorial
 ---
 
-![subversion_logo-384x332](/assets/images/2009/05/subversion_logo384x332.png "subversion_logo-384x332") ![geeko](/assets/images/2009/05/geeko.jpg "geeko") ![plesk.logo](/assets/images/2009/05/plesk.logo_.jpg "plesk.logo") **Subversion** (**SVN**) is an open source version control system. It allows users to keep track of changes made over time to any type of electronic data. Typical uses are versioning source code, web pages or design documents.
+![subversion_logo-384x332](/assets/images/2009/05/subversion_logo384x332.png "subversion_logo-384x332") ![geeko](/assets/images/2009/05/geeko.jpg "geeko") ![plesk.logo](/assets/images/2009/05/plesk.logo_.jpg "plesk.logo") Subversion (SVN) is an open source version control system. It allows users to keep track of changes made over time to any type of electronic data. Typical uses are versioning source code, web pages or design documents.
 
 I now host my own private subversion at <http://svn.waltercedric.com>
 

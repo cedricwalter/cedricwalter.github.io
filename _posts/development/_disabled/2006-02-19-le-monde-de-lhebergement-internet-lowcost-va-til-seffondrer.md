@@ -13,7 +13,7 @@ tags:
 
 Un articles interessant, qui concerne tout le monde mais qui n’est malheureusement que disponible en francais:
 
-# Le monde de l’hébergement internet "lowcost" va t’il s’effondrer ?**
+# Le monde de l’hébergement internet "lowcost" va t’il s’effondrer ?
 
 *Moins de 3 euro HT, c’est le prix de revient minimal record du Mb/s de transit chez un hébergeur "low cost" du marché
 français. Pour moins de 60 euro HT /mois, vous pouvez ainsi avoir 1 serveur dédié tout équipé + 20 Mb/s. Comment est ce

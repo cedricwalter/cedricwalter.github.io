@@ -10,16 +10,16 @@ tags:
     - joomla
 ---
 
-| ![](/assets/images/2006/05/Joomla.logo_.png) | **Joomla! 1.0.11** \[ **Sunbird** \] is now available as of <u style="font-style: italic;">Monday 28th August 2006 24:00 UTC for [download here](http://forge.joomla.org/sf/frs/do/viewRelease/projects.joomla/frs.joomla_1_0.1_0_11). and is being designated a **Critical Security Release**. |
+| ![](/assets/images/2006/05/Joomla.logo_.png) | Joomla! 1.0.11 \[ Sunbird \] is now available as of <u style="font-style: italic;">Monday 28th August 2006 24:00 UTC for [download here](http://forge.joomla.org/sf/frs/do/viewRelease/projects.joomla/frs.joomla_1_0.1_0_11). and is being designated a Critical Security Release. |
 |---|---|
 
 
 
-All existing #Joomla! users <span style="color: red;">**MUST UPGRADE** to this version, due to several <span style="color: red;">High Level vulnerabilities that **affect ALL Previous versions of #Joomla!** 
+All existing #Joomla! users <span style="color: red;">MUST UPGRADE to this version, due to several <span style="color: red;">High Level vulnerabilities that affect ALL Previous versions of #Joomla! 
 
 1.0.11 contains the following critical security fixes:
 
-- **04 High Level Security Fixes**
+- 04 High Level Security Fixes
 - 04 Medium Level Security Fixes
 - 18 Low Level security
 - *25 General bug fixes*

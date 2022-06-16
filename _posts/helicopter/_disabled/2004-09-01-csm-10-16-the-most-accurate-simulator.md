@@ -25,9 +25,9 @@ tags:
     - simulator
 ---
 
-# *Do not buy now or use this simulator, prefer Reflex XTR (www.reflex-sim.de)***
+# *Do not buy now or use this simulator, prefer Reflex XTR (www.reflex-sim.de)*
 
-## ***Pros***
+## *Pros*
 
 - very accurate, you can measure data on your heli and put them into your simulator with no changes…
 - runs on ladtop, and small machine, no need to have an expensive video card, CSM add support for Windows 2000, winXP…
@@ -36,29 +36,29 @@ tags:
 - True heading lock gyro ICG360
 - Update are free, you can really build new airplanes and new heli and not derivate from an existing one (compare to realflight)
 
-## ***Cons***
+## *Cons*
 
 - bad graphics but is it really so bad ? we want to fly rapidly and acquire feeling…it is not a technical demo.
 - proprietary dongle
 
-## ***Links***
+## *Links*
 
 - [Official homepage of CSM and technical support](http://www.waltercedric.com/Helico/csm/www.rcmodels.org/csm/)
 - [How to build your own visual for CSM (tutorial and heli, plane to download)](http://home.t-online.de/home/torsten.schoenitz/)
 - [CSM Swaps](http://www.slewin.clara.net/csm/csmpage.htm)
 
-## ***Download file*** 
+## *Download file* 
 
 - [Raptor 30 for CSM click here](http://www.waltercedric.com/Helico/csm/raptor30_csm.zip) (4.25 Ko)
 - [Documentation CSM 10 in word format](http://www.waltercedric.com/Helico/csm/v10inst3.zip) (111 Ko)
 
-## ***Technical section*** 
+## *Technical section* 
 
-# *Connect CSM 10 to a futaba FF9 :*** You must own the dongle, we only want to bypass the use of the jack connector and use a DIN..or connect to the proprietary connector..
+# *Connect CSM 10 to a futaba FF9 :* You must own the dongle, we only want to bypass the use of the jack connector and use a DIN..or connect to the proprietary connector..
 
-![](/assets/images/2004/09/csmFF9.jpg)## ***Run CSM in Windows 2000***
+![](/assets/images/2004/09/csmFF9.jpg)## *Run CSM in Windows 2000*
 
-# This is only a small extract of a newsgroup post by Andrew Powell (CSM).**
+# This is only a small extract of a newsgroup post by Andrew Powell (CSM).
 
 1\. Download and install the RainbowSSD539 sentinel driver from <http://www.rainbow.com/tech/download.html>
 

@@ -41,7 +41,7 @@ The obvious things to do first in no particular order
     - Are they all needed?
     - No duplicates dependencies?
     - Do you miss some <exclusions>? are all these transitive dependencies to your 3rd party needed?
-    - No dependencies cycles? check the order in reactor. A developer **should understand**, and **not be surprised** by the order of the modules calculated by #Maven (as long as you have layers in your software, you expect some modules to be build before some others) .
+    - No dependencies cycles? check the order in reactor. A developer should understand, and not be surprised by the order of the modules calculated by #Maven (as long as you have layers in your software, you expect some modules to be build before some others) .
 - Review ALL logs files 
     - The one created by #Maven to avoid any warnings and
     - All your application logs (do you log too much data during the build?)
@@ -62,7 +62,7 @@ mvn -T 4 clean install
 
 ## Speed up [Apache Maven](http://maven.apache.org/) builds by running test cases concurrently in reactor
 
-# Caveats**
+# Caveats
 
 Some test cases may not like to run in parallel, (remember concurrency is not an easy subject in software development) Potential problems are:
 

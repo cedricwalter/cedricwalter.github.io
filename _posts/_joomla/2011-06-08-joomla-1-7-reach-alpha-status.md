@@ -20,8 +20,8 @@ I will in the coming days test all my extension against 1.7 and set up a demo si
 
 Note: I always recommend to all users asking for support to move away from #Joomla! 1.0 and to use the latest versions of #Joomla!
 
-# Do not wait, invest regularly time to update your [Joomla!](http://www.joomla.org/)** instead of migrating every 2 years..
+# Do not wait, invest regularly time to update your [Joomla!](http://www.joomla.org/) instead of migrating every 2 years..
 
-# Do not alter the core file of [Joomla!](http://www.joomla.org/)** updates will be a real pain then!
+# Do not alter the core file of [Joomla!](http://www.joomla.org/) updates will be a real pain then!
 
-[Ask in #Joomla! forums](http://forum.joomla.org/) for help: **there are ways of changing [Joomla!](http://www.joomla.org/) behaviors without changing code** [by using extensions](http://extensions.joomla.org/).
+[Ask in #Joomla! forums](http://forum.joomla.org/) for help: there are ways of changing [Joomla!](http://www.joomla.org/) behaviors without changing code [by using extensions](http://extensions.joomla.org/).

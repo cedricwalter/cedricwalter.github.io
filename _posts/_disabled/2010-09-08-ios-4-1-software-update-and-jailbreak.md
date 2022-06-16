@@ -19,7 +19,7 @@ tags:
 ## Jailbreak
 
 1. Download and install the latest version of iTunes 10
-2. Use [CYDIA](http://cydia.saurik.com/) **AptBackUp** to also save your “non approved apps”, When you next back up your iPhone up with iTunes this application create a list that is backed up as well. So next time you have to restore or upgrade you restore from ITunes install AptBackUp and [CYDIA](http://cydia.saurik.com/) will install all the apps/mods on the list.
+2. Use [CYDIA](http://cydia.saurik.com/) AptBackUp to also save your “non approved apps”, When you next back up your iPhone up with iTunes this application create a list that is backed up as well. So next time you have to restore or upgrade you restore from ITunes install AptBackUp and [CYDIA](http://cydia.saurik.com/) will install all the apps/mods on the list.
 3. Start iTunes and sync your iPhone to save all your data
 4. Download Sn0wbreeze <http://bit.ly/bKcoHy> and the original iOS 4.1 firmware files for your version of iPhone/iPod
 5. Only the 1.8beta support iOS 4.1 download here <http://bit.ly/ahVzJL>

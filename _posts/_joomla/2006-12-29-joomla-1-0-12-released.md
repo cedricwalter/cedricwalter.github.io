@@ -10,7 +10,7 @@ tags:
     - joomla
 ---
 
-# Joomla! 1.0.12** \[ Sunfire \] is available as of Monday the 25th of December 2006 1:00 UTC for [download here](http://forge.joomla.org/sf/frs/do/viewRelease/projects.joomla/frs.joomla_1_0.1_0_12). 
+# Joomla! 1.0.12 \[ Sunfire \] is available as of Monday the 25th of December 2006 1:00 UTC for [download here](http://forge.joomla.org/sf/frs/do/viewRelease/projects.joomla/frs.joomla_1_0.1_0_12). 
 
 We suggest that all #Joomla! users upgrade to this version.
 

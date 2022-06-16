@@ -13,7 +13,7 @@ tags:
     - junit
 ---
 
-# Use JUNIT for**
+# Use JUNIT for
 
 - Designing/defining function.
 - Documentation: act like a sort of cookbook

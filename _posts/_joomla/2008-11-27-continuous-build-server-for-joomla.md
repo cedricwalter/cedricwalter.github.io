@@ -37,11 +37,11 @@ tags:
 - Reduce time between releases,
 - Avoid subtle or recurrent issues
 
-I **will** set up a **[continuous integration](http://en.wikipedia.org/wiki/Continuous_Integration)** build server at
+I will set up a [continuous integration](http://en.wikipedia.org/wiki/Continuous_Integration) build server at
 
 [http://continuousbuildserver.waltercedric.com](http://continuousbuildserver.waltercedric.com)
 
-# Continuous integration** describes a set of [software engineering](http://en.wikipedia.org/wiki/Software_engineering) practices that speed up the delivery of software by decreasing integration times.
+# Continuous integration describes a set of [software engineering](http://en.wikipedia.org/wiki/Software_engineering) practices that speed up the delivery of software by decreasing integration times.
 
 - Maintain a code repository, the code will stay at [JoomlaCode.org](http://joomlacode.org/) subversion
 - Automate the build, with [Maven for PHP](http://www.php-maven.org/index.html)/Ant and either teamcity or [phpundercontrol.org](http://www.phpundercontrol.org/about.html)

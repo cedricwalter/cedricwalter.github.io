@@ -42,7 +42,7 @@ Tick repair, provide your login and password for database,
 
 ![repair.table.in.php2](/assets/images/2010/01/repair.table_.in_.php2_3.png "repair.table.in.php2")
 
-# Remove the scripts after use, or add a die(‘not for use, edit script first’); at the top of it just in case it may be use to inject something in your database!**
+# Remove the scripts after use, or add a die(‘not for use, edit script first’); at the top of it just in case it may be use to inject something in your database!
 
 ### Shell access
 
@@ -50,7 +50,7 @@ For the most advanced of us, which understand Unix and have shell access
 
 \# mysql –udblogin -p
 
-mysql> use **joom**;
+mysql> use joom;
 
 ```
 mysql> REPAIR TABLE jos_session;
@@ -76,9 +76,9 @@ These informations can be found in httpdocs/configuration.php under $user and $p
 
 > ..
 > 
-> **var $user = ‘hkuin47Gdfver’;**   
-> **var $db = ‘joom’;   
-> **var $dbprefix = ‘dfrtCsdef\_’;   
+> var $user = ‘hkuin47Gdfver’;   
+> var $db = ‘joom’;   
+> var $dbprefix = ‘dfrtCsdef\_’;   
 > var $mailer = ‘mail’;   
 > var $fromname = ‘Happpp’;   
 > var $sendmail = ‘/usr/sbin/sendmail’;   
@@ -92,7 +92,7 @@ These informations can be found in httpdocs/configuration.php under $user and $p
 > var $MetaTitle = ‘1’;   
 > var $lifetime = ’15’;   
 > var $session\_handler = ‘database’;   
-> **var $password = afedfhrr546fdhcfcv;**
+> var $password = afedfhrr546fdhcfcv;
 > 
 >  ..
 

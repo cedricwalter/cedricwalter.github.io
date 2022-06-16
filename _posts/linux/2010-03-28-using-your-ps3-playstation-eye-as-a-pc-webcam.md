@@ -15,7 +15,7 @@ tags:
 
 ![sony_playstation_eye](/assets/images/2008/11/sony_playstation_eye.jpg "sony_playstation_eye")
 
-The **PlayStation Eye** is a webcam device by Sony Computer Entertainment for the PlayStation 3 video game console. It
+The PlayStation Eye is a webcam device by Sony Computer Entertainment for the PlayStation 3 video game console. It
 is the successor to the EyeToy for the PlayStation 2. In case you have one floating around that you do not use for
 gaming, why not trying to use it as a webcam? You can find them cheap everywhere on [ebay](http://www.ebay.com)
 , [ricardo.ch](http://www.ricardo.ch), [leboncoin.fr](http://www.leboncoin.fr)
@@ -48,5 +48,5 @@ A working driver for MacOS can be downloaded from <http://webcam-osx.sourceforge
 
 ### Linux
 
-Starting with Linux kernel 2.6.29, just plug your **PlayStation Eye** in a free USB port and enjoy. Tested
+Starting with Linux kernel 2.6.29, just plug your PlayStation Eye in a free USB port and enjoy. Tested
 under [OpenSuse 10.2](http://www.opensuse.org/)

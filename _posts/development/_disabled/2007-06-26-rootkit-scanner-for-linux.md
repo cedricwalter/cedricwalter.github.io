@@ -14,7 +14,7 @@ tags:
     - security
 ---
 
-A **rootkit** is a set of software tools intended to conceal running processes, files or system data from the operating system. Rootkits have their origin in benign applications, but in recent years have been used increasingly by malware to help intruders maintain access to systems while avoiding detection. Rootkits exist for a variety of operating systems, such as Microsoft Windows, #Linux and Solaris. Rootkits often modify parts of the operating system or install themselves as drivers or kernel modules. \[[WikiPedia](http://en.wikipedia.org/wiki/Rootkit)\]
+A rootkit is a set of software tools intended to conceal running processes, files or system data from the operating system. Rootkits have their origin in benign applications, but in recent years have been used increasingly by malware to help intruders maintain access to systems while avoiding detection. Rootkits exist for a variety of operating systems, such as Microsoft Windows, #Linux and Solaris. Rootkits often modify parts of the operating system or install themselves as drivers or kernel modules. \[[WikiPedia](http://en.wikipedia.org/wiki/Rootkit)\]
 
 Rootkit scanner is scanning tool which scans for rootkits, backdoors and local exploits by running tests like:
 

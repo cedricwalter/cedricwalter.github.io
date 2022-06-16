@@ -17,7 +17,7 @@ release quality and avoid manual testing of SecurityImages
 at every release, I release Selenium testcases so anybody/   
 any developer can run them against their homepage.
 
-# Prerequisites**
+# Prerequisites
 
 - Extract this zip file in a new directory (link soon available)
 - Load the test suite (set of tests) named *securityimages.testsuite   
@@ -29,14 +29,14 @@ any developer can run them against their homepage.
     [![seleniumSecurityImages1](/assets/images/2008/04/seleniumSecurityImages1_thumb.png)](/assets/images/2008/04/seleniumSecurityImages1.png)
 - SecurityImages has to be put in TEST mode. This is a new setting in administrator panel. This force SecurityImages in this mode to accept only the word “test123” as captcha response and nothing else. This is because I can not read, or find in the test case the word hidden in the picture without a lot of effort.
 - Testsuite is working only for HNcapctha at the moment.
-- You can run **all** test cases in the suite by clicking on [![seleniumSecurityImages2](/assets/images/2008/04/seleniumSecurityImages2_thumb.png)](/assets/images/2008/04/seleniumSecurityImages2.png) or just one or two with [![seleniumSecurityImages3](/assets/images/2008/04/seleniumSecurityImages3_thumb.png)](/assets/images/2008/04/seleniumSecurityImages3.png) but in that case don’t forget to also always select the test InitializeTestcases.test (use ALT GR)
+- You can run all test cases in the suite by clicking on [![seleniumSecurityImages2](/assets/images/2008/04/seleniumSecurityImages2_thumb.png)](/assets/images/2008/04/seleniumSecurityImages2.png) or just one or two with [![seleniumSecurityImages3](/assets/images/2008/04/seleniumSecurityImages3_thumb.png)](/assets/images/2008/04/seleniumSecurityImages3.png) but in that case don’t forget to also always select the test InitializeTestcases.test (use ALT GR)
 
 | [![seleniumSecurityImages4](/assets/images/2008/04/seleniumSecurityImages4_thumb.png)](/assets/images/2008/04/seleniumSecurityImages4.png) | Currently only 4 tests are not working, and this because selenium can not submit the contact and register form of Joomla! this has nothing to do with my code. |
 |---|---|
 
 The next step is to put everything in XINC…
 
-# Read also**
+# Read also
 
 - [Develop web testcases using Selenium IDE in Firefox for Joomla!](https://waltercedric.com/new/?p=3399)
 - [Record testcases with Selenium IDE](https://waltercedric.com/new/?p=3408)

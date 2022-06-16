@@ -19,7 +19,7 @@ tags:
 
 ![](/assets/images/2004/08/ngani.gif)
 
-# A real Neo Geo pad with a USB port**
+# A real Neo Geo pad with a USB port
 
 | [![DSC00996.JPG](images/snk/mymods/TN_DSC00996.JPG)](snk/mymods/DSC00996.JPG) | Bought on ebay for 5euro. this is the cheapest version of MS sidewinder you can find. 4 button upper and 2 in front.                                                                                                                                                                          |
 |-------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -34,7 +34,7 @@ tags:
 |
 |                                                                                                                                                                                                                                                                                               |
 
-# A Direct Pad Pro interface for a Neo Geo Pad**
+# A Direct Pad Pro interface for a Neo Geo Pad
 
 I use to find his plan while browsing over internet, it has 2 shift registries and simulate a SNES pad, I use to made a
 lot soldering and it took me a lot of time. Another way is to use an old use SNES pas board. Attention, Direct Pad Pro

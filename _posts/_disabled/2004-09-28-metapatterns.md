@@ -8,7 +8,7 @@ author: 'Cédric Walter'
 
 ---
 
-**Meta-Patterns: Design Patterns Explained**   
+Meta-Patterns: Design Patterns Explained   
 MoisÃ©s Daniel DÃ­az Toledano. Email : <moises@moisesdaniel.com>   
 [www.moisesdaniel.com](http://www.moisesdaniel.com/)
 

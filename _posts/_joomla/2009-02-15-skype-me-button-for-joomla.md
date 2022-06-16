@@ -20,7 +20,7 @@ Attention, you will also
 Create your html code Snippet by going to
 
 <div class="wlWriterSmartContent" id="scid:32a77b7a-5ea4-47be-84fc-ff7471384e10:36ebfc84-beff-4c62-80a1-16d061a8b5a2" style="display: inline; margin: 0px; padding: 0px;">[![](/assets/images/2009/02/810cf211e5264d39946e08b6088f18af.jpg)](http://www.skype.com/intl/en/share/buttons/)Note: the online generator always create call URL, if you want to allow only chat, just alter slightly   
-the URL, exchange **call** with **chat**
+the URL, exchange call with chat
 
 ```
 <span class="kwrd"><<span class="html">script <span class="attr">type<span class="kwrd">="text/javascript" 

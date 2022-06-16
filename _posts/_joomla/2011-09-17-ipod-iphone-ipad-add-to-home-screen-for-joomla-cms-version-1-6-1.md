@@ -17,7 +17,7 @@ tags:
 
 ![](/assets/images/2011/09/add2Home_ipod_iphone_ipad_joomla_000_thumb.png)
 
-This small plugin for #Joomla! add a message inviting iPhone/iPad users to add the web application to the home screen. **It also optimize your site by adding all meta that are recognized by Apple iOS browser**: authorize resize, screen ratio, startup picture, web app optimize rendering and much more.
+This small plugin for #Joomla! add a message inviting iPhone/iPad users to add the web application to the home screen. It also optimize your site by adding all meta that are recognized by Apple iOS browser: authorize resize, screen ratio, startup picture, web app optimize rendering and much more.
 
 ![add2Home_ipod_iphone_ipad_joomla_001](/assets/images/2011/09/add2Home_ipod_iphone_ipad_joomla_001_thumb.png "add2Home_ipod_iphone_ipad_joomla_001") ![add2Home_ipod_iphone_ipad_joomla_002](/assets/images/2011/09/add2Home_ipod_iphone_ipad_joomla_002_thumb.png "add2Home_ipod_iphone_ipad_joomla_002")
 
@@ -46,8 +46,8 @@ When referring to the dimensions of a device, you should use the constants descr
 
 ### Download
 
-- [plg\_add2home\_j15.zip for Joomla! 1.5](https://waltercedric.com/new/?p=2467) **version 1.5.1**
-- [plg\_add2home\_j16.zip for Joomla! 1.6/1.7](https://waltercedric.com/new/?p=2467) **version 1.6.1**
+- [plg\_add2home\_j15.zip for Joomla! 1.5](https://waltercedric.com/new/?p=2467) version 1.5.1
+- [plg\_add2home\_j16.zip for Joomla! 1.6/1.7](https://waltercedric.com/new/?p=2467) version 1.6.1
 
 [The documentation](http://wiki.waltercedric.com/index.php?title=Add2Home_(Apple_springboard)_your_Joomla_site) is also now part of this release.
 

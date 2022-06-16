@@ -17,9 +17,9 @@ tags:
 
 Here I present You my roadmap for #Joomla components for the next weeks, months:
 
-# [![](/assets/images/2006/02/tn_joomla_planning_www.waltercedric.com_.png)](/assets/images/2006/02/joomla_planning_www.waltercedric.com_.png)(v1.0)**
+# [![](/assets/images/2006/02/tn_joomla_planning_www.waltercedric.com_.png)](/assets/images/2006/02/joomla_planning_www.waltercedric.com_.png)(v1.0)
 
-# You can contact me if:**
+# You can contact me if:
 
 - You want to be a beta tester…
 - You want to develop or submit PHP patches…

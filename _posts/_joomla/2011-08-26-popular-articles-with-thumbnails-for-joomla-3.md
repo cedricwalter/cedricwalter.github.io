@@ -32,11 +32,11 @@ New features are in yellow
 - Thumbnails are automatically extracted from the text introduction. If no image is found, a default picture can be defined
 - You can switch off separately the title, text teaser and thumbnails,
 - The length of the text teaser and ending (»/…/ read more) can be modified in the administrator panel,
-- It is based on the code of the internal #Joomla! core module **mod\_mostread.**
+- It is based on the code of the internal #Joomla! core module mod\_mostread.
 
 ## Notes
 
-# This module use TimThumb 2.8.0 that must be installed as a #Joomla! library**
+# This module use TimThumb 2.8.0 that must be installed as a #Joomla! library
 
 - Install lib\_[TimThumb\_j16\_j17.zip](https://waltercedric.com/new/?p=2391) for #Joomla! 1.6 / 1.7 using the installer
 - For #Joomla! 1.5, unpack [lib\_TimThumb\_j15.zip](https://waltercedric.com/new/?p=2391) in /libraries/

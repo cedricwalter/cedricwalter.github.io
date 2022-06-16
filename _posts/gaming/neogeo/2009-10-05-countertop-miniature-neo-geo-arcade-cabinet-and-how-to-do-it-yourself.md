@@ -25,7 +25,7 @@ The history of this SNK MVS bar top or countertop arcade cabinet [can be seen HE
 
 But what if you want to build your own, powered by [MAME](http://mamedev.org/) emulator?
 
-[MAME](http://mamedev.org/) stands for **M**ultiple **A**rcade **M**achine **E**mulator. When used in conjunction with images of the original arcade game’s ROM and disk data, MAME attempts to reproduce that game as faithfully as possible on a more modern general-purpose computer. MAME can currently emulate several thousand (more than 7000 titles) different classic arcade video games from the late 1970s through the modern era.
+[MAME](http://mamedev.org/) stands for Multiple Arcade Machine Emulator. When used in conjunction with images of the original arcade game’s ROM and disk data, MAME attempts to reproduce that game as faithfully as possible on a more modern general-purpose computer. MAME can currently emulate several thousand (more than 7000 titles) different classic arcade video games from the late 1970s through the modern era.
 
 ### Bar top arcade cabinet
 
@@ -78,9 +78,9 @@ Add cables and screws.
 
 ### Neo-Geo Side Art
 
-# ![neoartworkgx4](/assets/images/2009/10/neoartworkgx4.jpg "neoartworkgx4")** Someone is offering original size Neo-Geo stickers
+# ![neoartworkgx4](/assets/images/2009/10/neoartworkgx4.jpg "neoartworkgx4") Someone is offering original size Neo-Geo stickers
 
-# <http://www.neo-geo.com/forums/showthread.php?t=183298>**
+# <http://www.neo-geo.com/forums/showthread.php?t=183298>
 
 25$ + shipping
 

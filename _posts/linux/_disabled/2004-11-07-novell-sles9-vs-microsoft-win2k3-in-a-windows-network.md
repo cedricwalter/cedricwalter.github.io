@@ -14,14 +14,14 @@ tags:
 - microsoft
 ---
 
-# by Gsurface on 23 Oct 2004**
+# by Gsurface on 23 Oct 2004
 
 “*With Novell’s recent release of their SLES9 server (Suse #Linux Enterprise Server), I decided to compare their new
 offering against Microsoft’s Windows 2003 Server (Enterprise Edition) in a Windows based network environment. Can SLES9
 be a viable server solution as an answer to using a Windows 2003 Server?   
 …
 
-# Conclusions**
+# Conclusions
 
 As you can see, Novell’s SLES9 is a very worthy contender to Microsoft’s Win2k3 Server in a Windows environment. Not
 only does SLES9 perform better on the same hardware, but it costs less â&#128;&#147; possibly more than 1/10th the cost

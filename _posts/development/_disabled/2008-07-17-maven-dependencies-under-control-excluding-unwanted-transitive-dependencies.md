@@ -89,7 +89,7 @@ Transitive dependency mediation
 
 You can’t control what you do not know!
 
-One that can be use during build stage or explicitly use on command line, is the maven plugin **maven-dependency-plugin**
+One that can be use during build stage or explicitly use on command line, is the maven plugin maven-dependency-plugin
 
 ```
 <build>
@@ -143,7 +143,7 @@ So it look like
 [INFO]    xml-apis:xml-apis:jar:1.0.b2:compile
 ```
 
-# With exclusions**
+# With exclusions
 
 ```
 [dependency:tree] 

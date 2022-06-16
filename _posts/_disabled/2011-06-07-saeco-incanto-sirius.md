@@ -27,7 +27,7 @@ In this menu you can change all parameters of the machine, amount of water and c
 
 You need to turn off the machine. Hold your fingers on button 1, 4 and 6 at the same time en turn the machine on. ( Button 1 to 3 is the upper row from left to right, and 4 to 6 is the lower row from left to right). Now you can browse through the machine settings with button 4 or 5.
 
- **Diagnostics menu Incanto Sirius**
+ Diagnostics menu Incanto Sirius
 
 | N ° 1 coffee long pulses | 480 | Number of turbine pulses COFFEE. |
 |---|---|---|

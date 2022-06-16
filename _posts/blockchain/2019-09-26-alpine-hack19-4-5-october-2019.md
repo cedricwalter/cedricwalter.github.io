@@ -15,7 +15,7 @@ their know-how. The aim for the participants is to develop a functioning open-so
 solutions that eliminate real problems, for real companies. #Blockchain Technology will be the center of all predefined
 challenges. 24 hours of #Innovation, personal development and lots of fun.
 
-# I will be there as hackathon mentor and judge.**
+# I will be there as hackathon mentor and judge.
 
 Friday, October 4th- 09:00 – 10:00 Welcome &amp; team building (if needed)
 

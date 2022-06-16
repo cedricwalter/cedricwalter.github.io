@@ -16,7 +16,7 @@ categories:
 
 1. It is strictly forbidden to modify your xBox, sell or install mods chip in france.
 2. Even opening the XBOX is forbidden.
-3. **Remember pirating is a crime, support the developers and film companies.**
+3. Remember pirating is a crime, support the developers and film companies.
 
 
 
@@ -24,7 +24,7 @@ categories:
 
 # How To
 
-| **Required:**- **LED** - **Resistor 220 Ohms**  The resistor (value depending of the LED power) has to be soldered on the longest LED wire  <span style="font-family: 'Arial Black'; color: #40ab3d; font-size: medium;">![](pc/xbox/harddisk_led/im/needed.jpg)                                                                                                                  |     |
+| Required:- LED - Resistor 220 Ohms  The resistor (value depending of the LED power) has to be soldered on the longest LED wire  <span style="font-family: 'Arial Black'; color: #40ab3d; font-size: medium;">![](pc/xbox/harddisk_led/im/needed.jpg)                                                                                                                  |     |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----|
 | +5 Volts is taken from the connector, you can open the connector and close it without any difficulties   <span style="font-family: 'Arial Black'; color: #40ab3d; font-size: medium;">![](pc/xbox/harddisk_led/im/5voltsPoint.jpg)                                                                                                                                                |     |
 | The trickiest part is to solder on pin39 the signal (negative)   <span style="font-family: 'Arial Black'; color: #40ab3d; font-size: medium;">![](pc/xbox/harddisk_led/im/tricky1.jpg)   You should also verify carefully your soldering, this tool may help   <span style="font-family: 'Arial Black'; color: #40ab3d; font-size: medium;">![](pc/xbox/harddisk_led/im/lens.jpg) |     |

@@ -36,7 +36,7 @@ I prefer to show you how to make them run in eclipse, and in Apache #Maven as th
 
 > [JBehave](http://jbehave.org/) is a framework for Behaviour-Driven Development   
 > Behaviour-driven development (BDD) is an evolution of test-driven development (TDD) and acceptance-test driven design, and is intended to make these practices more accessible and intuitive to newcomers and experts alike.   
-> It shifts the vocabulary from being test-based to behaviour-based, and positions itself as a **design** philosophy.   
+> It shifts the vocabulary from being test-based to behaviour-based, and positions itself as a design philosophy.   
 > You can find out more about behaviour-driven development on the [BDD wiki](http://behaviour-driven.org), or in the article [Introducing BDD](http://behaviour-driven.org/Introduction)
 > 
 > Features of JBehave include:
@@ -104,7 +104,7 @@ The whole pom.xml
                                         <version>${jbehave.version}</version>
                                         <outputdirectory>${project.build.directory}/jbehave-reports/rendered
                                         </outputdirectory>
-                                        <includes>**\/*.css,**\/*.ftl,**\/*.js</includes>
+                                        <includes>\/*.css,\/*.ftl,\/*.js</includes>
                                     </artifactitem>
                                 </artifactitems>
                             </configuration>
@@ -120,10 +120,10 @@ The whole pom.xml
                             <phase>integration-test</phase>
                             <configuration>
                                 <scenarioincludes>
-                                    <scenarioinclude>**/scenarios/*.java</scenarioinclude>
+                                    <scenarioinclude>/scenarios/*.java</scenarioinclude>
                                 </scenarioincludes>
                                 <scenarioexcludes>
-                                    <scenarioexclude>**/i18n/scenarios/*.java</scenarioexclude>
+                                    <scenarioexclude>/i18n/scenarios/*.java</scenarioexclude>
                                 </scenarioexcludes>
                                 <batch>false</batch>
                                 <ignorefailure>true</ignorefailure>
@@ -138,7 +138,7 @@ The whole pom.xml
                             <phase>integration-test</phase>
                             <configuration>
                                 <scenarioincludes>
-                                    <scenarioinclude>**/i18n/scenarios/*.java</scenarioinclude>
+                                    <scenarioinclude>/i18n/scenarios/*.java</scenarioinclude>
                                 </scenarioincludes>
                                 <skip>false</skip>
                                 <classloaderinjected>true</classloaderinjected>
@@ -152,10 +152,10 @@ The whole pom.xml
                             <phase>integration-test</phase>
                             <configuration>
                                 <scenarioincludes>
-                                    <scenarioinclude>**/scenarios/*.java</scenarioinclude>
+                                    <scenarioinclude>/scenarios/*.java</scenarioinclude>
                                 </scenarioincludes>
                                 <scenarioexcludes>
-                                    <scenarioexclude>**/scenarios/None.java</scenarioexclude>
+                                    <scenarioexclude>/scenarios/None.java</scenarioexclude>
                                 </scenarioexcludes>
                                 <skip>false</skip>
                                 <scope>test</scope>

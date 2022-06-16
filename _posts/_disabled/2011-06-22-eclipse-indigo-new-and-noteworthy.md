@@ -27,7 +27,7 @@ tags:
 
 # JBossTools
 
-- <http://www.jboss.org/tools/download/> **Not ready yet for #Eclipse Indigo**
+- <http://www.jboss.org/tools/download/> Not ready yet for #Eclipse Indigo
 - <http://docs.jboss.org/tools/whatsnew/index.html>
 
 <dl><dd> </dd></dl>

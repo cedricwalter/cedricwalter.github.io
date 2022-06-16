@@ -28,7 +28,7 @@ The singleton class is implemented by defining a static field that is dynamicall
 # Source Code
 
 ```
-/**  * Represents a singleton.  */ public class Singleton { 	/** 	 * Holds the singleton instance. 	 */ 	private static Singleton instance;  	/** 	 * constructor must be private to avoid automatic creation of default 	 * constructor by the compiler 	 *   	 */ 	private Singleton() { 		super(); 	}  	/** 	 * Returns the singleton instance. 	 *  	 * synchronized to prevent race problem 	 *  	 * @return the singleton instance 	 */ 	public static synchronized Singleton getInstance() { 		if (instance == null) { 			instance = new Singleton(); 		} 		return instance; 	} } 
+/  * Represents a singleton.  */ public class Singleton { 	/ 	 * Holds the singleton instance. 	 */ 	private static Singleton instance;  	/ 	 * constructor must be private to avoid automatic creation of default 	 * constructor by the compiler 	 *   	 */ 	private Singleton() { 		super(); 	}  	/ 	 * Returns the singleton instance. 	 *  	 * synchronized to prevent race problem 	 *  	 * @return the singleton instance 	 */ 	public static synchronized Singleton getInstance() { 		if (instance == null) { 			instance = new Singleton(); 		} 		return instance; 	} } 
 ```
 
   Singleto

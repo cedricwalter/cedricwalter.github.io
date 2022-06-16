@@ -6,6 +6,10 @@ author: 'Cédric Walter'
 categories:
 - blockchain
 
+header:
+overlay_image: /assets/images/2022/06/blockchain.jpg
+teaser: /assets/images/2022/06/blockchain.jpg
+caption: "How to accept Bitcoin on a website using Electrum and Letsencrypt"
 
 ---
 

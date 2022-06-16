@@ -10,9 +10,9 @@ header:
 teaser: /assets/images/2016/03/191583-strip-zoom_3.gif
 ---
 
-# ![191583-strip-zoom](/assets/images/2016/03/191583-strip-zoom_3.gif "191583-strip-zoom")**
+# ![191583-strip-zoom](/assets/images/2016/03/191583-strip-zoom_3.gif "191583-strip-zoom")
 
-# Agree? Tend to Agree ? Tend to Disagree? Disagree?**
+# Agree? Tend to Agree ? Tend to Disagree? Disagree?
 
 1. I believe strongly in the goals and objectives of Acme.
 2. The people I work with usually get along well together.

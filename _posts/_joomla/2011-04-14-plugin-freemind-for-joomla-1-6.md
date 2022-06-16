@@ -46,7 +46,7 @@ mymap.mm being in root folder of #Joomla!
 ## Features
 
 - Update manager is also supported, keep up to date this extension with only one click using #Joomla! 1.6 extensions manager
-- **Freemind 1.6 is #Joomla! 1.6 native**, it wont run in #Joomla! 1.5 (use Freemind 1.2.x)
+- Freemind 1.6 is #Joomla! 1.6 native, it wont run in #Joomla! 1.5 (use Freemind 1.2.x)
 - Code produced is XHTML 1.0 Strict,
 - Tested in the following browser Firefox, Opera, Chrome, IE 8
 - License as always under GNU/GPL v3.0 or later

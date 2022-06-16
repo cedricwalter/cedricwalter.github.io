@@ -17,7 +17,7 @@ tags:
 
 ![Merlin_the_Electronic_Wizard0](/assets/images/2011/06/Merlin_the_Electronic_Wizard0.jpg "Merlin_the_Electronic_Wizard0")
 
-# Merlin** was a handheld electronic game first made by Parker Brothers in 1978. Merlin is notable as one of the earliest and most popular handheld games, selling over 5 million units during its initial run, as well as one of the most long-lived, remaining popular throughout the 1980s. It was distributed in France by Miro Meccano.
+# Merlin was a handheld electronic game first made by Parker Brothers in 1978. Merlin is notable as one of the earliest and most popular handheld games, selling over 5 million units during its initial run, as well as one of the most long-lived, remaining popular throughout the 1980s. It was distributed in France by Miro Meccano.
 
 [![Merlin_the_Electronic_Wizard2](/assets/images/2011/06/Merlin_the_Electronic_Wizard2_thumb.jpg "Merlin_the_Electronic_Wizard2")](http://www.waltercedric.com/images/2cf8ffc16945_A631/Merlin_the_Electronic_Wizard2.jpg)
 
@@ -29,6 +29,6 @@ It is not rare to find them on the Flea market in France, I did pay 2euro for th
 
 [![Merlin_the_Electronic_Wizard1](/assets/images/2011/06/Merlin_the_Electronic_Wizard1_thumb.jpg "Merlin_the_Electronic_Wizard1")](http://www.waltercedric.com/images/2cf8ffc16945_A631/Merlin_the_Electronic_Wizard1.jpg)
 
-# Links**
+# Links
 
 [http://en.wikipedia.org/wiki/Merlin\_(game)](http://en.wikipedia.org/wiki/Merlin_(game))

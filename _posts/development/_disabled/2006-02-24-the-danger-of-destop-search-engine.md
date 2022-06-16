@@ -14,29 +14,29 @@ tags:
     - google
 ---
 
-# **
+# 
 
 | ![](/assets/images/2005/05/googledesktopsearchlogo.gif) |  |
 |---|---|
 
-# Shocked !**
+# Shocked !
 
 I today discover how some people work with their passwords…not everyone is able or want to track what happen behind the scene or how things can be broken in the computer world…but let me explain why I was shocked….
 
-# The case**
+# The case
 
 A group of people is responsible for infrastructure and use a lot of different passwords for all machines, stages, ssh, ftp. They decide to store them all in a convenient word documents, and to encrypt this file with PGP (Pretty Good Privacy), they are using either MSN desktop search or Google Desktop search…I look at one of them…  
 He decrypt the PGP encrypted file (the word document), and save it on the desktop, open, work, then close it…
 
-# SHOCK!**  
+# SHOCK!  
 This is the worst security misunderstanding example and should probably be use in school, what is even worse it that it take me 10 minutes of explanations to say that he has no security at all… since it was such a surprise for him.
 
 If you think that it is a good way to work or would have done the same, prepared You to a big disappointment, I will make a lot of screen shots to show You how worse it is.
 
-# Note this is not Google Desktop Search nor MSN Desktop Search fault, and I still use their tool, it is user missunderstanding of sense of security.**  
+# Note this is not Google Desktop Search nor MSN Desktop Search fault, and I still use their tool, it is user missunderstanding of sense of security.  
 
 
-# Why was I shocked?**
+# Why was I shocked?
 
 1. First using Word document, while it is convenient as it allow to do tables, paragraph, change colors, it is in any way:
 

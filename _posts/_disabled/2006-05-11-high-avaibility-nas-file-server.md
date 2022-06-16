@@ -20,7 +20,7 @@ tags:
     - months
 ---
 
- I will be building in the next few days my own **Network Array Storage (NAS) monster:**
+ I will be building in the next few days my own Network Array Storage (NAS) monster:
 
 - RAID 6 , instead of RAID5, so 2 disks can fail in the array. A 7 Hot spare is planned
 - Hardware RAID because the cheap motherboard (NVIDIA) only support in best case software RAID5
@@ -31,7 +31,7 @@ tags:
 
 The hardware will look as follow:
 
-- 6 Maxtor 7L300R0 MaXLine III, 7200rpm, 16MB, 300GB, IDE, 24/7 server : 60 Months garanty! 104&#128;/each = **624&#128;**
+- 6 Maxtor 7L300R0 MaXLine III, 7200rpm, 16MB, 300GB, IDE, 24/7 server : 60 Months garanty! 104&#128;/each = 624&#128;
 - AMD Athlon 64 3000+ BOX, Socket 939, Venice, the least expensive Athlon 64 99&#128;
 - Asus A8N-VM CSM, mATX, Nvidia 6150/430 Video, socket 939, SATA RAID, because I need PCI-E for the hardware RAID 70&#128;
 - Promise SuperTrak EX8350, SATA2, 8 SATA port, Raid6 Controller, because Promise support #Linux 297&#128;

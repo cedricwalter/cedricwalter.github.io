@@ -46,7 +46,7 @@ Either Subversion running locally on windows/Linux, but I will stay with [www.jo
 [Make Your Build Self-Testing](http://martinfowler.com/articles/continuousIntegration.html#MakeYourBuildSelf-testing)
 
 - PHP UNIT tests if available with be run at this stage using PHP command line.
-- **Selenium** to automate components testing across many platforms, as it runs in [many browsers](http://selenium.seleniumhq.org/about/platforms.html#browsers) and [operating systems](http://selenium.seleniumhq.org/about/platforms.html#operating-systems), and can be controlled by many [programming languages](http://selenium.seleniumhq.org/about/platforms.html#programming-languages) and [testing frameworks](http://selenium.seleniumhq.org/about/platforms.html#testing-frameworks).
+- Selenium to automate components testing across many platforms, as it runs in [many browsers](http://selenium.seleniumhq.org/about/platforms.html#browsers) and [operating systems](http://selenium.seleniumhq.org/about/platforms.html#operating-systems), and can be controlled by many [programming languages](http://selenium.seleniumhq.org/about/platforms.html#programming-languages) and [testing frameworks](http://selenium.seleniumhq.org/about/platforms.html#testing-frameworks).
 - Some standard utilities to perform standard #Joomla! processes: login, logout for Apache ANT or Selenium
 - I will develop either a ANT plugin or a set of Selenium test cases for deploying and removing 
     - component: install, publish, remove

@@ -19,7 +19,7 @@ following manhole covers art in Japan. In Switzerland or France we do not have m
 
 [![manhole.covers.japan1](/assets/images/2010/08/manhole.covers.japan1_thumb.jpg "manhole.covers.japan1")](/assets/images/2010/08/manhole.covers.japan1_.jpg) [![manhole.covers.japan2](/assets/images/2010/08/manhole.covers.japan2_thumb.jpg "manhole.covers.japan2")](/assets/images/2010/08/manhole.covers.japan2_.jpg)
 
-A **manhole cover** is a removable plate forming the lid over the opening of a manhole, to prevent anyone from falling
+A manhole cover is a removable plate forming the lid over the opening of a manhole, to prevent anyone from falling
 in and to keep unauthorized persons out.
 
 - - - - - -

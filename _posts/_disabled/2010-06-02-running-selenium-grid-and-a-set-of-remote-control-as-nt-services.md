@@ -14,20 +14,20 @@ tags:
     - test
 ---
 
-# [![seleniumhq](/assets/images/2010/06/seleniumhq_thumb.jpg "seleniumhq")](/assets/images/2010/06/seleniumhq_2.jpg)**
+# [![seleniumhq](/assets/images/2010/06/seleniumhq_thumb.jpg "seleniumhq")](/assets/images/2010/06/seleniumhq_2.jpg)
 
-# Selenium** has various projects that can be combined with each other to create a robust testing environment.
+# Selenium has various projects that can be combined with each other to create a robust testing environment.
 
-- **Selenium IDE**: a Firefox add-on to record and playback tests in Firefox.
-- **Selenium Remote Control**: a client/server system to control web browsers locally or on other computers, using almost any programming language and testing framework.
-- **Selenium Grid**: transparently distribute your tests on multiple machines so that you can run your tests in parallel, cutting down the time required for running in-browser test suites. In-browser tests are inherently slow, but since commodity hardware is insanely cheap nowadays there is no excuse for not running all these tests in parallel on multiple machines and dramatically speeding up your feedback cycle. .
-- **Selenium Core**: #JavaScript-based testing system.
+- Selenium IDE: a Firefox add-on to record and playback tests in Firefox.
+- Selenium Remote Control: a client/server system to control web browsers locally or on other computers, using almost any programming language and testing framework.
+- Selenium Grid: transparently distribute your tests on multiple machines so that you can run your tests in parallel, cutting down the time required for running in-browser test suites. In-browser tests are inherently slow, but since commodity hardware is insanely cheap nowadays there is no excuse for not running all these tests in parallel on multiple machines and dramatically speeding up your feedback cycle. .
+- Selenium Core: #JavaScript-based testing system.
 
-Also there are **Selenium** projects specifically for Rails, Ruby &amp; #Eclipse!
+Also there are Selenium projects specifically for Rails, Ruby &amp; #Eclipse!
 
 Today I will show you how to make run some components of Selenium as Windows Services. I am using a Selenium HUB and 4 Selenium RC running all on the same server (while not recommended for performance reasons, it is the easiest setup)
 
-# In this small how to I provide you at the end of the article a ready to use Selenium Grid 0.7 zip file**
+# In this small how to I provide you at the end of the article a ready to use Selenium Grid 0.7 zip file
 
 ### Running selenium HUB as an NT service
 
@@ -41,22 +41,22 @@ The Selenium Hub is in charge of
 
 1. Download and unzip Selenium Grid.
 2. If you don’t have it already, [download and install the JDK](http://java.sun.com/javase/downloads/)
-3. Download **[Java Service Wrapper](http://wrapper.tanukisoftware.org/doc/english/download.jsp) (Windows x86 Community Edition) and unzip it.
+3. Download [Java Service Wrapper](http://wrapper.tanukisoftware.org/doc/english/download.jsp) (Windows x86 Community Edition) and unzip it.
 4. Create these folders in the Selenium Grid folder: \*logs\*, \*conf\*, \*bin\*. so it look like
 
-| **Before** | **After** |
+| Before | After |
 |---|---|
-| selenium-grid-1.0.7    ├───doc    ├───examples    ├───lib    ├───sample-scripts    └───vendor | selenium-grid-1.0.7    **├───bin    ├───conf**    ├───doc    ├───examples    ├───lib    **├───logs**    ├───sample-scripts    └───vendor |
+| selenium-grid-1.0.7    ├───doc    ├───examples    ├───lib    ├───sample-scripts    └───vendor | selenium-grid-1.0.7    ├───bin    ├───conf    ├───doc    ├───examples    ├───lib    ├───logs    ├───sample-scripts    └───vendor |
 
 Copy/rename files from the JSW folder to the Selenium Grid folder:
 
-- \\src\\conf\\**wrapper**.conf.in to \\conf\\**wrapper**.conf
+- \\src\\conf\\wrapper.conf.in to \\conf\\wrapper.conf
 - \\src\\bin\\App.bat.in to \\bin\\SeleniumGrid.bat
 - \\src\\bin\\InstallApp-NT.bat.in to \\bin\\InstallSeleniumGrid-NT.bat
 - \\src\\bin\\UninstallApp-NT.bat.in \\bin\\UninstallSeleniumGrid-NT.bat
-- \\bin\\**wrapper**.exe to \\bin\\**wrapper**.exe
-- \\lib\\**wrapper**.dll to \\lib\\**wrapper**.dll
-- \\lib\\**wrapper**.jar to \\lib\\**wrapper**.jar
+- \\bin\\wrapper.exe to \\bin\\wrapper.exe
+- \\lib\\wrapper.dll to \\lib\\wrapper.dll
+- \\lib\\wrapper.jar to \\lib\\wrapper.jar
 
 Now edit the file \\conf\\wrapper.conf
 
@@ -98,15 +98,15 @@ Test your configuration by running the \\bin\\SeleniumGrid.bat file.
 
 If it works, you should see Selenium Grid Hub running in the console – one of the the last lines will likely say something about Jetty and you may see some of the Selenium Grid configuration fly past as it’s starting up. You can shut it down by pressing Ctrl+C.
 
-If it’s not working, you’ll probably see error messages about how the JVM wasn’t found (meaning the path to **Java** is no good) or some other configuration problem. Or the batch file might run and close immediately.
+If it’s not working, you’ll probably see error messages about how the JVM wasn’t found (meaning the path to Java is no good) or some other configuration problem. Or the batch file might run and close immediately.
 
-Once it’s running with the SeleniumGrid.bat file, you can install the **service** by running the InstallSeleniumGrid-NT.bat file.
+Once it’s running with the SeleniumGrid.bat file, you can install the service by running the InstallSeleniumGrid-NT.bat file.
 
-To start the **service**, you can use the command line (net start selenium-grid-hub) or the GUI (Start->Administrative Tools->Services).
+To start the service, you can use the command line (net start selenium-grid-hub) or the GUI (Start->Administrative Tools->Services).
 
 ### Running multiple selenium RC as NT services
 
-> **Selenium Remote Control** (RC) is a test tool that allows you to write automated web application UI tests in any programming language against any HTTP website using any mainstream JavaScript-enabled browser.
+> Selenium Remote Control (RC) is a test tool that allows you to write automated web application UI tests in any programming language against any HTTP website using any mainstream JavaScript-enabled browser.
 > 
 > Selenium RC comes in two parts.
 > 
@@ -123,15 +123,15 @@ Google Chrome, Mozilla Firefox, Apple Safari to name a few, Dont forget that you
 
 Then create for each browser you would like to support the following directory structure
 
-| **Before** | **After** |
+| Before | After |
 |---|---|
-| selenium-grid-1.0.7    ├───bin    ├───conf    ├───doc    ├───examples    ├───lib    ├───logs    ├───sample-scripts    └───vendor | selenium-grid-1.0.7    ├───bin    ├───conf    ├───doc    ├───examples    ├───lib    ├───logs    **├───rc.chrome    ├───rc.firefox    ├───rc.ie    ├───rc.safari**    ├───sample-scripts    └───vendor |
+| selenium-grid-1.0.7    ├───bin    ├───conf    ├───doc    ├───examples    ├───lib    ├───logs    ├───sample-scripts    └───vendor | selenium-grid-1.0.7    ├───bin    ├───conf    ├───doc    ├───examples    ├───lib    ├───logs    ├───rc.chrome    ├───rc.firefox    ├───rc.ie    ├───rc.safari    ├───sample-scripts    └───vendor |
 
 Move files around from previous example, so that it look like
 
-| **Result** |
+| Result |
 |---|
-| **rc.chrome**    ├───bin    │ InstallRemoteControl-NT.bat    │ RemoteControl.bat    │ UninstallRemoteControl-NT.bat    │ wrapper.exe    │    ├───conf    │ wrapper.conf    │    └───logs |
+| rc.chrome    ├───bin    │ InstallRemoteControl-NT.bat    │ RemoteControl.bat    │ UninstallRemoteControl-NT.bat    │ wrapper.exe    │    ├───conf    │ wrapper.conf    │    └───logs |
 
 Here are the settings of wrapper.conf for Google chrome that you need to change across the file, Change all values according to your setup.
 
@@ -153,15 +153,15 @@ So you must have a valid user under these 2 keys, you can choose what you want
 wrapper.ntservice.account=.\selenium wrapper.ntservice.password=xxxxxxxx
 ```
 
-Once it’s running with the RemoteControl.bat file, you can install the **service** by running the InstallRemoteControl-NT.bat file.
+Once it’s running with the RemoteControl.bat file, you can install the service by running the InstallRemoteControl-NT.bat file.
 
-To start the **service**, you can use the command line (net start selenium-chrome) or the GUI (Start->Administrative Tools->Services).
+To start the service, you can use the command line (net start selenium-chrome) or the GUI (Start->Administrative Tools->Services).
 
 Anyway head to the download section and use a ready to use package
 
-### How to give the selenium user the permission to “**Start a session as a service**“.
+### How to give the selenium user the permission to “Start a session as a service“.
 
-# Thanks to Eric Bouchut for submission**
+# Thanks to Eric Bouchut for submission
 
 You need to give the selenium user the permission to start the session as a service, If you don’t do this, the service won’t start at least on Windows XP/SP 3.   
 Here it is.   

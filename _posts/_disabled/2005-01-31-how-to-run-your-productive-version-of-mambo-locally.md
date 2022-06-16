@@ -23,7 +23,7 @@ EasyPHP  is a complete software package allowing to use all the power and the fl
 
 Click <span class="readon"> Read more… to see my experience with it:
 
-# Install easyPHP** EasyPHP is a complete software package allowing to use all the power and the flexibility that offers the dynamic language PHP and the effecient use of databases under Windows. Package includes an Apache server, a MySQL database, a fully PHP execution, as well as easy development tools for your web site or your applications.
+# Install easyPHP EasyPHP is a complete software package allowing to use all the power and the flexibility that offers the dynamic language PHP and the effecient use of databases under Windows. Package includes an Apache server, a MySQL database, a fully PHP execution, as well as easy development tools for your web site or your applications.
 
 | ![](/assets/images/2005/01/easyPHP.jpg) | The latest stable version (v1.7) is made of: - Apache 1.3.27 - PHP 4.3.3 - MySQL 4.0.15 - PhpMyAdmin 2.5.3  and can be downloaded at: <http://www.easyphp.org/> |
 |:-:|---|
@@ -33,32 +33,32 @@ Click <span class="readon"> Read more… to see my experience with it:
 | ![](/assets/images/2005/01/easyPHP-1.jpg)    ![](/assets/images/2005/01/easyPHP-2.jpg) | Check configuration, Apache and MySQl must be started. If not be sure not to have another apache process running on port 80 |
 | ![](/assets/images/2005/01/easyPHP-3.jpg) | Check proper installation of EasyPHP. Should open a web browser and drive You to this page |
 
-## **Copy data from Your productive system (www)**
+## Copy data from Your productive system (www)
 
-| **Copy** | **How** |  |
+| Copy | How |  |
 |---|---|---|
 | all remote file | Using Your favorite FTP tool |  |
 | all data in remote Database | With your provider HTML tool (PhpMyAdmin)    Export all tables and content in a SQL file on your Disk |  |
 
-## **Install file data locally**
+## Install file data locally
 
 Copy Your webserver root to: EasyPHP1-7www   
- **example**: if EasyPHP is installed in E:/www.waltercedric.com/<font face="Courier">, then copy into E:/www.waltercedric.com/EasyPHP1-7/www/
+ example: if EasyPHP is installed in E:/www.waltercedric.com/<font face="Courier">, then copy into E:/www.waltercedric.com/EasyPHP1-7/www/
 
-## **Restore database data locally**
+## Restore database data locally
 
 | ![](/assets/images/2005/01/phpMyAdmin.jpg) | Start a browser and go to <http://127.0.0.1/mysql/> |
 |---|---|
 | ![](/assets/images/2005/01/phpMyAdmin-1.jpg)    ![](/assets/images/2005/01/phpMyAdmin-2.jpg) | Restore the Data in your new database by importing the SQL file. - Bloc by bloc (see picture) or - By importing the SQL zip file         (not working for me as the browser is doing timeout         since my Databse is quite big) |
-| ![](/assets/images/2005/01/easyPHP-4.jpg) | If the restore is successful, create a user, as found in the configuration file of Mambo. Create a User - Of the same name and password, or - Create a new user (better because of security concerns) ut then do not forget to adapt the configuration.php accordingly.  \| in Mambo/configuration.php    ocate the mySQL login and password mambo is using \| \| <?php     $mosConfig\_offline = ‘0’;    $mosConfig\_host = ‘localhost’;    $mosConfig\_user = ‘**XXXX**‘;    $mosConfig\_password = ‘**XXXXX**‘;    . \| |
+| ![](/assets/images/2005/01/easyPHP-4.jpg) | If the restore is successful, create a user, as found in the configuration file of Mambo. Create a User - Of the same name and password, or - Create a new user (better because of security concerns) ut then do not forget to adapt the configuration.php accordingly.  \| in Mambo/configuration.php    ocate the mySQL login and password mambo is using \| \| <?php     $mosConfig\_offline = ‘0’;    $mosConfig\_host = ‘localhost’;    $mosConfig\_user = ‘XXXX‘;    $mosConfig\_password = ‘XXXXX‘;    . \| |
 |---|
 | ![](/assets/images/2005/01/easyPHP-5.jpg) | Grant this user all rights by clicking edit. |
 
-## **Change Mambo settings**
+## Change Mambo settings
 
 there is a lot of chance that Your local Mambo is not at the same location of Your productive Mambo, so Small changes in Mambo/configuration.php are needed:
 
-| **Example in production** | **Example localy** |
+| Example in production | Example localy |
 |---|---|
 | $mosConfig\_absolute\_path = ‘www.waltercedric.com/Mambo’; | $mosConfig\_absolute\_path = ‘E:/www.waltercedric.com/EasyPHP1-7/www/Mambo’; |
 | $mosConfig\_cachepath = ‘www.waltercedric.com/Mambo/cache’; | $mosConfig\_cachepath = ‘E:/www.waltercedric.com/EasyPHP1-7/www/Mambo/cache’; |

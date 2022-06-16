@@ -15,7 +15,7 @@ tags:
 
 - Development Status: 5 – Production/Stable
 - Intended Audience: End Users/Desktop
-- License: **GNU General Public License (GPL)**
+- License: GNU General Public License (GPL)
 - Operating System: 32-bit MS Windows (95/98), All 32-bit MS Windows (95/98/NT/2000/XP)
 - Programming Language: Visual Basic
 - Topic: Office Suites, Printing

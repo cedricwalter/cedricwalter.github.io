@@ -31,7 +31,7 @@ For all those that still don’t know what a [CAPTCHA](http://www.captcha.net/) 
 
 - Support all #Joomla! 1.6 or 3rd party extensions that use the latest JForm fields
 - Update manager is also supported, keep up to date this extension with only one click using #Joomla! 1.6 extensions manager
-- **SecurityImages 6.x is #Joomla! 1.6 native**, it wont run in #Joomla! 1.5 (use SecurityImages 5.x) nor #Joomla! 1.0 (use SecurityImages 4.x)
+- SecurityImages 6.x is #Joomla! 1.6 native, it wont run in #Joomla! 1.5 (use SecurityImages 5.x) nor #Joomla! 1.0 (use SecurityImages 4.x)
 - License as always under GNU/GPL v3.0 or later
 - It support the latest [CAPTCHA](http://www.captcha.net/) online engine: [KeyCaptcha](https://www.keycaptcha.com/), [NUCaptcha](http://www.nucaptcha.com/), [Recaptcha](http://www.google.com/recaptcha/whyrecaptcha)
 
@@ -39,7 +39,7 @@ For all those that still don’t know what a [CAPTCHA](http://www.captcha.net/) 
 
 ## KeyCaptcha
 
-# Require to create a free account and register** your site at <https://www.keycaptcha.com/>
+# Require to create a free account and register your site at <https://www.keycaptcha.com/>
 
 - Spam-bots are powerless against KeyCAPTCHA
 - It isn’t possible to transfer it to third parties for recognition
@@ -53,7 +53,7 @@ For all those that still don’t know what a [CAPTCHA](http://www.captcha.net/) 
 
 ## NUCaptcha
 
-# Require to create a free account and register** your site at <http://www.nucaptcha.com/>
+# Require to create a free account and register your site at <http://www.nucaptcha.com/>
 
 [![securityimages.nucaptcha.joomla.1.6](/assets/images/2011/03/securityimages.nucaptcha.joomla.1.6_thumb.png "securityimages.nucaptcha.joomla.1.6")](/assets/images/2011/03/securityimages.nucaptcha.joomla.1.6.png)
 
@@ -61,11 +61,11 @@ For all those that still don’t know what a [CAPTCHA](http://www.captcha.net/) 
 
 reCAPTCHA is a free CAPTCHA service that helps to digitize books, newspapers and old time radio shows.
 
-# Require to create a free account and register** your site at <http://www.google.com/recaptcha/whyrecaptcha>
+# Require to create a free account and register your site at <http://www.google.com/recaptcha/whyrecaptcha>
 
 [![securityimages.recaptcha.joomla.1.6](/assets/images/2011/03/securityimages.recaptcha.joomla.1.6_thumb.png "securityimages.recaptcha.joomla.1.6")](/assets/images/2011/03/securityimages.recaptcha.joomla.1.6.png)
 
 # Limitations
 
-1. Only register Joomla! 1.6 form is protected by the captcha for now. This is because **not all** [Joomla!](http://www.joomla.org/) 1.6 forms are using JForm Fields. I hope to see all forms rapidly migrated in later version (Joomla! 1.6.1???)
+1. Only register Joomla! 1.6 form is protected by the captcha for now. This is because not all [Joomla!](http://www.joomla.org/) 1.6 forms are using JForm Fields. I hope to see all forms rapidly migrated in later version (Joomla! 1.6.1???)
 2. Currently my own captcha engine: HNCaptcha, Calculator and Core are not migrated and thus not supported. They are anyway outdated.

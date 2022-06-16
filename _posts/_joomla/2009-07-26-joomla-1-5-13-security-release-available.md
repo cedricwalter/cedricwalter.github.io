@@ -12,7 +12,7 @@ header:
 
 [![f_1218589627](/assets/images/2009/07/f_1218589627_thumb.png "f_1218589627")](/assets/images/2009/07/f_1218589627.png)
 
-The #Joomla Project announces the immediate availability of #Joomla 1.5.13 \[Wojmamni ama baji\]. **This is a security release and users are strongly encouraged to upgrade immediately.**   
+The #Joomla Project announces the immediate availability of #Joomla 1.5.13 \[Wojmamni ama baji\]. This is a security release and users are strongly encouraged to upgrade immediately.   
 This release contains 26 bug fixes, two moderate-level security fixes and one low-level security fix. It has been 3 weeks since [Joomla 1.5.12 was released](http://www.joomla.org/announcements/release-news/5242-joomla-1512-released.html) on July 1, 2009. The [Development Working Group’s](http://docs.joomla.org/Development_Working_Group) goal is to continue to provide regular, frequent updates to the #Joomla community.
 
 #### Statistics

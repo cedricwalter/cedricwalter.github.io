@@ -29,9 +29,9 @@ tags:
     - scientific
 ---
 
-# Under the pseudo : Elta, (the last magician lord)**
+# Under the pseudo : Elta, (the last magician lord)
 
-I have done a nice picture on 20th march 1998. Take **any** HP49 in the world, and try a soft reset (ON-C), and you can see my picture!!!!!. My signature is on the left corner, you can press ON quickly to freeze the pictures. The [MetaKernel](http://www.waltercedric.com/MetaKernel/index.html) is a master piece of software written entirely in ASM. I use to buy a license (version 2.20) when it was still on HP48Gx before it was merged inside the HP49 kernel.> > > ![](/assets/images/2004/09/hp49boot.gif)
+I have done a nice picture on 20th march 1998. Take any HP49 in the world, and try a soft reset (ON-C), and you can see my picture!!!!!. My signature is on the left corner, you can press ON quickly to freeze the pictures. The [MetaKernel](http://www.waltercedric.com/MetaKernel/index.html) is a master piece of software written entirely in ASM. I use to buy a license (version 2.20) when it was still on HP48Gx before it was merged inside the HP49 kernel.> > > ![](/assets/images/2004/09/hp49boot.gif)
 > > > 
 > > > > > > >
 

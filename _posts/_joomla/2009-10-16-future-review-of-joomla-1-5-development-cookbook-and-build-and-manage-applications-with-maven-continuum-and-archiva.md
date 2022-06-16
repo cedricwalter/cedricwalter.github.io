@@ -14,7 +14,7 @@ author: 'Cédric Walter'
 
 [![ApacheMaven2EffectiveImplementation](/assets/images/2009/10/ApacheMaven2EffectiveImplementation_thumb.jpg "ApacheMaven2EffectiveImplementation")](/assets/images/2009/10/ApacheMaven2EffectiveImplementation.jpg)
 
-### **[Build and Manage Applications with #Maven, Continuum, and Archiva](http://www.packtpub.com/apache-maven-2-effective-implementations/mid/161009orrayh?utm_source=waltercedric.com&utm_medium=affiliate&utm_content=blog&utm_campaign=mdb_001097)**
+### [Build and Manage Applications with #Maven, Continuum, and Archiva](http://www.packtpub.com/apache-maven-2-effective-implementations/mid/161009orrayh?utm_source=waltercedric.com&utm_medium=affiliate&utm_content=blog&utm_campaign=mdb_001097)
 
 - Install Apache #Maven and follow the sample application to build up your project as quickly as possible
 - Test your applications to ensure maximum stability using #Maven’s inbuilt tools

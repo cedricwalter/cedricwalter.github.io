@@ -31,11 +31,11 @@ tags:
 
 [![joomla_cms](/assets/images/2006/01/joomla_cms_thumb.png "joomla_cms")](/assets/images/2009/10/joomla_cms.png)
 
-# ****![](/assets/images/2009/10/taticelinuxtux10409_thumb.png)![php.logo](/assets/images/2009/10/php.logo_.png "php.logo")******
+# ![](/assets/images/2009/10/taticelinuxtux10409_thumb.png)![php.logo](/assets/images/2009/10/php.logo_.png "php.logo")
 
-# *Digital watermarking*** *is the process of possibly irreversibly embedding information into a digital signal. The signal may be audio, pictures or video, for example. If the signal is copied, then the information is also carried in the copy. In visible watermarking, the information is visible in the picture or video. Typically, the information is text or a logo which identifies the owner of the media.* \[[Wikipedia](http://en.wikipedia.org/wiki/Image_watermarking)\]
+# *Digital watermarking* *is the process of possibly irreversibly embedding information into a digital signal. The signal may be audio, pictures or video, for example. If the signal is copied, then the information is also carried in the copy. In visible watermarking, the information is visible in the picture or video. Typically, the information is text or a logo which identifies the owner of the media.* \[[Wikipedia](http://en.wikipedia.org/wiki/Image_watermarking)\]
 
-If you decide to go with **an online watermarking**, you can let watermark picture on the fly using php and .htaccess (at the cost of additional CPU server resources).
+If you decide to go with an online watermarking, you can let watermark picture on the fly using php and .htaccess (at the cost of additional CPU server resources).
 
 ### Why Watermarking pictures?
 

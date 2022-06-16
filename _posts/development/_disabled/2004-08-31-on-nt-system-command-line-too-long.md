@@ -17,7 +17,7 @@ tags:
 On windows NT machine, command line length is limited to 1024 characters!, clearly not enough for a distributed
 classpath with a lot of frameworks or 3rd party tools.
 
-# Solutions**
+# Solutions
 
 - Reduce number of jar files, instead of having 10 jar files, you can try to build only one, use automatic build
   process, with jakarta ANT during the build and for your deployment. This is often not a good/verybad solution.

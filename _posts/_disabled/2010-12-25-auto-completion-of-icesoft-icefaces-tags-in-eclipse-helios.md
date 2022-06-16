@@ -30,13 +30,13 @@ if you still want to use \*.xhtml, .iface
 
 ## Auto completion for facelets, html and core components
 
-# Use Jboss Tools** which has enables content assist for f: ui: s: h:
+# Use Jboss Tools which has enables content assist for f: ui: s: h:
 
-# To [install](https://www.jboss.org/tools/download/installation/update_3_2.html#fromsite) JBoss Tools, start up #Eclipse 3.6 then:**
+# To [install](https://www.jboss.org/tools/download/installation/update_3_2.html#fromsite) JBoss Tools, start up #Eclipse 3.6 then:
 
 > `<strong>Help > Install New Software... ></strong>`
 
- **and add this URL:** `<strong><a href="http://download.jboss.org/jbosstools/updates/development/"><strong>http://download.jboss.org/jbosstools/updates/development/</strong></a></strong>`
+ and add this URL: `<strong><a href="http://download.jboss.org/jbosstools/updates/development/"><strong>http://download.jboss.org/jbosstools/updates/development/</strong></a></strong>`
 
 Locate your project in eclipse, right click, select configure and choose “Add JSF capabilities” as seen in the picture below
 

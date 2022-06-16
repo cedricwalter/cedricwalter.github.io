@@ -15,5 +15,5 @@ tags:
     - starwars
 ---
 
-I was at the cinema last week, and I saw the latest version of Star Wars 3, while being a good film for testing the capabilities of your new home cinema (for fast moving pictures, soundtrack, bright colors), i don’t think that anyone except **fans** will say that it is a great film. I was shocked by the length of text and dialogue: impossible to fill more than 6 pages A4 !!  
+I was at the cinema last week, and I saw the latest version of Star Wars 3, while being a good film for testing the capabilities of your new home cinema (for fast moving pictures, soundtrack, bright colors), i don’t think that anyone except fans will say that it is a great film. I was shocked by the length of text and dialogue: impossible to fill more than 6 pages A4 !!  
 I found a not so deformed review (I agree to it) here: [Star Wars: Episode III – Revenge of The Sith (12A) ](http://enjoyment.independent.co.uk/film/reviews/story.jsp?story=640575)It is still worth looking in a numerical cinema, but certainly not worth the cost of the cinema seat ticket: 9.5euro!

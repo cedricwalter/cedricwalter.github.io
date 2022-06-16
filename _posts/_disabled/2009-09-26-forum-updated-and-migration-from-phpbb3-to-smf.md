@@ -53,8 +53,8 @@ Download the right convert SQL file from
 
 <http://www.simplemachines.org/community/index.php?topic=140741.0>
 
-# Software:** phpBB   
-# Version:** [phpBB3+](http://www.simplemachines.org/community/index.php?topic=218449.0)
+# Software: phpBB   
+# Version: [phpBB3+](http://www.simplemachines.org/community/index.php?topic=218449.0)
 
 then run
 

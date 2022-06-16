@@ -307,7 +307,7 @@ Some pictures of the prototype and his designer…..Mr. Shigetada Taya
 
 # Raptor stock parts status
 
-| **Référence** | **Decription**               | **Nombre** |     |
+| Référence | Decription**               | **Nombre** |     |
 |---------------|------------------------------|------------|-----|
 | AK            | courone principale           | 5          |     |
 | PV008         | barre bell                   | 8          |     |

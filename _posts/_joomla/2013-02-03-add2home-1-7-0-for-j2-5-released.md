@@ -22,9 +22,9 @@ Add2Home has been updated to version 1.7.0 for #Joomla 2.5. For existing users t
 
 <a>New ideas/features/bugs are always welcomed either through forums or by using[feedback](http://www.waltercedric.com/index.php/joomlacms/2017-you-can-now-prioritize-next-joomla-extensions-ideasfeatures)
 
-This release contains the **Last code update:** 2013.01.18 – v2.0.5 – [v2.0.5 of Add To Home Screen](http://cubiq.org/add-to-home-screen)
+This release contains the Last code update: 2013.01.18 – v2.0.5 – [v2.0.5 of Add To Home Screen](http://cubiq.org/add-to-home-screen)
 
-# Device compatibility:** iPhone/Ipod touch >=3.1.1, iPad >=3.2.
+# Device compatibility: iPhone/Ipod touch >=3.1.1, iPad >=3.2.
 
 - [fix an iOS6 positioning issue on iPhone](https://github.com/cubiq/add-to-homescreen/commit/b0371334eea61d5cb09ebea7440dd65f9f4af7a9)
 - [added arabic translation](https://github.com/cubiq/add-to-homescreen/commit/aebfd217c9eedfe05fdc5f9d5260c0de0fb56640)

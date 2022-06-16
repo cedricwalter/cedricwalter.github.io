@@ -10,9 +10,9 @@ header:
   teaser: /assets/images/2013/05/digicamcontrol-dual-screen-live-view.jpg
 ---
 
-# ![digicamcontrol-dual-screen-live-view](/assets/images/2013/05/digicamcontrol-dual-screen-live-view.jpg "digicamcontrol-dual-screen-live-view")**
+# ![digicamcontrol-dual-screen-live-view](/assets/images/2013/05/digicamcontrol-dual-screen-live-view.jpg "digicamcontrol-dual-screen-live-view")
 
-# [digiCamControl](http://digicamcontrol.com/ "Remote control your DSLR camera") is a free, open source program that gives you full control over Nikon cameras from you Windows PC. It supports tethering, live view, remote triggering, direct image transfer, controlling multiple cameras simultaneously and even offers you to control the camera from your tablet or smartphone. And support for Canon cameras is well on its way.**
+# [digiCamControl](http://digicamcontrol.com/ "Remote control your DSLR camera") is a free, open source program that gives you full control over Nikon cameras from you Windows PC. It supports tethering, live view, remote triggering, direct image transfer, controlling multiple cameras simultaneously and even offers you to control the camera from your tablet or smartphone. And support for Canon cameras is well on its way.
 
 This is the first full release of [digiCamControl](http://digicamcontrol.com/ "Remote control your DSLR camera") , a free program that gives you full control over your digital cameras from your Windows PC. Currently almost all Nikon DSLR’s can be controlled, and support for Canon cameras is under development. The software is free to download and use.
 

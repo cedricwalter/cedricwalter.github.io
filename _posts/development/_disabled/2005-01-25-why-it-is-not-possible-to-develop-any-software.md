@@ -8,7 +8,7 @@ author: 'Cédric Walter'
 
 ---
 
-# **Bug** **Tracking** **Tool**<span style="color: rgb(255, 0, 0);">Work in progress  
+# Bug Tracking Tool<span style="color: rgb(255, 0, 0);">Work in progress  
  
 
 or Why it is not possible to manage any software development without a bug tracking tool  

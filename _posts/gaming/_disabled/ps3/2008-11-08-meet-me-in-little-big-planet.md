@@ -15,7 +15,7 @@ header:
 
 In between …
 
-For all of you **wanting to learn how to create better levels**, Sony has started a new site **[LittleBigWorkshop](http://www.littlebigworkshop.com/)** [LittleBigWorkshop](http://www.littlebigworkshop.com/) is your personal creative canvas to inspire ingenuity, creative synergy, or for those of you   
+For all of you wanting to learn how to create better levels, Sony has started a new site [LittleBigWorkshop](http://www.littlebigworkshop.com/) [LittleBigWorkshop](http://www.littlebigworkshop.com/) is your personal creative canvas to inspire ingenuity, creative synergy, or for those of you   
  who are just curious.
 
 Want to customize your SackBoy? then head to <http://mysackboy.littlebigplanet.com/> This Little Big Planet   

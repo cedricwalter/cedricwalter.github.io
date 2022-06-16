@@ -68,8 +68,8 @@ Add in the Maven runner of every TeamCity Build
 
 ![addDependenciesGraphGoalsInBuild](/assets/images/2009/08/addDependenciesGraphGoalsInBuild.png)### Maven goals
 
-- **depgraph:depgraph** Can be used to draw a dependency graph from the project, the mojo is executed in. It traverses all dependencies and creates a graph using Graphviz. It draws a dependency graph just for your project. For a simple POM with no submodules, it draws a graph of all dependencies (including transitive ones) below it. For a POM with submodules, goes into each leaf POM and generates a separate graph for it.
-- **depgraph:fullgraph** Can be used to draw a dependency graph from the project, the mojo is executed in. It traverses all dependencies and creates a graph using Graphviz. It draws a graph for all the modules as they are interconnected. Same as depgraph for a simple POM, but for a POM with submodules, generates a combined dependency graph incorporating all modules.
+- depgraph:depgraph Can be used to draw a dependency graph from the project, the mojo is executed in. It traverses all dependencies and creates a graph using Graphviz. It draws a dependency graph just for your project. For a simple POM with no submodules, it draws a graph of all dependencies (including transitive ones) below it. For a POM with submodules, goes into each leaf POM and generates a separate graph for it.
+- depgraph:fullgraph Can be used to draw a dependency graph from the project, the mojo is executed in. It traverses all dependencies and creates a graph using Graphviz. It draws a graph for all the modules as they are interconnected. Same as depgraph for a simple POM, but for a POM with submodules, generates a combined dependency graph incorporating all modules.
 
 You may also want to let developer look at modules dependencies graph in TeamCity, so you may want to add to artifact path \*\*/site/images/\*.png => dependenciesGraph
 
@@ -79,4 +79,4 @@ You may also want to let developer look at modules dependencies graph in TeamCit
 
 Install [Graphviz](http://www.graphviz.org/) and don’t forget to have it in PATH.
 
-You can share an eclipse Maven launcher in your parent project, right click on your pom.xml and select run as Maven configuration, specify either **depgraph:fullgraph** or **depgraph:depgraph** as goals
+You can share an eclipse Maven launcher in your parent project, right click on your pom.xml and select run as Maven configuration, specify either depgraph:fullgraph or depgraph:depgraph as goals

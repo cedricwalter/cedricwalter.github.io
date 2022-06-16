@@ -8,14 +8,14 @@ author: 'Cédric Walter'
 
 ---
 
-The #Joomla Project announces the immediate availability of #Joomla 1.5.9 \[Vatani\]. **This is a security release and users are strongly encouraged to upgrade immediately.**    
+The #Joomla Project announces the immediate availability of #Joomla 1.5.9 \[Vatani\]. This is a security release and users are strongly encouraged to upgrade immediately.    
 It has been around two months since [Joomla 1.5.8 was released](http://www.joomla.org/announcements/release-news/5219-joomla-158-released.html) on November 10, 2008. The [Development Working Group’s](http://docs.joomla.org/Development_Working_Group) goal is to continue to provide regular, frequent updates to the #Joomla community.
 
 [Announcement and download here](http://www.joomla.org/announcements/release-news/5226-joomla-159-security-release-now-available.html)
 
 Unnoficial [Mirror download here](http://mirror.waltercedric.com/)
 
-# Statistics for the 1.5.9 release period:**
+# Statistics for the 1.5.9 release period:
 
 - Joomla 1.5.9 contains: 
     - 81 issues fixed in SVN

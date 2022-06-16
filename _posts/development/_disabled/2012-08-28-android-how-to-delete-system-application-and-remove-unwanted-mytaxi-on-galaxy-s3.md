@@ -26,7 +26,7 @@ su (enter) mount -o rw,remount /system (enter) rm -r /system/app/FILE-NAME-HERE.
 
 # How to remove this SHIT of [myTaxi – Passenger Taxi App](https://play.google.com/store/apps/details?id=taxi.android.client&feature=search_result#?t=W251bGwsMSwxLDEsInRheGkuYW5kcm9pZC5jbGllbnQiXQ..) on Samsung Galaxy S3 
 
-This application got installed **without my knowledge by a Samsung update** as a System App that CANNOT BE UN INSTALLED!
+This application got installed without my knowledge by a Samsung update as a System App that CANNOT BE UN INSTALLED!
 
 First before I forgot: Go to hell Samsung and [Intelligent Apps GmbH](http://www.mytaxi.net/) 
 

@@ -25,7 +25,7 @@ Trivial but worth mentioning:
 
 - You need in Maven phase “pre-integration-test” to deploy your web application to a running container: tomcat, jboss, weblogic, iis.. before running acunetix against it
 - You need to adapt values in red below to your runtime environment
-- the Ant task is run only if your OS match the string “**Windows XP**” so remove this or use the right OS’s name determined by the Java Virtual machine and set in the “os.name” system property.
+- the Ant task is run only if your OS match the string “Windows XP” so remove this or use the right OS’s name determined by the Java Virtual machine and set in the “os.name” system property.
 
 ```
 <profiles>

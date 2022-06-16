@@ -19,10 +19,10 @@ This new release will also have a focus on making installations easier,
 - by adding supplementary checks in the page “Check Your System”
 - by patching/un-patching #Joomla! sections without overwriting any files with FTP (but hey I will change code on the fly in background as they is no better way at the moment)
 
-I also want to **add a new API** (the current one will be still available) that will allow me to use recaptcha more easily.
+I also want to add a new API (the current one will be still available) that will allow me to use recaptcha more easily.
 
 Ajax would be nice to have in front end and backend, but that may be out of reach for this release.
 
-# It is time** **[to request new features in the forum!](http://forums.waltercedric.com/index.php?board=48.0)** I will look at request and it may be part of that release…
+# It is time [to request new features in the forum!](http://forums.waltercedric.com/index.php?board=48.0) I will look at request and it may be part of that release…
 
 Release in worst case expected for end of months.

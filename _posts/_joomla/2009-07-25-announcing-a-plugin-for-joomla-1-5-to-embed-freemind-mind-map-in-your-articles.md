@@ -16,7 +16,7 @@ header:
 
 I am developing a new plug-in for #Joomla!! 1.5 that allow you to display any Freemind Mind Map using a fancy Flash applet in any #Joomla! article
 
-# Usage**:
+# Usage:
 
 you’ll be able to write in your article this special text code
 

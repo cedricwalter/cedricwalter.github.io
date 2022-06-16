@@ -10,7 +10,7 @@ tags:
     - java
 ---
 
-I’ve been granted a free professional license of [XDepend](http://www.xdepend.com/), **thanks to Mat Huston**, [XDepend](http://www.xdepend.com/) lead developer.
+I’ve been granted a free professional license of [XDepend](http://www.xdepend.com/), thanks to Mat Huston, [XDepend](http://www.xdepend.com/) lead developer.
 
 [XDepend](http://www.xdepend.com/) is a static analysis tool for JAVA developers that provides 82 code metrics, several real-time code visualization panels, code base snapshots comparison, architectural and quality rules (edition and real-time validation). The tool is a frontend to support the Code Query Language (CQL) to query a code base the same way you would query a relational database. You can using CQL, write and design your own rules and conventions for your code base.
 
@@ -28,6 +28,6 @@ What is also interesting me a lot is the possibility to make [XDepend](http://ww
 
 [Spring analyzed by XDepend](http://forge.octo.com/confluence/display/XDEPDOC/XDepend+2.10+documentation)
 
-# More to come later**
+# More to come later
 
 Note: .Net is also having a similar tools [NDepend](http://www.ndepend.com/), build on the same engine developed by [Patrick Smacchia](http://codebetter.com/blogs/patricksmacchia/).

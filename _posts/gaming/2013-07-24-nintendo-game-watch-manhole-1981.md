@@ -15,13 +15,13 @@ tags:
     - vintagegaming
 ---
 
-# [![NintendoGame&WatchManhole_1981_ (7)](/assets/images/2013/07/NintendoGameWatchManhole_1981_-7_thumb.png "NintendoGame&WatchManhole_1981_ (7)")](/assets/images/2013/07/NintendoGameWatchManhole_1981_-7.png)**
+# [![NintendoGame&WatchManhole_1981_ (7)](/assets/images/2013/07/NintendoGameWatchManhole_1981_-7_thumb.png "NintendoGame&WatchManhole_1981_ (7)")](/assets/images/2013/07/NintendoGameWatchManhole_1981_-7.png)
 
-# Game &amp; Watch** or **G&amp;W** is a line of handheld electronic games produced by Nintendo from 1980 to 1991 and created by game designer Gunpei Yokoi, each *Game &amp; Watch* features a single game to be played on an LCD screen in addition to a clock and/or an alarm.
+# Game &amp; Watch or G&amp;W is a line of handheld electronic games produced by Nintendo from 1980 to 1991 and created by game designer Gunpei Yokoi, each *Game &amp; Watch* features a single game to be played on an LCD screen in addition to a clock and/or an alarm.
 
 [![NintendoGame&WatchManhole_1981_ (3)](http://www.waltercedric.com/images/Nintendo-Game--Watch_10C5B/NintendoGameWatchManhole_1981_-3_thumb.png "NintendoGame&WatchManhole_1981_ (3)")](http://www.waltercedric.com/images/Nintendo-Game--Watch_10C5B/NintendoGameWatchManhole_1981_-3.png)
 
-# *Manhole*** is a game developed by Nintendo R&amp;D1, and was the sixth Game &amp; Watch game to be released. It first appeared in 1981 as product number MN-06 in the Gold series (more than 1 Million units), and was recreated as model number NH-103 as part of the New Wide Screen series on August 24, 1983.
+# *Manhole* is a game developed by Nintendo R&amp;D1, and was the sixth Game &amp; Watch game to be released. It first appeared in 1981 as product number MN-06 in the Gold series (more than 1 Million units), and was recreated as model number NH-103 as part of the New Wide Screen series on August 24, 1983.
 
 Each of the four buttons corresponds to an opening in the street. The player must use the buttons to close the manholes before pedestrians fall through the open holes and into the sewers.
 

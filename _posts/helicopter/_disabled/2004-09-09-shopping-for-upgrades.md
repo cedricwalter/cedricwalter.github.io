@@ -24,6 +24,6 @@ tags:
     - upgrades
 ---
 
-- [<span style="font-family: Arial Black;">**Correct**](http://www4.ocn.ne.jp/%7Ecorrect/ITEM1-5.htm) Official page in Japanese with a lot of crazy metal parts, this beautiful metal head cost only 200€
-- [<span style="font-family: Arial Black;">**Quick uk**](http://www.quickuk.co.uk/acatalog/Product_Sections_subCaliber_2.html) release a swash-plate and has now a page for the caliber 30: [<span style="font-family: Arial Black;">**Kyosho**](http://www.kyosho.co.jp/rc_model/caliber/caliber_option/caliber_option-e.html)
-- [<span style="font-family: Arial Black;">**RCmodelsports**](http://www.rcmodelsports.com/Caliber30upgrades.htm)
+- [<span style="font-family: Arial Black;">Correct](http://www4.ocn.ne.jp/%7Ecorrect/ITEM1-5.htm) Official page in Japanese with a lot of crazy metal parts, this beautiful metal head cost only 200€
+- [<span style="font-family: Arial Black;">Quick uk](http://www.quickuk.co.uk/acatalog/Product_Sections_subCaliber_2.html) release a swash-plate and has now a page for the caliber 30: [<span style="font-family: Arial Black;">Kyosho](http://www.kyosho.co.jp/rc_model/caliber/caliber_option/caliber_option-e.html)
+- [<span style="font-family: Arial Black;">RCmodelsports](http://www.rcmodelsports.com/Caliber30upgrades.htm)

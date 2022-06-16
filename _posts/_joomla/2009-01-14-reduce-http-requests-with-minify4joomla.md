@@ -56,7 +56,7 @@ Note:
 
 Click now the \[Update\] button, the URL query Builder present you the text below that is self explanatory
 
-> **Place this URI in your HTML to serve the files above combined, minified, compressed and with cache headers.**
+> Place this URI in your HTML to serve the files above combined, minified, compressed and with cache headers.
 > 
 > URI   
 > /components/com\_minify/b=Joomla1.5.8&amp;f=media/system/js/mootools.js,media/system/js/caption.js,   
@@ -66,7 +66,7 @@ Click now the \[Update\] button, the URL query Builder present you the text belo
 > <script type="text/javascript" src="/components/com\_minify/b=Joomla1.5.8&amp;amp;f=media/system/js/mootools.js,   
 >  media/system/js/caption.js,components/com\_securityimages/js/securityImages.js"></script>
 > 
-> **How to serve these files as a group**
+> How to serve these files as a group
 > 
 > For the best performance you can serve these files as a pre-defined group with a URI like: `/components/com_minify/g=keyName`
 > 
@@ -92,7 +92,7 @@ Click now the \[Update\] button, the URL query Builder present you the text belo
 2. Add this line in the <head> of your template   
     <script type="text/javascript" src="/components/com\_minify/b=Joomla1.5.8&amp;amp;   
      f=media/system/js/mootools.js,media/system/js/caption.js,components/com\_securityimages/js/securityImages.js"></script>   
-    or better this one if you did defined a group fjs (**f**rontend**js**)   
+    or better this one if you did defined a group fjs (frontendjs)   
     <script src="/Joomla1.5.8/components/com\_minify/?g=fjs" type="text/javascript"></script>
 3. Remove all dynamically added JavaScript by : see later in article
 
@@ -120,7 +120,7 @@ Do the same for all CSS, here it is 6 CSS file for the default templates rhuk\_m
     
     JHTML::script(‘caption.js’);
     
-    **when you are sure** that you did minify the script caption.js **for both** front end and back end.
+    when you are sure that you did minify the script caption.js for both front end and back end.
     
     ### Test proper operations
     

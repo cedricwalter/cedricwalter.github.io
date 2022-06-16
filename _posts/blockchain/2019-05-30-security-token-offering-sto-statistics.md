@@ -34,11 +34,11 @@ tags:
 security token offerings is in its definition. Stocks, bonds and managed property trusts are another examples of
 securities.
 
-Essentially, a security token is a **cryptocurrency-based asset** that derives its value from some other asset that it
+Essentially, a security token is a cryptocurrency-based asset that derives its value from some other asset that it
 represents. For example, security tokens can represent real estate or gold but, most importantly, they can represent
 shares and securities or their alternative.
 
-The tokens offered during an **ICO** are called utility tokens, their value is based on demand for the product or
+The tokens offered during an ICO are called utility tokens, their value is based on demand for the product or
 service which requires the tokens. They are not normally legally-binding contracts and do not represent any underlying
 assets.
 

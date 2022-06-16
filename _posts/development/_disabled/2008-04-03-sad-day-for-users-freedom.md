@@ -14,7 +14,7 @@ header:
 |---|---|
 
 [From the Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2008/04/02/AR2008040201515.html)   
-"Even if the votes were legitimately won , which I doubt , **OOXML is not an open standard** because it isn’t   
+"Even if the votes were legitimately won , which I doubt , OOXML is not an open standard because it isn’t   
 fully implemented on competing platforms, and its future shape is subject purely to Microsoft’s control,"   
 \[…\]   
 "Confusingly, the Office Open XML format being assessed by the ISO "is not what Microsoft implements in   

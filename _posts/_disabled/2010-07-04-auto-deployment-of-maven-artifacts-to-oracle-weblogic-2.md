@@ -36,7 +36,7 @@ I found this time a new way to deploy #Maven artefacts using the Oracle Weblogic
 If you remember [my previous post](https://waltercedric.com/new/?p=5099), there is many ways to deploy your war/ear to [Oracle Weblogic](http://www.oracle.com/appserver/weblogic/weblogic-suite.html)
 
 1. Using [Oracle Weblogic](http://www.oracle.com/appserver/weblogic/weblogic-suite.html) development mode, a mode in which a simple copy of your files in a specific autodeploy directory trigger the update/install of these
-2. Using [Maven Cargo](http://cargo.codehaus.org/Maven2+plugin), this work **only if your Oracle Weblogic container is local** ([see here](http://cargo.codehaus.org/WebLogic+10.3.x)) on the same machine, where Apache #Maven is running
+2. Using [Maven Cargo](http://cargo.codehaus.org/Maven2+plugin), this work only if your Oracle Weblogic container is local ([see here](http://cargo.codehaus.org/WebLogic+10.3.x)) on the same machine, where Apache #Maven is running
 3. Using a [very old #Maven plugin](http://mojo.codehaus.org/weblogic-maven-plugin/) (2008), local and remote container are supported, but our builds were sometimes hanging during pre integration phase for no apparent reasons.
 
 And now using the official ANT API of Oracle, by far the MOST stable of all!
@@ -57,7 +57,7 @@ java -jar wljarbuilder.jar
 
 You can now deploy this huge jar file `wlfullclient.jar` (59 MB) to your [Artifactory](http://www.jfrog.org/)/[Nexus](http://nexus.sonatype.org/)/[Archiva](http://archiva.apache.org/) repository
 
-We need another jar file, this one can be found in **bea/modules** directory. Install also **com.bea.core.descriptor.wl\_1.1.0.0.jar** into your local maven repository
+We need another jar file, this one can be found in bea/modules directory. Install also com.bea.core.descriptor.wl\_1.1.0.0.jar into your local maven repository
 
 ```
 <dependency>
@@ -67,7 +67,7 @@ We need another jar file, this one can be found in **bea/modules** directory. In
 </dependency>
 ```
 
-We need another jar file, this one can also be found in **bea/modules** directory. Install also **webservices.jar** into your local maven repository
+We need another jar file, this one can also be found in bea/modules directory. Install also webservices.jar into your local maven repository
 
 ```
 <dependency>

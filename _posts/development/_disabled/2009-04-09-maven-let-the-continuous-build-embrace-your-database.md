@@ -24,7 +24,7 @@ These are common challenges when developing large J2EE systems. This presentatio
 
 The PDF cannot be downloaded, fortunately I‘ve made a backup just in case 2 years ago. I did upload the presentation at SlideShare
 
-<div id="__ss_5475750" style="width: 425px;">**[Let the Continuous Build Embrace Your Database](http://www.slideshare.net/cedricwalter/let-the-continuous-build-embrace-your-database "Let the Continuous Build Embrace Your Database")** <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=10,0,32,18" height="355" width="425"><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><param name="src" value="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=3020-101018063533-phpapp02&stripped_title=let-the-continuous-build-embrace-your-database&userName=cedricwalter"></param><embed allowfullscreen="allowfullscreen" allowscriptaccess="always" height="355" src="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=3020-101018063533-phpapp02&stripped_title=let-the-continuous-build-embrace-your-database&userName=cedricwalter" type="application/x-shockwave-flash" width="425"></embed></object><div style="padding: 5px 0 12px;">View more [presentations](http://www.slideshare.net/) from [cedricwalter](http://www.slideshare.net/cedricwalter).Here is the mind map I’ve done during the presentation
+<div id="__ss_5475750" style="width: 425px;">[Let the Continuous Build Embrace Your Database](http://www.slideshare.net/cedricwalter/let-the-continuous-build-embrace-your-database "Let the Continuous Build Embrace Your Database") <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=10,0,32,18" height="355" width="425"><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><param name="src" value="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=3020-101018063533-phpapp02&stripped_title=let-the-continuous-build-embrace-your-database&userName=cedricwalter"></param><embed allowfullscreen="allowfullscreen" allowscriptaccess="always" height="355" src="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=3020-101018063533-phpapp02&stripped_title=let-the-continuous-build-embrace-your-database&userName=cedricwalter" type="application/x-shockwave-flash" width="425"></embed></object><div style="padding: 5px 0 12px;">View more [presentations](http://www.slideshare.net/) from [cedricwalter](http://www.slideshare.net/cedricwalter).Here is the mind map I’ve done during the presentation
 
 - Continuous build for DB 
     - db changes 
@@ -43,7 +43,7 @@ The PDF cannot be downloaded, fortunately I‘ve made a backup just in case 2 ye
     - ex: version 1.0 in prod, but bug appear 
         - -> open a branch
         - -> automatic run of branch sql scripts also to trunk
-    - **Idempotent**
+    - Idempotent
         - but the same script apply twice on different database status do not gibe the same result 
             - so they have to make script idempotent by checking/handling all previous versions
         - views ad trigger can be Idempotent easily

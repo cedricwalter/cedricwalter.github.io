@@ -44,5 +44,5 @@ tags:
 | Gaine frein diverse                                                                                                                                                                                | 15,25â&#130;¬      |
 | Support d'assurance en Inox aspect chromée   ( [www.retro-motos-pieces.com](http://www.retro-motos-pieces.com/) )                                                                                 | 10â&#130;¬         |
 | 2 joints de compteur "standard" diamÃ¨tre d'encastrement 55/60mm noir                                                                                                                              | 12â&#130;¬         |
-| Total                                                                                                                                                                                              | **920.03â&#130;¬** |
+| Total                                                                                                                                                                                              | 920.03â&#130;¬ |
 

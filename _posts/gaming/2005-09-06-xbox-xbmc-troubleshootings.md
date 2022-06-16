@@ -14,17 +14,17 @@ tags:
 
 *I was hoping you could help me connect my xbox to my Apple computer. I have tried every FTP program I could get my hands on, including the built in FTP in the operating system. My Xbox has an Xecuter MOD running Evolution X. I cannot get the Xbox to network with my iMac no matter what I do. Any suggestions?*
 
-# XBOX, XBMC troubleshootings…**
+# XBOX, XBMC troubleshootings…
 
 
 
-  **XBOX, XBMC troubleshootings**
+  XBOX, XBMC troubleshootings
 
-| **Try:** | **Type in a Command DOS windows** | **What if proove** | **if not working** |
+| Try: | Type in a Command DOS windows | What if proove | if not working |
 |---|---|---|---|
-| If you have a router…   **and all computer including XBOX are connected to it** | Use a web browser:   Connect to the admin console of Your router [http://192.168.1.1](http://192.168.1.1/) for US robotics and [http://192.168.0.1](http://192.168.0.1/) for Netgear, If none of them work look in the router’s manual.   Go to the panel where You can see all devices attached (attached devices):    You must see one device more (ex: AAA.BBB.CCC.DDD as IPadress) | If router has given an IPAdres, then it is OK | 1. Check network cable and/or    2. Modchip install and/or    3. Setting in evolutionX (checkbox FTP active) |
+| If you have a router…   and all computer including XBOX are connected to it | Use a web browser:   Connect to the admin console of Your router [http://192.168.1.1](http://192.168.1.1/) for US robotics and [http://192.168.0.1](http://192.168.0.1/) for Netgear, If none of them work look in the router’s manual.   Go to the panel where You can see all devices attached (attached devices):    You must see one device more (ex: AAA.BBB.CCC.DDD as IPadress) | If router has given an IPAdres, then it is OK | 1. Check network cable and/or    2. Modchip install and/or    3. Setting in evolutionX (checkbox FTP active) |
 | If you have no router… |  | Verify that PC and XBOX are connected using a cross network cable |  |
-| Verify carefully settings in EvolutionX |  | 1. Verify that FTP active is checked   2. Verify that if **Use static IP** is set to false and reboot the XBOX, the router will give it a new IP, if the XBOX dd not receive an IP: check router manual because DHCP must be active |  |
+| Verify carefully settings in EvolutionX |  | 1. Verify that FTP active is checked   2. Verify that if Use static IP** is set to false and reboot the XBOX, the router will give it a new IP, if the XBOX dd not receive an IP: check router manual because DHCP must be active |  |
 | See if the XBOX is alive | *ping AAA.BBB.CCC.DDD* | The XBOX is responding and there is no IPadress conflict | 1. Look at cable   2. Look if modchip correctly installed   3. Look if FTP active in setting   4. Assign a different IP (a Fix IP in Settings) |
 | See if FTP port is reachable | *telnet AAA.BBB.CCC.DDD 21* | The XBOX port is open,    You network let FTP through,    No firewall blocck the outgoing port FTP (21) | Look at firewall settings if any is installed |
 |  |  |  |  |

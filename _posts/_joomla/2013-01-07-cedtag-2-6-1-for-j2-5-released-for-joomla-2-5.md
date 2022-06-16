@@ -18,7 +18,7 @@ tags:
 
 ### Warning
 
-# IT IS MANDATORAY TO COMPLETELY REMOVE ALL VERSION < 2.6.0 BEFORE INSTALLING THIS NEW ONE! Go to the Extension Manager under the tab Manage, enter in filter "tag", select all and click Actions – Uninstall**   
+# IT IS MANDATORAY TO COMPLETELY REMOVE ALL VERSION < 2.6.0 BEFORE INSTALLING THIS NEW ONE! Go to the Extension Manager under the tab Manage, enter in filter "tag", select all and click Actions – Uninstall   
 Reason: I did change a lot of folder name and file casing casing to be more #Joomla compliant   
 Don’t be scared you will not loose any Tags or data from your database! uninstalling do not remove currently any tables!
 
@@ -52,11 +52,11 @@ Remove Tag xxxx to all articles which have also Tag yyyy.
 
 [![cedtag_2-6-1_maintenance-remove-tags](http://www.waltercedric.com/images/698d8abafb70_1070F/cedtag_2-6-1_maintenance-remove-tags_thumb.png "cedtag_2-6-1_maintenance-remove-tags")](http://www.waltercedric.com/images/698d8abafb70_1070F/cedtag_2-6-1_maintenance-remove-tags.png)
 
-# NEW: **change position of tag in category view, blog view that you can set tags to appear after intro text (show after text before readmore button)
+# NEW: change position of tag in category view, blog view that you can set tags to appear after intro text (show after text before readmore button)
 
-# NEW: **version of extension is now displayed in administrator backend panel.
+# NEW: version of extension is now displayed in administrator backend panel.
 
-# NEW: **Adding a “Clear All” button in “TERM MANAGER” to remove all Tags and all
+# NEW: Adding a “Clear All” button in “TERM MANAGER” to remove all Tags and all
 
 # Bug Fixing
 

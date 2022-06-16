@@ -15,14 +15,14 @@ tags:
     - tutorial
 ---
 
-# Browser #Javascript tips and tricks for improving Your business application GUI**  
+# Browser #Javascript tips and tricks for improving Your business application GUI  
 All credits to original authors….
 
 All theses examples have to be put in the body onload=”” tag of Your pages….
 
 More in the [javascript section](http://waltercedric.com/Mambo/index.php?option=com_content&task=category&sectionid=9&id=109&Itemid=53)….
 
- **How to deactivate the F5 button (RELOAD page) IEonly**
+ How to deactivate the F5 button (RELOAD page) IEonly
 
 ```
 function avoidF5key(){
@@ -39,7 +39,7 @@ function avoidF5key(){
 }
 ```
 
- **How to change images when the user hover on them All**
+ How to change images when the user hover on them All
 
 ```
 <img src="image1.jpg" hsrc="image2.jpg">
@@ -66,7 +66,7 @@ function changeImageOnHover() {
 }
 ```
 
- **How to display a moving slider which distract user during long server operations**
+ How to display a moving slider which distract user during long server operations
 
  Put this code anywhere in Your page:
 

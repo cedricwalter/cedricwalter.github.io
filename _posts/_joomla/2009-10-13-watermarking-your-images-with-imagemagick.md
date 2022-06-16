@@ -10,9 +10,9 @@ author: 'Cédric Walter'
 
 [![joomla_cms](/assets/images/2006/01/joomla_cms_thumb.png "joomla_cms")](/assets/images/2009/10/joomla_cms.png)
 
-# ![](/assets/images/2009/10/taticelinuxtux10409_thumb.png) *Digital watermarking*** *is the process of possibly irreversibly embedding information into a digital signal. The signal may be audio, pictures or video, for example. If the signal is copied, then the information is also carried in the copy. In visible watermarking, the information is visible in the picture or video. Typically, the information is text or a logo which identifies the owner of the media.* \[[Wikipedia](http://en.wikipedia.org/wiki/Image_watermarking)\]
+# ![](/assets/images/2009/10/taticelinuxtux10409_thumb.png) *Digital watermarking* *is the process of possibly irreversibly embedding information into a digital signal. The signal may be audio, pictures or video, for example. If the signal is copied, then the information is also carried in the copy. In visible watermarking, the information is visible in the picture or video. Typically, the information is text or a logo which identifies the owner of the media.* \[[Wikipedia](http://en.wikipedia.org/wiki/Image_watermarking)\]
 
-I decide to go with **an offline watermarking first**, but you can let any #Joomla!® extension watermark picture on the fly using php and .htaccess (at the cost of additional CPU server resources).
+I decide to go with an offline watermarking first, but you can let any #Joomla!® extension watermark picture on the fly using php and .htaccess (at the cost of additional CPU server resources).
 
 ### Why Watermarking pictures?
 
@@ -24,7 +24,7 @@ There is a lot of reasons, among others:
 
 ## Attention
 
-The first thing to do is **to make a backup of your images**! applying a watermarking is a non reversible process, usually this mean for Joomla!® to save your /images/stories directory
+The first thing to do is to make a backup of your images! applying a watermarking is a non reversible process, usually this mean for Joomla!® to save your /images/stories directory
 
 You’ll have to decide what size you want your photos to be displayed at and how much space the text or logo will take up. Keep it small enough so as not to ruin the photo.
 
@@ -133,7 +133,7 @@ If the [-gravity](http://www.imagemagick.org/script/command-line-options.php#gra
 ### Source Code
 
 ```
-#!/bin/bash echo <span class="str">"*******************************************" echo <span class="str">"* Image Watermarking Script               *" echo <span class="str">"* By Cedric Walter - www.waltercedric.com *" echo <span class="str">"* Licence GNU/GPL v3 or later              *" echo <span class="str">"*******************************************" echo <span class="str">" "  BASEDIR=.  WATERMARK=<span class="str">"/srv/www/vhosts/waltercedric.com/httpdocs/watermark.png"  #Below <span class="kwrd">this width no watermark will be apllied MIN_PIC_HEIGHT=600 MIN_PIC_WIDTH=800  # NorthEast, East, or SouthEast gravity, it gives the distance leftward from the
+#!/bin/bash echo <span class="str">"*" echo <span class="str">"* Image Watermarking Script               *" echo <span class="str">"* By Cedric Walter - www.waltercedric.com *" echo <span class="str">"* Licence GNU/GPL v3 or later              *" echo <span class="str">"*" echo <span class="str">" "  BASEDIR=.  WATERMARK=<span class="str">"/srv/www/vhosts/waltercedric.com/httpdocs/watermark.png"  #Below <span class="kwrd">this width no watermark will be apllied MIN_PIC_HEIGHT=600 MIN_PIC_WIDTH=800  # NorthEast, East, or SouthEast gravity, it gives the distance leftward from the
 
 # right edge of the image to the right edge of the cropping region.  # Similarly, <span class="kwrd">if the -gravity option <span class="kwrd">is present with SouthWest, South, or SouthEast
 

@@ -21,7 +21,7 @@ for added traction during turning. The middle of the tire has a harder compound 
 This is which tires went through my Honda Hornet till today.
 
 
-| **<span style="color: #ffffff;">From** | **<span style="color: #ffffff;">To** | **<span style="color: #ffffff;">Brand**                                                                                       | **<span style="color: #ffffff;">Price** |
+| <span style="color: #ffffff;">From | <span style="color: #ffffff;">To | <span style="color: #ffffff;">Brand                                                                                       | <span style="color: #ffffff;">Price |
 |----------------------------------------|--------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|
 | 0                                      | 5500 km                              | [Bridgestone BT 021](http://www.lerepairedesmotards.com/
 | 5500 km                                | 11’110 km                            | [Bridgestone BT 021](http://www.lerepairedesmotards.com/

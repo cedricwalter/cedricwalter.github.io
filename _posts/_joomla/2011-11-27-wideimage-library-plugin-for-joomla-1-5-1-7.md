@@ -8,11 +8,11 @@ author: 'Cédric Walter'
 
 ---
 
-# ![wideimage-php-image-manipulation](/assets/images/2011/11/wideimage-php-image-manipulation.jpg "wideimage-php-image-manipulation")**
+# ![wideimage-php-image-manipulation](/assets/images/2011/11/wideimage-php-image-manipulation.jpg "wideimage-php-image-manipulation")
 
-# NOTE: starting with version 3.2 of the extension [Related Thumbs Articles for #Joomla](http://www.waltercedric.com/downloads/relatedthumbitem.html "Download relatedthumbitem for #Joomla"), you can either select [TimThumb for #Joomla](http://www.waltercedric.com/downloads/timthumb.html) or [WideImage for #Joomla](http://www.waltercedric.com/downloads/wideimage.html) for the creation of thumbnails.**
+# NOTE: starting with version 3.2 of the extension [Related Thumbs Articles for #Joomla](http://www.waltercedric.com/downloads/relatedthumbitem.html "Download relatedthumbitem for #Joomla"), you can either select [TimThumb for #Joomla](http://www.waltercedric.com/downloads/timthumb.html) or [WideImage for #Joomla](http://www.waltercedric.com/downloads/wideimage.html) for the creation of thumbnails.
 
-# WideImage for #Joomla is targeted for developer of #Joomla! 3rd party extensions, don’t install it if not asked otherwise**
+# WideImage for #Joomla is targeted for developer of #Joomla! 3rd party extensions, don’t install it if not asked otherwise
 
 [WideImage](http://wideimage.sourceforge.net/) is an object-oriented library for image manipulation. It requires PHP 5.2+ with GD2 extension. The library provides a simple way to [loading](http://wideimage.sourceforge.net/documentation/loading-images/), [manipulating](http://wideimage.sourceforge.net/documentation/manipulating-images/) and [saving](http://wideimage.sourceforge.net/documentation/saving-images/) images in the most [common image formats](http://wideimage.sourceforge.net/documentation/supported-formats/).
 

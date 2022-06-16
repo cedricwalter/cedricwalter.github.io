@@ -39,12 +39,12 @@ You can check here, but expected is [annual 14.2% Return on Investment (ROI)](ht
 
 There are two main types of software to be aware of when considering staking on Ethereum:
 
-# Beacon nodes**: This is the hub for your validators.
+# Beacon nodes: This is the hub for your validators.
 
 - Stores canonical state handles peers and incoming sync, propagate blocks and attestations.
 - It has a gRPC server that clients can connect to and provides a public API.
 
-# Validator clients**: Talks to your beacon node and signs blocks. You can have multiple of these at 32 ETH each.
+# Validator clients: Talks to your beacon node and signs blocks. You can have multiple of these at 32 ETH each.
 
 - Stores important secrets such as RANDAO reveal proof of custody for shared data and BLS private key.
 - Can swap underlying beacon nodes efficiently.
@@ -60,7 +60,7 @@ This means that there are three possible combinations of software to run:
 
 There is 2 ways to try Ethereum 2.0 Phase 0. Use either
 
-1. The online tutorial of Prysmatic Labs <https://prylabs.net/participate> (**Recommended**)
+1. The online tutorial of Prysmatic Labs <https://prylabs.net/participate> (Recommended)
 2. OR setup everything from scratch using Docker and linux (See below)
 
 ## Requirements

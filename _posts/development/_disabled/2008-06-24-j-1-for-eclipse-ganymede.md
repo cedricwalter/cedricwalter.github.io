@@ -24,7 +24,7 @@ Don’t forget that the latest version of eclipse is due to be released tomorrow
 
 [Download the latest eclipse Ganymede version](http://www.eclipse.org/downloads/packages/)
 
-# NOTE:**
+# NOTE:
 
-# [Ganymede](http://en.wikipedia.org/wiki/Ganymede_(moon))** is a natural satellite of Jupiter and the largest natural satellite in the Solar System. The next moon of Jupiter that may be use   
+# [Ganymede](http://en.wikipedia.org/wiki/Ganymede_(moon)) is a natural satellite of Jupiter and the largest natural satellite in the Solar System. The next moon of Jupiter that may be use   
 for the next release of #Eclipse may be IO…

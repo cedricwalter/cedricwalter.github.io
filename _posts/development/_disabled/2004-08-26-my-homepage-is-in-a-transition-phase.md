@@ -12,8 +12,8 @@ tags:
 - professional
 ---
 
-# My homepage **is in a
-transition** phase, I plan to use a CMS content management system in the future**:** [**http://mamboforge.net/**](http://mamboforge.net/)
+# My homepage is in a
+transition phase, I plan to use a CMS content management system in the future: [http://mamboforge.net/](http://mamboforge.net/)
 
 “Mambo is a business-oriented open source content management system written in PHP and uses the MySQL database.
 Initially developed by Miro International, Mambo can be hosted on #Linux, Unix, Windows and Macintosh OS X servers – in

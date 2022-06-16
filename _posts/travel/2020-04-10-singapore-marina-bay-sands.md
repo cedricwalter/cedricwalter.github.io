@@ -45,7 +45,7 @@ tags:
     - travel
 ---
 
-Singapore **Marina Bay Sands** is an integrated resort fronting Marina Bay in Singapore, owned by the Las Vegas Sands
+Singapore Marina Bay Sands is an integrated resort fronting Marina Bay in Singapore, owned by the Las Vegas Sands
 corporation. 
 
 At its opening in 2010, it was billed as the world’s most expensive standalone casino property at S$8

@@ -35,13 +35,13 @@ You can install it like any other windows software, just follow the steps
 
 Note the default port or change them if you already have another services running on your PC (XAMPP, TeamCity, Bamboo etc…)
 
-# Https Service port: 443**   
+# Https Service port: 443   
 Remote Converter clients connect to this port on the server and submit conversion tasks.
 
-# HTTP Service port: 80**   
+# HTTP Service port: 80   
 Remote machines connect to the server through this port to download the converter client.
 
-# Agent service Port: 9089**   
+# Agent service Port: 9089   
 Remote converter agents connect to this port to convert this machine.
 
  [![vmware.vcenter.converter.2](/assets/images/2009/06/vmware.vcenter.converter.2_thumb.png "vmware.vcenter.converter.2")](http://www.waltercedric.com/images/stories/makeavmwareofalivelinuxserver_14B43/vmware.vcenter.converter.2.png)
@@ -75,7 +75,7 @@ checking that /boot is mounted on my server
 
 The device /boot is mounted, I did Google for it and found that:
 
-### **Converter Standalone 4.0 does not recognize source volumes that reside on Linux Software RAID configurations**
+### Converter Standalone 4.0 does not recognize source volumes that reside on Linux Software RAID configurations
 
 During cloning of powered-on Linux machines, Converter Standalone does not recognize source volumes that are part of a Software RAID configuration (also referred to as multiple disk, or md, configurations).   
 (If your question has been resolved please mark the answers as "Helpful" or "Correct".)
@@ -112,9 +112,9 @@ Another solution would be to break the Software RAID mirroring, just temporary t
 
 ## Solution 4 cloning with clonesys
 
-# [clonesys](http://www.trickytools.com/php/clonesys.php)** is a Shell script that can be used to get an image of running Linux boxes.   
+# [clonesys](http://www.trickytools.com/php/clonesys.php) is a Shell script that can be used to get an image of running Linux boxes.   
 The image can then be burned on CD/DVD. This CD/DVD is bootable and can be used to restore the system as well as to install new similar boxes.   
-# [clonesys](http://www.trickytools.com/php/clonesys.php)** \*IS NOT\* a backup tool: it should not be used to backup users data, it is more similar to other tools such as MkCdRec, Mondo Rescue, Timo’s Rescue CD, etc…
+# [clonesys](http://www.trickytools.com/php/clonesys.php) \*IS NOT\* a backup tool: it should not be used to backup users data, it is more similar to other tools such as MkCdRec, Mondo Rescue, Timo’s Rescue CD, etc…
 
 1. Get the latest version (wget) and unpack
 2. Configure config.ini and backup.ini
@@ -125,11 +125,11 @@ Create a new VMWARE machine and boot on the CD to create your new machine.
 
 ## Solution 5 cloning live system with Mondo
 
-> **[Mondo](http://www.mondorescue.org/) is reliable.** It backs up your GNU/Linux server or workstation to tape, CD-R, CD-RW, DVD-R\[W\], DVD+R\[W\], NFS or hard disk partition. In the event of catastrophic data loss, you will be able to restore all of your data \[or as much as you want\], from bare metal if necessary. Mondo is in use by Lockheed-Martin, Nortel Networks, Siemens, HP, IBM, NASA’s JPL, the US Dept of Agriculture, dozens of smaller companies, and tens of thousands of users.
+> [Mondo](http://www.mondorescue.org/) is reliable. It backs up your GNU/Linux server or workstation to tape, CD-R, CD-RW, DVD-R\[W\], DVD+R\[W\], NFS or hard disk partition. In the event of catastrophic data loss, you will be able to restore all of your data \[or as much as you want\], from bare metal if necessary. Mondo is in use by Lockheed-Martin, Nortel Networks, Siemens, HP, IBM, NASA’s JPL, the US Dept of Agriculture, dozens of smaller companies, and tens of thousands of users.
 
-> ****[Mondo](http://www.mondorescue.org/)** is comprehensive.** **[Mondo](http://www.mondorescue.org/)**supports LVM 1/2, RAID, ext2, ext3, ext4, JFS, XFS, ReiserFS, VFAT, and can support additional filesystems easily: just e-mail the [mailing list](http://www.mondorescue.org/support.shtml) with your request. It supports software raid as well as most hardware raid controllers. It supports adjustments in disk geometry, including migration from non-RAID to RAID. **[Mondo](http://www.mondorescue.org/)**runs on all major Linux distributions (RedHat, RHEL, SuSE, SLES, Mandriva, Debian, Gentoo) and is getting better all the time. You may even use it to backup non-Linux partitions, such as NTFS.
+> [Mondo](http://www.mondorescue.org/) is comprehensive. [Mondo](http://www.mondorescue.org/)supports LVM 1/2, RAID, ext2, ext3, ext4, JFS, XFS, ReiserFS, VFAT, and can support additional filesystems easily: just e-mail the [mailing list](http://www.mondorescue.org/support.shtml) with your request. It supports software raid as well as most hardware raid controllers. It supports adjustments in disk geometry, including migration from non-RAID to RAID. [Mondo](http://www.mondorescue.org/)runs on all major Linux distributions (RedHat, RHEL, SuSE, SLES, Mandriva, Debian, Gentoo) and is getting better all the time. You may even use it to backup non-Linux partitions, such as NTFS.
 > 
-> ****[Mondo](http://www.mondorescue.org/)**is free!** It has been published under the GPL v2 (GNU Public License), partly to expose it to thousands of potential beta-testers but mostly as a contribution to the Linux community.
+> [Mondo](http://www.mondorescue.org/)is free! It has been published under the GPL v2 (GNU Public License), partly to expose it to thousands of potential beta-testers but mostly as a contribution to the Linux community.
 
 Its main advantages are in my case
 

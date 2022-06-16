@@ -10,7 +10,7 @@ header:
   teaser: /assets/images/2008/02/securityimages.4.2.3.checkSystem.gif
 ---
 
-# With the list of new functionalities below…**
+# With the list of new functionalities below…
 
 <span style="font-weight: bold; color: #009900">NEW: No more data save in SESSION storage, I have to go that path since
 

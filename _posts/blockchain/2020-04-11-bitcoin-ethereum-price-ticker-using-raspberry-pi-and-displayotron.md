@@ -34,13 +34,13 @@ A displayOTron ([Shop](https://shop.pimoroni.com/products/display-o-tron-hat) �
 
 ## Installing the Software
 
-Your SD-card needs to contain the software. You can take the long road by **building the SD-card** image yourself or **use the already prepared SD-Card image:**
+Your SD-card needs to contain the software. You can take the long road by building the SD-card image yourself or use the already prepared SD-Card image:
 
-# Download SD-Card image – Version 1.0:** <https://drive.google.com/open?id=1XZLb0e2J3-wHaR2At0dT-rYQ0IfkhdYK>
+# Download SD-Card image – Version 1.0: <https://drive.google.com/open?id=1XZLb0e2J3-wHaR2At0dT-rYQ0IfkhdYK>
 
-SHA-256:** **6380f16ff0546864cc9e53ee948ea63dcf47c6decbea50cf17ece7cd8613f72e
+SHA-256: 6380f16ff0546864cc9e53ee948ea63dcf47c6decbea50cf17ece7cd8613f72e
 
-# Write the SD-Card image to your SD Card**
+# Write the SD-Card image to your SD Card
 
 You need to write the downloaded SD card image (the img.gz-file) to your SD card (8 GB minimum) – you can use the very easy tool Balena Etcher for this: <https://www.balena.io/etcher/> .. it’s available for Win, Mac &amp; Linux.
 
@@ -52,14 +52,14 @@ Insert the SD card and connect the power plug.
 
 ## Building the SD Card
 
-# Raspbian** is THE official operating system for **all** models of the Raspberry Pi.
+# Raspbian is THE official operating system for all models of the Raspberry Pi.
 
-> **Raspbian** is a Debian-based (32 bit) computer operating system for Raspberry Pi. There are several versions of Raspbian including Raspbian Buster and Raspbian Stretch. Since 2015 it has been officially provided by the Raspberry Pi Foundation as the primary operating system for the family of Raspberry Pi single-board computers.
+> Raspbian is a Debian-based (32 bit) computer operating system for Raspberry Pi. There are several versions of Raspbian including Raspbian Buster and Raspbian Stretch. Since 2015 it has been officially provided by the Raspberry Pi Foundation as the primary operating system for the family of Raspberry Pi single-board computers.
 > 
 > <cite>[Wikipedia](https://en.wikipedia.org/wiki/Raspbian)</cite>
 
   
-Use **Raspberry Pi Imager** for an easy way to install Raspbian and other operating systems to an SD card ready to use with your Raspberry Pi:
+Use Raspberry Pi Imager for an easy way to install Raspbian and other operating systems to an SD card ready to use with your Raspberry Pi:
 
 - [Raspberry Pi Imager for Windows](https://downloads.raspberrypi.org/imager/imager.exe)
 - [Raspberry Pi Imager for macOS](https://downloads.raspberrypi.org/imager/imager.dmg)
@@ -86,17 +86,17 @@ pip install coinbase
 
 ## Get a Coinbase API key
 
-# We will use a Public endpoint, if you do more than 3 requests per second, up to 6 requests per second in bursts, you ll need an API Key.** ([doc](https://docs.pro.coinbase.com/#rate-limits))
+# We will use a Public endpoint, if you do more than 3 requests per second, up to 6 requests per second in bursts, you ll need an API Key. ([doc](https://docs.pro.coinbase.com/#rate-limits))
 
-I recommend you for security reasons to create **ANOTHER** empty Coinbase account.
+I recommend you for security reasons to create ANOTHER empty Coinbase account.
 
 To create an API key unique to your Coinbase trading account:
 
-1. Select the **Menu** in the top-right corner of the Coinbase Pro dashboard on the website. Managing API keys is not currently supported on the Coinbase Pro mobile app
-2. Select the **API** link from the menu
-3. Under **Profile Information**, select the **API Settings** tab, then select **+ New API Key**
+1. Select the Menu in the top-right corner of the Coinbase Pro dashboard on the website. Managing API keys is not currently supported on the Coinbase Pro mobile app
+2. Select the API link from the menu
+3. Under Profile Information, select the API Settings tab, then select + New API Key
 4. Select your profile and appropriate permissions, create a passphrase, and then enter in your 2-Factor Authentication code
-5. Finally, select **Create API Key** at the bottom to make a unique key. The new API key and secret will be displayed on the **API Settings** page.
+5. Finally, select Create API Key at the bottom to make a unique key. The new API key and secret will be displayed on the API Settings page.
 
 Please note that the API secret will be only be shown once, so remember to record your Secret in a secure location. If you lose your API Secret, we will not be able to retrieve it.
 

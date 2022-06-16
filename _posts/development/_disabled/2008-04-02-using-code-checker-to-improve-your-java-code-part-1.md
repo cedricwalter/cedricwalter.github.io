@@ -34,12 +34,12 @@ Code checker scans #Java source code in your favorite IDE (I assume Intellij or 
 
 There are basically of 2 types:
 
-- **On the fly code checker,** as soon as you type a word or save a new document, it run and give a real time feedback
-- **Offline checker** or so called static code analyzer that can be run during the build of your java components
+- On the fly code checker, as soon as you type a word or save a new document, it run and give a real time feedback
+- Offline checker or so called static code analyzer that can be run during the build of your java components
 
 ### Why using a code 
 
-These tools **are highly recommended** across a team of different developers for the following reasons:
+These tools are highly recommended across a team of different developers for the following reasons:
 
 - These tools are highly configurable and can be made to support almost any coding standard.
 - Ideal for projects that want to enforce a coding standard (ideally where not all developer code the same way)
@@ -52,9 +52,9 @@ These tools **are highly recommended** across a team of different developers for
 - Duplicate code – copied/pasted code means copied/pasted bugs
 - Find class design problems, bug patterns like double checked locking.
 
-They give an immediate “objective” feedback and **help developers** recognize where they have been excellent or lazy;
+They give an immediate “objective” feedback and help developers recognize where they have been excellent or lazy;
 
-It gives **team leader**, an opportunity to study the code, design and team from a different perspective; and by slicing off   
+It gives team leader, an opportunity to study the code, design and team from a different perspective; and by slicing off   
 whole classes of faults, You can concentrate more on design shortcomings.
 
 ### Features
@@ -151,7 +151,7 @@ i.e. the application could still function properly even if they were not correct
 
         <formatter type="html" toFile="pmd_report.html“  linkPrefix="http://pmd.sourceforge.net/xref/"/>
         <fileset dir="/tmp/productcatalog/">
-            <include name=“com/**/*.java"/>
+            <include name=“com//*.java"/>
         </fileset>
     </pmd>
 </target>
@@ -170,7 +170,7 @@ i.e. the application could still function properly even if they were not correct
         <minimumTokens>100</minimumTokens>
         <targetJdk>1.5</targetJdk>
         <excludes>
-            <exclude>**/generated/*.java</exclude>
+            <exclude>/generated/*.java</exclude>
         </excludes>
     </configuration>
 </plugin>

@@ -12,7 +12,7 @@ header:
 
 [![linuxOnIPhone](/assets/images/2008/12/linuxOnIPhone_thumb.jpg)](/assets/images/2008/12/linuxOnIPhone.jpg)
 
-# Linux 2.6 kernel has been ported to Apple’s iPhone platform!!!!!**
+# Linux 2.6 kernel has been ported to Apple’s iPhone platform!!!!!
 
 > *A short narrated video demonstrating iPhone #Linux, a port of the #Linux operating system to the iPhone 2G, iPhone 3G, and first-generation iPod touch platforms. This video was created with Cycorder, a video recorder app for the iPhone, with apologies for the blurriness.*
 

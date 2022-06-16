@@ -12,7 +12,7 @@ tags:
     - Collectibles
 ---
 
- <span>I’m very happy to welcome 8 new <span>**Scherrenschnitte** (Scherinschnitte can be defined as German paper snipping). Two of them are coming from ebay while 6 have been found by my father in Freiburg (Germany) and offered to me.<span>  
+ <span>I’m very happy to welcome 8 new <span>Scherrenschnitte (Scherinschnitte can be defined as German paper snipping). Two of them are coming from ebay while 6 have been found by my father in Freiburg (Germany) and offered to me.<span>  
  
 
 | [![scherenschnittCollectionCedricwalter01.jpg](/assets/images/2007/11/t_scherenschnittCollectionCedricwalter01.gif)](/assets/images/2007/11/scherenschnittCollectionCedricwalter01.jpg) | [![scherenschnittCollectionCedricwalter02.jpg](/assets/images/2007/11/t_scherenschnittCollectionCedricwalter02.gif)](/assets/images/2007/11/scherenschnittCollectionCedricwalter02.jpg) |

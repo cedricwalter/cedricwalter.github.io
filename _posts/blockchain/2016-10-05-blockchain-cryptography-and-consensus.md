@@ -6,9 +6,10 @@ author: 'Cédric Walter'
 categories:
 - blockchain
 
-
 header:
-  teaser: /assets/images/2016/10/blockchain.jpg
+overlay_image: /assets/images/2022/06/blockchain.jpg
+teaser: /assets/images/2022/06/blockchain.jpg
+caption: "Blockchain, cryptography, and consensus"
 ---
 
 ![](/assets/images/2016/10/blockchain.jpg)

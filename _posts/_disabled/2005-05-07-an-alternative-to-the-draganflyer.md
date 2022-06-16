@@ -20,7 +20,7 @@ tags:
 
 |
 |---|
-| **X-UFO R/C Spaceship**   A cheaper (200euro) alternative to the [draganflyer](http://www.rctoys.com/) (800euro)   Measures 49 x 49 x 7cm (l x w x d). UFO uses 1 x 12V battery   Available at [www.boysstuff.co.uk](http://www.boysstuff.co.uk/), in [this page HERE](http://www.boysstuff.co.uk/product.asp?id=12457)   I even found found [a video](http://www.bb-shopping.com/images/BBGadgets/radio-controlled-x-ufo/xufo.wmv) (wmv 6.54Mb bad quality) |
+| X-UFO R/C Spaceship   A cheaper (200euro) alternative to the [draganflyer](http://www.rctoys.com/) (800euro)   Measures 49 x 49 x 7cm (l x w x d). UFO uses 1 x 12V battery   Available at [www.boysstuff.co.uk](http://www.boysstuff.co.uk/), in [this page HERE](http://www.boysstuff.co.uk/product.asp?id=12457)   I even found found [a video](http://www.bb-shopping.com/images/BBGadgets/radio-controlled-x-ufo/xufo.wmv) (wmv 6.54Mb bad quality) |
 
   *Product Dimensions: Diameter 585mm (23" )   
 Product Weight: 322g, including Flight Battery.  

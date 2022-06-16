@@ -8,7 +8,7 @@ author: 'Cédric Walter'
 
 ---
 
-Just watched the movie “[Act of Valor](http://www.imdb.com/title/tt1591479/ "Act of Valor IMDB")” (IMDB **6.5**/10)
+Just watched the movie “[Act of Valor](http://www.imdb.com/title/tt1591479/ "Act of Valor IMDB")” (IMDB 6.5/10)
 where an elite team of Navy SEALs embark on a covert mission to recover a kidnapped CIA agent. The film end with this
 great citation of [Chief Tecumseh](http://en.wikipedia.org/wiki/Tecumseh)
 

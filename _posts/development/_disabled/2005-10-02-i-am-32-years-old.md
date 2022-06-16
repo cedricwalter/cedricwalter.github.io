@@ -16,7 +16,7 @@ tags:
 | ![](/assets/images/2005/10/happybirthday2005.gif) | Today is a special day at least for me! it’s my birthday and I am 32 Years old. Alsatian:  Gueter geburtsdaa!   Swiss german: Vill Glück zum Geburri!    German: Alles Gute zum Geburtstag!    English: Happy Birthday!    French: Joyeux Anniversaire!    Italian: Buon Compleanno!    Spanish: Feliz CumpleaÃ±os! |
 |---|---|
 
-|  **Language** |  **How to say "Happy Birthday"** |
+|  Language |  How to say "Happy Birthday" |
 |---|---|
 |   |   |
 |  Afrikaans |  Veels geluk met jou verjaarsdag! |

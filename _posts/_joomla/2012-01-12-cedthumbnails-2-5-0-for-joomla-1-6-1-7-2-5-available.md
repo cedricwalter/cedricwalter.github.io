@@ -37,13 +37,13 @@ All the keywords of the current Article are searched against all the keywords of
 
 Is a famous PHP library for manipulating images. WideImage is a lot better than TimThumb for that job,.
 
-Note that Joomla 2.5 though **JImage support images manipulations**, this new extension will let you the choice to use JImage or WideImage. It support both!
+Note that Joomla 2.5 though JImage support images manipulations, this new extension will let you the choice to use JImage or WideImage. It support both!
 
-<div class="attention"><div class="typo-icon">Note that Joomla 2.5 though **JImage support images manipulations**, this new extension will let you the choice to use JImage or WideImage. It support both!<div class="alert"><div class="typo-icon">Attention **JImage** do not support manipulation of remote file. If your articles, in introtext or fulltext, have images not located on your Joomla host, it will be better to use WideImage.<div class="typo-icon">Due to an error in the Joomla platform < 11.4, you can not install twice (update) the extension com_cedthumbnails, in Joomla 2.5 this is running correctly in all previous version you’ll get this error: JLibraryManifest::$libraryname already in Tracker <http://t.co/LPhupqnk>. A workaround is to run the sql query delete from xx_extensions where name = ‘’wideimage” and type=’library’; before updating. ##### DOWNLOAD / DOCUMENTATION / SUPPORT
+<div class="attention"><div class="typo-icon">Note that Joomla 2.5 though JImage support images manipulations, this new extension will let you the choice to use JImage or WideImage. It support both!<div class="alert"><div class="typo-icon">Attention JImage do not support manipulation of remote file. If your articles, in introtext or fulltext, have images not located on your Joomla host, it will be better to use WideImage.<div class="typo-icon">Due to an error in the Joomla platform < 11.4, you can not install twice (update) the extension com_cedthumbnails, in Joomla 2.5 this is running correctly in all previous version you’ll get this error: JLibraryManifest::$libraryname already in Tracker <http://t.co/LPhupqnk>. A workaround is to run the sql query delete from xx_extensions where name = ‘’wideimage” and type=’library’; before updating. ##### DOWNLOAD / DOCUMENTATION / SUPPORT
 
 ###### Previous user of the following extensions?
 
-# Remove any previous** **extensions** from me, here is the list:
+# Remove any previous extensions from me, here is the list:
 
 - lib\_wideimage\_j17.zip / lib\_wideimage\_j16.zip
 - lib\_TimThumb\_j16\_j17.zip
@@ -56,6 +56,6 @@ All these extensions are removed from the download sections and are no more supp
 
 ###### First time installation
 
-Download the latest copy of com\_cedthumbnails.zip, from **Extensions → Install / Uninstall** and install with the fresh copy.
+Download the latest copy of com\_cedthumbnails.zip, from Extensions → Install / Uninstall and install with the fresh copy.
 
 [![](http://www.waltercedric.com/images/download-zip.png)](http://www.waltercedric.com/downloads/thumbnails.html "Download Extension CedThumbnails for Joomla")[![](http://www.waltercedric.com/images/documentation.jpg)](http://wiki.waltercedric.com/index.php?title=CedThumbnails_for_Joomla "Extension CedThumbnails documentation for Joomla")[![](http://www.waltercedric.com/images/support.png)](http://forums.waltercedric.com/)

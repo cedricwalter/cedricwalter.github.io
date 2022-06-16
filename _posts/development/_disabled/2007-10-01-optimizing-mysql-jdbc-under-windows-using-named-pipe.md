@@ -27,7 +27,7 @@ tags:
  We were testing successfuly MySQL 5.0 using named pipe, and what an increase in speed!<big style="color: #ff0000"> 50%</big> [in the case of this big project](content/view/1216/1/)   
  First it may be a good idea to use the latest [JConnector](http://www.mysql.com/products/connector/j/) driver from MySQL
 
- **MySQL Connector/J**<span style="font-style: italic; font-family: Times New Roman,Times,serif"> is a native #Java driver that converts JDBC (Java Database Connectivity) calls into the network protocol used by  
+ MySQL Connector/J<span style="font-style: italic; font-family: Times New Roman,Times,serif"> is a native #Java driver that converts JDBC (Java Database Connectivity) calls into the network protocol used by  
  the MySQL database. It lets developers working with the #Java programming language easily build programs and applets that interact  
  with MySQL and connect all corporate data, even in a heterogeneous environment. MySQL Connector/J is a Type IV JDBC driver and   
  has a complete JDBC feature set that supports the capabilities of MySQL.  
@@ -47,7 +47,7 @@ tags:
  (see details of connection below)  
  ![mysql query browser with named pipe](/assets/images/2007/10/mysql.named_.pipe_.howto_.jpg)
 
- For the most intrepid of You of if wou want to add named pipe capabilities to previous saved connections, just can also use the menu "**tools**" – "**manage connections**" and under the tab "**advanced parameters**", just add these 2 new keys
+ For the most intrepid of You of if wou want to add named pipe capabilities to previous saved connections, just can also use the menu "tools" – "manage connections" and under the tab "advanced parameters", just add these 2 new keys
 
  NAMED\_PIPE <span style="font-family: arial,helvetica,sans-serif">value Yes  
  SOCKET\_PATH <span style="font-family: arial,helvetica,sans-serif">value mysql.sock 

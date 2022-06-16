@@ -16,11 +16,11 @@ tags:
 
 CedTag has been updated to version 2.5.5 and correct a lot of bugs and contains some nice new features.
 
-CedTag is the continuation of the GPL component #Joomla Tags ([www.joomlatags.org](http://www.joomlatags.org/)), **Most of the code if not all** has been now rewritten according to the new standard of #Joomla 2.5, the component has been greatly extended and most bugs have been removed. I will continue removing, refactoring existing codebase, in order to be able to add new features faster.
+CedTag is the continuation of the GPL component #Joomla Tags ([www.joomlatags.org](http://www.joomlatags.org/)), Most of the code if not all has been now rewritten according to the new standard of #Joomla 2.5, the component has been greatly extended and most bugs have been removed. I will continue removing, refactoring existing codebase, in order to be able to add new features faster.
 
 ### What’s new
 
-# NEW**: [Wikipedia](http://www.wikipedia.org/ "wikipedia") auto-completion of tag descriptions with [Wikipedia](http://www.wikipedia.org/ "wikipedia") OpenSearch API!
+# NEW: [Wikipedia](http://www.wikipedia.org/ "wikipedia") auto-completion of tag descriptions with [Wikipedia](http://www.wikipedia.org/ "wikipedia") OpenSearch API!
 
 Support more than 40 localized Wikipedia servers (all Wikipedia with more than 100’000 articles)
 
@@ -33,24 +33,24 @@ For all terms[![cedtag_wikipediaautofill1](http://www.waltercedric.com/images/ce
 or while editing a term
 
 [![cedtag_wikipediaautofill3](http://www.waltercedric.com/images/cedTag-2.5.4-for-J2.5-Released_AECA/cedtag_wikipediaautofill3_thumb.png "cedtag_wikipediaautofill3")](http://www.waltercedric.com/images/cedTag-2.5.4-for-J2.5-Released_AECA/cedtag_wikipediaautofill3.png)   
-# NEW: **diagnostic page
+# NEW: diagnostic page
 
 [![cedTag_newDiagnostic](http://www.waltercedric.com/images/cedTag-2.5.4-for-J2.5-Released_AECA/cedTag_newDiagnostic_thumb.png "cedTag_newDiagnostic")](http://www.waltercedric.com/images/cedTag-2.5.4-for-J2.5-Released_AECA/cedTag_newDiagnostic.png)   
-# NEW**: tags can also now be automatically inserted when new article is entered from the backend,   
-# NEW**: new configuration settings “Force Existing articles get their tags updated always from article meta keywords at save time” under Tab Tags (default is No)
+# NEW: tags can also now be automatically inserted when new article is entered from the backend,   
+# NEW: new configuration settings “Force Existing articles get their tags updated always from article meta keywords at save time” under Tab Tags (default is No)
 
-# NEW**: Supporting tags containing many words separated by space: There are normally 5 ways to insert a tag after inputting some text: space, comma, enter, selecting an autocomplete option, or defocusing the widget. Now space now longer save the tag: You can enter tags with space as a result!   
-# NEW**: inline documentation when adding tag in frontend
+# NEW: Supporting tags containing many words separated by space: There are normally 5 ways to insert a tag after inputting some text: space, comma, enter, selecting an autocomplete option, or defocusing the widget. Now space now longer save the tag: You can enter tags with space as a result!   
+# NEW: inline documentation when adding tag in frontend
 
 [![cedTag_supportTagsWithSpace](http://www.waltercedric.com/images/cedTag-2.5.4-for-J2.5-Released_AECA/cedTag_supportTagsWithSpace_thumb.png "cedTag_supportTagsWithSpace")](http://www.waltercedric.com/images/cedTag-2.5.4-for-J2.5-Released_AECA/cedTag_supportTagsWithSpace.png)
 
 
 
-# BUG**: Code cleaning, according to Joomla standard: my dream is to have this extension accepted in [Joomla](http://www.joomla.org/ "Joomla is one of the world’ s most popular open source CMS (content management system).") core! Still a lot of PHP Unit test to be written before submitting this to the mailing list of Joomla developers. Now I use [Joomla CodeSniffer](http://docs.joomla.org/Joomla_CodeSniffer) and [PSR-1 CodeSniffer](https://github.com/klaussilveira/phpcs-psr1) rules in my day to day development.   
-# BUG**: after click on Template Manager it show this err Fatal error: Class ‘UsersHelper’ not found in /home/assafir/public\_html/administrator/components/com\_cedtag/views/css/view.html.php on line 41   
-# BUG**: tags were not inserted automatically from new content article in frontend,   
-# BUG**: it was not possible to use html descriptions   
-# BUG**: missing some [http://jqueryui.com](http://jqueryui.com/) images resources
+# BUG: Code cleaning, according to Joomla standard: my dream is to have this extension accepted in [Joomla](http://www.joomla.org/ "Joomla is one of the world’ s most popular open source CMS (content management system).") core! Still a lot of PHP Unit test to be written before submitting this to the mailing list of Joomla developers. Now I use [Joomla CodeSniffer](http://docs.joomla.org/Joomla_CodeSniffer) and [PSR-1 CodeSniffer](https://github.com/klaussilveira/phpcs-psr1) rules in my day to day development.   
+# BUG: after click on Template Manager it show this err Fatal error: Class ‘UsersHelper’ not found in /home/assafir/public\_html/administrator/components/com\_cedtag/views/css/view.html.php on line 41   
+# BUG: tags were not inserted automatically from new content article in frontend,   
+# BUG: it was not possible to use html descriptions   
+# BUG: missing some [http://jqueryui.com](http://jqueryui.com/) images resources
 
 Your ideas are important, [feel free to contact me](http://www.waltercedric.com/contact.html "Contact me") and ask for new features!
 

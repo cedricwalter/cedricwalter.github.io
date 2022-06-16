@@ -27,7 +27,7 @@ If you receive a #certificate error such as above, there are several reasons tha
 you do next. In any of these cases if you click OK and continue to the site, the passwords you send could be seen and
 you may infect your computer with #malware that could steal or destroy your data.
 
-# Some Reasons you may see a Certificate Error:**
+# Some Reasons you may see a Certificate Error:
 
 9. The website’s certificate has been revoked (probably a fraudulent site!)
 10. The website’s address does not match the address (could be the company is using the same certificate for several
@@ -41,7 +41,7 @@ you may infect your computer with #malware that could steal or destroy your data
 Your computer identifies the site you are visiting by comparing its certificate creator’s signature with its own local
 copy in something called a Certificate Trust List (CTL).
 
-# Certificate security is achieved via a chain-of-trust:**
+# Certificate security is achieved via a chain-of-trust:
 
 - \#Certificate #Authorities create certificates for Subordinate #Authorities and in the process sign the certificates
   they create

@@ -23,7 +23,7 @@ tags:
 
  Despite today’s digitization hype, most problems rather reflect small data problems than big data problems. In many contexts, data collection efforts are still costly or even impossible. A prime example is early stage investing in startups. Almost all data that would be relevant for applying AI is kept private by business angels that are reluctant to open their data vaults out of fear to lose their competitive edge. And even if they do so, available data is often little and of low quality. Simulations may help in such circumstances by showing a novel approach in which we simulated survival and profitability of early-stage startups that on average outperform professional human investors.
 
- **Here are some startups or groups working on that subject:**
+ Here are some startups or groups working on that subject:
 
 Prof. Dr. Ivo Blohm is Assistant Professor for Data Science and Management at the Institute for Information Management at the University of St. Gallen. [How to apply AI for small data problems? Simulating survival and profitability of startups](https://www.alexandria.unisg.ch/255532/).
 

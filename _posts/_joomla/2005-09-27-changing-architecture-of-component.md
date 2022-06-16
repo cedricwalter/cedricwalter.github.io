@@ -32,7 +32,7 @@ categorizing messages efficiency….
 My component will be able to use following Bayesian Naive Filter core: (planned but not done, I it is technically
 possible I will do it)
 
-| **Plugins** | **Remarqs** | **Possible open source project** |
+| Plugins | Remarqs | Possible open source project |
 |---|---|---|
 | *JAVA* | I am a J2EE developer, Back to the roots 🙂 | Som. to propose? contact me! |
 | *
@@ -44,7 +44,7 @@ PHP* | Core done, but very simple tokenization and hashing of message    Volume 
 Each technology may contains many core engine, or different versions. I will fill this table with possible candidate (
 You can heelp me by suggesting or speeding development).
 
-# Core requirement:**
+# Core requirement:
 
 - Use mySQL,
 - Most of internet provider allow the use of CGI-BIN, PERL, JAVA

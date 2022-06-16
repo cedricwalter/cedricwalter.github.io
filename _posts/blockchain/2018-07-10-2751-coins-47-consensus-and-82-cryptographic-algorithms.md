@@ -32,11 +32,11 @@ tags:
 
 The innovation speed in Blockchain landscape is just breathtaking and being able to (or to be honest trying to…) follow all these rapid changes is a chance for all software engineers.
 
-At the core of the Blockchain disruption are **consensus algorithm**:
+At the core of the Blockchain disruption are consensus algorithm:
 
 > Consensus algorithms enable network participants to agree on the contents of a blockchain in a distributed and trust-less manner.
 
-And the consensus algorithm plays a crucial role in maintaining the **safety** and **efficiency** of blockchain. Using the right algorithm may bring a significant increase to the performance of blockchain application.
+And the consensus algorithm plays a crucial role in maintaining the safety and efficiency of blockchain. Using the right algorithm may bring a significant increase to the performance of blockchain application.
 
 But do you know how much consensus type are out there? or where they are applied? my new [Consensus Map](https://consensus.tokens-economy.com/index.html) may help you there exploring the always evolving landscape:
 

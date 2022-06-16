@@ -23,18 +23,18 @@ subsequent versions in the 3 series of the CMS.
 
 Here are some highlights of the 3.6 release:
 
-- **Joomla! Update** has been improved and now allows you to reinstall #Joomla’s core files at the click of a button,
+- Joomla! Update has been improved and now allows you to reinstall #Joomla’s core files at the click of a button,
   overwriting any modified file(s) and reverting them back to the default.
-- Joomla! 3.6 contains a lot of **UX improvements**. Now you can find your modules faster, have tasks done by dropdown,
+- Joomla! 3.6 contains a lot of UX improvements. Now you can find your modules faster, have tasks done by dropdown,
   improved user management and so much more…
-- With the **new Sub Form Field function** in #Joomla! 3.6, we added some extra additional functionality next to
+- With the new Sub Form Field function in #Joomla! 3.6, we added some extra additional functionality next to
   Repeatable fields. Now you can nest XML forms inside each other or reuse your existing forms inside your current form.
-- **Create categories on the fly**: It can get frustrating when you create a new item, and you realise that you haven’t
+- Create categories on the fly: It can get frustrating when you create a new item, and you realise that you haven’t
   created a category yet. #Joomla! 3.6 now lets you create a category on the fly for articles, contacts, newsfeeds and
   banners.
-- **Menu type ACL**: ACL in the backend did not exist at the menu level, now we have improved that. Give or block
+- Menu type ACL: ACL in the backend did not exist at the menu level, now we have improved that. Give or block
   certain user groups access to a specific menu, and therefore also all menu items of that menu.
-- **See what’s in your menus with All Menu Items**: The new option to show all items from all menus gives you a quick
+- See what’s in your menus with All Menu Items: The new option to show all items from all menus gives you a quick
   overview of what is displayed where on your website. It has never been easier to spot duplicated links, missing menu
   items or just get an overview of every menu on your site.
 - And much more… To have a full list of the 3.6 features, please visit

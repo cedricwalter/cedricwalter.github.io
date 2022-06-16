@@ -18,7 +18,7 @@ Has been released at #Joomla Forge, [see details here](/component/option,com_ver
 
 It is also rnning on my homepage so it is a pretty stable version 😉 tested against akcomment, akobook, contact
 
-# Securityimages 3.0.0rc2**
+# Securityimages 3.0.0rc2
 
 - new: Logged in Users No/Yes Switch off the system for logged in users?
 - new: new plugin HNCapctha which create beautiful captcha (as seen on my site)
@@ -28,6 +28,6 @@ It is also rnning on my homepage so it is a pretty stable version 😉 tested ag
 - bug: reverse logic for displaying reload, sound button
 - new start sound support, not active in this release.
 - new better admin panel with screenshots of possible captcha and securityimage virtual box
-- **Refactoring**:   
+- Refactoring:   
     – OO improvments: 8 new classes, DAO, move common setting to general tabs   
     – move fonts to root of components/com\_securityimages so they can be share among plugins

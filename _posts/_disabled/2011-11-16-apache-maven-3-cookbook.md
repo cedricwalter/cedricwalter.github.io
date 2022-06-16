@@ -42,15 +42,15 @@ The first few chapters quickly bring you to the point to be comfortable using #M
 
 To sum up key points from this 224 pages book in a few bullets:
 
-- **Chapter 1: Basics of Apache #Maven**: Setting up Apache #Maven on Windows/Linux/Mac, Creating a new project, Understanding the Project Object Model, build lifecycle and build profiles,
-- **Chapter 2: Software Engineering Techniques**: Build automation, modularization, Dependency management, Source code quality check, Test Driven Development (TDD), Acceptance testing automation and Deployment automation,
-- **Chapter 3: Agile Team Collaboration**: Creating centralized remote repositories, Performing continuous integration with Hudson, Integrating source code management, Team integration with Apache #Maven, Implementing environment integration, Distributed development and Working in offline mode,
-- **Chapter 4: Reporting and Documentation**: javadocs, unit tests, coverage reports and #Maven dashboard setup,
-- **Chapter 5: #Java Development with #Maven**: #Java web application, J2EE, [Spring](http://www.springsource.org/), [Hibernate](http://www.hibernate.org/) and [JBoss SEAM](http://seamframework.org/) development,
-- **Chapter 6: Google Development with #Maven**: [Android](http://www.android.com/) and [GWT (Google Web Toolkit),](http://code.google.com/webtoolkit/) [Google App Engine](http://code.google.com/appengine/) deployment,
-- **Chapter 7: [Scala](http://www.scala-lang.org/), [Groovy](http://groovy.codehaus.org/), and [Adobe Flex](http://www.adobe.com/products/flex.html)**
-- **Chapter 8: IDE Integration**
-- **Chapter 9: Extending Apache #Maven**: creating plugins using #Java, Apache ANT or [Ruby](http://www.ruby-lang.org),
+- Chapter 1: Basics of Apache #Maven: Setting up Apache #Maven on Windows/Linux/Mac, Creating a new project, Understanding the Project Object Model, build lifecycle and build profiles,
+- Chapter 2: Software Engineering Techniques: Build automation, modularization, Dependency management, Source code quality check, Test Driven Development (TDD), Acceptance testing automation and Deployment automation,
+- Chapter 3: Agile Team Collaboration: Creating centralized remote repositories, Performing continuous integration with Hudson, Integrating source code management, Team integration with Apache #Maven, Implementing environment integration, Distributed development and Working in offline mode,
+- Chapter 4: Reporting and Documentation: javadocs, unit tests, coverage reports and #Maven dashboard setup,
+- Chapter 5: #Java Development with #Maven: #Java web application, J2EE, [Spring](http://www.springsource.org/), [Hibernate](http://www.hibernate.org/) and [JBoss SEAM](http://seamframework.org/) development,
+- Chapter 6: Google Development with #Maven: [Android](http://www.android.com/) and [GWT (Google Web Toolkit),](http://code.google.com/webtoolkit/) [Google App Engine](http://code.google.com/appengine/) deployment,
+- Chapter 7: [Scala](http://www.scala-lang.org/), [Groovy](http://groovy.codehaus.org/), and [Adobe Flex](http://www.adobe.com/products/flex.html)
+- Chapter 8: IDE Integration
+- Chapter 9: Extending Apache #Maven: creating plugins using #Java, Apache ANT or [Ruby](http://www.ruby-lang.org),
 
 The author [Srirangan](http://srirangan.net/) go into detail in describing each of these themes.
 

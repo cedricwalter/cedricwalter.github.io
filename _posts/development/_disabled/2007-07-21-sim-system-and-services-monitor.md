@@ -242,7 +242,7 @@ In computer networking, xinetd, the eXtended InterNET Daemon, is an open-source 
 
 xinetd features access control mechanisms such as TCP Wrapper ACLs, extensive logging capabilities, and the ability to make services available based on time. It can place limits on the number of servers that the system can start, and has deployable defence mechanisms to protect against port scanners, among other things. [from <font size="-1" style="color: rgb(51, 51, 255); font-weight: bold;"><span class="a">WikiPedia](http://en.wikipedia.org/wiki/Xinetd)
 
- `Path to XINET service init script ?   <span style="color: rgb(51, 51, 255);">see `<font size="-1" style="color: rgb(51, 51, 255);"><span class="a">www.**xinetd**.org/faq.html and   
+ `Path to XINET service init script ?   <span style="color: rgb(51, 51, 255);">see `<font size="-1" style="color: rgb(51, 51, 255);"><span class="a">www.xinetd.org/faq.html and   
 `Found service init script at /etc/init.d/xinetd`
 
 Enable ENSIM service monitoring ? (true=enable, false=disable)  

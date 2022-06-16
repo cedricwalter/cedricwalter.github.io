@@ -10,7 +10,7 @@ header:
   teaser: /assets/images/2009/08/patches.for_.securityimages.howto_.png
 ---
 
-# Just in case I take too much time to deliver a ready to use download, duration 5 minutes, but you need to understand basic php coding**
+# Just in case I take too much time to deliver a ready to use download, duration 5 minutes, but you need to understand basic php coding
 
 1. Create a temporary directory c:\\patch
 2. Copy an existing patch distribution, under a new name   

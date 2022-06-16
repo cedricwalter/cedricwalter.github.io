@@ -28,7 +28,7 @@ What is disturbing me, is that they use a trick, they do not promote open source
 contributed money back, but use google affliate to receive big amount of cash (nearly $2 per install) as google
 sponsored this through Google Referals
 
-**# What is Google AdSense Referrals?**  
+# What is Google AdSense Referrals?  
 Referrals is a feature of AdSense that allows website publishers to increase their revenue while increasing their users’
 awareness of useful products and services. By adding a referral button to a site, publishers can direct users to
 products like AdSense, AdWords, Picasa, Google Pack and Firefox with Google Toolbar. When a referral connects a user to

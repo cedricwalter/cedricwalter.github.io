@@ -48,7 +48,7 @@ And edit the file mod\_evasive20.c, we will have to change the line 45 to
 
 We compile the module:
 
-| **Apache2** | **Apache2-Prefork** |
+| Apache2 | Apache2-Prefork |
 |---|---|
 | <small><span style="font-family: Courier New,Courier,monospace;">\# /usr/sbin/apxs2 -cia mod\_evasive20.c</small> | <small><span style="font-family: Courier New,Courier,monospace;">\# /usr/sbin/apxs2-prefork -cia mod\_evasive20.c</small> |
 
@@ -64,7 +64,7 @@ and edit it
 
 content of file
 
-| **Apache2** | **Apache2-Prefork** |
+| Apache2 | Apache2-Prefork |
 |---|---|
 | <small><span style="font-family: Courier New,Courier,monospace;">LoadModule evasive20\_module /usr/lib/apache2/mod\_evasive20.so   <span style="font-family: Courier New,Courier,monospace;"><IfModule mod\_evasive20.c>   <span style="font-family: Courier New,Courier,monospace;"> DOSHashTableSize 3097   <span style="font-family: Courier New,Courier,monospace;"> DOSPageCount 5   <span style="font-family: Courier New,Courier,monospace;"> DOSSiteCount 100   <span style="font-family: Courier New,Courier,monospace;"> DOSPageInterval 2   <span style="font-family: Courier New,Courier,monospace;"> DOSSiteInterval 2   <span style="font-family: Courier New,Courier,monospace;"> DOSBlockingPeriod 600   <span style="font-family: Courier New,Courier,monospace;"> DOSEmailNotify youremail@mail.com   <span style="font-family: Courier New,Courier,monospace;"></IfModule></small> | <small style="font-family: Courier New,Courier,monospace;">LoadModule evasive20\_module /usr/lib/apache2-prefork/mod\_evasive20.so   <IfModule mod\_evasive20.c>    DOSHashTableSize 3097    DOSPageCount 5    DOSSiteCount 100    DOSPageInterval 2    DOSSiteInterval 2    DOSBlockingPeriod 600    DOSEmailNotify youremail@mail.com   </IfModule></small> |
 

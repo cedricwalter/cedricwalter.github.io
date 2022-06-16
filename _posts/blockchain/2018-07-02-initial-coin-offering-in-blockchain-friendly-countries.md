@@ -36,6 +36,6 @@ Thanks to [D3js](https://d3js.org/) library and [IcoBench.com](https://icobench.
 
 [![](/assets/images/2018/07/ico-ended-switzerland.png)](https://ico.tokens-economy.com/statistics/index.html?country=switzerland)
 
-You can explore all charts by **zooming**, **panning** and **hovering** over each bubble. Note that I did only consider ICO which are ended, most countries have a consequent number of ongoing ICO (more than 60 ICO ongoing in Switzerland!).
+You can explore all charts by zooming, panning and hovering over each bubble. Note that I did only consider ICO which are ended, most countries have a consequent number of ongoing ICO (more than 60 ICO ongoing in Switzerland!).
 
 Feedback is always welcome, use comments or ping me your remarks.

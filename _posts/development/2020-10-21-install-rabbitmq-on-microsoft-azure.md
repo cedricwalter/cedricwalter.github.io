@@ -22,7 +22,7 @@ tags:
 
 [RabbitMQ](https://www.rabbitmq.com/) is an open-source message-broker software that originally implemented the Advanced Message Queuing Protocol and has since been extended with a plug-in architecture to support Streaming Text Oriented Messaging Protocol, MQ Telemetry Transport, and other protocols.
 
-[RabbitMQ](https://www.rabbitmq.com/) is the most widely deployed open-source message broker. **Message brokers** are a communication technology used for applications to communicate between them. They act as an intermediary platform when it comes to processing communication between two or more applications.
+[RabbitMQ](https://www.rabbitmq.com/) is the most widely deployed open-source message broker. Message brokers are a communication technology used for applications to communicate between them. They act as an intermediary platform when it comes to processing communication between two or more applications.
 
 ![](/assets/images/2020/10/microsoft-azure.jpg)<figcaption><https://azure.microsoft.com/en-us/></figcaption>[Microsoft Azure](https://azure.microsoft.com/en-us/), commonly referred to as Azure, is a cloud computing service created by Microsoft for building, testing, deploying, and managing applications and services through Microsoft-managed data centers.
 

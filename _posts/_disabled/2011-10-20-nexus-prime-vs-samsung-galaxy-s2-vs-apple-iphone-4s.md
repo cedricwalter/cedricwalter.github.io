@@ -22,7 +22,7 @@ tags:
 
 My next telephone will be a Samsung Nexus Prime ![Smile](/assets/images/2011/02/wlEmoticon-smile.png) bye bye Apple
 
-|  | **Apple iPhone 4S** | **Samsung Galaxy S2** | **Samsung Nexus Prime** |
+|  | Apple iPhone 4S | Samsung Galaxy S2 | Samsung Nexus Prime |
 |---|---|---|---|
 | Size(Height\* Width\* Depth): | 115.2 mm x 58.6 mm x 9.3 mm | 125.0 x 66.0 x 8.5 mm | 135.5 x 67.94 x 8.94 mm |
 | Weight | 140g | 116g | 135g |
@@ -49,7 +49,7 @@ My next telephone will be a Samsung Nexus Prime ![Smile](/assets/images/2011/02/
 [![samsung_galaxy_nexus_prime](/assets/images/2011/10/samsung_galaxy_nexus_prime_thumb.jpg "samsung_galaxy_nexus_prime")](http://www.waltercedric.com/images/d01931b4f586_7CFB/samsung_galaxy_nexus_prime.jpg)
 
 # Samsung and Google introduce GALAXY Nexus   
-orld’s First Smartphone to feature Android 4.0 Ice Cream Sandwich and a HD Super AMOLED display**   
+orld’s First Smartphone to feature Android 4.0 Ice Cream Sandwich and a HD Super AMOLED display   
 ong Kong – October 19, 2011 – Samsung Electronics Co., Ltd, a leading mobile device provider, and Google, today announced GALAXY Nexus™, the world’s first smartphone running Android™ 4.0, Ice Cream Sandwich, the latest release of the Android platform. GALAXY Nexus features a 4.65″ HD Super AMOLED display technology at 720p resolution and a 1.2GHz dual core processor.   
 Samsung and Google have closely collaborated to push the mobile experience forward. We are pleased to deliver the best Android smartphone experience for customers with GALAXY Nexus. We will continue to move forward with Android to provide the compelling consumer experience in mobile world,” said JK Shin, President and Head of Samsung’s Mobile Communications Business.   
 Ice Cream Sandwich demonstrates the Android platform’s continued innovation with one release that works on phones and tablets and everything in between. Features like Android Beam and Face Unlock show the innovative work our team is doing, and GALAXY Nexus showcases the power behind Ice Cream Sandwich,” said Andy Rubin, Senior Vice President of Mobile for Google.   

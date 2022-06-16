@@ -11,7 +11,7 @@ tags:
     - mambo
 ---
 
-# *GeSHi – Generic Syntax Highlighter:** GeSHi started as an idea to create a generic syntax highlighter for the <acronym>phpBB</acronym> forum system, but has been generalised to this project. GeSHi aims to be a simple but powerful highlighting script, with the following goals:*
+# *GeSHi – Generic Syntax Highlighter: GeSHi started as an idea to create a generic syntax highlighter for the <acronym>phpBB</acronym> forum system, but has been generalised to this project. GeSHi aims to be a simple but powerful highlighting script, with the following goals:*
 
 - *Support for a wide range of popular languages*
 - *Easy to add a new language for highlighting*
@@ -19,19 +19,19 @@ tags:
 
 *GeSHi aims to do this all as quickly as possible. Many customisable features of GeSHi facilitate speed increases, and you can easily find a balance between the amount of highlighting done and the speed in which it is done. from <http://qbnz.com/highlighter/index.php>*
 
-# My upgrade is for mambo 4.5.2…**
+# My upgrade is for mambo 4.5.2…
 
 - Mambo 4.5.2 already contains Geshi (<http://qbnz.com/highlighter/index.php>) in version 1.0.4
 - Geshi 1.0.7 has beeen release in 2005/06/17
 - Geshi 1.0.7 is a major bugfix release over the previous versions, and upgrading is strongly recommended. In addition, four new languages have been added, including highlighting for diff output.
 
-# \#### Upgrade ####**
+# \#### Upgrade ####
 
 1. Download geshi1.0.7 for Mambo.zip in my dowmload section
 2. Upgrade Is easy just copy the mambots directory of this archive to the main root of mambo on your server with FTP.
 3. In /css you have the css use on my homepage [www.waltercedric.com](http://www.waltercedric.com/)
 
-# \#### What NEW ####** I’ve changed the mambot (*/mambots/content/geshi.php* ) a little bit:
+# \#### What NEW #### I’ve changed the mambot (*/mambots/content/geshi.php* ) a little bit:
 
 - support for CSS: default true, it reduce bandwith!
 - support for code header: default true
@@ -55,7 +55,7 @@ to change the value of these flags: open the file */mambots/content/geshi.php* a
 OR  
  specify for each <pre> </pre> tag ther value see "example of use"
 
-# \### use a CSS ###**  
+# \### use a CSS ###  
 – Point a browser to [www.yoursite.com/mambots/content/geshi/cssgen.php](http://www.yoursite.com/mambots/content/geshi/cssgen.php)  
  and follow instructions, you can at the end copy a css template for geshi (cut and paste from your browser in a file)  
 – Create a file named sourceCodeGeshi.css in [www.yoursite.com/templates/mytemplatename/css/](http://www.yoursite.com/templates/mytemplatename/css/) directory.  
@@ -74,7 +74,7 @@ rel="stylesheet" type="text/css"/>
 [www.yoursite.com/mambots/content/geshi/cssgen.php](http://www.yoursite.com/mambots/content/geshi/cssgen.php)  
 afterward, even if I think it is not a big security issue…
 
-# \### use a header or footer ###**
+# \### use a header or footer ###
 
 - footer or header are portion of html code that geshi can add during the rendering of source code.
 - the header and footer are now hardcoded in /mambots/content/geshi.php ```
@@ -111,10 +111,10 @@ afterward, even if I think it is not a big security issue…
     
      }
 
-# \#### example of use ####,**   
+# \#### example of use ####,   
   lang="" is recommended since geshi can not detect thhe language automatically:
 
- **example with java:**  
+ example with java:  
  <pre lang="java" useCSS="false" useHeader="false">  
  private long startStatistics() {  
  long before = System.currentTimeMillis();  

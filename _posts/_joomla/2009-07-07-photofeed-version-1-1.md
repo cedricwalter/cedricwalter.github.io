@@ -41,4 +41,4 @@ July 7, 2009 – List of fixes and enhancements from Ed Henderson
 
 Testing: Note that I have tested these changes on Picasa only. I believe it will work with the other photo sites as I made changes to their code for any enhancements I added.
 
-[Download](https://waltercedric.com/new/?p=514) **/** [documentation](http://wiki.waltercedric.com/index.php?title=Photofeed_fo_Joomla) **/** [keep up to date by adding the download photofeed RSS](index2.php?option=com_versions&catid=17&task=feed) [![Feed Icon](/assets/images/2008/09/feed-icon.png)](index2.php?option=com_versions&catid=17&task=feed)
+[Download](https://waltercedric.com/new/?p=514) / [documentation](http://wiki.waltercedric.com/index.php?title=Photofeed_fo_Joomla) / [keep up to date by adding the download photofeed RSS](index2.php?option=com_versions&catid=17&task=feed) [![Feed Icon](/assets/images/2008/09/feed-icon.png)](index2.php?option=com_versions&catid=17&task=feed)

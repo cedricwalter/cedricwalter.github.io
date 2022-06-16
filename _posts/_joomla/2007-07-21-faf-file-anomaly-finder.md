@@ -46,7 +46,7 @@ Sticky bit was used on executables in linux (which was used more often) so that 
 SUID or SetUID bit, the executable which has the SUID set runs with the ownership of the program owner. That is, if you own an executable, and another person issues the executable, then it runs with your permission and not his. The default is that a program runs with the ownership of the person executing the binary.  
    
 Consider also reading:  
-[<font face="Verdana, Arial, Helvetica, sans-serif" size="-1">**What are the SUID, SGID and the Sticky Bits?**](http://www.codecoffee.com/tipsforlinux/articles/028.html)
+[<font face="Verdana, Arial, Helvetica, sans-serif" size="-1">What are the SUID, SGID and the Sticky Bits?](http://www.codecoffee.com/tipsforlinux/articles/028.html)
 
 You can find them also manually by entering:  
 /assets/images/2016/09/cailculato-hp-11c_5_thumb.jpg 

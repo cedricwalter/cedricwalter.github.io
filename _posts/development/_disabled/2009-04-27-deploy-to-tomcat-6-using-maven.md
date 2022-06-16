@@ -36,7 +36,7 @@ Below is an example of a standard architecture
 |           |- integration (jar)
 ```
 
-The most interesting Maven module, which will be the subject of this article, and the next one is describing how **to automate the deployment of a war to Tomcat** and later on running **integration tests** using Selenium.
+The most interesting Maven module, which will be the subject of this article, and the next one is describing how to automate the deployment of a war to Tomcat and later on running integration tests using Selenium.
 
 > ‘Integration testing’ is the activity of software testing in which individual software modules are combined and tested as a group. It occurs after unit testing and before system testing. Integration testing takes as its input modules that have been unit tested, groups them in larger aggregates, applies tests defined in an integration test plan to those aggregates, and delivers as its output the integrated system ready for system testing. \[[WikiPedia](http://en.wikipedia.org/wiki/Integration_testing)\]
 

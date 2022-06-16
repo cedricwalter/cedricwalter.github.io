@@ -15,14 +15,14 @@ A seen on TV, [the Fagioli group](http://www.fagioli.com) is specialized in movi
 > Fagioli can offer specialist services, which deal with oversized and over-weight cargo that cannot be transported by conventional methods. These operations cover on a turn key basis all operations from the conceptual engineering design provided in-house, through to positioning onto foundation including any lifting and logistics operations.
 
 [![HTR_016](/assets/images/2010/07/HTR_016_thumb_fcec23ffcad369de3de90bd0505a299a.jpg "HTR_016")](/assets/images/2010/07/HTR_016_ac4c4b8d2a66278a89345deb99352e47.jpg)   
-# FAGIOLI – TRANSPORT OF A 2100 TON BLAST FURNACE SECTION**
+# FAGIOLI – TRANSPORT OF A 2100 TON BLAST FURNACE SECTION
 
 [![HTR_020](/assets/images/2010/07/HTR_020_thumb_2524ede6142fde63a4ea2084873f5444.jpg "HTR_020")](/assets/images/2010/07/HTR_020_57beb8dd180d5f35d03f39f838d750ef.jpg)   
-# TRANSPORT OF A 4800 TON MODULE**
+# TRANSPORT OF A 4800 TON MODULE
 
 [![HTR_021](/assets/images/2010/07/HTR_021_thumb_92f7e7d9decbcfb3e262444634e744e9.jpg "HTR_021")](/assets/images/2010/07/HTR_021_29097dd4deecc9da63daba5eb3f9d39b.jpg)
 
-# TRANSPORT OF A 6000 TON MILITARY SHIP**
+# TRANSPORT OF A 6000 TON MILITARY SHIP
 
 But what is even more interesting is their in house development: [SELF PROPELLED MODULAR TRANSPORTERS (SPMT’s)](http://www.fagioli.com/?pag=36&lang=ENG)
 

@@ -23,23 +23,23 @@ header:
 ## Technical Details 
 
 - Canon G11 10 MP CCD
-- **Optical zoom**: 5 x
-- **Maximum Aperture Range**: F/2.8-4.5
-- **Minimum focal length**: 6.1 millimeters
-- **Maximum focal length**: 30.5 millimeters
-- **Lens Type**: Zoom lens
-- **Optical Sensor Size**: 1/1.7"
-- **Included Flash Type**: Built-in flash
-- **Display Size**: 2.8 inches
-- **Light Sensitivity**: ISO 100, ISO 800, ISO 400, ISO 200, ISO 80, ISO auto, ISO 1600, ISO 3200
-- **Image types**: JPEG, RAW
-- **Shooting Modes**: Frame movie mode
-- **Exposure Control Type**: Beach, Kids &amp; pets, Night snapshot, Snow, Landscape, Portrait mode, Aquarium, Stitch assist, Fireworks, Low light, Night scene, Underwater, Sports mode, Sunset, Indoor, Foliage
-- **Viewfinder Type**: Optical
-- **Width**: 4.4 inches
-- **Depth**: 1.9 inches
-- **Height**: 3 inches
-- **Weight**: 12.5 Ounces
+- Optical zoom: 5 x
+- Maximum Aperture Range: F/2.8-4.5
+- Minimum focal length: 6.1 millimeters
+- Maximum focal length: 30.5 millimeters
+- Lens Type: Zoom lens
+- Optical Sensor Size: 1/1.7"
+- Included Flash Type: Built-in flash
+- Display Size: 2.8 inches
+- Light Sensitivity: ISO 100, ISO 800, ISO 400, ISO 200, ISO 80, ISO auto, ISO 1600, ISO 3200
+- Image types: JPEG, RAW
+- Shooting Modes: Frame movie mode
+- Exposure Control Type: Beach, Kids &amp; pets, Night snapshot, Snow, Landscape, Portrait mode, Aquarium, Stitch assist, Fireworks, Low light, Night scene, Underwater, Sports mode, Sunset, Indoor, Foliage
+- Viewfinder Type: Optical
+- Width: 4.4 inches
+- Depth: 1.9 inches
+- Height: 3 inches
+- Weight: 12.5 Ounces
 
  ![canon-g11-powershot2](/assets/images/2009/10/canong11powershot2.jpg "canon-g11-powershot2")
 

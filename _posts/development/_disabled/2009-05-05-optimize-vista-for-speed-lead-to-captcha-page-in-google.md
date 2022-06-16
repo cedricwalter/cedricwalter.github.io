@@ -10,7 +10,7 @@ header:
   teaser: /assets/images/2009/05/google.flood_.vista_thumb.png
 ---
 
-Now the funny question! **🙂**
+Now the funny question! 🙂
 
 Is Google under attack by a BOTNET or is it just real users seeking for solution ???
 
@@ -32,4 +32,4 @@ If your entire network is affected, more information is available in the [Google
 
 We apologize for the inconvenience, and hope we’ll see you again on Google.
 
-# To continue searching, please type the characters you see below:**
+# To continue searching, please type the characters you see below:

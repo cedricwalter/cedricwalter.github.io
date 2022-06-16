@@ -76,9 +76,9 @@ The graphics card of the #Raspberry Pi is capable of BluRay quality playback, us
 
 Other media center ready to use images are
 
-- **[OpenELEC](http://wiki.xbmc.org/index.php?title=OpenELEC)** – \[ [Installing](http://wiki.openelec.tv/index.php?title=Installing_OpenELEC_on_Raspberry_Pi) \] – \[ [FAQ](http://wiki.openelec.tv/index.php?title=Raspberry_Pi_FAQ) \] – \[ [Help forum](http://openelec.tv/forum/124-raspberry-pi) \]
-- **[Raspbmc](http://wiki.xbmc.org/index.php?title=Raspbmc)** – \[ Installing: [Windows](http://www.raspbmc.com/wiki/user/windows-installation/), [Mac OS X, Linux](http://www.raspbmc.com/wiki/user/os-x-linux-installation/) \] – \[ [FAQ](http://www.raspbmc.com/wiki/user/frequently-asked-questions/) \] – \[ [User 
-- **[XBian](http://wiki.xbmc.org/index.php?title=XBian)** – \[ [Installing](http://xbian.org/download/) \] – \[ [FAQ](http://xbian.org/faqs/) \] – \[ [Starters 
+- [OpenELEC](http://wiki.xbmc.org/index.php?title=OpenELEC) – \[ [Installing](http://wiki.openelec.tv/index.php?title=Installing_OpenELEC_on_Raspberry_Pi) \] – \[ [FAQ](http://wiki.openelec.tv/index.php?title=Raspberry_Pi_FAQ) \] – \[ [Help forum](http://openelec.tv/forum/124-raspberry-pi) \]
+- [Raspbmc](http://wiki.xbmc.org/index.php?title=Raspbmc) – \[ Installing: [Windows](http://www.raspbmc.com/wiki/user/windows-installation/), [Mac OS X, Linux](http://www.raspbmc.com/wiki/user/os-x-linux-installation/) \] – \[ [FAQ](http://www.raspbmc.com/wiki/user/frequently-asked-questions/) \] – \[ [User 
+- [XBian](http://wiki.xbmc.org/index.php?title=XBian) – \[ [Installing](http://xbian.org/download/) \] – \[ [FAQ](http://xbian.org/faqs/) \] – \[ [Starters 
 
 # Installing Oracle’s Java on #Raspberry Pi
 

@@ -14,7 +14,7 @@ the governance rule themselves. [Tezos](https://tezos.com/) is written in [OCaml
 programming language) and rely on [Coq](https://coq.inria.fr/) for advanced proof checking and formal verification.
 Source code will be opened and available later this year.
 
-Arthur Breitman of "**[Tezos](https://tezos.com/)**" gave this presentation on this new technology on Wednesday, August
+Arthur Breitman of "[Tezos](https://tezos.com/)" gave this presentation on this new technology on Wednesday, August
 31st at Monetas HQ (Zug – Switzerland)
 
 [https://www.periscope.tv/monetasnet/1mnxeYPrEmNxX](https://www.periscope.tv/monetasnet/1mnxeYPrEmNxX "https://www.periscope.tv/monetasnet/1mnxeYPrEmNxX")

@@ -10,7 +10,7 @@ header:
   teaser: /assets/images/2006/04/eclipse.jpg
 ---
 
-# When #Eclipse meet #Joomla!…from 0 to #Joomla! in 3 minutes**
+# When #Eclipse meet #Joomla!…from 0 to #Joomla! in 3 minutes
 
 ![](/assets/images/2006/04/eclipse.jpg) ![](/assets/images/2005/10/Joomla-Logo-Horz-Color-Thumbnail.png)
 

@@ -17,8 +17,8 @@ for Android!
 
 ## Short version
 
-- Do not rely on self signed certificate for android when downloading resources: **android download manager wont
-  work** (below Android 4.1.4 SSL was even not supported in download manager)
+- Do not rely on self signed certificate for android when downloading resources: android download manager wont
+  work (below Android 4.1.4 SSL was even not supported in download manager)
 - Android do not support all kind of SSL Cipher, check the compatibility table below
 
 ## Long Story
@@ -63,7 +63,7 @@ android download manager does NOT NEVER EVER download stuff from unsecure source
 final download fails. this is also true for the default andoid browser, because they also use the android download
 manager.
 
-# Solution**: the only solution was be to upgrade to valid SSL certificates (Verizon, Verisign or any other) instead of self signed. This increase the number of Android device working but unfortunately some Android devices were still NOT able to download resources with a valid SSL cert…
+# Solution: the only solution was be to upgrade to valid SSL certificates (Verizon, Verisign or any other) instead of self signed. This increase the number of Android device working but unfortunately some Android devices were still NOT able to download resources with a valid SSL cert…
 
 By using the Android SDK debug console (adb.exe logcat > file.txt) of android, we saw the following:
 
@@ -74,7 +74,7 @@ ne 7487: D/DownloadManager( 3054): [1] Starting 	Line 7489: W/DownloadManager( 3
 This show again that the initial connect to our server happen correctly but return partial content but is then forwarded
 to the download manager that try to build another connection that is still fail
 
-# Solution**: change Apache cipher suite according to the table below.
+# Solution: change Apache cipher suite according to the table below.
 
 ### Android compatibility table
 
@@ -83,7 +83,7 @@ to the download manager that try to build another connection that is still fail
 Depending on which version of android you would like to support you’ll have to find a cipher suite that is supported by
 iOS, Android while not sacrificing too much security.
 
-| **Android Version** | **Released** | **API Level** | **Name** | **Build Version Code** |
+| Android Version | Released | API Level | Name | Build Version Code |
 |---|---|---|---|---|
 | Android 6.0 | August 2015 | 23 | Marshmallow | Android.OS.BuildVersionCodes.Marshmallow |
 | Android 5.1 | March 2015 | 22 | Lollipop | Android.OS.BuildVersionCodes.LollipopMr1 |

@@ -10,7 +10,7 @@ author: 'Cédric Walter'
 
 ![](/assets/images/2008/08/ubuntu.png)
 
-> <abbr>**11-Apr-2013** </abbr>The PHP development team announces the immediate availability of PHP 5.4.14 and PHP 5.3.24. These releases fix about 10 bugs aswell as upgrading the bundled PCRE library. All users of PHP are encouraged to upgrade to PHP 5.4.14.
+> <abbr>11-Apr-2013 </abbr>The PHP development team announces the immediate availability of PHP 5.4.14 and PHP 5.3.24. These releases fix about 10 bugs aswell as upgrading the bundled PCRE library. All users of PHP are encouraged to upgrade to PHP 5.4.14.
 > 
 > For source downloads of PHP 5.4.14 and PHP 5.3.24 please visit our [downloads page](http://php.net/downloads.php), Windows binaries can be found on [windows.php.net/download/](http://windows.php.net/download/).
 > 

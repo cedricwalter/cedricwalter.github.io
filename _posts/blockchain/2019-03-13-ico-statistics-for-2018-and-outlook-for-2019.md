@@ -9,7 +9,7 @@ categories:
 
 ---
 
-# The last 6 months of ICO** have been imported and can be browse at <https://ico.tokens-economy.com/statistics>. I display there historical ICO data for all cryptocurrencies friendly countries for each month of the year. What you can get out of all these charts:
+# The last 6 months of ICO have been imported and can be browse at <https://ico.tokens-economy.com/statistics>. I display there historical ICO data for all cryptocurrencies friendly countries for each month of the year. What you can get out of all these charts:
 
 - You can see the number of ICO per months over 13 major countries (Cayman-Islands, UK, USA, Cyprus, Estonia, France, Germany, Liechtenstein, Malta, Russia, Singapore, Slovenia, Switzerland),
 - Each country has its own color, how often that color appear on the map represents the relevance of that country in the given month,

@@ -1,10 +1,7 @@
 ---
-
 title: 'Armattan Chameleon Ti 5&#8243; Freestyle FPV Frame'
 date: '2020-03-24T18:44:01+01:00'
-author: 'Cédric Walter'
-
-    
+author: 'Cédric Walter' 
 header:
     overlay_image: /assets/images/2020/03/armattan-chameleon-ti-mounted.jpg
     teaser: /assets/images/2020/03/armattan-chameleon-ti-mounted.jpg

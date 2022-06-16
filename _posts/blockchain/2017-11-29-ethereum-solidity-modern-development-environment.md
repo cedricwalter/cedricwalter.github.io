@@ -35,8 +35,8 @@ Here are the list of tips and tricks to develop solidity in a modern way (unders
 
 I recommend you to use the excellent Jetbrains [Webstorm](https://www.jetbrains.com/webstorm/) or [Intellij IDEA](https://www.jetbrains.com/idea) with the folllowing free plugins:
 
-- **Intellij-Solidity** see <https://github.com/intellij-solidity/intellij-solidity>
-- **Solidity Solhint Plugin** allow to enable Solhint inspection capabilities in your project. It highlight of warnings / errors found by the linter in editor during code modification.
+- Intellij-Solidity see <https://github.com/intellij-solidity/intellij-solidity>
+- Solidity Solhint Plugin allow to enable Solhint inspection capabilities in your project. It highlight of warnings / errors found by the linter in editor during code modification.
 - Refactoring in Javascript is excellent but still not supported in Solidity,
 
 ### Auto-completion of solidity

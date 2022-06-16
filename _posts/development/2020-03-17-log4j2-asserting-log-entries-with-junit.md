@@ -45,7 +45,7 @@ public void act_arrange_assert() {
 }
 ```
 
-# Notes** LogAccessorLogLevel is optionnal
+# Notes LogAccessorLogLevel is optionnal
 
 Define a new annotation LogAccessorLogLevel .java:
 
@@ -150,7 +150,7 @@ public class LogAccessor extends TestWatcher {
         }
     }
 
-    /**
+    /
      * The problem was with the getLoggerConfig() call;
      * if the module you are trying to give a new level is not yet
      * * registered, this method returns the root logger (or any intermediate sub path registered), and thus instead

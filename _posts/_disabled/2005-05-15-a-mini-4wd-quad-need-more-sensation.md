@@ -12,7 +12,7 @@ tags:
 
 [![](/assets/images/2005/05/DirtThingZ_NZ.jpg)](http://www.a2xtreme.com/dirtthingz/off-road.htm)
 
-# DirtThingZ NZ, 71 ccm, 5.4 hp, 4 WD**
+# DirtThingZ NZ, 71 ccm, 5.4 hp, 4 WD
 
 A mix between jet skiing, ATV, motocross and snowboard
 

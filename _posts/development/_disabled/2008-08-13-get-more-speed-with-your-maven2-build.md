@@ -35,7 +35,7 @@ Maven fly!
 
 - More memory for #Maven process, change the launcher of eclipse to set MAVEN\_OPTS like this:  
     -DMAVEN\_OPTS=”-Xms64m –Xmx128m”
-- Use the latest version of #Maven, but **be careful of regressions**! the latest as for today is 2.0.9
+- Use the latest version of #Maven, but be careful of regressions! the latest as for today is 2.0.9
 - There is a patch available for #Maven 2.0.9, which speed up build by 40%. It is just simply day and  
     night! try it, you’ll love it! Basically Don Brown alter MAVEN2 2.0.9 to 
     - use HTTP connection pooling !

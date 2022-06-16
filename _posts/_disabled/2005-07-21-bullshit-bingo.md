@@ -12,17 +12,17 @@ tags:
 
 Of course do not do this in any meeting 😉 or do not cry BULLSHIT at all 🙂
 
-# Do you keep falling asleep in meetings and seminars? What about those long and boring conference calls? Here is a way to change all of that!** **
-Before each meeting,**
+# Do you keep falling asleep in meetings and seminars? What about those long and boring conference calls? Here is a way to change all of that! 
+Before each meeting,
 
 - Print one copy of this game card for each player, refreshing the page before each print, or have the players print
   their own game cards
 - Check off each block when you hear these words during a meeting, seminar, or phone call.
-- When you get five blocks horizontally, vertically, or diagonally, stand up and shout **BULLSHIT!!**
+- When you get five blocks horizontally, vertically, or diagonally, stand up and shout BULLSHIT!!
 
 # Schlafen Sie während Besprechungen manchmal ein ? Oder wie ist es mit diesen nicht enden wollenden Konferenzen ? Hier ist die Möglichkeit das alles zu ändern !!!
 
-Wie wird gespielt ?**
+Wie wird gespielt ?
 
 - Seite ausdrucken, in die Besprechung gehen…
 - Kreuzen Sie einen Block an, wenn das entsprechende Wort während einer Besprechung, eines Seminars, oder einer

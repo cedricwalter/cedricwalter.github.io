@@ -14,12 +14,12 @@ tags:
     - vacation
 ---
 
- ![](http://gallery.waltercedric.com/main.php?g2_view=core.DownloadItem&g2_itemId=3414&g2_serialNumber=2) <span style="font-size: 12pt">**Discover tasmania**
+ ![](http://gallery.waltercedric.com/main.php?g2_view=core.DownloadItem&g2_itemId=3414&g2_serialNumber=2) <span style="font-size: 12pt">Discover tasmania
 
 - Pictures were taken with a Canon G9, 12MP in Fine mode (4000\*3000 pixels), so they are huge (2 to 5MB) but with no quality loss. A web version is available in the web page for better viewing.
 - I do not publish any pictures containing persons that can be recognized. If you were on tour with me that day, [contact me here](component/option,com_contact/Itemid,45/), and I will send you these personal pictures.
 
- 348 pictures (at 1600 x 1200 pixels but 4000 x 3000 pixels are available on request) in **18 categories** are online. I did drive 1550 km in 5 days, 6 hours per days. Videos will follow as soon as I can manage to put HD AVCHD in a viewable format (size, speed, bandwidth)
+ 348 pictures (at 1600 x 1200 pixels but 4000 x 3000 pixels are available on request) in 18 categories are online. I did drive 1550 km in 5 days, 6 hours per days. Videos will follow as soon as I can manage to put HD AVCHD in a viewable format (size, speed, bandwidth)
 
  ![](http://gallery.waltercedric.com/modules/albumselect/images/imgfolder.gif)[Bicheno  
  ](http://gallery.waltercedric.com/main.php?g2_itemId=3077)![](http://gallery.waltercedric.com/modules/albumselect/images/imgfolder.gif)[Burnie  

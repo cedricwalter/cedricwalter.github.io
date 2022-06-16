@@ -17,7 +17,7 @@ improvisé de E=M6, lorsque la nuit, le manque de sommeil et les hectolitres de 
 plus facilement. Merci Ã tous ceux qui même Ã 3 heures du matin et après 30 heures de veille m’ont répondu. Bonne
 Lecture.
 
-# En grande majorité, on peut noter la grande complexité des robots participants Ã la coupe.**
+# En grande majorité, on peut noter la grande complexité des robots participants Ã la coupe.
 
 Les systèmes électroniques sont complexes et étagées, le cablage en majorité touffue (je dirai prototypesque), ce qui
 provoque des problèmes d’isolations et de destruction inopinée.
@@ -28,7 +28,7 @@ révèle désastreux Ã l’usage. Nous avons aussi mal construit le système de
 nous n’avons pas non plus inséré des fusibles. Après ce mea culpa aussi grand qu’une poutrelle, passons aux brindilles
 dans les yeux des autres équipes
 
-# En ce qui concerne le développement et le contrÃ´le :**
+# En ce qui concerne le développement et le contrÃ´le :
 
 - Peu en fait utilisent des micro-contrÃ´leurs hormis pour leur PMI pour des raisons évidentes de place. Notons que
   Supelec Rennes incorporait une solution originale Ã base de carte 68HCll maitres-esclaves (5 au total mais cela ne
@@ -55,7 +55,7 @@ dans les yeux des autres équipes
 - Beaucoup d’équipes ont aussi équipé leur robot de dissipateurs thermiques munis de ventilateurs, et utilisent pour le
   robot principal des solutions Ã base de carte mère PC (rack industriel ou carte Arcom).
 
-# En ce qui concerne les stratégies :**
+# En ce qui concerne les stratégies :
 
 - Au chapitre des bonnes idées, beaucoup de bar graphe lumineux qui après examen minutieux et maintes questions se
   révèle être un moyen astucieux de posséder plusieurs stratégies différentes avec une seule action télécommandée. Il
@@ -73,7 +73,7 @@ dans les yeux des autres équipes
 - Les PMI qui longent les rives sont très astucieuses et souvent très rapides mais le contre est trop prévisible et ne
   doit donc pas être la seule stratégie ou mode de déplacement d’une PMI.
 
-# En ce qui concerne les capteurs**
+# En ce qui concerne les capteurs
 
 - Aucune utilisation des ultrasons qui au dire des équipes sont désastreux lors des matchs, nous avons du aussi les
   désactiver pour plus de sÃ»reté et pour avoir un comportement moins aléatoire de notre PMI.
@@ -116,7 +116,7 @@ dans les yeux des autres équipes
   puissance de calcul de ce robot et l’entrain Ã coder des élèves (logiciel de simulation de trajectoire) va dans ce
   sens.
 
-# Les Balises :**
+# Les Balises :
 
 - Dans la mesure du possible les balises sur le robot adverses sont très utiles, tout du moins dans un jeu de tir. Ville
   dAvray, Isep suivait les déplacements du robot adverse et empêchait ainsi tout tir direct.
@@ -128,7 +128,7 @@ dans les yeux des autres équipes
 - Tout au plus, certaines équipes utilisent une balise derrière le chateau sans doute pour ne pas faire de bêtises lors
   des tirs… et savoir ou tirer.
 
-# La Propulsion:**
+# La Propulsion:
 
 - La principale faiblesse de notre robot et de beaucoup d’équipes réside dans le choix des moteurs. Radiospares Ã 400 FF
   pour les uns, 1500 francs pour les autres, beaucoup mais alors beaucoup plus pour pour Ville Avray (on murmurait 30
@@ -142,7 +142,7 @@ dans les yeux des autres équipes
   puissance accrue. Je persiste Ã dire que des moteurs sont un investissement et qu’il faut surtout capitaliser notre
   choix en achetant des moteurs de positionnement industriel.
 
-# La commande des moteurs :**
+# La commande des moteurs :
 
 - Beaucoup utilisaient des circuits PID numériques électronique (Hewlett Packard hctIlOO, ou LM629) couplé avec des
   capteurs incrémentaux (Supelec Rennes, Orsay), des PWM ou des moteurs pas Ã pas. Je pense que notre commande en tout
@@ -150,7 +150,7 @@ dans les yeux des autres équipes
 
 - Les plus modestes utilisaient des moteurs pas Ã pas de récupération.
 
-# Les roues :**
+# Les roues :
 
 - Roues sur mesure en alu rouge (ENS Cachan), roue de Skate Board ou de modélisme haut de gamme.
 
@@ -158,7 +158,7 @@ dans les yeux des autres équipes
   utilisaient des roues en aluminium munies d’un caoutchouc rond en leur centre et avait dès lors des problèmes de
   poussières sur les roues des PMI qui glissaient.
 
-# Les systèmes de tirs :**
+# Les systèmes de tirs :
 
 - Les systèmes mécaniques rivalisaient de complexité et d’astuces, pour proÂ«eter une balle de tennis, j’ai noté
 - Le bumper électromagnétique bobiné artisanalement et calibré pour que sous 25.7V et 40A (en transitoire), le tir
@@ -185,7 +185,7 @@ dans les yeux des autres équipes
 - Enfin, notre système, qui n’ayons pas peur de le dire Ã été salué unanimement par toutes les équipes en présence et
   les juges pour sa simplicité, sa robustesse et sa précision.
 
-# Conclusions :**
+# Conclusions :
 
 Une constatation s’impose, certes décevante, beaucoup de robots ne marchaient qu’avec un parcours cablé ! et étaient
 complètement idiot. Beaucoup d’ambitions ont été ravalées et les prouesses techniques ont fait place pendant les nuits Ã

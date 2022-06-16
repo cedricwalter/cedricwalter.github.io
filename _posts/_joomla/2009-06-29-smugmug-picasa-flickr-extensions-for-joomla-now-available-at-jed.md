@@ -22,7 +22,7 @@ Type: Non-Commercial
 
 ##### [Smugmug Slideshow](http://extensions.joomla.org/extensions/external-contents/photo-channels/8951/details) 
 
-![Joomla! 1.5 Native](http://extensions.joomla.org/images/jed/compat_15_native.png) This module is a front end for the myriad of parameter that can set for the Smugmug flash applet. A great visual and a lot of features are built into this widget. \* Flash 10 widget \* Code produced is XHTML 1.0 Strict \* Tested in the following brows **…**
+![Joomla! 1.5 Native](http://extensions.joomla.org/images/jed/compat_15_native.png) This module is a front end for the myriad of parameter that can set for the Smugmug flash applet. A great visual and a lot of features are built into this widget. \* Flash 10 widget \* Code produced is XHTML 1.0 Strict \* Tested in the following brows …
 
 Category: [Photo Channels](http://extensions.joomla.org/extensions/external-contents/photo-channels)   
 [Download](http://www.waltercedric.com/downloads/doc_details/101-module-smugmug-slideshow.html)   
@@ -40,7 +40,7 @@ Type: Non-Commercial
 
 ##### [photofeed](http://extensions.joomla.org/extensions/external-contents/photo-channels/8941/details) 
 
-![Joomla! 1.5 Native](http://extensions.joomla.org/images/jed/compat_15_native.png) This is a small content plugin for #Joomla! 1.5 that allow you to inline a set of images from your favorite online gallery: Smugmug, Flickr, Picasa or any RSS feed in any article. FEATURES: \* It can fetch photos from Smugmug \* It can fetch p **…**
+![Joomla! 1.5 Native](http://extensions.joomla.org/images/jed/compat_15_native.png) This is a small content plugin for #Joomla! 1.5 that allow you to inline a set of images from your favorite online gallery: Smugmug, Flickr, Picasa or any RSS feed in any article. FEATURES: \* It can fetch photos from Smugmug \* It can fetch p …
 
 Category: [Photo Channels](http://extensions.joomla.org/extensions/external-contents/photo-channels)   
 [Download](http://www.waltercedric.com/downloads/doc_details/99-photofeed.html)   

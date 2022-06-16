@@ -16,10 +16,10 @@ tags:
 
  ![](/assets/images/2008/02/ECOLE.PRINCIPALE.FROENINGEN.classe.CP_.1983.jpg)
 
- **CP**, Photo de classe de **1983**
+ CP, Photo de classe de 1983
 
  and here 9 years old
 
  ![](/assets/images/2008/02/ECOLE.PRINCIPALE.FROENINGEN.classe.1982.jpg)
 
- Primaire, Photo de classe de **1982**
+ Primaire, Photo de classe de 1982

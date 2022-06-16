@@ -28,7 +28,7 @@ tags:
     - vulnerabilities
 ---
 
-# This article is extracted from:** [**Joomla! Web Security**](http://www.packtpub.com/joomla-web-security-
+# This article is extracted from: [Joomla! Web Security](http://www.packtpub.com/joomla-web-security-
 
 Secure your #Joomla! website from common security threats with this easy-to-use 
 
@@ -42,7 +42,7 @@ Joomla!, a very popular content management system (CMS) is as you may know an ea
 
 Joomla! itself is inherently safe, but misconfigurations of the CMS, vulnerable components, hosts that are poorly configured, and weak passwords can all contribute to the downfall of your site. Hence, it’s always better to ensure the security of your site.
 
-# In this article by Tom Canavan, we will take a look at how SQL injection attacks can occur to your #Joomla website, how we can test for SQL injection attacks, and how to stop SQL injection.**
+# In this article by Tom Canavan, we will take a look at how SQL injection attacks can occur to your #Joomla website, how we can test for SQL injection attacks, and how to stop SQL injection.
 
 ### Introduction
 
@@ -65,14 +65,14 @@ The top issues in PHP-based websites are:
 
 SQL databases are the heart of Joomla! CMS. The database holds the content, the users’ IDs, the settings, and more. To gain access to this valuable resource is the ultimate prize of the hacker. Accessing this can gain him/her an administrative access that can gather private information such as usernames and passwords, and can allow any number of bad things to happen. When you make a request of a page on Joomla!, it forms a “query” or a question for the database. The database is unsuspecting that you may be asking a malformed question and will attempt to process whatever the query is. Often, the developers do not construct their code to watch for this type of an attack. In fact, in the month of February 2008, twenty-one new SQL Injection vulnerabilities were discovered in the Joomla! land. The following are some examples presented for your edification. Using any of these for any purpose is solely your responsibility and not mine:
 
-# Example 1**
+# Example 1
 
 ```
-index.php?option=com_****&Itemid=name&cmd=section§ion=-
+index.php?option=com_&Itemid=name&cmd=section§ion=-
 ```
 
 ```
-000<span class="rem">/**/union+select<span class="rem">/**/000,111,222,
+000<span class="rem">//union+select<span class="rem">//000,111,222,
 ```
 
 ```
@@ -80,17 +80,17 @@ index.php?option=com_****&Itemid=name&cmd=section§ion=-
 ```
 
 ```
-    concat(username,0x3a,password)<span class="rem">/**/from<span class="rem">/**/jos_users/*
+    concat(username,0x3a,password)<span class="rem">//from<span class="rem">//jos_users/*
 ```
 
-# Example 2**
+# Example 2
 
 ```
-index.php?option=com_****&task=****&Itemid=name&catid=97&aid=-
+index.php?option=com_&task=&Itemid=name&catid=97&aid=-
 ```
 
 ```
-9988<span class="rem">/**/union<span class="rem">/**/select<span class="rem">/**/
+9988<span class="rem">//union<span class="rem">//select<span class="rem">//
 ```
 
 ```
@@ -98,11 +98,11 @@ concat(username,0x3a,password),0x3a,password,
 ```
 
 ```
-0x3a,username,0,0,0,0,1,1,1,1,1,1,1,1,0,0,0<span class="rem">/**/
+0x3a,username,0,0,0,0,1,1,1,1,1,1,1,1,0,0,0<span class="rem">//
 ```
 
 ```
-from<span class="rem">/**/jos_users/*
+from<span class="rem">//jos_users/*
 ```
 
 <style type="text/css">     .csharpcode, .csharpcode pre { 	font-size: small; 	color: black; 	font-family: consolas, "Courier New", courier, monospace; 	background-color: #ffffff; 	/*white-space: pre;*/ } .csharpcode pre { margin: 0em; } .csharpcode .rem { color: #008000; } .csharpcode .kwrd { color: #0000ff; } .csharpcode .str { color: #006080; } .csharpcode .op { color: #0000c0; } .csharpcode .preproc { color: #cc6633; } .csharpcode .asp { background-color: #ffff00; } .csharpcode .html { color: #800000; } .csharpcode .attr { color: #ff0000; } .csharpcode .alt  { 	background-color: #f4f4f4; 	width: 100%; 	margin: 0em; } .csharpcode .lnum { color: #606060; }</style>Both of these will reveal, under the right set of circumstances, the usernames and passwords in your system. There is a measure of protection in Joomla! 1.0.13, with an encryption scheme that will render the passwords useless. However, it does not make sense to allow extensions that are vulnerable to remain. Yielding ANY kind of information like this is unacceptable.
@@ -176,7 +176,7 @@ VALUES (<span class="str">'johndoe@email.com',<span class="str">'default',<span 
 
 - - - - - -
 
-# This article is extracted from:** [**Joomla! Web Security**](http://www.packtpub.com/joomla-web-security-
+# This article is extracted from: [Joomla! Web Security](http://www.packtpub.com/joomla-web-security-
 
 Secure your Joomla! website from common security threats with this easy-to-use 
 
@@ -254,4 +254,4 @@ Lastly, keeping your system patched is probably one of the best methods to preve
 
 ### About the Author
 
-A twenty-three year veteran of the Computer Business, and a Data Center Technology Consultant to Fortune-1000 Companies, **Tom Canavan** is a Certified Ethical Hacker and has a degree in Robotics and Numerical Control. He is author of the book Dodging the Bullets – A Disaster Preparation 
+A twenty-three year veteran of the Computer Business, and a Data Center Technology Consultant to Fortune-1000 Companies, Tom Canavan is a Certified Ethical Hacker and has a degree in Robotics and Numerical Control. He is author of the book Dodging the Bullets – A Disaster Preparation 

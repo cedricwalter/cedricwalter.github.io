@@ -20,13 +20,13 @@ Unfortunately for me the only language supported now is Python 2.5, I would have
 
 Google App Engine enables developers to build web applications on the same scalable systems that power our own applications.
 
-# No assembly required.**   
+# No assembly required.   
 Google App Engine exposes a fully-integrated [development environment](http://code.google.com/appengine/docs/whatisgoogleappengine.html).
 
-# It’s easy to scale.**   
+# It’s easy to scale.   
 Google App Engine makes it easy to design scalable applications that grow from one to millions of users without infrastructure headaches.
 
-# It’s free to get started.**   
+# It’s free to get started.   
 Every Google App Engine application will have enough CPU, bandwidth, and storage to serve around 5 million monthly pageviews.
 
 ——————-

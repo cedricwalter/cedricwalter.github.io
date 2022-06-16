@@ -394,7 +394,7 @@ Help to balance the heli if needed. Won’t work with a raptor 30 canopy. by Ste
 ## Loose screws in ARF kit
 
 ![](/assets/images/2004/08/lostinflight.jpg)
-I lost 2 screw (3x6mm) in flights ! crazy they are located in manual page 7, stage 952.** The heli produce a metallic
+I lost 2 screw (3x6mm) in flights ! crazy they are located in manual page 7, stage 952. The heli produce a metallic
 noise but I throught it was going from the exhaust. The person on this page report the same
 problem : <http://helico.toutlemodelisme.com/tests/caliber30/page1.htm>     I suggest to loctite them enough
 
@@ -534,7 +534,7 @@ Overall view of my 1st caliber
 
 24.08.2002 Add a dual battery system for more safety. I have no heli with only one battery. Here is why:
 
-| ***Problems***                                       | ***1 battery pack*** | ***2 packs +   mechanic   Switches*** | ***2 packs +   Electronic   switch*** |
+| *Problems*                                       | ***1 battery pack*** | ***2 packs +   mechanic   Switches*** | ***2 packs +   Electronic   switch*** |
 |------------------------------------------------------|----------------------|---------------------------------------|---------------------------------------|
 | ***Additional cost of system***                      | reference            | + 55â&#130;¬                          | + 180â&#130;¬                         |
 | Open circuit between battery and switch’s pack       | Failure              | Redundant                             | Redundant                             |

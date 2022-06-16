@@ -13,7 +13,7 @@ header:
 This interesting code snippet is from [cedTag](http://www.waltercedric.com/tag/cedtag "cedTag joomla tagging extension") and let you retrieve [WikiPedia](http://www.wikipedia.org/ "wikipedia") description using [OpenSearch API](http://www.mediawiki.org/wiki/API:Opensearch). It use the [Client Url Library cURL](http://php.net/manual/en/book.curl.php). Released under GPL v3
 
 ```php
-/**  * @param $searchTerm  * @param string $wikipediaServer  * @return array|string  [text, description, url]  */ public function getDefinitionFrom
+/  * @param $searchTerm  * @param string $wikipediaServer  * @return array|string  [text, description, url]  */ public function getDefinitionFrom
 
       ($searchTerm, $wikipediaServer = 'http://en.wikipedia.org') {     $url = $wikipediaServer. 
 

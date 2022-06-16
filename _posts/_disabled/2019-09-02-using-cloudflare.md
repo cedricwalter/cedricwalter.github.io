@@ -27,11 +27,11 @@ tags:
 
 It will cost you 0$ (DDOS, CDN) to 20$ or more and offer you the following advantages
 
-# DDoS** is short for Distributed Denial of Service. **DDoS**is a type of DOS attack where multiple compromised systems, which are often infected with a Trojan, are used to target a single system causing a Denial of Service (DoS) attack.
+# DDoS is short for Distributed Denial of Service. DDoSis a type of DOS attack where multiple compromised systems, which are often infected with a Trojan, are used to target a single system causing a Denial of Service (DoS) attack.
 
-A content delivery network (**CDN**) is a system of distributed servers (network) that deliver pages and other web content to a user, based on the geographic locations of the user, the origin of the webpage and the content delivery server.
+A content delivery network (CDN) is a system of distributed servers (network) that deliver pages and other web content to a user, based on the geographic locations of the user, the origin of the webpage and the content delivery server.
 
-A **web application firewall** (or WAF) filters, monitors, and blocks HTTP traffic to and from a web application. A WAF is differentiated from a regular firewall in that a WAF is able to filter the content of specific web applications while regular firewalls serve as a safety gate between servers. By inspecting HTTP traffic, it can prevent attacks stemming from web application security flaws, such as SQL injection, [cross-site scripting](https://en.wikipedia.org/wiki/Cross-site_scripting "https://en.wikipedia.org/wiki/Cross-site_scripting") (XSS), [file inclusion](https://en.wikipedia.org/wiki/File_inclusion_vulnerability "https://en.wikipedia.org/wiki/File_inclusion_vulnerability"), and security misconfigurations.
+A web application firewall (or WAF) filters, monitors, and blocks HTTP traffic to and from a web application. A WAF is differentiated from a regular firewall in that a WAF is able to filter the content of specific web applications while regular firewalls serve as a safety gate between servers. By inspecting HTTP traffic, it can prevent attacks stemming from web application security flaws, such as SQL injection, [cross-site scripting](https://en.wikipedia.org/wiki/Cross-site_scripting "https://en.wikipedia.org/wiki/Cross-site_scripting") (XSS), [file inclusion](https://en.wikipedia.org/wiki/File_inclusion_vulnerability "https://en.wikipedia.org/wiki/File_inclusion_vulnerability"), and security misconfigurations.
 
 ## How to
 

@@ -85,11 +85,11 @@ The best way to compare characteristics is to look at them side by side, below a
 
 ### Thread from users
 
-- [**The "Official" Sony HDR-SR7/SR8 Owner’s Thread**](http://www.avsforum.com/avs-vb/showthread.php?t=930783)
+- [The "Official" Sony HDR-SR7/SR8 Owner’s Thread](http://www.avsforum.com/avs-vb/showthread.php?t=930783)
 - [SlashCam.de in german, comparing HG10 with Sony SR7/8](http://www.slashcam.de/info/AVCHD---Vergleich-Canon-HG10-vs--Sony-SR7-oder-SR8-246038.html)
 
 ### Best Forums
 
 - CamcorderInfo [message board](http://www.camcorderinfo.com/bbs/)
-- DVI [ **AVCHD Format Discussion**](http://dvinfo.net/conf/forumdisplay.php?f=133)
-- AV Science Forum **[Camcorders](http://www.avsforum.com/avs-vb/forumdisplay.php?f=161)**
+- DVI [ AVCHD Format Discussion](http://dvinfo.net/conf/forumdisplay.php?f=133)
+- AV Science Forum [Camcorders](http://www.avsforum.com/avs-vb/forumdisplay.php?f=161)

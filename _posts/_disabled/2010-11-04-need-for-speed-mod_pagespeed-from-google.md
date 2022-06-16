@@ -18,7 +18,7 @@ tags:
 
 This solution is valid if you do not want to carefully optimize your site, and it come for now at huge initial CPU costs till the cache is filled up. The load on my server has proven to be unacceptable (for me) and I was forced to switch it off. But it may work on your server depending on the page size, number of visitors. Authors are working hard and communicating a lot on the [official mailing list](http://groups.google.com/group/mod-pagespeed-discuss) to reduce that load and improve the code in the coming weeks
 
-If you trust me, you can download the library module **libmod\_pagespeed.so** for Apache 2.2
+If you trust me, you can download the library module libmod\_pagespeed.so for Apache 2.2
 
 from <http://drivers.waltercedric.com/>
 

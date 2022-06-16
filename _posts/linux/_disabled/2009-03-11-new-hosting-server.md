@@ -12,7 +12,7 @@ tags:
 
 I am in the process of moving my homepage to a new server, with the latest state of the art software
 
-| **Old **dedicated server**** | **New dedicated server** |
+| Old dedicated server | New dedicated server |
 |---|---|
 | 1GB RAM | 4 GB RAM |
 | AMD-Prozessor Opteron | AMD-Prozessor Opteron™ 1214 HE |

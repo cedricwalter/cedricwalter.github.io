@@ -20,12 +20,12 @@ Note: I’ll do this for you, but you’ll have to send me the template per mail
 
 # Example_patching.C2.A0ja_purity_template.zip"></a>
 
-# Example patching ja\_purity\_template.zip**
+# Example patching ja\_purity\_template.zip
 
 1. Download [beyond compare](http://www.scootersoftware.com/) and install (trial 30 days)
 2. Download an existing patches for joomla! for example [Joomla\_1.5.20-Stable-Full\_PackageForSecurityImages5.1.x\_v01.02.00](joomla-releases-mainmenu-269.html?QUERY_STRING=#Joomla!%201.5%20patches)
 
-# Select both files**
+# Select both files
 
 - Joomla\_1.5.18-Stable-Full\_PackageForSecurityImages5.1.x\_v01.02.00
 - ja\_purity\_template.zip

@@ -15,7 +15,7 @@ I’ve just updated my [WIKI](http://wiki.waltercedric.com) to the latest versio
 installation was very straightforward..
 
 - [Download FCKeditor extension](http://mediawiki.fckeditor.net/index.php/Main_Page#Download_it.21), unpack it and place in the extensions directory.
-- Add this line at the end of **LocalSettings.php**:   
+- Add this line at the end of LocalSettings.php:   
     require\_once ($IP."/extensions/FCKeditor/FCKeditor.php");
 
 [![wysiwyg.editor.mediawiki](/assets/images/2008/03/wysiwyg.editor.mediawiki.gif)](http://wiki.waltercedric.com)
@@ -24,7 +24,7 @@ A Demo is available [at the official Sandbox](http://mediawiki.fckeditor.net/ind
 
 The [main page of MediaWiki + FCK editor being here](http://mediawiki.fckeditor.net/).
 
-There is also an **offline** [solution available HERE for preparing articles when you are not online](http://forums.anotherwebcom.com/vb/wiki.php?page=Category:Offline_MediaWiki_Text_Editor):
+There is also an offline [solution available HERE for preparing articles when you are not online](http://forums.anotherwebcom.com/vb/wiki.php?page=Category:Offline_MediaWiki_Text_Editor):
 
 This program will let you create MediaWiki articles offline on your home computer. The offline editor has all the Wiki mark-up/syntax like a MediaWiki edit-box does.   
 After you have a article how you want it you can then save it to a text or XML file for later posting to the web.

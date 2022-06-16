@@ -23,7 +23,7 @@ The famous "Free porn [CAPTCHA](http://en.wikipedia.org/wiki/Captcha) Attack"
 
 One way to crack [CAPTCHA](http://en.wikipedia.org/wiki/Captcha) is to offer a free porn site which requires that the user key in the solution to a captcha — which has been inlined from my site for example — before he can gain access. Free porn images or video attract a lot of users around the clock and in many countries.
 
-Solutions **to block spammers: for a time**
+Solutions to block spammers: for a time
 
 1. Check HTTP Referrer when the user post his key, and avoid sites address containing sex, hardcore, … based on a dictionary -> the only drawback is that it is trivial to fake the HTTP Referrer,
 2. Inserting a supplementary text into the generated [CAPTCHA](http://en.wikipedia.org/wiki/Captcha) image: "Do not enter text if the site is not waltercedric.com", this is done in one of my securityimages Plugin: Freecap but NOT in core 1.1 or HnCaptcha 1.0.  

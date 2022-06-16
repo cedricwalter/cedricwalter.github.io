@@ -22,5 +22,5 @@ tags:
  |  | Replacing the sensor with an optical one |
 |---|---|
 | [![](/assets/images/2004/09/tnOS_Schematic.jpg)](/assets/images/2004/09/OS_Schematic.jpg) | <http://www.helidriver.com/OpticalSensor.html> |
-|  | **all credits to** [**Helidriver**](http://www.helidriver.com/) |
+|  | all credits to [Helidriver](http://www.helidriver.com/) |
 

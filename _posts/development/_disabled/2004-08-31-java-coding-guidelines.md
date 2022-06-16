@@ -6,7 +6,7 @@ tags:
 - java
 ---
 I won't give you here all explanations on how to improve your code, only some references to external ressources, a lot
-of people have done a good job (hard work, respect!). **Feel the need to improve your code**, and you will follow more
+of people have done a good job (hard work, respect!). Feel the need to improve your code, and you will follow more
 or less the same road
 
 Kent Beck often makes a statement about himself, "*I'm not a great programmer; I'm just a good programmer with great
@@ -22,7 +22,7 @@ habits*."
 
 ![](java/
 
-# Things you may do to improve your code**
+# Things you may do to improve your code
 
 - Respect the #Java 
 - Never return a collection (Vector or Hashtable or) in java, prefer to return a class which hide the real collection,
@@ -36,7 +36,7 @@ habits*."
   for example.
 - Use Object development (of course) but do not rely on interface shipped with 3rd party objects you are
   buying/integrating, always create a wrapper around them or better define your own interface, use a strategy pattern….
-- A good code is a small code! **responsabilities must be properly localized** (do not be lazy, create more objects!)
+- A good code is a small code! responsabilities must be properly localized (do not be lazy, create more objects!)
   and not spread around or worse localized in one object (spaghetti code). Naming convention is very important! you can
   distinguish an orange from an apple? right so do not forget that the easiest refactoring methods are: rename methods,
   rename variables, rename objects, rename packages, move code to…
@@ -56,7 +56,7 @@ habits*."
 - Prefer lossely coupled system or process, for example try to create a meta descriptions data storage if you have a lot
   of layers in your system or use webservices
 
-# Optimizations**:
+# Optimizations:
 
 Of course some habits of coding are really bad, but nearly all compilers are catching them, and can do some agressive
 optimizations… you will never thinks of, moreover some JVM can optimized the bytecode on the fly (HOTSPOT) or do second
@@ -86,21 +86,21 @@ your system will hang for seconds….Keep always in minds:
   display something but do not hangs during seconds. A small javascript code can give you 40% more "hanging" time with
   great users acceptance
 
-# Things you may read to improve your code**
+# Things you may read to improve your code
 
 - Read news about java technologies: [www.javaworld.com](http://www.javaworld.com/), project hosted
   at [www.soundforge.net](http://www.soudforge.net/) and so on. You must keep yourself inform about the latest state of
   the art.
 - Register at <http://developer.java.sun.com/developer/> a lot of great forums, and a knowledge database can be freely
   browsed.
-- **Refactoring:** a change made to the internal structure of software to make it easier to understand and cheaper to
+- Refactoring: a change made to the internal structure of software to make it easier to understand and cheaper to
   modify without changing its observable behavior. (from Martin Fawler's book: Refactoring)  
   [www.refactoring.com](http://www.refactoring.com/) and techniques associated.   
-  My own definition would be: **never be satisfied** with your code! when it works and has been tested, write JUnit
+  My own definition would be: never be satisfied with your code! when it works and has been tested, write JUnit
   testcases and take 10 min to refactore your code each day. The book above has a good introduction about why it is
   important and how you can explain it to your manager. read one refactoring technique per day, it will also help you to
   improve your code.
-- **AntiPattern**: "An AntiPattern is a literary form that describes a commonly occurring solution to a problem that
+- AntiPattern: "An AntiPattern is a literary form that describes a commonly occurring solution to a problem that
   generates decidedly negative consequences.
 - AntiPatterns are a method for efficiently mapping a general situation to a specific class of solutions.
 - AntiPatterns provide real-world experience in recognizing recurring problems in the software industry and provide a
@@ -111,7 +111,7 @@ your system will hang for seconds….Keep always in minds:
 - AntiPatterns provide stress release in the form of shared misery for the most common pitfallsÂ in the software
   industry" from
 
-# Reference book is AntiPatterns Refactoring Software, Architectures, and Projects in Crisis William J. BrownÂ – Raphael C. MalveauÂ -Â Hays W. McCormick III – Thomas J. Mowbray -Â John Wiley &amp; Sons, Inc.**
+# Reference book is AntiPatterns Refactoring Software, Architectures, and Projects in Crisis William J. BrownÂ – Raphael C. MalveauÂ -Â Hays W. McCormick III – Thomas J. Mowbray -Â John Wiley &amp; Sons, Inc.
 
 - [www.extremeprogramming.com](http://www.extremeprogramming.com/) follow this rules to respect deadlines and work in an
   ambitious project.

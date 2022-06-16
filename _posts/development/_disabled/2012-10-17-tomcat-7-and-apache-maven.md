@@ -28,7 +28,7 @@ tags:
     - tutorial
 ---
 
-Here is 3 different way to control the lifetime **a local Tomcat 7** container using [Apache #Maven](http://maven.apache.org). A typical scenario would be to start a servlet container prior to running integration tests (Selenium, SAHI or using any other framework you can think of )
+Here is 3 different way to control the lifetime a local Tomcat 7 container using [Apache #Maven](http://maven.apache.org). A typical scenario would be to start a servlet container prior to running integration tests (Selenium, SAHI or using any other framework you can think of )
 
 With the following examples, you will be able to start an instance of Tomcat 7 running your web application in the pre-integration-test phase and stop the instance in the post-integration-test phase. You can also [decide to use an embedded container like Jetty](http://www.sonatype.com/books/mcookbook/reference/ch08s03.html) instead.
 

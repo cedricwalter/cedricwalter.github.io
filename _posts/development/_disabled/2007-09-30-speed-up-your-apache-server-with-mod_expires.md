@@ -19,7 +19,7 @@ These HTTP headers are an instruction to the client about the document’s valid
 document may be fetched from the cache rather than from the source until this time has passed. After that, the cache
 copy is considered "expired" and invalid, and a new copy must be obtained from the source.
 
-## How to activate mod\_expires.so**
+## How to activate mod\_expires.so
 
 ```
 vi /etc/apache2/conf.d/mod\_expires.conf

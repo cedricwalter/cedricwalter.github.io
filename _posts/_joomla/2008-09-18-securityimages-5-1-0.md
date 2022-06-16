@@ -8,7 +8,7 @@ author: 'Cédric Walter'
 
 ---
 
-# TO BE RELEASE SOON in no more than 2 days**
+# TO BE RELEASE SOON in no more than 2 days
 
 Dear Users… it is time to complain even more in my forums 😉
 

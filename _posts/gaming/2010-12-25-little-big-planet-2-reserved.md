@@ -21,7 +21,7 @@ Oh Yes end of year is near, and the best game for the PS3 is back again: [Little
 
 I already did reserved mine and you?
 
-My Playstation Network ID is **MagicianLord** see you soon in the GAME!
+My Playstation Network ID is MagicianLord see you soon in the GAME!
 
 Available 8 January, 2011 USA andEurope on 19 January 2011
 

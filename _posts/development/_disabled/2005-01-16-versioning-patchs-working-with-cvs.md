@@ -18,7 +18,7 @@ Tips
 
 - The tutorial ship with #Eclipse is quite good, take a look in HELP or search (cvs) into the help for articles..
 
-# Rules:**
+# Rules:
 
 - If You have a huge number of Projects in Your workspace, always try to have closed version of these especially if you are not supposed to change them.
 -Releases should follows an X.Y.Z convention where:
@@ -35,7 +35,7 @@ P1X project 1, version X, in workpace
  p3Z project 3, version Z  
  P1H project 1, HEAD version
 
-| **Case A:** You are continuing the development of a project …    Your team has reach a milestone, and want to continue development of the project . Happen 98% of the time |
+| Case A: You are continuing the development of a project …    Your team has reach a milestone, and want to continue development of the project . Happen 98% of the time |
 |---|
 | ``` IF (you decide to make a change on P1_X) AND (P1_X is the latest closed version of P1) <span class="syntax18">{
 
@@ -71,7 +71,7 @@ P1X project 1, version X, in workpace
 
  
 
-| **Case B:**You want to make a patch on a project…  - The version of the project has already been deployed or sold to customer, and - Your actual code may be a lot more advance, but not finished, not tested, possibly breaking interfaces of other components and - You prefer to continue development on the old version to reduce risks of instabilities. |
+| Case B:You want to make a patch on a project…  - The version of the project has already been deployed or sold to customer, and - Your actual code may be a lot more advance, but not finished, not tested, possibly breaking interfaces of other components and - You prefer to continue development on the old version to reduce risks of instabilities. |
 |---|
 | ``` <span class="syntax2">//<span class="syntax2">old<span class="syntax2"> <span class="syntax2">status<span class="syntax2"> <span class="syntax2">of<span class="syntax2"> <span class="syntax2">a<span class="syntax2"> <span class="syntax2">project<span class="syntax2"> <span class="syntax2">which<span class="syntax2"> <span class="syntax2">have<span class="syntax2"> <span class="syntax2">a<span class="syntax2"> <span class="syntax2">problem/your<span class="syntax2"> <span class="syntax2">prefer<span class="syntax2">  Load P1_X in workspace;  (Team <span class="syntax18">- replace with <span class="syntax18">- choose version P1_X) 
 

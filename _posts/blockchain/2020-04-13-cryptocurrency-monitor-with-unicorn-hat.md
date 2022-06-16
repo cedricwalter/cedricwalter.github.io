@@ -20,7 +20,7 @@ tags:
     - raspbian
 ---
 
-Unicorn pHAT and HAT. 32 or 64 blinding ws2812 pixels for your Raspberry Pi. it is called Unicorn Hat because it does rainbows, really bright rainbows! **ATTENTION**: do not stare directly at the led without a sheet of paper on it. LED are REALLY bright!
+Unicorn pHAT and HAT. 32 or 64 blinding ws2812 pixels for your Raspberry Pi. it is called Unicorn Hat because it does rainbows, really bright rainbows! ATTENTION: do not stare directly at the led without a sheet of paper on it. LED are REALLY bright!
 
 ![](/assets/images/2020/04/unicorn-hat-raspberry-pi.jpg)## Shopping list
 
@@ -41,7 +41,7 @@ and a Unicorn HAT from <https://shop.pimoroni.com/products/unicorn-hat> I’ve g
 - Compatible with all 40-pin header Raspberry Pi models
 - [Python library](https://github.com/pimoroni/unicorn-hat)
 - Comes fully assembled
-- **Warning**: WS2812 LEDs are bright enough to cause eye pain, do not look at them directly when brightly lit. is recommended to use a [diffuser](https://shop.pimoroni.com/products/pibow-modification-layers).
+- Warning**: WS2812 LEDs are bright enough to cause eye pain, do not look at them directly when brightly lit. is recommended to use a [diffuser](https://shop.pimoroni.com/products/pibow-modification-layers).
 - **Photo-sensitivity warning**: flashing, strobing, and patterns of lights may cause epileptic seizures. Always take care and immediately stop using if you feel unwell (dizziness, nausea, affected vision, eye twitching, disorientation).
 - **Power**: Unicorn HAT requires a >2A microUSB power supply for your Pi.
 

@@ -71,7 +71,7 @@ Highly customizable to display a badge of your [Smugmug ](http://www.smugmug.com
     
     ###### Previous user of the following extensions?
     
-    **Remove any previous** **extensions** from me, here is the list:
+    Remove any previous extensions from me, here is the list:
     
     
     - mod\_smugmugbadge
@@ -85,6 +85,6 @@ Highly customizable to display a badge of your [Smugmug ](http://www.smugmug.com
     
     ###### First time installation
     
-    Download the latest copy of com\_cedSmugmug\_j25.zip, from **Extensions → Install / Uninstall** and install with the fresh copy.
+    Download the latest copy of com\_cedSmugmug\_j25.zip, from Extensions → Install / Uninstall and install with the fresh copy.
     
     [![](http://www.waltercedric.com/images/download-zip.png)](http://www.waltercedric.com/downloads/smugmug.html)[![](http://www.waltercedric.com/images/documentation.jpg)](http://wiki.waltercedric.com/index.php?title=CedThumbnails_for_Joomla)[![](http://www.waltercedric.com/images/support.png)](http://forums.waltercedric.com/)

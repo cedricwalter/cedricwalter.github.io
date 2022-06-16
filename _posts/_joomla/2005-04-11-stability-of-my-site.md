@@ -11,12 +11,12 @@ tags:
 - incidents
 ---
 
-**2005.11.04** My site is currently creating 60 request / second to the hosting mysql company
+2005.11.04 My site is currently creating 60 request / second to the hosting mysql company
 
 So my site has been deactivated yesterday and today. It has been reactivated today 04.11.2005 at 10:00 GMT+1 in order to
 let me do some actions
 
-**I am currently working on it…**  
+I am currently working on it…  
 \* I have supress the redirect (index.html) to /Mambo/index.php  
 \* I have moved #Joomla from /Mambo to the root of {www.waltercedric.com}  
 \* I have empty all content cache of #Joomla  

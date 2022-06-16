@@ -20,7 +20,7 @@ To install it in OpenSuse 11.1, just use the following link
 
 Or you can choose to install a more [basic KDE 4 desktop](http://download.opensuse.org/repositories/KDE:/KDE4:/Factory:/Desktop/openSUSE_11.1/KDE4-BASIS.ymp).
 
- **Attention: The KDE:KDE4:Factory:Desktop Build Service project offers KDE 4.2.x packages as they are currently under development for openSUSE 11.2. They should be mostly usable, but have bugs.**
+ Attention: The KDE:KDE4:Factory:Desktop Build Service project offers KDE 4.2.x packages as they are currently under development for openSUSE 11.2. They should be mostly usable, but have bugs.
 
 The [release announcement](http://www.kde.org/announcements/4.2/) gives a quick overview while the [visual tour to KDE 4.2](http://www.kde.org/announcements/4.2/
 

@@ -12,7 +12,7 @@ header:
 
 Â
 
-# Result from overclocking**
+# Result from overclocking
 
 [XP1700(1470MHz) @2350Mhz](mailto:XP1700@2350Mhz)  
 Nforce2 Asus A7N8X deluxe -512 Mb  
@@ -23,12 +23,12 @@ Multiplier: 11
 
 Better than a Barton XP3200+
 
-| **CPU Speed Â** | **FSBÂ** | **Core SpeedÂ** | **MultiplierÂ** | **Core VoltageÂ** |
+| CPU Speed Â | FSBÂ | Core SpeedÂ | MultiplierÂ | Core VoltageÂ |
 |---|---|---|---|---|
-| Athlon XP 3200+ **Barton** | **400** | 2.2 Ghz | 11 | 1.65 |
-| Athlon XP 3000+ **Barton** | 333 | 2.17 GHz | 13 | 1.65v |
-| Athlon XP 2800+ **Barton** | 333 | 2.08 GHz | 12.5 | 1.65v |
-| Athlon XP 2500+ **Barton** | 333 | 1.83 GHz | 11 | 1.65v |
+| Athlon XP 3200+ Barton | 400 | 2.2 Ghz | 11 | 1.65 |
+| Athlon XP 3000+ Barton | 333 | 2.17 GHz | 13 | 1.65v |
+| Athlon XP 2800+ Barton | 333 | 2.08 GHz | 12.5 | 1.65v |
+| Athlon XP 2500+ Barton | 333 | 1.83 GHz | 11 | 1.65v |
 | Athlon XP 2800+ | 333 | 2.25 GHz | 13.5x | 1.65v |
 | Athlon XP 2700+ | 333 | 2.17 GHz | 13x | 1.65v |
 | Athlon XP 2600+ | 266 | 2.13 GHz | 16x | 1.65v |
@@ -38,6 +38,6 @@ Better than a Barton XP3200+
 | Athlon XP 2000+ | 266 | 1.67 GHz | 12.5x | 1.60V |
 | Athlon XP 1900+ | 266 | 1.60 GHz | 12.0x | 1.50V |
 | Athlon XP 1800+ | 266 | 1.53 GHz | 11.5x | 1.50V |
-| **->Athlon XP 1700+** | 266 | 1.47 GHz | **11.0x** | 1.50V |
+| ->Athlon XP 1700+ | 266 | 1.47 GHz | 11.0x | 1.50V |
 
 ![](/assets/images/2004/08/InPlace1.jpg)

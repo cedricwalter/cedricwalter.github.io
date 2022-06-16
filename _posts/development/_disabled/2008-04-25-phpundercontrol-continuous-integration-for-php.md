@@ -8,12 +8,12 @@ author: 'Cédric Walter'
 
 ---
 
-| [![phpUnderControl metrics screenshot](http://www.phpundercontrol.org/images/0.3.5-metrics_thumb.png "phpUnderControl metrics screenshot")](http://www.phpundercontrol.org/images/0.3.5-metrics.png)    [More screen shots here](http://www.phpundercontrol.org/screenshots.html) | [phpUnderControl](http://www.phpundercontrol.org/) is an add-on application for the continuous integration    tool [CruiseControl](http://cruisecontrol.sourceforge.net), which integrates some of the best PHP development tools.    This project aims to make your first steps with CruiseControl and [PHP](http://www.php.net) as easy    as possible. Therefore phpUnderControl comes with a command line tool that    performs all modifications to an existing CruiseControl installation. **My objective is to be able to set up this server and provide you all an access to the build result for my component.** |
+| [![phpUnderControl metrics screenshot](http://www.phpundercontrol.org/images/0.3.5-metrics_thumb.png "phpUnderControl metrics screenshot")](http://www.phpundercontrol.org/images/0.3.5-metrics.png)    [More screen shots here](http://www.phpundercontrol.org/screenshots.html) | [phpUnderControl](http://www.phpundercontrol.org/) is an add-on application for the continuous integration    tool [CruiseControl](http://cruisecontrol.sourceforge.net), which integrates some of the best PHP development tools.    This project aims to make your first steps with CruiseControl and [PHP](http://www.php.net) as easy    as possible. Therefore phpUnderControl comes with a command line tool that    performs all modifications to an existing CruiseControl installation. My objective is to be able to set up this server and provide you all an access to the build result for my component. |
 |---|---|
 
  [ ](http://www.phpundercontrol.org/images/0.3.5-metrics.png)
 
- **Integrated tools**
+ Integrated tools
 
 - Testing and software metrics
     
@@ -36,4 +36,4 @@ author: 'Cédric Walter'
     like PEAR and ZEND but due to its modular structure you can easily implement a custom rule set or extend one   
     of the pre defined sets. This development tool assures that the whole project code will remain clean and   
     consistent.   
-    **From** [**http://www.phpundercontrol.org/about.html**](http://www.phpundercontrol.org/about.html)
+    From [http://www.phpundercontrol.org/about.html](http://www.phpundercontrol.org/about.html)

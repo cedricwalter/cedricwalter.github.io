@@ -20,10 +20,10 @@ tags:
 This module is a front end for the myriad of parameter that can set for the [Smugmug ](http://www.smugmug.com)flash applet.  
 A great visual and a lot of features are built into this widget.
 
-# NEW**: #Joomla! 1.6 native support only for version > 1.6.0  
-# NEW**: [Wiki page](http://wiki.waltercedric.com/index.php?title=Smugmug_Slideshow) is now integrated in backend  
-# NEW**: 25 modules settings  
-# NEW**: Integrated #Joomla! 1.6 one click update extension is available!
+# NEW: #Joomla! 1.6 native support only for version > 1.6.0  
+# NEW: [Wiki page](http://wiki.waltercedric.com/index.php?title=Smugmug_Slideshow) is now integrated in backend  
+# NEW: 25 modules settings  
+# NEW: Integrated #Joomla! 1.6 one click update extension is available!
 
 ####  
 

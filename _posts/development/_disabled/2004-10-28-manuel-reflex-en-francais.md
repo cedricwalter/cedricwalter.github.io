@@ -23,7 +23,7 @@ les contributeurs qui ont participe a ce projet sont dans l’ordre d’importan
 <span style="font-weight: bold; color: #000000;">– Maccoy38   
 – <span style="font-weight: bold; color: #ffffff;"><span class="name">eclerj  
 <span style="color: #ffffff;"><span class="postbody">  
-Je tient surtout Ã fÃ©liciter Halbert pour l’Ã©tonnante qualitÃ© et la quantitÃ© de ses traductions …**BRAVO**
+Je tient surtout Ã fÃ©liciter Halbert pour l’Ã©tonnante qualitÃ© et la quantitÃ© de ses traductions …BRAVO
 
 - <span style="color: #ffffff;"><span class="postbody">J’ai contacter Wolfgang (concepteur du logiciel) par mail pour lui signaler l’Ã©tat d’avancement de notre projet, car ce serait a lui de hoster le manuel sur son site.
 - Je cherche aussi maintenant un moyen d’extraire automatiquement les donnees du [wiki](http://waltercedric.com/wiki/index.php?title=Main_Page&Itemid=79) pour faire un manuel standalone (distribuable sur cd rom ou utilisable sans internet, pdf ou html) 

@@ -12,7 +12,7 @@ tags:
 - operating
 ---
 
-# Microsoft is guilty of breaking EU competition law, and has come up with a way to make amends. We dissect the resulting licence and find a very peculiar world indeed**
+# Microsoft is guilty of breaking EU competition law, and has come up with a way to make amends. We dissect the resulting licence and find a very peculiar world indeed
 
 *In last year’s European Commission antitrust ruling against Microsoft, the software giant agreed to create a server
 interoperability licence that would allow rival makers of server software to write applications that can "achieve full

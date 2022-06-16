@@ -21,15 +21,15 @@ into a Media Center <font color="#40ab3d" face="Arial Black" size="3">with XBMC!
 <font color="#40ab3d" face="Arial Black" size="4">![xboxIcon](/assets/images/2004/08/x.gif) <font color="#40ab3d" face="Arial Black" size="3">Legal Issues
 
 It is strictly forbidden to modify your xBox, sell or install mods chip in france. Even opening the XBOX is forbidden.   
-# Remember pirating is a crime, support the developers and film companies.**
+# Remember pirating is a crime, support the developers and film companies.
 
 <font color="#40ab3d" face="Arial Black" size="4">![xboxIcon](/assets/images/2004/08/x.gif) <font color="#40ab3d" face="Arial Black" size="3">What does XBMC do?
 
-[<font color="#ff0000" size="2">**http://www.xboxmediacenter.com/info\_project.htm**](http://www.xboxmediacenter.com/info_project.htm)<font color="#ff0000" size="2"> 
+[<font color="#ff0000" size="2">http://www.xboxmediacenter.com/info\_project.htm](http://www.xboxmediacenter.com/info_project.htm)<font color="#ff0000" size="2"> 
 
 <font color="#40ab3d" face="Arial Black" size="4">![xboxIcon](/assets/images/2004/08/x.gif) <font color="#40ab3d" face="Arial Black" size="3">Process
 
-# What you will have to do: (****green mandatory,** **blue optional****)**
+# What you will have to do: (green mandatory, **blue optional****)**
 
 1. # **Buy a Xbox**#  
 2. # **open the Xbox (void garanty)**#  

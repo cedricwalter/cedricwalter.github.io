@@ -38,7 +38,7 @@ This plugin will support various tasks within the Weblogic 8.1 and 9.x environme
 
 ### Weblogic Admin Console
 
-In the protocols section of your Admin server settings page verify that **Enable Tunneling** is checked (Environment – Server – Protocols).
+In the protocols section of your Admin server settings page verify that Enable Tunneling is checked (Environment – Server – Protocols).
 
 ### Preparing Maven dependencies
 

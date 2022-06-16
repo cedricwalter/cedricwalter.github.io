@@ -32,7 +32,7 @@ echo "$1" | sed ‘y/abcdefghijklmnopqrstuvwxyz/ABCDEFGHIJKLMNOPQRSTUVWXYZ/’
 }
 ```
 
-# Usage**:
+# Usage:
 
 - in a script toUpper “cedric”
 - assign to a variable in a script result=$(toUpper $variable) or result=$(toUpper “cedric”)
@@ -58,7 +58,7 @@ function searchAndReplaceRecursively {
 }
 ```
 
-# Usage**:
+# Usage:
 
 - in a script searchAndReplaceRecursively “cedric” “unix” .
 
@@ -81,7 +81,7 @@ function renameFilenameRecursively {
 }
 ```
 
-# Usage**:
+# Usage:
 
 - in a script renameFilenameRecursively “cedric” “unix” .
 
@@ -112,7 +112,7 @@ function renameDirectoriesRecursively {
 }
 ```
 
-# Usage**:
+# Usage:
 
 - in a script renameDirectoriesRecursively “cedric” “unix” .
 

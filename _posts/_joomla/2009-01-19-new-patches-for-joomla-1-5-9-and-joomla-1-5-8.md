@@ -13,7 +13,7 @@ header:
 [![smallbox_securityimages](/assets/images/2009/01/smallbox_securityimages_thumb.jpg)](/assets/images/2020/02/smallbox_securityimages.jpg) Some people have reported issue [in the forum](http://forums.waltercedric.com)
 
 I’ve found the error in my code in some views but not all:   
- img src=”<?php echo JURI :: root() ?>**/**index.php?   
+ img src=”<?php echo JURI :: root() ?>/index.php?   
 as a result, there is in image URL a double / which cause issues on some web host (no image displayed)
 
 I now provide a new patches versions for #Joomla! 1.5.8 and 1.5.9 that can be downloaded:
@@ -23,7 +23,7 @@ I now provide a new patches versions for #Joomla! 1.5.8 and 1.5.9 that can be do
 
 These patches are ONLY for SecurityImages 5.1.0 or later, note the version of zip
 
-Joomla\_1.5.8-Stable-Full\_PackageForSecurityImages5.1.0\_**v01.01.00**.zip   
-Joomla\_1.5.9-Stable-Full\_PackageForSecurityImages5.1.0\_**v01.01.00**.zip
+Joomla\_1.5.8-Stable-Full\_PackageForSecurityImages5.1.0\_v01.01.00.zip   
+Joomla\_1.5.9-Stable-Full\_PackageForSecurityImages5.1.0\_v01.01.00.zip
 
-instead of **<font color="#000080">v01.00.00**
+instead of <font color="#000080">v01.00.00

@@ -10,7 +10,7 @@ author: 'Cédric Walter'
 
 From <http://www.bunniestudios.com/wordpress/?p=74> the man wo break the first XBOX.
 
-*At any rate, some very interesting things are afoot. Much of it stems from **the discovery of an all-media bootable kiosk** demo disk. Many hackers will instantly recognize the value of this, but itâ&#128;&#153;s still interesting to reflect on the significance of this find. Like the original Xbox, the Xbox360 uses a media flag on its executables.*
+*At any rate, some very interesting things are afoot. Much of it stems from the discovery of an all-media bootable kiosk demo disk. Many hackers will instantly recognize the value of this, but itâ&#128;&#153;s still interesting to reflect on the significance of this find. Like the original Xbox, the Xbox360 uses a media flag on its executables.*
 
 *The media flag tells the OS what type of media it should be on; typically, games are released with the flag set to Microsoftâ&#128;&#153;s proprietary secure Xbox DVD format (which is in itself not that secureâ&#128;¦). Significantly, only the executable is signed for a game; the data sections typically are not signed (presumably for performance reasons). Thus, one has the ability to fuzz the executable by corrupting the data sections, potentially invoking a buffer overrun or some other unintentional behaviorâ&#128;&#147;if one could effectively modify the data sections. Remember that this is normally not possible, since modifying the data segment requires making a copy to a writeable media, and this contradicts the signed media flag.*
 

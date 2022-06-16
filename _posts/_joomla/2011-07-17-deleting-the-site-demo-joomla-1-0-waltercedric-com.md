@@ -17,12 +17,12 @@ tags:
 
 #### Since July 22nd 2009: #Joomla 1.0 has reached end-of-life.
 
-# Reasons for the Move**
+# Reasons for the Move
 
-- **Security**. Older extensions are often built using older and potentially unsafe coding methods.
-- **Support**. 1.0 has a large number of older and unsupported extensions.
-- **End-of-life**. #Joomla 1.0 won’t be maintained after the July end-of-life date, so it is a logical step to also stop supporting 1.0 extensions.
-- **Focus**. Allow #Joomla developers to concentrate on developing for the current #Joomla 1.5 version and also for 1.6.
+- Security. Older extensions are often built using older and potentially unsafe coding methods.
+- Support. 1.0 has a large number of older and unsupported extensions.
+- End-of-life. #Joomla 1.0 won’t be maintained after the July end-of-life date, so it is a logical step to also stop supporting 1.0 extensions.
+- Focus. Allow #Joomla developers to concentrate on developing for the current #Joomla 1.5 version and also for 1.6.
 
 Visit the official anouncement [here](http://community.joomla.org/blogs/community/629-jed-will-phase-out-joomla-10-extensions-in-june-2009.html)
 

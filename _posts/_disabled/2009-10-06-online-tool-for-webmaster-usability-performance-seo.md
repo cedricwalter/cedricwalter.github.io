@@ -16,7 +16,7 @@ tags:
 
 ### SEO
 
-This is an **instant**, **free** and **no-registration** tool to analyze the <acronym>SEO</acronym> performance of a <acronym>URI</acronym> for a given key phrase. Reports include a variety of useful information and structured recommendations to **improve overall effectiveness**. Try a few reports and judge for yourself. The tool aims to encourage the use of **standards compliant, user-friendly and accessible code** while at the same time helping website-owners to **attract more visitors** to their websites. Of course, no automated tool can substitute for a human analysis by an experienced search engine optimizer.
+This is an instant, free and no-registration tool to analyze the <acronym>SEO</acronym> performance of a <acronym>URI</acronym> for a given key phrase. Reports include a variety of useful information and structured recommendations to improve overall effectiveness. Try a few reports and judge for yourself. The tool aims to encourage the use of standards compliant, user-friendly and accessible code while at the same time helping website-owners to attract more visitors to their websites. Of course, no automated tool can substitute for a human analysis by an experienced search engine optimizer.
 
 [![The Reaction Engine_ a Free Online SEO Analysis Tool](/assets/images/2009/10/TheReactionEngine_aFreeOnlineSEOAnalysisTool.png "The Reaction Engine_ a Free Online SEO Analysis Tool")](http://www.reactionengine.com/)
 

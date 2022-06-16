@@ -86,6 +86,6 @@ tags:
 
  <span style="font-family: Courier New,Courier,monospace"> -XX:+AggressiveOpts -XX:-UseConcMarkSweepGC
 
- By the way I use them in Eclipse + JDK 1.6 since months. This page [<span style="font-size: 1.2em">**A Collection of JVM Options** **compiled by: Joseph D. Mocker (Sun Microsystems, Inc.)**](http://blogs.sun.com/watt/resource/jvm-options-list.html) has been of a great help during this stage.
+ By the way I use them in Eclipse + JDK 1.6 since months. This page [<span style="font-size: 1.2em">A Collection of JVM Options compiled by: Joseph D. Mocker (Sun Microsystems, Inc.)](http://blogs.sun.com/watt/resource/jvm-options-list.html) has been of a great help during this stage.
 
  Still not enough, we were forced to profile the java code and make some big changes….

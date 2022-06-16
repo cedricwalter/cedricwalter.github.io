@@ -11,7 +11,7 @@ tags:
 - Techniques
 ---
 
-# Autopilot the future is now here!**
+# Autopilot the future is now here!
 
 ## Reality
 

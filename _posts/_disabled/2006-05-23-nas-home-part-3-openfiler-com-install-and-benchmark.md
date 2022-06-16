@@ -14,7 +14,7 @@ tags:
 ---
 
 ![RAID @ home raid5](/assets/images/2006/05/raid.gif)<span style="color: rgb(153, 153, 255);"><big style="font-family: Times New Roman,Times,serif;"><span style="color: rgb(153, 153, 255);">Presentation  
- </big> **Openfiler** is a powerful, intuitive browser-based network storage software distribution. Openfiler delivers file-based Network Attached Storage and block-based Storage Area Networking in a single framework.
+ </big> Openfiler is a powerful, intuitive browser-based network storage software distribution. Openfiler delivers file-based Network Attached Storage and block-based Storage Area Networking in a single framework.
 
 Openfiler sits atop of CentOS #Linux (which is derived from sources freely provided to the public by a prominent North American Enterprise #Linux vendor). It is distributed as a stand-alone #Linux distribution. The entire software stack interfaces with third-party software that is all open source.
 

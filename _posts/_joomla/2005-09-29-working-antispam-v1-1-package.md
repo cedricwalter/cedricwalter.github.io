@@ -12,16 +12,16 @@ tags:
     - securityimages
 ---
 
-# We** lost, Colin (<http://espresso.ts.uvic.ca/> from Canada) and I nearly one week on securityimages….
+# We lost, Colin (<http://espresso.ts.uvic.ca/> from Canada) and I nearly one week on securityimages….
 
 The package was installing fine on windows powered machine, but refuse to install fully on #Linux kernel. I made it work by simply removing all space character in the XML deployment descriptor of #Joomla/Mambo. I will give me more time to find a better solution…
 
-# Project administrator at Mamboforge (Mambo CMS discontinued)**
+# Project administrator at Mamboforge (Mambo CMS discontinued)
 
 1. <http://log4php4mambo.mamboforge.net> (PHP – GPL) Log4PHP for Mambo – consistent and quality logging framework in a core component
 2. <http://hashcash.mamboforge.net> (PHP – GPL) a framework using cryptographic techniques to protect posting form
 
-# Project administrator at #Joomlaforge (Joomla CMS):**
+# Project administrator at #Joomlaforge (Joomla CMS):
 
 1. [http://developer.joomla.org/sf/projects/com\_securityimages](http://developer.joomla.org/sf/projects/com_securityimages) (PHP – GPL) a framework for generating CAPTCHA and protecting posting forms from spammers
 2. [http://developer.joomla.org/sf/projects/com\_hashcash](http://developer.joomla.org/sf/projects/com_hashcash) (PHP – GPL) a framework using cryptographic techniques and protecting posting forms from spammers

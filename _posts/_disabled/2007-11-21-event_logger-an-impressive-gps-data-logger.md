@@ -15,7 +15,7 @@ tags:
 
  ![robogeo.generate.google.map.jpg](/assets/images/2007/11/robogeo.generate.google.map_.jpg "robogeo.generate.google.map.jpg")
 
- There is a trend on the camera market, people want now to tag their photo, not only by adding sound (micro can be found now on point and shot consumer camera), or letting the camera add EXIF embeded data ( **Exchangeable Image File Form<span style="font-weight: normal">at) into each pictures.**  
+ There is a trend on the camera market, people want now to tag their photo, not only by adding sound (micro can be found now on point and shot consumer camera), or letting the camera add EXIF embeded data ( Exchangeable Image File Form<span style="font-weight: normal">at) into each pictures.  
  Consumer always want more!, and with the arrival of Google Maps on the market, some years ago, It has not taken much time till users decide to add geoposition (with a GPS) to their pictures. While this feature can be found on some high end camera model (camera body > $10000, as an option it is quite pricey too), TomTom, Garmin and other consumer GPS are now able to provide a cheap and ready to go alternative. A data logger is a device able to record periodically latidutes, longitudes, altitude, date and time while yyou are on the road. It is now possible with some tools to merge pictures and files produced by GPS ad save new meta informations in EXIF data.
 
  [Click Here for a live example](http://www.robogeo.com/home/gmaps/sample4/map.htm)
@@ -29,7 +29,7 @@ tags:
 - <span lang="EN-GB">How can I remind precise positions?
 - <span lang="EN-GB">When exactly I traveled there?
 
- **Combined with your favorite DSLR or point and shot camera**
+ Combined with your favorite DSLR or point and shot camera
 
 - You take pictures but now can’t remember the exact place of some of the photos
 - With a software, you can then match the coordinates with the picture and you like to see your pictures on a map. (Google map, Google Earth)

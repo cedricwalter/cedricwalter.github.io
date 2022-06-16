@@ -16,7 +16,7 @@ trust-less manner.
 
 I’ve listed in the past few months all of them
 at [tokens-economy.gitbook.io/consensus/](https://tokens-economy.gitbook.io/consensus/) and thought it will be cool also
-to produce an **Infographics**
+to produce an Infographics
 
 The PNG (4528 x 2894 px, 2.5MB) can be
 downloaded [here](https://www.tokens-economy.com/assets/images/2019/02/Major-Blockchain-consensus-Infographics.png) and

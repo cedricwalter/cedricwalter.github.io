@@ -15,7 +15,7 @@ tags:
 
  ![](/assets/images/2005/12/wilber_painter.png) GIMP is the GNU Image Manipulation Program is a freely distributed piece of software for such tasks as photo retouching, image composition and image authoring. It works on many operating systems, in many languages (77).
 
- Version 2.4 of the GNU Image Manipulation Program **is now available.**
+ Version 2.4 of the GNU Image Manipulation Program is now available.
 
  The release note contains the list of new features and some nice screenshots. You can download this semi professional tool at no charge
 

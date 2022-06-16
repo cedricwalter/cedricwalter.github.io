@@ -26,25 +26,25 @@ tags:
 
  Here is an example of  tuning-primer.sh output
 
- **SLOW QUERIES**  
+ SLOW QUERIES  
  Current long\_query\_time = 5 sec.  
  You have 2856 out of 4725688 that take longer than 5 sec. to complete  
  <span style="color: #008000">The slow query log is enabled.  
  <span style="color: #008000">Your long\_query\_time seems to be fine  
-  **WORKER THREADS**  
+  WORKER THREADS  
  Current thread\_cache\_size = 128  
  Current threads\_cached = 55  
  Current threads\_per\_sec = 0  
  Historic threads\_per\_sec = 0  
  <span style="color: #008000">Your thread\_cache\_size is fine  
-  **MAX CONNECTIONS**  
+  MAX CONNECTIONS  
  Current max\_connections = 100  
  Current threads\_connected = 15  
  Historic max\_used\_connections = 55  
  The number of used connections is 55% of the configured maximum.  
  <span style="color: #008000">Your max\_connections variable seems to be fine.
 
- **MEMORY USAGE**  
+ MEMORY USAGE  
  Max Memory Ever Allocated : 305 M  
  Configured Max Per-thread Buffers : 1017 M  
  Configured Max Global Buffers : 143 M  
@@ -52,7 +52,7 @@ tags:
  Total System Memory : 2.99 G  
  <span style="color: #008000">Max memory limit seem to be within acceptable norms
 
- **KEY BUFFER**  
+ KEY BUFFER  
  Current MyISAM index space = 4 M  
  Current key\_buffer\_size = 5 M  
  Key cache miss rate is 1 : 3740  
@@ -60,7 +60,7 @@ tags:
  Your key\_buffer\_size seems to be too high.  
  Perhaps you can use these resources elsewhere
 
- **QUERY CACHE**  
+ QUERY CACHE  
  Query cache is enabled  
  Current query\_cache\_size = 128 M  
  Current query\_cache\_used = 27 M  
@@ -70,12 +70,12 @@ tags:
  Perhaps you can use these resources elsewhere  
  MySQL won’t cache query results that are larger than query\_cache\_limit in size
 
- **SORT OPERATIONS**  
+ SORT OPERATIONS  
  Current sort\_buffer\_size = 4 M  
  Current record/read\_rnd\_buffer\_size = 1020 K  
  <span style="color: #008000">Sort buffer seems to be fine
 
- **JOINS**  
+ JOINS  
  Current join\_buffer\_size = 1.00 M  
  You have had 7065 queries where a join could not use an index properly  
  You should enable "log-queries-not-using-indexes"  

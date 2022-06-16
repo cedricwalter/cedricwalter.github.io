@@ -18,7 +18,7 @@ tags:
     - travel
 ---
 
-# Chinatown** is a subzone and ethnic enclave located within the Outram district in the Central Area of [Singapore](https://waltercedric.com/tag/singapore/). Featuring distinctly Chinese cultural elements, Chinatown has had a historically concentrated ethnic Chinese population.
+# Chinatown is a subzone and ethnic enclave located within the Outram district in the Central Area of [Singapore](https://waltercedric.com/tag/singapore/). Featuring distinctly Chinese cultural elements, Chinatown has had a historically concentrated ethnic Chinese population.
 
 ![](/assets/images/2020/04/explore-chinatown.png)](https://www.google.com/maps/place/Chinatown,+Singapore/@1.28114,103.8404752,16z/data=!4m5!3m4!1s0x31da1972a27568e3:0xbbc2a66a543ebb05!8m2!3d1.2814942!4d103.8448202)<figcaption>Chinatown’s maze of narrow roads includes Chinatown Food Street, with its restaurants</figcaption>Chinatown is considerably less of an enclave than it once was. However, the precinct does retain significant historical and cultural significance. Large sections of it have been declared national heritage sites officially designated for conservation by the Urban Redevelopment Authority.
 

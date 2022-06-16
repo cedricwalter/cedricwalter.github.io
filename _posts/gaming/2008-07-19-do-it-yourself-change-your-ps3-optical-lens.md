@@ -10,19 +10,19 @@ header:
   teaser: /assets/images/2005/06/sony_playstation_ps3.jpg
 ---
 
-# DISCLAIMER: This tutorial is for information purposes, and I am not responsible or can be held responsible if you screw up your PS3 by following this tutorial. Make sure the PS3 is unplugged from mains power AT ALL TIMES. Mains power is dangerous! Dismantle the Playstation 3 console and follow this tutorial at your own risk!**
+# DISCLAIMER: This tutorial is for information purposes, and I am not responsible or can be held responsible if you screw up your PS3 by following this tutorial. Make sure the PS3 is unplugged from mains power AT ALL TIMES. Mains power is dangerous! Dismantle the Playstation 3 console and follow this tutorial at your own risk!
 
 # Attention: This operation will void your warranty!!! I recommend you to send it to SONY if bought your PS3 less than a year ago.   
 Attention: While this operation require no particular knowledge, don’t try it if you have no patience and feel not confident enough!   
-Attention: Look at other tutorials at the end of my article before starting, I did not represent all steps in details. Use them to complete missing steps (this is my brother’s PS3, mine may die also soon, will complete tutorial then)**
+Attention: Look at other tutorials at the end of my article before starting, I did not represent all steps in details. Use them to complete missing steps (this is my brother’s PS3, mine may die also soon, will complete tutorial then)
 
 #### 
  version 1.0
 
-# Duration: 25 minutes**   
-# Cost:** 35 euro (SONY ask 200 euro, some shops 99 euro with 3 months warranty)
+# Duration: 25 minutes   
+# Cost: 35 euro (SONY ask 200 euro, some shops 99 euro with 3 months warranty)
 
-## **Tool required**
+## Tool required
 
 ![](/assets/images/2021/01/ps3.change.lens_torx_set.jpg)<figcaption>Torx screwdriver TR10</figcaption>![](/assets/images/2021/01/PS3.Laser_.Lens_.KES400AAA.jpg)<figcaption>Order part: KES-400AAA on Internet or search for “ps3 lens” on EBAY.</figcaption>![](/assets/images/2021/01/ps3.change.lens_000.jpg)<figcaption>Small flathead screw driver + Philips screwdriver</figcaption>Operation done on 18 July 2008, PS3 fully working.
 
@@ -35,9 +35,9 @@ You can now remove the 2 metal plate that encase the ps3 BLU-RAY drive.
 You now see the drive plastic box.  
 More screws to remove to to open that black case.</figcaption>![](/assets/images/2021/01/ps3.change.lens_007.jpg)<figcaption>remove these screws to be able to pull up the old ps3 lens out of the plastic case</figcaption>![](/assets/images/2021/01/ps3.change.lens_008.jpg)<figcaption>Lens details the old lens is now ready to die.   
 Metal axes can be removed ad will have to be transferred to the new lens</figcaption>![](/assets/images/2021/01/ps3.change.lens_009.jpg)<figcaption>the old lens is now ready to die.   
-Metal axes can be removed ad will have to be transferred to the new lens. On the new lens, put the cable ribbon, by first pulling up the black clip (A), then insert the ribbon (B) and pull back the black clip .</figcaption>![](/assets/images/2021/01/ps3.change.lens_010.jpg)<figcaption>On the old lens, the white plastic part has to be transferred to the new lens as well.</figcaption>![](/assets/images/2021/01/ps3.change.lens_011.jpg)<figcaption>One screw to remove</figcaption>![](/assets/images/2021/01/ps3.change.lens_0660.jpg)<figcaption>Put axes on new lens and place it back in case.</figcaption>**Comments, corrections are welcome in the new forum Board “[Changing your PS3 lens](http://forums.waltercedric.com/index.php?board=54.0)”**
+Metal axes can be removed ad will have to be transferred to the new lens. On the new lens, put the cable ribbon, by first pulling up the black clip (A), then insert the ribbon (B) and pull back the black clip .</figcaption>![](/assets/images/2021/01/ps3.change.lens_010.jpg)<figcaption>On the old lens, the white plastic part has to be transferred to the new lens as well.</figcaption>![](/assets/images/2021/01/ps3.change.lens_011.jpg)<figcaption>One screw to remove</figcaption>![](/assets/images/2021/01/ps3.change.lens_0660.jpg)<figcaption>Put axes on new lens and place it back in case.</figcaption>Comments, corrections are welcome in the new forum Board “[Changing your PS3 lens](http://forums.waltercedric.com/index.php?board=54.0)”
 
-## **Other tutorials**
+## Other tutorials
 
 - [http://www.llamma.com/PS3/repair/PS3\_disassembly\_tutorial.htm](http://www.llamma.com/PS3/repair/PS3_disassembly_tutorial.htm)
 - <http://www.myps3.com.au/Post.aspx?id=5522>

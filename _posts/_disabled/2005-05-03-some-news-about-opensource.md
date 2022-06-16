@@ -12,7 +12,7 @@ tags:
 
 Some people are scared by open source to say the least…
 
-# GPL Sued For "Software Price Fixing"**
+# GPL Sued For "Software Price Fixing"
 
 The Free Software Foundation (FSF) and the General Public License (GPL), the great enabler of the open source movement,
 were sued last Thursday for restraint of trade under the Clayton Antitrust Act (15 US Code Section 26) in the US
@@ -21,7 +21,7 @@ Groklaw gadfly Daniel Wallace, charges that the GPL â&#128;&#156;contract licen
 software prices. more at [LinuxBusinessNews](http://linuxbusinessnews.sys-con.com/read/80782.htm)
 
 while other are excited by the future…  
-**How free software is leading to change** *…  
+How free software is leading to change *…  
 Computer enthusiasts, professional and amateur, who are interested in intellectual stimulation rather than dollar signs
 have always existed, as exemplified by the emergence of the Homebrew Computer Club in Menlo Park in the mid-1970s and
 the creation of the GNU project for free software in the mid-’80s.  

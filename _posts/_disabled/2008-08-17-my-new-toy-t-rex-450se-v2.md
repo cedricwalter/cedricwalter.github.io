@@ -59,7 +59,7 @@ New T-Rex 450SE V2 coming! New V2 features super cool appearance and main rotor 
 - Great stable and sensitive mixing lever design! Can display the great stability and precision for 3D flight.
 - T-REX 450SE special adjustable pitch system, hold rotation system, tail rotor drive belt system! It is a work of great originality for helicopter!
 
-# Design Features:**
+# Design Features:
 
 1.New metal head stopper  
 2.New main rotor head assembly(4 mm feathering shaft+ thrust bearing)  

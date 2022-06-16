@@ -14,7 +14,7 @@ Do You ever want to install some "non standard" package under SuSE like Mplayer,
 
 There is a way to do it using YaST without any effort…All You have to do is to add some new Install sources
 
-# Add the following source to YaST, go to YaST, in "Software", "Change Source of Installation"**
+# Add the following source to YaST, go to YaST, in "Software", "Change Source of Installation"
 
 | Add | Server name | directory on server |
 |---|---|---|

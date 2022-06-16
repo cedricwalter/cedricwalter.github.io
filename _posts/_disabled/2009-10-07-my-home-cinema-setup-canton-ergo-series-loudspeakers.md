@@ -8,7 +8,7 @@ author: 'Cédric Walter'
 
 ---
 
-# Canton Ergo Series**
+# Canton Ergo Series
 
 [](/assets/images/2009/10/ergo_collage_300.jpg)
 
@@ -25,7 +25,7 @@ The other three are normal
 
 ## Press release
 
-Canton has begun shipping its newly redesigned Ergo series of loudspeakers (**Note it was in 2005**). The line features completely new drivers and crossover networks incorporating technological advancements developed for the recently introduced Vento line, as well as the most significant improvements in the line’s cabinet design in over 20 years. The Ergo line includes a trio of three-way floor standers, three compact two-way models, a 2-1/2 way center channel, and a dramatically improved 350 Watt powered subwoofer.
+Canton has begun shipping its newly redesigned Ergo series of loudspeakers (Note it was in 2005). The line features completely new drivers and crossover networks incorporating technological advancements developed for the recently introduced Vento line, as well as the most significant improvements in the line’s cabinet design in over 20 years. The Ergo line includes a trio of three-way floor standers, three compact two-way models, a 2-1/2 way center channel, and a dramatically improved 350 Watt powered subwoofer.
 
 “The Ergo line has long represented the most conservative aspects of Canton’s design philosophy,” remarked Canton’s head designer Frank Göbl. “This marks the most significant evolution the line has seen in the past 20 years, incorporating the lessons learned and new techniques we have developed over the past decade in all aspects of loudspeaker design. The result is the embodiment of classic Ergo sensibilities – just better.”
 
@@ -45,7 +45,7 @@ All of the models in the Ergo line are currently available in the company’s st
 
 These three-way bass reflex floor standing models feature extremely broad and linear frequency response, making them ideal for use either as full-range speakers in a dedicated stereo system or as front speakers for home theater. The Canton Ergo 611 DC features two 9-inch Aluminum cone woofers, while bass reproduction in the smaller Ergo 609 DC (pictured) is handled by a pair of 8-inch woofers. Both models include the same 7-inch aluminum midrange and 1-inch tweeter used throughout the line. There are gold-plated bi-wire/bi-amp connections for a variety of amplifier setups. The Ergo 611 DC and 609 DC have suggested retail prices of $4,000 and $3,200 per pair, respectively.
 
-# I use them as front left/right speakers. I did not bought the 611 DC model.**
+# I use them as front left/right speakers. I did not bought the 611 DC model.
 
 ### Ergo 607 DC Floor standing Speaker
 
@@ -53,7 +53,7 @@ These three-way bass reflex floor standing models feature extremely broad and li
 
 This three-way floor standing speaker is the smaller cousin of the 611 DC and 609 DC, using one 7-inch aluminum cone for bass and another for midrange duties. It maintains the broad frequency response characteristics of the larger models in a smaller cabinet, and functions extremely well as a stereo pair or as the front left/right pair in a medium sized theater room. All other features are the same as the 611 DC and 609 DC. The Ergo 607 DC has a suggested retail price of $2,400 per pair.
 
-# I use them as surround rear left/right speakers.**
+# I use them as surround rear left/right speakers.
 
 ### Ergo 605 CM center
 
@@ -61,7 +61,7 @@ This three-way floor standing speaker is the smaller cousin of the 611 DC and 60
 
 This bass reflex compact loudspeaker features a pair of two 7-inch aluminum cone drivers flanking a single tweeter in a horizontal arrangement. It employs a Canton-designed 2-1/2-way crossover circuit to prevent the poor dispersion characteristics that plague most horizontal dual woofer center speakers, and it is magnetically shielded for use as the center channel in a home theater system. The Canton Ergo 605 CM has a suggested retail price of $1,000 each.
 
-# I use it as center speaker.**
+# I use it as center speaker.
 
 ### Ergo 601 Low Profile On-Wall Speaker
 
@@ -69,15 +69,15 @@ This bass reflex compact loudspeaker features a pair of two 7-inch aluminum cone
 
 The Ergo 601 employs the same driver complement as the Ergo 602, but in a cabinet that is less than 4 inches deep, making it suitable for mounting on a wall. The Ergo 601 has a suggested retail price of $1,000 per pair.
 
-# I use them as surround left/right speakers**
+# I use them as surround left/right speakers
 
-## **Ergo AS 650 SC Powered Subwoofer**
+## Ergo AS 650 SC Powered Subwoofer
 
 [](/assets/images/2009/10/ergo_as650sc_300.jpg) The Ergo AS 650 SC subwoofer represents the most significantly changed model in the new lineup. Its 12-inch high excursion driver is the first Aluminum cone the company has ever developed for use in a subwoofer. The woofer features dramatically extended excursion capacity thanks to improved suspension, motor assembly, and a new sinusoidal surround. To make full use of these capabilities, it employs a powerful ICEpower® digital amplifier capable of producing over 350 Watts of power. These improvements all add up to an increase in deep bass output of 6-9 dB and a low frequency extension to the very bottom of the audible range. The AS 650 SC has a suggested retail price of $2,000 each.
 
 # What I did not buy
 
-### **Ergo 603 and 602 Compact Speakers**
+### Ergo 603 and 602 Compact Speakers
 
 [](/assets/images/2009/10/ergo_602_300.jpg)
 

@@ -15,14 +15,14 @@ tags:
 
 I’ve created (based on ant.dtd) the php configuration file for GeSHi. It was done quite fast asuming that You’re using the right tool: It was done in 10 minute by taking java.php as example and using the UNIX command grep ([www.cygwin.com](http://www.cygwin.com/)), and Jedit ([www.jedit.org](http://www.jedit.org/)) for its SORT text plugin and power of regular expression
 
-# Now GeSHi is able to highlight automatically your precious Apache ANT scripts (more than 300 keywords)**
+# Now GeSHi is able to highlight automatically your precious Apache ANT scripts (more than 300 keywords)
 
 Note: Jedit is recognizing 134 different languages, if YOu have some spare time… Beside the Ant scripts on my page (Java section) are now correctly displayed 😉
 
-# Installation: **just drop the file *apacheAnt.php* (see my download section) in your geshi directory beside the others configuration file. In Mambo it should be in *\\mambots\\content\\geshi\\geshi*
+# Installation: just drop the file *apacheAnt.php* (see my download section) in your geshi directory beside the others configuration file. In Mambo it should be in *\\mambots\\content\\geshi\\geshi*
 
-<font color="#b1b100">**usage:  
- **
+<font color="#b1b100">usage:  
+ 
 
 | Type in html text view |
 |---|

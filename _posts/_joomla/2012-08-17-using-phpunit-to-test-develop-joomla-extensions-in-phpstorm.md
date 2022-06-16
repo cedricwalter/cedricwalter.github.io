@@ -12,7 +12,7 @@ header:
 
 ![](/assets/images/2012/08/phpunitlogo_thumb.gif)
 
-Since I did not find any clear how to on the internet how **to run test cases for 3rd party extensions** that use [Joomla](http://www.joomla.org/ "Joomla is one of the world’ s most popular open source CMS (content management system).") CMS, here is my version of it.
+Since I did not find any clear how to on the internet how to run test cases for 3rd party extensions that use [Joomla](http://www.joomla.org/ "Joomla is one of the world’ s most popular open source CMS (content management system).") CMS, here is my version of it.
 
 # Prerequisites
 

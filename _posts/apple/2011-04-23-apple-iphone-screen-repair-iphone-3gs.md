@@ -42,11 +42,11 @@ In brief, what you need to know
 - The 3G and 3Gs screens are different! you can not mount an iPhone 4 screen on a 3G(s)
 - There is NO 3rd party or lower quality screens, all 3rd party repair company just LIE.
 - Different kit are available:
-- **LCD only for 12€** to repair a broken LCD screen only: the iPhone has an intact glass screen, however the image
+- LCD only for 12€ to repair a broken LCD screen only: the iPhone has an intact glass screen, however the image
   behind the glass screen is absent, broken or distorted.
-- **Glass + digitizer for 22€** This is for an iPhone 3G device with a broken glass screen or malfunctioning touch
+- Glass + digitizer for 22€ This is for an iPhone 3G device with a broken glass screen or malfunctioning touch
   screen with the image (LCD Screen) behind the screen still intact.
-- **Glass + digitizer + LCD + button + speaker** mounted for 42€ the most expensive but the easiest to replace
+- Glass + digitizer + LCD + button + speaker mounted for 42€ the most expensive but the easiest to replace
 
 - Duration: 30, 15 or 2 minutes depending on the kit
 

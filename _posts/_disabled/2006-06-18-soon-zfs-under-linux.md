@@ -32,7 +32,7 @@ tags:
  In fact this is a sponsored Google summer of code project. Note that Apple is also currently porting [ZFS](http://www.opensolaris.org/os/community/zfs/) under OS-X. That could mean that [ZFS](http://www.opensolaris.org/os/community/zfs/) could be mainstream in a future not far away than 2 years.
 
 - [Google SoC Application Proposal](http://www.wizy.org/wiki/ZFS_on_FUSE/ApplicationProposal) [(PDF)](http://www.wizy.org/zfs-on-fuse-opensolaris.pdf)
-- **Deadline:** August 21st, 2006
+- Deadline: August 21st, 2006
 
 And I expect to test [RAID-Z](http://blogs.sun.com/roller/page/bonwick?entry=RAID_z)…For those interested by RAID-Z raw performances, You can read this highly technical blog entry:<span style="font-family: monospace;"> [WHEN TO (AND NOT TO) USE RAID-Z](http://blogs.sun.com/roller/page/roch?entry=when_to_and_not_to)
 

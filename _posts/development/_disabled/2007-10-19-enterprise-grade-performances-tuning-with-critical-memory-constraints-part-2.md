@@ -14,12 +14,12 @@ tags:
 Still not enough, we were forced to profile the java code and make some big
 changes…. ([from part 1](content/view/1220/1/))
 
-**Profiling**
+Profiling
 
 You either profile an application for speed and/or memory usage and/or memory leaks. Our application is fast enough at
 the moment. Our major concern is optimizing memory usage and thus avoiding disk memory swapping.
 
-**Some words about architecture**
+Some words about architecture
 
 It is not possible to profile any applications without having a deep understanding of the architecture behind. The
 Product Catalog is an innovative product which is a meta model for storing insurances product in a database, a Product
@@ -28,7 +28,7 @@ values, and sharing a similar structure as the Product. This let the product kno
 values, (cross) validations, multiple texts, attributes order/length/type etc… and thus separate definition (Products)
 from implementation (Policies). Products and Policies can be fully described with Bricks, Attributes in a tree manner.
 
-**Reduce the number of object created**
+Reduce the number of object created
 
 Looking at the code, we have seen that too many Products (17 Products has 15000 objects either
 Attributes/Bricks/Texts/Value/ValueRange) were loaded in memory. While this is clearly giving a speed advantage on an

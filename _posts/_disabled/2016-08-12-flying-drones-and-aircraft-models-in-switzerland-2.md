@@ -16,7 +16,7 @@ The pilot must have the flying object within his field of vision at all time. Au
 
 Flying drones and flight models close to airports is restricted and it is prohibited to fly them within 5 kilometers of runways.
 
-# Red zones (airport) and yellow zones (A control zone CTR or controlled traffic region) are forbidden**
+# Red zones (airport) and yellow zones (A control zone CTR or controlled traffic region) are forbidden
 
 [![image](/assets/images/2016/08/image_3.png "image")](http://map.drohnenverband.ch/)
 
@@ -24,7 +24,7 @@ Flying drones and flight models close to airports is restricted and it is prohib
 
 CTR is a volume of controlled airspace, normally around an airport, which extends from the *surface* to a *specified upper limit*, established to protect air traffic operating to and from that airport. Because CTRs are, by definition, controlled airspace, aircraft can only fly in it after receiving a specific clearance from air traffic control. This means that air traffic control at the airport know exactly which aircraft are in that airspace, and can take steps to ensure aircraft are aware of each other, either using separation or by passing traffic information.
 
-Drones which are more than 500gr **must be insured**….([Link](https://www.admin.ch/opc/en/classified-compilation/19940351/index.html#a20))
+Drones which are more than 500gr must be insured….([Link](https://www.admin.ch/opc/en/classified-compilation/19940351/index.html#a20))
 
 > Third party liability claims made by third parties on the ground must be covered by the proprietor in a third party liability insurance policy with guaranteed cover of at least one million francs.
 > 

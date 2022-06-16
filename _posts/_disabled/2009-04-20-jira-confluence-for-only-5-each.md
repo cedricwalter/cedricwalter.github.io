@@ -14,7 +14,7 @@ Receive this today in my mailbox, sound like a great offer to me! and since they
 
 [![header](/assets/images/2009/04/header_thumb.png "header")](/assets/images/2009/04/header.png)
 
-> ***JIRA &amp; Confluence for only $5 each!***
+> *JIRA &amp; Confluence for only $5 each!*
 > 
 > *![]()*
 > 

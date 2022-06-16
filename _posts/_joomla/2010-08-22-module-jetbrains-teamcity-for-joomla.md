@@ -35,7 +35,7 @@ The right picture also show how build status is represented with different color
 - Code produced is XHTML 1.0 Strict,
 - Full module caching for better performances
 - Tested in the following browser Firefox, Opera, Chrome, IE 8
-- <span style="text-decoration: line-through;">Approved at #Joomla Extension JED, **NOT YET BUT PENDING**<span style="text-decoration: line-through;">
+- <span style="text-decoration: line-through;">Approved at #Joomla Extension JED, NOT YET BUT PENDING<span style="text-decoration: line-through;">
 - GPL v3.0,
 - Non commercial.
 

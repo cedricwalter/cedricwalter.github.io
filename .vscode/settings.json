@@ -1,0 +1,17 @@
+{
+    "frontMatter.framework.id": "jekyll",
+    "frontMatter.content.publicFolder": "assets",
+    "frontMatter.content.pageFolders": [
+        {
+            "title": "posts",
+            "path": "[[workspace]]/_posts"
+        },
+        {
+            "path": "[[workspace]]/_site",
+            "title": "_site"
+        },
+        {
+            "path": "[[workspace]]/vendor/bundle/ruby/3.0.0/gems/webrick-1.7.0"
+        }
+    ]
+}

@@ -43,13 +43,13 @@ rendre exhaustif au fur et à mesure que mes connaissent s’étofferont.
 - Le H1, c’est quand le plateau cyclique est commandé par : un servo pour le rouli, un servo pour le tangage, et un
   servo pour le pas collectif. (Raptor 30)
 - Le H2, c’est quand le plateau cyclique est commandé par: 2 servos pour le rouli (un en push et un en pull), un servo
-  pour le tangage, et ces trois servos montent et descendent en màªme temps pour le collectif.
+  pour le tangage, et ces trois servos montent et descendent en même temps pour le collectif.
 - Le H3 ou CCPM 120Â°, c’est quand les trois servos sont disposés à 120 Â° sur le plateau cyclique. Un mixage de
   l’émetteur permet de faire du tangage et du rouli. Le collectif est réalisé par les 3 servos qui montent et qui
-  descendent en màªme temps. (Caliber 30, Vigor CS)
+  descendent en même temps. (Caliber 30, Vigor CS)
 - Le H4 ou CCPM 90Â°, c’est quand les 4 servos sont disposés à 90Â° l’un par rapport à l’autre. Pour le tangage il y en
   a 2 qui font push pull , et pour le rouli, les 2 autres font push pull. Le collectif est assuré par les 4 servos qui
-  montent et qui descendent en màªme temps. (rare)
+  montent et qui descendent en même temps. (rare)
 
 ## 1.1 Remarques
 
@@ -63,7 +63,7 @@ rendre exhaustif au fur et à mesure que mes connaissent s’étofferont.
   bon servo, ou seulement un gyro. Vous etes Debutant ? ne le faites pas car c’est un investissement lourd et vous avez,
   c’est triste a dire mais plus de 70% de malchance d’abandonner ce hobby (pour raison d’argent ou de decouragement)
   avant 6 mois.
-- Pour un hélico CCPM 120Â°, n’utiliser que 3 servos identiques, de màªme marque et référence. On peut s’accomoder de
+- Pour un hélico CCPM 120Â°, n’utiliser que 3 servos identiques, de même marque et référence. On peut s’accomoder de
   trois servo de moyenne gamme étant donné que le pas ou pitch est le résultat conjugués du mouvement des 3 servos (
   puissant)
 
@@ -125,7 +125,7 @@ votre cerveau de se reposer et évite de devoir inverser mentalement les command
 
 # Règle
 
-Le plateau cyclique doit s’incliner dans la màªme direction que le mouvement de translation de la machine souhaitée.
+Le plateau cyclique doit s’incliner dans la même direction que le mouvement de translation de la machine souhaitée.
 
 # 3.1 Droite, gauche, en avant en arrière
 
@@ -148,7 +148,7 @@ Le plateau cyclique doit s’incliner dans la màªme direction que le mouvement
   slider rentre vers le boitier d’anticouple, si ce n’est pas le cas alors inverser la voie RUDDER sur la télécommande.
 - Sens d’action ou de correction du gyroscope (pour rotor horaire, anti couple anti horaire et anticouple a droite)
   Hélico vue de dos, poussez brutalement la queue vers la gauche, le slider doit s’éloigner du boitier, Si tel n’est pas
-  le cas alors le gyro doit àªtre inversé. (le mode pas le boitier !)
+  le cas alors le gyro doit être inversé. (le mode pas le boitier !)
 - Ceci marche pour tous les hélico à rotation horaire, et anticouple à droite. Penser à vérifier le sens de correction
   et le bon fonctionnement de l’anticouple avant chaque vol.
 
@@ -160,10 +160,10 @@ Le plateau cyclique doit s’incliner dans la màªme direction que le mouvement
 # 4. Débattement des servos
 
 - Ceux ci se réglent en dernier lieu avec la commande ATV de votre télécommande (d’abord la distance entre les 2 chapes
-  doit àªtre conforme)
+  doit être conforme)
 - Dépasser 100% si vous voulez plus de débattement (limite a 140%) ou diminuer pour réduire (limite a 30%).
 - Si vous respecter les longueurs préconises par le constructeur, vous ne devrier pas avoir de débattement a 30% ou à
-  140%. En moyenne qq % au dessus ou en dessous de 100% quand màªme.
+  140%. En moyenne qq % au dessus ou en dessous de 100% quand même.
 
 # Cyclique latérale voie 1 (inclinaison du plateau cyclique a droite ou a gauche)
 
@@ -184,8 +184,8 @@ lent a répondre.
 
 ![](/assets/images/2004/09/servoGazs.jpg)  
 Toujours se débrouiller pour que A=A’, :  
-– Dévisser la tàªte de servo et servo au neutre débrouiller vous pour que le boisseau soit entrouvert à 50%,  
-– A ce moment précis, les bras de servos doivent àªtre parallèle entre eux, voir schéma  
+– Dévisser la tête de servo et servo au neutre débrouiller vous pour que le boisseau soit entrouvert à 50%,  
+– A ce moment précis, les bras de servos doivent être parallèle entre eux, voir schéma  
 – Si ce n’est pas le cas dévisser du coté du carburateur.
 
 # La symétrie de déplacement des 2 cotés est ici la clé du succés.
@@ -229,7 +229,7 @@ CSM recommande dans la documentation 60% des 2 cotés. Aller dans le menu ATV (o
 - Je vous recommande +9Â° -9Â° en butee du stick droit et environ 6Â° en vol stationnaire, c’est a dire stick droit
   légerement au dessus du centre.(Normalement un “bon” pilote veut 0Â° au centre et a des commandes symétriques)
 - Certains vous dirons d’éviter de trop grande valeurs négatives car un débutant a comme reflexe, lorsqu’il est affolé
-  de pousser le stick en bas et donc d’accélerer la chute de l’helico. C’est vrai mais vous devez absolument àªtre
+  de pousser le stick en bas et donc d’accélerer la chute de l’helico. C’est vrai mais vous devez absolument être
   patient et gagner en hauteur cm après cm votre stationnaire de dos (avec un patin d’écolage bien sur).
 - Toujours jouer avec l’ATV de la voie 6 pour augmenter ou réduire le pas limite. Si vous n’arrivez pas à vos objectifs,
   vérifier la longueur de vos chapes….
@@ -237,7 +237,7 @@ CSM recommande dans la documentation 60% des 2 cotés. Aller dans le menu ATV (o
   de la ressource pour tenir 12Â° au rotor !!! Si vous cherchez à “visser” l’helico dans l’air, opter pour un classe 90
   sous 30% de nitro.
 - Le plateau doit monter en restant horizontale tout le long de sa course, si tel n’est pas le cas alors vérifier la
-  longeur des tiges le reliant. Si vous àªtes en CCPM (mélangeur électronique), ne mélanger pas les marques ou
+  longeur des tiges le reliant. Si vous êtes en CCPM (mélangeur électronique), ne mélanger pas les marques ou
   caractéristiques des 3 servos (3 servos fonctionne simultanément pour le pas dans ce mode).
 
 # 5. Courbe de pas et de gazs
@@ -273,7 +273,7 @@ Je recommande d’utiliser un tachymètre optique ou de se le faire préter. Voi
   FAI)). Noter cette vitesse en tr/min c’est notre objectif.
 - Pour la retrouver, Si le moteur est idéalement utilisés, par exemple pour un OS32 : il tournera idéalement à 18000
   tr/min (1,2HP) il suffit de diviser par le ratio de réduction du train du rotor principale = par ex 9.6 => 18000 / 9,6
-  = 1875 => 1875 tr/min devrait àªtre idéal pour le moteur et à fortiori pour le rotor si le fabricant recommande ce
+  = 1875 => 1875 tr/min devrait être idéal pour le moteur et à fortiori pour le rotor si le fabricant recommande ce
   moteur et le taux de réduction de 9.6.
 
 # 5.4 Conséquences si non respect

@@ -3,20 +3,18 @@
 title: 'Bernardet cabri 50cm3 1954'
 date: '2004-08-31T22:19:25+02:00'
 author: 'Cédric Walter'
-
+categories:
+- scooters
 header:
 overlay_image: /assets/images/2004/08/cab50.jpg
 teaser: /assets/images/2004/08/cab50.jpg
 caption: "Bernardet cabri 50cm3 1954"
-
 tags:
-
 - scooter
 - scooters
 - 'Scooters from 50s'
 - vespa
 - vintage
-
 ---
 
 # Bernardet cabri 50ccm 1954

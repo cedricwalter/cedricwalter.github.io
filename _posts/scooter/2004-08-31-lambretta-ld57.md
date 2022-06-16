@@ -3,7 +3,8 @@
 title: 'LES VOLANTS MAGNETIQUES:VESPA ET LAMBRETTA 54'
 date: '2004-08-31T22:29:08+02:00'
 author: 'Cédric Walter'
-
+categories:
+- scooters
 header:
 teaser: /assets/images/2004/08/bobvespa.jpg
 tags:

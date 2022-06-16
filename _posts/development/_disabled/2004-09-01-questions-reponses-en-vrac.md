@@ -27,14 +27,14 @@ tags:
 - A quelle vitesse tourne les pales ? de 1600 à 1900 tr/min 200kg de traction sur les pieds de pales, 250 km/h en
   bout de pales et la force de pression d’une balle de 45 mm. Le moteur dégage environ 1.5 CV mais certains taille 60
   plus de 3.5 CV. Il faut éviter tout contacts et ne pas hésiter à sacrifier son hélico pour préserver les personnes ou
-  soi màªme. Prendre une assurance spécialisée ou adherez à la Fédération francaise de modélisme (FFMA).
+  soi même. Prendre une assurance spécialisée ou adherez à la Fédération francaise de modélisme (FFMA).
 - Qu’est ce que cela coute ? pour commencer de but en blanc compter environ 1200€ avec l’équipement de terrain.
 - Est ce dur à monter ? à entretenir ? non il faut surveiller la machines et faire de la maintenance préventive et
   de sécurité. Les machines sont bien concues.
 - Combien de temps pour monter un helico ? pour le raptor en ARF (almost ready to fly) quelques heures suffisent. Le
   temps de monter l’electronique et de verifier la qualité de montage du kit.
 - Est ce dur a piloter ? oui mais on peut apprendre par palier, et décoller centimètres par centimètres. Le pire
-  problàªme est de gérer plusieurs commandes simultanement et de les voir varier dans le temps selon l’orientation de
+  problême est de gérer plusieurs commandes simultanement et de les voir varier dans le temps selon l’orientation de
   l’helicoptère (tout est dit). Un hélico oblige à maitriser toutes les phases de vol et selon toutes les orientations
   possibles, sinon c’est le crash assurés. Aux problèmes de pilotages (les plus courants, par ex un mélange de manettes)
   s’ajoutent les interférences radio, les problèmes mécanique (ex rupture de durite de pressu ou moteur cale ou … ou …..

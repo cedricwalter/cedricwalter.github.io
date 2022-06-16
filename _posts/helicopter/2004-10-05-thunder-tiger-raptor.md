@@ -18,15 +18,15 @@ thing : after fighting 2 months with the woof (without poof) and without flying,
 wash out, metal swash plate, flat damper, blade, servo,blade grip etc). I sell it… The person cured the woof and poof
 because he glue the rotor hub on the main mast.
 
-![](/assets/images/2020/04/thunder-tiger-raptor-30-v2-1.jpg)](/assets/images/2020/04/thunder-tiger-raptor-30-v2-1.jpg)
-![](/assets/images/2020/04/thunder-tiger-raptor-30-v2-2.jpg)](/assets/images/2020/04/thunder-tiger-raptor-30-v2-2.jpg)
-![](/assets/images/2020/04/thunder-tiger-raptor-30-v2-3.jpg)](/assets/images/2020/04/thunder-tiger-raptor-30-v2-3.jpg)
-![](/assets/images/2020/04/thunder-tiger-raptor-30-v2-4.jpg)](/assets/images/2020/04/thunder-tiger-raptor-30-v2-4.jpg)
-![](/assets/images/2020/04/thunder-tiger-raptor-30-v2-5.jpg)](/assets/images/2020/04/thunder-tiger-raptor-30-v2-5.jpg)
-![](/assets/images/2020/04/thunder-tiger-raptor-30-v2-6.jpg)](/assets/images/2020/04/thunder-tiger-raptor-30-v2-6.jpg)
-![](/assets/images/2020/04/thunder-tiger-raptor-30-v2-7.jpg)](/assets/images/2020/04/thunder-tiger-raptor-30-v2-7.jpg)
-![](/assets/images/2020/04/thunder-tiger-raptor-30-v2-8.jpg)](/assets/images/2020/04/thunder-tiger-raptor-30-v2-8.jpg)
-![](/assets/images/2020/04/thunder-tiger-raptor-30-v2-9.jpg)](/assets/images/2020/04/thunder-tiger-raptor-30-v2-9.jpg)
+![/assets/images/2020/04/thunder-tiger-raptor-30-v2-1.jpg](/assets/images/2020/04/thunder-tiger-raptor-30-v2-1.jpg)
+![/assets/images/2020/04/thunder-tiger-raptor-30-v2-2.jpg](/assets/images/2020/04/thunder-tiger-raptor-30-v2-2.jpg)
+![/assets/images/2020/04/thunder-tiger-raptor-30-v2-3.jpg](/assets/images/2020/04/thunder-tiger-raptor-30-v2-3.jpg)
+![/assets/images/2020/04/thunder-tiger-raptor-30-v2-4.jpg](/assets/images/2020/04/thunder-tiger-raptor-30-v2-4.jpg)
+![/assets/images/2020/04/thunder-tiger-raptor-30-v2-5.jpg](/assets/images/2020/04/thunder-tiger-raptor-30-v2-5.jpg)
+![/assets/images/2020/04/thunder-tiger-raptor-30-v2-6.jpg](/assets/images/2020/04/thunder-tiger-raptor-30-v2-6.jpg)
+![/assets/images/2020/04/thunder-tiger-raptor-30-v2-7.jpg](/assets/images/2020/04/thunder-tiger-raptor-30-v2-7.jpg)
+![/assets/images/2020/04/thunder-tiger-raptor-30-v2-8.jpg](/assets/images/2020/04/thunder-tiger-raptor-30-v2-8.jpg)
+![/assets/images/2020/04/thunder-tiger-raptor-30-v2-9.jpg](/assets/images/2020/04/thunder-tiger-raptor-30-v2-9.jpg)
 
 In the very beginning of 2001, I was the first person who recommend the raptor, but with the current problem, I can
 not ! keep your hand away from this bird (or learn to fly with it and sell it if he start to Wah Wah or woof and poof).
@@ -45,7 +45,7 @@ boom.
 
 ## I did the following on my raptor
 
-– I change the wash out for a metal one (ace)  
+– I change the wash-out for a metal one (ace)  
 – I change the swash plate for a metal one (not from ace, quick uk)  
 – I change the main blade for fiber one (quick uk)  
 -> woof and poof still remained
@@ -83,7 +83,7 @@ if not I will put a HEIM rotor head system instead of the ace.
 | Weight empty:          | 2360gr with canopy (180gr) and blades (180gr)                                                           |
 | Weight in flight:      | 3.780gr. with canopy and 24 x 2000er battery (1400gr)                                                   |
 | Flight time:           | 9:45 slow, 6:00 3D, 11:45 with 2400 battery.                                                            |
-| Others:                | TT metal swashplate, CFK-Frame, head button, quick uk rear mount servo                                  |
+| Others:                | TT metal swash-plate, CFK-Frame, head button, quick uk rear mount servo                                 |
 
 ## Links where You can buy this machine
 
@@ -92,22 +92,21 @@ if not I will put a HEIM rotor head system instead of the ace.
 [http://www.modellbau-herzog.de](http://www.modellbau-herzog.de/)
 [http://www.ehelicopter.de](http://www.ehelicopter.de/) |
 
-![](/assets/images/2004/09/zeichnung1.jpg)
+![/assets/images/2004/09/zeichnung1.jpg]()
 
-The frame is a little bit fragile, maybe because of the number of hole in it…the weight gained is not so huge.   
+The frame is a little fragile, maybe because of the number of hole in it…the weight gained is not so huge.   
 Possibly the GFK version is better (and the price too). Definitively I would recommend a standard frame and   
 an actro. The availability of part is a lot better, price is inexpensive (moreover the actro deliver 1200 Watts and the
 Plettenberg only! 700 Watts).
 
 ## Flight log :
 
-### 7.03.2002
-
+7.03.2002
 3 flight since now, the sound is really nice but the battery say very rapidly that they are down, 15 seconds,
-and after you must land ! otherwise you will practice an autorotation. I will confirm this week end. (I hope  
+and after you must land ! otherwise you will practice an autorotation. I will confirm this weekend. (I hope  
 the weather will be good enough).
 
-### 20.04.2002
+20.04.2002
 
 Displace the antenna in front of the heli as recommended on [www.mikado.de](http://www.mikado.de/) (they have a page on
 how to reduce radio interferences).  
@@ -115,29 +114,29 @@ Displace gyro, rx from 7 cm with a carbon plate (far away from motor)
 add ferrites everywhere, reroute some cables.  
 reduce lengths of connections to battery.
 
-### 11.05.2002
+11.05.2002
 
 I have some problem with the tail belt, it becomes loose even in flight (I loose control 2 times). I decide to stop the
 translation of the boom with a metallic Fixation. The machine is very smooth and noise is very low (quiet).
 
-### 20.05.2002
+20.05.2002
 
-Add a pack of 1700mAh (RX), so I can make 8 flight without recharging…The metallic fixation on the tail tube fixed it’s
+Add a pack of 1700mAh (RX), so I can make 8 flight without recharging…The metallic fixation on the tail tube fixed its
 translation. No Problem since.
 
-### 25.05.2002
+25.05.2002
 
 20 flights with the machine without any problem. I must admit that kind of machine is not for a newbie….you must set up
 a timer and carefully record your flight  
 time (I do not get over 8min30 s for security) and land before loosing control or doing an autorotation (I have no
 practice ;-)). On the others hand, i go to the fields with only battery and a fast charger…
 
-### 02.06.2002
+02.06.2002
 
-Motor cut off 4 meters above ground ! no damage….the controller was too hot and the journey too (29Â°C). I dissassemble
+Motor cut off 4 meters above ground ! no damage….the controller was too hot and the journey too (29Â°C). I disassemble
 the controller and add thermal compound and a bigger metal plate. see photos
 
-## TIPS :
+## TIPS
 
 – Tighten carefully the screw that hold the motor in position, if they become loose, then the motor can move too much,
 this modifies the clearance between the motor and the main spur gear : a good way to destruct it….  
@@ -154,11 +153,10 @@ flight time.
 pros and cons before saying one IS better than the other. I personally fly  
 both….micro indoor electric helicopter up to .60 sized glow!
 
-Electric –
+Electric (note was writtten in 2004! today electric helicopter are better)
 
 Quiet, clean, charge a battery and go. IF you use the correct motor, pinion  
-gear, cells, etc (All this info easily found in the heli manual or on  
-ezonemag.com….or via me an email =0), you will NEVER have a motor problem or  
+gear, cells, etc. you will NEVER have a motor problem or  
 adjustments to make. The electric motor will always be there, working just as  
 good as before with no adjusting required. Brushless motors are even better!   
 For a beginner, the right electric heli is an EXCELLENT tool. With the right  
@@ -172,7 +170,7 @@ watch and time MOST guys flying glow helicopter, they are up for around 8-10 min
 and that's all….so electric isn't that far off.
 
 The other downside is that most people don't have a lot of knowledge on electric  
-helicopter. Meaning its harder to find help. Again though – the net is a VERY  
+helicopter. Meaning it's harder to find help. Again though – the net is a VERY  
 powerful resource. Between web searches, ezonemag.com and myself, I am most  
 certain to get you the right electric heli, motor, etc for you and your budget.
 
@@ -238,14 +236,14 @@ With a lot of upgrades
 ![/assets/images/2004/09/DSC00008.JPG](/assets/images/2004/09/DSC00008.JPG)
 ![/assets/images/2004/09/DSC00009.JPG](/assets/images/2004/09/DSC00009.JPG)
 ![/assets/images/2004/09/DSC00010.JPG](/assets/images/2004/09/DSC00010.JPG)
-![/assets/images/2004/09/DSC00011.JPG](/assets/images/2004/09/DSC00011.JPG)+-
+![/assets/images/2004/09/DSC00011.JPG](/assets/images/2004/09/DSC00011.JPG)
 
 # My Raptor 60 v2
 
-![](/assets/images/2004/09/r60.gif)![](/assets/images/2004/09/tt-120.gif)![](/assets/images/2004/09/V2logo.gif)
-
+![](/assets/images/2004/09/r60.gif)
+![](/assets/images/2004/09/tt-120.gif)
+![](/assets/images/2004/09/V2logo.gif)
 ![](/assets/images/2004/09/raptor60a.jpg)
-
 ![](/assets/images/2004/09/raptor60b.jpg)
 
 ## Essentials links
@@ -256,8 +254,8 @@ With a lot of upgrades
 
 ## Modifications
 
-– Replace all ball link with schluter ball link (much more stronger)  
-– Follow carefully the supplemental manual fron Fritz The Cat
+– Replace all ball link with Schluter ball link (much stronger)  
+– Follow carefully the supplemental manual from Fritz The Cat
 
 ## Equiped with
 
@@ -299,10 +297,10 @@ With a lot of upgrades
 
 Total : 2248€ bought 1175€ on ebay.de
 
-![Raptor60_1.jpg](/assets/images/2004/09/TN_Raptor60_1.JPG)](http://www.waltercedric.com/Helico/r60/images/Raptor60_1.jpg)
-![Raptor60_2.jpg](/assets/images/2004/09/TN_Raptor60_2.JPG)](http://www.waltercedric.com/Helico/r60/images/Raptor60_2.jpg)
-![Raptor60_3.jpg](/assets/images/2004/09/TN_Raptor60_3.JPG)](http://www.waltercedric.com/Helico/r60/images/Raptor60_3.jpg)
-![Raptor60_5.jpg](/assets/images/2004/09/TN_Raptor60_5.JPG)](http://www.waltercedric.com/Helico/r60/images/Raptor60_5.jpg)
+![](/assets/images/2004/09/Raptor60_1.jpg)
+![](/assets/images/2004/09/Raptor60_2.jpg)
+![](/assets/images/2004/09/Raptor60_3.jpg)
+![](/assets/images/2004/09/Raptor60_5.jpg)
 Some pictures of the prototype and his designer…..Mr. Shigetada Taya
 
 # Raptor stock parts status

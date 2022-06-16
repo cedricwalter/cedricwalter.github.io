@@ -3,7 +3,8 @@
 title: 'Google DevFest 2018 I’m organizing side activities'
 date: '2018-06-02T13:25:40+02:00'
 author: 'Cédric Walter'
-
+categories:
+- switzerland
 header:
 teaser: /assets/images/2020/06/IMG_1950.jpg
 tags:
@@ -17,7 +18,7 @@ technologies and much more! GDG DevFests are large, community-run developer even
 community building and learning about Google’s technologies.
 
 ![/assets/images/2020/06/IMG_1950.jpg]()
-This year i will be helping and organizing some side activities between the talk session. And I prepared a lot of
+This year I will be helping and organizing some side activities between the talk session. And I prepared a lot of
 stuff, enough for 15 screens!
 
 - ![/assets/images/2020/06/IMG_1807.jpg](/assets/images/2020/06/IMG_1807.jpg)

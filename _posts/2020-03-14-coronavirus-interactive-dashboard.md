@@ -3,11 +3,11 @@
 title: 'Coronavirus interactive dashboard'
 date: '2020-03-14T21:47:53+01:00'
 author: 'Cédric Walter'
-
+categories:
+- development
 header:
 teaser: /assets/images/2020/03/covid-dashboard.png
 tags:
-
 - covid19
 - engineering
 - excellent

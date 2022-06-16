@@ -1,8 +1,9 @@
 ---
-
 title: 'Manurhin SM-75 Manual in french'
 date: '2004-08-31T22:01:09+02:00'
 author: 'Cédric Walter'
+categories:
+- scooters
 header:
  teaser: /assets/images/2004/08/pic1.jpg
 tags:

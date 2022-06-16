@@ -228,7 +228,7 @@ Moteur :
 \_\_\_\_\_ Vérifier l’alignement du train de transmission.  
 \_\_\_\_\_ Enlever la bougie et faire tourner le moteur/faire tourner à la main l’arbre et rechercher les points durs ou
 les bruits suspects.  
-\_\_\_\_\_ S’assurer que les gazs et trims en position minimum arràªte le moteur.  
+\_\_\_\_\_ S’assurer que les gazs et trims en position minimum arrête le moteur.  
 \_\_\_\_\_ S’assurer que mi-gazs au stick correspond à mi-gazs au boisseau.  
 \_\_\_\_\_ Tester le prolongateur de bougie (si il existe).
 

@@ -3,9 +3,8 @@
 title: 'But what *is* a Neural Network?'
 date: '2018-03-18T20:27:52+01:00'
 author: 'Cédric Walter'
-
-
-
+categories:
+- development
 ---
 
 Here are the best video i’ve found on the subject. Moreover, this channel is among the best also for learning

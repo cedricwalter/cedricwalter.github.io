@@ -3,9 +3,8 @@
 title: 'Collection of Git Cheat Sheets'
 date: '2020-03-09T10:51:09+01:00'
 author: 'Cédric Walter'
-
-
-
+categories:
+- development
 header:
   teaser: /assets/images/2017/04/git-logo.jpg
 tags:

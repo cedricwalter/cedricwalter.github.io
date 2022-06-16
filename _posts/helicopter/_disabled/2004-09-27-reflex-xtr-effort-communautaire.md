@@ -29,10 +29,10 @@ Bonjour a toute les gens de bonnes volontÃ©s!!!
 Comme la documentation de [REFLEX XTR](http://www.reflex-sim.de) n’existe pas en francais ni en anglais, et comme je
 n’ai pas le temps de traduire seul le manuel de 120 pages, je vous propose de le traduire en communaute!!!  
 Un wiki?   
-j ai installe mediawiki sur mon site, c’est le systeme qu’utilise
+j'ai installe mediawiki sur mon site, c’est le systeme qu’utilise
 wikipedia [http://en.wikipedia.org/wiki/Main\_Page](http://en.wikipedia.org/wiki/Main_Page) qui a lui plus d’un million
 d articles…  
-A vous de lire les restrictions de wikipedia [ICI sur le site franÃ§ais](http://fr.wikipedia.org/wiki/Main_Page), je
+À vous de lire les restrictions de wikipedia [ICI sur le site franÃ§ais](http://fr.wikipedia.org/wiki/Main_Page), je
 suit les mÃªmes, on fait cela pour la beautÃ© de l’art, les textes traduits ou contributions personnelles seront en
 licence FDL!!  
 Le lien vers le wiki de [REFLEX XTR est ICI](http://waltercedric.com/wiki/index.php?title=Main_Page%20)**  

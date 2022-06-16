@@ -3,9 +3,8 @@
 title: 'My Velosolex'
 date: '2004-08-31T22:22:14+02:00'
 author: 'Cédric Walter'
-
-
-
+categories:
+- scooters
 ---
 
 # Velosolex 1948 noir

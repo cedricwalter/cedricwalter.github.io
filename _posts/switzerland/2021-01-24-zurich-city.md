@@ -61,13 +61,13 @@ TÃ©l. ++41 1 211 38 44
 
 # Snow over Zürich
 
-## 2006-03-05
+2006-03-05
 
-[![](/assets/images/2006/03/tnk750i_Zurich_Snow_2006_3.jpg)](/gallery/catid,26/)
+![](/assets/images/2006/03/tnk750i_Zurich_Snow_2006_3.jpg)
+
 On weekend fell snow in the country partially more than a half meter. Traffic broke down tremendously.
-[Visit My Gallery Here ](/gallery/catid,26/)
 
-## 2009.02.10
+2009.02.10
 
 [![zurich.snow.2009.02.10](/assets/images/2009/02/zurich.snow_.2009.02.10_thumb.jpg)](/assets/images/2009/02/zurich.snow_.2009.02.10.jpg)
 
@@ -96,7 +96,8 @@ France ![Smile](/assets/images/2011/02/wlEmoticon-smile.png)
 [Illegal waste disposal is illegal.](http://translate.google.com/translate?hl=en&sl=auto&tl=en&u=http%3A%2F%2Fwww.stadt-zuerich.ch%2Fted%2Fde%2Findex%2Fentsorgung_recycling%2Fabfall%2Fillegale_abfallentsorgung.html) (
 City of Zürich)
 
-# Beautiful rainbow over Zürich 2009-10-12
+# Beautiful rainbow over Zürich 
+2009-10-12
 As seen from the train station of Zürich Alstetten
 
 ![assets/images/2009/10/IMG_0226.jpg](/assets/images/2009/10/IMG_0226.jpg)

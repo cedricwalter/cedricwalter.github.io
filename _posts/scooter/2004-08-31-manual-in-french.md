@@ -14,11 +14,7 @@ tags:
   - vintage
 ---
 
-Use a translation tool like babelfish if needed…
-
 # Manuel du scooter Manurhin SM75
-
-Translate this page
 
 N’ayant pas trouvé de copyright dans le manuel, ni aucun droit de reproduction, je me suis permit de le reproduire ici, pour le bien de la communauté. En vous souhaitant bonne restauration
 

@@ -3,9 +3,8 @@
 title: 'Neo Geo FAQ (Chris Mullins)'
 date: '2004-12-25T11:45:35+01:00'
 author: 'Cédric Walter'
-
-
-
+categories:
+- gaming
 header:
   teaser: /assets/images/2009/10/snk-neo-geo-logo.png
 tags:
@@ -41,15 +40,15 @@ FAQs
 
 ## —-Why did I create this FAQ, and what is expected of this document in the future?
 
- Well, there were many reasons, but the first, was that there was no other current Neo FAQ out on the   
- Internet. Ralph Barbagallo’s FAQ was, in April 1997, 2 1/2 years without an update, and I felt a new update   
- may have been necessary. I had to find something to occupy my time then; making a new FAQ was the first   
- step. It has gotten much larger since I started the FAQ five years ago, and much more comprehensive at   
- that. Nowadays, there are a large number of Neo sites that have a lot of general information, and devoted   
- fans continue to fill the void left by former SNK-players. Since I am of the “former SNK and game players”   
- category, updates to this FAQ will be further and farther between, as all of the information that I ever knew   
- about the Neo is here.  
- V.1.0 (4/10/1997) to v.12.1 (3/20/2002)
+Well, there were many reasons, but the first, was that there was no other current Neo FAQ out on the   
+Internet. Ralph Barbagallo’s FAQ was, in April 1997, 2 1/2 years without an update, and I felt a new update   
+may have been necessary. I had to find something to occupy my time then; making a new FAQ was the first   
+step. It has gotten much larger since I started the FAQ five years ago, and much more comprehensive at   
+that. Nowadays, there are a large number of Neo sites that have a lot of general information, and devoted   
+fans continue to fill the void left by former SNK-players. Since I am of the “former SNK and game players”   
+category, updates to this FAQ will be further and farther between, as all of the information that I ever knew   
+about the Neo is here.  
+V.1.0 (4/10/1997) to v.12.1 (3/20/2002)
 
 ## —-What is the History and Rationale behind the NEOGEO?
 

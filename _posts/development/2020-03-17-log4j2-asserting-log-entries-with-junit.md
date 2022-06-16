@@ -33,7 +33,7 @@ tags:
 
 Lets start with the usage in JUnit
 
-```
+```java
 @Rule public LogAccessor logAccessor=new LogAccessor();
 
 @Test @LogAccessorLogLevel(level = "DEBUG", category = "com.cedricwalter")

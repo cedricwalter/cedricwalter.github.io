@@ -4,14 +4,12 @@ title: 'Clean one way bearing'
 date: '2004-08-26T21:38:12+02:00'
 author: 'Cédric Walter'
 
-
-
 header:
-  teaser: /assets/images/2004/08/cleanOneWayBearing.gif
+teaser: /assets/images/2004/08/cleanOneWayBearing.gif
 tags:
-    - disassemble
-    - kyosho
-    - 'RC helicopter'
+- disassemble
+- kyosho
+- 'RC helicopter'
 ---
 
 # Kyosho Caliber 30, an in-depth Review
@@ -19,26 +17,37 @@ tags:
 A friend of mine buy especially the caliber 30 for shaking it, doing hard 3D, and to avoid any regret in case of crash (
 he currently own 2 Futura se, long ranger, airwolf, raptor 30, shuttle etc). 2 weeks after that I buy mine on ebay
 germany (new motor never run, kit not built). This review is based on his comments and mine (as today 23.06.2002 I only
-break in the motor (35Â°C) but I noticed a lot of bads things which are not written in french magazines). Overall it is
+break in the motor (35°C) but I noticed a lot of bad things which are not written in French magazines). Overall it is
 a great machine.
 
-Specifications    Length: 1095mm Height: 408mm Width: 190mm Weight: 2900g Gear ratio: 9.615 to 1 to 5.0 Main rotor:
-1230mm Tail rotor: 240mm Engine: 30 size Tank capacity: 340cc | ![](/assets/images/2004/08/tailHead.jpg)
-| ![](/assets/images/2004/08/mechanics.jpg) |
+**Specifications**
 
-## Kyosho Caliber 30 Bads
+* Length: 1095mm
+* Height: 408mm
+* Width: 190mm
+* Weight: 2900g
+* Gear ratio: 9.615 to 1 to 5.0
+* Main rotor: 1230mm
+* Tail rotor: 240mm
+* Engine: 30 size
+* Tank capacity: 340cc
+
+![](/assets/images/2004/08/tailHead.jpg)
+![](/assets/images/2004/08/mechanics.jpg)
+
+## Kyosho Caliber 30 Bad
 
 - The swash plate is taking a lot of slope, after only 10 flights (I must admit with hard 3D), -> I replace it with the
   “Correct” metal upgrade
 - If you want power for hard 3D, you NEED to invest in 15% nitromethan, but that is common by
   30”size.
 - The paddles are moving and slipping (they are in 2 parts, sometimes they slipe 2 or 3mm after a
-  flight!!!!!!) -> I replace them with raptor 30 paddles
+  flight !) -> I replace them with raptor 30 paddles
 - The landing skids is too small (could be larger for a newbie)
   and made in a hard plastic, that can easily break in case of a loose crash, -> I replace it with Raptor 30 landing
   skids after my first crash.
-- Tailboom supports are too small and their angle is below 30Â°, should not be larger in
-  order to improve the tighteness of boom ? You can replace them with raptor 30 or use longer one.
+- Tail-boom supports are too small and their angle is below 30°, should not be larger in
+  order to improve the tightness of boom ? You can replace them with raptor 30 or use longer one.
 - Canopy is…… you
   know…ugly…moreover you have
   no access to the
@@ -59,13 +68,13 @@ Specifications    Length: 1095mm Height: 408mm Width: 190mm Weight: 2900g Gear r
 - Ridiculous swashplate in 3 parts ! with 3 philips screws below and 4
   in upper side! R I D I C U L O U S ! this is the weak of this
   helicopter.        ![](/assets/images/2004/08/swashplate.jpg)![](/assets/images/2004/08/ridiculous.jpg) Ridiculous
-  swashplate…
-- 90Â° control is really cheap (all servos (3) are moving in the tray
-  lateral slope), I prefer 120Â° CCPM.
+  swash-plate…
+- 90° control is really cheap (all servos (3) are moving in the tray
+  lateral slope), I prefer 120° CCPM.
 - Philips screws everywhere in the frame….no comment
 - One of the strongest
   screws loctite was used….prepare you to have a lot of fun if you want to remove screws..
-- Very small plattform for
+- Very small platform for
   the gyro, (for the CSM 540, I cut one of the arms see pictures), under the canopy, and in front of the heli is it not
   the place where amplitude of vibrations are the worse ???
 - Very few room space left for the gyro ! the CSM540 can not
@@ -84,24 +93,24 @@ Specifications    Length: 1095mm Height: 408mm Width: 190mm Weight: 2900g Gear r
   of 2 parts, this increase drag since the are not glue together and may cause flutter during 3D -> replacing them with
   raptor 30 paddles supress flutter.
 - Frame is very light, can easily break and won’t survive so many times like the
-  raptor 30 one.  ![](/assets/images/2004/08/lightFrame.jpg)
-  Very nice
-  engineering !
+  raptor 30 one.  
+  ![](/assets/images/2004/08/lightFrame.jpg)
+  Very nice engineering !
 - Fan quality is bad and inefficient. Need to be replaced (Correct or quickUk?), some people
   encountered overheating.
-- The MMS mode has to much slope, the idea is nice but the realisation is bad (4 pinion
+- The MMS mode has too much slope, the idea is nice but the realisation is bad (4 pinion
   sliding in a plastic tray), some people (Jason [www.jason.net](http://www.jason.net/) was the first) already made 2
-  shim with a coca cola metal can to remove lateral slope of the sliding tray..
+  shim with a Coca-Cola metal can to remove lateral slope of the sliding tray..
 - The starter coupler
   CA3018 ![](/assets/images/2004/08/starterCoupling.jpg) is made of a very soft metal, and will need to be replace very
   quickly (before it get round shape and disallow to start the engine). You can use the correct aftermarket fan from
-  correct or quickuk (if they release one).
+  correct or quick-uk (if they release one).
 - The cyclic power is good but with the main shaft so long there is a lot of
   mas to rotate around the disk so roll/flip rate is about the same or a little better than a stock rappy 30 with
   similar head speed.
 - Canopy weighs also 8.4 oz (too heavy for a 30)
 - The radio tray is flexing so much that it
-  affect the pitch, really bad. |
+  affect the pitch, really bad.
 
 ### Kyosho Caliber 30 Goods
 
@@ -114,33 +123,29 @@ Specifications    Length: 1095mm Height: 408mm Width: 190mm Weight: 2900g Gear r
 - In flights, noise is grandly reduce due to the 2 stages belt
   system,
 - The tail head is inherited from a 60” size,
-- Main blades from the raptor 30 can be reuse (4mm nut bolt). -
-  The tank is huge for a 30”size, fuel level is visible at 10 meters (color is neon blue).
-- The radio
-  installation is very clean, all cables can be hidden in the radio tray.
+- Main blades from the raptor 30 can be reuse (4mm nut bolt).
+- The tank is huge for a 30”size, fuel level is visible at 10 meters (color is neon blue).
+- The radio installation is very clean, all cables can be hidden in the radio tray.
 - Sold with an OS32sxh and not a TT36 (which
   sometimes sucks!),
 - Muffler is quite good for a stock one (the one with the raptor sucks!), tips you can drill 4
   holes (4 mm) to increase power.
-- Both an Electrical Mixing System (EMS in fact CCPM 120Â°) and a Mechanical Mixing
+- Both an Electrical Mixing System (EMS in fact CCPM 120°) and a Mechanical Mixing
   System (MMS) are standard.
 - Basic configuration in 30 minutes not more : a record. In fact, you need time to mount
   servo, fix them etc… This is mainly due to the manual which tell you all settings, only ATV is missing (normal it is
   dependent on servo and TX pulse),
 - Very long main mast, allow mass to be far below rotor, increase stability.
-- Tail
-  servo is mounted directly on tail boom as standard, easy maintenance and removal without losing trim settings.
-- I
-  never see a control system which slide so easily right out of the box. (even on high end machine).
-- Fewer parts, less
-  problem, the frame and overall design is clear and nice.
+- Tail servo is mounted directly on tail boom as standard, easy maintenance and removal without losing trim settings.
+- I never saw a control system which slide so easily right out of the box. (even on high end machine).
+- Fewer parts, less problem, the frame and overall design is clear and nice.
 - Final assembly is simple and straightforward, linkages are
   easy to adjust.
 - Large cooling fan allows for use of both low nitro and low oil fuels (as used in Europe).
 - 10mm
   main shaft and 6mm spindle shaft (not new ! same on Raptor 30).
-- Motor mount in metal stiffen the
-  frame ![](/assets/images/2004/08/motormount.jpg) and act like a radiator.
+- Motor mount in metal stiffen the frame 
+![](/assets/images/2004/08/motormount.jpg) and act like a radiator.
 - Revolutionary linkage, at the correct size right out of the box.
 - Very nice manual, but I would like to see it only english and not with some cyptic japanese (
   sorry but that is really disturbing when you can not read it)
@@ -149,17 +154,23 @@ Specifications    Length: 1095mm Height: 408mm Width: 190mm Weight: 2900g Gear r
 - 47 pinions in the mechanic as standard.
 
 ![](/assets/images/2004/08/os32.jpg)
+
 The .32 SX-H engine The .32 SX-H engine comes equipped with a heavy-duty crankcase, heat sink head, conrod and crankpin,
 plus a dual-needle Type 20C carb, larger front bearing and a rear bearing with nylon
-retainer.  Specifications:    Displacement: 5.22cc    
-Bore: 19.56mm    Stroke: 17.53mm    Practical rpm: 2,000-22,000    Output: 1.2 bhp @ 18,000 rpm    
-Weight: 289g |
+retainer. 
+**Specifications**    
+* Displacement: 5.22cc
+* Bore: 19.56mm 
+* Stroke: 17.53mm 
+* Practical rpm: 2,000-22,000 
+* Output: 1.2 bhp @ 18,000 rpm
+* Weight: 289g
 
 ### Conclusions
 
 - YES the caliber 30 offer a level of functionality and capacity not ever seen in a 30” size for that price, but what is
   the reliability ?, how long performances stay at this level right out of the box ? So much parts are cheap…. I am not
-  dummy, I understand that is was to reduce the price, but is it not to sell more upgrades parts ??? only times and a
+  dummy, I understand that has been to reduce the price, but is it not to sell more upgrades parts ??? only times and a
   full season of flight can tell us the truth…
 - It performs well on 3D, but we have some flutter now, and we are trying to fix this. Our attack plan (we already
   reduce head speed and notice no improvements): changing paddles, changing swash-plate, tighten the control system.
@@ -170,7 +181,7 @@ Weight: 289g |
 - I bought yesterday my second caliber 30, and I love it ! I will never buy a raptor 30 anymore, on 3 raptor : 2 glow
   develop the woof and poof, only the eRaptor was flying without problems. If you still want to buy a Raptor go for the
   v2 not the old one.
-- Be careful, a lot of parts need to be replace in order to maintain the performance at it’s level. see the review
+- Be careful, a lot of parts need to be replaced in order to maintain the performance at it’s level. see the review
 - Replacement parts are sometimes 2 times more expensive than raptor 30. I hope it is because this machine is new…
 - Kit price with engine in France : 463â&#130;¬/405$ without engine 320â&#130;¬
 - What 30”size to buy for a beginner ? caliber 30 (very new 2002)<- raptor 30 v2 (since 4 years out 1998)<- nexus
@@ -178,21 +189,21 @@ Weight: 289g |
 - [Click here to jump to the caliber 30 gallery section](images/Helico/caliber/gallery/gallery.htm)
 - Realflight addon4 has a caliber 30 available: ![](/assets/images/2004/08/caliberRealflight.jpg)
 - Reflex 4.0 has also the most realistic caliber 30 free of charge.
-  
+
 # TIPS
 
- ![](/assets/images/2004/08/cleanOneWayBearing.gif)
- “Take out your one way bearing in the counter shaft bearing and clean it out real good. I had my one way bearning start
- sliping on me this weekend and at one point it completly let go and I had to auto down. When it had happend I couldn’t
- tell what was wrong (engine still running) but I had a dramatic loss of head speed and barely got it down safely. I had
- thought that the main belt had broken. After inspecting why the engine speed would shoot up (no load) I could see the
- counter gear free wheeling around the one way bearning. After pulling the assembly out of the frame I could not get it
- to let go just by twisting it. I just replaced with a friends counter gear assembly and did not bother w/ the original
- but it is my suspision that it is either dirty or oily and needs to be cleaned out real good. I would imagine that this
- could pertain to the same problem you are having only the bearing is not fully letting go. It is probably breifly
- letting go then re-engagin again causing the tail to loose some holding power. I think it is a good idea after 2
- gallons or so to disassemble the counter gear assembly and clean the one way bearing before it causes you to loose your
- heli in flight.” by ?? 
+![](/assets/images/2004/08/cleanOneWayBearing.gif)
+“Take out your one way bearing in the counter shaft bearing and clean it out real good. I had my one way bearning start
+sliping on me this weekend and at one point it completely let go, and I had to auto down. When it had happend I couldn’t
+tell what was wrong (engine still running) but I had a dramatic loss of head speed and barely got it down safely. I had
+thought that the main belt had broken. After inspecting why the engine speed would shoot up (no load) I could see the
+counter gear freewheeling around the one way bearing. After pulling the assembly out of the frame I could not get it
+to let go just by twisting it. I just replaced with a friends counter gear assembly and did not bother w/ the original
+but it is my suspicion that it is either dirty or oily and needs to be cleaned out real good. I would imagine that this
+could pertain to the same problem you are having only the bearing is not fully letting go. It is probably breifly
+letting go then re-engaging again causing the tail to lose some holding power. I think it is a good idea after 2
+gallons or so to disassemble the counter gear assembly and clean the one way bearing before it causes you to loose your
+heli in flight.” by ??
 
 ## Main 92 T gear keeps getting striped
 
@@ -218,26 +229,30 @@ heat. You must create a U shape and use the screws (red point on schema) to fix 
 ## Parts that get worn faster than usual
 
 ### Tail Rotor
+
 Effects:  Excessive slope in tail control system
 ![](/assets/images/2004/08/tailview.jpg)  
 Possible causes:
+
 - The 2 pins CA3063 are worn (here after 54 flights) The plastic worn the metal, maybe due to
   speed and heat produc by high rpm rotation
   ![](/assets/images/2004/08/ca3063-worn.jpg)
 - Solution? replace with new pin…
 
 ## Repairing Frame
-broke after a crash, main mast is not bent, but energy release through the frame</a># . I do not want to disassemble the whole frame but fix it instead.
+
+broke after a crash, main mast is not bent, but energy release through the frame</a># . I do not want to disassemble the
+whole frame but fix it instead.
 
 ![](/assets/images/2004/08/caliberCasseSansPiece.JPG)
-![](/assets/images/2004/08/caliberCasse.JPG)
-![](/assets/images/2004/08/patronCarbone.JPG)
+![/assets/images/2004/08/caliberCasse.jpg](/assets/images/2004/08/caliberCasse.JPG)
+![/assets/images/2004/08/patronCarbone.jpg](/assets/images/2004/08/patronCarbone.JPG)
 ![](/assets/images/2004/08/reparationEnPlace.jpg)
 
 ## Repairing the radio tray
 
 you can use this technique on all NON-MOVING plastic parts, It is even better if you use clothes wires and glue them
-with CA (as good as carbon fibers)>
+with CA (as good as carbon fibers)
 
 ![](/assets/images/2004/08/RadioTrayRepare1.jpg)  
 ![](/assets/images/2004/08/RadioTrayRepare2.jpg)   
@@ -291,11 +306,14 @@ Girard Braces under the radio tray, it’s homepage is at:    <http://pages.infi
 John, [website](http://bartolo.worldonline.co.uk/)
 
 ## Engine overheating cure
+
 Symptoms:
+
 - Engine overheating
 - Loss of power even if the motor smoke a lot Why? it really depends on…
-- Where You are living….in the desert? do not forget that some gyro may have trouble too and may drift a lot if the day is too warm (
-  more than 35Â°C). In altitude, less oxygen -> more nitro
+- Where You are living….in the desert? do not forget that some gyro may have trouble too and may drift a lot if the day
+  is too warm (
+  more than 35°C). In altitude, less oxygen -> more nitro
 - The percentage of nitro/oil the more oil/nitro the cooler the
   engine will run -> Attention here in europe, nitromethan can cost an arm and leg -> 30euro/liter !!! at 15%nitro. I
   personally usually fly with 1% nitro! enough for learning.
@@ -361,7 +379,7 @@ one do you prefer? ![](/assets/images/2004/08/smileOpen.gif)
 ![](/assets/images/2004/08/cliclclic.jpg)
 
 - glue part 934 on 935 with epoxy or CA glue.
-- Can be a bad pinion? (not the case on my caliber nÂ°1)
+- Can be a bad pinion? (not the case on my caliber n°1)
 
 ### better explanation
 
@@ -396,13 +414,20 @@ Help to balance the heli if needed. Won’t work with a raptor 30 canopy. by Ste
 ![](/assets/images/2004/08/lostinflight.jpg)
 I lost 2 screw (3x6mm) in flights ! crazy they are located in manual page 7, stage 952. The heli produce a metallic
 noise but I throught it was going from the exhaust. The person on this page report the same
-problem : <http://helico.toutlemodelisme.com/tests/caliber30/page1.htm>     I suggest to loctite them enough
+problem : <http://helico.toutlemodelisme.com/tests/caliber30/page1.htm>
+I suggest to loctite them enough
 
 ## Wobbles
-– Check if the paddles are not quite aligned, replaced the short grub screw in the paddles with a long one like in the raptor 30.  
+
+– Check if the paddles are not quite aligned, replaced the short grub screw in the paddles with a long one like in the
+raptor 30.  
 – Check the main rotor mast if it is not bend…  
-– (MMS mode) Wobble (for/aft) when in forward flight with low head speeds (below 1700) Try the frame bracing mod and run the engine with heat at 1850 head speed.  
-– Check Michael Prewitt homepage : [www.raptortechnique.com](http://www.raptortechnique.com/) this problem has created a lot of threads with the raptor 30, there is a lot of chance, since raptor and caliber share more or less the same design (2 seesaw rubber and free spindle shaft), that you can cure the wobble with the same tricks. (Some report that lubrification can help, and so on). if nothing simple cured your problem, try to flip the head.>
+– (MMS mode) Wobble (for/aft) when in forward flight with low head speeds (below 1700) Try the frame bracing mod and run
+the engine with heat at 1850 head speed.  
+– Check Michael Prewitt homepage : [www.raptortechnique.com](http://www.raptortechnique.com/) this problem has created a
+lot of threads with the raptor 30, there is a lot of chance, since raptor and caliber share more or less the same
+design (2 seesaw rubber and free spindle shaft), that you can cure the wobble with the same tricks. (Some report that
+lubrification can help, and so on). if nothing simple cured your problem, try to flip the head.>
 
 ## Essence
 
@@ -411,7 +436,7 @@ problem : <http://helico.toutlemodelisme.com/tests/caliber30/page1.htm>     I su
   vols !!!!!). Ne passez a 10 ou 15% que lorsque vous passerez a l’acrobatie. Avant pour les stationnaires, les 8 et les
   figures de base, c’est vraiment jeter l’argent par les fenêtres. De plus OS tourne bien sur faible taux de nitro à la
   contraire des Novarossi.
-- Stocker l’essence à l’abri de la lumière et hors gel ! éviter aussi les différences de température trop grande.
+- Stocker l’essence à l’abri de la lumière et hors gel ! éviter aussi les différences de température trop grande.
 
 ## Réservoir
 
@@ -421,12 +446,14 @@ problem : <http://helico.toutlemodelisme.com/tests/caliber30/page1.htm>     I su
   Donc n’oublier pas de coller avec une goutte de superglue les anneaux sur la poutre de queue.
 
 ## Stripping screws
+
 You have some problem to remove genuine screws on your caliber 30. They seem to be made of a very soft/cheap metal.
 
 Cause?  
 Head screws used are Japanese Industrial Standard (JIS). Regular metric screwdrivers will not work.
 
 Solutions
+
 - Buy a set of JIS drivers from Heliproz/Cyberheli/[www.custom-rc](http://www.custom-rc/)
 - Buy stainless allen head replacements.
 - Buy an upgrade kit at [www.custom-rc](http://www.custom-rc)
@@ -449,6 +476,7 @@ Solutions
 Mark the edge of the black plastic part with a pen before removing | Thunder Tiger recommend you to glue your blade with
 epoxy glue. Kyosho say nothing in the manual about this subject. I agree that the Caliber 30 has 4 screws vs only 2 for
 the raptor 30….but This mods increase security for sure and cost nothing :
+
 - Remove the blade covering under the plastic
   blade grips :
 - trace an outline around the grips with a pen.
@@ -468,7 +496,8 @@ loose crash ;-)).
 – The phillips head screws used are JIS (Japanese Industrial Standard). There are no substitutes. Regular metric drivers
 will not work. So it is a good idea to replace them all with allen screw before stripping original head screws (they are
 made of a very cheap metal)  
-– Add an air filter, the engine sucks air from the airflow coming from the fan, this reduces possibility of dust entering
+– Add an air filter, the engine sucks air from the airflow coming from the fan, this reduces possibility of dust
+entering
 the carburator.  
 – You can use raptor 30 main rotor blade.  
 – If you use the kyosho canopy, do not apply the decals (it is really a pain to apply them), but sligthly sand the
@@ -479,39 +508,51 @@ You can replace a lot of part on the caliber 30, raptor 30 parts are half prize 
 ![](/assets/images/2004/08/CaliberWithRaptorParts.gif)
 
 ### Swashplate
+
 If your swash-plate develop slope or break after a crash, do not buy a new plastic one from
 Kyosho….CA3036 Upper Swash + CA3037 Lower Swashplate + CA3038 Swash Inner Race = $32 you can buy an aftermarket metal
 for $60 ([quick Uk](http://www.quickuk.co.uk/)) Alternatively you can reduce slope in the plastic swash-plate if you use
 new screws with big heads and the old swash-plate will have smaller slop.
 
 ### Landing skids
-CA3029 Brace + CA3030 Skid = $24, you can buy thunder tiger PV0035 (complete landing skid set) for only $10.50 Moreover the width is
+
+CA3029 Brace + CA3030 Skid = $24, you can buy thunder tiger PV0035 (complete landing skid set) for only $10.50 Moreover
+the width is
 25cm vs 18,5cm! that is a 35% width increase!!
 
 ### Canopy 30 body
+
 CA3031 $29 + CA3033 canopy decals $7, you can buy thunder tiger PV0066 for only $15.50.
 
 ### Flybar
-You can use Raptor 30 flybar, there are 60mm smaller but for $5.25 you get 2 set (PV008) instead of one CA3009 for 4.25 Smaller flybar will improve response and agressivity of
+
+You can use Raptor 30 flybar, there are 60mm smaller but for $5.25 you get 2 set (PV008) instead of one CA3009 for 4.25
+Smaller flybar will improve response and agressivity of
 heli. Use heavier paddle if you are still a beginner.
 
 ### Tail blade, rotor blades
+
 Are the same, buy the cheaper one !
 
 ### Frame
+
 Try to repair it! see below
 
 ### Tail fin
+
 CA3058 $4.89 and CA3060 $6.49 buy bag
 PV0038 for raptor 30: $6 both (they are heavier)
 
 ### Main rotor blade
+
 You can use Raptor 30 main rotor blade
 
 ### Exhaust
+
 Since it is an OS32 you can virtually use any muffler which fit an OS32 or TT36, TT39
 
 ### Tail
+
 Pipe Yes! for the price of one genuine tail pipe, you can build 7. You can buy pipe in an industrial
 plant!
 
@@ -523,20 +564,24 @@ second hand together with these 2 mufflers, so why not mount them?
 ![](/assets/images/2004/08/hatori350.jpg)
 ![](/assets/images/2004/08/hatori337.jpg)
 
-- Hatori 3d pipe 350 A must if you run with high nitro percentage. Require to use the additional parts provided in kit. | Hatori
+- Hatori 3d pipe 350 A must if you run with high nitro percentage. Require to use the additional parts provided in kit.
+  | Hatori
   Mufler
 - 337 Not really interesting compare to the default muffler, except that it is lighter. Replace the default muffler with
   no change.
 
 ## Dual Battery system
+
 Overall view of my 1st caliber
 ![](/assets/images/2004/08/1stc30DoubleAlim.jpg)
 
 24.08.2002 Add a dual battery system for more safety. I have no heli with only one battery. Here is why:
 
-| *Problems*                                       | ***1 battery pack*** | ***2 packs +   mechanic   Switches*** | ***2 packs +   Electronic   switch*** |
+| *Problems*                                       | ***1 battery pack*** | ***2 packs + mechanic Switches*** | ***2
+packs + Electronic switch*** |
 |------------------------------------------------------|----------------------|---------------------------------------|---------------------------------------|
-| ***Additional cost of system***                      | reference            | + 55â&#130;¬                          | + 180â&#130;¬                         |
+| ***Additional cost of
+system***                      | reference            | + 55â&#130;¬                          | + 180â&#130;¬                         |
 | Open circuit between battery and switch’s pack       | Failure              | Redundant                             | Redundant                             |
 | Open circuit in one of the pack                      | Failure              | Redundant                             | Redundant                             |
 | Battery short circuit in one pack                    | Failure              | Failure                               | Redundant                             |
@@ -545,6 +590,7 @@ Overall view of my 1st caliber
 | Battery connector from backup system to the receiver | Failure              | Redundant                             | Failure                               |
 
 ### Build yourself a dual switch
+
 ![](electronic/electronicDualSwitch.jpg)
 
 ## Install a raptor 30 canopy or any other canopy
@@ -584,7 +630,8 @@ let some space between the muffler and the body if required. wobble
 ![](/assets/images/2004/08/canopyr30mount-rotated.jpg)
 ![](/assets/images/2004/08/pv0061.jpg)
 
-The 2 fixing canopy screws (page 17, part 949) are irritating and if you don’t forget to over-tighten them, then you can lose one in flight.
+The 2 fixing canopy screws (page 17, part 949) are irritating and if you don’t forget to over-tighten them, then you can
+lose one in flight.
 The best solutions is definitively to use the thunder tiger system part: PV0061 wobble
 
 ![](/assets/images/2004/08/wiedemannCanopy.jpg)
@@ -601,7 +648,9 @@ You’ve done it! Result is below :
 15.11.2002 Kyosho now sell a fiber canopy
 
 ## Mounting the Hawk Sport canopy
+
 You will have to acquire the following
+
 * HI3130B Canopy 29.95
 * HI3133A Windshield 9.95
 * HI3129 Mounting brackets 5.95
@@ -615,12 +664,13 @@ a quick check before each new flight.
 ![](/assets/images/2004/08/caliber_remote_glow2.jpg)
 
 ## Quest for the missing screwsin ARF Kit
+
 ![](/assets/images/2004/08/missingScrew1.jpg)
 ![](/assets/images/2004/08/missingScrew2.jpg)
 ![](/assets/images/2004/08/missingScrew3.jpg)
 ![](/assets/images/2004/08/updated.gif)
 
-In Red, existing screw in ARF Kit    In blue, missing screws. Hole is prepared for them but empty   
+In Red, existing screw in ARF Kit In blue, missing screws. Hole is prepared for them but empty   
 Do not forget to replace with the same “set screw” to avoid unbalanced tail rotor!
 
 ## Remove Slope in MMS mode
@@ -722,11 +772,14 @@ helps!  [# http://heliprodigy.homestead.com/caliber30.html](http://heliprodigy.h
 good pictures on the result.
 
 ## Starter coupling wear out the hex ball and the socket
+
 Symptoms
+
 - Starter coupling does not last long. (CA3018)
 - Hex adapter from the starter is also rounded
 
 Reasons
+
 - Starter coupling is made of a soft metal.
 - Hex starter is sliping at each start and round the starter coupling
   Cure**: - Change the part CA3018 (new one will not last longer)
@@ -756,6 +809,7 @@ Each week, you can add a drop oil in the red places, switch you helicopter on, a
 servo while adding oil. I’m using stitch machine white Vaseline.
 
 ## Links to other tips page
+
 - [Clive Woods’ Caliber 30 Tips](http://www.cjwoods.com/Caliber_30_tips.htm) ![](images/smallnew.gif)
 - [Alessandro Salsetti ](http://www.amjd.ch/caliber30.php)(FR) son experience
 
@@ -772,8 +826,8 @@ Pitch/Roll/Nick-Servo:  JR NES 4231, JR NES 4231, JR NES 4231
 Tail-Servo:  Super Servo JR 8700G numeric
 Battery:  Sanyo 1200CR, Sanyo 1200 CR
 Blades:  SAB 300 carbon fibre
-Other  Futaba 3001 for throttle
-Motor  OS32 SX-H + Hatori 3d pipe 350
+Other Futaba 3001 for throttle
+Motor OS32 SX-H + Hatori 3d pipe 350
 Number of Crash  [![](/assets/images/2004/08/crashed.jpg)](images/Helico/crash/crash.htm)
 
 Flight log  [click here](images/Helico/crash/caliber1.txt)
@@ -788,7 +842,8 @@ Upgrades
 ![](/assets/images/2004/08/tn_head-caliber30-1-1.jpg)](/assets/images/2004/08/head-caliber30-1-1.jpg)
 
 # Caliber 30 No2
-[![My kyosho caliber 30 nÂ°2, 22 March 2003](/assets/images/2004/08/2ndcaliber.jpg)](images/Helico/gallery/caliber2Big.jpg)
+
+[![My kyosho caliber 30 n°2, 22 March 2003](/assets/images/2004/08/2ndcaliber.jpg)](images/Helico/gallery/caliber2Big.jpg)
 
 ## Equipped with
 
@@ -807,7 +862,7 @@ Flight Log  [click here](images/Helico/crash/caliber2.txt)
 Upgrades  
 ![](/assets/images/2004/08/016-107.jpg)    
 ![](/assets/images/2004/08/kcc06_400.jpg)
-![](/assets/images/2004/08/tn_caliber30-2-1.jpg)](/assets/images/2004/08/caliber30-2-1.jpg)   
+![](/assets/images/2004/08/tn_caliber30-2-1.jpg)](/assets/images/2004/08/caliber30-2-1.jpg)
 
 # Kyosho Caliber flight log 1
 
@@ -824,56 +879,68 @@ Upgrades
 - 23.11.2002 3 tanks (3 weeks of non-interrupted rain !), add a header tank.
 - 29.11.2002 3 tanks 43 min idle-up1, still raining the whole week without interruption…
 - 01.12.2002 1 tank
-- 22.02.2003 2 tanks 30min – 6Â°C outside, sunny day
-- 28.02.2003 5 tanks 65min – 13Â°C outside, sunny day
+- 22.02.2003 2 tanks 30min – 6°C outside, sunny day
+- 28.02.2003 5 tanks 65min – 13°C outside, sunny day
 - 09.03.2003 1 tank
-- 22.03.2003 3 tanks 14Â°C outside, sunny day
-- 29.03.2003 3 tanks 22Â°C, sunny day with clouds, fly only half a tank then crash 🙁 mechanical problem still unknown
+- 22.03.2003 3 tanks 14°C outside, sunny day
+- 29.03.2003 3 tanks 22°C, sunny day with clouds, fly only half a tank then crash 🙁 mechanical problem still unknown
 - 19.07.2003 1 tank replace pinion 96885 (was damaged)
-- Fr 25.07.2003 0.2 tanks 28Â°C some clouds and wind, heli is too responsive on cyclic, decide to stop and go back to
+- Fr 25.07.2003 0.2 tanks 28°C some clouds and wind, heli is too responsive on cyclic, decide to stop and go back to
   the bench
-  - Tue 13.08.2003 1 tanks 27Â°C 8h10AM to 11h00AM buy some parts and disassemble a fully equipped caliber, now
-    caliber 1 has:  
-    – quick-uk blue swash-platte  
-    – correct metal center hub  
-    – correct metal main blade grip  
-    – correct metal arms and fly-bar control  
-    – SAB 300 carbon fibre blade
-- Sat 27.09.2003 1 Tanks 16h30 to 19h00 cloudy and start raining 19Â°C. practice, heli is too responsive, need
+    - Tue 13.08.2003 1 tanks 27°C 8h10AM to 11h00AM buy some parts and disassemble a fully equipped caliber, now
+      caliber 1 has:  
+      – quick-uk blue swash-platte  
+      – correct metal center hub  
+      – correct metal main blade grip  
+      – correct metal arms and fly-bar control  
+      – SAB 300 carbon fibre blade
+- Sat 27.09.2003 1 Tanks 16h30 to 19h00 cloudy and start raining 19°C. practice, heli is too responsive, need
   exponential
   now
 
 # Kyosho Caliber flight log 2
 
-- 18.10.2002 bought by a friend, he never do a hover or finish break in ! he decides to leave hobby after 2 consecutive crash.
-- 20.10.2002 1 tank finishing break in, already a lot of power, heli is very responsive (has still original paddle and not raptor one)
+- 18.10.2002 bought by a friend, he never do a hover or finish break in ! he decides to leave hobby after 2 consecutive
+  crash.
+- 20.10.2002 1 tank finishing break in, already a lot of power, heli is very responsive (has still original paddle and
+  not raptor one)
 - 21.11.2002 replace with raptor 30 paddle, add raptor 30 canopy mount, add a header tank.
 - 01.12.2002 2 tanks, crashed because of a brain problem while in front,it is really time to learn nose-in….
-- 08.03.2003 1 tank, windy 13Â°C , decide not to empty the tanks, the heli was shaging, reduce gyro gain, land and go back to bench. Found Tail belt to be loose.
-- 09.03.2003 3 tanks, windy 15Â°C, the last flight, the blade heat shrink become loose in flight, it made a lot of noise, but i land safely
+- 08.03.2003 1 tank, windy 13°C , decide not to empty the tanks, the heli was shaging, reduce gyro gain, land and go
+  back to bench. Found Tail belt to be loose.
+- 09.03.2003 3 tanks, windy 15°C, the last flight, the blade heat shrink become loose in flight, it made a lot of noise,
+  but i land safely
 - 14.03.2003 1 tank (17 min), too windy 8°C, RAS except wind and gust, it's dangerous to continue
 - 21.03.2003 found origin of tail wagging, tail servo was loose, replace all 4 screws
-- 22.03.2003 1 tank (20.5 min), 14Â°C sunny day, strong vibration, searching cause
-- 29.03.2003 3 tanks 22Â°C, sunny day with some clouds, change blade, no vibrations, fly with training skids only nose-in.
-- 01.05.2003 3 tanks 26Â°C, some clouds, learn nose-in
-- 12.07.2003 4 tanks 30Â°C. some clouds, orientation training low altitude to recover sensation after a break of 2 months
-- 13.07.2003 1 tank 32Â°C. too much wind (strong gusts)
+- 22.03.2003 1 tank (20.5 min), 14°C sunny day, strong vibration, searching cause
+- 29.03.2003 3 tanks 22°C, sunny day with some clouds, change blade, no vibrations, fly with training skids only
+  nose-in.
+- 01.05.2003 3 tanks 26°C, some clouds, learn nose-in
+- 12.07.2003 4 tanks 30°C. some clouds, orientation training low altitude to recover sensation after a break of 2 months
+- 13.07.2003 1 tank 32°C. too much wind (strong gusts)
 - 19.07.2003 replace CSM400 because of drifts, tail servo go to full position on one side!!! replace with a GY401
-- 20.07.2003 4 tanks 38Â°C!!!. start at 8:00AM finish 11:00AM, start to wind, fly 2 tanks nose-in.
-- Fri 25.07.2003 4 tanks 28Â°C some clouds and wind, heli fly great with new gyro, battery need to be cycled, last only 2 flight
-- Sat 26.07.2003 3 tanks 29Â°C cloudy, no wind, fly one tanks nose in.  
+- 20.07.2003 4 tanks 38°C!!!. start at 8:00AM finish 11:00AM, start to wind, fly 2 tanks nose-in.
+- Fri 25.07.2003 4 tanks 28°C some clouds and wind, heli fly great with new gyro, battery need to be cycled, last only 2
+  flight
+- Sat 26.07.2003 3 tanks 29°C cloudy, no wind, fly one tanks nose in.  
   replace the second battery with a one of same capacity (1700mAh NiCad) as stated on battery clinic
-- Sun 03.08.2003 5 tanks 25Â°C (40+22+35 min) 8:00AM finish 11:00AM, only nose-in and transition 180Â°, training stick, we expected 38Â°C today!!!  
-  2 tanks 30Â°C 19h30 to 21h only nose-in and transition 360Â° and more! cool
-- Sun 11.08.2003 3 Tanks 29Â°C (26+19+22 min) 19h30PM to 21h30PM only nose-in and transition, had problems to fire up engine
-- Mon 12.08.2003 3 tanks 30Â°C 7h50AM to 10h00AM only nose-in and transition
-- Tue 13.08.2003 3 tanks 27Â°C 8h10AM to 11h00AM only nose-in and transition, made my first 3 clockwise turn nose-in! great  
+- Sun 03.08.2003 5 tanks 25°C (40+22+35 min) 8:00AM finish 11:00AM, only nose-in and transition 180°, training stick, we
+  expected 38°C today!!!  
+  2 tanks 30°C 19h30 to 21h only nose-in and transition 360° and more! cool
+- Sun 11.08.2003 3 Tanks 29°C (26+19+22 min) 19h30PM to 21h30PM only nose-in and transition, had problems to fire up
+  engine
+- Mon 12.08.2003 3 tanks 30°C 7h50AM to 10h00AM only nose-in and transition
+- Tue 13.08.2003 3 tanks 27°C 8h10AM to 11h00AM only nose-in and transition, made my first 3 clockwise turn nose-in!
+  great  
   buy some parts and disassemble a fully equipped caliber, now caliber 2 has a correct swash-platte and a   
   metal throttle arm.  
   ————— Using reflex simulator as main tools for practicing www.reflex-sim.de ——————–
-- Sat 20.09.2003 3 tanks 24Â°C 18h00 to 19h30 only nose in hover and transition, first nose in translation, slow and fast eight
-- Sun 21.09.2003 2 tanks 20Â°C 09h10 to 10h30 only nose in hover and transition, first nose in translation, slow and fast eight
-- Sat 27.09.2003 2 Tanks 16h30 to 19h00 cloudy and start raining 19Â°C. training
-- Sat 19.10.2003 3 Tanks 15h30 to 17h30 sunny but cold: 12Â°C training
-- Thu 20.05.2003 2 Tanks (15, 21 min) 16h30 to 18h sunny but a lot of wind: 27Â°C, nose in. I did not lose experience from last year.
+- Sat 20.09.2003 3 tanks 24°C 18h00 to 19h30 only nose in hover and transition, first nose in translation, slow and fast
+  eight
+- Sun 21.09.2003 2 tanks 20°C 09h10 to 10h30 only nose in hover and transition, first nose in translation, slow and fast
+  eight
+- Sat 27.09.2003 2 Tanks 16h30 to 19h00 cloudy and start raining 19°C. training
+- Sat 19.10.2003 3 Tanks 15h30 to 17h30 sunny but cold: 12°C training
+- Thu 20.05.2003 2 Tanks (15, 21 min) 16h30 to 18h sunny but a lot of wind: 27°C, nose in. I did not lose experience
+  from last year.
 - Sun 25.07.2004 5 tanks (22,25,22,23,20) from 10h30 to 14h no wind sunny 28C

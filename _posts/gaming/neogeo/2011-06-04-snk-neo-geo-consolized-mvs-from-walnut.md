@@ -3,9 +3,8 @@
 title: 'SNK Neo Geo Consolized MVS from walnut'
 date: '2011-06-04T18:17:05+02:00'
 author: 'Cédric Walter'
-
-
-
+categories:
+- gaming
 header:
   teaser: /assets/images/2011/06/neo_geo_mvs_from_walnut_00_thumb.jpg
 tags:
@@ -18,9 +17,11 @@ tags:
     - vintagegaming
 ---
 
-[![neo_geo_mvs_from_walnut_00](/assets/images/2011/06/neo_geo_mvs_from_walnut_00_thumb.jpg "neo_geo_mvs_from_walnut_00")](/assets/images/2011/06/neo_geo_mvs_from_walnut_00.jpg)
+![/assets/images/2011/06/neo_geo_mvs_from_walnut_00_thumb.jpg](/assets/images/2011/06/neo_geo_mvs_from_walnut_00.jpg)
 
-Personally, as a user since 1991 or my Neo Geo AES (serial 0007444), I don’t like these kind of mods, but if anybody else is interested and since they did not kill an existing AES console. [Can be yours for 649$](http://www.analogueinteractive.com)
+Personally, as a user since 1991 or my Neo Geo AES (serial 0007444),
+I don’t like this kind of mods, but if anybody else is interested and since they did not kill an existing AES
+console. [Can be yours for 649$](http://www.analogueinteractive.com)
 
 - Shipping worldwide.
 - Most inexpensive way to play and explore the world of Neo Geo.

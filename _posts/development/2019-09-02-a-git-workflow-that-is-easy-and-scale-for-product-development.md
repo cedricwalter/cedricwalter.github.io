@@ -4,8 +4,6 @@ title: 'A git workflow that is easy and scale for product development'
 date: '2019-09-02T14:02:00+02:00'
 author: 'Cédric Walter'
 
-
-
 header:
 teaser: /assets/images/2017/04/git-logo.jpg
 tags:
@@ -70,7 +68,7 @@ branch name) and create a new git tag 1.0.1 (first fix of release 1.0.1, then 1.
 These branches created from release branches can but must NOT be merged to master depending on the quality of the
 fix and urgency. To be discussed on a case by case basis
 
-- e.g. hot ugly fixes, aka workaround, done in urgency for a customer wont be merged to master and may be rewritten to
+- e.g. hot ugly fixes, aka workaround, done in urgency for a customer won't be merged to master and may be rewritten to
   finally be merged to master later.
 - But the normal case it that these fixes will be merged to master.
 

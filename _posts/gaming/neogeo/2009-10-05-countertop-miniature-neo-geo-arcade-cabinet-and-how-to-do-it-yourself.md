@@ -3,9 +3,8 @@
 title: 'Countertop Miniature Neo Geo Arcade cabinet and How to Do It Yourself'
 date: '2009-10-05T18:02:16+02:00'
 author: 'Cédric Walter'
-
-
-
+categories:
+- gaming
 header:
   teaser: /assets/images/2009/10/NeoGeoMiniArcade_thumb.jpg
 tags:

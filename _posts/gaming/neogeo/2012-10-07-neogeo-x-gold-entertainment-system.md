@@ -3,9 +3,8 @@
 title: 'NEOGEO X GOLD ENTERTAINMENT SYSTEM'
 date: '2012-10-07T16:37:33+02:00'
 author: 'Cédric Walter'
-
-
-
+categories:
+- gaming
 header:
   teaser: /assets/images/2012/10/NGXG_logo_thumb.jpg
 tags:
@@ -32,7 +31,8 @@ tags:
     - vintagegaming
 ---
 
-# NEO GEO X GOLD ENTERTAINMENT SYSTEM Announced for Worldwide Distribution
+# NEO GEO X GOLD ENTERTAINMENT SYSTEM 
+Announced for Worldwide Distribution
 
 *Tommo Inc. sets release date and price for revolutionary gaming “system within a system”*
 
@@ -79,7 +79,9 @@ For the latest news as it is released, and for additional information regarding 
 
 Headquartered in Osaka, Japan, SNK PLAYMORE CORPORATION (SNK) develops, publishes and distributes interactive entertainment software in Japan, North America, Europe and Asia. Founded in 1978, SNK is one of the largest privately held interactive entertainment content providers in the world.
 
-Known for such franchises as THE KING OF FIGHTERS, METAL SLUG, and SAMURAI SHODOWN SNK continues to be an industry leader by focusing on their rich arcade history. More information on SNK PLAYMORE CORPORATION can be found at <a>www.snkplaymore.co.jp</a> SNK PLAYMORE USA is a wholly owned subsidiary of SNK PLAYMORE CORPORATION.
+Known for such franchises as THE KING OF FIGHTERS, METAL SLUG, and SAMURAI SHODOWN SNK continues to be an industry
+leader by focusing on their rich arcade history. More information on SNK PLAYMORE CORPORATION can be found
+at <a>www.snkplaymore.co.jp</a> SNK PLAYMORE USA is a wholly owned subsidiary of SNK PLAYMORE CORPORATION.
 
 # About Tommo, Inc.:
 
@@ -88,9 +90,14 @@ Known for such franchises as THE KING OF FIGHTERS, METAL SLUG, and SAMURAI SHODO
 With over 20 years of experience in logistics and sales, a knowledgeable staff and sales representatives available nationwide, Tommo Inc. is one of North America’s largest distributors of video gaming merchandises. Founded in 1989, Tommo has grown from a wholesaler of imported video games to becoming one of the nation’s main suppliers of video gaming content to national retail chain stores as well as independent retailers.
 
 # About BLAZE:  
-Founded by Jason Cooper over 20 years ago, BLAZE now specializes in the creation and distribution of retro gaming devices. BLAZE currently distribute SEGA and ATARI branded consoles and, in Q1 2012, are set to release the “Game gadget” games console, billed as the “iPod for games”
+
+Founded by Jason Cooper over 20 years ago, BLAZE now specializes in the creation and distribution of retro gaming
+devices. BLAZE currently distribute SEGA and ATARI branded consoles and, in Q1 2012, are set to release the “Game
+gadget” games console, billed as the “iPod for games”
 
 # About Success Company:  
-Based in Hong Kong, Success Company are specialists in the distribution of all video games formats throughout the Asian region.
+
+Based in Hong Kong, Success Company are specialists in the distribution of all video games formats throughout the Asian
+region.
 
 © SNK PLAYMORE “NEO GEO” is a registered trademark of SNK PLAYMORE CORPORATION. Used under license from SNK PLAYMORE USA CORPORATION.

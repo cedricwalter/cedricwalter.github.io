@@ -24,7 +24,7 @@ This method do not use #submodules or #subtree merges. it uses regular merge ope
 4. Merge A/master to New/master.
 5. Make a subdirectory folderA.
 6. Move all files into subdirectory folderA.
-7. Commit all of the file moves.
+7. Commit all the file moves.
 8. Repeat 3-6 for another repository.
 
 ```bash

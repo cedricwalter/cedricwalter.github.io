@@ -35,8 +35,7 @@ The following mapper example demonstrate some of the most useful features
 // will failed with a compilation error
 public abstract class  {
 
- @Inject
- PersonMapper personMapper;
+ @Inject PersonMapper personMapper;
 
  // since UUID added to imports = {}
  @Mapping(target = "uuid", expression= "java(UUID.randomUuid())") 

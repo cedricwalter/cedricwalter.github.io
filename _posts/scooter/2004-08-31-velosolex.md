@@ -10,14 +10,14 @@ categories:
 # Velosolex 1948 noir
 
 * Moteur de 45ccm de 0.4cv, à 2,000 tr/min.
-* On passe du mode bicyclette au mode vélomoteur, en abaissant le moteur jusqu’a entendre un clic.
+* On passe du mode bicyclette au mode vélomoteur, en abaissant le moteur jusqu’à entendre un clic.
 * Le cadre esr unisexe.
 * Les roues ont un diamètre de 650.
 * Les poignées de freins sont inversées. 
-* Le phare est au dessus du volant magnétique.
-* Le bas du garde boue arrière est orné d’un catadioptre.
+* Le phare est au-dessus du volant magnétique.
+* Le bas du garde-boue arrière est orné d’un catadioptre.
 * Le siège est suspendu sur trois ressorts.
-* Le réservoir de 1 litres permet de parcourir 100 km à 25 km/h
+* Le réservoir de 1 litre permet de parcourir 100 km à 25 km/h
 * Poids de 25 kg.
 * Le porte baggage est en tube cintré, la boite à outils à l’arrière, la pompe à droite.
 * Refait à neuf (malheureusement la peinture d’origine était irrécupérable) hormis les chromes pour l’instant.
@@ -39,14 +39,14 @@ todo
 
 # velosolex 5000
 
-Introduit en 1971, il coexiste avec le 3800. C’est la première fois que l’apparition   
-d’un modèle Solex ne provoque pas la disparition du modèle précédent. Disponible   
+Introduit en 1971, il coexiste avec le 3800. C’est la première fois que l’apparition  
+d’un modèle Solex ne provoque pas la disparition du modèle précédent. Disponible  
 en 4 couleurs (orange, bleu lagon, blanc et jaune). Le mien est devenu rouge pompier !
 
 * Petites roues (2\*16 pouces) flancs blancs.
 * les gardes boues sont en inox.
 * 
-* Le porte bagage est en alu profilé avec une pièce plastique à la fin.
+* Le porte-bagage est en alu profilé avec une pièce plastique à la fin.
 * Boite à outils sous le siège.
 * Le système de basculement du moteur est remplacé par une poignée levier.
 

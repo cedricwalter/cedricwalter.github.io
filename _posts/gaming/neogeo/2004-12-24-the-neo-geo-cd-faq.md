@@ -3,9 +3,8 @@
 title: 'The NEO GEO CD FAQ'
 date: '2004-12-24T23:03:43+01:00'
 author: 'Cédric Walter'
-
-
-
+categories:
+- gaming
 header:
   teaser: /assets/images/2009/10/snk-neo-geo-logo.png
 tags:
@@ -30,10 +29,6 @@ tags:
     - vintage
     - vintagegaming
 ---
-
-all credit to authors
-
-```
 The NEO GEO CD FAQ
 Rev. 2.0, 10-09-2004
 
@@ -653,4 +648,3 @@ You may want to check out some online stores (see 2.3) and ask for a CD
 reader unit replacement kit. Also don't forget to visit some internet
 message boards like www.neogeocd.net or www.neo-geo.com to browse for more
 info or to ask for help with system repairs.
-```

@@ -1,11 +1,11 @@
 ---
-
 title: 'The Bridge Climb is the most sought after Sydney attraction.'
 date: '2007-12-09T12:23:15+01:00'
 author: 'Cédric Walter'
 categories:
 - travel
-  header:
+
+header:
   overlay_image: assets/images/2007/12/cedricwalter-bridge-climb-sydney-2.jpg
   teaser: assets/images/2007/12/cedricwalter-bridge-climb-sydney-2.jpg
   caption: "Tasmania island"

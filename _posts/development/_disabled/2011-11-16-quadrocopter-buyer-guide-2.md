@@ -1,11 +1,7 @@
 ---
-
-title: 'QuadroCopter buyer 
+title: 'QuadroCopter buyer'
 date: '2011-11-16T22:25:09+01:00'
 author: 'Cédric Walter'
-
-
-
 header:
   teaser: /assets/images/2011/11/QuadroCopter_buyer_
 tags:

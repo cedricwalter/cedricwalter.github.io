@@ -1,19 +1,10 @@
 ---
-
-title: 'Java Coding 
+title: 'Java Coding' 
 date: '2004-08-31T22:39:25+02:00'
 author: 'Cédric Walter'
-
-
-
 tags:
 - java
 ---
-
-Â
-
-# ![](java/im/T7.gif)Java Coding 
-
 I won't give you here all explanations on how to improve your code, only some references to external ressources, a lot
 of people have done a good job (hard work, respect!). **Feel the need to improve your code**, and you will follow more
 or less the same road

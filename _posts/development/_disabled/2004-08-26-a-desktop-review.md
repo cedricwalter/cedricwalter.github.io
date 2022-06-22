@@ -281,7 +281,7 @@ printout.
 
 YAST, then dectect hardware and set a graphical resolution.
 
-![](/assets/images/2004/08/Gyro.gif) ATTENTION, always use the test button to validate any refresh rate and
+ ATTENTION, always use the test button to validate any refresh rate and
 resolution before applying changes, otherwise you may have a black screen at the next logon! If it ever happen, the only
 way is to reboot and choose “safe mode”, logging as root, go to /etc/X11 and open the file X86Config….or rename the
 previous backup done by YAST (backup named X86Config.YAST). I have also done this

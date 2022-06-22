@@ -3,12 +3,14 @@
 title: 'Neo Geo X Gold Limited Edition pre order available'
 date: '2012-10-23T20:05:17+02:00'
 author: 'Cédric Walter'
-categories:
 
+categories:
 - gaming
-  header:
-  teaser: /assets/images/2012/10/NeoGeoXGold-008.jpg
-  tags:
+
+header:
+teaser: /assets/images/2012/10/NeoGeoXGold-008.jpg
+
+tags:
 - arcade
 - Collectibles
 - games

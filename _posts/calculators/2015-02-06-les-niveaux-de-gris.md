@@ -5,6 +5,10 @@ date: '2015-02-06T09:40:17+01:00'
 author: 'Cédric Walter'
 categories:
 - calculators
+header:
+  overlay_image: /assets/images/2011/07/hewlett_packard_49g_calculator_museum_00.jpg
+  teaser: /assets/images/2011/07/hewlett_packard_49g_calculator_museum_00.jpg
+  caption: "Les niveaux de gris sur HP48"
 tags:
 - calculator
 - graphing

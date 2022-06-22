@@ -19,8 +19,8 @@ tags:
 ---
 The HP 38G is a graphing calculator for high-school math and science teachers and students. 
 
-Introduced in 1995 at $79.95, it supports aplets, small applications that can be developed as part of the curriculum and can be easily
-distributed from the teacher’s calculator to the students’. Using aplets, all the students in the classroom can have
+Introduced in 1995 at $79.95, it supports applets, small applications that can be developed as part of the curriculum and can be easily
+distributed from the teacher’s calculator to the students’. Using applets, all the students in the classroom can have
 their calculators programmed identically at the beginning of a lesson. Equations are entered using algebraic format
 rather than the Reverse Polish Notation (RPN) used by most HP calculators. (RPN is a system for representing
 mathematical expressions without the use of

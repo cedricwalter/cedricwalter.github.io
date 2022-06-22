@@ -4,10 +4,11 @@ title: 'Fetching artifact programmatically through REST/API in Nexus 3.x'
 date: '2017-05-30T10:35:23+02:00'
 author: 'Cédric Walter'
 
-
-
 header:
+overlay_image: /assets/images/2011/11/maven-logo-black-on-white-1.png
 teaser: /assets/images/2011/11/maven-logo-black-on-white-1.png
+caption: "Fetching artifact programmatically through REST/API in Nexus 3.x"
+
 tags:
 - apache
 - atlassian

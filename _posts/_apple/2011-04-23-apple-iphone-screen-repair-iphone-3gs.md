@@ -13,7 +13,7 @@ tags:
 - iphone
 ---
 
-[![apple-iphone.3gs.repair.diy](/assets/images/2011/04/apple-iphone.3gs.repair.diy_thumb.jpg "apple-iphone.3gs.repair.diy")](/assets/images/2011/04/apple-iphone.3gs.repair.diy_.jpg)
+![/assets/images/2011/04/apple-iphone.3gs.repair.diy_thumb.jpg](/assets/images/2011/04/apple-iphone.3gs.repair.diy_thumb.jpg "apple-iphone.3gs.repair.diy")](/assets/images/2011/04/apple-iphone.3gs.repair.diy_.jpg)
 
 Apple IPhone don’t fly well, and here is a picture to prove it:
 

@@ -4,10 +4,11 @@ title: git-branch-renamer-maven-plugin
 date: '2017-05-18T12:31:49+02:00'
 author: 'Cédric Walter'
 
-
-
 header:
+overlay_image: /assets/images/2011/11/maven-logo-black-on-white-1.png
 teaser: /assets/images/2011/11/maven-logo-black-on-white-1.png
+caption: "git-branch-renamer-maven-plugin"
+
 tags:
 - cedricwalter
 - changing
@@ -34,8 +35,8 @@ tags:
 
 ![](/assets/images/2017/05/apache_maven_thumb.png)
 
-When working with many feature/release/bugix/hotfix branches, it is a bad idea to start changing the pom version as this
-will create merge conflicts using pull request. this plugin allow you to keep in ALL branches the same pom version for
+When working with many feature/release/bugfix/hotfix branches, it is a bad idea to start changing the pom version as this
+will create merge conflicts using pull request. this plugin allows you to keep in ALL branches the same pom version for
 all your projects, for example MASTER-SNAPSHOT the version will be derived from branch name automagically 🙂
 
 You may want to read more first these 2 short articles
@@ -55,4 +56,4 @@ branch name `feature/xxxx`
 - `<version>0-xxxx-SNAPSHOT</version>` (forceNumericalVersion = true)
 - `<version>feature-xxxx-SNAPSHOT</version>` (filterOutBranchQualifier = false)
 
-The project is hosted at Github <https://github.com/cedricwalter/git-branch-renamer-maven-plugin>
+The project is hosted at GitHub <https://github.com/cedricwalter/git-branch-renamer-maven-plugin>

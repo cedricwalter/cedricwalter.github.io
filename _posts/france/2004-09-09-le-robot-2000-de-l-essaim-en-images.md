@@ -6,7 +6,7 @@ author: 'Cédric Walter'
 categories:
 - france
 header:
-  teaser: /assets/images/2020/04/robot-essaim-ensisa-coupe-robotique-1.jpg
+  teaser: '/assets/images/2020/04/robot-essaim-ensisa-coupe-robotique-1.jpg'
 tags:
     - Robotic
 ---

@@ -4,11 +4,11 @@ title: 'Reflexions techniques sur la coupe E=M6 1999'
 date: '2004-09-05T18:16:17+02:00'
 author: 'Cédric Walter'
 categories:
-
 - france
-  header:
-  teaser: /assets/images/2020/04/robot-essaim-ensisa-coupe-robotique-1.jpg
-  tags:
+
+header:
+  teaser: '/assets/images/2020/04/robot-essaim-ensisa-coupe-robotique-1.jpg'
+tags:
     - Robotic
 
 ---

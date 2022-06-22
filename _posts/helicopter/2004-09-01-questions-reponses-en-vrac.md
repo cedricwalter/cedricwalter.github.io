@@ -4,10 +4,13 @@ title: 'Questions/Réponses en vrac'
 date: '2004-09-01T23:33:15+02:00'
 author: 'Cédric Walter'
 
-
-
 tags:
-* 'RC helicopter'
+- 'RC helicopter'
+
+header:
+overlay_image: /assets/images/2004/09/hewlett_packard_collection_00.jpg
+teaser: /assets/images/2004/09/hewlett_packard_collection_00.jpg
+caption: 'Hewlett Packard MetaKernel unofficial site'
 ---
 
 # ![](/assets/images/2004/08/rondBleu.gif) A mettre sur un Tee Shirt, bestof des questions pas forcément idiotes:

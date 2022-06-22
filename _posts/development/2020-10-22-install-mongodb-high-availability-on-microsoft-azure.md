@@ -4,10 +4,6 @@ title: 'Install MongoDB High Availability on Microsoft Azure'
 date: '2020-10-22T22:28:08+02:00'
 author: 'Cédric Walter'
 
-
-
-
-    
 header:
   teaser: /assets/images/2020/10/mongodb.png
 tags:

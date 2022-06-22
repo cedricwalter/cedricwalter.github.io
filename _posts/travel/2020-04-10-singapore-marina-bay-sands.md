@@ -13,25 +13,25 @@ header:
 
 gallery:
 - url: /assets/images/2020/04/singapore-marina-bay-sands-13.jpg
-  image_path: /assets/images/2020/04/singapore-marina-bay-sands-13.jpg)<figcaption class="blocks-gallery-item__caption">Singapore Marian bay Sands</figcaption>
+  image_path: /assets/images/2020/04/singapore-marina-bay-sands-13.jpg)
 - url: /assets/images/2020/04/singapore-marina-bay-sands-4.jpg
-  image_path: /assets/images/2020/04/singapore-marina-bay-sands-4.jpg)<figcaption class="blocks-gallery-item__caption">Singapore Marian bay Sands</figcaption>
+  image_path: /assets/images/2020/04/singapore-marina-bay-sands-4.jpg)
 - url: /assets/images/2020/04/singapore-marina-bay-sands-5.jpg
-  image_path: /assets/images/2020/04/singapore-marina-bay-sands-5.jpg)<figcaption class="blocks-gallery-item__caption">Singapore Marian bay Sands</figcaption>
+  image_path: /assets/images/2020/04/singapore-marina-bay-sands-5.jpg)
 - url: /assets/images/2020/04/singapore-marina-bay-sands-6.jpg
-  image_path: /assets/images/2020/04/singapore-marina-bay-sands-6.jpg)<figcaption class="blocks-gallery-item__caption">Singapore Marian bay Sands</figcaption>
+  image_path: /assets/images/2020/04/singapore-marina-bay-sands-6.jpg)
 - url: /assets/images/2020/04/singapore-marina-bay-sands-7.jpg
-  image_path: /assets/images/2020/04/singapore-marina-bay-sands-7.jpg)<figcaption class="blocks-gallery-item__caption">Singapore Marian bay Sands</figcaption>
+  image_path: /assets/images/2020/04/singapore-marina-bay-sands-7.jpg)
 - url: /assets/images/2020/04/singapore-marina-bay-sands-8.jpg
-  image_path: /assets/images/2020/04/singapore-marina-bay-sands-8.jpg)<figcaption class="blocks-gallery-item__caption">Singapore Marian bay Sands</figcaption>
+  image_path: /assets/images/2020/04/singapore-marina-bay-sands-8.jpg)
 - url: /assets/images/2020/04/singapore-marina-bay-sands-9.jpg
-  image_path: /assets/images/2020/04/singapore-marina-bay-sands-9.jpg)<figcaption class="blocks-gallery-item__caption">Singapore Marian bay Sands</figcaption>
+  image_path: /assets/images/2020/04/singapore-marina-bay-sands-9.jpg)
 - url: /assets/images/2020/04/singapore-marina-bay-sands-10.jpg
-  image_path: /assets/images/2020/04/singapore-marina-bay-sands-10.jpg)<figcaption class="blocks-gallery-item__caption">Singapore Marian bay Sands</figcaption>
+  image_path: /assets/images/2020/04/singapore-marina-bay-sands-10.jpg)
 - url: /assets/images/2020/04/singapore-marina-bay-sands-11.jpg
-  image_path: /assets/images/2020/04/singapore-marina-bay-sands-11.jpg)<figcaption class="blocks-gallery-item__caption">Singapore Marian bay Sands</figcaption>
+  image_path: /assets/images/2020/04/singapore-marina-bay-sands-11.jpg)
 - url: /assets/images/2020/04/singapore-marina-bay-sands-12.jpg
-  image_path: /assets/images/2020/04/singapore-marina-bay-sands-12.jpg)<figcaption class="blocks-gallery-item__caption">Singapore Marian bay Sands</figcaption>
+  image_path: /assets/images/2020/04/singapore-marina-bay-sands-12.jpg)
 
 
 tags:

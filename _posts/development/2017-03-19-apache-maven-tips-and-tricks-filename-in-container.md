@@ -4,10 +4,10 @@ title: 'Apache Maven tips and tricks: war plugin vs assembly plugin'
 date: '2017-03-19T08:51:50+01:00'
 author: 'Cédric Walter'
 
-
-
 header:
+overlay_image: /assets/images/2011/11/maven-logo-black-on-white-1.png
 teaser: /assets/images/2011/11/maven-logo-black-on-white-1.png
+caption: "git-branch-renamer-maven-plugin"
 tags:
 - apache
 - code

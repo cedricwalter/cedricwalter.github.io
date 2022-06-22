@@ -5,7 +5,10 @@ date: '2019-09-02T14:02:00+02:00'
 author: 'Cédric Walter'
 
 header:
+overlay_image: /assets/images/2017/04/git-logo.jpg
 teaser: /assets/images/2017/04/git-logo.jpg
+caption: "A git workflow that is easy and scale for product development"
+
 tags:
 - bugs
 - centralized

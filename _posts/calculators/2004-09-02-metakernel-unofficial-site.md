@@ -5,8 +5,10 @@ date: '2004-09-02T22:17:53+02:00'
 author: 'Cédric Walter'
 categories:
 - calculators
- header:
-  teaser: /assets/images/2004/09/hewlett_packard_collection_00.jpg
+header:
+ overlay_image: /assets/images/2004/09/hewlett_packard_collection_00.jpg
+ teaser: /assets/images/2004/09/hewlett_packard_collection_00.jpg
+ caption: 'Hewlett Packard MetaKernel unofficial site'
 tags:
     - calculator
     - hewlettpackard

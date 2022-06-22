@@ -40,9 +40,9 @@ To switch these patches ON/Off, go to the Global Configuration page as seen in t
 
 You want to customize the error message? then edit the file language\\en-GB\\en-GB.com\_user.ini and change the key
 
-<font face="Courier New" size="2">SECURITYIMAGES REJECT USER ENTRY=Invalid Captcha word, Please enter the correct value you see in picture
+SECURITYIMAGES REJECT USER ENTRY=Invalid Captcha word, Please enter the correct value you see in picture
 
-<font face="Courier New" size="2">SECURITYIMAGES LABEL=Anti-spamming protection:
+SECURITYIMAGES LABEL=Anti-spamming protection:
 
 ## Contact section
 

@@ -20,9 +20,9 @@ Also running on my Homepage…
 
 [![guestbookOnMySite](/assets/images/2008/09/guestbookOnMySite_thumb.png)](/assets/images/2008/09/guestbookOnMySite.png)
 
-<font color="#c0c0c0">I am currently developing this release due to many requests in the forum. 
+I am currently developing this release due to many requests in the forum. 
 
-<font color="#c0c0c0">UPDATE1: wont be release today (tonight for me, it is already 23:30PM GMT+1), still testing, you [<font color="#c0c0c0">can apply as a beta tester by contacting me HERE](http://www.waltercedric.com/-contact-me.html)<font color="#c0c0c0">   
+UPDATE1: wont be release today (tonight for me, it is already 23:30PM GMT+1), still testing, you [can apply as a beta tester by contacting me HERE](http://www.waltercedric.com/-contact-me.html)   
 Small change request can always be integrated, please use my forum and create a new thread in the right section
 
 # What’s new?

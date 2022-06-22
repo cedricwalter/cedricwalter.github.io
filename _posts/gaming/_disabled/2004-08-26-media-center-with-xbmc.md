@@ -25,7 +25,7 @@ It is strictly forbidden to modify your xBox, sell or install mods chip in franc
 
 <font color="#40ab3d" face="Arial Black" size="4">![xboxIcon](/assets/images/2004/08/x.gif) <font color="#40ab3d" face="Arial Black" size="3">What does XBMC do?
 
-[<font color="#ff0000" size="2">http://www.xboxmediacenter.com/info\_project.htm](http://www.xboxmediacenter.com/info_project.htm)<font color="#ff0000" size="2"> 
+[http://www.xboxmediacenter.com/info\_project.htm](http://www.xboxmediacenter.com/info_project.htm) 
 
 <font color="#40ab3d" face="Arial Black" size="4">![xboxIcon](/assets/images/2004/08/x.gif) <font color="#40ab3d" face="Arial Black" size="3">Process
 
@@ -166,7 +166,7 @@ Reboot
 
 | # **You have now:** |
 |---|
-| \| C: \| As before, partition where the XBOX operating system is \| \| # D: \| DVD drive \| \| # E: \| Game save, original dashboard music and all third party applications: dvd reader, ftp, many players, some emulators (5Gb) \| \| # F: \| If you have a disk bigger than 4Gb you will have some space to store Linux for example \| \| # G: \| <font color="#000000" size="2">Available if you have a disk bigger than 120Gb \| \| # X: \| Internal cache (768Mb) \| \| # Y: \| Internal cache (768Mb) \| \| # Z: \| <font color="#000000" size="2">Internal cache (768Mb) \|   |
+| \| C: \| As before, partition where the XBOX operating system is \| \| # D: \| DVD drive \| \| # E: \| Game save, original dashboard music and all third party applications: dvd reader, ftp, many players, some emulators (5Gb) \| \| # F: \| If you have a disk bigger than 4Gb you will have some space to store Linux for example \| \| # G: \| Available if you have a disk bigger than 120Gb \| \| # X: \| Internal cache (768Mb) \| \| # Y: \| Internal cache (768Mb) \| \| # Z: \| Internal cache (768Mb) \|   |
 |---|
 
 If You want that Avalaunch display your BIOS version in the first page,   
@@ -380,10 +380,10 @@ Here are some very good tutorials:
 
 <font color="#40ab3d" face="Arial Black" size="4">![xboxIcon](/assets/images/2004/08/x.gif) 15. Frequently asked questions ![](/assets/images/2004/08/smallnew.gif)
 
-# I’ve load a bad/corrupt skins and can not change it in the graphical user interface of XBMC!** Search in <font face="Courier New" size="2">E:/TDATA/ in all directories for a file <font face="Courier New" size="2">settings.xml (on mine Xbox it was in <font face="Courier New" size="2">E:/TDATA/0face008) and edit this file
+# I’ve load a bad/corrupt skins and can not change it in the graphical user interface of XBMC!** Search in E:/TDATA/ in all directories for a file settings.xml (on mine Xbox it was in E:/TDATA/0face008) and edit this file
 
-<font face="Courier New" size="2"><general></general>  
-<skin></skin><font color="#ff0000" face="Courier New" size="2">MayhemWidescreen<font face="Courier New" size="2">  
+<general></general>  
+<skin></skin><font color="#ff0000" face="Courier New" size="2">MayhemWidescreen  
 <timeserver></timeserver>true  
 <ftpserver></ftpserver>true
 

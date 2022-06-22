@@ -18,7 +18,7 @@ As it was difficult to find the package 1.0.11 to 1.0.15 since [Joomla Code is n
 
 ## I’ve decided to open my own #Joomla! mirror
 
-## [<font size="6">http://mirror.waltercedric.com/](http://mirror.waltercedric.com/)
+## [http://mirror.waltercedric.com/](http://mirror.waltercedric.com/)
 
 It contains all versions of #Joomla! since the beginning… 450Mb of files
 

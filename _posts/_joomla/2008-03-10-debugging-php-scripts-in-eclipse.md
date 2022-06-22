@@ -66,7 +66,7 @@ Ex:
 
 And add these line in one of these files according to your PHP version
 
-<font face="Courier New" size="2">extension\_dir = "xampp\_path/php/ext"   
+extension\_dir = "xampp\_path/php/ext"   
 extension="xampp\_path/php/ext/php\_mysql.dll"   
 extension="xampp\_path/php/ext/php\_mysqli.dll"   
 include\_path =".;xampp\_path/php;"

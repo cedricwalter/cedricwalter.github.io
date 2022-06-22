@@ -32,14 +32,14 @@ The Ligurian coast between Cinque Terre and Portovenere is a cultural landscape 
 - [![](/assets/images/2020/04/italy-portovenere-11.jpg)](/assets/images/2020/04/italy-portovenere-11.jpg)<figcaption class="blocks-gallery-item__caption">In 1256 ad. The Genoese built the church over the early Christian temple, to thank the inhabitants of Porto Venere for their help in taking Lerici castle.</figcaption>
 - [![](/assets/images/2020/04/italy-portovenere-01.jpg)](/assets/images/2020/04/italy-portovenere-01.jpg)
 
-<span style="font-size: xx-large;">  
-In front of Cape San Pietro there are Palmaria island and the islands of Tino and Tinetto, originally linked to the mainland
+In front of Cape San Pietro there are Palmaria island and the islands of Tino and Tinetto, originally linked to the
+mainland
 
 Portovenere was an important military base first under the Roman domination, then under the Bizantini.
 
 [History of portovenere](http://www.lasprugola.com/portovenerenglish.htm)
 
-## <span style="font-size: large;">Visiting Portovenere
+## Visiting Portovenere
 
 - Museums: 
     - ANTIQUARIUM DELLA VILLA ROMANA DEL VARIGNANO

@@ -25,7 +25,7 @@ Wink is a Tutorial and Presentation creation software, primarily aimed at creati
 
 Carbon Viewlet being too expensive: 200$ right now for my usagebut if someone has a licence to offer me 😉
 
-The video is [here GO for OpenComment video](/dmdocuments/opencommentWink.htm) <font size="6"> (a little bit rough for 300kB, but the WOW effect should be here)
+The video is [here GO for OpenComment video](/dmdocuments/opencommentWink.htm)  (a little bit rough for 300kB, but the WOW effect should be here)
 
 - All operation are done WITHOUT reloading the whole page,
 - This thing is lightning fast

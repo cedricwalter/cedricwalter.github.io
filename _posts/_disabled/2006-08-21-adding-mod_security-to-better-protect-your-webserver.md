@@ -31,8 +31,8 @@ and compile the module with:
 
   First problem that may occur is the absence of
 
--Gcc: <font size="-1">The GNU Compiler Collection (usually shortened to GCC) is a set of programming language compilers produced by the GNU Project. It is free software distributed by the Free Software Foundation (FSF) under the GNU GPL, and is a key component of the GNU toolchain. It is the standard compiler for the open source Unix-like operating systems, and certain proprietary operating systems derived therefrom such as Mac OS X. \[[WikiPedia](http://en.wikipedia.org/wiki/Gcc)\]
--apache-dev: contains the <font size="-1">apxs tool, and required pache heder to compile a module
+-Gcc: The GNU Compiler Collection (usually shortened to GCC) is a set of programming language compilers produced by the GNU Project. It is free software distributed by the Free Software Foundation (FSF) under the GNU GPL, and is a key component of the GNU toolchain. It is the standard compiler for the open source Unix-like operating systems, and certain proprietary operating systems derived therefrom such as Mac OS X. \[[WikiPedia](http://en.wikipedia.org/wiki/Gcc)\]
+-apache-dev: contains the apxs tool, and required pache heder to compile a module
 
 Both can be installed via YaST2…
 

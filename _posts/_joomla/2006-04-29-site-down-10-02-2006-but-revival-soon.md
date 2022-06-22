@@ -17,8 +17,8 @@ tags:
 <small>Hosting</small><span>  
 
 
-- <font face="Arial" size="4"><span>Shri <span>(Hong Kong) <font face="Arial" size="4">from [you-review.net](http://www.you-review.net/) <font face="Arial" size="4">has offered me to host my site on a dual xeon 2GB RAM (the same machine which is hosting [www.rubix-linux.org](http://www.rubix-linux.org) and [you-review.net](http://www.you-review.net/)<font face="Arial" size="4">). 
-- <font face="Arial" size="4"><span>My friends <font face="Arial" size="4">at [*<font color="blue" size="4">THE xDreamTeam*](http://www.xdreamteam.ch/index.php) (CH) <span>which offered me to take a part of their [server MR2](http://www.strato.de/server/highend/index.html)<span> at [www.strato.de](http://www.strato.de/)<span> (root access) 
+- <span>Shri <span>(Hong Kong) from [you-review.net](http://www.you-review.net/) has offered me to host my site on a dual xeon 2GB RAM (the same machine which is hosting [www.rubix-linux.org](http://www.rubix-linux.org) and [you-review.net](http://www.you-review.net/)). 
+- <span>My friends at [*<font color="blue" size="4">THE xDreamTeam*](http://www.xdreamteam.ch/index.php) (CH) <span>which offered me to take a part of their [server MR2](http://www.strato.de/server/highend/index.html)<span> at [www.strato.de](http://www.strato.de/)<span> (root access) 
 - ```
     Gary Reid (UK-USA)- <a href="http://theventurekit.com">The Venture Kit</a><span> - has offered me one of his shared servers I get sorted out
 

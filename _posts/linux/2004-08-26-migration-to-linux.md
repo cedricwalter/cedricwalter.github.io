@@ -12,7 +12,7 @@ header:
 
 What a windows users do need to install or use in SUSE 9 to complete the same tasks he get use to in Windows?. What were the difficulties encountered and what are the potential weakness of SuSE 9 distribution?
 
-## <font face="Arial Black" size="7">Migration to linux
+## Migration to linux
 
 ## Round 2
 
@@ -48,23 +48,23 @@ What a windows users do need to install or use in SUSE 9 to complete the same ta
 
 ## <font face="Arial Black" size="4">Evening 1
 
-# Note** all these screenshot has been done with <font face="Courier New" size="2">KSnapshot, finding this application was quite easy even if the menu contains a lot of entries, you can locate it under <font face="Courier New" size="2">**Utilities – Desktop – KSnapshot**. I must admit that due to the huge number of shipped applications, SUSE has done a good sorting job in this menu. Of course you must know what you want to start or which task you want to accomplish
+# Note** all these screenshot has been done with KSnapshot, finding this application was quite easy even if the menu contains a lot of entries, you can locate it under **Utilities – Desktop – KSnapshot**. I must admit that due to the huge number of shipped applications, SUSE has done a good sorting job in this menu. Of course you must know what you want to start or which task you want to accomplish
 
-![menusSortingPerfect.gif](/assets/images/2004/08/tn_menusSortingPerfect.jpg)Regret I browse thee documentation of <font face="Courier New" size="2">KSnapshot and did not find any shortcuts/hotkey to trigger the screenshot….Naivement, I ‘ve try the magic windows key combination, <font face="Courier New" size="2">ALT-PRTSC or <font face="Courier New" size="2">PRTSC, but it does not work….so I decide then to search on [google](http://www.google.com/)….”<font face="Courier New" size="2">ksnapshot shortcut” give me the answer, <font face="Courier New" size="2">CTRL-SHIFT-S which is documented in a “KDE-cvs-digest” as a “backdoor”. I see here a documentation potential 🙂
+![menusSortingPerfect.gif](/assets/images/2004/08/tn_menusSortingPerfect.jpg)Regret I browse thee documentation of KSnapshot and did not find any shortcuts/hotkey to trigger the screenshot….Naivement, I ‘ve try the magic windows key combination, ALT-PRTSC or PRTSC, but it does not work….so I decide then to search on [google](http://www.google.com/)….”ksnapshot shortcut” give me the answer, CTRL-SHIFT-S which is documented in a “KDE-cvs-digest” as a “backdoor”. I see here a documentation potential 🙂
 
 ## Setting the resolution of screen
 
-YAST require to switch to root mode, I was quite impressed by the list of available monitor driver (I have a Syncmaster Samsung 191N) but sad when I saw, it was not in the list (the 181 is), I decide to browse through the list of available brand searching for a generic driver like in windows advance control panel, Bingo there is a “<font face="Courier New" size="2">**->LCD**” monitor section, restart the desktop engine (X server) by logging out and I am done. It seem that there is till now always a solution, all you have to do is to search a little bit which is also good too because you can only be a better user…
+YAST require to switch to root mode, I was quite impressed by the list of available monitor driver (I have a Syncmaster Samsung 191N) but sad when I saw, it was not in the list (the 181 is), I decide to browse through the list of available brand searching for a generic driver like in windows advance control panel, Bingo there is a “**->LCD**” monitor section, restart the desktop engine (X server) by logging out and I am done. It seem that there is till now always a solution, all you have to do is to search a little bit which is also good too because you can only be a better user…
 
-![yastSettingMonitor.gif](/assets/images/2004/08/tn_yastSettingMonitor.jpg)Since I have installed SUSE in a multi boot system, in <font face="Courier New" size="2">Kexplorer (both a browser and a file manager and…see section below) all windows drive are not visible in the /<font face="Courier New" size="2">mount directory like on any linux system but grouped in a /<font face="Courier New" size="2">windows/ This disturb me 10s but I find it.
+![yastSettingMonitor.gif](/assets/images/2004/08/tn_yastSettingMonitor.jpg)Since I have installed SUSE in a multi boot system, in Kexplorer (both a browser and a file manager and…see section below) all windows drive are not visible in the /mount directory like on any linux system but grouped in a /windows/ This disturb me 10s but I find it.
 
 As default **you can not write on NTFS drive** (Note kernel 2.6 should support full read/write operation on NTFS), so I decide to activate this feature since everywhere on internet, you can read that SUSE 9.0 support it (SUSE bring some new features from kernel 2.6 back to 2.4.21 like 64-bit support, journaling file system, improve security, low latence of scheduling, power management for notebook and improvment in the sound-system architecture. Trying to be a good user, I start the SUSE helpCenter and search for an article which speak of NTFS..
 
-![helCenter.gif](/assets/images/2004/08/tn_helCenter.jpg)I have found only recommendation for resizing or formatting the system during the installation of SUSE. One solution among others is to move all data from NTFS drive (full NTFS read support) to a #Linux space then format back to FAT32….Operation done with <font face="Courier New" size="2">Konqueror, the file manager. I already mention that I prefer to have a clone of Norton Commander.
+![helCenter.gif](/assets/images/2004/08/tn_helCenter.jpg)I have found only recommendation for resizing or formatting the system during the installation of SUSE. One solution among others is to move all data from NTFS drive (full NTFS read support) to a #Linux space then format back to FAT32….Operation done with Konqueror, the file manager. I already mention that I prefer to have a clone of Norton Commander.
 
 ## **Java support**
 
-<font face="Courier New" size="2">Konqueror the default internet browser fully support #Java, but it was not the case of the third party browser [Opera](http://www.opera.com/) I’ve installed or better said, Opera did not locate correctly the default JRE (Java Runtime Environment), so I need the feel to install the latest #Java VM manually. Checking <font face="Courier New" size="2">Konqueror settings shows that java is installed in <font face="Courier New" size="2">/usr/lib/java2/bin/java
+Konqueror the default internet browser fully support #Java, but it was not the case of the third party browser [Opera](http://www.opera.com/) I’ve installed or better said, Opera did not locate correctly the default JRE (Java Runtime Environment), so I need the feel to install the latest #Java VM manually. Checking Konqueror settings shows that java is installed in /usr/lib/java2/bin/java
 
 ![installingJava.gif](/assets/images/2004/08/tn_installingJava.jpg)Go to [www.java.com](http://www.java.com/) and download the self installer (2 links are provided a .bin and a .rpm and both are self extracting, confusing….), I choose the .bin file and that force me to set attribute of file to executable (right click on file then properties) to uncompress the .bin
 
@@ -72,17 +72,17 @@ In Linux world, a file can only be execute if it has it X flag set to 1 User is 
 
 You get a file with an extension .rpm, many alternatives, choose one of the 3 below you prefer.
 
-1. Open a Terminal, log a root (type <font face="Courier New" size="2">\# su ) then type <font face="Courier New" size="2">\# rpm -iv filename
-2. You can use <font face="Courier New" size="2">Konqueror and right click open with…<font face="Courier New" size="2">Kpackage, a small utilities, then enter root password.
-3. You can use <font face="Courier New" size="2">Konqueror and click directly on the rmp and YaST wll start up.
+1. Open a Terminal, log a root (type \# su ) then type \# rpm -iv filename
+2. You can use Konqueror and right click open with…Kpackage, a small utilities, then enter root password.
+3. You can use Konqueror and click directly on the rmp and YaST wll start up.
 
-Anyway, I choose one and continue my tour….In opera I set in <font face="Courier New" size="2">**preferences – Multimedia- #Java Path** to <font face="Courier New" size="2">/usr/lib/SunJava2-1.4.2/jre/lib/i386#  and then my java appear on my homepage, done
+Anyway, I choose one and continue my tour….In opera I set in **preferences – Multimedia- #Java Path** to /usr/lib/SunJava2-1.4.2/jre/lib/i386#  and then my java appear on my homepage, done
 
 ## <font face="Arial Black" size="4">Online Update 
 
-are done through ….YaST of course,(YaST I am know getting used to that name), <font face="Courier New" size="2">**software – online update** to get the latest recommended patches and security fixes from one of the available SUSE server. 15 servers are installed: 13 are located in Europe and 1 in USA. The late# st server is a free choice, you can also define Your own server. I choose 3 differents servers (primary in Germany) and all were working.
+are done through ….YaST of course,(YaST I am know getting used to that name), **software – online update** to get the latest recommended patches and security fixes from one of the available SUSE server. 15 servers are installed: 13 are located in Europe and 1 in USA. The late# st server is a free choice, you can also define Your own server. I choose 3 differents servers (primary in Germany) and all were working.
 
-![yastOnlineUpdate.gif](/assets/images/2004/08/tn_yastOnlineUpdate.jpg)![onlineUpdateYast.gif](/assets/images/2004/08/tn_onlineUpdateYast.jpg)Another way to be always informed about the status of possible update is to look at the <font face="Courier New" size="2">SuseWatcher icon in the system tray, identic to the windows update icon. The icon color can change if something is available on the server.
+![yastOnlineUpdate.gif](/assets/images/2004/08/tn_yastOnlineUpdate.jpg)![onlineUpdateYast.gif](/assets/images/2004/08/tn_onlineUpdateYast.jpg)Another way to be always informed about the status of possible update is to look at the SuseWatcher icon in the system tray, identic to the windows update icon. The icon color can change if something is available on the server.
 
 ![susewatcher.gif](/assets/images/2004/08/tn_susewatcher.jpg)## Internet browsing
 
@@ -90,27 +90,27 @@ I like Opera so much that I have acquire a licence (previously for Windows and n
 
 ## Instant messaging
 
-Under <font face="Courier New" size="2">**internet – Chat** You can find a lot of tools installed as default like:
+Under **internet – Chat** You can find a lot of tools installed as default like:
 
-- <font face="Courier New" size="2">Gaim,Kopete, gnomeICU which are multi protocol instant messaging, (I decide to choose <font face="Courier New" size="2">Kopete, but I will try all others in the future)
+- Gaim,Kopete, gnomeICU which are multi protocol instant messaging, (I decide to choose Kopete, but I will try all others in the future)
 - Or some specifics application related to specific protocol: 
-    - <font face="Courier New" size="2">KVIrc, KSirc, XChat IRC (IRC)
-    - <font face="Courier New" size="2">KXicq2 (ICQ)
-    - others <font face="Courier New" size="2">Kinkatta, Kit, Konversation
+    - KVIrc, KSirc, XChat IRC (IRC)
+    - KXicq2 (ICQ)
+    - others Kinkatta, Kit, Konversation
 
-With <font face="Courier New" size="2">Kopete, I was able to define ICQ, MSN, Jabber in less than 5 minutes without knowing the GUI at all! really impressive (If you can do it in windows, you can do it in Suse is now my new motto!), I am still trying to customize the GUI (like in my windows IM [www.miranda-im.org](http://www.miranda-im.org/)) because I find that <font face="Courier New" size="2">Kopete take too much desktop space.
+With Kopete, I was able to define ICQ, MSN, Jabber in less than 5 minutes without knowing the GUI at all! really impressive (If you can do it in windows, you can do it in Suse is now my new motto!), I am still trying to customize the GUI (like in my windows IM [www.miranda-im.org](http://www.miranda-im.org/)) because I find that Kopete take too much desktop space.
 
 ![instantMessaging.gif](/assets/images/2004/08/tn_instantMessaging.jpg)A set of interesting plugin is provided as default: encryption, emoticons, history of messages, web presence (upload your IM status to a homepage or a server)…A lot of features, but Webcam and Whiteboard capabilities are still missing. For sure there will be a plugin soon or at least a GNU tool for this somewhere in SUSE
 
-![instantMessagingPlugins.gif](/assets/images/2004/08/tn_instantMessagingPlugins.jpg)For me, Instant Messaging is ok and I can live with <font face="Courier New" size="2">Kopete.
+![instantMessagingPlugins.gif](/assets/images/2004/08/tn_instantMessagingPlugins.jpg)For me, Instant Messaging is ok and I can live with Kopete.
 
 ## Mp3 and audio content.
 
-Using <font face="Courier New" size="2">Konqueror, I try to locate my favorites MP3 directory in order to launch some MP3, <font face="Courier New" size="2">XMMS start as default, I’ve heard that this player is quite good, the default skins is based on SUSE colors, mainly green with a chameleon (see pic), This skins is acceptable for a user but not for someone who has already use Winamp’s MMd3 or EMP skin (but this is personal). I take google to see if there is something else to download, official homepage is here .<http://www.xmms.org/skins.php> but skins section is down (after a disk crash but it will reopen). Winamp skins seems to be incompatible with <font face="Courier New Baltic" size="2">XMMS and there is no converter available
+Using Konqueror, I try to locate my favorites MP3 directory in order to launch some MP3, XMMS start as default, I’ve heard that this player is quite good, the default skins is based on SUSE colors, mainly green with a chameleon (see pic), This skins is acceptable for a user but not for someone who has already use Winamp’s MMd3 or EMP skin (but this is personal). I take google to see if there is something else to download, official homepage is here .<http://www.xmms.org/skins.php> but skins section is down (after a disk crash but it will reopen). Winamp skins seems to be incompatible with <font face="Courier New Baltic" size="2">XMMS and there is no converter available
 
 ## Viewing file using Konqueror
 
-<font face="Courier New" size="2">Konqueror is the default file manager and web browser, It is a central application in all KDE desktop. It has a lot of functionnalities (some people may say too much), and its own control panel.   
+Konqueror is the default file manager and web browser, It is a central application in all KDE desktop. It has a lot of functionnalities (some people may say too much), and its own control panel.   
  Viewing pictures with it is “slow” (dir has 26 pictures, mean size is 80kb) and it took several seconds (I am not comparing to Windows thumbnails feature, but with ACDsee). Entering twice in the directory do not create additional performance loss, since images are cached (default cache size is set to 1Mb) Windows, ACDsee and others tools use the same tricks.
 
 Hovering over pictures and files create a autozoom…this is a nice features (working with txt file, configuraton, pdf) and is fast, during the build of a directory, the auto zooming display some strange result (especially if you have different file type like pdf, txt, jpg all together in one directory), but it is working and has not crash during the past 10 days (I must be lucky some people will say)
@@ -118,12 +118,12 @@ Hovering over pictures and files create a autozoom…this is a nice features (wo
 Contextual menu, Hovering over images, Hovering on file, Konqueror settings, hierarchical panel  
 due to huge number of options
 
-- I still prefer a Norton Commander (because of the dual panel), so I am hunting on internet and found <font face="Courier New" size="2">XNC 5.0 but no precompiled rpm for SUSE. this oblige me to compile the source code…
+- I still prefer a Norton Commander (because of the dual panel), so I am hunting on internet and found XNC 5.0 but no precompiled rpm for SUSE. this oblige me to compile the source code…
 - Path to file is difficult to keep in mind (mainly because there is no more drive letter, I only need some practice…), but you can define favorites
 
 # XNC is also downloable for SuSe 9.0 here :** [**xnc-5.0.4-1.i586.suse9.0.rpm**](images/pc/suse/download/xnc-5.0.4-1.i586.suse9.0.rpm)
 
-# Midnight Commander** is a clone of Norton Commander running in a terminal (just type <font face="Courier New" size="2">mc)
+# Midnight Commander** is a clone of Norton Commander running in a terminal (just type mc)
 
 ![mcommander.png](/assets/images/2004/08/tn_mcommander.jpg)## Krusader
 
@@ -135,16 +135,16 @@ I am using it every day, and it is probably the one which has the better GUI
 
 ## USB support (Key)
 
-I mount a USB Key brand <font face="Courier New" size="2">Apacer AP-MKSRU10 # (impossible to find a picture on internet, very cheap version 8â?¬) which use [Sony Memory Stick](http://www.memorystick.com/) , after a beep, the drive was recognized and in use. An icons was created on the desktop. The beep is immediate but it take sometimes several seconds till the removable drive is recognized. No problems transfer rates seem to be exactly the same as under Windows 2000.
+I mount a USB Key brand Apacer AP-MKSRU10 # (impossible to find a picture on internet, very cheap version 8â?¬) which use [Sony Memory Stick](http://www.memorystick.com/) , after a beep, the drive was recognized and in use. An icons was created on the desktop. The beep is immediate but it take sometimes several seconds till the removable drive is recognized. No problems transfer rates seem to be exactly the same as under Windows 2000.
 
 ## <font face="Arial Black" size="4">Evening 2
 
 ### Security, password policy, settings and firewall
 
 - Can be done in YaST, all setting are always done with th help of assistants, a meaninful documentation is always displayed on the left. No need to push a button or to hover on some part of the GUI like in Windows control panel.
-- NAT (<font face="Courier New" size="2">Network Adress Translation) which consist of hiding the real internet adresses of your machine by hiding it behind the firewall adress is supported and with only a checkbox
+- NAT (Network Adress Translation) which consist of hiding the real internet adresses of your machine by hiding it behind the firewall adress is supported and with only a checkbox
 - You can block some #Linux services (Webserver, Mail Server) or define your own.
-- I am still searching in the YaST GUI for port forwarding capabilities and firewall rules (TCP-UDP and direction). It seems that you must deal with the config file of the firewall directly. (<font face="Courier New" size="2">/etc/sysconfig/SuSEfirewall2)
+- I am still searching in the YaST GUI for port forwarding capabilities and firewall rules (TCP-UDP and direction). It seems that you must deal with the config file of the firewall directly. (/etc/sysconfig/SuSEfirewall2)
 
 Even if the first part of the setting is done with an assistant, I think that SuSE need to enhance the configuration of it’s firewall. I do not want to dedicate a machine for running my firewall even if it is does not give the same security. My router is a Netgear 614 without firewall, but my other PC use a Netgear 634g which has one…
 
@@ -290,12 +290,12 @@ Burning CD tools can be found under Multimedia – CD/DVD Burning. 2 software ar
 
 | [<font face="Verdana, Arial, Helvetica, Sans-Serif" size="1">![burnincd.gif](/assets/images/2004/08/tn_burnincd.jpg)](/assets/images/2004/08/burnincd.gif) | [<font face="Verdana, Arial, Helvetica, Sans-Serif" size="1">![burnincd2.gif](/assets/images/2004/08/tn_burnincd2.jpg)](/assets/images/2004/08/burnincd2.gif) | [<font face="Verdana, Arial, Helvetica, Sans-Serif" size="1">![burnincd3.gif](/assets/images/2004/08/tn_burnincd3.jpg)](/assets/images/2004/08/burnincd3.gif) | [<font face="Verdana, Arial, Helvetica, Sans-Serif" size="1">![burnincd4.gif](/assets/images/2004/08/tn_burnincd4.jpg)](/assets/images/2004/08/burnincd4.gif) |  |
 |---|---|---|---|---|
-| 1. Starting K3b | 2. use the assistant, here I select    Create a Data CD | 3. Use the file explorer to locate file you want to burn - Windows drive (NTFS – FAT32) are located in <font face="Courier New" size="2">/windows/ - You can give a name to your compilation, right click rename on the root.. - The space left and consume on CD disk is displayed like in any burning software. - The GUI is very similar to EasyCD creator | 4 click burn and choose burning options - Speed (I have a 16X) but only 14X is available - Writing mode: DAO, TAO, RAW - Type of session - Volume CD-Test - and filesystems and misc options.  I do not see any options missing, except an assistant for some protections schemes….(Securoom, Safedisk) |  |
+| 1. Starting K3b | 2. use the assistant, here I select    Create a Data CD | 3. Use the file explorer to locate file you want to burn - Windows drive (NTFS – FAT32) are located in /windows/ - You can give a name to your compilation, right click rename on the root.. - The space left and consume on CD disk is displayed like in any burning software. - The GUI is very similar to EasyCD creator | 4 click burn and choose burning options - Speed (I have a 16X) but only 14X is available - Writing mode: DAO, TAO, RAW - Type of session - Volume CD-Test - and filesystems and misc options.  I do not see any options missing, except an assistant for some protections schemes….(Securoom, Safedisk) |  |
 | [<font face="Verdana, Arial, Helvetica, Sans-Serif" size="1">![burnincd5.gif](/assets/images/2004/08/tn_burnincd5.jpg)](/assets/images/2004/08/burnincd5.gif) | [<font face="Verdana, Arial, Helvetica, Sans-Serif" size="1">![burnincd6.gif](/assets/images/2004/08/tn_burnincd6.jpg)](/assets/images/2004/08/burnincd6.gif) |  | [<font face="Verdana, Arial, Helvetica, Sans-Serif" size="1">![burnincd7.gif](/assets/images/2004/08/tn_burnincd7.jpg)](/assets/images/2004/08/burnincd7.gif) |  |
-| Burning took 4:30 minutes for 594MB and mean speed was 12X | If you want to create an audio CD - You can not directly use mp3 files but need to convert them back to wav with winamp for example. - You can also right click on a file and play it. | In the menu <font face="Courier New" size="2">**tools**: - CD-RW are supported (with Erase support of course) - Copy CD or Clone CD - Burn image ISO, BIN and CUE: CCD are missing. - Copy DVD, format DVD-RW, Burn ISO image… | **Control panel**- It support plugins, only 3 are installed: mainly Audio Decoder and Audio Encoder and external programs to work properly. Highly extensible design is always good. - The control panel follow the same clarity 
+| Burning took 4:30 minutes for 594MB and mean speed was 12X | If you want to create an audio CD - You can not directly use mp3 files but need to convert them back to wav with winamp for example. - You can also right click on a file and play it. | In the menu **tools**: - CD-RW are supported (with Erase support of course) - Copy CD or Clone CD - Burn image ISO, BIN and CUE: CCD are missing. - Copy DVD, format DVD-RW, Burn ISO image… | **Control panel**- It support plugins, only 3 are installed: mainly Audio Decoder and Audio Encoder and external programs to work properly. Highly extensible design is always good. - The control panel follow the same clarity 
 
 - Following CD projects are possible: Audio CD, Data CD, Mixed mode CD, Video cd, eMovix CD, Data DVD, eMovix DVD. As you see everything is also present.
-- What is unknow is the abilty of K3b to handle protected CD….Of course nobody of us are using <font face="Courier New" size="2">CloneCD, <font face="Courier New" size="2">AlcoholSoft, <font face="Courier New" size="2">NeroBurning to copy protected CD…..so it is not really an issue or?
+- What is unknow is the abilty of K3b to handle protected CD….Of course nobody of us are using CloneCD, AlcoholSoft, NeroBurning to copy protected CD…..so it is not really an issue or?
 - Of course I need to burn more than 2 CD to be able to give an opinion on K3b, and I am convince that it is easy to find some better reviews on internet. What I can say is that K3b will cover my personal use
 - Creating CD is as simple as with EasyCD Creator or Nero
 - For resuming, whaouuuh so much functionnality for a release 0.10 …
@@ -321,7 +321,7 @@ CD audio Put the CD in the drive and it begin to play automatically.
 
 ## Windows network connectivity
 
-It seems that connecting SuSE to another remote windows desktop is not as easy as in the windows world…I have found the iconse “Local Network” but nothing was found. There is an interesting documentation in the help center “<font face="Courier New" size="2">Linux in the network” speaking about <font face="Courier New" size="2">Samba (a layer on top of TCPIP) which help to connect heterogenous computer (MAC, Windows, #Linux, others which have this layer). Microsoft implements this layer after pressure of IBM….:-) A good documentation but what I want is 3 uses cases::
+It seems that connecting SuSE to another remote windows desktop is not as easy as in the windows world…I have found the iconse “Local Network” but nothing was found. There is an interesting documentation in the help center “Linux in the network” speaking about Samba (a layer on top of TCPIP) which help to connect heterogenous computer (MAC, Windows, #Linux, others which have this layer). Microsoft implements this layer after pressure of IBM….:-) A good documentation but what I want is 3 uses cases::
 
 - **1. How #Linux can access to a Windows machine on the network/shares/printer/internet?**
 - **2. How Windows can access to #Linux machine on the network/shares/printer/internet?**
@@ -372,9 +372,9 @@ printable = no
 
 # ![](/assets/images/2004/08/susebullet.gif)** **A friendly task manager ![](/assets/images/2004/08/smallnew.gif)**
 
-Since I was a windows user, I’ve been looking for a graphical program to allow process monitoring and manipulation. For chance, there is a default “task manager” coming from the base installation of KDE, it is located in <font face="Courier New" size="2">**System – Monitor – Kde System Guard**
+Since I was a windows user, I’ve been looking for a graphical program to allow process monitoring and manipulation. For chance, there is a default “task manager” coming from the base installation of KDE, it is located in **System – Monitor – Kde System Guard**
 
-![ksysguard.png](/assets/images/2004/08/tn_ksysguard.jpg)![ksysguard1.png](/assets/images/2004/08/tn_ksysguard1.jpg)- It is a more user friendly way to monitor (and kill!) process or watch memory, cpu than in a terminal.(with command <font face="Courier New" size="2">top or <font face="Courier New" size="2">ps -ef | grep username)
+![ksysguard.png](/assets/images/2004/08/tn_ksysguard.jpg)![ksysguard1.png](/assets/images/2004/08/tn_ksysguard1.jpg)- It is a more user friendly way to monitor (and kill!) process or watch memory, cpu than in a terminal.(with command top or ps -ef | grep username)
 - Only regret it can not reside in the system tray and wait there when yu really need it.
 - You must filter in the process table, otherwise you will see a lot of process running in the background (KDE has a lot of process alone).
 - Option 1) Ctrl+Alt+Esc gives you a nice mouse cursor to kill whatever you point and click at. try it.
@@ -401,10 +401,10 @@ Since I was a windows user, I’ve been looking for a graphical program to allow
 
 ## **My webcam, a Philips PCV680K vesta pro**
 
-Plug and ….. wait, after some minutes (I was playing with the mount command, maybe it can shorten the process if you log as root (<font face="Courier New" size="2">type su) and try to force mount of all devices mount -a)
+Plug and ….. wait, after some minutes (I was playing with the mount command, maybe it can shorten the process if you log as root (type su) and try to force mount of all devices mount -a)
 
 - In google “linux webcam philips” give me this page: <http://smcc.demon.nl/webcam> It seems that these is now a part of the kernel since 2.4.15
-- It place an icon on the desktop “”webcam” clicking on it start <font face="Courier New" size="2">Gnome meeting, you have then 7 steps to complete before using this tool.
+- It place an icon on the desktop “”webcam” clicking on it start Gnome meeting, you have then 7 steps to complete before using this tool.
 - It only allow you to use it between other gnome meetings instance, kopete, the Instant messaging has no webcam plugin, and do not recognize that a webcam was installed.
 
 ## **Intall the latest nVidia driver** 
@@ -431,13 +431,13 @@ As you see a lot of step, is it not time to do all these steps behind the scene 
 Official Homepage: [www.mplayerhq.hu](http://www.mplayerhq.hu/)   
  On packman homepage ( <ftp://ftp.links2linux.de/pub/packman/suse/9.0/i586/> ), download :
 
-- <font face="Courier New" size="2">Libtheora (required by <font face="Courier New" size="2">Mplayer) which use <font face="Courier New" size="2">libogg
-- <font face="Courier New" size="2">Lame (required by <font face="Courier New" size="2">Mplayer)
-- <font face="Courier New" size="2">Mplayer itself
-- <font face="Courier New" size="2">Mplayer plugin
-- <font face="Courier New" size="2">Kplayer is one GUI which use <font face="Courier New" size="2">Mplayer for KDE
+- Libtheora (required by Mplayer) which use libogg
+- Lame (required by Mplayer)
+- Mplayer itself
+- Mplayer plugin
+- Kplayer is one GUI which use Mplayer for KDE
 
-so Install first <font face="Courier New" size="2">libogg then <font face="Courier New" size="2">Libtheora, Lame and<font face="Courier New" size="2"> finally <font face="Courier New" size="2">Mplayer and <font face="Courier New" size="2">Mplayer plugin
+so Install first libogg then Libtheora, Lame and finally Mplayer and Mplayer plugin
 
 ## **Conclusions**
 

@@ -17,7 +17,7 @@ tags:
 | ![](/assets/images/2007/02/speed.Your_.apache.server.jpg) | Since I am facing performance problem due to the load of visitors and a badly configured server, I decide today to document my findings in this new series of articles.FastCGI is an extention to CGI that increases speed. Instead of creating a new process every time a page is reloaded, FastCGI will use the same process, queuing up requests. This increases startup speed, at the expense of forcing users to wait for the previous requests to finish. FastCGI also allows programs to get the web server to do certain operations, like reading in a file, before the request is handed over. \[[WikiPedia](http://en.wikipedia.org/wiki/FastCGI)\] FastCGI provides a way to keep PHP frequently-run script files loaded on Your server so that script are already preloaded and initialized the next time they are used. This can make some scripts run up to five times more quickly (in most cases it’s as fast as mod\_php, without the drawbacks). Moreover You can run different version of PHP (PHP4 and PHP5) in the same server… Server: Strato ([www.strato.de](http://www.strato.de))   Operating system: SuSE / openSuSE   Requirements: root access and basic Unix knowledge |
 |---|---|
 
-  <font size="-1"> 
+   
 
 | 1 | Use yast2 to install <small><span style="font-family: Courier New,Courier,monospace;">mod\_fastcgi</small> on the system, this will create files (\*.so) in <small><span style="font-family: Courier New,Courier,monospace;">/usr/lib/apache2-worker/</small> and <small><span style="font-family: Courier New,Courier,monospace;">/usr/lib/apache2-prefork/</small> |
 |---|---|

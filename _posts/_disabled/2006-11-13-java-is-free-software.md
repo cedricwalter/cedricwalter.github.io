@@ -12,12 +12,12 @@ tags:
     - 'Thanks to'
 ---
 
-<font size="7">Java Will be release under a GPL licence!  
+Java Will be release under a GPL licence!  
 
 
 [From Joshua Marinacci Blog](http://weblogs.java.net/blog/joshy/archive/2006/11/musings_on_the.html)
 
-<font size="6">"The big announcement today: Java will be open sourced under the GPL. I think it makes a lot of sense because it protects Sun’s interest in preventing forks and also the community’s interest in knowing that #Java will forever be available in the public sphere. The GPL has always provided an option to fork just in case someone takes the code in a bad direction. Historically having this option available ensures that it never needs to actually be used, letting the community grow and thrive.
+"The big announcement today: Java will be open sourced under the GPL. I think it makes a lot of sense because it protects Sun’s interest in preventing forks and also the community’s interest in knowing that #Java will forever be available in the public sphere. The GPL has always provided an option to fork just in case someone takes the code in a bad direction. Historically having this option available ensures that it never needs to actually be used, letting the community grow and thrive.
 
 So what does this actually mean? What is the benefit to open source Java? How will things change? Here’s what I think will change and what won’t. I say this as my own opinion, not an official statement from Sun. I also say this as someone new to Sun, coming to Sun two years ago from an open source background. I’m sure that engineers with more experience than I will have different opinions. So with that, let’s hear it:
 
@@ -34,6 +34,6 @@ So what does this actually mean? What is the benefit to open source Java? How wi
 - Burnable #Java. Imagine a tool that burns a photo slideshow application preloaded with your photos, plus a copy of #Java, straight to a CD. Hand the CD to your Mom, she pops it into her computer, and the photo slideshow starts right up. You’ll never need to worry about the version of #Java because it’s shipped with your app. You don’t need to worry about the OS because you code against #Java, not against native APIs. (hmm. perhaps ‘burnable java’ isn’t the right name for this. 🙂
 - Java will grow to fill every available computing niche and finally achieve the goal of total world domination.
 
-Okay, so maybe that last one is a stretch, but it’s true that this will help to bring More #Java to More Places.<font size="6">"
+Okay, so maybe that last one is a stretch, but it’s true that this will help to bring More #Java to More Places."
 
 <font color="#000000" face="arial, sans-serif, trebuchet ms" size="2">The licence that Sun have now decided for #Java are explained in a document called the "GPL license". Those terms included the most important one, which is that no-one may redistribute a version or derivative of this Sun #Java code without making the source code of that version or derivative also come under the GPL. (Yes Steve Ballmer GPL act like a virus 😉 ).

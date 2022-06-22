@@ -12,9 +12,9 @@ teaser: /assets/images/2004/08/suse.gif
 
 This page was last modified on Mon, 16 Aug 2004 17:06:24 GMT
 
-![](/assets/images/2004/08/suse.gif)<font face="Arial Black" size="7">SUSE 9.0  
+![](/assets/images/2004/08/suse.gif)SUSE 9.0  
 a desktop review <font face="Arial Black" size="4">My experience installing #Linux and some
-throughts…<font face="Arial Black" size="7">![](/assets/images/2004/08/linux.gif)  
+throughts…![](/assets/images/2004/08/linux.gif)  
 When you finish this article, You may want to read
 the [round 2 HERE ](images/pc/suse/migrationToLinux.htm)![](/assets/images/2004/08/pnew.gif)
 
@@ -115,13 +115,13 @@ years), you will encounter some difficulties, I prefer to say “forget some bad
 - Windows use drive letter and this is a pain to maintain especially when you need to configure software, #Linux use a
   directory base mapping, symbolic links can be created on files or directories. Example: 2 documents folders can have
   different name but point to the same folder:  
-  For example you have a website which is located in a directory “<font face="Courier New" size="2">MywebsiteV1.12” and
+  For example you have a website which is located in a directory “MywebsiteV1.12” and
   you want to have only one reference in all program that use your homepage (typically in configurations files), all you
-  have to do is to open a terminal and type: | <font face="Courier New" size="2">ln -s MywebsiteV1.12 httpdocs |
+  have to do is to open a terminal and type: | ln -s MywebsiteV1.12 httpdocs |
   |---|
 
-  and use everywhere <font face="Courier New" size="2">httpdocs instead of the path
-  to <font face="Courier New" size="2">MywebsiteV1.12 # in configuration files. The same apply if you want to alias
+  and use everywhere httpdocs instead of the path
+  to MywebsiteV1.12 # in configuration files. The same apply if you want to alias
   office documents or media files (reference the same file under different names but always use the same target)  
   this is a lot more powerful than the Window’s shortcuts.
 - Windows has a limited command line size, and limited number of subdirectories.
@@ -274,7 +274,7 @@ each restart. Password is limited to 8 characters…which is somehow strange ![]
 password length is limited to 8 character because the default password encryption methd is set to DES (most compatible
 but SUSE also allow md5 or blowfish which have no length limit but at the cost of more cpu power and the loss of
 backward compatibility across other systems or old software). You can change this
-under <font face="Courier New" size="2">Yast – Security and Users Password settings
+under Yast – Security and Users Password settings
 
 Finally the release note of suse 9.0 is displayed, You can read it to be sure that nothing has changed since the manual
 printout.

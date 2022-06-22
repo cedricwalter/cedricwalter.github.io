@@ -42,5 +42,5 @@ species and low occurrence of introduced species
 
 <iframe class="uagb-google-map__iframe" src="https://www.google.com/maps/embed/v1/place?key=AIzaSyAsd_d46higiozY-zNqtr7zdA81Soswje4&q=AUSTRALIA%20ERSKINE%20FALLS&zoom=8" style="height:300px"></iframe>
 
-{% include gallery layout="half" caption="Australia Great Ocean Road" %}
+{% include gallery layout="half" caption="AUSTRALIA Erskine Falls" %}
 

@@ -19,15 +19,15 @@ Generated 02-Jan-2005 04:15 CET </small>
 
 | Summary by Month |
 |:-:|
-| <font size="-1">Month | <font size="-1">Daily Avg | <font size="-1">Monthly Totals |
-| <font size="-1">Hits | <font size="-1">Files | <font size="-1">Pages | <font size="-1">Visits | <font size="-1">Sites | <font size="-1">KBytes | <font size="-1">Visits | <font size="-1">Pages | <font size="-1">Files | <font size="-1">Hits |
-| [<font size="-1">Dec 2004](<http://waltercedric.com/statistics/2004 December.htm>) | <font size="-1">19309 | <font size="-1">14828 | <font size="-1">2404 | <font size="-1">534 | <font size="-1">13434 | <font size="-1">5512189 | <font size="-1">16580 | <font size="-1">74527 | <font size="-1">459670 | <font size="-1">598582 |
-| [<font size="-1">Nov 2004](<http://waltercedric.com/statistics/2004 November.htm>) | <font size="-1">33456 | <font size="-1">29383 | <font size="-1">17292 | <font size="-1">602 | <font size="-1">14579 | <font size="-1">4394865 | <font size="-1">18076 | <font size="-1">518775 | <font size="-1">881490 | <font size="-1">1003689 |
-| [<font size="-1">Oct 2004](<http://waltercedric.com/statistics/2004 October.htm>) | <font size="-1">11980 | <font size="-1">8370 | <font size="-1">1678 | <font size="-1">546 | <font size="-1">15177 | <font size="-1">2426443 | <font size="-1">16926 | <font size="-1">52030 | <font size="-1">259487 | <font size="-1">371388 |
-| [<font size="-1">Sep 2004](<http://waltercedric.com/statistics/2004 September.htm>) | <font size="-1">9399 | <font size="-1">6368 | <font size="-1">1491 | <font size="-1">500 | <font size="-1">12687 | <font size="-1">2208525 | <font size="-1">15024 | <font size="-1">44740 | <font size="-1">191057 | <font size="-1">281976 |
-| [<font size="-1">Aug 2004](<http://waltercedric.com/statistics/2004 August.htm>) | <font size="-1">11645 | <font size="-1">8463 | <font size="-1">1520 | <font size="-1">433 | <font size="-1">6178 | <font size="-1">5553649 | <font size="-1">6937 | <font size="-1">24330 | <font size="-1">135413 | <font size="-1">186327 |
+| Month | Daily Avg | Monthly Totals |
+| Hits | Files | Pages | Visits | Sites | KBytes | Visits | Pages | Files | Hits |
+| [Dec 2004](<http://waltercedric.com/statistics/2004 December.htm>) | 19309 | 14828 | 2404 | 534 | 13434 | 5512189 | 16580 | 74527 | 459670 | 598582 |
+| [Nov 2004](<http://waltercedric.com/statistics/2004 November.htm>) | 33456 | 29383 | 17292 | 602 | 14579 | 4394865 | 18076 | 518775 | 881490 | 1003689 |
+| [Oct 2004](<http://waltercedric.com/statistics/2004 October.htm>) | 11980 | 8370 | 1678 | 546 | 15177 | 2426443 | 16926 | 52030 | 259487 | 371388 |
+| [Sep 2004](<http://waltercedric.com/statistics/2004 September.htm>) | 9399 | 6368 | 1491 | 500 | 12687 | 2208525 | 15024 | 44740 | 191057 | 281976 |
+| [Aug 2004](<http://waltercedric.com/statistics/2004 August.htm>) | 11645 | 8463 | 1520 | 433 | 6178 | 5553649 | 6937 | 24330 | 135413 | 186327 |
 |  |
-| <font size="-1">Totals | <font size="-1">20281471 | <font size="-1">74042 | <font size="-1">715817 | <font size="-1">1943081 | <font size="-1">2463588 |
+| Totals | 20281471 | 74042 | 715817 | 1943081 | 2463588 |
 |  |
 
 - - - - - -

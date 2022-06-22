@@ -11,7 +11,7 @@ tags:
     - development
 ---
 
-<font size="-1">The core developers team of the award-winning CMS Mambo has announced to discontinue their relationship with Miro for future releases of the CMS.   
+The core developers team of the award-winning CMS Mambo has announced to discontinue their relationship with Miro for future releases of the CMS.   
  
 
 *We, the core development teams, unanimously believe:*

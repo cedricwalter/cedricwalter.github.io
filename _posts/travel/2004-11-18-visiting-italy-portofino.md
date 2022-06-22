@@ -6,18 +6,54 @@ author: 'Cédric Walter'
 categories:
 - travel
 
-
 header:
   teaser: /assets/images/2020/04/portofino-higher-point2.jpg
+
 tags:
     - europe
     - holidays
     - italy
     - Links
     - vacation
+
+gallery:
+- url: /assets/images/2020/04/portofino-houses1.jpg
+  image_path: /assets/images/2020/04/portofino-houses1.jpg
+- url: /assets/images/2020/04/portofino-houses2.jpg
+  image_path: /assets/images/2020/04/portofino-houses2.jpg
+- url: /assets/images/2020/04/portofino-left.jpg
+  image_path: /assets/images/2020/04/portofino-left.jpg
+- url: /assets/images/2020/04/portofino-richpeople.jpg
+  image_path: /assets/images/2020/04/portofino-richpeople.jpg
+- url: /assets/images/2020/04/portofino-sea-side.jpg
+  image_path: /assets/images/2020/04/portofino-sea-side.jpg
+- url: /assets/images/2020/04/portofino-village.jpg
+  image_path: /assets/images/2020/04/portofino-village.jpg
+- url: /assets/images/2020/04/portofino-artist.jpg
+  image_path: /assets/images/2020/04/portofino-artist.jpg
+- url: /assets/images/2020/04/portofino-castle-rotated.jpg
+  image_path: /assets/images/2020/04/portofino-castle-rotated.jpg
+- url: /assets/images/2020/04/portofino-castle2.jpg
+  image_path: /assets/images/2020/04/portofino-castle2.jpg
+- url: /assets/images/2020/04/portofino-castle3.jpg
+  image_path: /assets/images/2020/04/portofino-castle3.jpg
+- url: /assets/images/2020/04/portofino-cimetery.jpg
+  image_path: /assets/images/2020/04/portofino-cimetery.jpg
+- url: /assets/images/2020/04/portofino-from-harbor1.jpg
+  image_path: /assets/images/2020/04/portofino-from-harbor1.jpg
+- url: /assets/images/2020/04/portofino-from-harbor2.jpg
+  image_path: /assets/images/2020/04/portofino-from-harbor2.jpg
+- url: /assets/images/2020/04/portofino-from-the-sea.jpg
+  image_path: /assets/images/2020/04/portofino-from-the-sea.jpg
+- url: /assets/images/2020/04/portofino-higher-point.jpg
+  image_path: /assets/images/2020/04/portofino-higher-point.jpg
+- url: /assets/images/2020/04/portofino-higher-point2.jpg
+  image_path: /assets/images/2020/04/portofino-higher-point2.jpg
+
 ---
 
-> “A little village stretching like an arch of the moon around a quiet basin. Never have I felt the way I did when I walked into that green indefiniteness, with such a sense of peace and fulfilment”.
+> “A little village stretching like an arch of the moon around a quiet basin. Never have I felt the way I did when I
+> walked into that green indefiniteness, with such a sense of peace and fulfilment”.
 > 
 > <cite>*From Vie Errante by Guy de Maupassant*</cite>
 
@@ -27,24 +63,9 @@ Currency: Euro
 Time Zone: GMT+1  
 Language: Italian*
 
-- [![](/assets/images/2020/04/portofino-houses1.jpg)](/assets/images/2020/04/portofino-houses1.jpg)
-- [![](/assets/images/2020/04/portofino-houses2.jpg)](/assets/images/2020/04/portofino-houses2.jpg)
-- [![](/assets/images/2020/04/portofino-left.jpg)](/assets/images/2020/04/portofino-left.jpg)
-- [![](/assets/images/2020/04/portofino-richpeople.jpg)](/assets/images/2020/04/portofino-richpeople.jpg)
-- [![](/assets/images/2020/04/portofino-sea-side.jpg)](/assets/images/2020/04/portofino-sea-side.jpg)
-- [![](/assets/images/2020/04/portofino-village.jpg)](/assets/images/2020/04/portofino-village.jpg)
-- [![](/assets/images/2020/04/portofino-artist.jpg)](/assets/images/2020/04/portofino-artist.jpg)
-- [![](/assets/images/2020/04/portofino-castle-rotated.jpg)](/assets/images/2020/04/portofino-castle-rotated.jpg)
-- [![](/assets/images/2020/04/portofino-castle2.jpg)](/assets/images/2020/04/portofino-castle2.jpg)
-- [![](/assets/images/2020/04/portofino-castle3.jpg)](/assets/images/2020/04/portofino-castle3.jpg)
-- [![](/assets/images/2020/04/portofino-cimetery.jpg)](/assets/images/2020/04/portofino-cimetery.jpg)
-- [![](/assets/images/2020/04/portofino-from-harbor1.jpg)](/assets/images/2020/04/portofino-from-harbor1.jpg)
-- [![](/assets/images/2020/04/portofino-from-harbor2.jpg)](/assets/images/2020/04/portofino-from-harbor2.jpg)
-- [![](/assets/images/2020/04/portofino-from-the-sea.jpg)](/assets/images/2020/04/portofino-from-the-sea.jpg)
-- [![](/assets/images/2020/04/portofino-higher-point.jpg)](/assets/images/2020/04/portofino-higher-point.jpg)
-- [![](/assets/images/2020/04/portofino-higher-point2.jpg)](/assets/images/2020/04/portofino-higher-point2.jpg)
+{% include gallery layout="half" caption="Visiting Italy: Portofino" %}
 
-# *Portofino has a Mediterranean climate with hot and dry summers. Even in Winter the weather is never cold.*
+Portofino has a Mediterranean climate with hot and dry summers. Even in Winter the weather is never cold.
 
 - [A VILLAGE OF RARE BEAUTY IN THE MEDITERRANEAN”](http://www.comune.portofino.genova.it/)
 - [Parco Naturale Regionale di Portofino](http://www.parks.it/parco.portofino/Eindex.html)

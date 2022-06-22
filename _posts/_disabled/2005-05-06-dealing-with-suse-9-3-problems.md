@@ -47,7 +47,7 @@ Bittorent client, You can
       â&#128;¢ [James’ Blog](http://rubberturnip.org.uk/cgi-bin/blog/2005/03/26#1111847282suse_9_3_professional)
       â&#128;¢ [Cool Solutions](http://www.novell.com/coolsolutions/feature/11878.html)
 
-<span style="font-size: large;"> Installing APT-GET packaging system (a lot simpler than YaST as It deal with package conflicts!!!), [First read this page](http://linux01.gwdg.de/apt4rpm/home.html), then If You are interested read on 🙂
+ Installing APT-GET packaging system (a lot simpler than YaST as It deal with package conflicts!!!), [First read this page](http://linux01.gwdg.de/apt4rpm/home.html), then If You are interested read on 🙂
 
 1. create a directory ex: /home/elta68/install/aptget
 2. Download all Apt-get rpm for
@@ -63,12 +63,12 @@ Bittorent client, You can
 5. Instead of using YaST, You can now use Synaptic (a graphical frontend for apt-get) to install, keep up to date or
    remove package s or If You prefer command line, type *apt-get install packagename* example: *apt-get install MPlayer*
 
-# <span style="font-size: large;">Decode encrypted DVD under Suse 9.3
+# Decode encrypted DVD under Suse 9.3
 
 1. You need to install libdvdcss for reading encrypted DVD, I found on that page, a nice HowTo with a lot of
    screenshots [http://www.saunalahti.fi/~pirisisi/tips/Linux/dvdplay/](http://www.saunalahti.fi/~pirisisi/tips/Linux/dvdplay/)
 
-# <span style="font-size: large;">Install VLC
+# Install VLC
 
 - VideoLAN is a highly portable multimedia player for various audio and video formats (MPEG-1, MPEG-2, MPEG-4, DivX,
   mp3, ogg, …) as well as DVDs, VCDs, and various streaming protocols. It can also be used as a server to stream in
@@ -84,19 +84,19 @@ Bittorent client, You can
     2. Downloading manually all required rpm at [Packman](http://packman.links2linux.de/?action=377) in a directory,
        the use Yast to install each RPM (clik on each one in konqueror) or using the terminal: *rpm -i \*.rpm*
 
-<span style="font-size: large;"> Install Mplayer  
+ Install Mplayer  
 # the open source player for all video format 
 
 - If You prefer Mplayer, as always, go to [PackMan website](http://packman.links2linux.de/) and install all RPM found in
   that [page](http://packman.links2linux.de/?action=128)
 
-# <span style="font-size: large;">Access to my external USB disk are slow …
+# Access to my external USB disk are slow …
 
 This is because of the way SuSe mount dynamically Reiserf. Your disk is continually trying to synchronize with the
 journal. You can recover the performance loss by mounting the disk manually instead of letting Dbus do it for You. It is
 just anoying…
 
-<span style="font-size: large;">Beagles  
+Beagles  
 a desktop search tool…
 
 Simply refuse to work out the box. It is even not installed as default when You install Your system!!! Adding it with

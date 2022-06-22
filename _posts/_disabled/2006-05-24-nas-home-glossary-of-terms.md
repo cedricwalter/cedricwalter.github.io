@@ -19,7 +19,7 @@ origin: WikiPedia
 *Server message block (SMB) is a network protocol mainly applied to share files, printers, serial ports, and miscellaneous communications between nodes on a network. It is mainly used by Microsoft Windows equipped computers.* <big>  
 </big>  
 [FTP](http://en.wikipedia.org/wiki/FTP)  
-The File Transfer Protocol (FTP) is a software standard for transferring computer files between machines with widely different operating systems. It belongs to the application layer of the Internet protocol suite. <big><font size="-1">  
+The File Transfer Protocol (FTP) is a software standard for transferring computer files between machines with widely different operating systems. It belongs to the application layer of the Internet protocol suite. <big>  
 [NFS](http://en.wikipedia.org/wiki/Nfs)  
 *Network File System (NFS) is a protocol originally developed by Sun Microsystems in 1984 and defined in RFCs 1094, 1813, (3010) and 3530, as a file system which allows a computer to access files over a network as easily as if they were on its local disks.* </big>
 

@@ -28,27 +28,27 @@ tags:
     - linux
 ---
 
-*<font color="#6a6a6a">[![china.flag](/assets/images/2009/01/china.flag_thumb.png)](/assets/images/2009/01/china.flag_.png) <font color="#6a6a6a">I got contacted by [www.joomlagate.com](http://www.joomlagate.com) and I think my answers may be interesting before they get translated in Chinese 🙂*
+*[![china.flag](/assets/images/2009/01/china.flag_thumb.png)](/assets/images/2009/01/china.flag_.png) I got contacted by [www.joomlagate.com](http://www.joomlagate.com) and I think my answers may be interesting before they get translated in Chinese 🙂*
 
-*<font color="#6a6a6a">Hello! Cedric Walter,   
+*Hello! Cedric Walter,   
 Thanks for your efforts on #Joomla! related projects.  
 In order to show our appreciation, we want to add you to the #Joomla People list.  
-Joomla People is a list built by [www.joomlagate.com](http://www.joomlagate.com). Our purpose is to introduce most valuable developers, translators, leaders, etc, all those who contributed to #Joomla community, especially those who released their <font color="#6a6a6a">work as free software, to our Chinese #Joomla users. We want Chinese #Joomla users recognize and remember you all, and learn from your works, your spirit and your words.  
-Our website, www.joomlagate.com, is one of the biggest and popular #Joomla website in China. We have more than 12 thousands of registered members at present. We believe that your story will inspire many #Joomla <font color="#6a6a6a">users and developers in our country.  
+Joomla People is a list built by [www.joomlagate.com](http://www.joomlagate.com). Our purpose is to introduce most valuable developers, translators, leaders, etc, all those who contributed to #Joomla community, especially those who released their work as free software, to our Chinese #Joomla users. We want Chinese #Joomla users recognize and remember you all, and learn from your works, your spirit and your words.  
+Our website, www.joomlagate.com, is one of the biggest and popular #Joomla website in China. We have more than 12 thousands of registered members at present. We believe that your story will inspire many #Joomla users and developers in our country.  
 It is our pleasure to add you in this list. If you allow us to do this, please provide some personal information about you. We will give you some 
 Finally your original comments and our translation will both be published together.  
 We hope you can inform us of following items (of course you can keep your privacy by skip any of them):*
 
-*<font color="#6a6a6a">*  
-<font color="#6a6a6a">1. Your Name, nickname, or anything you want other people think that is you. Your birth date.
+**  
+1. Your Name, nickname, or anything you want other people think that is you. Your birth date.
 
 Cédric Walter aka Elta on some forums (taken from the Last Magician Lord, a game of SNK of 1991) but my developer nickname is Cedric.Walter on #JoomlaForge.org
 
-<font color="#6a6a6a">2. Country, State, City. If you belongs to any special ethnic group, you can describe it too.
+2. Country, State, City. If you belongs to any special ethnic group, you can describe it too.
 
 I am living in Zurich in the beautiful country of Switzerland but I am french and start living there only 4 years ago.
 
-<font color="#6a6a6a">3. Your company website, or link to your blog, your project site, or any other link related to your #Joomla works.
+3. Your company website, or link to your blog, your project site, or any other link related to your #Joomla works.
 
 # blog: [http://www.waltercedric.com ](http://www.waltercedric.com)
 
@@ -103,28 +103,28 @@ joomlaCloud [http://extensions.joomla.org/extensions/search-&amp;-indexing/tags-
 com\_version manager [http://joomlacode.org/gf/project/version\_manager/](http://joomlacode.org/gf/project/version_manager/) (From Soeren of Virtuemart)  
 BloggX <http://www.iobinary.com/>
 
-<font color="#6a6a6a">4. your photo, at least 800\*600 px size. If you want to offer more than one photograph, we also welcome that. 
+4. your photo, at least 800\*600 px size. If you want to offer more than one photograph, we also welcome that. 
 
-just visit my gallery 🙂 <http://cedricwalter.smugmug.com/keyword/cedricwalter><font color="#6a6a6a"> 
+just visit my gallery 🙂 <http://cedricwalter.smugmug.com/keyword/cedricwalter> 
 
-<font color="#6a6a6a">5. If you want to talk to us in a short video, you can send that video to me, or give me a link of You tube page, or the download link of your video, in case you can’t send such a large video file via email.  
+5. If you want to talk to us in a short video, you can send that video to me, or give me a link of You tube page, or the download link of your video, in case you can’t send such a large video file via email.  
 
 
-<font color="#6a6a6a">6.What did you do for #Joomla community ? ( details preferred )
+6.What did you do for #Joomla community ? ( details preferred )
 
 I was the first one to solve spamming issue in all FORMS of Mambo CMS in 2004, first with my component HashCash then rapidly by starting SecurityImages component. After Mambo forking, I did move all my projects the first day #Joomla! was created following the open source movement. All my code is always released under GPL v2/v3. I do also maintain a forum (more than 1000 users [http://forums.waltercedric.com)](http://forums.waltercedric.com)) and a WIKI and I am also famous for my articles on how to secure #Joomla! and #Linux server boxes<font color="#0000a0">. I really like to learn continuously new things and share my know how by writing blog entries.
 
 <font color="#0000a0">What explains the number of #Joomla! projects I am maintaining is that I am always trying first to solve issues in my homepage, but then rapidly make a component out of it for the community. The most ambitious project is currently the start of a framework that allow #Joomla! projects to be continuously build and reduce code regressions.
 
-<font color="#6a6a6a">7.How do you think about #Joomla and it’s future? ( details preferred )  
+7.How do you think about #Joomla and it’s future? ( details preferred )  
   
 I think the future is bright, but I would like to see more stuff going into the core libraries and also the start of continuous build that will ensure #Joomla! releases to occur often.
 
-<font color="#6a6a6a">8. What do you want to say to Chinese #Joomla users ?
+8. What do you want to say to Chinese #Joomla users ?
 
 Just to say Hi to ALL of you, hope to be one day traveling to your beautiful country 🙂
 
-<font color="#6a6a6a">9. If you have a team, or a company, you can introduce it too.
+9. If you have a team, or a company, you can introduce it too.
 
 I am working at [www.innoveo.com](http://www.innoveo.com), as a #Java J2EE senior solution architect.  
 A growing software company focused on the insurance industry, based in Zurich, Switzerland and privately held by its founding members. We base ourselves on long experience in the insurance industry, technology and architecture (SOA).
@@ -133,9 +133,9 @@ Our international, very experienced team, is acting throughout Europe and beyond
 We do our best to deliver maximum value to your business, by continuously innovating, providing our clients with flexible solutions, and designing our products/services to match industry trends and strategic needs. With a research &amp; development team consisting of top-level engineers and a management team that understands both insurance and technology, we aim to partner with our clients and partners both at business and technology level.  
 We have built our team around expertise; in insurance business, in technology, in architecture and engineering as well as in client service.
 
-<font color="#6a6a6a">10.Any information else you want us to forward to Chinese #Joomla Community.
+10.Any information else you want us to forward to Chinese #Joomla Community.
 
 Keep the #Joomla! spirit: help you each other all around the world and contribute back a bit of your time to keep #Joomla! a healthy open source project!
 
-<font color="#6a6a6a">In addition, if you think one of your colleagues or friends, who had also contributed a lot to #Joomla community and should be added to this list, please feel free forward this invitation to him/her, we will also <font color="#6a6a6a">add him/her to our list. <font color="#6a6a6a">  
+In addition, if you think one of your colleagues or friends, who had also contributed a lot to #Joomla community and should be added to this list, please feel free forward this invitation to him/her, we will also add him/her to our list.   
 Thank you very much. We are looking forward for your reply and hope we can introduce you to Chinese #Joomla community soon.

@@ -67,12 +67,12 @@ and paste inside the following
 > WLS\_BASE=/home/weblogic/   
 > WLS\_HOME=${WLS\_BASE}/bea/user\_projects/domains/$WLS\_DOMAIN   
 > WLS\_NODE\_HOME=${WLS\_BASE}/bea/wlserver\_10.3/server/bin   
-> WLS\_OWNER=<font color="#ff0000" size="2">weblogic   
+> WLS\_OWNER=weblogic   
 > WLS\_ADMIN\_PORT=7001   
 > WLS\_ADMIN\_LOGIN=admin   
-> <font color="#000000" size="2">WLS\_ADMIN\_PWD=admin   
-> WLS\_LOG\_START=${WLS\_BASE}/logs/start.`date ‘+%d%m%y’`<font color="#000000" size="2">.log   
-> WLS\_LOG\_STOP=${WLS\_BASE}/logs/stop.`date ‘+%d%m%y’`<font color="#000000" size="2">.log   
+> WLS\_ADMIN\_PWD=admin   
+> WLS\_LOG\_START=${WLS\_BASE}/logs/start.`date ‘+%d%m%y’`.log   
+> WLS\_LOG\_STOP=${WLS\_BASE}/logs/stop.`date ‘+%d%m%y’`.log   
 > <font color="#ff8000" size="2">WLS\_MANAGED\_SERVER1=dev   
 > WLS\_MANAGED\_SERVER2=test   
 > JAVA\_OPTIONS=”${JAVA\_OPTIONS} -Dweblogic.management.username=${WLS\_ADMIN\_LOGIN}”   

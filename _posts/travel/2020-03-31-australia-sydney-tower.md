@@ -1,5 +1,4 @@
 ---
-
 title: 'Australia Sydney Tower'
 date: '2020-03-31T14:59:27+02:00'
 author: 'Cédric Walter'
@@ -30,8 +29,7 @@ gallery:
 - url: /assets/images/2020/03/australia.new_.south_.whales.sydney.tower_0399.jpg
   image_path: /assets/images/2020/03/australia.new_.south_.whales.sydney.tower_0399.jpg
 - url: /assets/images/2020/03/australia.new_.south_.whales.sydney.tower_0400.jpg
-  image_path: /assets/images/2020/03/australia.new_.south_
-  .whales.sydney.tower_0400.jpg<figcaption class="blocks-gallery-item__caption">Cédric Walter</figcaption>
+  image_path: /assets/images/2020/03/australia.new_.south_.whales.sydney.tower_0400.jpg
 - url: /assets/images/2020/03/australia.new_.south_.whales.sydney.tower_0402.jpg
   image_path: /assets/images/2020/03/australia.new_.south_.whales.sydney.tower_0402.jpg
 - url: /assets/images/2020/03/australia.new_.south_.whales.sydney.tower_0403.jpg

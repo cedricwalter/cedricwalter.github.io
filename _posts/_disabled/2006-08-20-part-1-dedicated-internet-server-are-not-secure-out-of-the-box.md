@@ -45,7 +45,7 @@ i’ve change some other values according to the table below:
 | <tt class="envar">PermitEmptyPasswords no</tt> | The option <tt class="envar">PermitEmptyPasswords</tt> specifies whether the server allows logging in to accounts with a null password. If you intend to use the scp utility to make automatic backups over the network, you must set this option to <tt class="userinput">yes</tt>. |
 | <tt class="envar">AllowUsers admin</tt> | The option <tt class="envar">AllowUsers</tt> specifies and controls which users can access ssh services. Multiple users can be specified, separated by spaces. |
 
-<dl><dt> <tt class="envar">to restart the ssh daemon, just execute:</tt></dt><dd><big>\# </big>/etc/init.d/sshd restart</dd></dl> I’ve create some new public/private keys pair (<big>\# <font size="-1"><big>ssh-keygen -t rsa</big></big>) and copied the public part id\_pub.rsa into ~/.ssh/authorized\_keys2 and found that tutorial very interesting [<span class="headline">SSH User Identities](http://www.securityfocus.com/infocus/1810)
+<dl><dt> <tt class="envar">to restart the ssh daemon, just execute:</tt></dt><dd><big>\# </big>/etc/init.d/sshd restart</dd></dl> I’ve create some new public/private keys pair (<big>\# <big>ssh-keygen -t rsa</big></big>) and copied the public part id\_pub.rsa into ~/.ssh/authorized\_keys2 and found that tutorial very interesting [<span class="headline">SSH User Identities](http://www.securityfocus.com/infocus/1810)
 
 I provide here both files (I supress all comments for clarity)
 

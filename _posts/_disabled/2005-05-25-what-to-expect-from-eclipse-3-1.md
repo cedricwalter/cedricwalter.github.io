@@ -11,7 +11,7 @@ tags:
     - environment
 ---
 
-<font face="Courier New" size="2">
+
 
 The #Eclipse Foundation is targeting release of #Eclipse 3.1 for late June 2005. There have been seven milestone releases of version 3.1 dating back to August 2004. The #Eclipse Requirement Council identified six major themes that the technical community will deliver on:
 

@@ -79,10 +79,10 @@ This code add a supplementary hidden field in all html form submitted to the use
 – The hidden field name has a random name (Hname), each time different at each load of the page  
 – The hidden field value is a cryptographic hashcode (MD5, MD4 or RSA) value. (Hvalue),
 
-<font face="Courier New" size="2">Hvalue = Crypt(UserSessionID + mosConfig\_absolute\_path + UserBrowserAgent +
+Hvalue = Crypt(UserSessionID + mosConfig\_absolute\_path + UserBrowserAgent +
 TodayDate(F j, Y, g a))
 
-<font face="Courier New" size="2">Crypt is the cryptographic PHP function: MD5, MD4 or RSA
+Crypt is the cryptographic PHP function: MD5, MD4 or RSA
 
 If the user want to submit a comment, the browser with the help of a small javascript will have to  
 – locate the hidden field name (Hname) with javascript: (function replace())  

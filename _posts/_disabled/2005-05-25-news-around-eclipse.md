@@ -12,7 +12,7 @@ tags:
 - environment
 ---
 
-<font face="times new roman,times,serif" size="2">Pollinate Milestone 3 On
+Pollinate Milestone 3 On
 March 2 the
 #Eclipse [Pollinate project](http://www.eclipse.org/pollinate)
 release milestone 3. The goal of the Pollinate project is to build an #Eclipse-based IDE and toolset that leverages the

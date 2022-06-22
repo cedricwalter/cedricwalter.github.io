@@ -8,7 +8,7 @@ author: 'Cédric Walter'
 
 ---
 
-<font size="6">Log4J: A logging framework for J2EE
+Log4J: A logging framework for J2EE
 
 Log4j homepage: <http://jakarta.apache.org/log4j/>
 

@@ -29,46 +29,46 @@ On your server, run
 
 # \# fdisk -l
 
-> <font color="#0000ff" face="Courier New">Disk /dev/sda: 164.6 GB, 164696555520 bytes   
+> Disk /dev/sda: 164.6 GB, 164696555520 bytes   
 > 255 heads, 63 sectors/track, 20023 cylinders   
 > Units = cylinders of 16065 \* 512 = 8225280 bytes 
 > 
-> <font color="#0000ff" face="Courier New"> Device Boot Start End Blocks Id System   
+>  Device Boot Start End Blocks Id System   
 > /dev/sda1 \* 1 7 56196 fd Linux raid autodetect   
 > /dev/sda2 8 138 1052257+ 82 Linux swap / Solaris   
 > /dev/sda3 139 20023 159726262+ fd Linux raid autodetect 
 > 
-> <font color="#0000ff" face="Courier New">Disk /dev/sdb: 164.6 GB, 164696555520 bytes   
+> Disk /dev/sdb: 164.6 GB, 164696555520 bytes   
 > 255 heads, 63 sectors/track, 20023 cylinders   
 > Units = cylinders of 16065 \* 512 = 8225280 bytes 
 > 
-> <font color="#0000ff" face="Courier New"> Device Boot Start End Blocks Id System   
+>  Device Boot Start End Blocks Id System   
 > /dev/sdb1 \* 1 7 56196 fd Linux raid autodetect   
 > /dev/sdb2 8 138 1052257+ 82 Linux swap / Solaris   
 > /dev/sdb3 139 20023 159726262+ fd Linux raid autodetect 
 > 
-> <font color="#0000ff" face="Courier New">Disk /dev/md0: 57 MB, 57475072 bytes   
+> Disk /dev/md0: 57 MB, 57475072 bytes   
 > 2 heads, 4 sectors/track, 14032 cylinders   
 > Units = cylinders of 8 \* 512 = 4096 bytes 
 > 
-> <font color="#0000ff" face="Courier New">Disk /dev/md0 doesn’t contain a valid partition table 
+> Disk /dev/md0 doesn’t contain a valid partition table 
 > 
-> <font color="#0000ff" face="Courier New">Disk /dev/md1: 163.5 GB, 163559571456 bytes   
+> Disk /dev/md1: 163.5 GB, 163559571456 bytes   
 > 2 heads, 4 sectors/track, 39931536 cylinders   
 > Units = cylinders of 8 \* 512 = 4096 bytes 
 > 
-> <font color="#0000ff" face="Courier New">Disk /dev/md1 doesn’t contain a valid partition table
+> Disk /dev/md1 doesn’t contain a valid partition table
 
 This is how partitions look like, sda1 is the root partition, sda2 is a swap partition and sda3 is my home. The server use a RAID0 with 2 \* 160GB disk.
 
 You’ll have to recreate them in the virtual machine. Nothing force me to have a RAID0 also in my VMWARE. I will only create a normal disk layout (sda1,sda2, sda3). Save this output in a text file for further references. By reading the fstab, I will be able to look at the mount point name later. On your server, run:
 
 # \# cat /etc/fstab   
-<font color="#0000ff" face="Courier New">/dev/md1 / ext3 acl,user\_xattr,usrquota 1 1   
+/dev/md1 / ext3 acl,user\_xattr,usrquota 1 1   
 /dev/md0 /boot ext2 acl,user\_xattr 1 2   
 /dev/sda2 swap swap pri=42 0 0   
 /dev/sdb2 swap swap pri=42 0 0  
-<font color="#0000ff" face="Courier New">devpts /dev/pts devpts mode=0620,gid=5 0 0   
+devpts /dev/pts devpts mode=0620,gid=5 0 0   
 proc /proc proc defaults 0 0   
 sysfs /sys sysfs noauto 0 0
 

@@ -27,3 +27,8 @@ repository: "cedricwalter/cedricwalter.github.io"
 
 
 grep -lir 'joomla' * | xargs mv -t joomla
+
+
+
+
+gem update jekyll

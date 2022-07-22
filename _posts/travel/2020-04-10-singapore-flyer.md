@@ -19,40 +19,40 @@ header:
  caption: "Inside Singapore cloud forest dome"
 
 gallery:
-- url: /assets/images/2020/04/Singapore-Flyer-7.jpg)
-  image_path: assets/images/2020/04/Singapore-Flyer-7.jpg)
-- url: /assets/images/2020/04/Singapore-Flyer-8.jpg)
-  image_path: assets/images/2020/04/Singapore-Flyer-8.jpg)
-- url: /assets/images/2020/04/Singapore-Flyer-9.jpg)
-  image_path: assets/images/2020/04/Singapore-Flyer-9.jpg)
-- url: /assets/images/2020/04/Singapore-Flyer-10.jpg)
-  image_path: assets/images/2020/04/Singapore-Flyer-10.jpg)
-- url: /assets/images/2020/04/Singapore-Flyer-11.jpg)
-  image_path: assets/images/2020/04/Singapore-Flyer-11.jpg)
-- url: /assets/images/2020/04/Singapore-Flyer-12.jpg)
-  image_path: assets/images/2020/04/Singapore-Flyer-12.jpg)
-- url: /assets/images/2020/04/Singapore-Flyer-13.jpg)
-  image_path: assets/images/2020/04/Singapore-Flyer-13.jpg)
-- url: /assets/images/2020/04/Singapore-Flyer-14.jpg)
-  image_path: assets/images/2020/04/Singapore-Flyer-14.jpg)
-- url: /assets/images/2020/04/Singapore-Flyer-15.jpg)
-  image_path: assets/images/2020/04/Singapore-Flyer-15.jpg)
-- url: /assets/images/2020/04/Singapore-Flyer-16.jpg)
-  image_path: assets/images/2020/04/Singapore-Flyer-16.jpg)
-- url: /assets/images/2020/04/Singapore-Flyer-17.jpg)
-  image_path: assets/images/2020/04/Singapore-Flyer-17.jpg)
-- url: /assets/images/2020/04/Singapore-Flyer-1.jpg)
-  image_path: assets/images/2020/04/Singapore-Flyer-1.jpg)
-- url: /assets/images/2020/04/Singapore-Flyer-2.jpg)
-  image_path: assets/images/2020/04/Singapore-Flyer-2.jpg)
-- url: /assets/images/2020/04/Singapore-Flyer-3.jpg)
-  image_path: assets/images/2020/04/Singapore-Flyer-3.jpg)
-- url: /assets/images/2020/04/Singapore-Flyer-4.jpg)
-  image_path: assets/images/2020/04/Singapore-Flyer-4.jpg)
-- url: /assets/images/2020/04/Singapore-Flyer-5.jpg)
-  image_path: assets/images/2020/04/Singapore-Flyer-5.jpg)
-- url: /assets/images/2020/04/Singapore-Flyer-6.jpg)
-  image_path: assets/images/2020/04/Singapore-Flyer-6.jpg)
+- url: /assets/images/2020/04/Singapore-Flyer-7.jpg
+  image_path: assets/images/2020/04/Singapore-Flyer-7.jpg
+- url: /assets/images/2020/04/Singapore-Flyer-8.jpg
+  image_path: assets/images/2020/04/Singapore-Flyer-8.jpg
+- url: /assets/images/2020/04/Singapore-Flyer-9.jpg
+  image_path: assets/images/2020/04/Singapore-Flyer-9.jpg
+- url: /assets/images/2020/04/Singapore-Flyer-10.jpg
+  image_path: assets/images/2020/04/Singapore-Flyer-10.jpg
+- url: /assets/images/2020/04/Singapore-Flyer-11.jpg
+  image_path: assets/images/2020/04/Singapore-Flyer-11.jpg
+- url: /assets/images/2020/04/Singapore-Flyer-12.jpg
+  image_path: assets/images/2020/04/Singapore-Flyer-12.jpg
+- url: /assets/images/2020/04/Singapore-Flyer-13.jpg
+  image_path: assets/images/2020/04/Singapore-Flyer-13.jpg
+- url: /assets/images/2020/04/Singapore-Flyer-14.jpg
+  image_path: assets/images/2020/04/Singapore-Flyer-14.jpg
+- url: /assets/images/2020/04/Singapore-Flyer-15.jpg
+  image_path: assets/images/2020/04/Singapore-Flyer-15.jpg
+- url: /assets/images/2020/04/Singapore-Flyer-16.jpg
+  image_path: assets/images/2020/04/Singapore-Flyer-16.jpg
+- url: /assets/images/2020/04/Singapore-Flyer-17.jpg
+  image_path: assets/images/2020/04/Singapore-Flyer-17.jpg
+- url: /assets/images/2020/04/Singapore-Flyer-1.jpg
+  image_path: assets/images/2020/04/Singapore-Flyer-1.jpg
+- url: /assets/images/2020/04/Singapore-Flyer-2.jpg
+  image_path: assets/images/2020/04/Singapore-Flyer-2.jpg
+- url: /assets/images/2020/04/Singapore-Flyer-3.jpg
+  image_path: assets/images/2020/04/Singapore-Flyer-3.jpg
+- url: /assets/images/2020/04/Singapore-Flyer-4.jpg
+  image_path: assets/images/2020/04/Singapore-Flyer-4.jpg
+- url: /assets/images/2020/04/Singapore-Flyer-5.jpg
+  image_path: assets/images/2020/04/Singapore-Flyer-5.jpg
+- url: /assets/images/2020/04/Singapore-Flyer-6.jpg
+  image_path: assets/images/2020/04/Singapore-Flyer-6.jpg
 
 tags:
     - asia

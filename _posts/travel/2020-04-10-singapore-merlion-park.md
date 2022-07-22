@@ -6,10 +6,6 @@ author: 'Cédric Walter'
 categories:
 - travel
 
-
-
-    
-
 header:
     overlay_image: /assets/images/2020/04/singapore-merion-park-1.jpg
     teaser: /assets/images/2020/04/singapore-merion-park-1.jpg

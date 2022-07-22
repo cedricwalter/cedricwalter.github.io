@@ -19,7 +19,7 @@ Zürich.
 
 ## How to convert your driving permit…
 
-This is probably the most easier part, You’ll have to
+This is probably the easier part, You’ll have to
 
 - Fill a paper and do a vision test (cost me 10 CHF)
 - Provide an identity picture.
@@ -55,13 +55,13 @@ you are lucky.
 - You’ll to pay
     - Transport cession 58.20 CHF
     - Vehicle identification card: 40 CHF
-    - Encashment costs: 30 CHF
+    - Costs: 30 CHF
     - Vehicle identification plate: 25 CHF
     - Entry obligations: 15 CHF
 - Total costs: 328.20 CHF
 
 Back to the administration, You will receive your motorcycle plate number (25 CHF), the old vehicle identity card and
-it’s plate number will be send to the country you come from.
+it’s plate number will be sent to the country you come from.
 
 ##Links
 

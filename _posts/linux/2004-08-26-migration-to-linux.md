@@ -12,17 +12,24 @@ header:
 
 What a windows users do need to install or use in SUSE 9 to complete the same tasks he get use to in Windows?. What were the difficulties encountered and what are the potential weakness of SuSE 9 distribution?
 
-## Migration to linux
+# What is Linux
+
+* Robust, reliable memory-protected architecture;   
+* Excellent throughput, with multiple options for RealTime response;   
+* Fault isolation/management, limiting fatal errors to single (restartable) processes;   
+* Availability of communication protocols, tools, and device-driver support;   
+* Support for key CPU architectures; and Large, worldwide development community offering quality software.
+
 
 ## Round 2
 
  GNU Free Documentation License Copyright (c) 2003 Cédric Walter
 
-## <font face="Arial Black" size="4">Purpose
+## Purpose
 
 # What a windows users do need to install or use in SUSE 9 to complete the same tasks he get use to in Windows?. What were the difficulties encountered and what are the potential weakness of SuSE 9 distribution?.
 
-## <font face="Arial Black" size="4">Background
+## Background
 
 # I am using Windows since 10 years now, what decide me to switch all my personal PC (2) to #Linux is [# here](images/pc/suse/myExperience.htm#Why%20choosing%20Linux%20now?)# . I decide to try a completely free and open source Operating System to do my everyday private job….or better said some tasks….This small review has been done during evenings while watching TV, chatting on MSN, ![](/assets/images/2004/08/ohno.gif), I have only taking notes on my notebook while playing with SUSE. I hope that the quality will be good enough and that it may convince You to give SUSE or #Linux in general a try.
 
@@ -30,7 +37,7 @@ What a windows users do need to install or use in SUSE 9 to complete the same ta
 
 # New 12.04.2004 My corporate ladtop running under M$ XP sp1, was defragmenting my Maxtor 250Gb external harddisk (FAT32) when the system hang. Rebooting windows has destruct the filesystem and leave me with a ‘disk I/O error’ and a blank disk! (Real men dont do backup but they often cry…..I was really pissed of at that time, lossing 180Gb of data is really a bad experience), I’ve tried to recover the data with scandisk, and Norton Disk Doctor 2004 (report error ‘no filesystem’ ) without any success 🙁 Last chance was my second PC running Suse #Linux, MIRACLE, I’ve recover most of the data (95%) since #Linux has mount and read all data from the damaged disk. **Conclusions**: defragmenting is dangerous! I consider now windows as a joke and I won’t ever install a non journalised and transactionnal filesystem….Reiserfs 4 will be my next filesystem and I will replace my PC2 (w2k) with #Linux SuSE 9.1 when it will be available.
 
-## <font face="Arial Black" size="4">Test system
+## Test system
 
 # One more time, here is my system, The #Linux experience you will have is very depending on hardware (and also drivers)…..
 
@@ -46,7 +53,7 @@ What a windows users do need to install or use in SUSE 9 to complete the same ta
 - a #Linux 2.4.17 on mips processor, as you see #Linux is everywhere
 - 
 
-## <font face="Arial Black" size="4">Evening 1
+## Evening 1
 
 # Note** all these screenshot has been done with KSnapshot, finding this application was quite easy even if the menu contains a lot of entries, you can locate it under **Utilities – Desktop – KSnapshot**. I must admit that due to the huge number of shipped applications, SUSE has done a good sorting job in this menu. Of course you must know what you want to start or which task you want to accomplish
 
@@ -78,7 +85,7 @@ You get a file with an extension .rpm, many alternatives, choose one of the 3 be
 
 Anyway, I choose one and continue my tour….In opera I set in **preferences – Multimedia- #Java Path** to /usr/lib/SunJava2-1.4.2/jre/lib/i386#  and then my java appear on my homepage, done
 
-## <font face="Arial Black" size="4">Online Update 
+## Online Update 
 
 are done through ….YaST of course,(YaST I am know getting used to that name), **software – online update** to get the latest recommended patches and security fixes from one of the available SUSE server. 15 servers are installed: 13 are located in Europe and 1 in USA. The late# st server is a free choice, you can also define Your own server. I choose 3 differents servers (primary in Germany) and all were working.
 
@@ -137,7 +144,7 @@ I am using it every day, and it is probably the one which has the better GUI
 
 I mount a USB Key brand Apacer AP-MKSRU10 # (impossible to find a picture on internet, very cheap version 8â?¬) which use [Sony Memory Stick](http://www.memorystick.com/) , after a beep, the drive was recognized and in use. An icons was created on the desktop. The beep is immediate but it take sometimes several seconds till the removable drive is recognized. No problems transfer rates seem to be exactly the same as under Windows 2000.
 
-## <font face="Arial Black" size="4">Evening 2
+## Evening 2
 
 ### Security, password policy, settings and firewall
 
@@ -273,7 +280,7 @@ amule.gif
 3. After install of amule.rpm, you can start it under the menu – internet – More Programs – amule  
     You can reuse the uncomplete part and .met files from the emule windows version
 
-## O<span style="font-family: arial black;">VERNET another P2P network under #Linux
+## OVERNET another P2P network under #Linux
 
 - Go to www.overnet.com and download the core (an executable file running in command line mode)
 - You need a GUI, this one is available at http://ed2k-gtk-gui.sourceforge.net/download.shtml it is a rpm
@@ -282,16 +289,16 @@ amule.gif
 - Choose a user name, a password and click “spawn core” then “go”, you are now connected, share some files and here we go, download!!!!!!
 - overnet gui settings for suse 9overnet running
 
-## <font face="Arial Black" size="4">**Evening 3**
+## **Evening 3**
 
 ### **Burning CD**
 
 Burning CD tools can be found under Multimedia – CD/DVD Burning. 2 software are installed as default: K3b and cdbakeoven. The about K3b display the release number 0.10! this is disturbing me, is it stable when you ship anything with 0.10?
 
-| [<font face="Verdana, Arial, Helvetica, Sans-Serif" size="1">![burnincd.gif](/assets/images/2004/08/tn_burnincd.jpg)](/assets/images/2004/08/burnincd.gif) | [<font face="Verdana, Arial, Helvetica, Sans-Serif" size="1">![burnincd2.gif](/assets/images/2004/08/tn_burnincd2.jpg)](/assets/images/2004/08/burnincd2.gif) | [<font face="Verdana, Arial, Helvetica, Sans-Serif" size="1">![burnincd3.gif](/assets/images/2004/08/tn_burnincd3.jpg)](/assets/images/2004/08/burnincd3.gif) | [<font face="Verdana, Arial, Helvetica, Sans-Serif" size="1">![burnincd4.gif](/assets/images/2004/08/tn_burnincd4.jpg)](/assets/images/2004/08/burnincd4.gif) |  |
+| [![burnincd.gif](/assets/images/2004/08/tn_burnincd.jpg)](/assets/images/2004/08/burnincd.gif) | [![burnincd2.gif](/assets/images/2004/08/tn_burnincd2.jpg)](/assets/images/2004/08/burnincd2.gif) | [![burnincd3.gif](/assets/images/2004/08/tn_burnincd3.jpg)](/assets/images/2004/08/burnincd3.gif) | [![burnincd4.gif](/assets/images/2004/08/tn_burnincd4.jpg)](/assets/images/2004/08/burnincd4.gif) |  |
 |---|---|---|---|---|
 | 1. Starting K3b | 2. use the assistant, here I select    Create a Data CD | 3. Use the file explorer to locate file you want to burn - Windows drive (NTFS – FAT32) are located in /windows/ - You can give a name to your compilation, right click rename on the root.. - The space left and consume on CD disk is displayed like in any burning software. - The GUI is very similar to EasyCD creator | 4 click burn and choose burning options - Speed (I have a 16X) but only 14X is available - Writing mode: DAO, TAO, RAW - Type of session - Volume CD-Test - and filesystems and misc options.  I do not see any options missing, except an assistant for some protections schemes….(Securoom, Safedisk) |  |
-| [<font face="Verdana, Arial, Helvetica, Sans-Serif" size="1">![burnincd5.gif](/assets/images/2004/08/tn_burnincd5.jpg)](/assets/images/2004/08/burnincd5.gif) | [<font face="Verdana, Arial, Helvetica, Sans-Serif" size="1">![burnincd6.gif](/assets/images/2004/08/tn_burnincd6.jpg)](/assets/images/2004/08/burnincd6.gif) |  | [<font face="Verdana, Arial, Helvetica, Sans-Serif" size="1">![burnincd7.gif](/assets/images/2004/08/tn_burnincd7.jpg)](/assets/images/2004/08/burnincd7.gif) |  |
+| [![burnincd5.gif](/assets/images/2004/08/tn_burnincd5.jpg)](/assets/images/2004/08/burnincd5.gif) | [![burnincd6.gif](/assets/images/2004/08/tn_burnincd6.jpg)](/assets/images/2004/08/burnincd6.gif) |  | [![burnincd7.gif](/assets/images/2004/08/tn_burnincd7.jpg)](/assets/images/2004/08/burnincd7.gif) |  |
 | Burning took 4:30 minutes for 594MB and mean speed was 12X | If you want to create an audio CD - You can not directly use mp3 files but need to convert them back to wav with winamp for example. - You can also right click on a file and play it. | In the menu **tools**: - CD-RW are supported (with Erase support of course) - Copy CD or Clone CD - Burn image ISO, BIN and CUE: CCD are missing. - Copy DVD, format DVD-RW, Burn ISO image… | **Control panel**- It support plugins, only 3 are installed: mainly Audio Decoder and Audio Encoder and external programs to work properly. Highly extensible design is always good. - The control panel follow the same clarity 
 
 - Following CD projects are possible: Audio CD, Data CD, Mixed mode CD, Video cd, eMovix CD, Data DVD, eMovix DVD. As you see everything is also present.
@@ -446,7 +453,7 @@ so Install first libogg then Libtheora, Lame and finally Mplayer and Mplayer plu
 
 ## Read and write on NTFS !
 
- <font face="Arial Black" size="2">**<span style="font-weight: normal;">A lot of projects are trying to read Windows NTFS drive with more or less success**
+ **<span style="font-weight: normal;">A lot of projects are trying to read Windows NTFS drive with more or less success**
 
 | [http://linux-ntfs.sourceforge.net/ ](http://linux-ntfs.sourceforge.net/) | “The goals of this project are: create a new #Linux kernel driver for the NTFS file system (v1.2 and later 3.0), user space utilities (e.g. format, ntfs check, etc.) and a library to avoid code duplication and provide access to NTFS to other GPLed programs.”    -> it is existing in kernel 2.4.24 but with only read only capabilities,can cause loss of data!    -> Can not write or modifying existing file (no file under 1Kb and it can not change size of file….) |
 |---|---|
@@ -458,7 +465,7 @@ so Install first libogg then Libtheora, Lame and finally Mplayer and Mplayer plu
 
 ## Install KDE 3.2
 
- **step by step….** <font face="Arial Black" size="2">  
+ **step by step….**   
  # **<span style="font-family: times new roman,times,serif; font-weight: normal;">**in YaST, go to “<span style="font-family: courier new,courier,monospace;">Software“, and then “<span style="font-family: courier new,courier,monospace;">change source of installation“  
  <span style="font-family: times new roman,times,serif; font-weight: normal;">Set a new “software media source”, use the button “add” and choose ftp  
    
@@ -484,7 +491,7 @@ KBear 3.0alpha1b [# http://kbear.sourceforge.net/index.php?page=download#binarie
 
  **Configuring KDE, themes** Soon  
    
- **<span style="font-family: arial black;">Eclipse, development**  
+ **Eclipse, development**  
  Download the file #Eclipse GTK from [www.eclipse.org](http://www.eclipse.org/) decompress and start the executable.  
  Jedit [www.jedit.org](http://www.jedit.org/) is a jar based installer, open a terminal and type java -jar jedit42pre9.jar and you’re done
 
@@ -498,15 +505,15 @@ KBear 3.0alpha1b [# http://kbear.sourceforge.net/index.php?page=download#binarie
    
  
 
-##  **<span style="font-family: arial black;">Links for download**
+##  **Links for download**
 
-- [<font face="Arial Black" size="2">**http://www.suse.de/en/private/download/index.html**](http://www.suse.de/en/private/download/index.html)<font face="Arial Black" size="2"> **AND** [<font face="Arial Black" size="2">**ftp://ftp.suse.com/pub/suse/i386/9.0/suse/i586/**](ftp://ftp.suse.com/pub/suse/i386/9.0/suse/i586/)<font face="Arial Black" size="2"> **The official page of SuSE**
-- <font face="Arial Black" size="2"> [<font face="Arial Black" size="2">**http://www.rpmseek.com/index.html**](http://www.rpmseek.com/index.html)<font face="Arial Black" size="2"> **Search for RPM**
-- [<font face="Arial Black" size="2">**http://rpm.pbone.net/**](http://rpm.pbone.net/)<font face="Arial Black" size="2"> **Search for RPM**
-- <font face="Arial Black" size="2"> [<font face="Arial Black" size="2">**http://packman.links2linux.de/**](http://packman.links2linux.de/)<font face="Arial Black" size="2"> **Packman compile source code and provide RPM ready to download ()**
-- <font face="Arial Black" size="2"> [<font face="Arial Black" size="2">**ftp://ftp.suse.com/pub/suse/i386/9.0/suse/i586/** ](ftp://ftp.suse.com/pub/suse/i386/9.0/suse/i586/)<font face="Arial Black" size="2">**FTP**
+- [**http://www.suse.de/en/private/download/index.html**](http://www.suse.de/en/private/download/index.html) **AND** [**ftp://ftp.suse.com/pub/suse/i386/9.0/suse/i586/**](ftp://ftp.suse.com/pub/suse/i386/9.0/suse/i586/) **The official page of SuSE**
+-  [**http://www.rpmseek.com/index.html**](http://www.rpmseek.com/index.html) **Search for RPM**
+- [**http://rpm.pbone.net/**](http://rpm.pbone.net/) **Search for RPM**
+-  [**http://packman.links2linux.de/**](http://packman.links2linux.de/) **Packman compile source code and provide RPM ready to download ()**
+-  [**ftp://ftp.suse.com/pub/suse/i386/9.0/suse/i586/** ](ftp://ftp.suse.com/pub/suse/i386/9.0/suse/i586/)**FTP**
 
-<font face="Arial Black" size="2"> <font face="Arial Black" size="4">**To read**  
+ **To read**  
  [**http://www.linux-mag.com/cgi-bin/printer.pl?issue=2002-10&amp;article=jfs**](http://www.linux-mag.com/cgi-bin/printer.pl?issue=2002-10&article=jfs) **choose your filesystem**
 
 
@@ -514,7 +521,7 @@ KBear 3.0alpha1b [# http://kbear.sourceforge.net/index.php?page=download#binarie
 # Securing your Suse** [**http://www.antionline.com/showthread.php?s=&amp;threadid=260361**](http://www.antionline.com/showthread.php?s=&threadid=260361)   
  
 
-## <font face="Arial Black" size="4">Conclusions
+## Conclusions
 
 ### G**ood**
 
@@ -532,11 +539,20 @@ KBear 3.0alpha1b [# http://kbear.sourceforge.net/index.php?page=download#binarie
 
 Why #Linux is not at the same level as Windows? my point of view is that people on the others side do their best to avoid porting of drivers and application from 3rd party company (and may be using economical threat to achieve this aim).
 
-## <font face="Arial Black" size="4">Links with reference to this article 
+## Links with reference to this article 
 
 http://www.osnews.com/comment.php?news_id=5769 Page created with Mozilla
 
 ## **When you finish this article, You may want to read the previous** [**round 1 HERE** ](images/pc/suse/myExperience.htm)
 
-# Thanks for reading… more to come in the future  
- This page is a part of** [**www.waltercedric.com**](http://www.waltercedric.com/) **homepage – Comments welcomed click** [**HERE**](comment.html)
+# My current desktop
+![](/assets/images/2004/09/desktop2.jpg)
+
+# My first desktop
+[](/assets/images/2004/09/myCurrentdesktop1.gif)![](/assets/images/2004/09/myCurrentdesktop1.gif) kde 3.2 – Sparkle icons – Karamba: Tux gbar, maverick\_tool – kernel 2.4.25 [more…](http://www.waltercedric.com/pc/suse/mydesktop/myCurrentdesktop1.gif)
+
+# best icons for me:
+Noia Warm KDE 0.95.tar   
+Korilla\_Icons-v1.3.5.tar.bz2  
+Graphite-Rade8-1.03.tar.bz2  
+steelicons-default-1.2.5.t

@@ -76,7 +76,7 @@ by [www.motorix.ch](http://www.motorix.ch/)
   car on n’a qu’une peau et aussi belle ou tunée que soit votre moto, cela reste un bout de ferraille (de plus vous en
   aurez d’autres des motos, n'est-ce pas?) alors que boiter ou être brulé aux bras aux jambes, c’est un truc qu’on
   trimballe pour la vie.
-- Vous je sais pas mais moi j’achète le systeme d-Air de dainese des qu’il est disponible (airbag) meme pour 1000€,
+- Vous je ne sais pas, mais moi j’achète le systeme d-Air de dainese des qu’il est disponible (airbag) meme pour 1000€,
   c’est mieux qu’une sortie de pot carbone ! de toute facon un pot reste un bout de metal et se casse si on se glande
   meme a l’arrêt.
 - N’acheter que des U ou antivols frappés du sigle FFMC (Federation Francaise des motards en colere), garantis qu’ils

@@ -63,7 +63,7 @@ plugins:
 author:
   name   : "Cédric Walter"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "I am a superhero software engineer and nerd in denial."
+  bio    : "I am a superhero software engineer and nerd in denial. White Hacker. You can read more about me in the [About me](/about/) section."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"

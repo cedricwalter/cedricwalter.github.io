@@ -16,7 +16,7 @@ tags:
 
 - [Geolocate where the server is on Google Maps](http://www.parsec.it/whereis/index.php), for
   example: [www.waltercedric.com](http://www.waltercedric.com/) server is in Paris 😉
-- [Find free WIFI hotspot](http://web.njit.edu/~st7/gwifi/)
+- [Find free WI-FIhotspot](http://web.njit.edu/~st7/gwifi/)
 - [Meet hot people](http://apps.hotornot.com/jeff/), hmmm
 
 And If You have a good idea and want to develp our own application using Google Maps, You may ask How it works…

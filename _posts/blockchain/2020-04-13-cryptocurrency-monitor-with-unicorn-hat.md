@@ -24,7 +24,7 @@ Unicorn pHAT and HAT. 32 or 64 blinding ws2812 pixels for your Raspberry Pi. it 
 
 ![](/assets/images/2020/04/unicorn-hat-raspberry-pi.jpg)## Shopping list
 
-You need obviously a [raspberry pi](https://waltercedric.com/?s=raspberry), ideally with WIFI build in if you don’t like cables
+You need obviously a [raspberry pi](https://waltercedric.com/?s=raspberry), ideally with WI-FIbuild in if you don’t like cables
 
 - Raspberry Pi 1 is not supported by Unicorn Hat
 - [Raspberry pi](https://waltercedric.com/?s=raspberry) 2 , dual core, will require an Ethernet cable, can still be found on ebay, graiglist. Consume half the power of a PI 3 or 4

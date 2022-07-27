@@ -15,14 +15,14 @@ tags:
 
 [![apple-ipad-tablet-device-420x0](/assets/images/2010/05/apple-ipad-tablet-device-420x0_thumb_cf53c18cc7197cb23f313bda74f72dce.jpg "apple-ipad-tablet-device-420x0")](/assets/images/2010/05/apple-ipad-tablet-device-420x0_2_3283e1f14f12fbfa74da57495c9578b3.jpg) Just coming back from the [Zurich Bahnhofstrasse Apple store](http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=zurich+apple+shop&sll=37.0625,-95.677068&sspn=54.533615,107.138672&ie=UTF8&hq=apple+shop&hnear=Zurich,+Switzerland&ll=47.376797,8.541548&spn=0.002881,0.006539&z=18) where I did play 35 minutes with an IPAD, the shop were not crowed nor full of potential customer as I was also downstair checking accessories.
 
-I was interested by the 64Gb, Wifi + 3G iPad
+I was interested by the 64Gb, WI-FI+ 3G iPad
 
 - I don’t like the current operating system: the “desktop” look really empty: it has way too much space between icons,
 - I did not see any special killer application made for the iPad, a lot are currently just scaled up. The gallery, the shop are nothing special at all.
 - The size make it a device I wont have in my pocket, making my iPhone 3GS still relevant in most cases,
 - 700 grams is heavy, try 25 minutes lifting it!
 - I miss a camera (front AND back camera with Flashlight please),
-- The GPS is only available on the 3G version, not on all 3 WIFI models,
+- The GPS is only available on the 3G version, not on all 3 WI-FImodels,
 - Ridiculous 3G Data plan at 19CHF for 300MB and 39CHF for 2GB,
 
 - - - - - -

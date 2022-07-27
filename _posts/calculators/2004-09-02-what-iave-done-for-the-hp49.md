@@ -35,13 +35,11 @@ tags:
 
 
 I am a long user of HP calculator, in fact since 1991, and I have still kept my HP48GX with my license
-of [MetaKernel](http://www.waltercedric.com/component/content/article/147-programs-stuff-done/235-for-the-hp48.html)
-3.0 (paid 120 FF or 18€). I like the RPN way of doing thing, and I was lightning fast doing math thinking in my head
+of MetaKernel 3.0 (paid 120 FF or 18€). I like the RPN way of doing thing, and I was lightning fast doing math thinking in my head
 like a RISC processor would do, small steps with limited operations, and a lot of intermediary results. I bought four
 calculator in the past 2 months: a HP48Gx , two HP 10 Business and a 20S scientific for a total of 5 euros!!! tripling
 my collection
-size. [My section concerning the HP calculator is outdated but still online](http://www.waltercedric.com/component/content/section/18.html)
-.
+size. My section concerning the HP calculator is outdated but still online.
 
 Don’t forget also to visit hpcalc.org ([http://www.hpcalc.org](http://www.hpcalc.org/)), the premier source of
 software for and information about the HP 50, HP 49, HP 48, and HP 28 RPN programmable graphic calculators and the HP
@@ -51,7 +49,7 @@ Under the pseudo : Elta, (the last magician lord a famous SNK Neo Geo game)
 
 I have done a nice picture on 20th March 1998. Take any HP49 in the world, and try a soft reset (ON-C), and you can see
 my picture!!!!!. My signature is on the left corner, you can press ON quickly to freeze the pictures.
-The [MetaKernel](http://www.waltercedric.com/MetaKernel/index.html) is a masterpiece of software written entirely in
+The MetaKernel is a masterpiece of software written entirely in
 ASM. I use to buy a license (version 2.20) when it was still on HP48Gx before it was merged inside the HP49
 kernel.
 

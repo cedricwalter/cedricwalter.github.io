@@ -24,7 +24,7 @@ The python script is easily extensible and let you add any cryptocurrency pair.
 
 ## Shopping list
 
-You need obviously a raspberry pi, ideally with WIFI build in if you don’t like cables
+You need obviously a raspberry pi, ideally with WI-FIbuild in if you don’t like cables
 
 - Raspberry pi 1, single core, will require an Ethernet cable
 - Raspberry pi 2 , dual core, will require an Ethernet cable

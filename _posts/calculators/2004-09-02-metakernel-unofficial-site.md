@@ -97,7 +97,7 @@ A huge portion of that page was first published in raw HTML in 1998! (without CS
 >
 > Have a nice day …
 >
-> Ps : we don’t wrote the MetaKernel for money, only for HP48 users wich wants to use their HP48 the best is possible…
+> Ps : we don’t write the MetaKernel for money, only for HP48 users wich wants to use their HP48 the best is possible…
 > And sending a paper notice is quite expensive…  
 > All the MetaKernel’s writer are member of The MDG (Maubert Development Group). The MDG is an official HP developers.
 >
@@ -127,7 +127,7 @@ Jean-Yves Avenard in the HP 48 times. Then HP hired him and he joined ACO.
 
 # Programming
 
-Please be patient I must updated all descriptions and credit to the authors. We need your help : Please help us and
+Please be patient I must update all descriptions and credit to the authors. We need your help : Please help us and
 develop program for MDG Kernel.  
 If You want to get in touch with the author : [Gérald squelart](mailto:squelart@aemiaif.lip6.fr)
 or [Jean Yves Avenard](mailto:avenar_j@epita.fr)

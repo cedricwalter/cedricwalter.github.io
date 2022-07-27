@@ -106,7 +106,7 @@ make
 
 ### Use a Tezos snapshot
 
-[tezos-snapshots](https://github.com/Phlogi/tezos-snapshots) provide Automatic tezos blockchain daily snapshot [releases](https://github.com/Phlogi/tezos-snapshots/releases) and will save us days of synchronization. It took me 10 min using Wifi ac to download a full node snapshot archive.
+[tezos-snapshots](https://github.com/Phlogi/tezos-snapshots) provide Automatic tezos blockchain daily snapshot [releases](https://github.com/Phlogi/tezos-snapshots/releases) and will save us days of synchronization. It took me 10 min using WI-FIac to download a full node snapshot archive.
 
 We install *jq*. a lightweight and flexible command-line JSON processor to be able to parse the JSON Github API response to locate the latest set of files.
 

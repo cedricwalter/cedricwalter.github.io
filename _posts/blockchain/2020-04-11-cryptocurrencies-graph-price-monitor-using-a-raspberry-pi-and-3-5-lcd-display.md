@@ -5,9 +5,6 @@ date: '2020-04-11T20:04:18+02:00'
 author: 'Cédric Walter'
 categories:
 - blockchain
-
-
-
     
 header:
   teaser: /assets/images/2020/04/cryptocurrencies-graph-raspberry-pi-lcd.jpg
@@ -22,10 +19,10 @@ We will use the project [Bitcoin chart for the terminal](https://github.com/madn
 
 ## Shopping list
 
-You need obviously a raspberry pi, ideally with WIFI build in if you don’t like cables
+You need obviously a raspberry pi, ideally with WI-FIbuild in if you don’t like cables
 
 - Raspberry pi 1, single core, will require an Ethernet cable
-- Raspberry pi 2 , dual core, will require an Ethernet cable
+- Raspberry pi 2 , dual-core, will require an Ethernet cable
 - Raspberry pi 3 or 4, a bit a shame to use this amount of power for that task, but has built in WIFI
 
 A [3.5” LCD screen from Amazon](https://amzn.to/2xmJHb9)
@@ -136,7 +133,9 @@ and reboot
 sudo reboot
 ```
 
-![](/assets/images/2020/04/cryptocurrencies-graph-raspberry-pi-lcd.jpg)<figcaption>cryptocurrencies-graph-raspberry-pi-lcd</figcaption>## SSH login do not work anymore?
+![](/assets/images/2020/04/cryptocurrencies-graph-raspberry-pi-lcd.jpg)
+
+## SSH login do not work anymore?
 
 After that you can not log anymore with SSH to the PI user, to be able to login, add a USB keyboard and type
 

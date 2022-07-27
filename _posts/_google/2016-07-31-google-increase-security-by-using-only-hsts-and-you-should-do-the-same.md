@@ -26,7 +26,7 @@ Quoting the Mozilla Developer Network:
 
 An example scenario:
 
-> You log into a free WiFi access point at an airport and start surfing the web, visiting your online banking service to check your balance and pay a couple of bills. Unfortunately, the access point you’re using is actually a hacker’s laptop, and they’re intercepting your original HTTP request and redirecting you to a clone of your bank’s site instead of the real thing. Now your private data is exposed to the hacker. Strict Transport Security resolves this problem; as long as you’ve accessed your bank’s web site once using HTTPS, and the bank’s web site uses Strict Transport Security, your browser will know to automatically use only HTTPS, which prevents hackers from performing this sort of man-in-the-middle attack.
+> You log into a free WI-FIaccess point at an airport and start surfing the web, visiting your online banking service to check your balance and pay a couple of bills. Unfortunately, the access point you’re using is actually a hacker’s laptop, and they’re intercepting your original HTTP request and redirecting you to a clone of your bank’s site instead of the real thing. Now your private data is exposed to the hacker. Strict Transport Security resolves this problem; as long as you’ve accessed your bank’s web site once using HTTPS, and the bank’s web site uses Strict Transport Security, your browser will know to automatically use only HTTPS, which prevents hackers from performing this sort of man-in-the-middle attack.
 
 For #NGINX add this in the `server` block for your HTTPS configuration:
 

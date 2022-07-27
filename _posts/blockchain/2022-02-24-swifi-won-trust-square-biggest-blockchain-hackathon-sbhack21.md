@@ -1,6 +1,6 @@
 ---
 
-title: "Swifi won Trust Square biggest blockchain Hackathon #SBHACK21"
+title: "SWI-FIwon Trust Square biggest blockchain Hackathon #SBHACK21"
 date: '2022-02-24T16:33:05+01:00'
 author: 'Cédric Walter'
 
@@ -63,11 +63,11 @@ Ticket!
 * 16 challenges
 
 # Submission
-Check our submission [https://devpost.com/software/swifi ](https://devpost.com/software/swifi)and 3 min video
+Check our submission [https://devpost.com/software/sWI-FI](https://devpost.com/software/swifi)and 3 min video
 
 <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
 allowfullscreen="" frameborder="0"
-height="608" loading="lazy" src="https://www.youtube.com/embed/0X3j2wMPujU?feature=oembed" title="SwiFi - Swiss Stable
+height="608" loading="lazy" src="https://www.youtube.com/embed/0X3j2wMPujU?feature=oembed" title="SWI-FI- Swiss Stable
 Coin SBHack21" width="1080">
 </iframe>
 <figcaption>https://www.youtube.com/watch?v=0X3j2wMPujU</figcaption>

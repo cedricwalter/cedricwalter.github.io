@@ -26,7 +26,7 @@ The tablet also designed with Bluetooth 2.1, supports quad-band of 3G/4G HSPA+ 2
 - 8MP rear-facing camera with auto focus,
 - 16GB or 32GB internal storage,
 - NVIDIA 1GHz Tegra 2 dual core processor
-- WiFi 802.11a/b/g/n,
+- WI-FI802.11a/b/g/n,
 - 6860mAh battery,
 - LED flash
 - 1080p Full HD video recording

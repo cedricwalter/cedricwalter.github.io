@@ -34,7 +34,7 @@ Les Faits:
 J’utilise 3 pc dont 1 occasionnelement en wireless, avec emule ou sans le modem freeze, je perd l interface web, il
 tient pas 12heures connectés, les performances sont minables a telle point que je suis retourner sur le modem eci usb de
 l’opérateur historique..  
-Soit le routeur perdait la connection automatique, soit le wifi bloquait le modem, et ce même avec aucun pc sur le
+Soit le routeur perdait la connection automatique, soit le WI-FIbloquait le modem, et ce même avec aucun pc sur le
 réseau!!! Le résultat était toujours le même, plus d’accès a la console web du routeur.
 
 A peu prés 30% des utilsateurs sur le forum se plaignaient de ce routeur. J’ai eu 512kb en downstream pendant 9 mois

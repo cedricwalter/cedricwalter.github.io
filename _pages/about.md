@@ -4,8 +4,14 @@ title: "About"
 toc: true
 ---
 
-# I’m the owner of 
-the following company, blogs and webpages.
+# Resume
+- [One-page resume](https://www.dropbox.com/s/onpnxto6f2qxy03/CedricWalter-resume-onepage.pdf?dl=0 "Download Cédric Walter one page resume (PDF)")
+- [Short resume](https://www.dropbox.com/s/4oocj0skbw20xyk/CedricWalter-resume-short.pdf?dl=0 "Download Cédric Walter short resume (PDF)")
+- [Long resume](https://www.dropbox.com/s/ifrkh5n9hsz2qsh/CedricWalter-resume-long.pdf?dl=0 "Download Cédric Walter long resume(PDF)")
+- [LinkedIn](http://www.linkedin.com/in/cedricwalter "Cédric Walter LinedIn")
+
+# Companies, blogs and more
+I’m the owner of the following company, blogs and webpages.
 
 ## This blog
 The blog you are reading now! online since 1997. It was having 4200 posts before it was migrated to a static blog generator.
@@ -16,15 +22,16 @@ Most disabled posts were news (few lines or information now outdated) or outdate
 - [cedricwalter.com](https://www.cedricwalter.com)
 - [cedricwalter.ch](https://www.cedricwalter.ch)
 
-From HTML in 1997, HTML+Java in 1999, HTML+CSS in 2000, Mambo in 2003, Joomla in 2004 and since 2020 WordPress
+a long road
+* HTML 1997 - 1999 
+* HTML+Java in 1999 - 2000 
+* HTML+CSS in 2000 - 2003 
+* Mambo in 2003 - 2004 
+* Joomla in 2004 - 2020 
+* WordPress 2020 - 2022
+* Jekyll 2022
 
 Still Online 🙂
-
-- [ One page resume](https://www.dropbox.com/s/1p01r9zivryecl3/CedricWalter-resume-onepage.pdf?dl=0 "Download Cédric Walter one page resume (PDF)")
-- [ Short resume](https://www.dropbox.com/s/c1t9d6c74ry8kwm/CedricWalter-resume-short.pdf?dl=0 "Download Cédric Walter short resume (PDF)")
-- [ Long resume](https://www.dropbox.com/s/9tnj4ri3euo36ji/CedricWalter-resume-long.pdf?dl=0 "Download Cédric Walter long resume(PDF)")
-
-[](http://www.linkedin.com/in/cedricwalter "Cédric Walter LinedIn")
 
 ## disruptr.ch
 ![](/assets/images/2020/03/disruptr-logo.png)](https://disruptr.ch/)

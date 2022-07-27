@@ -144,7 +144,7 @@ Go into the config, sudo raspi-config and set at least the following
 - Under localization options, the proper keyboard layout (german swiss for me)
 - Under Interfacing option, activate SSH (Optional useful to connect to Pi to launch command without physical access with a keyboard )
 - Under Advance option, set the Audio to “3.5 headphone jack”
-- Under Network set the WIFI SSID and password (Optional you can also use the Ethernet port)
+- Under Network set the WI-FISSID and password (Optional you can also use the Ethernet port)
 
 Quit Raspi-config
 

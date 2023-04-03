@@ -32,3 +32,11 @@ grep -lir 'joomla' * | xargs mv -t joomla
 
 
 gem update jekyll
+
+
+
+Ensure XCode is installed!
+
+echo "source $(brew --prefix)/opt/chruby/share/chruby/chruby.sh" >> ~/.zshrc
+echo "source $(brew --prefix)/opt/chruby/share/chruby/auto.sh" >> ~/.zshrc
+echo "chruby ruby-3.2.1" >> ~/.zshrc # run 'chruby' to see actual version

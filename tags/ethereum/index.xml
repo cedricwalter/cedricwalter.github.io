@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ethereum on Cédric Walter blog</title>
+    <link>https://www.waltercedric.com/tags/ethereum/</link>
+    <description>Recent content in ethereum on Cédric Walter blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Reproduction without explicit permission is prohibited. All Rights Reserved. All photos remain copyright © their rightful owners. No copyright infringement is intended.</copyright>
+    <lastBuildDate>Sat, 11 Apr 2020 18:04:18 +0000</lastBuildDate>
+    <atom:link href="https://www.waltercedric.com/tags/ethereum/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cryptocurrencies Graph price using  a Raspberry Pi and 3.5” LCD Display</title>
+      <link>https://www.waltercedric.com/cryptocurrencies-graph-price-monitor-using-a-raspberry-pi-and-3-5-lcd-display/</link>
+      <pubDate>Sat, 11 Apr 2020 18:04:18 +0000</pubDate>
+      <guid>https://www.waltercedric.com/cryptocurrencies-graph-price-monitor-using-a-raspberry-pi-and-3-5-lcd-display/</guid>
+      <description>We will use the project [Bitcoin chart for the terminal][1] as command line util. For a list of supported cryptocurrencies see [coins][2].&#xA;Shopping list You need obviously a raspberry pi, ideally with WIFI build in if you don &amp;rsquo;t like cables&#xA;Raspberry pi 1, single core, will require an Ethernet cable Raspberry pi 2 , dual core, will require an Ethernet cable Raspberry pi 3 or 4, a bit a shame to use this amount of power for that task, but has built in WIFI A 3.</description>
+    </item>
+    <item>
+      <title>Multi cryptocurrencies price Ticker using Raspberry Pi and 3.5” LCD Display</title>
+      <link>https://www.waltercedric.com/multi-cryptocurrencies-price-ticker-using-raspberry-pi-and-3-5-lcd-display/</link>
+      <pubDate>Sat, 11 Apr 2020 11:16:49 +0000</pubDate>
+      <guid>https://www.waltercedric.com/multi-cryptocurrencies-price-ticker-using-raspberry-pi-and-3-5-lcd-display/</guid>
+      <description>How to monitor your favorite cryptocurrencies on a 3.5 inches LCD and any Raspberry PI!&#xA;The python script is easily extensible and let you add any cryptocurrency pair.&#xA;Shopping list You need obviously a raspberry pi, ideally with WIFI build in if you don &amp;rsquo;t like cables&#xA;Raspberry pi 1, single core, will require an Ethernet cable Raspberry pi 2 , dual core, will require an Ethernet cable Raspberry pi 3 or 4, a bit a shame to use this amount of power for that task, but has built in WIFI A 3.</description>
+    </item>
+    <item>
+      <title>Bitcoin And Ethereum price Ticker using Raspberry Pi and Display-O-Tron</title>
+      <link>https://www.waltercedric.com/bitcoin-ethereum-price-ticker-using-raspberry-pi-and-displayotron/</link>
+      <pubDate>Sat, 11 Apr 2020 08:58:08 +0000</pubDate>
+      <guid>https://www.waltercedric.com/bitcoin-ethereum-price-ticker-using-raspberry-pi-and-displayotron/</guid>
+      <description>How to monitor the Bitcoin and Ethereum price on a DisplayOTron LCD and any Raspberry PI!&#xA;Shopping list You need obviously a raspberry pi, ideally with WIFI build in if you don &amp;rsquo;t like cables&#xA;PI Zero W Raspberry pi 1, single core, will require an Ethernet cable Raspberry pi 2 , dual core, will require an Ethernet cable Raspberry pi 3 or 4, a bit a shame to use this amount of power for that task, has built in WIFI A displayOTron (Shop – [Github][1]) Includes a 16×3 character LCD display, 6-zone RGB LED backlight, bar graph, and six capacitive touch buttons all in one slim package.</description>
+    </item>
+    <item>
+      <title>BlockByte won Trust Square biggest blockchain Hackathon #SBHACK19</title>
+      <link>https://www.waltercedric.com/blockbyte-won-trust-square-biggets-blockchain-hackathon-sbhack19/</link>
+      <pubDate>Wed, 10 Jul 2019 04:55:01 +0000</pubDate>
+      <guid>https://www.waltercedric.com/blockbyte-won-trust-square-biggets-blockchain-hackathon-sbhack19/</guid>
+      <description>Last weekend I took part in the biggest Swiss Blockchain Hackathon #SBHACK19, and our team Lend-It won twice!&#xA;BlockByte won in agriculture vertical. BlockByte won First prize among 39 teams together with Velove team. 200+ hackers, 20+ countries, 39 teams, 7 verticals (Agriculture &amp;amp; Food, eGovernment, Mobility, Finance, Intelligent Parcel, Supply Chain) , 57 coaches, 6211 messages in Slack, 20 million lines of code written in just 42 hours!&#xA;Many interesting solutions have been developed in the fields of intelligent parcels, finance, agriculture and food and others.</description>
+    </item>
+  </channel>
+</rss>

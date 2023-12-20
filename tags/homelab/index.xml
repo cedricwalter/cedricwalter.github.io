@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>homelab on Cédric Walter blog</title>
+    <link>https://www.waltercedric.com/tags/homelab/</link>
+    <description>Recent content in homelab on Cédric Walter blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Reproduction without explicit permission is prohibited. All Rights Reserved. All photos remain copyright © their rightful owners. No copyright infringement is intended.</copyright>
+    <lastBuildDate>Mon, 28 Aug 2023 08:07:25 +0000</lastBuildDate>
+    <atom:link href="https://www.waltercedric.com/tags/homelab/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Building a Plex Media Server on Raspberry Pi 4: Your Ultimate DIY Guide</title>
+      <link>https://www.waltercedric.com/building-a-plex-media-server-on-raspberry-pi-4-your-ultimate-diy-guide/</link>
+      <pubDate>Mon, 28 Aug 2023 08:07:25 +0000</pubDate>
+      <guid>https://www.waltercedric.com/building-a-plex-media-server-on-raspberry-pi-4-your-ultimate-diy-guide/</guid>
+      <description>In the era of digital media consumption, having a centralized hub to manage and stream your media content has become increasingly important. Enter the Plex Media Server—an incredibly versatile platform that allows you to organize, access, and enjoy your movies, TV shows, music, and photos from any device, anywhere. And what &amp;rsquo;s even better? You can set up your very own Plex Media Server using a Raspberry Pi 4, a budget-friendly and energy-efficient solution that &amp;rsquo;s perfect for DIY enthusiasts.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tv7 on Cédric Walter blog</title>
+    <link>https://www.waltercedric.com/tags/tv7/</link>
+    <description>Recent content in tv7 on Cédric Walter blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Reproduction without explicit permission is prohibited. All Rights Reserved. All photos remain copyright © their rightful owners. No copyright infringement is intended.</copyright>
+    <lastBuildDate>Sun, 03 Dec 2023 21:01:05 +0000</lastBuildDate>
+    <atom:link href="https://www.waltercedric.com/tags/tv7/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Alternate way to watch Init7 TV7 – Swiss Live Streaming Broadcast Television</title>
+      <link>https://www.waltercedric.com/switzerland/alternate-way-to-watch-init7-tv7-swiss-live-streaming-broadcast-television/</link>
+      <pubDate>Sun, 03 Dec 2023 21:01:05 +0000</pubDate>
+      <guid>https://www.waltercedric.com/switzerland/alternate-way-to-watch-init7-tv7-swiss-live-streaming-broadcast-television/</guid>
+      <description>I struggled last time with PLEX media server, you need to install xTeVe, then UDPproxy to rewrite the content of the m3u (do not exist for PI) this emulate the TVTuner, import the XML TV guide and define the tuner mapping (a pain!) add that this is not easily working on a raspberry pi… a disaster&#xA;Till I Discover JellyFin, Live TV is supported out of the box!&#xA;You just need to add the m3u and the XML TV guide!</description>
+    </item>
+  </channel>
+</rss>

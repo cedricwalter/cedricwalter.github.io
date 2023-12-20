@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>support on Cédric Walter blog</title>
+    <link>https://www.waltercedric.com/tags/support/</link>
+    <description>Recent content in support on Cédric Walter blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Reproduction without explicit permission is prohibited. All Rights Reserved. All photos remain copyright © their rightful owners. No copyright infringement is intended.</copyright>
+    <lastBuildDate>Fri, 25 Aug 2023 13:30:17 +0000</lastBuildDate>
+    <atom:link href="https://www.waltercedric.com/tags/support/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>buy me a coffee</title>
+      <link>https://www.waltercedric.com/buy-me-a-coffee/</link>
+      <pubDate>Fri, 25 Aug 2023 13:30:17 +0000</pubDate>
+      <guid>https://www.waltercedric.com/buy-me-a-coffee/</guid>
+      <description>Buy me a coffee</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>raspberry on Cédric Walter blog</title>
+    <link>https://www.waltercedric.com/tags/raspberry/</link>
+    <description>Recent content in raspberry on Cédric Walter blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Reproduction without explicit permission is prohibited. All Rights Reserved. All photos remain copyright © their rightful owners. No copyright infringement is intended.</copyright>
+    <lastBuildDate>Mon, 13 Apr 2020 09:23:14 +0000</lastBuildDate>
+    <atom:link href="https://www.waltercedric.com/tags/raspberry/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cryptocurrency monitor with Unicorn HAT</title>
+      <link>https://www.waltercedric.com/cryptocurrency-monitor-with-unicorn-hat/</link>
+      <pubDate>Mon, 13 Apr 2020 09:23:14 +0000</pubDate>
+      <guid>https://www.waltercedric.com/cryptocurrency-monitor-with-unicorn-hat/</guid>
+      <description>Unicorn pHAT and HAT. 32 or 64 blinding ws2812 pixels for your Raspberry Pi. it is called Unicorn Hat because it does rainbows, really bright rainbows! ATTENTION: do not stare directly at the led without a sheet of paper on it. LED are REALLY bright!&#xA;Shopping list You need obviously a [raspberry pi][1], ideally with WIFI build in if you don &amp;rsquo;t like cables&#xA;Raspberry Pi 1 is not supported by Unicorn Hat Raspberry pi 2 , dual core, will require an Ethernet cable, can still be found on ebay, graiglist.</description>
+    </item>
+    <item>
+      <title>Upgrading your Picade 8” to 10”</title>
+      <link>https://www.waltercedric.com/upgrading-your-picade-8-to-10/</link>
+      <pubDate>Sun, 23 Feb 2020 19:29:23 +0000</pubDate>
+      <guid>https://www.waltercedric.com/upgrading-your-picade-8-to-10/</guid>
+      <description>Picade is a Raspberry Pi-powered mini arcade that you build yourself, with authentic arcade controls, a high resolution 4:3 display that &amp;rsquo;s ideal for retro gaming, and a punchy speaker to hear those 8-bit game soundtracks at their best.&#xA;The ultimate desktop retro arcade machine! Picade is a Raspberry Pi-powered mini arcade that you build yourself, with authentic arcade controls, a high resolution 4:3 display that &amp;rsquo;s ideal for retro gaming, and a punchy speaker to hear those 8-bit game soundtracks at their best</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Me on Cédric Walter blog</title>
+    <link>https://www.waltercedric.com/categories/me/</link>
+    <description>Recent content in Me on Cédric Walter blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Reproduction without explicit permission is prohibited. All Rights Reserved. All photos remain copyright © their rightful owners. No copyright infringement is intended.</copyright>
+    <lastBuildDate>Wed, 25 Aug 2010 13:58:00 +0000</lastBuildDate>
+    <atom:link href="https://www.waltercedric.com/categories/me/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About me</title>
+      <link>https://www.waltercedric.com/about/</link>
+      <pubDate>Wed, 25 Aug 2010 13:58:00 +0000</pubDate>
+      <guid>https://www.waltercedric.com/about/</guid>
+      <description>Cédric Walter is a French-Swiss entrepreneur, investor, and software engineer based in Zurich, Switzerland. He spent his career developing software applications for Swiss insurance companies to handle billions of dollars in premiums. He cofounded Innoveo AG and as the software architect developed the no-code platform designed to reduce the manual coding that powers many software apps. As an active participant in the European hacking community, he works on many open source projects including blockchain.</description>
+    </item>
+  </channel>
+</rss>

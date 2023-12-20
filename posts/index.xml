@@ -1,0 +1,1105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Cédric Walter blog</title>
+    <link>https://www.waltercedric.com/posts/</link>
+    <description>Recent content in Posts on Cédric Walter blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Reproduction without explicit permission is prohibited. All Rights Reserved. All photos remain copyright © their rightful owners. No copyright infringement is intended.</copyright>
+    <lastBuildDate>Sun, 03 Dec 2023 21:01:05 +0000</lastBuildDate>
+    <atom:link href="https://www.waltercedric.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Alternate way to watch Init7 TV7 – Swiss Live Streaming Broadcast Television</title>
+      <link>https://www.waltercedric.com/switzerland/alternate-way-to-watch-init7-tv7-swiss-live-streaming-broadcast-television/</link>
+      <pubDate>Sun, 03 Dec 2023 21:01:05 +0000</pubDate>
+      <guid>https://www.waltercedric.com/switzerland/alternate-way-to-watch-init7-tv7-swiss-live-streaming-broadcast-television/</guid>
+      <description>I struggled last time with PLEX media server, you need to install xTeVe, then UDPproxy to rewrite the content of the m3u (do not exist for PI) this emulate the TVTuner, import the XML TV guide and define the tuner mapping (a pain!) add that this is not easily working on a raspberry pi… a disaster&#xA;Till I Discover JellyFin, Live TV is supported out of the box!&#xA;You just need to add the m3u and the XML TV guide!</description>
+    </item>
+    <item>
+      <title>AccuRC vs. CGM Next RC Simulator</title>
+      <link>https://www.waltercedric.com/rc-helicopter-airplanes-fpv-drone/accurc-vs-cgm-next-rc-simulator/</link>
+      <pubDate>Thu, 30 Nov 2023 18:43:01 +0000</pubDate>
+      <guid>https://www.waltercedric.com/rc-helicopter-airplanes-fpv-drone/accurc-vs-cgm-next-rc-simulator/</guid>
+      <description>Among the top contenders in the market, AccuRC and CGM Next RC Simulator stand out as titans, offering cutting-edge features and realistic experiences for RC enthusiasts. In this comprehensive review, we &amp;rsquo;ll dive into the intricacies of both simulators, exploring their strengths, weaknesses, and unique features.&#xA;AccuRC Realistic Physics and Dynamics&#xA;AccuRC is renowned for its unparalleled physics engine, providing an incredibly realistic flight experience. The simulator simulates various aerodynamic factors, wind conditions, and aircraft-specific characteristics, making it a favourite among serious RC pilots.</description>
+    </item>
+    <item>
+      <title>What is Bank Switching for RC Helicopter?</title>
+      <link>https://www.waltercedric.com/rc-helicopter-airplanes-fpv-drone/what-is-bank-switching-for-rc-helicopter/</link>
+      <pubDate>Thu, 23 Nov 2023 15:03:17 +0000</pubDate>
+      <guid>https://www.waltercedric.com/rc-helicopter-airplanes-fpv-drone/what-is-bank-switching-for-rc-helicopter/</guid>
+      <description>In the context of RC (radio-controlled) helicopters, &amp;ldquo;bank switching&amp;rdquo; typically refers to a feature related to setting up and switching between different flight modes or configurations. These flight modes often include variations in control responsiveness, stability, and other parameters to suit different styles of flying or specific maneuvers. The term &amp;ldquo;bank&amp;rdquo; here is used in the sense of a selection or setting. It require an additional channel (5 are required for RC Helicopter, so you need at least 6 or more)</description>
+    </item>
+    <item>
+      <title>SAB Raw 700</title>
+      <link>https://www.waltercedric.com/rc-helicopter-airplanes-fpv-drone/my-sab-raw-700/</link>
+      <pubDate>Thu, 23 Nov 2023 12:11:49 +0000</pubDate>
+      <guid>https://www.waltercedric.com/rc-helicopter-airplanes-fpv-drone/my-sab-raw-700/</guid>
+      <description>SAB (Scorpion Antennas and Batteries) primarily focused on manufacturing and designing high-quality radio-controlled (RC) helicopters. Here &amp;rsquo;s a brief overview of some SAB RC helicopter models:&#xA;Goblin Series: The Goblin series is one of SAB &amp;rsquo;s flagship lines of helicopters. Goblins are known for their high performance, precision engineering, and innovative design. Different Goblin models cater to various skill levels and preferences, from beginners to advanced pilots. RAW: RAW is another series of helicopters from SAB.</description>
+    </item>
+    <item>
+      <title>The Classic Charm of the Bernardet Scooter</title>
+      <link>https://www.waltercedric.com/scooter/the-classic-charm-of-the-bernardet-scooter/</link>
+      <pubDate>Fri, 20 Oct 2023 08:10:55 +0000</pubDate>
+      <guid>https://www.waltercedric.com/scooter/the-classic-charm-of-the-bernardet-scooter/</guid>
+      <description>In the world of classic scooters, few names evoke as much nostalgia and admiration as the Bernardet Scooter. This timeless two-wheeled wonder has an enduring appeal that captures the essence of a bygone era. With its elegant design and a history steeped in innovation, the Bernardet Scooter is a gem that deserves to be celebrated. In this blog post, we will take a journey back in time to explore the legacy of the Bernardet Scooter.</description>
+    </item>
+    <item>
+      <title>How to spot fake honey</title>
+      <link>https://www.waltercedric.com/how-to-spot-fake-honey/</link>
+      <pubDate>Tue, 17 Oct 2023 14:50:40 +0000</pubDate>
+      <guid>https://www.waltercedric.com/how-to-spot-fake-honey/</guid>
+      <description>Detecting fake honey can be challenging because some counterfeit products are skillfully made to resemble real honey.&#xA;46% of the honey samples analyzed are fraudulent With 46% of the samples analyzed being fraudulent, it is safe to say that a significant proportion of the honey consumed in Europe is fake. “With 175,000 tons of honey imported per year, the Old Continent is the world’s second-largest importer of honey after the United States,” source Forbes.</description>
+    </item>
+    <item>
+      <title>Master the Skies with the OMP Hobby M2 EVO: A Thrilling Adventure into RC Helicopter Enthusiasm</title>
+      <link>https://www.waltercedric.com/rc-helicopter-airplanes-fpv-drone/master-the-skies-with-the-omp-hobby-m2-evo-a-thrilling-adventure-into-rc-helicopter-enthusiasm/</link>
+      <pubDate>Fri, 13 Oct 2023 09:27:50 +0000</pubDate>
+      <guid>https://www.waltercedric.com/rc-helicopter-airplanes-fpv-drone/master-the-skies-with-the-omp-hobby-m2-evo-a-thrilling-adventure-into-rc-helicopter-enthusiasm/</guid>
+      <description>Remote-controlled (RC) helicopters have long been a source of fascination and excitement for hobbyists of all ages. The OMP Hobby M2 Evo, with its cutting-edge technology and innovative design, takes this passion to new heights. In this blog post, we &amp;rsquo;ll delve into the world of RC helicopters, exploring what makes the OMP Hobby M2 Evo so remarkable and why it &amp;rsquo;s become a top choice for enthusiasts. Whether you &amp;rsquo;re a seasoned pro or a beginner looking to venture into the thrilling world of RC helicopters, the M2 Evo is sure to captivate your imagination.</description>
+    </item>
+    <item>
+      <title>ExpressLRS vs. Crossfire: Exploring the Future of Long-Range RC Control</title>
+      <link>https://www.waltercedric.com/rc-helicopter-airplanes-fpv-drone/expresslrs-vs-crossfire-exploring-the-future-of-long-range-rc-control/</link>
+      <pubDate>Tue, 10 Oct 2023 17:03:02 +0000</pubDate>
+      <guid>https://www.waltercedric.com/rc-helicopter-airplanes-fpv-drone/expresslrs-vs-crossfire-exploring-the-future-of-long-range-rc-control/</guid>
+      <description>In the world of long-range RC (Radio Control) control systems, two names have risen to prominence: ExpressLRS and Crossfire. These systems are at the forefront of technological advancements, pushing the boundaries of what &amp;rsquo;s possible in the world of remote-controlled devices. In this blog post, we &amp;rsquo;ll dive into the comparison between ExpressLRS and Crossfire, exploring their features, capabilities, and the advantages they offer to RC enthusiasts and professionals.&#xA;ExpressLRS: The Open-Source Revolution 1.</description>
+    </item>
+    <item>
+      <title>A Timeless Classic: The Vespa Acma 1954</title>
+      <link>https://www.waltercedric.com/scooter/a-timeless-classic-the-vespa-acma-1954/</link>
+      <pubDate>Tue, 10 Oct 2023 12:45:01 +0000</pubDate>
+      <guid>https://www.waltercedric.com/scooter/a-timeless-classic-the-vespa-acma-1954/</guid>
+      <description>One name stands out for its enduring charm and timeless appeal – the Vespa Acma 1954. With its elegant design, smooth lines, and a history that traces back to the mid-20th century, this iconic scooter has won the hearts of riders and collectors alike. Join us as we take a journey back in time to explore the fascinating story of the Vespa Alma 1954.&#xA;A Glimpse into Vespa &amp;rsquo;s History: The Vespa scooter was first introduced by the Italian company Piaggio in 1946.</description>
+    </item>
+    <item>
+      <title>Update the Nirvana or FlySky NV14 to latest EdgeTX firmware</title>
+      <link>https://www.waltercedric.com/rc-helicopter-airplanes-fpv-drone/update-the-nirvana-or-flysky-nv14-to-latest-edgetx-firmware/</link>
+      <pubDate>Sun, 08 Oct 2023 20:02:18 +0000</pubDate>
+      <guid>https://www.waltercedric.com/rc-helicopter-airplanes-fpv-drone/update-the-nirvana-or-flysky-nv14-to-latest-edgetx-firmware/</guid>
+      <description>EdgeTX is a popular open-source firmware for RC (Radio Control) transmitters. It offers a wide range of features and customization options for hobbyists and enthusiasts in the RC community. Keeping your EdgeTX installation up to date ensures you have access to the latest features, improvements, and bug fixes. One crucial aspect of updating EdgeTX is updating the SD card contents. In this blog post, we will guide you through the process of updating EdgeTX and its SD card to the latest version.</description>
+    </item>
+    <item>
+      <title>Revolutionizing Remote Control: Exploring the Radiomaster Pocket ELRS with CC2500</title>
+      <link>https://www.waltercedric.com/rc-helicopter-airplanes-fpv-drone/revolutionizing-remote-control-exploring-the-radiomaster-pocket-elrs-with-cc2500/</link>
+      <pubDate>Thu, 05 Oct 2023 12:20:44 +0000</pubDate>
+      <guid>https://www.waltercedric.com/rc-helicopter-airplanes-fpv-drone/revolutionizing-remote-control-exploring-the-radiomaster-pocket-elrs-with-cc2500/</guid>
+      <description>EdgeTX support RadioMaster Pocket is planned to be fully supported I 2.10 only. You can not use EdgeTX companion 2.9.1 yet!&#xA;In the ever-evolving world of remote control systems, enthusiasts are constantly searching for the perfect combination of range, reliability, and control. The Radiomaster Pocket ELRS, equipped with the powerful CC2500 module, has emerged as a game-changer in this arena. In this blog post, we will delve into the Radiomaster Pocket ELRS with CC2500, highlighting its key features and explaining why it has become a favorite among remote control enthusiasts.</description>
+    </item>
+    <item>
+      <title>Motorcycles</title>
+      <link>https://www.waltercedric.com/motorcycles/</link>
+      <pubDate>Thu, 21 Sep 2023 12:56:19 +0000</pubDate>
+      <guid>https://www.waltercedric.com/motorcycles/</guid>
+      <description>Your first motorcycle? Choosing a first motorcycle should also depend on your individual needs, preferences, and level of riding experience. Be sure to take into account factors such as your riding goals, physical size and comfort, budget, and the availability of training courses in your area before making a decision. Additionally, always wear appropriate safety gear and consider enrolling in a motorcycle safety course to learn essential riding skills.&#xA;User-Friendly Power: The Hornet typically has a manageable and user-friendly power delivery.</description>
+    </item>
+    <item>
+      <title>WLtoys XK A280 RC Airplane</title>
+      <link>https://www.waltercedric.com/rc-helicopter-airplanes-fpv-drone/wltoys-xk-a280-rc-airplane/</link>
+      <pubDate>Sun, 10 Sep 2023 16:07:48 +0000</pubDate>
+      <guid>https://www.waltercedric.com/rc-helicopter-airplanes-fpv-drone/wltoys-xk-a280-rc-airplane/</guid>
+      <description>My first venture into RC airplanes is not just a hobby; it is a journey of exploration, learning, and fun. It mark the beginning of an exciting hobby that will continue to bring joy and satisfaction as I ventured further into the world of RC aviation. This is my first airplane 😀&#xA;Features Adopt impact resistant EPP+engineering materials, P-51 Mustang Fighter high simulation. The rack adopts a quick installation and replacement structure, which is easy to carry.</description>
+    </item>
+    <item>
+      <title>Via Ferrata Rigidalstockgrat: An Epic Alpine Adventure (K3, West K4 – K4.5 )</title>
+      <link>https://www.waltercedric.com/via-ferrata-rigidalstockgrat-an-epic-alpine-adventure-k3-west-k4-k4-5/</link>
+      <pubDate>Sat, 09 Sep 2023 13:04:14 +0000</pubDate>
+      <guid>https://www.waltercedric.com/via-ferrata-rigidalstockgrat-an-epic-alpine-adventure-k3-west-k4-k4-5/</guid>
+      <description>Nestled within the breathtaking landscapes of Switzerland lies a [via ferrata][1] that promises adventure-seekers an unforgettable journey. Via Ferrata Rigidalstockgrat, often referred to as Rigidalstockgrat, is a hidden gem among the Swiss Alps’ many climbing routes. In this blog post, we’ll take you on a virtual tour of this exhilarating via ferrata, sharing all you need to know to prepare for and embark on this thrilling alpine experience. ## Understanding Via Ferrata Before we delve into the specifics of Via Ferrata Rigidalstockgrat, let’s clarify what a via ferrata is.</description>
+    </item>
+    <item>
+      <title>Conquering the Heights: Exploring Via Ferrata Brunnistöckli (K1)</title>
+      <link>https://www.waltercedric.com/hobbies/conquering-the-heights-exploring-via-ferrata-brunnistockli-k1/</link>
+      <pubDate>Sat, 09 Sep 2023 12:24:52 +0000</pubDate>
+      <guid>https://www.waltercedric.com/hobbies/conquering-the-heights-exploring-via-ferrata-brunnistockli-k1/</guid>
+      <description>Nestled in the heart of the Swiss Alps, Via Ferrata Brunnistöckli is a breathtaking adventure that promises to challenge your limits while rewarding you with awe-inspiring views. This unique via ferrata, located near Engelberg, Switzerland, offers a thrilling experience for both novice climbers and seasoned adventurers. In this blog post, we &amp;rsquo;ll take you on a virtual journey through the Via Ferrata Brunnistöckli, sharing everything you need to know to plan your own unforgettable alpine adventure.</description>
+    </item>
+    <item>
+      <title>Understanding Trail Difficulty Ratings: S1, S2, S3, S4, S5 Explained</title>
+      <link>https://www.waltercedric.com/hobbies/understanding-trail-difficulty-ratings-s1-s2-s3-explained/</link>
+      <pubDate>Sun, 03 Sep 2023 12:16:35 +0000</pubDate>
+      <guid>https://www.waltercedric.com/hobbies/understanding-trail-difficulty-ratings-s1-s2-s3-explained/</guid>
+      <description>Table Of Contents&#xA;Trail Difficulty Rating System (TDRS) International Trail Rating System (ITRS) S0 trails? S1: Easy Trails S2: Moderate Trails S3 – Difficult Trails S4 – Very Difficult Trails S5 – Extremely Difficult Trails Choosing the Right Trail for You Embarking on a hiking or mountain biking adventure can be an exhilarating and rewarding experience. However, before you hit the trails, it’s essential to understand the trail difficulty ratings, such as S1, S2, S3, S4 and S5, to ensure your safety and enjoyment.</description>
+    </item>
+    <item>
+      <title>Building a Plex Media Server on Raspberry Pi 4: Your Ultimate DIY Guide</title>
+      <link>https://www.waltercedric.com/building-a-plex-media-server-on-raspberry-pi-4-your-ultimate-diy-guide/</link>
+      <pubDate>Mon, 28 Aug 2023 08:07:25 +0000</pubDate>
+      <guid>https://www.waltercedric.com/building-a-plex-media-server-on-raspberry-pi-4-your-ultimate-diy-guide/</guid>
+      <description>In the era of digital media consumption, having a centralized hub to manage and stream your media content has become increasingly important. Enter the Plex Media Server—an incredibly versatile platform that allows you to organize, access, and enjoy your movies, TV shows, music, and photos from any device, anywhere. And what &amp;rsquo;s even better? You can set up your very own Plex Media Server using a Raspberry Pi 4, a budget-friendly and energy-efficient solution that &amp;rsquo;s perfect for DIY enthusiasts.</description>
+    </item>
+    <item>
+      <title>Overcoming Fear of Firing a Pistol: Strategies for Building Confidence</title>
+      <link>https://www.waltercedric.com/hobbies/overcoming-fear-of-firing-a-pistol-strategies-for-building-confidence/</link>
+      <pubDate>Sat, 26 Aug 2023 16:39:21 +0000</pubDate>
+      <guid>https://www.waltercedric.com/hobbies/overcoming-fear-of-firing-a-pistol-strategies-for-building-confidence/</guid>
+      <description>Firing a pistol for the first time or even after several attempts can be an intimidating experience. It &amp;rsquo;s perfectly normal to feel a sense of fear or apprehension when handling firearms. However, with the right mindset, preparation, and practice, you can gradually overcome this fear and build confidence in your shooting abilities. Here &amp;rsquo;s a guide to help you navigate and conquer your fear of firing a pistol:&#xA;Education and Familiarity One of the primary sources of fear is the unknown.</description>
+    </item>
+    <item>
+      <title>Mastering Pistol Firing Techniques: A Comprehensive Guide</title>
+      <link>https://www.waltercedric.com/hobbies/mastering-pistol-firing-techniques-a-comprehensive-guide/</link>
+      <pubDate>Sat, 26 Aug 2023 16:22:15 +0000</pubDate>
+      <guid>https://www.waltercedric.com/hobbies/mastering-pistol-firing-techniques-a-comprehensive-guide/</guid>
+      <description>Introduction Firing a pistol is a skill that demands precision, discipline, and constant practice. Whether you’re a novice looking to learn the basics or an experienced shooter striving to enhance your accuracy, mastering pistol firing techniques is crucial for safety and success. In this guide, we’ll take you through the key steps and principles to help you fire a pistol properly.&#xA;Safety First Before delving into firing techniques, it’s paramount to prioritize safety.</description>
+    </item>
+    <item>
+      <title>buy me a coffee</title>
+      <link>https://www.waltercedric.com/buy-me-a-coffee/</link>
+      <pubDate>Fri, 25 Aug 2023 13:30:17 +0000</pubDate>
+      <guid>https://www.waltercedric.com/buy-me-a-coffee/</guid>
+      <description>Buy me a coffee</description>
+    </item>
+    <item>
+      <title>I cleaned my blog…removed 3200 posts!</title>
+      <link>https://www.waltercedric.com/i-cleaned-my-blog-removed-3200-posts/</link>
+      <pubDate>Fri, 25 Aug 2023 13:30:17 +0000</pubDate>
+      <guid>https://www.waltercedric.com/i-cleaned-my-blog-removed-3200-posts/</guid>
+      <description>It is a sad day when your delete lots of posts in your personal blog, some posts were as old as 1997, but why cleaning blog of old articles is a good move?&#xA;Relevance: Over time, the information and topics covered in my older articles become outdated or irrelevant. Removing or updating such content keep my blog current and align it with my audience &amp;rsquo;s interests.&#xA;Quality Control: Older articles do not meet the current quality standards I have established for my blog.</description>
+    </item>
+    <item>
+      <title>Main freestyle quadcopter figures and how to do them</title>
+      <link>https://www.waltercedric.com/rc-helicopter-airplanes-fpv-drone/main-freestyle-quadcopter-figures-and-how-to-do-them/</link>
+      <pubDate>Fri, 25 Aug 2023 09:16:10 +0000</pubDate>
+      <guid>https://www.waltercedric.com/rc-helicopter-airplanes-fpv-drone/main-freestyle-quadcopter-figures-and-how-to-do-them/</guid>
+      <description>Freestyle quadcopter flying involves performing various aerobatic maneuvers and tricks to showcase the agility and capabilities of the drone. Remember that freestyle flying requires skill and practice. Always ensure you have a good understanding of your drone’s capabilities, and practice these maneuvers in an open area away from obstacles and people. It is recommended to do them at high altitude to be able to recover. Gradually increase your skill level as you become more comfortable with each maneuver.</description>
+    </item>
+    <item>
+      <title>Via Ferrata guide</title>
+      <link>https://www.waltercedric.com/hobbies/via-ferrata-guide/</link>
+      <pubDate>Fri, 25 Aug 2023 05:30:33 +0000</pubDate>
+      <guid>https://www.waltercedric.com/hobbies/via-ferrata-guide/</guid>
+      <description>Ten Guidelines for Via Ferrata Climbers Prior to embarking on your journey, stay informed about the weather forecast. If the possibility of thunderstorms looms, initiate your climb as early as feasible. In uncertain conditions, it’s advisable to delay the excursion. Tailor your tour plans to your individual capabilities and physical condition. Reserve the more challenging via ferratas for a later time, avoiding them during the spring initiation. Pack your backpack meticulously, ensuring no essentials are overlooked.</description>
+    </item>
+    <item>
+      <title>The perfect equipment for via ferrata</title>
+      <link>https://www.waltercedric.com/the-perfect-equipment-for-via-ferrata/</link>
+      <pubDate>Mon, 21 Aug 2023 13:28:30 +0000</pubDate>
+      <guid>https://www.waltercedric.com/the-perfect-equipment-for-via-ferrata/</guid>
+      <description>Via ferrata is a mountain activity that involves climbing routes equipped with fixed cables, ladders, bridges, and other aids to assist climbers along exposed and challenging terrain. Proper equipment is essential to ensure safety and comfort during via ferrata climbing.&#xA;Here &amp;rsquo;s a list of the essential equipment for via ferrata Helmet: A climbing helmet is crucial to protect your head from falling rocks, debris, and potential impacts.&#xA;You head has no price tag, so invest in a good one, and always wear it!</description>
+    </item>
+    <item>
+      <title>Indoor skydiving, also known as vertical wind tunnel skydiving or bodyflight</title>
+      <link>https://www.waltercedric.com/indoor-skydiving-also-known-as-vertical-wind-tunnel-skydiving-or-bodyflight/</link>
+      <pubDate>Mon, 21 Aug 2023 12:08:15 +0000</pubDate>
+      <guid>https://www.waltercedric.com/indoor-skydiving-also-known-as-vertical-wind-tunnel-skydiving-or-bodyflight/</guid>
+      <description>Indoor skydiving, also known as vertical wind tunnel skydiving or bodyflight, offers several advantages compared to traditional outdoor skydiving.&#xA;You can experience it all at Windwerk.ch in Winterthur. Whether you are a complete beginner or a pro! Wonderful experience. With Professional and dedicated team of instructors! Great experience and amazingly kind staff! This is one of those things, one should definitely have done at least once in their lifetime.&#xA;Some of the key advantages include: Accessibility Indoor skydiving facilities are usually located in urban areas and are easily accessible to a wider range of people.</description>
+    </item>
+    <item>
+      <title>Artisanal ice cream that is just industrial garbage</title>
+      <link>https://www.waltercedric.com/artisanal-ice-cream-that-is-just-industrial-garbage/</link>
+      <pubDate>Fri, 18 Aug 2023 11:03:17 +0000</pubDate>
+      <guid>https://www.waltercedric.com/artisanal-ice-cream-that-is-just-industrial-garbage/</guid>
+      <description>Got this ice cream in the middle of the Swiss alps, I was told it is artisanal and made by the owner &amp;rsquo;s sister (Lucerne area)&#xA;Ingredients MILCH, Zucker, RAHM, Dunkle Schokolade, Kakaopuiver, Dextrose, Pflanzenfett, Maltodextrine, Emulsatoren: E472a, E427b, E471, E473,&#xA;Verdickungsmittel: E410, E466, E412, E401,&#xA;Magermilchpulver, Aromen&#xA;Nothing illegal, but this is not artisanal ice cream for me: probably mixing powder and milk and pressing a button&#xA;Let &amp;rsquo;s analyse the content E numbers for sweeteners Table 4.</description>
+    </item>
+    <item>
+      <title>Lactofermentation</title>
+      <link>https://www.waltercedric.com/lactofermentation/</link>
+      <pubDate>Fri, 18 Aug 2023 10:06:21 +0000</pubDate>
+      <guid>https://www.waltercedric.com/lactofermentation/</guid>
+      <description>Lactofermentation, also known as lactic acid fermentation, is a natural process in which microorganisms, primarily lactic acid bacteria, convert sugars into lactic acid. This process is commonly used to preserve and transform various foods, especially vegetables and fruits. The lactic acid produced during lactofermentation acts as a natural preservative, inhibiting the growth of harmful bacteria and helping to extend the shelf life of the fermented foods.&#xA;Here &amp;rsquo;s how the lactofermentation process generally works Preparation: Raw vegetables or fruits are cleaned, sliced, shredded, or otherwise prepared for fermentation.</description>
+    </item>
+    <item>
+      <title>How to update Betaflight firmware on your FPV drone</title>
+      <link>https://www.waltercedric.com/how-to-update-betaflight-firmware-on-your-fpv-drone/</link>
+      <pubDate>Sun, 13 Aug 2023 18:36:11 +0000</pubDate>
+      <guid>https://www.waltercedric.com/how-to-update-betaflight-firmware-on-your-fpv-drone/</guid>
+      <description>Upgrading the Betaflight firmware on your FPV drone is essential to access the latest features, improvements, and bug fixes. Here &amp;rsquo;s a step-by-step guide on how to upgrade the Betaflight version:&#xA;Backup Your Configuration: Before you begin, make sure to back up your current Betaflight configuration. This includes your settings, PID tuning, and any other customizations you &amp;rsquo;ve made. You can save your configuration by using the &amp;ldquo;Backup&amp;rdquo; feature within the Betaflight Configurator.</description>
+    </item>
+    <item>
+      <title>IFlight Nazgul Evoque F5D V2 adding a VFLY 2 drone finder beeper</title>
+      <link>https://www.waltercedric.com/iflight-nazgul-evoque-f5d-v2-adding-a-vfly-2-drone-finder-beeper/</link>
+      <pubDate>Sun, 13 Aug 2023 13:07:09 +0000</pubDate>
+      <guid>https://www.waltercedric.com/iflight-nazgul-evoque-f5d-v2-adding-a-vfly-2-drone-finder-beeper/</guid>
+      <description>The iFlight Evoque F5D comes with a BLITZ MINI F7 fight controller. 1. Advanced ViSense Technology ViSense-based technology, the VIFLY Finder 2 can power itself to beep even the quad battery has been ejected. Even more, the built-in light sensor can detect light intensity and then smartly control the LED light to flash. Besides, it enables the buzzer automatically enter into sleep mode at night to save power and not disturb.</description>
+    </item>
+    <item>
+      <title>IFlight Nazgul Evoque F5D V2 is not a good FPV frame</title>
+      <link>https://www.waltercedric.com/iflight-nazgul-evoque-f5d-v2-is-not-a-good-fpv-frame/</link>
+      <pubDate>Sun, 13 Aug 2023 12:50:01 +0000</pubDate>
+      <guid>https://www.waltercedric.com/iflight-nazgul-evoque-f5d-v2-is-not-a-good-fpv-frame/</guid>
+      <description>**All these holes and hollows in the carbon are made for making the frame lighter but these area are prone to break during a crash.** The frame is less rigid, and don’t cool down any better the electronic. It’s just pleasing to the eye nothing else. I suspect the carbon also to be of a lesser quality. First FPV frame I broke in 5 years…luckily the DJI O3 camera is fine.</description>
+    </item>
+    <item>
+      <title>Nazgul Evoque F5 V2 O3 GPS Bind &amp; Fly ELRS using Radiomaster ZORRO 4 in 1 with Radiomaster Ranger Nano TX in 10 minutes</title>
+      <link>https://www.waltercedric.com/nazgul-evoque-f5-v2-o3-gps-bind-fly-elrs-using-radiomaster-zorro-4-in-1-with-radiomaster-ranger-nano-tx-in-10-minutes/</link>
+      <pubDate>Wed, 09 Aug 2023 10:34:16 +0000</pubDate>
+      <guid>https://www.waltercedric.com/nazgul-evoque-f5-v2-o3-gps-bind-fly-elrs-using-radiomaster-zorro-4-in-1-with-radiomaster-ranger-nano-tx-in-10-minutes/</guid>
+      <description>Prerequisites&#xA;Nazgul Evoque F5D or F5X V2 O3 GPS ExpressLRS DJI goggles 2 Software to install ExpressLRS Configurator installed https://github.com/ExpressLRS/ExpressLRS/releases Betaflight Configurator installed https://github.com/betaflight/betaflight-configurator/releases EdgeTX Companion installed https://github.com/EdgeTX/edgetx/releases Radiomaster ZORRO transmitter 4 in 1 multi protocol Radiomaster Ranger nano TX ELRS A small ventilator to keep the O3 cool while updating the receiver update DJI Goggles 2&#xA;Don’t use them on the Nazgul without the FCC hack, I crash once 30m away because the signal was too low…</description>
+    </item>
+    <item>
+      <title>A Comparison of Real-Debrid vs Alldebrid vs Premiumize vs MyDebrid.com vs LinkSnappy</title>
+      <link>https://www.waltercedric.com/a-comparison-of-real-debrid-vs-alldebrid-vs-premiumize-vs-mydebrid-com-vs-linksnappy/</link>
+      <pubDate>Wed, 07 Jun 2023 15:50:57 +0000</pubDate>
+      <guid>https://www.waltercedric.com/a-comparison-of-real-debrid-vs-alldebrid-vs-premiumize-vs-mydebrid-com-vs-linksnappy/</guid>
+      <description>When it comes to downloading files from the internet, using a debrid service can make the process faster and more efficient. Debrid services allow users to download files from various file hosting sites, without having to wait for long periods or deal with download limits. In this article, we will compare five popular debrid services: Real-Debrid, Alldebrid, Premiumize, MyDebrid.com, and LinkSnappy. ## Real-Debrid [Real-][1]Debrid is a popular debrid service that offers fast and reliable downloads from over 80 file hosting sites.</description>
+    </item>
+    <item>
+      <title>Swifi won Trust Square biggest blockchain Hackathon #SBHACK21</title>
+      <link>https://www.waltercedric.com/swifi-won-trust-square-biggest-blockchain-hackathon-sbhack21/</link>
+      <pubDate>Thu, 24 Feb 2022 15:33:05 +0000</pubDate>
+      <guid>https://www.waltercedric.com/swifi-won-trust-square-biggest-blockchain-hackathon-sbhack21/</guid>
+      <description>Exhausted but really happy about our team CM2P ([Cédric Walter][1], [Michael Sladoje][2], [Mike Schälchli 🚀][3] and [Potsie Rivera][4]) efforts and results at the Trustsquare [#sbhack21][5] [#blockchain][6] [#hackathon][7] 48 h coding and 4 hours sleep 🥳&#xA;The winners were announced on Sunday, 31 October 2021, at 2pm CET We tackled the Julius Baer Stable Coin Challenge and build it on [#Algorand][8], [#Streamr][9], Amazon Web Services ([#AWS][10]) and [#google][11] [#flutter][12] for the mobile stack.</description>
+    </item>
+    <item>
+      <title>Audi R8 Spyder V10</title>
+      <link>https://www.waltercedric.com/audi-r8-spyder-v10/</link>
+      <pubDate>Sat, 11 Dec 2021 16:28:37 +0000</pubDate>
+      <guid>https://www.waltercedric.com/audi-r8-spyder-v10/</guid>
+      <description>In the world of high-performance supercars, few names evoke as much awe and admiration as Audi &amp;rsquo;s R8 series. The Audi R8 Spyder V10 stands as a testament to precision engineering, raw power, and breathtaking design. With a heritage rooted in motorsport excellence and a lineage of cutting-edge innovation, the R8 Spyder V10 represents the pinnacle of Audi &amp;rsquo;s commitment to creating automotive masterpieces.&#xA;The Heart of a Beast: Performance and Power</description>
+    </item>
+    <item>
+      <title>SNK Neo Geo Cheat Code</title>
+      <link>https://www.waltercedric.com/posts/snkneogeo/2021-12-11-neogeo-cheatcode/</link>
+      <pubDate>Sat, 11 Dec 2021 16:28:37 +0000</pubDate>
+      <guid>https://www.waltercedric.com/posts/snkneogeo/2021-12-11-neogeo-cheatcode/</guid>
+      <description>Art of Fighting 2 Extra power for the second game: To do this trick, you must own. Fighting 1&amp;amp; 2 for memory-compatible systems. First, win al 3 bont on Art of Fighting 1and then save your game. Then go to Art of Figl and choose load. Then choose the Art of Fighting 1option you wil t You wil begin the game with al of the characteristics of the AOF1 stages completed ni Art of Fighting 2!</description>
+    </item>
+    <item>
+      <title>DJI Fpv speed racing drone RC Quadcopter FPV</title>
+      <link>https://www.waltercedric.com/dji-fpv-speed-racing-drone-rc-quadcopter-fpv/</link>
+      <pubDate>Tue, 02 Mar 2021 17:28:15 +0000</pubDate>
+      <guid>https://www.waltercedric.com/dji-fpv-speed-racing-drone-rc-quadcopter-fpv/</guid>
+      <description>Here are the specs. waiting to order mine 🙂 on 2nd march * 10KM range * 1080P * FPV 4K 60fps Camera * 20mins Flight Time * 140 km/h Speed * Goggles V2 5.8GHz * Transmitter Mode2&#xA;Aircraft&#xA;Takeoff Weight&#xA;Approx. 795 g&#xA;Dimensions&#xA;255×312×127 mm (with propellers) 178×232×127 mm (without propellers)&#xA;Diagonal Distance&#xA;245 mm&#xA;Max Ascent Speed&#xA;M mode: No limit&#xA;S mode: 15 m/s&#xA;N mode: 8 m/s</description>
+    </item>
+    <item>
+      <title>SNK Neo Geo MVSX Home Arcade</title>
+      <link>https://www.waltercedric.com/games/snk-neo-geo-mvsx-home-arcade/</link>
+      <pubDate>Sun, 11 Oct 2020 17:38:44 +0000</pubDate>
+      <guid>https://www.waltercedric.com/games/snk-neo-geo-mvsx-home-arcade/</guid>
+      <description>The Gstone MVSX Home Arcade will include 50 legendary and popular titles from various NEOGEO Series such as THE KING OF FIGHTERS, FATAL FURY, SAMURAI SHODOWN and METAL SLUG.&#xA;Gstone Group, working closely with SNK, has announced the SNK NEOGEO MVSX home arcade system featuring 50 classic SNK NEOGEO titles releasing in North America in November 2020 with 10 built-in languages.&#xA;The SNK NEOGEO MVSX will be the ultimate home arcade for fans of classic SNK titles as it will include both the MVS arcade and the AES home versions of games from fan-favorite series like The King of Fighters, Metal Slug, Fatal Fury, Samurai Shodown, Art of Fighting and sports titles including Baseball Stars Professional and Top Player’s Golf.</description>
+    </item>
+    <item>
+      <title>m-Clippy WON Migros Category prize in Europe’s Biggest Hackathon Hack Zurich 2020</title>
+      <link>https://www.waltercedric.com/m-clippy-won-migros-category-prize-in-european-biggest-hackathon-hack-zurich-2020/</link>
+      <pubDate>Tue, 22 Sep 2020 14:14:31 +0000</pubDate>
+      <guid>https://www.waltercedric.com/m-clippy-won-migros-category-prize-in-european-biggest-hackathon-hack-zurich-2020/</guid>
+      <description>Last weekend I took part in the biggest European Hackathon Hack Zurich 2020, and our team m-Clippy won in the Migros category!&#xA;Since 2014, HackZurich unites the world’s best tech talents, selected from thousands of applications, representing several elite universities and leading organizations from +85 countries, to collaborate and develop innovative web-, mobile- and hardware applications during a 40-hours hackathon in teams. Global industries and organizations provide the latest technologies, tools, and APIs to spark the creation of new prototypes.</description>
+    </item>
+    <item>
+      <title>Lake Zürich</title>
+      <link>https://www.waltercedric.com/lake-zurich/</link>
+      <pubDate>Sun, 09 Aug 2020 14:46:39 +0000</pubDate>
+      <guid>https://www.waltercedric.com/lake-zurich/</guid>
+      <description>Lake Zürich (Swiss German/Alemannic: Zürisee; German: Zürichsee) is a lake in Switzerland, extending southeast of the city of Zürich. Depending on the context, Lake Zürich or Zürichsee can be used to describe the lake as a whole, or just that part of the lake downstream of the Seedamm at Rapperswil, whilst the part upstream of Rapperswil may be called the Obersee or Upper Lake.&#xA;The Zürichsee-Schifffahrtsgesellschaft – the Lake Zürich Navigation Company – provides with its 17-passenger ships touristic services on Lake Zürich.</description>
+    </item>
+    <item>
+      <title>Neo Geo Arcade Stick Pro Hacking</title>
+      <link>https://www.waltercedric.com/games/neo-geo-arcade-stick-pro-hacking/</link>
+      <pubDate>Mon, 20 Apr 2020 10:45:28 +0000</pubDate>
+      <guid>https://www.waltercedric.com/games/neo-geo-arcade-stick-pro-hacking/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Enable 1200 mw Mode on DJI FPV System</title>
+      <link>https://www.waltercedric.com/enable-1200-mw-mode-on-dji-fpv-system/</link>
+      <pubDate>Wed, 15 Apr 2020 09:01:19 +0000</pubDate>
+      <guid>https://www.waltercedric.com/enable-1200-mw-mode-on-dji-fpv-system/</guid>
+      <description>NOTES&#xA;You should follow your local regulations regarding which mode to use.&#xA;Long term hardware effects are unknown&#xA;You get more or less 30% more range&#xA;Your system must be already in FCC mode&#xA;Enable Power Limit as it add some protections against overheating.&#xA;Create a .txt file, name it naco_pwr.txt&#xA;Type pwr_2 or pwr_1&#xA;pwr_1 = 1000 mW pwr_2 = 1200 mW &amp;amp; 1000 mW Save and close&#xA;Copy naco_pwr.</description>
+    </item>
+    <item>
+      <title>Enable FCC Mode on DJI FPV System (700mw 8 Channels)</title>
+      <link>https://www.waltercedric.com/enable-fcc-mode-on-dji-fpv-system-700mw-8-channels/</link>
+      <pubDate>Wed, 15 Apr 2020 08:52:40 +0000</pubDate>
+      <guid>https://www.waltercedric.com/enable-fcc-mode-on-dji-fpv-system-700mw-8-channels/</guid>
+      <description>In CE mode, the maximum output is limited to 25 mW, and there are only 4 channels available, while in FCC mode those numbers are increased to 700 mW and 8 channels. NOTE that you should follow your local regulations regarding which mode to use.&#xA;How to switch to FCC mode from CE mode Take the micro SD Card out of the Air Unit Create a text file on the root directory, name it naco.</description>
+    </item>
+    <item>
+      <title>Grimsel Pass</title>
+      <link>https://www.waltercedric.com/grimsel-pass/</link>
+      <pubDate>Tue, 14 Apr 2020 12:05:09 +0000</pubDate>
+      <guid>https://www.waltercedric.com/grimsel-pass/</guid>
+      <description>The Grimsel Pass (German: Grimselpass; French: Col du Grimsel; Italian: Passo del Grimsel) is a mountain pass in Switzerland, crossing the Bernese Alps at an elevation of 2,164 metres (7,100 ft). The pass connects the Haslital, the upper valley of the river Aare, with the upper valley of the Rhône. In so doing, and as the Aare is a tributary of the Rhine, the pass crosses the continental divide between the North Sea and the Mediterranean Sea.</description>
+    </item>
+    <item>
+      <title>Furka Pass</title>
+      <link>https://www.waltercedric.com/furka-pass/</link>
+      <pubDate>Tue, 14 Apr 2020 11:39:48 +0000</pubDate>
+      <guid>https://www.waltercedric.com/furka-pass/</guid>
+      <description>Furka Pass (French: Le Col de la Furka), with an elevation of 2,429 metres (7,969 ft), is a high mountain pass in the Swiss Alps connecting Gletsch, Valais with Realp, Uri. The Furka Oberalp Bahn line through the Furka Tunnel bypasses the pass. The base tunnel opened in 1982 and replaced a tunnel at 2100 m.&#xA;The Furka Pass was used as a location in the James Bond film Goldfinger. One curve on the east side of the pass is even named &amp;ldquo;James Bond Strasse&amp;rdquo;.</description>
+    </item>
+    <item>
+      <title>Susten Pass</title>
+      <link>https://www.waltercedric.com/susten-pass/</link>
+      <pubDate>Tue, 14 Apr 2020 10:58:01 +0000</pubDate>
+      <guid>https://www.waltercedric.com/susten-pass/</guid>
+      <description>Susten Pass (German: Sustenpass) is a mountain pass in the Swiss Alps. The pass road, built from 1938–1945, connects Innertkirchen in the canton of Bern with Wassen in the canton of Uri. A 300-metre long tunnel crosses the pass at 2,224 metres.&#xA;The pass is popular with tourists, by car, motorbike or bicycles especially for the views of the Stein Glacier on the south side. There are numerous great views and a number of places to stop for photos.</description>
+    </item>
+    <item>
+      <title>Cryptocurrency monitor with Unicorn HAT</title>
+      <link>https://www.waltercedric.com/cryptocurrency-monitor-with-unicorn-hat/</link>
+      <pubDate>Mon, 13 Apr 2020 09:23:14 +0000</pubDate>
+      <guid>https://www.waltercedric.com/cryptocurrency-monitor-with-unicorn-hat/</guid>
+      <description>Unicorn pHAT and HAT. 32 or 64 blinding ws2812 pixels for your Raspberry Pi. it is called Unicorn Hat because it does rainbows, really bright rainbows! ATTENTION: do not stare directly at the led without a sheet of paper on it. LED are REALLY bright!&#xA;Shopping list You need obviously a [raspberry pi][1], ideally with WIFI build in if you don &amp;rsquo;t like cables&#xA;Raspberry Pi 1 is not supported by Unicorn Hat Raspberry pi 2 , dual core, will require an Ethernet cable, can still be found on ebay, graiglist.</description>
+    </item>
+    <item>
+      <title>Bitcoin, Ethereum price Monitoring on your raspberry Pi</title>
+      <link>https://www.waltercedric.com/bitcoin-ethereum-price-monitoring-on-your-raspberry-pi/</link>
+      <pubDate>Sun, 12 Apr 2020 09:58:56 +0000</pubDate>
+      <guid>https://www.waltercedric.com/bitcoin-ethereum-price-monitoring-on-your-raspberry-pi/</guid>
+      <description>All credit goes to [Author][1]&#xA;My setup use&#xA;Nginx instead of Apache An easier setup, with less steps You can display Bitcoin, Ethereum or any other cryptocurrencies (request) I also provide a ready to use image Shopping list You need obviously a raspberry pi, ideally with WIFI build in if you don &amp;rsquo;t like cables&#xA;Raspberry pi 1, single core, will require an Ethernet cable Raspberry pi 2 , dual core, will require an Ethernet cable Raspberry pi 3 or 4, a bit a shame to use this amount of power for that task, but has built in WIFI A 3.</description>
+    </item>
+    <item>
+      <title>Cryptocurrencies Graph price using  a Raspberry Pi and 3.5” LCD Display</title>
+      <link>https://www.waltercedric.com/cryptocurrencies-graph-price-monitor-using-a-raspberry-pi-and-3-5-lcd-display/</link>
+      <pubDate>Sat, 11 Apr 2020 18:04:18 +0000</pubDate>
+      <guid>https://www.waltercedric.com/cryptocurrencies-graph-price-monitor-using-a-raspberry-pi-and-3-5-lcd-display/</guid>
+      <description>We will use the project [Bitcoin chart for the terminal][1] as command line util. For a list of supported cryptocurrencies see [coins][2].&#xA;Shopping list You need obviously a raspberry pi, ideally with WIFI build in if you don &amp;rsquo;t like cables&#xA;Raspberry pi 1, single core, will require an Ethernet cable Raspberry pi 2 , dual core, will require an Ethernet cable Raspberry pi 3 or 4, a bit a shame to use this amount of power for that task, but has built in WIFI A 3.</description>
+    </item>
+    <item>
+      <title>Multi cryptocurrencies price Ticker using Raspberry Pi and 3.5” LCD Display</title>
+      <link>https://www.waltercedric.com/multi-cryptocurrencies-price-ticker-using-raspberry-pi-and-3-5-lcd-display/</link>
+      <pubDate>Sat, 11 Apr 2020 11:16:49 +0000</pubDate>
+      <guid>https://www.waltercedric.com/multi-cryptocurrencies-price-ticker-using-raspberry-pi-and-3-5-lcd-display/</guid>
+      <description>How to monitor your favorite cryptocurrencies on a 3.5 inches LCD and any Raspberry PI!&#xA;The python script is easily extensible and let you add any cryptocurrency pair.&#xA;Shopping list You need obviously a raspberry pi, ideally with WIFI build in if you don &amp;rsquo;t like cables&#xA;Raspberry pi 1, single core, will require an Ethernet cable Raspberry pi 2 , dual core, will require an Ethernet cable Raspberry pi 3 or 4, a bit a shame to use this amount of power for that task, but has built in WIFI A 3.</description>
+    </item>
+    <item>
+      <title>Bitcoin And Ethereum price Ticker using Raspberry Pi and Display-O-Tron</title>
+      <link>https://www.waltercedric.com/bitcoin-ethereum-price-ticker-using-raspberry-pi-and-displayotron/</link>
+      <pubDate>Sat, 11 Apr 2020 08:58:08 +0000</pubDate>
+      <guid>https://www.waltercedric.com/bitcoin-ethereum-price-ticker-using-raspberry-pi-and-displayotron/</guid>
+      <description>How to monitor the Bitcoin and Ethereum price on a DisplayOTron LCD and any Raspberry PI!&#xA;Shopping list You need obviously a raspberry pi, ideally with WIFI build in if you don &amp;rsquo;t like cables&#xA;PI Zero W Raspberry pi 1, single core, will require an Ethernet cable Raspberry pi 2 , dual core, will require an Ethernet cable Raspberry pi 3 or 4, a bit a shame to use this amount of power for that task, has built in WIFI A displayOTron (Shop – [Github][1]) Includes a 16×3 character LCD display, 6-zone RGB LED backlight, bar graph, and six capacitive touch buttons all in one slim package.</description>
+    </item>
+    <item>
+      <title>Little India in Singapore</title>
+      <link>https://www.waltercedric.com/little-india-in-singapore/</link>
+      <pubDate>Fri, 10 Apr 2020 16:42:14 +0000</pubDate>
+      <guid>https://www.waltercedric.com/little-india-in-singapore/</guid>
+      <description>Little India is an ethnic district in [Singapore][1]. It is located east of the [Singapore][1] River—across from Chinatown, located west of the river—and north of Kampong Glam. Both areas are part of the urban planning area of Rochor. Little India is commonly known as Tekka in the Indian Singaporean community.&#xA;Little India is distinct from the Chulia Kampong area, which, under the Raffles Plan of [Singapore][1], was originally a division of colonial Singapore where ethnic Indian immigrants would reside under the British policy of ethnic segregation.</description>
+    </item>
+    <item>
+      <title>Civilian War Memorial in SIngapore</title>
+      <link>https://www.waltercedric.com/civilian-war-memorial-in-singapore/</link>
+      <pubDate>Fri, 10 Apr 2020 16:31:17 +0000</pubDate>
+      <guid>https://www.waltercedric.com/civilian-war-memorial-in-singapore/</guid>
+      <description>The Memorial to the Civilian Victims of the Japanese Occupation, usually called the Civilian War Memorial is a war memorial and heritage landmark in Singapore next to Esplanade MRT station. It was built in memory of the civilians killed during the Japanese occupation of [Singapore][1] during World War II. [Wikipedia][2]&#xA;Located in the War Memorial Park, Singapore&#xA;[1]: /tag/singapore/ [2]: https://en.wikipedia.org/wiki/Civilian_War_Memorial</description>
+    </item>
+    <item>
+      <title>Parkview Square in Singapore</title>
+      <link>https://www.waltercedric.com/parkview-square-in-singapore/</link>
+      <pubDate>Fri, 10 Apr 2020 16:22:56 +0000</pubDate>
+      <guid>https://www.waltercedric.com/parkview-square-in-singapore/</guid>
+      <description>Parkview Square is an office building located in the Downtown Core Planning Area, Central Region, [Singapore][1]. It is situated along North Bridge Road, and is near the major commercial hub at Marina Centre. it is designed in the classic Art Deco style, inspired by New York City &amp;rsquo;s 1929 Chanin Building. The exterior surface of the building is clad in brown granite, bronze, lacquer, and glass. [Wikipedia][2]&#xA;Located in North Bridge Road, Downtown Core, [Singapore][1]</description>
+    </item>
+    <item>
+      <title>Bar Rouge Singapore in Swissôtel The Stamford</title>
+      <link>https://www.waltercedric.com/visiting-the-bar-rouge-in-swissotel-singapore/</link>
+      <pubDate>Fri, 10 Apr 2020 15:59:29 +0000</pubDate>
+      <guid>https://www.waltercedric.com/visiting-the-bar-rouge-in-swissotel-singapore/</guid>
+      <description>71 floors above the city of Singapore with an unobstructed view of Marina Bay area.&#xA;Located in: Swissôtel The Stamford, 2 Stamford Rd, Level 71 Swissotel The Stamford, Singapore 178882</description>
+    </item>
+    <item>
+      <title>explore Chinatown – visit singapore</title>
+      <link>https://www.waltercedric.com/explore-chinatown-visit-singapore/</link>
+      <pubDate>Fri, 10 Apr 2020 15:34:33 +0000</pubDate>
+      <guid>https://www.waltercedric.com/explore-chinatown-visit-singapore/</guid>
+      <description>Chinatown is a subzone and ethnic enclave located within the Outram district in the Central Area of [Singapore][1]. Featuring distinctly Chinese cultural elements, Chinatown has had a historically concentrated ethnic Chinese population.&#xA;Chinatown’s maze of narrow roads includes Chinatown Food Street, with its restaurants&#xA;Chinatown is considerably less of an enclave than it once was. However, the precinct does retain significant historical and cultural significance. Large sections of it have been declared national heritage sites officially designated for conservation by the Urban Redevelopment Authority.</description>
+    </item>
+    <item>
+      <title>Singapore Marina Bay Sands</title>
+      <link>https://www.waltercedric.com/singapore-marina-bay-sands/</link>
+      <pubDate>Fri, 10 Apr 2020 15:08:35 +0000</pubDate>
+      <guid>https://www.waltercedric.com/singapore-marina-bay-sands/</guid>
+      <description>[Singapore][1] Marina Bay Sands is an integrated resort fronting Marina Bay in [Singapore][1], owned by the Las Vegas Sands corporation. At its opening in 2010, it was billed as the world &amp;rsquo;s most expensive standalone casino property at S$8 billion ($5.88 billion USD), including the land cost. The resort includes a 2,561-room hotel, a 120,000-square-metre (1,300,000 sq ft) convention-exhibition center, the 74,000-square-metre (800,000 sq ft) The Shoppes at Marina Bay Sands mall, a museum, two large theaters, &amp;ldquo;celebrity chef&amp;rdquo; restaurants, two floating Crystal Pavilions, art-science exhibits, and the world &amp;rsquo;s largest atrium casino with 500 tables and 1,600 slot machines.</description>
+    </item>
+    <item>
+      <title>Singapore Cloud Forest Dome</title>
+      <link>https://www.waltercedric.com/singapore-cloud-forest-dome/</link>
+      <pubDate>Fri, 10 Apr 2020 14:35:19 +0000</pubDate>
+      <guid>https://www.waltercedric.com/singapore-cloud-forest-dome/</guid>
+      <description>The [Singapore][1] Cloud Forest is higher but slightly smaller at 0.8 hectares (2.0 acres). It replicates the cool moist conditions found in tropical mountain regions between 1,000 metres (3,300 ft) and 3,000 metres (9,800 ft) above sea level, found in South-East Asia, Central- and South America. It features a 42-metre (138 ft) &amp;ldquo;Cloud Mountain&amp;rdquo;, accessible by an elevator, and visitors will be able to descend the mountain via a circular path where a 35-metre (115 ft) waterfall provides visitors with refreshing cool air.</description>
+    </item>
+    <item>
+      <title>Singapore Merlion Park</title>
+      <link>https://www.waltercedric.com/singapore-merlion-park/</link>
+      <pubDate>Fri, 10 Apr 2020 14:24:12 +0000</pubDate>
+      <guid>https://www.waltercedric.com/singapore-merlion-park/</guid>
+      <description>Merlion Park is a famous Singapore landmark and a major tourist attraction, located near One Fullerton, [Singapore][1], near the Central Business District (CBD). The Merlion is a mythical creature with a lion &amp;rsquo;s head and the body of a fish that is widely used as a mascot and national personification of Singapore. Two Merlion statues are located at the park. The original Merlion structure measures 8.6 meters tall and spouts water from its mouth.</description>
+    </item>
+    <item>
+      <title>Singapore Flyer</title>
+      <link>https://www.waltercedric.com/singapore-flyer/</link>
+      <pubDate>Fri, 10 Apr 2020 13:57:06 +0000</pubDate>
+      <guid>https://www.waltercedric.com/singapore-flyer/</guid>
+      <description>The [Singapore][1] Flyer is a giant observation wheel at [Downtown Core][2], [Singapore][1]. It opened in 2008, with construction having taken about 2½ years. It carried its first paying passengers on 11 February, had a soft opening to the public on 1 March, and was then officially opened on 15 April. It has 28 air-conditioned capsules, each able to accommodate 28 passengers, and incorporates a three-story terminal building.&#xA;The Flyer has an overall height of 165 metres (541 ft) and was the world &amp;rsquo;s tallest Ferris wheel until the 167.</description>
+    </item>
+    <item>
+      <title>Singapore Flower Dome</title>
+      <link>https://www.waltercedric.com/singapore-flower-dome/</link>
+      <pubDate>Wed, 08 Apr 2020 13:22:27 +0000</pubDate>
+      <guid>https://www.waltercedric.com/singapore-flower-dome/</guid>
+      <description>The Singapore Flower Dome is the largest greenhouse in the world as listed in the 2015 Guinness Book of World Records at 1.2 hectares (3.0 acres) and replicates a cool-dry Mediterranean climate. It features a changing display, the flower field, and eight other gardens, namely The Baobabs, Succulent Garden, Australian Garden, South African Garden, South American Garden, Olive Grove, California Garden and the Mediterranean Garden. These eight gardens exhibit exotic flowers and plants from the Mediterranean and semi-arid regions from five different continents.</description>
+    </item>
+    <item>
+      <title>Singapore Gardens by the Bay</title>
+      <link>https://www.waltercedric.com/singapore-gardens-by-the-bay/</link>
+      <pubDate>Wed, 08 Apr 2020 13:03:40 +0000</pubDate>
+      <guid>https://www.waltercedric.com/singapore-gardens-by-the-bay/</guid>
+      <description>The Gardens by the Bay is a nature park spanning 101 hectares (250 acres) in the Central Region of Singapore, adjacent to the Marina Reservoir. The park consists of three waterfront gardens: Bay South Garden (in Marina South), Bay East Garden (in Marina East) and Bay Central Garden (in Downtown Core and Kallang). The largest of the gardens is the Bay South Garden at 54 hectares (130 acres) designed by Grant Associates.</description>
+    </item>
+    <item>
+      <title>Versus Virus Hackathon</title>
+      <link>https://www.waltercedric.com/we-raise-awareness-on-food-waste-and-emergency-stock-hoarding-in-times-of-covid-19/</link>
+      <pubDate>Tue, 07 Apr 2020 09:28:19 +0000</pubDate>
+      <guid>https://www.waltercedric.com/we-raise-awareness-on-food-waste-and-emergency-stock-hoarding-in-times-of-covid-19/</guid>
+      <description>We just have finished the 48h Versus Virus Hackaton this weekend (03.04 – 05.04.2020) with the challenge to raise awareness on food waste and emergency stock hoarding in times of COVID-19.&#xA;Overall 263 projects submitted of 600 teams 84 project short listed 43 selected Pitch Deck Our Pitch Deck&#xA;Team Our Team Lorenz Hänggi, Cristofo Vilares, [SvenFrei][1], Thomas Veit, Luca Mele, Cédric Walter&#xA;Inspiration Every citizen in the current situation started to build an emergency stock of food, base nutrition and toilet paper.</description>
+    </item>
+    <item>
+      <title>Lake Rosebery In Tasmania</title>
+      <link>https://www.waltercedric.com/lake-rosebery-in-tasmania/</link>
+      <pubDate>Wed, 01 Apr 2020 16:18:00 +0000</pubDate>
+      <guid>https://www.waltercedric.com/lake-rosebery-in-tasmania/</guid>
+      <description>Lake Rosebery is a man-made water reservoir located in the West Coast region of Tasmania, Australia. The lake is situated within the northern part of Tasmania &amp;rsquo;s West Coast Range and is fed by the dammed Mackintosh and Murchison rivers.&#xA;WikiPedia</description>
+    </item>
+    <item>
+      <title>Lake Burbury In Tasmania</title>
+      <link>https://www.waltercedric.com/lake-burbury-in-tasmania/</link>
+      <pubDate>Wed, 01 Apr 2020 16:13:41 +0000</pubDate>
+      <guid>https://www.waltercedric.com/lake-burbury-in-tasmania/</guid>
+      <description>Lake Burbury is a man-made water reservoir created by the Crotty Dam inundating the upper King River valley that lies east of the West Coast Range. Discharge from the reservoir feeds the John Butters Hydroelectric Power Station, owned and operated by Hydro Tasmania. The reservoir was named in honour of Stanley Burbury, a former Governor of Tasmania. WikiPedia</description>
+    </item>
+    <item>
+      <title>Mount Lofty in South Australia</title>
+      <link>https://www.waltercedric.com/mount-lofty-in-south-australia/</link>
+      <pubDate>Wed, 01 Apr 2020 16:07:45 +0000</pubDate>
+      <guid>https://www.waltercedric.com/mount-lofty-in-south-australia/</guid>
+      <description>Mount Lofty (34°58′S 138°42′E, elevation 727 metres AHD) is the highest point in the southern Mount Lofty Ranges. It is located about 15 km east of the Adelaide city centre in South Australia, and has panoramic views of the city and the Adelaide plains to the west, and of the Picadilly Valley to the east.&#xA;The summit can be accessed by road from the South Eastern Freeway at Crafers, and from the eastern suburbs via Greenhill Road and the Mount Lofty Scenic Route.</description>
+    </item>
+    <item>
+      <title>Lake Amadeus Salt Lake in the southwest corner of Northern Territory of Australia</title>
+      <link>https://www.waltercedric.com/lake-amadeus-salt-lake-in-the-southwest-corner-of-northern-territory-of-australia/</link>
+      <pubDate>Wed, 01 Apr 2020 15:57:58 +0000</pubDate>
+      <guid>https://www.waltercedric.com/lake-amadeus-salt-lake-in-the-southwest-corner-of-northern-territory-of-australia/</guid>
+      <description>Lake Amadeus is a large salt lake in the southwest corner of Northern Territory of Australia, about 50 kilometres north of Uluru. The smaller Lake Neale is adjacent to the northwest. It is part of the Amadeus Basin that was filled with the erosion products of the Petermann Orogeny. Wikipedia</description>
+    </item>
+    <item>
+      <title>Hahndorf a small town in the Adelaide Hills region of South Australia</title>
+      <link>https://www.waltercedric.com/hahndorf-a-small-town-in-the-adelaide-hills-region-of-south-australia/</link>
+      <pubDate>Wed, 01 Apr 2020 15:53:05 +0000</pubDate>
+      <guid>https://www.waltercedric.com/hahndorf-a-small-town-in-the-adelaide-hills-region-of-south-australia/</guid>
+      <description>Hahndorf is a small town in the Adelaide Hills region of South Australia. Currently an important tourism spot, it has previously been a centre for farming and services. It is accessible from Adelaide, the South Australian capital, via the South Eastern Freeway. The town was settled by Lutheran migrants largely from in and around a small village then named Kay in Prussia and now known as Kije, Lubusz Voivodeship in Poland.</description>
+    </item>
+    <item>
+      <title>Alice springs in australia’s northern territory</title>
+      <link>https://www.waltercedric.com/alice-springs-in-australias-northern-territory/</link>
+      <pubDate>Wed, 01 Apr 2020 15:42:36 +0000</pubDate>
+      <guid>https://www.waltercedric.com/alice-springs-in-australias-northern-territory/</guid>
+      <description>Alice Springs is a remote town in Australia’s Northern Territory, halfway between Darwin and Adelaide, both 1,500km away. It’s a popular gateway for exploring the Red Centre, the country &amp;rsquo;s interior desert region. Its 1872 origin as part of the Overland Telegraph Line (linking Darwin and Adelaide) is preserved in the vintage buildings and equipment at the Alice Springs Telegraph Station Historical Reserve.</description>
+    </item>
+    <item>
+      <title>St Columba Falls In the Australian state of Tasmania</title>
+      <link>https://www.waltercedric.com/st-columba-falls/</link>
+      <pubDate>Tue, 31 Mar 2020 17:28:51 +0000</pubDate>
+      <guid>https://www.waltercedric.com/st-columba-falls/</guid>
+      <description>Mount Victoria Reserve is a temperate rainforest area in the North East portion of the Australian state of Tasmania. It is of acknowledged conservation significance and was identified as a high priority Recommended Area for Protection (RAP) by authorities during the 1980s and protected as part of the Comprehensive and Representative (CAR) Reserve system touted by Tasmanian State and Federal Australian Governments as securing conservation values. WikiPedia</description>
+    </item>
+    <item>
+      <title>The Barron Falls in Queensland Australia</title>
+      <link>https://www.waltercedric.com/the-barron-falls-in-queensland-australia/</link>
+      <pubDate>Tue, 31 Mar 2020 17:14:12 +0000</pubDate>
+      <guid>https://www.waltercedric.com/the-barron-falls-in-queensland-australia/</guid>
+      <description>The Barron Falls is a steep tiered cascade waterfall on the Barron River located where the river descends from the Atherton Tablelands to the Cairns coastal plain, in Queensland, Australia. Wikipedia&#xA;THE BARRON FALLS THE BARRON FALLS THE BARRON FALLS THE BARRON FALLS THE BARRON FALLS THE BARRON FALLS </description>
+    </item>
+    <item>
+      <title>Skyrail Rainforest Cableway</title>
+      <link>https://www.waltercedric.com/skyrail-rainforest-cableway/</link>
+      <pubDate>Tue, 31 Mar 2020 17:10:56 +0000</pubDate>
+      <guid>https://www.waltercedric.com/skyrail-rainforest-cableway/</guid>
+      <description>Skyrail Rainforest Cableway is a 7.5 km scenic cableway running above the Barron Gorge National Park, in the Wet Tropics of Queensland’s World Heritage Area. North of Cairns, it has won more than 25 awards. [Wikipedia][1]&#xA;[1]: https://en.wikipedia.org/wiki/Skyrail_Rainforest_Cableway</description>
+    </item>
+    <item>
+      <title>Kuranda Scenic Railway</title>
+      <link>https://www.waltercedric.com/kuranda-scenic-railway/</link>
+      <pubDate>Tue, 31 Mar 2020 16:58:00 +0000</pubDate>
+      <guid>https://www.waltercedric.com/kuranda-scenic-railway/</guid>
+      <description>The Kuranda Scenic Railway is the name for the railway line that runs from the coastal city of Cairns, Queensland, Australia, over the Great Dividing Range to the town of Kuranda on the Atherton Tableland. Wikipedia&#xA;* Address: Bunda St, Cairns QLD 4870, Australia * Length: 37 km (23 mi)</description>
+    </item>
+    <item>
+      <title>Cape Tribulation in northeast Queensland, Australia</title>
+      <link>https://www.waltercedric.com/cape-tribulation-in-northeast-queensland-australia/</link>
+      <pubDate>Tue, 31 Mar 2020 16:53:23 +0000</pubDate>
+      <guid>https://www.waltercedric.com/cape-tribulation-in-northeast-queensland-australia/</guid>
+      <description>Cape Tribulation is a remote headland and ecotourism destination in northeast Queensland, Australia. A coastal area within Daintree National Park, it offers a combination of rainforest and beaches. Boat tours are available to the Great Barrier Reef, lying to the east. Walking routes include boardwalks and a ridge trail on Mount Sorrow. Bird-watching and jungle zip-lining are popular activities.</description>
+    </item>
+    <item>
+      <title>Kangaroo Island Vivonne Bay</title>
+      <link>https://www.waltercedric.com/kangaroo-island-vivonne-bay/</link>
+      <pubDate>Tue, 31 Mar 2020 16:41:22 +0000</pubDate>
+      <guid>https://www.waltercedric.com/kangaroo-island-vivonne-bay/</guid>
+      <description>Vivonne Bay is a locality in the Australian state of South Australia located on the south coast of Kangaroo Island overlooking the body of water known in Australia as the Southern Ocean and by international authorities as the Great Australian Bight and which includes the bay known as Vivonne Bay. Wikipedia</description>
+    </item>
+    <item>
+      <title>Cape Otway Lighthouse</title>
+      <link>https://www.waltercedric.com/cape-otway-lighthouse/</link>
+      <pubDate>Tue, 31 Mar 2020 16:32:19 +0000</pubDate>
+      <guid>https://www.waltercedric.com/cape-otway-lighthouse/</guid>
+      <description>Cape Otway is at the southern tip of Victoria &amp;rsquo;s western coast where the Southern Ocean collides with Bass Strait.</description>
+    </item>
+    <item>
+      <title>Little Sahara in the Australian state of South Australia</title>
+      <link>https://www.waltercedric.com/little-sahara-in-the-australian-state-of-south-australia/</link>
+      <pubDate>Tue, 31 Mar 2020 16:25:42 +0000</pubDate>
+      <guid>https://www.waltercedric.com/little-sahara-in-the-australian-state-of-south-australia/</guid>
+      <description>Little Sahara is a dune system in the Australian state of South Australia located on Kangaroo Island in the gazetted locality of Vivonne Bay. It is a naturally occurring sand dune system roughly covering two square kilometres. </description>
+    </item>
+    <item>
+      <title>AUSTRALIA Erskine Falls</title>
+      <link>https://www.waltercedric.com/australia-erskine-falls/</link>
+      <pubDate>Tue, 31 Mar 2020 16:21:08 +0000</pubDate>
+      <guid>https://www.waltercedric.com/australia-erskine-falls/</guid>
+      <description>Two lookout points offer scenic views of this well-known, 30-metre waterfall cascading into a gully. The Erskine River is a river in southwestern Victoria, Australia. It arises in the Otway Ranges and enters Bass Strait to the east of Cape Otway through the town of Lorne. The Erskine River above the falls is known for its high diversity of native fish species and low occurrence of introduced species</description>
+    </item>
+    <item>
+      <title>Australia Split Point Lighthouse</title>
+      <link>https://www.waltercedric.com/australia-split-point-lighthouse/</link>
+      <pubDate>Tue, 31 Mar 2020 15:47:33 +0000</pubDate>
+      <guid>https://www.waltercedric.com/australia-split-point-lighthouse/</guid>
+      <description>Split Point Lighthouse is a lighthouse located in Aireys Inlet, a small town on the Great Ocean Road, Victoria, Australia. </description>
+    </item>
+    <item>
+      <title>Australia Great Ocean ROad</title>
+      <link>https://www.waltercedric.com/australia-great-ocean-road/</link>
+      <pubDate>Tue, 31 Mar 2020 15:42:35 +0000</pubDate>
+      <guid>https://www.waltercedric.com/australia-great-ocean-road/</guid>
+      <description>The Great Ocean Road is an Australian National Heritage listed 243-kilometre stretch of road along the south-eastern coast of Australia between the Victorian cities of Torquay and Allansford.</description>
+    </item>
+    <item>
+      <title>Tasmania Queenstown</title>
+      <link>https://www.waltercedric.com/tasmania-queenstown/</link>
+      <pubDate>Tue, 31 Mar 2020 15:36:40 +0000</pubDate>
+      <guid>https://www.waltercedric.com/tasmania-queenstown/</guid>
+      <description>Queenstown is a town in the West Coast region of the island of Tasmania, Australia. It is in a valley on the western slopes of Mount Owen on the West Coast Range. At the 2016 census, Queenstown had a population of 1,755 people. </description>
+    </item>
+    <item>
+      <title>Tasmania Lake St Clair</title>
+      <link>https://www.waltercedric.com/tasmania-lake-st-clair/</link>
+      <pubDate>Tue, 31 Mar 2020 15:32:03 +0000</pubDate>
+      <guid>https://www.waltercedric.com/tasmania-lake-st-clair/</guid>
+      <description>Lake St Clair or leeawulenna is a natural freshwater lake located in the Central Highlands area of Tasmania, Australia. The lake forms the southern end of the Cradle Mountain-Lake St Clair National Park. </description>
+    </item>
+    <item>
+      <title>Tasmania Cradle Mountain</title>
+      <link>https://www.waltercedric.com/tasmania-cradle-mountain/</link>
+      <pubDate>Tue, 31 Mar 2020 15:29:11 +0000</pubDate>
+      <guid>https://www.waltercedric.com/tasmania-cradle-mountain/</guid>
+      <description>Cradle Mountain is a mountain in the Central Highlands region of the Australian state of Tasmania. The mountain is situated in the Cradle Mountain-Lake St Clair National Park. At 1,545 meters (5,069 ft) above sea level, it is the sixth-highest mountain in Tasmania.</description>
+    </item>
+    <item>
+      <title>Tasmania Hellyer Gorge</title>
+      <link>https://www.waltercedric.com/tasmania-hellyer-gorge/</link>
+      <pubDate>Tue, 31 Mar 2020 15:28:31 +0000</pubDate>
+      <guid>https://www.waltercedric.com/tasmania-hellyer-gorge/</guid>
+      <description>The Hellyer Gorge is a gorge in Tasmania, through which flows the Hellyer River, named after Henry Hellyer. It is the subject of the Hellyer Gorge State Reserve. The Murchison Highway passes through the area with many sharp and steep bends, which provides the setting to a stage of Targa Tasmania. </description>
+    </item>
+    <item>
+      <title>Tasmania Bicheno</title>
+      <link>https://www.waltercedric.com/tasmania-bicheno/</link>
+      <pubDate>Tue, 31 Mar 2020 15:20:21 +0000</pubDate>
+      <guid>https://www.waltercedric.com/tasmania-bicheno/</guid>
+      <description>Bicheno is a locality and town on the east coast of Tasmania, Australia, 185 km north-east of Hobart on the Tasman Highway, with a population of around 950. It is part of the municipality of Glamorgan-Spring Bay. The town is primarily a fishing port and a beach resort.</description>
+    </item>
+    <item>
+      <title>Australia Adelaide</title>
+      <link>https://www.waltercedric.com/australia-adelaide/</link>
+      <pubDate>Tue, 31 Mar 2020 15:19:21 +0000</pubDate>
+      <guid>https://www.waltercedric.com/australia-adelaide/</guid>
+      <description>Adelaide is South Australia’s cosmopolitan coastal capital. Its ring of parkland on the River Torrens is home to renowned museums such as the Art Gallery of South Australia, displaying expansive collections including noted Indigenous art, and the South Australian Museum, devoted to natural history. The city &amp;rsquo;s Adelaide Festival is an annual international arts gathering with spin-offs including fringe and film events.</description>
+    </item>
+    <item>
+      <title>Australia Kanguru Island / Seal Bay</title>
+      <link>https://www.waltercedric.com/australia-kanguru-island-seal-bay/</link>
+      <pubDate>Tue, 31 Mar 2020 15:10:44 +0000</pubDate>
+      <guid>https://www.waltercedric.com/australia-kanguru-island-seal-bay/</guid>
+      <description>Kangaroo Island lies off the mainland of South Australia, southwest of Adelaide. Over a third of the island is protected in nature reserves, home to native wildlife like sea lions, koalas and diverse bird species. In the west, Flinders Chase National Park is known for penguin colonies and striking coastal rock formations, like the sculpted Remarkable Rocks and the stalactite-covered Admirals Arch.</description>
+    </item>
+    <item>
+      <title>Australia Cairns City</title>
+      <link>https://www.waltercedric.com/australia-cairns-city/</link>
+      <pubDate>Tue, 31 Mar 2020 14:57:20 +0000</pubDate>
+      <guid>https://www.waltercedric.com/australia-cairns-city/</guid>
+      <description>Cairns, considered the gateway to Australia &amp;rsquo;s Great Barrier Reef, is a city in tropical Far North Queensland. Its Tjapukai Aboriginal Cultural Park tells the stories of indigenous Aboriginal and Torres Strait Islander people with music and dance. Cairns Esplanade, lined with bars and restaurants, has a swimming lagoon. Northwest of the city, Daintree National Park spans mountainous rainforest, gorges and beaches.</description>
+    </item>
+    <item>
+      <title>Australia queensland Great Barrier Reef</title>
+      <link>https://www.waltercedric.com/australia-queensland-great-barrier-reef/</link>
+      <pubDate>Tue, 31 Mar 2020 14:49:14 +0000</pubDate>
+      <guid>https://www.waltercedric.com/australia-queensland-great-barrier-reef/</guid>
+      <description>The Great Barrier Reef is the world &amp;rsquo;s largest coral reef system composed of over 2,900 individual reefs and 900 islands stretching for over 2,300 kilometres over an area of approximately 344,400 square kilometres. The reef is located in the Coral Sea, off the coast of Queensland, Australia. Alexandra lookout view Alexandra lookout view </description>
+    </item>
+    <item>
+      <title>Australia Kata Tjuta / Mount Olga</title>
+      <link>https://www.waltercedric.com/australia-kata-tjuta-mount-olga/</link>
+      <pubDate>Tue, 31 Mar 2020 14:40:40 +0000</pubDate>
+      <guid>https://www.waltercedric.com/australia-kata-tjuta-mount-olga/</guid>
+      <description>Kata Tjuṯa, also known as the Olgas, is a group of large, domed rock formations or bornhardts located about 360 km southwest of Alice Springs, in the southern part of the Northern Territory, central Australia.</description>
+    </item>
+    <item>
+      <title>Australia Kings Canyon</title>
+      <link>https://www.waltercedric.com/australia-kings-canyon/</link>
+      <pubDate>Tue, 31 Mar 2020 14:28:05 +0000</pubDate>
+      <guid>https://www.waltercedric.com/australia-kings-canyon/</guid>
+      <description>Kings Canyon is a canyon in the Northern Territory of Australia located at the western end of the George Gill Range about 323 kilometres southwest of Alice Springs and about 1,316 kilometres south of Darwin within the Watarrka National Park. </description>
+    </item>
+    <item>
+      <title>Australia Walpa Gorge</title>
+      <link>https://www.waltercedric.com/australia-walpa-gorge/</link>
+      <pubDate>Tue, 31 Mar 2020 14:13:23 +0000</pubDate>
+      <guid>https://www.waltercedric.com/australia-walpa-gorge/</guid>
+      <description>Walpa Gorge is a desert refuge for plants and animals. Walpa Gorge Walk is a 2.7km back trail located near Petermann, Northern Territory,</description>
+    </item>
+    <item>
+      <title>Autralia Ayers Rock</title>
+      <link>https://www.waltercedric.com/autralia-ayers-rock/</link>
+      <pubDate>Tue, 31 Mar 2020 14:07:31 +0000</pubDate>
+      <guid>https://www.waltercedric.com/autralia-ayers-rock/</guid>
+      <description>Uluru, or Ayers Rock, is a massive sandstone monolith in the heart of the Northern Territory’s arid &amp;ldquo;Red Centre&amp;rdquo;. The nearest large town is Alice Springs, 450km away. Uluru is sacred to indigenous Australians and is thought to have started forming around 550 million years ago. It’s within Uluru-Kata Tjuta National Park, which also includes the 36 red-rock domes of the Kata Tjuta (colloquially “The Olgas”) formation.&#xA;cultural resort cultural resort cultural resort cultural resort Ayers rock resort Ayers rock resort Ayers rock resort Ayers rock resort Uluru – Ayers rock Uluru – Ayers rock Uluru – Ayers rock Uluru – Ayers rock Uluru – Ayers rock Uluru – Ayers rock Uluru – Ayers rock Uluru – Ayers rock Uluru – Ayers rock Uluru – Ayers rock Uluru – Ayers rock Uluru – Ayers rock Uluru – Ayers rock Uluru – Ayers rock </description>
+    </item>
+    <item>
+      <title>Australia Sydney Tower</title>
+      <link>https://www.waltercedric.com/australia-sydney-tower/</link>
+      <pubDate>Tue, 31 Mar 2020 13:59:27 +0000</pubDate>
+      <guid>https://www.waltercedric.com/australia-sydney-tower/</guid>
+      <description>Sydney Tower is Sydney &amp;rsquo;s tallest structure with 309 m and the second tallest observation tower in the Southern Hemisphere. Construction of Sydney Tower Centrepoint shopping center began in the late 1970 &amp;rsquo;s with the first 52 shops opening in 1972. The office component was completed in 1974 and the final stage of the complex, the Sydney Tower, was opened to the public in August 1981.&#xA;Cédric Walter </description>
+    </item>
+    <item>
+      <title>Australia Kiama coastal town south of Sydney</title>
+      <link>https://www.waltercedric.com/australia-kiama-coastal-town-south-of-sydney/</link>
+      <pubDate>Tue, 31 Mar 2020 13:49:24 +0000</pubDate>
+      <guid>https://www.waltercedric.com/australia-kiama-coastal-town-south-of-sydney/</guid>
+      <description>Kiama is an coastal town south of Sydney, in New South Wales, Australia. It’s known for the Kiama Blowhole and Little Blowhole, 2 cliffside caverns where seawater shoots into the air. Heading north, the Kiama Coast Walk trail links the blowholes to the columns of Cathedral Rocks, with whale-watching spots along the way. Surf Beach has calm water for swimming. Pilot’s Cottage Museum traces the town’s maritime history.&#xA;The top attractions to visit in Kiama are:</description>
+    </item>
+    <item>
+      <title>Dubai – InterContinental Residence Suites</title>
+      <link>https://www.waltercedric.com/dubai-intercontinental-residence-suites/</link>
+      <pubDate>Tue, 31 Mar 2020 13:32:26 +0000</pubDate>
+      <guid>https://www.waltercedric.com/dubai-intercontinental-residence-suites/</guid>
+      <description>InterContinental Residence Suites Dubai Festival City encompasses luxury serviced living with an exquisite selection of studio, one, two and three-bedroom suites. Offering an exclusive and instinctive ability to marry the friendly everyday comforts of home with the exceptional five-star InterContinental services.&#xA;Dubai Dubai my apartment Dubai my apartment Dubai my apartment Dubai my apartment Dubai my apartment Dubai my apartment Dubai my apartment Dubai my apartment </description>
+    </item>
+    <item>
+      <title>Dubai</title>
+      <link>https://www.waltercedric.com/dubai/</link>
+      <pubDate>Tue, 31 Mar 2020 13:21:41 +0000</pubDate>
+      <guid>https://www.waltercedric.com/dubai/</guid>
+      <description>Dubai is a city and emirate in the United Arab Emirates known for luxury shopping, ultramodern architecture and a lively nightlife scene. Burj Khalifa, an 830m-tall tower, dominates the skyscraper-filled skyline. At its foot lies Dubai Fountain, with jets and lights choreographed to music. On artificial islands just offshore is Atlantis, The Palm, a resort with water and marine-animal parks.&#xA;Burj Khalifa The Burj Khalifa, known as the Burj Dubai prior to its inauguration in 2010, is a skyscraper in Dubai, United Arab Emirates.</description>
+    </item>
+    <item>
+      <title>Switzerland Interlaken</title>
+      <link>https://www.waltercedric.com/switzerland-interlaken/</link>
+      <pubDate>Tue, 31 Mar 2020 11:59:59 +0000</pubDate>
+      <guid>https://www.waltercedric.com/switzerland-interlaken/</guid>
+      <description>Jungfrau Park is an amusement park located near Interlaken, Switzerland. It opened as the Mystery Park in 2003, and closed in November 2006 due to financial difficulties and low turnout. The park was designed by Erich von Däniken, and consisted of seven pavilions, each of which explored one of several great &amp;ldquo;mysteries&amp;rdquo; of the world.</description>
+    </item>
+    <item>
+      <title>Berlin</title>
+      <link>https://www.waltercedric.com/berlin-altes-museum/</link>
+      <pubDate>Tue, 31 Mar 2020 11:48:20 +0000</pubDate>
+      <guid>https://www.waltercedric.com/berlin-altes-museum/</guid>
+      <description>Berlin The Neptune Fountain The Neptune Fountain in Berlin was built in 1891 and was designed by Reinhold Begas. The Roman god Neptune is in the center. The four women around him represent the four main rivers of Prussia at the time the fountain was constructed: the Elbe (with the allegorical figure holding fruits and ears of corn), Rhine (fishnet and grapes), Vistula (wooden blocks, symbols of forestry), and Oder (goats and animal skins).</description>
+    </item>
+    <item>
+      <title>casablanca in western Morocco</title>
+      <link>https://www.waltercedric.com/casablanca-in-western-morocco/</link>
+      <pubDate>Tue, 31 Mar 2020 11:13:14 +0000</pubDate>
+      <guid>https://www.waltercedric.com/casablanca-in-western-morocco/</guid>
+      <description>Casablanca is a port city and commercial hub in western Morocco, fronting the Atlantic Ocean. The city &amp;rsquo;s French colonial legacy is seen in its downtown Mauresque architecture, a blend of Moorish style and European art deco. Standing partly over the water, the enormous Hassan II Mosque, completed in 1993, has a 210 m minaret topped with lasers directed toward Mecca.</description>
+    </item>
+    <item>
+      <title>Hallwillersee in the Canton of Aargau, Switzerland</title>
+      <link>https://www.waltercedric.com/hallwillersee-in-the-canton-of-aargau-switzerland/</link>
+      <pubDate>Tue, 31 Mar 2020 11:04:48 +0000</pubDate>
+      <guid>https://www.waltercedric.com/hallwillersee-in-the-canton-of-aargau-switzerland/</guid>
+      <description>Lake Hallwil is a lake largely in the Canton of Aargau, Switzerland, located at 47°17′N 8°12′E. It is the largest lake in Aargau and lies mostly in the districts of Lenzburg and Kulm on the southern edge of the canton. The southern tip of the lake reaches into the canton of Lucerne. Hallwilersee Hallwilersee Hallwilersee Hallwilersee Hallwilersee Hallwilersee </description>
+    </item>
+    <item>
+      <title>La Tour-de-Peilz</title>
+      <link>https://www.waltercedric.com/la-tour-de-peilz/</link>
+      <pubDate>Tue, 31 Mar 2020 10:55:54 +0000</pubDate>
+      <guid>https://www.waltercedric.com/la-tour-de-peilz/</guid>
+      <description>La Tour-de-Peilz is a municipality in Riviera-Pays-d &amp;lsquo;Enhaut District in the canton of Vaud in Switzerland. The city is located on Lake Geneva between Montreux and Vevey. </description>
+    </item>
+    <item>
+      <title>Vevey in the canton of Vaud, Switzerland</title>
+      <link>https://www.waltercedric.com/vevey-in-the-canton-of-vaud-switzerland/</link>
+      <pubDate>Tue, 31 Mar 2020 10:47:16 +0000</pubDate>
+      <guid>https://www.waltercedric.com/vevey-in-the-canton-of-vaud-switzerland/</guid>
+      <description>Vevey is a town in Switzerland in the canton of Vaud, on the north shore of Lake Geneva, near Lausanne. The German name Vivis is no longer commonly used.&#xA;It was the seat of the district of the same name until 2006, and is now part of the Riviera-Pays-d &amp;lsquo;Enhaut District. It is part of the French-speaking area of Switzerland.&#xA;Vevey is home to the world headquarters of the international food and beverage company Nestlé, founded here in 1867.</description>
+    </item>
+    <item>
+      <title>Walensee in St Gallen</title>
+      <link>https://www.waltercedric.com/walensee-in-st-gallen/</link>
+      <pubDate>Tue, 31 Mar 2020 10:44:02 +0000</pubDate>
+      <guid>https://www.waltercedric.com/walensee-in-st-gallen/</guid>
+      <description>The Walensee, also known as Lake Walen or Lake Walenstadt from Walenstadt, is one of the larger lakes in Switzerland, with about two thirds of its area in the Canton of St. Gallen and about one third in the Canton of Glarus. Other towns and villages at the lake include Weesen, Quinten, Quarten, and Murg.&#xA;The three main rivers leading to the lake are the Seez, Murgbach, and Linth. The last continues its course from Walensee to Lake Zurich.</description>
+    </item>
+    <item>
+      <title>Eiger in the the Bernese Alps</title>
+      <link>https://www.waltercedric.com/eiger-in-the-the-bernese-alps/</link>
+      <pubDate>Tue, 31 Mar 2020 10:39:23 +0000</pubDate>
+      <guid>https://www.waltercedric.com/eiger-in-the-the-bernese-alps/</guid>
+      <description>The Eiger is a 3,967-metre mountain of the Bernese Alps, overlooking Grindelwald and Lauterbrunnen in the Bernese Oberland of Switzerland, just north of the main watershed and border with Valais.&#xA;## Visiting an Alphorn manufacture Alphorns are traditional Swiss folkmusic instrument</description>
+    </item>
+    <item>
+      <title>Armattan Marmotte 5 DJI Edition</title>
+      <link>https://www.waltercedric.com/armattan-marmotte-5-dji-edition/</link>
+      <pubDate>Mon, 30 Mar 2020 15:37:20 +0000</pubDate>
+      <guid>https://www.waltercedric.com/armattan-marmotte-5-dji-edition/</guid>
+      <description>The Armattan Marmotte is the culmination of everything that Armattan learned during the design process of their previous flagship multi-rotors. The design is clean and sturdy, the cage has been redesigned and is entirely in Titanium to protect your camera.&#xA;This new frame is approx 115 grams, made of 4 mm carbon with a life time warranty on all Carbon Fiber and metal pieces!&#xA;The tilting mechanism can be oriented to a low 10 degrees or so up to 90 degrees.</description>
+    </item>
+    <item>
+      <title>Neo Geo UNIBios 4.0 is now free for personal use</title>
+      <link>https://www.waltercedric.com/games/neo-geo-unibios-4-0-is-now-free-for-personal-use/</link>
+      <pubDate>Thu, 26 Mar 2020 20:16:51 +0000</pubDate>
+      <guid>https://www.waltercedric.com/games/neo-geo-unibios-4-0-is-now-free-for-personal-use/</guid>
+      <description>**The [UNIVERSE BIOS][1] is for owners of SNK MVS or AES hardware that want an easy way to change country region or between Arcade or Console mode on boot. Also included are other features that are not possible using the standard MVS bios.&#xA;The [UNIVERSE BIOS][1] is also designed to give easy access to things like inserting coins, test mode and memory card management when using the joystick ports only. Of course the BIOS still allows standard operation too.</description>
+    </item>
+    <item>
+      <title>Armattan Chameleon Ti 5″ Freestyle FPV Frame</title>
+      <link>https://www.waltercedric.com/armattan-chameleon-ti-5-freestyle-fpv-frame/</link>
+      <pubDate>Tue, 24 Mar 2020 17:44:01 +0000</pubDate>
+      <guid>https://www.waltercedric.com/armattan-chameleon-ti-5-freestyle-fpv-frame/</guid>
+      <description>The Chameleon Titanium is the evolution of the all time favorite Chameleon released back in 2016. Better materials are used and many lessons learned with the Chameleon are revised in this new, state of the art design.&#xA;Better carbon fiber we worked on recently for the Rooster Lighter, easier to build Incredibly tough Ti front end Less bolts and no more M2 bolts. ALL M3 Better VTX mounting solutions Better anchoring provisions for 3D printed parts Armattan Chameleon Ti side Armattan Chameleon Ti front Frame Weight 118g Motor to Motor 220mm Frame Shape Compressed X Main Plate Thickness 4mm Titanium Cage Aluminum Standoffs Motor Mount Pattern 22xx Center Stack Mount 30.</description>
+    </item>
+    <item>
+      <title>Privacy Policy Statement</title>
+      <link>https://www.waltercedric.com/posts/blog/privacy/</link>
+      <pubDate>Sun, 08 Mar 2020 19:13:19 +0000</pubDate>
+      <guid>https://www.waltercedric.com/posts/blog/privacy/</guid>
+      <description>Privacy Policy Statement This website is owned by **Cedric Walter.**We can be reached via e-mail HERE&#xA;**Information Collected From All Visitors&#xA;For each visitor to this website, our web server automatically collects the following types of information which are stored in secure log files on the server.&#xA;Type of user agent (web browser) used, software manufacture and version number.&#xA;Type of operating system&#xA;Network location and IP address&#xA;Can include country, city, state, region, county, or any other geographic data.</description>
+    </item>
+    <item>
+      <title>Upgrading your Picade 8” to 10”</title>
+      <link>https://www.waltercedric.com/upgrading-your-picade-8-to-10/</link>
+      <pubDate>Sun, 23 Feb 2020 19:29:23 +0000</pubDate>
+      <guid>https://www.waltercedric.com/upgrading-your-picade-8-to-10/</guid>
+      <description>Picade is a Raspberry Pi-powered mini arcade that you build yourself, with authentic arcade controls, a high resolution 4:3 display that &amp;rsquo;s ideal for retro gaming, and a punchy speaker to hear those 8-bit game soundtracks at their best.&#xA;The ultimate desktop retro arcade machine! Picade is a Raspberry Pi-powered mini arcade that you build yourself, with authentic arcade controls, a high resolution 4:3 display that &amp;rsquo;s ideal for retro gaming, and a punchy speaker to hear those 8-bit game soundtracks at their best</description>
+    </item>
+    <item>
+      <title>Introducing, the NEOGEO Arcade Stick Pro! A fighting stick with 20 classic SNK fighters pre-installed!</title>
+      <link>https://www.waltercedric.com/games/introducing-the-neogeo-arcade-stick-pro-a-fighting-stick-with-20-classic-snk-fighters-pre-installed/</link>
+      <pubDate>Tue, 10 Sep 2019 21:53:28 +0000</pubDate>
+      <guid>https://www.waltercedric.com/games/introducing-the-neogeo-arcade-stick-pro-a-fighting-stick-with-20-classic-snk-fighters-pre-installed/</guid>
+      <description>The next in line for the #NEOGEO legacy comes the #NEOGEO Arcade Stick Pro. It’s an incredibly unique fighting stick in that it comes with fighting games pre-installed! It was inspired by the #NEOGEO CD’s controller design and was blown up to fighting stick size. (W 430mm×D 215mm×H 125mm) Additionally, the arcade stick can switch between two modes: Arcade Stick Mode and Console Mode.&#xA;At the moment, #SNK have plans for a world-wide release.</description>
+    </item>
+    <item>
+      <title>BlockByte won Trust Square biggest blockchain Hackathon #SBHACK19</title>
+      <link>https://www.waltercedric.com/blockbyte-won-trust-square-biggets-blockchain-hackathon-sbhack19/</link>
+      <pubDate>Wed, 10 Jul 2019 04:55:01 +0000</pubDate>
+      <guid>https://www.waltercedric.com/blockbyte-won-trust-square-biggets-blockchain-hackathon-sbhack19/</guid>
+      <description>Last weekend I took part in the biggest Swiss Blockchain Hackathon #SBHACK19, and our team Lend-It won twice!&#xA;BlockByte won in agriculture vertical. BlockByte won First prize among 39 teams together with Velove team. 200+ hackers, 20+ countries, 39 teams, 7 verticals (Agriculture &amp;amp; Food, eGovernment, Mobility, Finance, Intelligent Parcel, Supply Chain) , 57 coaches, 6211 messages in Slack, 20 million lines of code written in just 42 hours!&#xA;Many interesting solutions have been developed in the fields of intelligent parcels, finance, agriculture and food and others.</description>
+    </item>
+    <item>
+      <title>Google DevFest 2017 I’m organizing side activities</title>
+      <link>https://www.waltercedric.com/google-devfest-2017-in-freiburg-organizing-side-activities/</link>
+      <pubDate>Fri, 29 Sep 2017 11:52:08 +0000</pubDate>
+      <guid>https://www.waltercedric.com/google-devfest-2017-in-freiburg-organizing-side-activities/</guid>
+      <description>DevFest is the biggest Google tech conference in Switzerland. All about machine learning, programming, emerging technologies and much more! GDG DevFests are large, community-run developer events happening around the globe focused on community building and learning about Google’s technologies.&#xA;This year I will be helping and organizing some of the side activities between the talk session. And I prepared a lot of stuff, enough for 11 screens!&#xA;Not everything is on pictures, NES and SNES classic are missing for example.</description>
+    </item>
+    <item>
+      <title>Anne Walter 4 Avril 1941  † Mardi 27 Juin 2017</title>
+      <link>https://www.waltercedric.com/anne-walter-4-avril-1941-mardi-27-juin-2017/</link>
+      <pubDate>Wed, 05 Jul 2017 13:59:07 +0000</pubDate>
+      <guid>https://www.waltercedric.com/anne-walter-4-avril-1941-mardi-27-juin-2017/</guid>
+      <description>Au soir du mardi 27 Juin 2017 s &amp;rsquo;est endormi paisiblement ma chère marraine Anne Walter à l &amp;lsquo;Alters- und Pflegeheim Johanniter – Mülhauserstrasse 35, 4056 Basel C &amp;rsquo;est avec une grande tristesse que j &amp;lsquo;ai appris cette douloureuse fatalité. La vie peut être d &amp;lsquo;une grande dureté, mais je garderai en tête les bons souvenirs. Tu étais quelqu &amp;lsquo;un de positif, de souriant, avec une douceur et une générosité de cœur incroyable.</description>
+    </item>
+    <item>
+      <title>Fifille  01.02.2007 † 05 Juli 2017</title>
+      <link>https://www.waltercedric.com/fifille-01-02-2007-05-juli-2017/</link>
+      <pubDate>Wed, 05 Jul 2017 13:38:45 +0000</pubDate>
+      <guid>https://www.waltercedric.com/fifille-01-02-2007-05-juli-2017/</guid>
+      <description>A notre chien adoré, Fifille qui suite à un AVC le lundi 26 juin 2017 a été piqué le mercredi 5 juillet 2017 à 15:45/16:00 à l &amp;lsquo;âge de 10 ans et demi Durant ces années ce ne fut que du bonheur et de la joie, Merci à elle pour tous ces bons moments passés ensemble!&#xA;berger australien – australian shepherd</description>
+    </item>
+    <item>
+      <title>Les niveaux de gris sur HP48</title>
+      <link>https://www.waltercedric.com/les-niveaux-de-gris/</link>
+      <pubDate>Fri, 06 Feb 2015 08:40:17 +0000</pubDate>
+      <guid>https://www.waltercedric.com/les-niveaux-de-gris/</guid>
+      <description>par Cédric Walter 1996&#xA;Cet article permet de comprendre comment afficher des niveaux de gris sur HP48, un programme ASM y fait suite.&#xA;Technique des niveaux de gris Pour afficher des niveaux de gris, il suffit de changer rapidement d &amp;lsquo;image et de jouer sur la persistance rétinienne de l &amp;lsquo;oeil. Pour changer rapidement d &amp;lsquo;écran, on modifie l &amp;lsquo;adresse en 120h (écran affiché en cours). Pour modifier les images à la bonne vitesse, il faut lire le compteur de ligne en 128h, 6 bits sur lesquels sont codés le numéro de la ligne en cours de rafraîchissement et qui décroît de la séparation des menus jusqu &amp;lsquo;à 0 (Technique de synchronisation verticale).</description>
+    </item>
+    <item>
+      <title>Avoid infamous change – restart – wait – check development lifecycle!</title>
+      <link>https://www.waltercedric.com/avoid-infamous-change-restart-wait-check-development-lifecycle/</link>
+      <pubDate>Wed, 14 Jan 2015 13:36:39 +0000</pubDate>
+      <guid>https://www.waltercedric.com/avoid-infamous-change-restart-wait-check-development-lifecycle/</guid>
+      <description>Stop waiting for build &amp;amp; deploy make code changes. Write code and refresh your browser!&#xA;Use DCEVM and add java fields, methods, classes and use them without restarting your application server, it &amp;rsquo;s a modification of the HotSpot VM that allows unlimited class redefinition at run-time. You can add/remove fields and methods and change the super types of a class at run-time. The features of DCEVM are likely to be integrated in a future update of #Java 8 as part of JEP 159.</description>
+    </item>
+    <item>
+      <title>Apache POI contribution patches</title>
+      <link>https://www.waltercedric.com/apache-poi-contribution-patches/</link>
+      <pubDate>Sat, 01 Jun 2013 09:34:03 +0000</pubDate>
+      <guid>https://www.waltercedric.com/apache-poi-contribution-patches/</guid>
+      <description>The Apache POI Project &amp;rsquo;s mission is to create and maintain #Java APIs for manipulating various file formats based upon the Office Open XML standards (OOXML) and Microsoft &amp;rsquo;s OLE 2 Compound Document format (OLE2). In short, you can read and write MS Excel files using #Java. In addition, you can read and write MS Word and MS PowerPoint files using #Java. Apache POI is your #Java Excel solution (for Excel 97-2008).</description>
+    </item>
+    <item>
+      <title>About me</title>
+      <link>https://www.waltercedric.com/about/</link>
+      <pubDate>Wed, 25 Aug 2010 13:58:00 +0000</pubDate>
+      <guid>https://www.waltercedric.com/about/</guid>
+      <description>Cédric Walter is a French-Swiss entrepreneur, investor, and software engineer based in Zurich, Switzerland. He spent his career developing software applications for Swiss insurance companies to handle billions of dollars in premiums. He cofounded Innoveo AG and as the software architect developed the no-code platform designed to reduce the manual coding that powers many software apps. As an active participant in the European hacking community, he works on many open source projects including blockchain.</description>
+    </item>
+    <item>
+      <title>Neo Geo Pocket # 0016263</title>
+      <link>https://www.waltercedric.com/games/neo-geo-pocket-0016263/</link>
+      <pubDate>Mon, 07 Dec 2009 21:26:39 +0000</pubDate>
+      <guid>https://www.waltercedric.com/games/neo-geo-pocket-0016263/</guid>
+      <description>The Neo Geo Pocket was SNK &amp;rsquo;s first hand held video game system, released in Japan in late 1998; however, lower than expected sales resulted in its discontinuation in 1999, and was immediately succeeded by the Neo Geo Pocket Color. The system only had a retail release within the Japan and Hong Kong market.&#xA;Side by side, a SNK Neo Geo Pocket on the left side and a SNK Neo Geo Pocket Color</description>
+    </item>
+    <item>
+      <title>SNK Neo Geo CDZ # 0013836</title>
+      <link>https://www.waltercedric.com/games/neo-geo-cdz-0013836/</link>
+      <pubDate>Mon, 07 Dec 2009 21:00:22 +0000</pubDate>
+      <guid>https://www.waltercedric.com/games/neo-geo-cdz-0013836/</guid>
+      <description>The world of gaming is marked by constant evolution and innovation, with each era leaving behind its unique imprint. In the early 1990s, SNK introduced the Neo Geo CDZ, a gaming console that combined cutting-edge technology with the allure of luxury gaming. In this blog post, we &amp;rsquo;ll explore the Neo Geo CDZ, its significance in gaming history, and the legacy it has left behind.&#xA;The CDZ was released in 1996 as the Japanese market replacement for SNK &amp;rsquo;s previous efforts (the &amp;ldquo;front loader&amp;rdquo; and the &amp;ldquo;top loader&amp;rdquo;).</description>
+    </item>
+    <item>
+      <title>Unveiling the SNK Neo Geo: A Nostalgic Journey into Gaming History</title>
+      <link>https://www.waltercedric.com/games/all-neo-geo-aes-games/</link>
+      <pubDate>Sun, 25 Oct 2009 00:42:52 +0000</pubDate>
+      <guid>https://www.waltercedric.com/games/all-neo-geo-aes-games/</guid>
+      <description>In the realm of gaming history, few consoles evoke a sense of nostalgia and reverence quite like the SNK Neo Geo. Released in 1990, the Neo Geo stood as a testament to cutting-edge technology, revolutionary gameplay, and a devotion to arcade-quality experiences at home. In this blog post, we &amp;rsquo;ll delve into the captivating story of the Neo Geo, exploring its impact on the gaming landscape and its enduring legacy.</description>
+    </item>
+    <item>
+      <title>All Neo Geo CD games</title>
+      <link>https://www.waltercedric.com/games/all-neo-geo-cd-games/</link>
+      <pubDate>Sun, 25 Oct 2009 00:16:33 +0000</pubDate>
+      <guid>https://www.waltercedric.com/games/all-neo-geo-cd-games/</guid>
+      <description>The games **I do not own are still in red color**, you can contact me if you are selling some of them][1] 2020 Super Baseball 3 Count Bout/Fire Suplex ADK World Aero Fighters 2/Sonic Wings 2 Aero Fighters 3/Sonic Wings 3 Aggressors of Dark Kombat Alpha Mission 2/ASO II Art of Fighting Art of Fighting 2 Art of Fighting 3 Art of Fighting 3 Special Box Edition Baseball Stars Professional Baseball Stars 2 Blue &amp;rsquo;s Journey/Raguy Breakers Burning Fight Puzzle Bobble Chotetsu Brikin &amp;lsquo;ger/Iron CladÝ Crossed Swords Crossed Swords 2 Cyberlip Double Dragon Fatal Fury Fatal Fury 2 Fatal Fury Special Fatal Fury 3 Football Frenzy Futsal: Pleasure Goal on Goal 5 Galaxy Fight Ghost Pilots Idol Mahjong Final Romance 2 Kabuki Klash/Far East of Eden Karnov &amp;rsquo;s Revenge/Fighter &amp;rsquo;s History Dynamite King of Fighters &amp;lsquo;94 King of Fighters &amp;lsquo;95 King of Fighters &amp;lsquo;96 King of Fighters &amp;lsquo;96 Collection King of Fighters &amp;lsquo;97 King of Fighters &amp;lsquo;98 King of Fighters &amp;lsquo;98 with &amp;lsquo;99 Calendar King of Fighters &amp;lsquo;98 Special Box Edition King of Fighters &amp;lsquo;99 King of the Monsters 2 Last Blade Last Blade 2 Last Resort League Bowling Magical Drop 2 Magician Lord Mahjong Janshin Densetsu Mahjong Kyoretsuden Master of Syougi Metal Slug Metal Slug 2 Mutation Nation NAM-1975 Neo DriftOut Neo Geo CD Special Neo Turf Masters/Big Tournament Golf Ninja Combat Ninja Commando Ninja Master &amp;rsquo;s Oshidashi Zintrick OverTop Power Spikes 2 Pulstar Puzzled/Joy Joy Kid Quiz King of Fighters Ragnagard/Shin Oh Ken Real Bout Fatal Fury Real Bout Fatal Fury Special Real Bout Fatal Fury 2 Riding Hero Robo Army Samurai Shodown Samurai Shodown II Samurai Shodown III Samurai Shodown IV Samurai Shodown RPG Savage Reign Sengoku Sengoku 2 Soccer Brawl Stakes Winner GI Street Hoop/Dunk Dreams Super Sidekicks Super Sidekicks 2 Super Sidekicks 3 Super Spy, The Rally Chase Top Hunter Top Players Golf Twinkle Star Sprites Viewpoint Voltage Fighter Gowcaizer Windjammers/Flying Power Disc World Heroes World Heroes 2 World Heroes 2 JET World Heroes Perfect I am always trying to complete my collection, you can contact me if you are selling some Neo-Geo CD games.</description>
+    </item>
+    <item>
+      <title>Neo Geo Pocket Color</title>
+      <link>https://www.waltercedric.com/games/neo-geo-pocket-color/</link>
+      <pubDate>Sat, 24 Oct 2009 23:55:25 +0000</pubDate>
+      <guid>https://www.waltercedric.com/games/neo-geo-pocket-color/</guid>
+      <description>I did buy these 2 color hand held Neo-Geo pocket color on [www.ebay.fr][1] When I start playing with the SNK Neo Geo back in 1991 (till 2000), I was never thinking of buying one of these Neo-geo Pocket Color. I am now trying to complete my collection of SNK Neo-geo stuff&#xA;Neo Geo Pocket Color(NGPC) aqua blue serial 516324&#xA;The **Neo-Geo Pocket Color** or **Neo-Geo Pocket Colour** in the UK (shortened **NGPC**) was released on March 16, 1999 in Japan and was released in the United States on August 6, 1999.</description>
+    </item>
+    <item>
+      <title>SNK NEO GEO AES total costs</title>
+      <link>https://www.waltercedric.com/games/snk-neo-geo-aes-total-costs/</link>
+      <pubDate>Wed, 10 Sep 2008 22:50:26 +0000</pubDate>
+      <guid>https://www.waltercedric.com/games/snk-neo-geo-aes-total-costs/</guid>
+      <description>Bought (Francs) Resold in euro SNK Neo Geo AES + Magician Lord 3490 FF 532 € 1 arcade pad 450 FF 68 € Soccer Brawl 825 FF 125 € Football Frenzy 825 FF 650FF 125 € Puzzled 690 FF 105 € NAM 75 690 FF 105 € ASO 2 690 FF 105 € King of Monster 800 FF 121 € Ninja Combat + Raguy 1600 FF 243 € Cyber Lip 670 FF 102 € Robo Army 675 FF 103 € Baseball 2020 675 FF 450FF 103 € Fatal Fury 1 800 FF 121 € World Heroes 900 FF 800FF 137 € Fatal Fury 2 exchange for Last Resort + Mutation Nation 96 € Fatal Fury Special 900 FF 137 € View Point 700 FF 106 € Baseball Star 2 400 FF 60 € Andro Dunos 400 FF 60 € Samurai Showdown 2 640 FF 99 € Samurai Showdown 1 300 FF 45 € League Bowling 150 FF 22 € Art of Fighting 2 450 FF 68 € TOTAL 2494 € This table do not take into account the 2 NEO-GEO CD I &amp;rsquo;ve bought on ebay 3 years ago.</description>
+    </item>
+    <item>
+      <title>Gallery of my Tasmania trip is online</title>
+      <link>https://www.waltercedric.com/gallery-of-my-tasmania-trip-is-online/</link>
+      <pubDate>Tue, 22 Jan 2008 22:04:08 +0000</pubDate>
+      <guid>https://www.waltercedric.com/gallery-of-my-tasmania-trip-is-online/</guid>
+      <description>Discover tasmania&#xA;Pictures were taken with a Canon G9, 12MP in Fine mode (4000*3000 pixels), so they are huge (2 to 5MB) but with no quality loss. A web version is available in the web page for better viewing. I do not publish any pictures containing persons that can be recognized. If you were on tour with me that day, [contact me here][1], and I will send you these personal pictures.</description>
+    </item>
+    <item>
+      <title>The Bridge Climb is the most sought after Sydney attraction.</title>
+      <link>https://www.waltercedric.com/the-bridge-climb-is-the-most-sought-after-sydney-attraction/</link>
+      <pubDate>Sun, 09 Dec 2007 12:23:15 +0000</pubDate>
+      <guid>https://www.waltercedric.com/the-bridge-climb-is-the-most-sought-after-sydney-attraction/</guid>
+      <description>Tomorrow I will be climbing the bridge of Sydney, 134 m above sea, so wish me good luck (the weather was quite strange in the last 3 days). I will be put my pic online, but for the moment you can watch the gallery here.&#xA;The Bridge Climb is the most sought after Sydney attraction. It takes you along the upper span of the arch on catwalks and ladders all the way to the summit, 134 meters above Sydney Harbor.</description>
+    </item>
+    <item>
+      <title>My Psaligraphie  collection is getting bigger</title>
+      <link>https://www.waltercedric.com/my-psaligraphie-collection-is-getting-bigger/</link>
+      <pubDate>Sun, 25 Nov 2007 21:17:13 +0000</pubDate>
+      <guid>https://www.waltercedric.com/my-psaligraphie-collection-is-getting-bigger/</guid>
+      <description>I &amp;rsquo;m very happy to welcome 8 new Scherrenschnitte (Scherinschnitte can be defined as German paper snipping). Two of them are coming from ebay while 6 have been found by my father in Freiburg (Germany) and offered to me.</description>
+    </item>
+    <item>
+      <title>Detailled planning of my Australia trip</title>
+      <link>https://www.waltercedric.com/detailled-planning-of-my-australia-trip/</link>
+      <pubDate>Wed, 21 Nov 2007 13:48:31 +0000</pubDate>
+      <guid>https://www.waltercedric.com/detailled-planning-of-my-australia-trip/</guid>
+      <description>I wont be able to browse my [forum][1], or respond to any emails inquiries from 4 December 2007 to 16 January 2008, as I will be at the end of the world in Australia. I will carry a lot of gadget stuff with me (GPS, camera and camcorder), in order to be able to map all pictures taken and video on Google Map / Google Earth . So You will have enough to browse beginning of next year.</description>
+    </item>
+    <item>
+      <title>Tasmania road trip</title>
+      <link>https://www.waltercedric.com/tasmania-road-trip/</link>
+      <pubDate>Mon, 12 Nov 2007 20:11:51 +0000</pubDate>
+      <guid>https://www.waltercedric.com/tasmania-road-trip/</guid>
+      <description>An overview of my future trip in Tasmania&#xA;Flight Sydney – Hobart on monday, then 1100 Km by car and return Hobart – Sydney on sunday&#xA;More details, video and pictures when I come back 😉&#xA;In between, I recommend You to visit WikiPedia and/or buy/read Lonely Planet Australia best travel book&#xA;[][1]</description>
+    </item>
+    <item>
+      <title>Enterprise grade performances tuning with critical memory constraints (part 2)</title>
+      <link>https://www.waltercedric.com/enterprise-grade-performances-tuning-with-critical-memory-constraints-part-2/</link>
+      <pubDate>Fri, 19 Oct 2007 14:56:18 +0000</pubDate>
+      <guid>https://www.waltercedric.com/enterprise-grade-performances-tuning-with-critical-memory-constraints-part-2/</guid>
+      <description>Still not enough, we were forced to profile the java code and make some big changes…. (from part 1)&#xA;Profiling&#xA;You either profile an application for speed and/or memory usage and/or memory leaks. Our application is fast enough at the moment. Our major concern is optimizing memory usage and thus avoiding disk memory swapping.&#xA;Some words about architecture&#xA;It is not possible to profile any applications without having a deep understanding of the architecture behind.</description>
+    </item>
+    <item>
+      <title>Endless love, lets be together for 5000 year more</title>
+      <link>https://www.waltercedric.com/endless-love-lets-be-together-for-5000-year-more/</link>
+      <pubDate>Wed, 07 Feb 2007 18:59:48 +0000</pubDate>
+      <guid>https://www.waltercedric.com/endless-love-lets-be-together-for-5000-year-more/</guid>
+      <description>Reuers&#xA;Archaeologists have unearthed two skeletons from the Neolithic period locked in a tender embrace and buried outside Mantua (25 miles south of Verona).&#xA;See location of Mantua on Google Maps&#xA;With luck they will stay another 5000 years together…</description>
+    </item>
+    <item>
+      <title>Cinq robots mulhousiens dans l’arène sarthoise.</title>
+      <link>https://www.waltercedric.com/cinq-robots-mulhousiens-dans-larene-sarthoise/</link>
+      <pubDate>Thu, 11 May 2006 16:44:29 +0000</pubDate>
+      <guid>https://www.waltercedric.com/cinq-robots-mulhousiens-dans-larene-sarthoise/</guid>
+      <description>Pour la quatrieme année, le club E = M6 de 1 &amp;lsquo;Ecole supérieure des sciences appliquées pour 1 &amp;lsquo;ingénieur (ESSAIM) participe, dés ce mercredi, a la septième edition de la Coupe de France de robotique, dans le cadre du Festival international des arts et technologies (ARTEC), à la Ferté-Bernard dans la Sarthe…&#xA;Jean-Baptiste Bonnet, responsable du club E=M6 de 1 &amp;lsquo;ESSAIM, cache, comme Cédric, Gwen, Edouard et la dizaine d &amp;lsquo;autres membres du club, sa fatigue derrière la satisfaction du travail bien fait.</description>
+    </item>
+    <item>
+      <title>Visiting Italy: Cinque terre</title>
+      <link>https://www.waltercedric.com/visiting-italy-cinque-terre/</link>
+      <pubDate>Sat, 04 Dec 2004 14:16:56 +0000</pubDate>
+      <guid>https://www.waltercedric.com/visiting-italy-cinque-terre/</guid>
+      <description>The Cinque Terre are five coastal villages in the province of La Spezia. &amp;ldquo;Discovered&amp;rdquo; by foreigners in the late 20th century they have become among the most touristed areas of Italy;&#xA;Monterosso al Mare Vernazza Corniglia Manarola Riomaggiore View Slideshow&#xA;1 2 ►&#xA;[Parco Nazionale delle Cinque Terre][1]&#xA;Riomaggiore is situated in a small valley just along the coast. It is the first Village of Cinque Terre when you come from La Spezia.</description>
+    </item>
+    <item>
+      <title>Visiting Italy: portovenere</title>
+      <link>https://www.waltercedric.com/visiting-italy-portovenere/</link>
+      <pubDate>Sat, 04 Dec 2004 13:53:21 +0000</pubDate>
+      <guid>https://www.waltercedric.com/visiting-italy-portovenere/</guid>
+      <description>The Ligurian coast between Cinque Terre and Portovenere is a cultural landscape of great scenic and cultural value. The layout and disposition of the small towns and the shaping of the surrounding landscape, overcoming the disadvantages of a steep, uneven terrain, encapsulate the continuous history of human settlement in this region over the past millennium.&#xA;tower-houses The Castle, S. Lawrence (16th century) **Catholic church in Portovenere** Used to be a temple to Venus Erycina (From which the name Portus Veneris derives).</description>
+    </item>
+    <item>
+      <title>Visiting Italy: Milano</title>
+      <link>https://www.waltercedric.com/visiting-italy-milano/</link>
+      <pubDate>Sun, 21 Nov 2004 20:37:00 +0000</pubDate>
+      <guid>https://www.waltercedric.com/visiting-italy-milano/</guid>
+      <description>Arch of peace **Castello sforzesco** Arriving from the duomo di Milano, The arche of peace, in the parc behind the castle&#xA;Basilica san-lorenzo maggiore Statue of Constantine, located in the plaza in front of the basilica&#xA;Church Santa Maria Delle Grazie&#xA;La Scala de Milan&#xA;Planetarium The planetarium, which is one of the most-renowned in Europe&#xA;## A church</description>
+    </item>
+    <item>
+      <title>Visiting Italy: Genova</title>
+      <link>https://www.waltercedric.com/visiting-italy-genova/</link>
+      <pubDate>Sun, 21 Nov 2004 20:30:20 +0000</pubDate>
+      <guid>https://www.waltercedric.com/visiting-italy-genova/</guid>
+      <description>Genova city, San Lorenzo church and the seaport…&#xA;The port of Genoa is the first in Italy. It ranks second in the Mediterranean after Marseille, France.&#xA;The Aquarium of Genoa is the largest in Europe. many companies have their boat here Famous boat from the movie &amp;ldquo;Hook&amp;rdquo; Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova </description>
+    </item>
+    <item>
+      <title>Visiting Italy: Galleria Vittorio Emanuele II</title>
+      <link>https://www.waltercedric.com/visiting-italy-galleria-vittorio-emanuele-ii/</link>
+      <pubDate>Thu, 18 Nov 2004 22:14:52 +0000</pubDate>
+      <guid>https://www.waltercedric.com/visiting-italy-galleria-vittorio-emanuele-ii/</guid>
+      <description>The Galleria Vittorio Emanuele II is a covered arcade situated on the northern side of the Piazza del Duomo in Milan, connecting to the Piazza della Scala. Named after King Victor Emmanuel II (It. Vittorio Emanuele II), the first king of united Italy, it was built by G. Mengoni between 1865 and 1878.&#xA;The street is covered over by an arching glass and steel roof, thus giving it a claim to be the world &amp;rsquo;s first</description>
+    </item>
+    <item>
+      <title>Visiting Italy: Duomo di Milano</title>
+      <link>https://www.waltercedric.com/visiting-italy-duomo-di-milano/</link>
+      <pubDate>Thu, 18 Nov 2004 20:56:07 +0000</pubDate>
+      <guid>https://www.waltercedric.com/visiting-italy-duomo-di-milano/</guid>
+      <description>The Duomo di Milano is one of the most famous buildings in Europe. It is the second largest Roman Catholic cathedral: only the cathedral of Seville is larger (as is Saint Peter &amp;rsquo;s Basilica in Rome, which is not a cathedral).&#xA;It is 157 meters long 40,000 people can fit comfortably within. The main spire is 109 meters high. The great windows of the choir were reputed to be the largest in the world.</description>
+    </item>
+    <item>
+      <title>Visiting Italy: Portofino</title>
+      <link>https://www.waltercedric.com/visiting-italy-portofino/</link>
+      <pubDate>Thu, 18 Nov 2004 19:23:42 +0000</pubDate>
+      <guid>https://www.waltercedric.com/visiting-italy-portofino/</guid>
+      <description>Portofino has a Mediterranean climate with hot and dry summers. Even in Winter the weather is never cold.&#xA;&amp;ldquo;A little village stretching like an arch of the moon around a quiet basin. Never have I felt the way I did when I walked into that green indefiniteness, with such a sense of peace and fulfilment&amp;rdquo;.&#xA;From Vie Errante by Guy de Maupassant&#xA;_Portofino Population: 35,254 Italy Population: 57,194,000 Currency: Euro Time Zone: GMT+1 Language: Italian_</description>
+    </item>
+    <item>
+      <title>Visiting Italy: Pisa</title>
+      <link>https://www.waltercedric.com/visiting-italy-pisa/</link>
+      <pubDate>Fri, 12 Nov 2004 22:44:54 +0000</pubDate>
+      <guid>https://www.waltercedric.com/visiting-italy-pisa/</guid>
+      <description>Pisa is a quite small city, if you go there using the train, and want to see the leaning tower, you &amp;rsquo;ll have to walk straight away during 20 minutes to reach:&#xA;The Square of miracle (The Campo dei Miracoli )&#xA;The Square of miracle is made of four buildings:&#xA;The Leaning tower, The Cathedral, The Baptistry, The Camposanto. ## La Torre di Pisa&#xA;italie italie italie italie italie Characteristics of the leaning Tower:</description>
+    </item>
+    <item>
+      <title>Etude (gallery of)</title>
+      <link>https://www.waltercedric.com/scooter/etude-gallery-of/</link>
+      <pubDate>Tue, 12 Oct 2004 18:09:02 +0000</pubDate>
+      <guid>https://www.waltercedric.com/scooter/etude-gallery-of/</guid>
+      <description>Etude du scooter Manurhin SM-75 75ccm (3.5Mb d &amp;lsquo;images) En 1954, la firme allemande DKW Auto Union présente un scooter baptisé Hobby, animé par un moteur de 75cm3 équipé d’une boite automatique. Les premiers modèles DKW ne possèdent qu’une selle monoplace et pas de carter de chaîne. Dès 1956 le Hobby franchit les frontières pour être construit en France sous licence et prend le nom de Manurhin. En 1958, DKW abandonne la fabrication du Hobby pour cause de problèmes financiers.</description>
+    </item>
+    <item>
+      <title>Ardor, Ulma noos parts</title>
+      <link>https://www.waltercedric.com/scooter/ardor-ulma-noos-parts/</link>
+      <pubDate>Sun, 10 Oct 2004 12:10:33 +0000</pubDate>
+      <guid>https://www.waltercedric.com/scooter/ardor-ulma-noos-parts/</guid>
+      <description>These are the most difficult part to find… more to come soon </description>
+    </item>
+    <item>
+      <title>Mode d emploi Vespa 1955</title>
+      <link>https://www.waltercedric.com/scooter/mode-d-emploi-vespa-1955/</link>
+      <pubDate>Sat, 09 Oct 2004 20:57:11 +0000</pubDate>
+      <guid>https://www.waltercedric.com/scooter/mode-d-emploi-vespa-1955/</guid>
+      <description>Notice d &amp;rsquo;emploi &amp;amp; d &amp;rsquo;entretien modèle vespa 1955 Caractéristiques principales Chassis : en tole de forme ouverte et caréne. Suspension des roues AV et AR : élastique avec ressort hélicoidal et amortisseur hydraulique à double effet. Suspension coaxiale pour l &amp;lsquo;AR.&#xA;Moteur: à deux temps à balayage en croix Cylindre horizontal en fonte et culasse en alliage léger. Alésage mm. 54 Course mm. 54 Cylindré ccm. 123,67 Puissance effective cv 5 Rapport volumétrique 6,5 : 1 Transmission : directe du moteur à la roue arrière par l &amp;lsquo;intermèdiaire de l &amp;rsquo;embrayage, l &amp;rsquo;engrenage élastique et les engrenages du changement de vitesse.</description>
+    </item>
+    <item>
+      <title>dépenses</title>
+      <link>https://www.waltercedric.com/scooter/depenses/</link>
+      <pubDate>Sat, 09 Oct 2004 20:28:46 +0000</pubDate>
+      <guid>https://www.waltercedric.com/scooter/depenses/</guid>
+      <description>Depenses (voir ma page sur sa restoration de A a Z…)&#xA;100 fr moteur vespa metz&#xA;150 fr siège arrière + porte bagage&#xA;480 fr apret + peinture&#xA;380 fr papier verre + bombe alu&#xA;750 fr peinture + appret&#xA;900 fr destination scooter&#xA;122 fr cable frein&#xA;45 fr 1 retro&#xA;88 fr gaine thermo&#xA;210 fr anti parasite + clé + gaine&#xA;350 fr chromes&#xA;110 fr clignotants</description>
+    </item>
+    <item>
+      <title>Comparaison Manurhin SM75 / DKW Hobby Roller</title>
+      <link>https://www.waltercedric.com/scooter/comparaison-manurhin-sm75-dkw-hobby-roller/</link>
+      <pubDate>Sat, 09 Oct 2004 19:43:23 +0000</pubDate>
+      <guid>https://www.waltercedric.com/scooter/comparaison-manurhin-sm75-dkw-hobby-roller/</guid>
+      <description> Manurhin SM75 DKW Hobby Roller Manurhin , in Licence : DKW-SM 75 DKW Motor75 ccm 74 ccm HP3 HP 2,7 HP at 4950 U/min Weight empty 86 kg ; max: 250 kg Max speed 54 km/h TiresAV : 2.75 x 16″, AR : 2.75 x 16″ AV : 2.75 x 16″, AR : 2.75 x 16″ Production10000 ex. Juli 1954 to August 1957 45303 ex. </description>
+    </item>
+    <item>
+      <title>Beltomatic motor drawning</title>
+      <link>https://www.waltercedric.com/scooter/beltomatic-motor-drawning/</link>
+      <pubDate>Tue, 05 Oct 2004 22:07:29 +0000</pubDate>
+      <guid>https://www.waltercedric.com/scooter/beltomatic-motor-drawning/</guid>
+      <description>thanks to Bertjan Marree…</description>
+    </item>
+    <item>
+      <title>Fabriquer votre cabine de sablage pour presque rien…</title>
+      <link>https://www.waltercedric.com/scooter/fabriquer-votre-cabine-de-sablage-pour-presque-rien/</link>
+      <pubDate>Thu, 09 Sep 2004 21:53:08 +0000</pubDate>
+      <guid>https://www.waltercedric.com/scooter/fabriquer-votre-cabine-de-sablage-pour-presque-rien/</guid>
+      <description>Fabriquer votre cabine de sablage pour presque rien… Sablage1.jpg&#xA;Sablage2.jpg&#xA;Sablage3.jpg&#xA;Amélioration du concept :&#xA;– Impossible de faire fonctionner la cabine sans un dispositif qui aspire les poussières. J’ai donc acheter un aspirateur de copeaux&#xA;industrielle pour 200€ (pales metal) et l’ai donc bricoler et cela marche a la perfection !&#xA;Point Noirs :&#xA;La CONSOMMATION !!!!! :&#xA;2 halogènes de 500 watts = 1000 Watts +&#xA;1 compresseur de 5CV 9A 3KWatts et 370 l/min restitué a 9bars (insuffisant) +</description>
+    </item>
+    <item>
+      <title>le robot 2000 de l ESSAIM en images</title>
+      <link>https://www.waltercedric.com/le-robot-2000-de-l-essaim-en-images/</link>
+      <pubDate>Thu, 09 Sep 2004 19:59:54 +0000</pubDate>
+      <guid>https://www.waltercedric.com/le-robot-2000-de-l-essaim-en-images/</guid>
+      <description>Le Robot de l &amp;lsquo;ESSAIM (aujourd &amp;lsquo;hui appeleé ENSISA) lors de la coupe E=M6 de Robotique.&#xA;L’ESSAIM est créée par décret le 1er août 1990. L’Administrateur Provisoire de cette nouvelle Ecole est le Directeur de l’IRP : Monsieur Gérard METZGER.&#xA;L &amp;lsquo;ENSISA est une école d &amp;lsquo;ingénieurs publique qui résulte de la fusion de l &amp;lsquo;ENSITM (Ecole Nationale Supérieure des industries Textiles de Mulhouse) et de l &amp;lsquo;ESSAIM (école supérieure des sciences appliquées pour l &amp;lsquo;ingénieur de Mulhouse).</description>
+    </item>
+    <item>
+      <title>Coupe de France E=M6 de Robotique</title>
+      <link>https://www.waltercedric.com/coupe-de-france-em6-de-robotique/</link>
+      <pubDate>Sun, 05 Sep 2004 17:59:01 +0000</pubDate>
+      <guid>https://www.waltercedric.com/coupe-de-france-em6-de-robotique/</guid>
+      <description>11.12.13 Mai à la Ferté Bernard 1999, Coupe de France E=M6 de Robotique &amp;ldquo;Châteaux Forts&amp;rdquo;&#xA;Avec de gauche à droite et de haut en bas&#xA;Alain DAUBIGNE, Gwen SCHMITT, Gilles GUILLAUME, Jack Â BERINGUIER, Emmanuel GILLON, Cédric WALTER, Edouard LABARRE, Jean Baptiste BONNET&#xA;L &amp;lsquo;Equipe ESSAIM 5ème sur plus de 180 équipes avec 1 gros robot (piloté par un 486sx sur carte mère PC104) + deux modules indépendants OBI 1 et OBI 2 (PIC 80C535).</description>
+    </item>
+    <item>
+      <title>Dans les journaux</title>
+      <link>https://www.waltercedric.com/dans-les-journaux/</link>
+      <pubDate>Sun, 05 Sep 2004 16:17:25 +0000</pubDate>
+      <guid>https://www.waltercedric.com/dans-les-journaux/</guid>
+      <description>|</description>
+    </item>
+    <item>
+      <title>Reflexions techniques sur la coupe E=M6 1999</title>
+      <link>https://www.waltercedric.com/reflexions-techniques-sur-la-coupe-em6-1999/</link>
+      <pubDate>Sun, 05 Sep 2004 16:16:17 +0000</pubDate>
+      <guid>https://www.waltercedric.com/reflexions-techniques-sur-la-coupe-em6-1999/</guid>
+      <description>Je ne saurais être tenu responsable pour les erreurs d &amp;lsquo;attribution de technologies des différentes équipes citées ci-dessous. Ecrivez moi pour corriger toutes bévues. Les remarques n &amp;rsquo;engagent que moi.&#xA;En grande majorité, on peut noter la grande complexité des robots participants Ã la coupe.&#xA;Les systèmes électroniques sont complexes et étagées, le cablage en majorité touffue (je dirai prototypesque), ce qui provoque des problèmes d &amp;lsquo;isolations et de destruction inopinée.</description>
+    </item>
+    <item>
+      <title>le robot 1999 de l ESSAIM en images</title>
+      <link>https://www.waltercedric.com/le-robot-1999-de-l-essaim-en-images/</link>
+      <pubDate>Sun, 05 Sep 2004 16:10:18 +0000</pubDate>
+      <guid>https://www.waltercedric.com/le-robot-1999-de-l-essaim-en-images/</guid>
+      <description>Voici Le robot ESSAIM ainsi que nos deux petits modules destructeurs OBee-1 et OBee-2&#xA;Notre Carte Mère : 1 Arcom Pc-104 avec carte Multi Io32 (32 E/S numériques) et une carte Vidéo (3 cartes en tout. C &amp;rsquo;est un 486SL 25 MHz AMD avec 2 Mo de flash (programme) et un Rom Bios. Carte prêtée par le laboratoire LSI (Logiciels des Systèmes Industriels de l &amp;lsquo;ESSAIM). Cette Année, on a acheté un beau boitier Alu qui n &amp;rsquo;existait pas l &amp;lsquo;année dernière.</description>
+    </item>
+    <item>
+      <title>Matrice de connaissance du moteur</title>
+      <link>https://www.waltercedric.com/matrice-de-connaissance-du-moteur/</link>
+      <pubDate>Fri, 03 Sep 2004 10:42:17 +0000</pubDate>
+      <guid>https://www.waltercedric.com/matrice-de-connaissance-du-moteur/</guid>
+      <description>Le moteur ne tourne pas&#xA;Voltage du démarreur insuffisant. Moteur noyé. Moteur ou roulements collés. Le moteur tourne lentement, de maniÃ¨re erratique&#xA;Voltage de la Batterie Ã bougie insuffisant. Le starter de démarrage dérape Le Starter est trop peu puissant pour la cylindrée. L&amp;rsquo;huile dans le moteur est congelé ou s&amp;rsquo;est déposé sous forme de carbone solide. Moteur noyé. Le moteur tourne normalement mais ne démarre pas&#xA;La bougie ne rougit pas ou est noyée.</description>
+    </item>
+    <item>
+      <title>Check List pour le montage</title>
+      <link>https://www.waltercedric.com/check-list-pour-le-montage/</link>
+      <pubDate>Fri, 03 Sep 2004 10:41:08 +0000</pubDate>
+      <guid>https://www.waltercedric.com/check-list-pour-le-montage/</guid>
+      <description>Date:______________&#xA;Réalisé par:__________&#xA;Machine:_____________&#xA;Montage :&#xA;_____ utiliser du frein filet sur toutes les vis et ecrous ou vis &amp;ldquo;parker&amp;rdquo;. (Loctite Bleu)&#xA;_____ Ne pas échanger des pas SAE la ou des pas métrique sont nécessaire.&#xA;_____ Tous les vis de bras de servo sont suffisament serrés dans l &amp;lsquo;axe de sortie des servos.&#xA;_____ Les parties du chassis en bois sont protégés contre les projections d &amp;rsquo;essences.&#xA;_____ Bras de servo fixés (vérifier en les les tordants avec la main).</description>
+    </item>
+    <item>
+      <title>Check List après crash</title>
+      <link>https://www.waltercedric.com/check-list-apres-crash/</link>
+      <pubDate>Fri, 03 Sep 2004 10:40:32 +0000</pubDate>
+      <guid>https://www.waltercedric.com/check-list-apres-crash/</guid>
+      <description>Date:_____________&#xA;Nom du pilote :_________&#xA;Machine:__________&#xA;Placer une croix devant la partie que vous venez de finir de vérifier…&#xA;Sur le terrain&#xA;_____ Ne pas paniquer, devenir agressif, tout le monde s &amp;rsquo;est déjà crashé.&#xA;_____ Si possible, couper le moteur avec la radio pour éviter d &amp;lsquo;autres dégats . Couper l &amp;lsquo;arrivée d &amp;rsquo;essence dès que possible (penser à votre sécurité).&#xA;_____ Baliser la zone de crash pour rechercher les pièces plus tard.</description>
+    </item>
+    <item>
+      <title>Hewlett Packard MetaKernel unofficial site</title>
+      <link>https://www.waltercedric.com/metakernel-unofficial-site/</link>
+      <pubDate>Thu, 02 Sep 2004 20:17:53 +0000</pubDate>
+      <guid>https://www.waltercedric.com/metakernel-unofficial-site/</guid>
+      <description>This is not the Official MetaKernel Home Page.&#xA;A huge portion of that page was first published in raw HTML in 1998! (without CSS)&#xA;May 14, 1996, MetaKernel ? Hello World !&#xA;As you know, since 4 months, a new program is available for your HP48 His name is MetaKernel …&#xA;This program can speed up your hp48gx up to 100 times…&#xA;It &amp;rsquo;s a kernel (as the name says) which replace the standard environment of your HP … We can compare this program like windows vs DOS</description>
+    </item>
+  </channel>
+</rss>

@@ -14,7 +14,7 @@
       <link>https://www.waltercedric.com/switzerland/alternate-way-to-watch-init7-tv7-swiss-live-streaming-broadcast-television/</link>
       <pubDate>Sun, 03 Dec 2023 21:01:05 +0000</pubDate>
       <guid>https://www.waltercedric.com/switzerland/alternate-way-to-watch-init7-tv7-swiss-live-streaming-broadcast-television/</guid>
-      <description>I struggled last time with PLEX media server, you need to install xTeVe, then UDPproxy to rewrite the content of the m3u (do not exist for PI) this emulate the TVTuner, import the XML TV guide and define the tuner mapping (a pain!) add that this is not easily working on a raspberry pi… a disaster&#xA;Till I Discover JellyFin, Live TV is supported out of the box!&#xA;You just need to add the m3u and the XML TV guide!</description>
+      <description>Watch Init7 TV7 with Plex media center Good luck! I struggled last time with PLEX media server, you need to install xTeVe, then UDPproxy to rewrite the content of the m3u this emulate the TVTuner, import the XML TV guide and define the tuner mapping (manualy a pain for 200 channels!)&#xA;Attention! if plex run on Raspberry Pi, you will have to compile your own UDPproxy version&#xA;Watch Init7 TV7 with Jellyfin media center With JellyFin, Live TV is supported out of the box!</description>
     </item>
   </channel>
 </rss>

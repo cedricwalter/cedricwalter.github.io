@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>java on Cédric Walter blog</title>
-    <link>https://www.waltercedric.com/tags/java/</link>
+    <link>https://waltercedric.com/tags/java/</link>
     <description>Recent content in java on Cédric Walter blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Reproduction without explicit permission is prohibited. All Rights Reserved. All photos remain copyright © their rightful owners. No copyright infringement is intended.</copyright>
     <lastBuildDate>Wed, 14 Jan 2015 13:36:39 +0000</lastBuildDate>
-    <atom:link href="https://www.waltercedric.com/tags/java/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://waltercedric.com/tags/java/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Avoid infamous change – restart – wait – check development lifecycle!</title>
-      <link>https://www.waltercedric.com/avoid-infamous-change-restart-wait-check-development-lifecycle/</link>
+      <link>https://waltercedric.com/avoid-infamous-change-restart-wait-check-development-lifecycle/</link>
       <pubDate>Wed, 14 Jan 2015 13:36:39 +0000</pubDate>
-      <guid>https://www.waltercedric.com/avoid-infamous-change-restart-wait-check-development-lifecycle/</guid>
+      <guid>https://waltercedric.com/avoid-infamous-change-restart-wait-check-development-lifecycle/</guid>
       <description>Stop waiting for build &amp;amp; deploy make code changes. Write code and refresh your browser!&#xA;Use DCEVM and add java fields, methods, classes and use them without restarting your application server, it &amp;rsquo;s a modification of the HotSpot VM that allows unlimited class redefinition at run-time. You can add/remove fields and methods and change the super types of a class at run-time. The features of DCEVM are likely to be integrated in a future update of #Java 8 as part of JEP 159.</description>
     </item>
     <item>
       <title>Apache POI contribution patches</title>
-      <link>https://www.waltercedric.com/apache-poi-contribution-patches/</link>
+      <link>https://waltercedric.com/apache-poi-contribution-patches/</link>
       <pubDate>Sat, 01 Jun 2013 09:34:03 +0000</pubDate>
-      <guid>https://www.waltercedric.com/apache-poi-contribution-patches/</guid>
+      <guid>https://waltercedric.com/apache-poi-contribution-patches/</guid>
       <description>The Apache POI Project &amp;rsquo;s mission is to create and maintain #Java APIs for manipulating various file formats based upon the Office Open XML standards (OOXML) and Microsoft &amp;rsquo;s OLE 2 Compound Document format (OLE2). In short, you can read and write MS Excel files using #Java. In addition, you can read and write MS Word and MS PowerPoint files using #Java. Apache POI is your #Java Excel solution (for Excel 97-2008).</description>
     </item>
     <item>
       <title>Enterprise grade performances tuning with critical memory constraints (part 2)</title>
-      <link>https://www.waltercedric.com/enterprise-grade-performances-tuning-with-critical-memory-constraints-part-2/</link>
+      <link>https://waltercedric.com/enterprise-grade-performances-tuning-with-critical-memory-constraints-part-2/</link>
       <pubDate>Fri, 19 Oct 2007 14:56:18 +0000</pubDate>
-      <guid>https://www.waltercedric.com/enterprise-grade-performances-tuning-with-critical-memory-constraints-part-2/</guid>
+      <guid>https://waltercedric.com/enterprise-grade-performances-tuning-with-critical-memory-constraints-part-2/</guid>
       <description>Still not enough, we were forced to profile the java code and make some big changes…. (from part 1)&#xA;Profiling&#xA;You either profile an application for speed and/or memory usage and/or memory leaks. Our application is fast enough at the moment. Our major concern is optimizing memory usage and thus avoiding disk memory swapping.&#xA;Some words about architecture&#xA;It is not possible to profile any applications without having a deep understanding of the architecture behind.</description>
     </item>
   </channel>

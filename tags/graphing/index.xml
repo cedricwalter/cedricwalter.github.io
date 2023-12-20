@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>graphing on Cédric Walter blog</title>
-    <link>https://www.waltercedric.com/tags/graphing/</link>
+    <link>https://waltercedric.com/tags/graphing/</link>
     <description>Recent content in graphing on Cédric Walter blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Reproduction without explicit permission is prohibited. All Rights Reserved. All photos remain copyright © their rightful owners. No copyright infringement is intended.</copyright>
     <lastBuildDate>Fri, 06 Feb 2015 08:40:17 +0000</lastBuildDate>
-    <atom:link href="https://www.waltercedric.com/tags/graphing/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://waltercedric.com/tags/graphing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Les niveaux de gris sur HP48</title>
-      <link>https://www.waltercedric.com/les-niveaux-de-gris/</link>
+      <link>https://waltercedric.com/les-niveaux-de-gris/</link>
       <pubDate>Fri, 06 Feb 2015 08:40:17 +0000</pubDate>
-      <guid>https://www.waltercedric.com/les-niveaux-de-gris/</guid>
+      <guid>https://waltercedric.com/les-niveaux-de-gris/</guid>
       <description>par Cédric Walter 1996&#xA;Cet article permet de comprendre comment afficher des niveaux de gris sur HP48, un programme ASM y fait suite.&#xA;Technique des niveaux de gris Pour afficher des niveaux de gris, il suffit de changer rapidement d &amp;lsquo;image et de jouer sur la persistance rétinienne de l &amp;lsquo;oeil. Pour changer rapidement d &amp;lsquo;écran, on modifie l &amp;lsquo;adresse en 120h (écran affiché en cours). Pour modifier les images à la bonne vitesse, il faut lire le compteur de ligne en 128h, 6 bits sur lesquels sont codés le numéro de la ligne en cours de rafraîchissement et qui décroît de la séparation des menus jusqu &amp;lsquo;à 0 (Technique de synchronisation verticale).</description>
     </item>
   </channel>

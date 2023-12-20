@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>controller on Cédric Walter blog</title>
-    <link>https://www.waltercedric.com/tags/controller/</link>
+    <link>https://waltercedric.com/tags/controller/</link>
     <description>Recent content in controller on Cédric Walter blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Reproduction without explicit permission is prohibited. All Rights Reserved. All photos remain copyright © their rightful owners. No copyright infringement is intended.</copyright>
     <lastBuildDate>Sun, 08 Oct 2023 20:02:18 +0000</lastBuildDate>
-    <atom:link href="https://www.waltercedric.com/tags/controller/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://waltercedric.com/tags/controller/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Update the Nirvana or FlySky NV14 to latest EdgeTX firmware</title>
-      <link>https://www.waltercedric.com/rc-helicopter-airplanes-fpv-drone/update-the-nirvana-or-flysky-nv14-to-latest-edgetx-firmware/</link>
+      <link>https://waltercedric.com/rc-helicopter-airplanes-fpv-drone/update-the-nirvana-or-flysky-nv14-to-latest-edgetx-firmware/</link>
       <pubDate>Sun, 08 Oct 2023 20:02:18 +0000</pubDate>
-      <guid>https://www.waltercedric.com/rc-helicopter-airplanes-fpv-drone/update-the-nirvana-or-flysky-nv14-to-latest-edgetx-firmware/</guid>
+      <guid>https://waltercedric.com/rc-helicopter-airplanes-fpv-drone/update-the-nirvana-or-flysky-nv14-to-latest-edgetx-firmware/</guid>
       <description>EdgeTX is a popular open-source firmware for RC (Radio Control) transmitters. It offers a wide range of features and customization options for hobbyists and enthusiasts in the RC community. Keeping your EdgeTX installation up to date ensures you have access to the latest features, improvements, and bug fixes. One crucial aspect of updating EdgeTX is updating the SD card contents. In this blog post, we will guide you through the process of updating EdgeTX and its SD card to the latest version.</description>
     </item>
     <item>
       <title>Armattan Marmotte 5 DJI Edition</title>
-      <link>https://www.waltercedric.com/armattan-marmotte-5-dji-edition/</link>
+      <link>https://waltercedric.com/armattan-marmotte-5-dji-edition/</link>
       <pubDate>Mon, 30 Mar 2020 15:37:20 +0000</pubDate>
-      <guid>https://www.waltercedric.com/armattan-marmotte-5-dji-edition/</guid>
+      <guid>https://waltercedric.com/armattan-marmotte-5-dji-edition/</guid>
       <description>The Armattan Marmotte is the culmination of everything that Armattan learned during the design process of their previous flagship multi-rotors. The design is clean and sturdy, the cage has been redesigned and is entirely in Titanium to protect your camera.&#xA;This new frame is approx 115 grams, made of 4 mm carbon with a life time warranty on all Carbon Fiber and metal pieces!&#xA;The tilting mechanism can be oriented to a low 10 degrees or so up to 90 degrees.</description>
     </item>
     <item>
       <title>Upgrading your Picade 8” to 10”</title>
-      <link>https://www.waltercedric.com/upgrading-your-picade-8-to-10/</link>
+      <link>https://waltercedric.com/upgrading-your-picade-8-to-10/</link>
       <pubDate>Sun, 23 Feb 2020 19:29:23 +0000</pubDate>
-      <guid>https://www.waltercedric.com/upgrading-your-picade-8-to-10/</guid>
+      <guid>https://waltercedric.com/upgrading-your-picade-8-to-10/</guid>
       <description>Picade is a Raspberry Pi-powered mini arcade that you build yourself, with authentic arcade controls, a high resolution 4:3 display that &amp;rsquo;s ideal for retro gaming, and a punchy speaker to hear those 8-bit game soundtracks at their best.&#xA;The ultimate desktop retro arcade machine! Picade is a Raspberry Pi-powered mini arcade that you build yourself, with authentic arcade controls, a high resolution 4:3 display that &amp;rsquo;s ideal for retro gaming, and a punchy speaker to hear those 8-bit game soundtracks at their best</description>
     </item>
   </channel>

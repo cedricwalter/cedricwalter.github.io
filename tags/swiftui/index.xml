@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>swiftui on Cédric Walter blog</title>
-    <link>https://www.waltercedric.com/tags/swiftui/</link>
+    <link>https://waltercedric.com/tags/swiftui/</link>
     <description>Recent content in swiftui on Cédric Walter blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Reproduction without explicit permission is prohibited. All Rights Reserved. All photos remain copyright © their rightful owners. No copyright infringement is intended.</copyright>
     <lastBuildDate>Tue, 22 Sep 2020 14:14:31 +0000</lastBuildDate>
-    <atom:link href="https://www.waltercedric.com/tags/swiftui/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://waltercedric.com/tags/swiftui/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>m-Clippy WON Migros Category prize in Europe’s Biggest Hackathon Hack Zurich 2020</title>
-      <link>https://www.waltercedric.com/m-clippy-won-migros-category-prize-in-european-biggest-hackathon-hack-zurich-2020/</link>
+      <link>https://waltercedric.com/m-clippy-won-migros-category-prize-in-european-biggest-hackathon-hack-zurich-2020/</link>
       <pubDate>Tue, 22 Sep 2020 14:14:31 +0000</pubDate>
-      <guid>https://www.waltercedric.com/m-clippy-won-migros-category-prize-in-european-biggest-hackathon-hack-zurich-2020/</guid>
+      <guid>https://waltercedric.com/m-clippy-won-migros-category-prize-in-european-biggest-hackathon-hack-zurich-2020/</guid>
       <description>Last weekend I took part in the biggest European Hackathon Hack Zurich 2020, and our team m-Clippy won in the Migros category!&#xA;Since 2014, HackZurich unites the world’s best tech talents, selected from thousands of applications, representing several elite universities and leading organizations from +85 countries, to collaborate and develop innovative web-, mobile- and hardware applications during a 40-hours hackathon in teams. Global industries and organizations provide the latest technologies, tools, and APIs to spark the creation of new prototypes.</description>
     </item>
   </channel>

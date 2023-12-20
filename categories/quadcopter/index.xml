@@ -2,81 +2,81 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Quadcopter on Cédric Walter blog</title>
-    <link>https://www.waltercedric.com/categories/quadcopter/</link>
+    <link>https://waltercedric.com/categories/quadcopter/</link>
     <description>Recent content in Quadcopter on Cédric Walter blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Reproduction without explicit permission is prohibited. All Rights Reserved. All photos remain copyright © their rightful owners. No copyright infringement is intended.</copyright>
     <lastBuildDate>Fri, 25 Aug 2023 09:16:10 +0000</lastBuildDate>
-    <atom:link href="https://www.waltercedric.com/categories/quadcopter/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://waltercedric.com/categories/quadcopter/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Main freestyle quadcopter figures and how to do them</title>
-      <link>https://www.waltercedric.com/rc-helicopter-airplanes-fpv-drone/main-freestyle-quadcopter-figures-and-how-to-do-them/</link>
+      <link>https://waltercedric.com/rc-helicopter-airplanes-fpv-drone/main-freestyle-quadcopter-figures-and-how-to-do-them/</link>
       <pubDate>Fri, 25 Aug 2023 09:16:10 +0000</pubDate>
-      <guid>https://www.waltercedric.com/rc-helicopter-airplanes-fpv-drone/main-freestyle-quadcopter-figures-and-how-to-do-them/</guid>
+      <guid>https://waltercedric.com/rc-helicopter-airplanes-fpv-drone/main-freestyle-quadcopter-figures-and-how-to-do-them/</guid>
       <description>Freestyle quadcopter flying involves performing various aerobatic maneuvers and tricks to showcase the agility and capabilities of the drone. Remember that freestyle flying requires skill and practice. Always ensure you have a good understanding of your drone’s capabilities, and practice these maneuvers in an open area away from obstacles and people. It is recommended to do them at high altitude to be able to recover. Gradually increase your skill level as you become more comfortable with each maneuver.</description>
     </item>
     <item>
       <title>How to update Betaflight firmware on your FPV drone</title>
-      <link>https://www.waltercedric.com/how-to-update-betaflight-firmware-on-your-fpv-drone/</link>
+      <link>https://waltercedric.com/how-to-update-betaflight-firmware-on-your-fpv-drone/</link>
       <pubDate>Sun, 13 Aug 2023 18:36:11 +0000</pubDate>
-      <guid>https://www.waltercedric.com/how-to-update-betaflight-firmware-on-your-fpv-drone/</guid>
+      <guid>https://waltercedric.com/how-to-update-betaflight-firmware-on-your-fpv-drone/</guid>
       <description>Upgrading the Betaflight firmware on your FPV drone is essential to access the latest features, improvements, and bug fixes. Here &amp;rsquo;s a step-by-step guide on how to upgrade the Betaflight version:&#xA;Backup Your Configuration: Before you begin, make sure to back up your current Betaflight configuration. This includes your settings, PID tuning, and any other customizations you &amp;rsquo;ve made. You can save your configuration by using the &amp;ldquo;Backup&amp;rdquo; feature within the Betaflight Configurator.</description>
     </item>
     <item>
       <title>IFlight Nazgul Evoque F5D V2 adding a VFLY 2 drone finder beeper</title>
-      <link>https://www.waltercedric.com/iflight-nazgul-evoque-f5d-v2-adding-a-vfly-2-drone-finder-beeper/</link>
+      <link>https://waltercedric.com/iflight-nazgul-evoque-f5d-v2-adding-a-vfly-2-drone-finder-beeper/</link>
       <pubDate>Sun, 13 Aug 2023 13:07:09 +0000</pubDate>
-      <guid>https://www.waltercedric.com/iflight-nazgul-evoque-f5d-v2-adding-a-vfly-2-drone-finder-beeper/</guid>
+      <guid>https://waltercedric.com/iflight-nazgul-evoque-f5d-v2-adding-a-vfly-2-drone-finder-beeper/</guid>
       <description>The iFlight Evoque F5D comes with a BLITZ MINI F7 fight controller. 1. Advanced ViSense Technology ViSense-based technology, the VIFLY Finder 2 can power itself to beep even the quad battery has been ejected. Even more, the built-in light sensor can detect light intensity and then smartly control the LED light to flash. Besides, it enables the buzzer automatically enter into sleep mode at night to save power and not disturb.</description>
     </item>
     <item>
       <title>IFlight Nazgul Evoque F5D V2 is not a good FPV frame</title>
-      <link>https://www.waltercedric.com/iflight-nazgul-evoque-f5d-v2-is-not-a-good-fpv-frame/</link>
+      <link>https://waltercedric.com/iflight-nazgul-evoque-f5d-v2-is-not-a-good-fpv-frame/</link>
       <pubDate>Sun, 13 Aug 2023 12:50:01 +0000</pubDate>
-      <guid>https://www.waltercedric.com/iflight-nazgul-evoque-f5d-v2-is-not-a-good-fpv-frame/</guid>
+      <guid>https://waltercedric.com/iflight-nazgul-evoque-f5d-v2-is-not-a-good-fpv-frame/</guid>
       <description>**All these holes and hollows in the carbon are made for making the frame lighter but these area are prone to break during a crash.** The frame is less rigid, and don’t cool down any better the electronic. It’s just pleasing to the eye nothing else. I suspect the carbon also to be of a lesser quality. First FPV frame I broke in 5 years…luckily the DJI O3 camera is fine.</description>
     </item>
     <item>
       <title>Nazgul Evoque F5 V2 O3 GPS Bind &amp; Fly ELRS using Radiomaster ZORRO 4 in 1 with Radiomaster Ranger Nano TX in 10 minutes</title>
-      <link>https://www.waltercedric.com/nazgul-evoque-f5-v2-o3-gps-bind-fly-elrs-using-radiomaster-zorro-4-in-1-with-radiomaster-ranger-nano-tx-in-10-minutes/</link>
+      <link>https://waltercedric.com/nazgul-evoque-f5-v2-o3-gps-bind-fly-elrs-using-radiomaster-zorro-4-in-1-with-radiomaster-ranger-nano-tx-in-10-minutes/</link>
       <pubDate>Wed, 09 Aug 2023 10:34:16 +0000</pubDate>
-      <guid>https://www.waltercedric.com/nazgul-evoque-f5-v2-o3-gps-bind-fly-elrs-using-radiomaster-zorro-4-in-1-with-radiomaster-ranger-nano-tx-in-10-minutes/</guid>
+      <guid>https://waltercedric.com/nazgul-evoque-f5-v2-o3-gps-bind-fly-elrs-using-radiomaster-zorro-4-in-1-with-radiomaster-ranger-nano-tx-in-10-minutes/</guid>
       <description>Prerequisites&#xA;Nazgul Evoque F5D or F5X V2 O3 GPS ExpressLRS DJI goggles 2 Software to install ExpressLRS Configurator installed https://github.com/ExpressLRS/ExpressLRS/releases Betaflight Configurator installed https://github.com/betaflight/betaflight-configurator/releases EdgeTX Companion installed https://github.com/EdgeTX/edgetx/releases Radiomaster ZORRO transmitter 4 in 1 multi protocol Radiomaster Ranger nano TX ELRS A small ventilator to keep the O3 cool while updating the receiver update DJI Goggles 2&#xA;Don’t use them on the Nazgul without the FCC hack, I crash once 30m away because the signal was too low…</description>
     </item>
     <item>
       <title>DJI Fpv speed racing drone RC Quadcopter FPV</title>
-      <link>https://www.waltercedric.com/dji-fpv-speed-racing-drone-rc-quadcopter-fpv/</link>
+      <link>https://waltercedric.com/dji-fpv-speed-racing-drone-rc-quadcopter-fpv/</link>
       <pubDate>Tue, 02 Mar 2021 17:28:15 +0000</pubDate>
-      <guid>https://www.waltercedric.com/dji-fpv-speed-racing-drone-rc-quadcopter-fpv/</guid>
+      <guid>https://waltercedric.com/dji-fpv-speed-racing-drone-rc-quadcopter-fpv/</guid>
       <description>Here are the specs. waiting to order mine 🙂 on 2nd march * 10KM range * 1080P * FPV 4K 60fps Camera * 20mins Flight Time * 140 km/h Speed * Goggles V2 5.8GHz * Transmitter Mode2&#xA;Aircraft&#xA;Takeoff Weight&#xA;Approx. 795 g&#xA;Dimensions&#xA;255×312×127 mm (with propellers) 178×232×127 mm (without propellers)&#xA;Diagonal Distance&#xA;245 mm&#xA;Max Ascent Speed&#xA;M mode: No limit&#xA;S mode: 15 m/s&#xA;N mode: 8 m/s</description>
     </item>
     <item>
       <title>Enable 1200 mw Mode on DJI FPV System</title>
-      <link>https://www.waltercedric.com/enable-1200-mw-mode-on-dji-fpv-system/</link>
+      <link>https://waltercedric.com/enable-1200-mw-mode-on-dji-fpv-system/</link>
       <pubDate>Wed, 15 Apr 2020 09:01:19 +0000</pubDate>
-      <guid>https://www.waltercedric.com/enable-1200-mw-mode-on-dji-fpv-system/</guid>
+      <guid>https://waltercedric.com/enable-1200-mw-mode-on-dji-fpv-system/</guid>
       <description>NOTES&#xA;You should follow your local regulations regarding which mode to use.&#xA;Long term hardware effects are unknown&#xA;You get more or less 30% more range&#xA;Your system must be already in FCC mode&#xA;Enable Power Limit as it add some protections against overheating.&#xA;Create a .txt file, name it naco_pwr.txt&#xA;Type pwr_2 or pwr_1&#xA;pwr_1 = 1000 mW pwr_2 = 1200 mW &amp;amp; 1000 mW Save and close&#xA;Copy naco_pwr.</description>
     </item>
     <item>
       <title>Enable FCC Mode on DJI FPV System (700mw 8 Channels)</title>
-      <link>https://www.waltercedric.com/enable-fcc-mode-on-dji-fpv-system-700mw-8-channels/</link>
+      <link>https://waltercedric.com/enable-fcc-mode-on-dji-fpv-system-700mw-8-channels/</link>
       <pubDate>Wed, 15 Apr 2020 08:52:40 +0000</pubDate>
-      <guid>https://www.waltercedric.com/enable-fcc-mode-on-dji-fpv-system-700mw-8-channels/</guid>
+      <guid>https://waltercedric.com/enable-fcc-mode-on-dji-fpv-system-700mw-8-channels/</guid>
       <description>In CE mode, the maximum output is limited to 25 mW, and there are only 4 channels available, while in FCC mode those numbers are increased to 700 mW and 8 channels. NOTE that you should follow your local regulations regarding which mode to use.&#xA;How to switch to FCC mode from CE mode Take the micro SD Card out of the Air Unit Create a text file on the root directory, name it naco.</description>
     </item>
     <item>
       <title>Armattan Marmotte 5 DJI Edition</title>
-      <link>https://www.waltercedric.com/armattan-marmotte-5-dji-edition/</link>
+      <link>https://waltercedric.com/armattan-marmotte-5-dji-edition/</link>
       <pubDate>Mon, 30 Mar 2020 15:37:20 +0000</pubDate>
-      <guid>https://www.waltercedric.com/armattan-marmotte-5-dji-edition/</guid>
+      <guid>https://waltercedric.com/armattan-marmotte-5-dji-edition/</guid>
       <description>The Armattan Marmotte is the culmination of everything that Armattan learned during the design process of their previous flagship multi-rotors. The design is clean and sturdy, the cage has been redesigned and is entirely in Titanium to protect your camera.&#xA;This new frame is approx 115 grams, made of 4 mm carbon with a life time warranty on all Carbon Fiber and metal pieces!&#xA;The tilting mechanism can be oriented to a low 10 degrees or so up to 90 degrees.</description>
     </item>
     <item>
       <title>Armattan Chameleon Ti 5″ Freestyle FPV Frame</title>
-      <link>https://www.waltercedric.com/armattan-chameleon-ti-5-freestyle-fpv-frame/</link>
+      <link>https://waltercedric.com/armattan-chameleon-ti-5-freestyle-fpv-frame/</link>
       <pubDate>Tue, 24 Mar 2020 17:44:01 +0000</pubDate>
-      <guid>https://www.waltercedric.com/armattan-chameleon-ti-5-freestyle-fpv-frame/</guid>
+      <guid>https://waltercedric.com/armattan-chameleon-ti-5-freestyle-fpv-frame/</guid>
       <description>The Chameleon Titanium is the evolution of the all time favorite Chameleon released back in 2016. Better materials are used and many lessons learned with the Chameleon are revised in this new, state of the art design.&#xA;Better carbon fiber we worked on recently for the Rooster Lighter, easier to build Incredibly tough Ti front end Less bolts and no more M2 bolts. ALL M3 Better VTX mounting solutions Better anchoring provisions for 3D printed parts Armattan Chameleon Ti side Armattan Chameleon Ti front Frame Weight 118g Motor to Motor 220mm Frame Shape Compressed X Main Plate Thickness 4mm Titanium Cage Aluminum Standoffs Motor Mount Pattern 22xx Center Stack Mount 30.</description>
     </item>
   </channel>

@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>raspberrypi on Cédric Walter blog</title>
-    <link>https://www.waltercedric.com/tags/raspberrypi/</link>
+    <link>https://waltercedric.com/tags/raspberrypi/</link>
     <description>Recent content in raspberrypi on Cédric Walter blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Reproduction without explicit permission is prohibited. All Rights Reserved. All photos remain copyright © their rightful owners. No copyright infringement is intended.</copyright>
     <lastBuildDate>Mon, 28 Aug 2023 08:07:25 +0000</lastBuildDate>
-    <atom:link href="https://www.waltercedric.com/tags/raspberrypi/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://waltercedric.com/tags/raspberrypi/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Building a Plex Media Server on Raspberry Pi 4: Your Ultimate DIY Guide</title>
-      <link>https://www.waltercedric.com/building-a-plex-media-server-on-raspberry-pi-4-your-ultimate-diy-guide/</link>
+      <link>https://waltercedric.com/building-a-plex-media-server-on-raspberry-pi-4-your-ultimate-diy-guide/</link>
       <pubDate>Mon, 28 Aug 2023 08:07:25 +0000</pubDate>
-      <guid>https://www.waltercedric.com/building-a-plex-media-server-on-raspberry-pi-4-your-ultimate-diy-guide/</guid>
+      <guid>https://waltercedric.com/building-a-plex-media-server-on-raspberry-pi-4-your-ultimate-diy-guide/</guid>
       <description>In the era of digital media consumption, having a centralized hub to manage and stream your media content has become increasingly important. Enter the Plex Media Server—an incredibly versatile platform that allows you to organize, access, and enjoy your movies, TV shows, music, and photos from any device, anywhere. And what &amp;rsquo;s even better? You can set up your very own Plex Media Server using a Raspberry Pi 4, a budget-friendly and energy-efficient solution that &amp;rsquo;s perfect for DIY enthusiasts.</description>
     </item>
     <item>
       <title>Cryptocurrency monitor with Unicorn HAT</title>
-      <link>https://www.waltercedric.com/cryptocurrency-monitor-with-unicorn-hat/</link>
+      <link>https://waltercedric.com/cryptocurrency-monitor-with-unicorn-hat/</link>
       <pubDate>Mon, 13 Apr 2020 09:23:14 +0000</pubDate>
-      <guid>https://www.waltercedric.com/cryptocurrency-monitor-with-unicorn-hat/</guid>
+      <guid>https://waltercedric.com/cryptocurrency-monitor-with-unicorn-hat/</guid>
       <description>Unicorn pHAT and HAT. 32 or 64 blinding ws2812 pixels for your Raspberry Pi. it is called Unicorn Hat because it does rainbows, really bright rainbows! ATTENTION: do not stare directly at the led without a sheet of paper on it. LED are REALLY bright!&#xA;Shopping list You need obviously a [raspberry pi][1], ideally with WIFI build in if you don &amp;rsquo;t like cables&#xA;Raspberry Pi 1 is not supported by Unicorn Hat Raspberry pi 2 , dual core, will require an Ethernet cable, can still be found on ebay, graiglist.</description>
     </item>
     <item>
       <title>Bitcoin, Ethereum price Monitoring on your raspberry Pi</title>
-      <link>https://www.waltercedric.com/bitcoin-ethereum-price-monitoring-on-your-raspberry-pi/</link>
+      <link>https://waltercedric.com/bitcoin-ethereum-price-monitoring-on-your-raspberry-pi/</link>
       <pubDate>Sun, 12 Apr 2020 09:58:56 +0000</pubDate>
-      <guid>https://www.waltercedric.com/bitcoin-ethereum-price-monitoring-on-your-raspberry-pi/</guid>
+      <guid>https://waltercedric.com/bitcoin-ethereum-price-monitoring-on-your-raspberry-pi/</guid>
       <description>All credit goes to [Author][1]&#xA;My setup use&#xA;Nginx instead of Apache An easier setup, with less steps You can display Bitcoin, Ethereum or any other cryptocurrencies (request) I also provide a ready to use image Shopping list You need obviously a raspberry pi, ideally with WIFI build in if you don &amp;rsquo;t like cables&#xA;Raspberry pi 1, single core, will require an Ethernet cable Raspberry pi 2 , dual core, will require an Ethernet cable Raspberry pi 3 or 4, a bit a shame to use this amount of power for that task, but has built in WIFI A 3.</description>
     </item>
     <item>
       <title>Cryptocurrencies Graph price using  a Raspberry Pi and 3.5” LCD Display</title>
-      <link>https://www.waltercedric.com/cryptocurrencies-graph-price-monitor-using-a-raspberry-pi-and-3-5-lcd-display/</link>
+      <link>https://waltercedric.com/cryptocurrencies-graph-price-monitor-using-a-raspberry-pi-and-3-5-lcd-display/</link>
       <pubDate>Sat, 11 Apr 2020 18:04:18 +0000</pubDate>
-      <guid>https://www.waltercedric.com/cryptocurrencies-graph-price-monitor-using-a-raspberry-pi-and-3-5-lcd-display/</guid>
+      <guid>https://waltercedric.com/cryptocurrencies-graph-price-monitor-using-a-raspberry-pi-and-3-5-lcd-display/</guid>
       <description>We will use the project [Bitcoin chart for the terminal][1] as command line util. For a list of supported cryptocurrencies see [coins][2].&#xA;Shopping list You need obviously a raspberry pi, ideally with WIFI build in if you don &amp;rsquo;t like cables&#xA;Raspberry pi 1, single core, will require an Ethernet cable Raspberry pi 2 , dual core, will require an Ethernet cable Raspberry pi 3 or 4, a bit a shame to use this amount of power for that task, but has built in WIFI A 3.</description>
     </item>
     <item>
       <title>Multi cryptocurrencies price Ticker using Raspberry Pi and 3.5” LCD Display</title>
-      <link>https://www.waltercedric.com/multi-cryptocurrencies-price-ticker-using-raspberry-pi-and-3-5-lcd-display/</link>
+      <link>https://waltercedric.com/multi-cryptocurrencies-price-ticker-using-raspberry-pi-and-3-5-lcd-display/</link>
       <pubDate>Sat, 11 Apr 2020 11:16:49 +0000</pubDate>
-      <guid>https://www.waltercedric.com/multi-cryptocurrencies-price-ticker-using-raspberry-pi-and-3-5-lcd-display/</guid>
+      <guid>https://waltercedric.com/multi-cryptocurrencies-price-ticker-using-raspberry-pi-and-3-5-lcd-display/</guid>
       <description>How to monitor your favorite cryptocurrencies on a 3.5 inches LCD and any Raspberry PI!&#xA;The python script is easily extensible and let you add any cryptocurrency pair.&#xA;Shopping list You need obviously a raspberry pi, ideally with WIFI build in if you don &amp;rsquo;t like cables&#xA;Raspberry pi 1, single core, will require an Ethernet cable Raspberry pi 2 , dual core, will require an Ethernet cable Raspberry pi 3 or 4, a bit a shame to use this amount of power for that task, but has built in WIFI A 3.</description>
     </item>
     <item>
       <title>Bitcoin And Ethereum price Ticker using Raspberry Pi and Display-O-Tron</title>
-      <link>https://www.waltercedric.com/bitcoin-ethereum-price-ticker-using-raspberry-pi-and-displayotron/</link>
+      <link>https://waltercedric.com/bitcoin-ethereum-price-ticker-using-raspberry-pi-and-displayotron/</link>
       <pubDate>Sat, 11 Apr 2020 08:58:08 +0000</pubDate>
-      <guid>https://www.waltercedric.com/bitcoin-ethereum-price-ticker-using-raspberry-pi-and-displayotron/</guid>
+      <guid>https://waltercedric.com/bitcoin-ethereum-price-ticker-using-raspberry-pi-and-displayotron/</guid>
       <description>How to monitor the Bitcoin and Ethereum price on a DisplayOTron LCD and any Raspberry PI!&#xA;Shopping list You need obviously a raspberry pi, ideally with WIFI build in if you don &amp;rsquo;t like cables&#xA;PI Zero W Raspberry pi 1, single core, will require an Ethernet cable Raspberry pi 2 , dual core, will require an Ethernet cable Raspberry pi 3 or 4, a bit a shame to use this amount of power for that task, has built in WIFI A displayOTron (Shop – [Github][1]) Includes a 16×3 character LCD display, 6-zone RGB LED backlight, bar graph, and six capacitive touch buttons all in one slim package.</description>
     </item>
   </channel>

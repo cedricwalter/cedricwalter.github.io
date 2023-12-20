@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Checklist on Cédric Walter blog</title>
-    <link>https://www.waltercedric.com/tags/checklist/</link>
+    <link>https://waltercedric.com/tags/checklist/</link>
     <description>Recent content in Checklist on Cédric Walter blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Reproduction without explicit permission is prohibited. All Rights Reserved. All photos remain copyright © their rightful owners. No copyright infringement is intended.</copyright>
     <lastBuildDate>Fri, 03 Sep 2004 10:42:17 +0000</lastBuildDate>
-    <atom:link href="https://www.waltercedric.com/tags/checklist/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://waltercedric.com/tags/checklist/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Matrice de connaissance du moteur</title>
-      <link>https://www.waltercedric.com/matrice-de-connaissance-du-moteur/</link>
+      <link>https://waltercedric.com/matrice-de-connaissance-du-moteur/</link>
       <pubDate>Fri, 03 Sep 2004 10:42:17 +0000</pubDate>
-      <guid>https://www.waltercedric.com/matrice-de-connaissance-du-moteur/</guid>
+      <guid>https://waltercedric.com/matrice-de-connaissance-du-moteur/</guid>
       <description>Le moteur ne tourne pas&#xA;Voltage du démarreur insuffisant. Moteur noyé. Moteur ou roulements collés. Le moteur tourne lentement, de maniÃ¨re erratique&#xA;Voltage de la Batterie Ã bougie insuffisant. Le starter de démarrage dérape Le Starter est trop peu puissant pour la cylindrée. L&amp;rsquo;huile dans le moteur est congelé ou s&amp;rsquo;est déposé sous forme de carbone solide. Moteur noyé. Le moteur tourne normalement mais ne démarre pas&#xA;La bougie ne rougit pas ou est noyée.</description>
     </item>
     <item>
       <title>Check List pour le montage</title>
-      <link>https://www.waltercedric.com/check-list-pour-le-montage/</link>
+      <link>https://waltercedric.com/check-list-pour-le-montage/</link>
       <pubDate>Fri, 03 Sep 2004 10:41:08 +0000</pubDate>
-      <guid>https://www.waltercedric.com/check-list-pour-le-montage/</guid>
+      <guid>https://waltercedric.com/check-list-pour-le-montage/</guid>
       <description>Date:______________&#xA;Réalisé par:__________&#xA;Machine:_____________&#xA;Montage :&#xA;_____ utiliser du frein filet sur toutes les vis et ecrous ou vis &amp;ldquo;parker&amp;rdquo;. (Loctite Bleu)&#xA;_____ Ne pas échanger des pas SAE la ou des pas métrique sont nécessaire.&#xA;_____ Tous les vis de bras de servo sont suffisament serrés dans l &amp;lsquo;axe de sortie des servos.&#xA;_____ Les parties du chassis en bois sont protégés contre les projections d &amp;rsquo;essences.&#xA;_____ Bras de servo fixés (vérifier en les les tordants avec la main).</description>
     </item>
     <item>
       <title>Check List après crash</title>
-      <link>https://www.waltercedric.com/check-list-apres-crash/</link>
+      <link>https://waltercedric.com/check-list-apres-crash/</link>
       <pubDate>Fri, 03 Sep 2004 10:40:32 +0000</pubDate>
-      <guid>https://www.waltercedric.com/check-list-apres-crash/</guid>
+      <guid>https://waltercedric.com/check-list-apres-crash/</guid>
       <description>Date:_____________&#xA;Nom du pilote :_________&#xA;Machine:__________&#xA;Placer une croix devant la partie que vous venez de finir de vérifier…&#xA;Sur le terrain&#xA;_____ Ne pas paniquer, devenir agressif, tout le monde s &amp;rsquo;est déjà crashé.&#xA;_____ Si possible, couper le moteur avec la radio pour éviter d &amp;lsquo;autres dégats . Couper l &amp;lsquo;arrivée d &amp;rsquo;essence dès que possible (penser à votre sécurité).&#xA;_____ Baliser la zone de crash pour rechercher les pièces plus tard.</description>
     </item>
   </channel>

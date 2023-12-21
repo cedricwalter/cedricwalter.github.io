@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tag2 on Cédric Walter blog</title>
+    <link>https://waltercedric.com/tags/tag2/</link>
+    <description>Recent content in tag2 on Cédric Walter blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Reproduction without explicit permission is prohibited. All Rights Reserved. All photos remain copyright © their rightful owners. No copyright infringement is intended.</copyright>
+    <lastBuildDate>Wed, 20 Dec 2023 16:56:54 +0100</lastBuildDate>
+    <atom:link href="https://waltercedric.com/tags/tag2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>https://waltercedric.com/posts/test/</link>
+      <pubDate>Wed, 20 Dec 2023 16:56:54 +0100</pubDate>
+      <guid>https://waltercedric.com/posts/test/</guid>
+      <description>Cut out summary from your post content here.&#xA;sssss sssss The remaining content of your post.</description>
+    </item>
+  </channel>
+</rss>

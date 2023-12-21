@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/cedricwalter
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.waltercedric.com
+  * I am cedricwalter (https://keybase.io/cedricwalter) on keybase.
+  * I have a public key ASCmyW9-Cfg8Ore2_Z7arazMcIXjwgqwhKDhPVrTIB8UVAo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120a6c96f7e09f83c3ab7b6fd9edaadaccc7085e3c20ab084a0e13d5ad3201f14540a",
+            "host": "keybase.io",
+            "kid": "0120a6c96f7e09f83c3ab7b6fd9edaadaccc7085e3c20ab084a0e13d5ad3201f14540a",
+            "uid": "2d8615275e9cd564ffbf0b9763c24319",
+            "username": "cedricwalter"
+        },
+        "service": {
+            "hostname": "www.waltercedric.com",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.20"
+    },
+    "ctime": 1490304861,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1490304786,
+        "hash": "3cf05a42f55439790805f878bc81a7f19518e8c5d6fda7ea4b210a58efb46a1bfed573fdc4696d3feeb1eca3858f377b86d1347bfa91adeab03ed8269aa72ae5",
+        "seqno": 975414
+    },
+    "prev": "502c2ce427dd560bb3b0a39503b459b4326c1c1f2b0cdfe30f834b6c43a241e2",
+    "seqno": 8,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgpslvfgn4PDq3tv2e2q2szHCF48IKsISg4T1a0yAfFFQKp3BheWxvYWTFAwB7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwYTZjOTZmN2UwOWY4M2MzYWI3YjZmZDllZGFhZGFjY2M3MDg1ZTNjMjBhYjA4NGEwZTEzZDVhZDMyMDFmMTQ1NDBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwYTZjOTZmN2UwOWY4M2MzYWI3YjZmZDllZGFhZGFjY2M3MDg1ZTNjMjBhYjA4NGEwZTEzZDVhZDMyMDFmMTQ1NDBhIiwidWlkIjoiMmQ4NjE1Mjc1ZTljZDU2NGZmYmYwYjk3NjNjMjQzMTkiLCJ1c2VybmFtZSI6ImNlZHJpY3dhbHRlciJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoid3d3LndhbHRlcmNlZHJpYy5jb20iLCJwcm90b2NvbCI6Imh0dHBzOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4yMCJ9LCJjdGltZSI6MTQ5MDMwNDg2MSwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNDkwMzA0Nzg2LCJoYXNoIjoiM2NmMDVhNDJmNTU0Mzk3OTA4MDVmODc4YmM4MWE3ZjE5NTE4ZThjNWQ2ZmRhN2VhNGIyMTBhNThlZmI0NmExYmZlZDU3M2ZkYzQ2OTZkM2ZlZWIxZWNhMzg1OGYzNzdiODZkMTM0N2JmYTkxYWRlYWIwM2VkODI2OWFhNzJhZTUiLCJzZXFubyI6OTc1NDE0fSwicHJldiI6IjUwMmMyY2U0MjdkZDU2MGJiM2IwYTM5NTAzYjQ1OWI0MzI2YzFjMWYyYjBjZGZlMzBmODM0YjZjNDNhMjQxZTIiLCJzZXFubyI6OCwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEADkh59j8PlOVGFhMEu/Hm+FsIyXaAB72GlBfqY3kFmgjBuEywBwqSmjOtUc3XwqMkbSNnNgNDErBUBCyuoUjoKqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgTPvfPheBWiemDKYqsYqdpwPT6jYIJso3jDflfDIy+9CjdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/cedricwalter
+
+==================================================================

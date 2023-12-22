@@ -12,7 +12,7 @@
 
 
 
-<meta name="author" content="Author Name" />
+<meta name="author" content="Cédric Walter" />
 <meta name="description" content="A homelab, short for home laboratory, refers to a setup where individuals or hobbyists create a small-scale computing or networking environment in their homes for various purposes. The goal is typically to gain hands-on experience, test and learn about different technologies, and build skills related to IT, networking, server administration, and more. Homelabs can vary widely in complexity and purpose, depending on the interests and goals of the individual setting them up!" />
 
 
@@ -199,9 +199,7 @@
             <span class="left">
               @
               
-                
-                  Author Name
-                
+                Cédric Walter
               
 
               | 
@@ -313,7 +311,7 @@ Apps can be installed using an app store and you wont have anything to tinker wi
 </span></span></code></pre></div><div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>INSTALL_SABNZBD<span style="color:#f92672">=</span>true
 </span></span><span style="display:flex;"><span>SABNZBD_PORT<span style="color:#f92672">=</span><span style="color:#ae81ff">8080</span>
 </span></span><span style="display:flex;"><span>SABNZBD_DOWNLOADS<span style="color:#f92672">=</span>/sabnzbd
-</span></span><span style="display:flex;"><span>READARR_INCOMPLETE_DOWNLOADS<span style="color:#f92672">=</span>//sabnzbd
+</span></span><span style="display:flex;"><span>READARR_INCOMPLETE_DOWNLOADS<span style="color:#f92672">=</span>/sabnzbd
 </span></span><span style="display:flex;"><span>
 </span></span><span style="display:flex;"><span><span style="color:#66d9ef">if</span> $INSTALL_SABNZBD; <span style="color:#66d9ef">then</span>
 </span></span><span style="display:flex;"><span>    mkdir -p $DOCKER_CONF/sabnzbd/config
@@ -725,7 +723,7 @@ quality format becomes available.
 </span></span></code></pre></div><h2 id="photoprism">Photoprism</h2>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>INSTALL_PHOTOPRISM<span style="color:#f92672">=</span>true
 </span></span><span style="display:flex;"><span>PHOTOPRISM_PWD<span style="color:#f92672">=</span>xxxxxxxxx
-</span></span><span style="display:flex;"><span>PHOTOPRISM_STORAGE<span style="color:#f92672">=</span>//Pictures
+</span></span><span style="display:flex;"><span>PHOTOPRISM_STORAGE<span style="color:#f92672">=</span>/Pictures
 </span></span><span style="display:flex;"><span>PHOTOPRISM_PORT<span style="color:#f92672">=</span><span style="color:#ae81ff">2342</span>
 </span></span><span style="display:flex;"><span>
 </span></span><span style="display:flex;"><span><span style="color:#66d9ef">if</span> $INSTALL_PHOTOPRISM; <span style="color:#66d9ef">then</span>
@@ -751,7 +749,7 @@ quality format becomes available.
 <p>Audiobookshelf is a free and open source audiobook and podcast manager.</p>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>INSTALL_AUDIOBOOKSHELF<span style="color:#f92672">=</span>true
 </span></span><span style="display:flex;"><span>AUDIOBOOKSHELF_PORT<span style="color:#f92672">=</span><span style="color:#ae81ff">13378</span>
-</span></span><span style="display:flex;"><span>AUDIOBOOKSHELF_MEDIA<span style="color:#f92672">=</span>/media/pi/n2-4/audiobookshelf/
+</span></span><span style="display:flex;"><span>AUDIOBOOKSHELF_MEDIA<span style="color:#f92672">=</span>/audiobookshelf/
 </span></span><span style="display:flex;"><span>
 </span></span><span style="display:flex;"><span><span style="color:#66d9ef">if</span> $INSTALL_AUDIOBOOKSHELF; <span style="color:#66d9ef">then</span>
 </span></span><span style="display:flex;"><span>    docker pull ghcr.io/advplyr/audiobookshelf
@@ -785,7 +783,7 @@ quality format becomes available.
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span><span style="color:#75715e"># Default login initial is admin/admin123</span>
 </span></span><span style="display:flex;"><span>INSTALL_CALIBRE_WEB<span style="color:#f92672">=</span>true
 </span></span><span style="display:flex;"><span>CALIBRE_WEB_PORT<span style="color:#f92672">=</span><span style="color:#ae81ff">8083</span>
-</span></span><span style="display:flex;"><span>CALIBRE_WEB_FOLDER<span style="color:#f92672">=</span>/media/pi/n2-4/calibreweb
+</span></span><span style="display:flex;"><span>CALIBRE_WEB_FOLDER<span style="color:#f92672">=</span>/calibreweb
 </span></span><span style="display:flex;"><span>
 </span></span><span style="display:flex;"><span><span style="color:#66d9ef">if</span> $INSTALL_CALIBRE_WEB; <span style="color:#66d9ef">then</span>
 </span></span><span style="display:flex;"><span>    mkdir -p $DOCKER_CONF/calibreweb
@@ -810,7 +808,7 @@ quality format becomes available.
 </span></span><span style="display:flex;"><span>   echo <span style="color:#e6db74">&#34;INSTALL_CALIBRE_WEB is false.&#34;</span>
 </span></span><span style="display:flex;"><span><span style="color:#66d9ef">fi</span>
 </span></span></code></pre></div><h2 id="jellyfin-1">Jellyfin</h2>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span> mkdir -p $DOCKER_CONF/jellyfin/config
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>    mkdir -p $DOCKER_CONF/jellyfin/config
 </span></span><span style="display:flex;"><span>    mkdir -p $DOCKER_CONF/jellyfin/cache
 </span></span><span style="display:flex;"><span>
 </span></span><span style="display:flex;"><span>    docker run -d  <span style="color:#ae81ff">\
@@ -885,6 +883,8 @@ quality format becomes available.
     
     
     
+    
+      
     
       
     
@@ -2201,6 +2201,12 @@ quality format becomes available.
           
             <a class="ui label" href="/tags/plex/" title="plex">
               plex
+            </a>
+          
+          
+          
+            <a class="ui label" href="/tags/privacy/" title="privacy">
+              privacy
             </a>
           
           

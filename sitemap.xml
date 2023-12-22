@@ -2,16 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://waltercedric.com/switzerland/alternate-way-to-watch-init7-tv7-swiss-live-streaming-broadcast-television/</loc>
-    <lastmod>2023-12-03T21:01:05+00:00</lastmod>
-  </url><url>
     <loc>https://waltercedric.com/categories/</loc>
-    <lastmod>2023-12-03T21:01:05+00:00</lastmod>
+    <lastmod>2023-12-22T12:55:31+01:00</lastmod>
   </url><url>
     <loc>https://waltercedric.com/</loc>
-    <lastmod>2023-12-03T21:01:05+00:00</lastmod>
+    <lastmod>2023-12-22T12:55:31+01:00</lastmod>
+  </url><url>
+    <loc>https://waltercedric.com/tags/docker/</loc>
+    <lastmod>2023-12-22T12:55:31+01:00</lastmod>
+  </url><url>
+    <loc>https://waltercedric.com/tags/homelab/</loc>
+    <lastmod>2023-12-22T12:55:31+01:00</lastmod>
+  </url><url>
+    <loc>https://waltercedric.com/categories/homelab/</loc>
+    <lastmod>2023-12-22T12:55:31+01:00</lastmod>
+  </url><url>
+    <loc>https://waltercedric.com/posts/homelab/homelab-tools/</loc>
+    <lastmod>2023-12-22T12:55:31+01:00</lastmod>
   </url><url>
     <loc>https://waltercedric.com/tags/howto/</loc>
+    <lastmod>2023-12-22T12:55:31+01:00</lastmod>
+  </url><url>
+    <loc>https://waltercedric.com/posts/</loc>
+    <lastmod>2023-12-22T12:55:31+01:00</lastmod>
+  </url><url>
+    <loc>https://waltercedric.com/tags/</loc>
+    <lastmod>2023-12-22T12:55:31+01:00</lastmod>
+  </url><url>
+    <loc>https://waltercedric.com/switzerland/alternate-way-to-watch-init7-tv7-swiss-live-streaming-broadcast-television/</loc>
     <lastmod>2023-12-03T21:01:05+00:00</lastmod>
   </url><url>
     <loc>https://waltercedric.com/tags/init7/</loc>
@@ -29,16 +47,10 @@
     <loc>https://waltercedric.com/tags/mediaserver/</loc>
     <lastmod>2023-12-03T21:01:05+00:00</lastmod>
   </url><url>
-    <loc>https://waltercedric.com/posts/</loc>
-    <lastmod>2023-12-03T21:01:05+00:00</lastmod>
-  </url><url>
     <loc>https://waltercedric.com/tags/switzerland/</loc>
     <lastmod>2023-12-03T21:01:05+00:00</lastmod>
   </url><url>
     <loc>https://waltercedric.com/categories/switzerland/</loc>
-    <lastmod>2023-12-03T21:01:05+00:00</lastmod>
-  </url><url>
-    <loc>https://waltercedric.com/tags/</loc>
     <lastmod>2023-12-03T21:01:05+00:00</lastmod>
   </url><url>
     <loc>https://waltercedric.com/tags/tv7/</loc>
@@ -230,9 +242,6 @@
     <loc>https://waltercedric.com/tags/decentralized/</loc>
     <lastmod>2023-08-28T08:07:25+00:00</lastmod>
   </url><url>
-    <loc>https://waltercedric.com/tags/homelab/</loc>
-    <lastmod>2023-08-28T08:07:25+00:00</lastmod>
-  </url><url>
     <loc>https://waltercedric.com/categories/mediacenter/</loc>
     <lastmod>2023-08-28T08:07:25+00:00</lastmod>
   </url><url>
@@ -272,16 +281,10 @@
     <loc>https://waltercedric.com/buy-me-a-coffee/</loc>
     <lastmod>2023-08-25T13:30:17+00:00</lastmod>
   </url><url>
-    <loc>https://waltercedric.com/tags/cleaning/</loc>
-    <lastmod>2023-08-25T13:30:17+00:00</lastmod>
-  </url><url>
     <loc>https://waltercedric.com/i-cleaned-my-blog-removed-3200-posts/</loc>
     <lastmod>2023-08-25T13:30:17+00:00</lastmod>
   </url><url>
     <loc>https://waltercedric.com/tags/support/</loc>
-    <lastmod>2023-08-25T13:30:17+00:00</lastmod>
-  </url><url>
-    <loc>https://waltercedric.com/tags/tidy/</loc>
     <lastmod>2023-08-25T13:30:17+00:00</lastmod>
   </url><url>
     <loc>https://waltercedric.com/tags/armattan/</loc>
@@ -514,9 +517,6 @@
   </url><url>
     <loc>https://waltercedric.com/games/neo-geo-arcade-stick-pro-hacking/</loc>
     <lastmod>2020-04-20T10:45:28+00:00</lastmod>
-  </url><url>
-    <loc>https://waltercedric.com/enable-1200-mw-mode-on-dji-fpv-system/</loc>
-    <lastmod>2020-04-15T09:01:19+00:00</lastmod>
   </url><url>
     <loc>https://waltercedric.com/enable-fcc-mode-on-dji-fpv-system-700mw-8-channels/</loc>
     <lastmod>2020-04-15T08:52:40+00:00</lastmod>

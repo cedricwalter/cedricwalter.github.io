@@ -7,8 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Reproduction without explicit permission is prohibited. All Rights Reserved. All photos remain copyright © their rightful owners. No copyright infringement is intended.</copyright>
-    <lastBuildDate>Sun, 03 Dec 2023 21:01:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 Dec 2023 12:55:31 +0100</lastBuildDate>
     <atom:link href="https://waltercedric.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Homelab - dont rely on services where YOU are the product</title>
+      <link>https://waltercedric.com/posts/homelab/homelab-tools/</link>
+      <pubDate>Fri, 22 Dec 2023 12:55:31 +0100</pubDate>
+      <guid>https://waltercedric.com/posts/homelab/homelab-tools/</guid>
+      <description>A homelab, short for home laboratory, refers to a setup where individuals or hobbyists create a small-scale computing or networking environment in their homes for various purposes. The goal is typically to gain hands-on experience, test and learn about different technologies, and build skills related to IT, networking, server administration, and more. Homelabs can vary widely in complexity and purpose, depending on the interests and goals of the individual setting them up!</description>
+    </item>
     <item>
       <title>Alternate way to watch Init7 TV7 – Swiss Live Streaming Broadcast Television</title>
       <link>https://waltercedric.com/switzerland/alternate-way-to-watch-init7-tv7-swiss-live-streaming-broadcast-television/</link>
@@ -217,7 +224,7 @@
       <link>https://waltercedric.com/iflight-nazgul-evoque-f5d-v2-is-not-a-good-fpv-frame/</link>
       <pubDate>Sun, 13 Aug 2023 12:50:01 +0000</pubDate>
       <guid>https://waltercedric.com/iflight-nazgul-evoque-f5d-v2-is-not-a-good-fpv-frame/</guid>
-      <description>**All these holes and hollows in the carbon are made for making the frame lighter but these area are prone to break during a crash.** The frame is less rigid, and don’t cool down any better the electronic. It’s just pleasing to the eye nothing else. I suspect the carbon also to be of a lesser quality. First FPV frame I broke in 5 years…luckily the DJI O3 camera is fine.</description>
+      <description>All these holes and hollows in the carbon are made for making the frame lighter but these area are prone to break during a crash. The frame is less rigid, and don’t cool down any better the electronic. It’s just pleasing to the eye nothing else. I suspect the carbon also to be of a lesser quality. First FPV frame I broke in 5 years… luckily the DJI O3 camera is fine.</description>
     </item>
     <item>
       <title>Nazgul Evoque F5 V2 O3 GPS Bind &amp; Fly ELRS using Radiomaster ZORRO 4 in 1 with Radiomaster Ranger Nano TX in 10 minutes</title>
@@ -238,7 +245,7 @@
       <link>https://waltercedric.com/posts/space/2022-11-03-message-in-bottle-jupiter-orbit/</link>
       <pubDate>Thu, 03 Nov 2022 21:01:05 +0000</pubDate>
       <guid>https://waltercedric.com/posts/space/2022-11-03-message-in-bottle-jupiter-orbit/</guid>
-      <description>My name will be on board NASA’s Europa Clipper spacecraft as it travels 1.8 billion miles to explore Jupiter’s icy moon!&#xA;Proof link&#xA;Proof link</description>
+      <description>My name will be on board NASA’s Europa Clipper spacecraft as it travels 1.8 billion miles to explore Jupiter’s icy moon!&#xA;Cédric René Claude Walter message in a bottle Jupiter&#xA;Proof link&#xA;Cédric Walter ♥ Alice Hlidkova message in a bottle Jupiter&#xA;Proof link</description>
     </item>
     <item>
       <title>Swifi won Trust Square biggest blockchain Hackathon #SBHACK21</title>
@@ -297,18 +304,11 @@
       <description></description>
     </item>
     <item>
-      <title>Enable 1200 mw Mode on DJI FPV System</title>
-      <link>https://waltercedric.com/enable-1200-mw-mode-on-dji-fpv-system/</link>
-      <pubDate>Wed, 15 Apr 2020 09:01:19 +0000</pubDate>
-      <guid>https://waltercedric.com/enable-1200-mw-mode-on-dji-fpv-system/</guid>
-      <description>NOTES&#xA;You should follow your local regulations regarding which mode to use.&#xA;Long term hardware effects are unknown&#xA;You get more or less 30% more range&#xA;Your system must be already in FCC mode&#xA;Enable Power Limit as it add some protections against overheating.&#xA;Create a .txt file, name it naco_pwr.txt&#xA;Type pwr_2 or pwr_1&#xA;pwr_1 = 1000 mW pwr_2 = 1200 mW &amp;amp; 1000 mW Save and close&#xA;Copy naco_pwr.</description>
-    </item>
-    <item>
-      <title>Enable FCC Mode on DJI FPV System (700mw 8 Channels)</title>
+      <title>DJI FPV System Hacks (1200mw 700mw 8 Channels)</title>
       <link>https://waltercedric.com/enable-fcc-mode-on-dji-fpv-system-700mw-8-channels/</link>
       <pubDate>Wed, 15 Apr 2020 08:52:40 +0000</pubDate>
       <guid>https://waltercedric.com/enable-fcc-mode-on-dji-fpv-system-700mw-8-channels/</guid>
-      <description>In CE mode, the maximum output is limited to 25 mW, and there are only 4 channels available, while in FCC mode those numbers are increased to 700 mW and 8 channels. NOTE that you should follow your local regulations regarding which mode to use.&#xA;How to switch to FCC mode from CE mode Take the micro SD Card out of the Air Unit Create a text file on the root directory, name it naco.</description>
+      <description>Enable 1200 mw Mode on DJI FPV System NOTES&#xA;You should follow your local regulations regarding which mode to use.&#xA;Long term hardware effects are unknown&#xA;You get more or less 30% more range&#xA;Your system must be already in FCC mode&#xA;Enable Power Limit as it add some protections against overheating.&#xA;Create a .txt file, name it naco_pwr.txt&#xA;Type pwr_2 or pwr_1&#xA;pwr_1 = 1000 mW pwr_2 = 1200 mW &amp;amp; 1000 mW Save and close</description>
     </item>
     <item>
       <title>Grimsel Pass</title>

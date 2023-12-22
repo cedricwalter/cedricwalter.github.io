@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>docker on Cédric Walter blog</title>
+    <link>https://waltercedric.com/tags/docker/</link>
+    <description>Recent content in docker on Cédric Walter blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Reproduction without explicit permission is prohibited. All Rights Reserved. All photos remain copyright © their rightful owners. No copyright infringement is intended.</copyright>
+    <lastBuildDate>Fri, 22 Dec 2023 12:55:31 +0100</lastBuildDate>
+    <atom:link href="https://waltercedric.com/tags/docker/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Homelab - dont rely on services where YOU are the product</title>
+      <link>https://waltercedric.com/posts/homelab/homelab-tools/</link>
+      <pubDate>Fri, 22 Dec 2023 12:55:31 +0100</pubDate>
+      <guid>https://waltercedric.com/posts/homelab/homelab-tools/</guid>
+      <description>A homelab, short for home laboratory, refers to a setup where individuals or hobbyists create a small-scale computing or networking environment in their homes for various purposes. The goal is typically to gain hands-on experience, test and learn about different technologies, and build skills related to IT, networking, server administration, and more. Homelabs can vary widely in complexity and purpose, depending on the interests and goals of the individual setting them up!</description>
+    </item>
+  </channel>
+</rss>

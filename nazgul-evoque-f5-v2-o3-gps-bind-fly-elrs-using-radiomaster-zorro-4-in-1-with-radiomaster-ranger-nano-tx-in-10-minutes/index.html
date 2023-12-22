@@ -155,7 +155,7 @@ Don’t use them on the Nazgul without the FCC hack, I crash once 30m away becau
     <li><a href="#express-lrs">Express LRS</a>
       <ul>
         <li><a href="#flash-the-transmitter-tx-with-latest-elrs-firmware"><strong>FLASH the transmitter TX with latest ELRS firmware</strong></a></li>
-        <li><a href="#flash-the-receiver-rx-with-latest-elrs-firmware"><strong>Flash the receiver RX with latest ELRS firmware</strong></a></li>
+        <li><a href="#flash-the-receiver-rx-with-latest-elrs-firmware">Flash the receiver RX with latest ELRS firmware</a></li>
       </ul>
     </li>
     <li><a href="#radiomaster-zorro">Radiomaster ZORRO</a>
@@ -270,8 +270,10 @@ Don’t use them on the Nazgul without the FCC hack, I crash once 30m away becau
 <h2 id="express-lrs">Express LRS</h2>
 <h3 id="flash-the-transmitter-tx-with-latest-elrs-firmware"><strong>FLASH the transmitter TX with latest ELRS firmware</strong></h3>
 <p><img src="/2023/08/Ranger-Nano-2.4GHZ-ELRS-Module-144x300.png" alt=""></p>
-<p>Featuring up to 1W output, F-1000Hz refresh rates and a high-efficiency cooling system, the Ranger Micro 2.4GHz ELRS Module represents the cutting edge in ELRS technology. Attach the module to a compatible radio (RadioMaster <a href="https://www.radiomasterrc.com/products/zorro-radio-controller">Zorro</a> and more) to enjoy all that ELRS has to offer. The included T-shape antenna is designed for maximum signal coverage. An optional MOXON antenna is available for directional applications.<br>
-*Note: The Ranger Nano 2.4GHz ELRS Module fits Nano module bays, for JR style/Micro connectors, please consider the <a href="https://www.radiomasterrc.com/products/ranger-2-4ghz-elrs-module">Ranger</a> and the <a href="https://www.radiomasterrc.com/products/ranger-micro-2-4ghz-elrs-module">Ranger Micro modules</a>.</p>
+<p>Featuring up to 1W output, F-1000Hz refresh rates and a high-efficiency cooling system, the Ranger Micro 2.4GHz ELRS Module represents the cutting edge in ELRS technology. Attach the module to a compatible radio (RadioMaster <a href="https://www.radiomasterrc.com/products/zorro-radio-controller">Zorro</a> and more) to enjoy all that ELRS has to offer. The included T-shape antenna is designed for maximum signal coverage. An optional MOXON antenna is available for directional applications.</p>
+<ul>
+<li>Note: The Ranger Nano 2.4GHz ELRS Module fits Nano module bays, for JR style/Micro connectors, please consider the <a href="https://www.radiomasterrc.com/products/ranger-2-4ghz-elrs-module">Ranger</a> and the <a href="https://www.radiomasterrc.com/products/ranger-micro-2-4ghz-elrs-module">Ranger Micro modules</a>.</li>
+</ul>
 <p>Launch Express LRS Configurator, select latest release, for me the 3.3.0, and the target “”Radiomaster 2.4GHz” and the device ”Radiomaster Ranger 2.4GHz TX”</p>
 <p><img src="/2023/08/Express-LRS-Configurator-Radiomaster-2.4GHz-TX-step1-1024x642.png" alt=""></p>
 <p>Connect the computer to the ”Radiomaster Ranger 2.4GHz TX” with a USB-C cable</p>
@@ -287,7 +289,7 @@ Don’t use them on the Nazgul without the FCC hack, I crash once 30m away becau
 </ul>
 <p><img src="/2023/08/Express-LRS-Configurator-Radiomaster-2.4GHz-TX-step2-1024x580.png" alt=""></p>
 <p>Click “Flash” it will build an upload the latest firmware on your <strong>Radiomaster Ranger nano TX, it take 1-2 min to complete and reboot</strong></p>
-<h3 id="flash-the-receiver-rx-with-latest-elrs-firmware"><strong>Flash the receiver RX with latest ELRS firmware</strong></h3>
+<h3 id="flash-the-receiver-rx-with-latest-elrs-firmware">Flash the receiver RX with latest ELRS firmware</h3>
 <p>There is 4 methods to update your receiver</p>
 <ul>
 <li>Inject the <a href="https://www.expresslrs.org/software/updating/betaflight-passthrough/">ELRS RX firmware as Betaflight Passthrough</a></li>
@@ -349,11 +351,16 @@ Don’t use them on the Nazgul without the FCC hack, I crash once 30m away becau
 </ul>
 <p><img src="/2023/08/radiomaster-zorro-tx-layout-1024x592.png" alt=""></p>
 <h3 id="gps-rescue-mode">GPS rescue mode</h3>
-<p><strong>GPS Rescue is OFF by default to prevent from unwanted or unexpected drone behavior. Please carefully study the Betaflight Wiki on [https://github.com/betaflight/betaflight/ wiki/GPS-rescue-mode](<a href="https://github.com/betaflight/betaflight/">https://github.com/betaflight/betaflight/</a> wiki/GPS-rescue-mode) and setup an AUX switch for first tests in line of sight and safe environment!</strong></p>
-<p><strong>Enable Expert Mode in the Betaflight Configurator to access the Failsafe tab and configure the GPS Rescue feature. Default setup needs at least 5 satellites before you’re able to arm, unless you adapt the settings. At this point in time, DJI digital FPV can’t display OSD messages (for example if GSP Rescue is not available). Analog FPV does!</strong></p>
-<p><strong>Quote BF: “GPS Rescue Mode is intended to bring your quad back autonomously in case of an emergency such as loss of video or radio link. The only purpose of GPS Rescue is to bring the quad back into range so you can retake control as soon as possible. GPS Rescue IS NOT a full “Return To Home* (RTH) function.*</strong></p>
-<p><strong>Fly in a straight line for at least 100 meters past your descent distance, make sure the home arrow is pointing at your direction to confirm correct GPS functionality. Manually activate GPS rescue mode and study it’s behaviour.</strong></p>
-<p><strong>GPS performance (search speed and the amount of satellites found) greatly depends on the environment you’re in. Bad weather and obstructed areas will give you fewer satellites and a fewer accuracy that might not work reliably before take-off or even in-flight. Always make sure not to bring yourself or others in danger!</strong></p>
+<p>**GPS Rescue is OFF by default to prevent from unwanted or unexpected drone behavior.</p>
+<p>Please carefully study the Betaflight Wiki on [https://github.com/betaflight/betaflight/ wiki/GPS-rescue-mode](<a href="https://github.com/betaflight/betaflight/">https://github.com/betaflight/betaflight/</a> wiki/GPS-rescue-mode) and setup an AUX switch for first tests in line of sight and safe environment!**</p>
+<p><strong>Enable Expert Mode in the Betaflight Configurator
+to access the Failsafe tab and configure the GPS Rescue feature. Default setup needs at least 5 satellites before you’re able to arm, unless you adapt the settings. At this point in time, DJI digital FPV can’t display OSD messages (for example if GSP Rescue is not available). Analog FPV does!</strong></p>
+<p><strong>Quote BF:
+“GPS Rescue Mode is intended to bring your quad back autonomously in case of an emergency such as loss of video or radio link. The only purpose of GPS Rescue is to bring the quad back into range so you can retake control as soon as possible. GPS Rescue IS NOT a full “Return To Home* (RTH) function.*</strong></p>
+<p><strong>Fly in a straight line
+for at least 100 meters past your descent distance, make sure the home arrow is pointing at your direction to confirm correct GPS functionality. Manually activate GPS rescue mode and study it’s behaviour.</strong></p>
+<p><strong>GPS performance
+(search speed and the amount of satellites found) greatly depends on the environment you’re in. Bad weather and obstructed areas will give you fewer satellites and a fewer accuracy that might not work reliably before take-off or even in-flight. Always make sure not to bring yourself or others in danger!</strong></p>
 <h3 id="recommended-failsafe-gps-setup">Recommended failsafe GPS setup</h3>
 <ul>
 <li>40 Angle</li>
@@ -424,8 +431,6 @@ Don’t use them on the Nazgul without the FCC hack, I crash once 30m away becau
     
     
     
-    
-      
     
       
     
@@ -1056,12 +1061,6 @@ Don’t use them on the Nazgul without the FCC hack, I crash once 30m away becau
           
           
           
-            <a class="ui label" href="/tags/cleaning/" title="cleaning">
-              cleaning
-            </a>
-          
-          
-          
             <a class="ui label" href="/tags/climb/" title="climb">
               climb
             </a>
@@ -1214,6 +1213,12 @@ Don’t use them on the Nazgul without the FCC hack, I crash once 30m away becau
           
             <a class="ui label" href="/tags/dji/" title="dji">
               dji
+            </a>
+          
+          
+          
+            <a class="ui label" href="/tags/docker/" title="docker">
+              docker
             </a>
           
           
@@ -1962,12 +1967,6 @@ Don’t use them on the Nazgul without the FCC hack, I crash once 30m away becau
           
           
           
-            <a class="ui label" href="/tags/tidy/" title="tidy">
-              tidy
-            </a>
-          
-          
-          
             <a class="ui label" href="/tags/trails/" title="trails">
               trails
             </a>
@@ -2174,8 +2173,7 @@ Don’t use them on the Nazgul without the FCC hack, I crash once 30m away becau
     <article class="ui segment markdown-body">
       <div class="ui medium header">Space</div>
       <ul>
-<li><a href="/space/cedric-message-in-a-bottle-jupiter-orbit.png">Cédric message in a bottle Jupiter</a></li>
-<li><a href="/space/Ce%CC%81dric-Walter-Alice-Hlidkova_Penguin-Dragon.png">Cédric Walter ♥ Alice Hlidkova message in a bottle Jupiter</a></li>
+<li><a href="/posts/space/2022-11-03-message-in-bottle-jupiter-orbit/">Cédric message in a bottle Jupiter</a></li>
 <li><a href="/space/sun/index.html">Touching the Sun!</a></li>
 <li><a href="/space/mars-insight/index.html">On Planet Mars with InSight!</a></li>
 <li><a href="/space/mars/index.html">On Planet Mars!</a></li>

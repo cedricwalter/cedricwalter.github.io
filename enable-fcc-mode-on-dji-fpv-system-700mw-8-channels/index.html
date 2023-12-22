@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-    <title>Enable FCC Mode on DJI FPV System (700mw 8 Channels) | Cédric Walter blog</title>
+    <title>DJI FPV System Hacks (1200mw 700mw 8 Channels) | Cédric Walter blog</title>
 
     
 <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon" />
@@ -22,9 +22,16 @@
 <link rel="canonical" href="https://waltercedric.com/enable-fcc-mode-on-dji-fpv-system-700mw-8-channels/" />
 
 
-<meta property="og:title" content="Enable FCC Mode on DJI FPV System (700mw 8 Channels)" />
-<meta property="og:description" content="In CE mode, the maximum output is limited to 25 mW, and there are only 4 channels available, while in FCC mode those numbers are increased to 700 mW and 8 channels. NOTE that you should follow your local regulations regarding which mode to use.
-How to switch to FCC mode from CE mode Take the micro SD Card out of the Air Unit Create a text file on the root directory, name it naco." />
+<meta property="og:title" content="DJI FPV System Hacks (1200mw 700mw 8 Channels)" />
+<meta property="og:description" content="Enable 1200 mw Mode on DJI FPV System NOTES
+You should follow your local regulations regarding which mode to use.
+Long term hardware effects are unknown
+You get more or less 30% more range
+Your system must be already in FCC mode
+Enable Power Limit as it add some protections against overheating.
+Create a .txt file, name it naco_pwr.txt
+Type pwr_2 or pwr_1
+pwr_1 = 1000 mW pwr_2 = 1200 mW &amp; 1000 mW Save and close" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://waltercedric.com/enable-fcc-mode-on-dji-fpv-system-700mw-8-channels/" /><meta property="article:section" content="posts" />
 <meta property="article:published_time" content="2020-04-15T08:52:40+00:00" />
@@ -33,9 +40,16 @@ How to switch to FCC mode from CE mode Take the micro SD Card out of the Air Uni
 
 
 
-<meta name="twitter:card" content="summary"/><meta name="twitter:title" content="Enable FCC Mode on DJI FPV System (700mw 8 Channels)"/>
-<meta name="twitter:description" content="In CE mode, the maximum output is limited to 25 mW, and there are only 4 channels available, while in FCC mode those numbers are increased to 700 mW and 8 channels. NOTE that you should follow your local regulations regarding which mode to use.
-How to switch to FCC mode from CE mode Take the micro SD Card out of the Air Unit Create a text file on the root directory, name it naco."/>
+<meta name="twitter:card" content="summary"/><meta name="twitter:title" content="DJI FPV System Hacks (1200mw 700mw 8 Channels)"/>
+<meta name="twitter:description" content="Enable 1200 mw Mode on DJI FPV System NOTES
+You should follow your local regulations regarding which mode to use.
+Long term hardware effects are unknown
+You get more or less 30% more range
+Your system must be already in FCC mode
+Enable Power Limit as it add some protections against overheating.
+Create a .txt file, name it naco_pwr.txt
+Type pwr_2 or pwr_1
+pwr_1 = 1000 mW pwr_2 = 1200 mW &amp; 1000 mW Save and close"/>
 
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/semantic-ui@2.4.2/dist/semantic.min.css" integrity="sha256-UXesixbeLkB/UYxVTzuj/gg3+LMzgwAmg3zD+C4ZASQ=" crossorigin="anonymous">
@@ -143,6 +157,8 @@ How to switch to FCC mode from CE mode Take the micro SD Card out of the Air Uni
     <div class="ui segment toc">
       <nav id="TableOfContents">
   <ul>
+    <li><a href="#enable-1200-mw-mode-on-dji-fpv-system">Enable 1200 mw Mode on DJI FPV System</a></li>
+    <li><a href="#enable-fcc-mode-on-dji-fpv-system-700mw-8-channels">Enable FCC Mode on DJI FPV System (700mw 8 Channels)</a></li>
     <li><a href="#how-to-switch-to-fcc-mode-from-ce-mode">How to switch to FCC mode from CE mode</a></li>
   </ul>
 </nav>
@@ -157,7 +173,7 @@ How to switch to FCC mode from CE mode Take the micro SD Card out of the Air Uni
     onclick="savePostAsImg()">
     <i class="save icon"></i>
   </button>
-  <a href="https://twitter.com/intent/tweet?text=Enable%20FCC%20Mode%20on%20DJI%20FPV%20System%20%28700mw%208%20Channels%29&url=https%3a%2f%2fwaltercedric.com%2fenable-fcc-mode-on-dji-fpv-system-700mw-8-channels%2f" class="ui circular twitter icon button">
+  <a href="https://twitter.com/intent/tweet?text=DJI%20FPV%20System%20Hacks%20%281200mw%20700mw%208%20Channels%29&url=https%3a%2f%2fwaltercedric.com%2fenable-fcc-mode-on-dji-fpv-system-700mw-8-channels%2f" class="ui circular twitter icon button">
     <i class="twitter icon"></i>
   </a>
   <a href="https://facebook.com/sharer/sharer.php?u=https%3a%2f%2fwaltercedric.com%2fenable-fcc-mode-on-dji-fpv-system-700mw-8-channels%2f" class="ui circular facebook icon button">
@@ -171,7 +187,7 @@ How to switch to FCC mode from CE mode Take the micro SD Card out of the Air Uni
   <div class="sixteen wide mobile sixteen wide tablet ten wide computer column markdown-body dream-single" id="dream-save-post-as-img">
     <section class="ui segment">
       <header>
-        <h1 class="ui large header">Enable FCC Mode on DJI FPV System (700mw 8 Channels)<span class="sub header">
+        <h1 class="ui large header">DJI FPV System Hacks (1200mw 700mw 8 Channels)<span class="sub header">
             <span class="left">
               @
               
@@ -184,7 +200,7 @@ How to switch to FCC mode from CE mode Take the micro SD Card out of the Air Uni
                   
                 
 
-              | 1 minute read
+              | 2 minutes read
 
               
               | Update at
@@ -204,8 +220,51 @@ How to switch to FCC mode from CE mode Take the micro SD Card out of the Air Uni
       <article class="main">
         
 
-        <p>In CE mode, the maximum output is limited to 25 mW, and there are only 4 channels available, while in FCC mode those numbers are increased to 700 mW and 8 channels. </p>
-<p><!-- raw HTML omitted --><!-- raw HTML omitted -->NOTE <!-- raw HTML omitted -->that you should follow your local regulations regarding which mode to use.</p>
+        <h2 id="enable-1200-mw-mode-on-dji-fpv-system">Enable 1200 mw Mode on DJI FPV System</h2>
+<p><strong>NOTES</strong></p>
+<ul>
+<li>
+<p>You should follow your local regulations regarding which mode to use.</p>
+</li>
+<li>
+<p>Long term hardware effects are unknown</p>
+</li>
+<li>
+<p>You get more or less 30% more range</p>
+</li>
+<li>
+<p>Your system <!-- raw HTML omitted -->must be already in FCC mode<!-- raw HTML omitted --></p>
+</li>
+<li>
+<p>Enable Power Limit as it add some protections against overheating.</p>
+</li>
+<li>
+<p>Create a .txt file, name it <code>naco_pwr.txt</code></p>
+</li>
+<li>
+<p>Type <code>pwr_2</code> or <strong>pwr_1</strong></p>
+<ul>
+<li>pwr_1 = 1000 mW</li>
+<li>pwr_2 = 1200 mW &amp; 1000 mW</li>
+</ul>
+</li>
+<li>
+<p>Save and close</p>
+</li>
+<li>
+<p>Copy <code>naco_pwr.txt</code> to an SD card</p>
+</li>
+<li>
+<p>Put SD card in DJI goggles</p>
+</li>
+<li>
+<p>Power on Goggles and Air Unit</p>
+</li>
+</ul>
+<p>Now in the Goggles menu, under Settings -&gt; Device, you should be able to select 1200 mW or 1000 mW</p>
+<h2 id="enable-fcc-mode-on-dji-fpv-system-700mw-8-channels">Enable FCC Mode on DJI FPV System (700mw 8 Channels)</h2>
+<p>In CE mode, the maximum output is limited to 25 mW, and there are only 4 channels available, while in FCC mode those numbers are increased to 700 mW and 8 channels.</p>
+<p>NOTE that you should follow your local regulations regarding which mode to use.</p>
 <h2 id="how-to-switch-to-fcc-mode-from-ce-mode">How to switch to FCC mode from CE mode</h2>
 <ul>
 <li>Take the micro SD Card out of the Air Unit</li>
@@ -226,7 +285,7 @@ How to switch to FCC mode from CE mode Take the micro SD Card out of the Air Uni
 <li>Power up goggles, and then Air Unit</li>
 </ul>
 <p> in the Player menu you should see now 8 channels.</p>
-<p><!-- raw HTML omitted --><!-- raw HTML omitted -->Attention <!-- raw HTML omitted -->updating the firmware on your DJI FPV goggles and Air Unit will always reset the power setting back to the default settings according to your region!</p>
+<p>Attention updating the firmware on your DJI FPV goggles and Air Unit will always reset the power setting back to the default settings according to your region!</p>
 
       </article>
     </section>
@@ -281,8 +340,6 @@ How to switch to FCC mode from CE mode Take the micro SD Card out of the Air Uni
     
     
     
-    
-      
     
       
     
@@ -913,12 +970,6 @@ How to switch to FCC mode from CE mode Take the micro SD Card out of the Air Uni
           
           
           
-            <a class="ui label" href="/tags/cleaning/" title="cleaning">
-              cleaning
-            </a>
-          
-          
-          
             <a class="ui label" href="/tags/climb/" title="climb">
               climb
             </a>
@@ -1071,6 +1122,12 @@ How to switch to FCC mode from CE mode Take the micro SD Card out of the Air Uni
           
             <a class="ui label" href="/tags/dji/" title="dji">
               dji
+            </a>
+          
+          
+          
+            <a class="ui label" href="/tags/docker/" title="docker">
+              docker
             </a>
           
           
@@ -1819,12 +1876,6 @@ How to switch to FCC mode from CE mode Take the micro SD Card out of the Air Uni
           
           
           
-            <a class="ui label" href="/tags/tidy/" title="tidy">
-              tidy
-            </a>
-          
-          
-          
             <a class="ui label" href="/tags/trails/" title="trails">
               trails
             </a>
@@ -2031,8 +2082,7 @@ How to switch to FCC mode from CE mode Take the micro SD Card out of the Air Uni
     <article class="ui segment markdown-body">
       <div class="ui medium header">Space</div>
       <ul>
-<li><a href="/space/cedric-message-in-a-bottle-jupiter-orbit.png">Cédric message in a bottle Jupiter</a></li>
-<li><a href="/space/Ce%CC%81dric-Walter-Alice-Hlidkova_Penguin-Dragon.png">Cédric Walter ♥ Alice Hlidkova message in a bottle Jupiter</a></li>
+<li><a href="/posts/space/2022-11-03-message-in-bottle-jupiter-orbit/">Cédric message in a bottle Jupiter</a></li>
 <li><a href="/space/sun/index.html">Touching the Sun!</a></li>
 <li><a href="/space/mars-insight/index.html">On Planet Mars with InSight!</a></li>
 <li><a href="/space/mars/index.html">On Planet Mars!</a></li>

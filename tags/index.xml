@@ -7,12 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Reproduction without explicit permission is prohibited. All Rights Reserved. All photos remain copyright © their rightful owners. No copyright infringement is intended.</copyright>
-    <lastBuildDate>Sun, 03 Dec 2023 21:01:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 Dec 2023 12:55:31 +0100</lastBuildDate>
     <atom:link href="https://waltercedric.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>docker</title>
+      <link>https://waltercedric.com/tags/docker/</link>
+      <pubDate>Fri, 22 Dec 2023 12:55:31 +0100</pubDate>
+      <guid>https://waltercedric.com/tags/docker/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>homelab</title>
+      <link>https://waltercedric.com/tags/homelab/</link>
+      <pubDate>Fri, 22 Dec 2023 12:55:31 +0100</pubDate>
+      <guid>https://waltercedric.com/tags/homelab/</guid>
+      <description></description>
+    </item>
     <item>
       <title>HowTo</title>
       <link>https://waltercedric.com/tags/howto/</link>
-      <pubDate>Sun, 03 Dec 2023 21:01:05 +0000</pubDate>
+      <pubDate>Fri, 22 Dec 2023 12:55:31 +0100</pubDate>
       <guid>https://waltercedric.com/tags/howto/</guid>
       <description></description>
     </item>
@@ -353,13 +367,6 @@
       <description></description>
     </item>
     <item>
-      <title>homelab</title>
-      <link>https://waltercedric.com/tags/homelab/</link>
-      <pubDate>Mon, 28 Aug 2023 08:07:25 +0000</pubDate>
-      <guid>https://waltercedric.com/tags/homelab/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>plex</title>
       <link>https://waltercedric.com/tags/plex/</link>
       <pubDate>Mon, 28 Aug 2023 08:07:25 +0000</pubDate>
@@ -409,24 +416,10 @@
       <description></description>
     </item>
     <item>
-      <title>cleaning</title>
-      <link>https://waltercedric.com/tags/cleaning/</link>
-      <pubDate>Fri, 25 Aug 2023 13:30:17 +0000</pubDate>
-      <guid>https://waltercedric.com/tags/cleaning/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>support</title>
       <link>https://waltercedric.com/tags/support/</link>
       <pubDate>Fri, 25 Aug 2023 13:30:17 +0000</pubDate>
       <guid>https://waltercedric.com/tags/support/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>tidy</title>
-      <link>https://waltercedric.com/tags/tidy/</link>
-      <pubDate>Fri, 25 Aug 2023 13:30:17 +0000</pubDate>
-      <guid>https://waltercedric.com/tags/tidy/</guid>
       <description></description>
     </item>
     <item>

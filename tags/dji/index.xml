@@ -14,7 +14,7 @@
       <link>https://waltercedric.com/iflight-nazgul-evoque-f5d-v2-is-not-a-good-fpv-frame/</link>
       <pubDate>Sun, 13 Aug 2023 12:50:01 +0000</pubDate>
       <guid>https://waltercedric.com/iflight-nazgul-evoque-f5d-v2-is-not-a-good-fpv-frame/</guid>
-      <description>**All these holes and hollows in the carbon are made for making the frame lighter but these area are prone to break during a crash.** The frame is less rigid, and don’t cool down any better the electronic. It’s just pleasing to the eye nothing else. I suspect the carbon also to be of a lesser quality. First FPV frame I broke in 5 years…luckily the DJI O3 camera is fine.</description>
+      <description>All these holes and hollows in the carbon are made for making the frame lighter but these area are prone to break during a crash. The frame is less rigid, and don’t cool down any better the electronic. It’s just pleasing to the eye nothing else. I suspect the carbon also to be of a lesser quality. First FPV frame I broke in 5 years… luckily the DJI O3 camera is fine.</description>
     </item>
     <item>
       <title>Nazgul Evoque F5 V2 O3 GPS Bind &amp; Fly ELRS using Radiomaster ZORRO 4 in 1 with Radiomaster Ranger Nano TX in 10 minutes</title>
@@ -31,18 +31,11 @@
       <description>Here are the specs. waiting to order mine 🙂 on 2nd march * 10KM range * 1080P * FPV 4K 60fps Camera * 20mins Flight Time * 140 km/h Speed * Goggles V2 5.8GHz * Transmitter Mode2&#xA;Aircraft&#xA;Takeoff Weight&#xA;Approx. 795 g&#xA;Dimensions&#xA;255×312×127 mm (with propellers) 178×232×127 mm (without propellers)&#xA;Diagonal Distance&#xA;245 mm&#xA;Max Ascent Speed&#xA;M mode: No limit&#xA;S mode: 15 m/s&#xA;N mode: 8 m/s</description>
     </item>
     <item>
-      <title>Enable 1200 mw Mode on DJI FPV System</title>
-      <link>https://waltercedric.com/enable-1200-mw-mode-on-dji-fpv-system/</link>
-      <pubDate>Wed, 15 Apr 2020 09:01:19 +0000</pubDate>
-      <guid>https://waltercedric.com/enable-1200-mw-mode-on-dji-fpv-system/</guid>
-      <description>NOTES&#xA;You should follow your local regulations regarding which mode to use.&#xA;Long term hardware effects are unknown&#xA;You get more or less 30% more range&#xA;Your system must be already in FCC mode&#xA;Enable Power Limit as it add some protections against overheating.&#xA;Create a .txt file, name it naco_pwr.txt&#xA;Type pwr_2 or pwr_1&#xA;pwr_1 = 1000 mW pwr_2 = 1200 mW &amp;amp; 1000 mW Save and close&#xA;Copy naco_pwr.</description>
-    </item>
-    <item>
-      <title>Enable FCC Mode on DJI FPV System (700mw 8 Channels)</title>
+      <title>DJI FPV System Hacks (1200mw 700mw 8 Channels)</title>
       <link>https://waltercedric.com/enable-fcc-mode-on-dji-fpv-system-700mw-8-channels/</link>
       <pubDate>Wed, 15 Apr 2020 08:52:40 +0000</pubDate>
       <guid>https://waltercedric.com/enable-fcc-mode-on-dji-fpv-system-700mw-8-channels/</guid>
-      <description>In CE mode, the maximum output is limited to 25 mW, and there are only 4 channels available, while in FCC mode those numbers are increased to 700 mW and 8 channels. NOTE that you should follow your local regulations regarding which mode to use.&#xA;How to switch to FCC mode from CE mode Take the micro SD Card out of the Air Unit Create a text file on the root directory, name it naco.</description>
+      <description>Enable 1200 mw Mode on DJI FPV System NOTES&#xA;You should follow your local regulations regarding which mode to use.&#xA;Long term hardware effects are unknown&#xA;You get more or less 30% more range&#xA;Your system must be already in FCC mode&#xA;Enable Power Limit as it add some protections against overheating.&#xA;Create a .txt file, name it naco_pwr.txt&#xA;Type pwr_2 or pwr_1&#xA;pwr_1 = 1000 mW pwr_2 = 1200 mW &amp;amp; 1000 mW Save and close</description>
     </item>
     <item>
       <title>Armattan Marmotte 5 DJI Edition</title>

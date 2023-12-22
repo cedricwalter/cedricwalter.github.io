@@ -203,6 +203,19 @@ PI Zero W Raspberry pi 1, single core, will require an Ethernet cable Raspberry 
 
             
 
+            
+            
+              <p>
+                Tags:
+                
+                  <a href="/tags/bitcoin/">bitcoin</a>, 
+                  <a href="/tags/cryptocurrency/">cryptocurrency</a>, 
+                  <a href="/tags/ethereum/">ethereum</a>, 
+                  <a href="/tags/raspberrypi/">raspberrypi</a>, 
+                  <a href="/tags/raspbian/">raspbian</a>
+              </p>
+            
+
         </h1>
       </header>
 
@@ -224,7 +237,7 @@ PI Zero W Raspberry pi 1, single core, will require an Ethernet cable Raspberry 
 <h2 id="installing-the-software">Installing the Software</h2>
 <p>Your SD-card needs to contain the software. You can take the long road by <strong>building the SD-card</strong> image yourself or <strong>use the already prepared SD-Card image:</strong></p>
 <p><strong>Download SD-Card image – Version 1.0:</strong> <!-- raw HTML omitted --><a href="https://drive.google.com/open?id=1XZLb0e2J3-wHaR2At0dT-rYQ0IfkhdYK">https://drive.google.com/open?id=1XZLb0e2J3-wHaR2At0dT-rYQ0IfkhdYK</a><!-- raw HTML omitted --></p>
-<p>SHA-256:** <!-- raw HTML omitted -->**6380f16ff0546864cc9e53ee948ea63dcf47c6decbea50cf17ece7cd8613f72e</p>
+<p>SHA-256:** **6380f16ff0546864cc9e53ee948ea63dcf47c6decbea50cf17ece7cd8613f72e</p>
 <p><strong>Write the SD-Card image to your SD Card</strong></p>
 <p>You need to write the downloaded SD card image (the img.gz-file) to your SD card (8 GB minimum) – you can use the very easy tool Balena Etcher for this: <a href="https://www.balena.io/etcher/">https://www.balena.io/etcher/</a> .. it &rsquo;s available for Win, Mac &amp; Linux.</p>
 <p>Insert the SD card and connect the power plug.</p>
@@ -235,9 +248,7 @@ PI Zero W Raspberry pi 1, single core, will require an Ethernet cable Raspberry 
 </ul>
 <h2 id="building-the-sd-card">Building the SD Card</h2>
 <p><strong>Raspbian</strong> is THE official operating system for <strong>all</strong> models of the Raspberry Pi.</p>
-<!-- raw HTML omitted -->
-<p><!-- raw HTML omitted --><!-- raw HTML omitted -->Wikipedia<!-- raw HTML omitted --><!-- raw HTML omitted --></p>
-<!-- raw HTML omitted -->
+<p>Raspbian is a Debian-based (32 bit) computer operating system for Raspberry Pi. There are several versions of Raspbian including Raspbian Buster and Raspbian Stretch. Since 2015 it has been officially provided by the Raspberry Pi Foundation as the primary operating system for the family of Raspberry Pi single-board computers.</p>
 <p>Use <strong>Raspberry Pi Imager</strong> for an easy way to install Raspbian and other operating systems to an SD card ready to use with your Raspberry Pi:</p>
 <ul>
 <li>[Raspberry Pi Imager for Windows][2]</li>
@@ -256,21 +267,21 @@ PI Zero W Raspberry pi 1, single core, will require an Ethernet cable Raspberry 
 </span></span><span style="display:flex;"><span>sudo pip install dot3k
 </span></span><span style="display:flex;"><span>pip install coinbase<span style="color:#e6db74">```</span>
 </span></span><span style="display:flex;"><span>
-</span></span><span style="display:flex;"><span><span style="color:#75715e">## Get a Coinbase API key </span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e">## Get a Coinbase API key</span>
 </span></span><span style="display:flex;"><span>
-</span></span><span style="display:flex;"><span>**&lt;span class<span style="color:#f92672">=</span><span style="color:#e6db74">&#34;has-inline-color has-vivid-red-color&#34;</span>&gt;We will use a Public endpoint, <span style="color:#66d9ef">if</span> you <span style="color:#66d9ef">do</span> more than <span style="color:#ae81ff">3</span> requests per second, up to <span style="color:#ae81ff">6</span> requests per second in bursts, you ll need an API Key.** <span style="color:#f92672">(</span>&lt;a href<span style="color:#f92672">=</span><span style="color:#e6db74">&#34;https://docs.pro.coinbase.com/#rate-limits&#34;</span> target<span style="color:#f92672">=</span><span style="color:#e6db74">&#34;_blank&#34;</span> rel<span style="color:#f92672">=</span><span style="color:#e6db74">&#34;noreferrer noopener&#34;</span>&gt;doc&lt;/a&gt;<span style="color:#f92672">)</span>
+</span></span><span style="display:flex;"><span>**We will use a Public endpoint, <span style="color:#66d9ef">if</span> you <span style="color:#66d9ef">do</span> more than <span style="color:#ae81ff">3</span> requests per second, up to <span style="color:#ae81ff">6</span> requests per second in bursts, you ll need an API Key.** <span style="color:#f92672">(</span>&lt;a href<span style="color:#f92672">=</span><span style="color:#e6db74">&#34;https://docs.pro.coinbase.com/#rate-limits&#34;</span> target<span style="color:#f92672">=</span><span style="color:#e6db74">&#34;_blank&#34;</span> rel<span style="color:#f92672">=</span><span style="color:#e6db74">&#34;noreferrer noopener&#34;</span>&gt;doc&lt;/a&gt;<span style="color:#f92672">)</span>
 </span></span><span style="display:flex;"><span>
-</span></span><span style="display:flex;"><span>I recommend you <span style="color:#66d9ef">for</span> security reasons to create **ANOTHER** empty Coinbase account. 
+</span></span><span style="display:flex;"><span>I recommend you <span style="color:#66d9ef">for</span> security reasons to create **ANOTHER** empty Coinbase account.
 </span></span><span style="display:flex;"><span>
 </span></span><span style="display:flex;"><span>To create an API key unique to your Coinbase trading account:
 </span></span><span style="display:flex;"><span>
 </span></span><span style="display:flex;"><span>  1. Select the **Menu **in the top-right corner of the Coinbase Pro dashboard on the website. Managing API keys is not currently supported on the Coinbase Pro mobile app
 </span></span><span style="display:flex;"><span>  2. Select the **API** link from the menu
 </span></span><span style="display:flex;"><span>  3. Under **Profile Information**, <span style="color:#66d9ef">select</span> the **API Settings** tab, <span style="color:#66d9ef">then</span> <span style="color:#66d9ef">select</span> **+ New API Key**
-</span></span><span style="display:flex;"><span>  4. Select your profile and appropriate permissions, create a passphrase, and <span style="color:#66d9ef">then</span> enter in your 2-Factor Authentication code 
+</span></span><span style="display:flex;"><span>  4. Select your profile and appropriate permissions, create a passphrase, and <span style="color:#66d9ef">then</span> enter in your 2-Factor Authentication code
 </span></span><span style="display:flex;"><span>  5. Finally, <span style="color:#66d9ef">select</span> **Create API Key** at the bottom to make a unique key. The new API key and secret will be displayed on the **API Settings** page.
 </span></span><span style="display:flex;"><span>
-</span></span><span style="display:flex;"><span>Please note that the API secret will be only be shown once, so remember to record your Secret in a secure location. If you lose your API Secret, we will not be able to retrieve it. 
+</span></span><span style="display:flex;"><span>Please note that the API secret will be only be shown once, so remember to record your Secret in a secure location. If you lose your API Secret, we will not be able to retrieve it.
 </span></span><span style="display:flex;"><span>
 </span></span><span style="display:flex;"><span>Create a new file bitcoin.py
 </span></span><span style="display:flex;"><span>
@@ -409,42 +420,6 @@ PI Zero W Raspberry pi 1, single core, will require an Ethernet cable Raspberry 
     
     
     
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
     
       
     
@@ -975,12 +950,6 @@ PI Zero W Raspberry pi 1, single core, will require an Ethernet cable Raspberry 
           
           
           
-            <a class="ui label" href="/tags/break/" title="break">
-              break
-            </a>
-          
-          
-          
             <a class="ui label" href="/tags/building/" title="building">
               building
             </a>
@@ -1019,12 +988,6 @@ PI Zero W Raspberry pi 1, single core, will require an Ethernet cable Raspberry 
           
             <a class="ui label" href="/tags/cc2500/" title="cc2500">
               cc2500
-            </a>
-          
-          
-          
-            <a class="ui label" href="/tags/check/" title="check">
-              check
             </a>
           
           
@@ -1095,12 +1058,6 @@ PI Zero W Raspberry pi 1, single core, will require an Ethernet cable Raspberry 
           
           
           
-            <a class="ui label" href="/tags/contact/" title="contact">
-              contact
-            </a>
-          
-          
-          
             <a class="ui label" href="/tags/contest/" title="contest">
               contest
             </a>
@@ -1131,18 +1088,6 @@ PI Zero W Raspberry pi 1, single core, will require an Ethernet cable Raspberry 
           
           
           
-            <a class="ui label" href="/tags/cpu/" title="cpu">
-              cpu
-            </a>
-          
-          
-          
-            <a class="ui label" href="/tags/cream/" title="cream">
-              cream
-            </a>
-          
-          
-          
             <a class="ui label" href="/tags/created/" title="created">
               created
             </a>
@@ -1155,24 +1100,6 @@ PI Zero W Raspberry pi 1, single core, will require an Ethernet cable Raspberry 
           
           
           
-            <a class="ui label" href="/tags/current/" title="current">
-              current
-            </a>
-          
-          
-          
-            <a class="ui label" href="/tags/day/" title="day">
-              day
-            </a>
-          
-          
-          
-            <a class="ui label" href="/tags/days/" title="days">
-              days
-            </a>
-          
-          
-          
             <a class="ui label" href="/tags/decentralized/" title="decentralized">
               decentralized
             </a>
@@ -1181,12 +1108,6 @@ PI Zero W Raspberry pi 1, single core, will require an Ethernet cable Raspberry 
           
             <a class="ui label" href="/tags/design/" title="Design">
               Design
-            </a>
-          
-          
-          
-            <a class="ui label" href="/tags/designed/" title="designed">
-              designed
             </a>
           
           
@@ -1229,6 +1150,12 @@ PI Zero W Raspberry pi 1, single core, will require an Ethernet cable Raspberry 
           
             <a class="ui label" href="/tags/ebike/" title="ebike">
               ebike
+            </a>
+          
+          
+          
+            <a class="ui label" href="/tags/ecology/" title="ecology">
+              ecology
             </a>
           
           
@@ -1283,12 +1210,6 @@ PI Zero W Raspberry pi 1, single core, will require an Ethernet cable Raspberry 
           
             <a class="ui label" href="/tags/evoque/" title="evoque">
               evoque
-            </a>
-          
-          
-          
-            <a class="ui label" href="/tags/experience/" title="experience">
-              experience
             </a>
           
           
@@ -1359,12 +1280,6 @@ PI Zero W Raspberry pi 1, single core, will require an Ethernet cable Raspberry 
           
           
           
-            <a class="ui label" href="/tags/graphing/" title="graphing">
-              graphing
-            </a>
-          
-          
-          
             <a class="ui label" href="/tags/guide/" title="guide">
               guide
             </a>
@@ -1397,12 +1312,6 @@ PI Zero W Raspberry pi 1, single core, will require an Ethernet cable Raspberry 
           
             <a class="ui label" href="/tags/hewlettpackard/" title="hewlettpackard">
               hewlettpackard
-            </a>
-          
-          
-          
-            <a class="ui label" href="/tags/his/" title="his">
-              his
             </a>
           
           
@@ -1451,36 +1360,6 @@ PI Zero W Raspberry pi 1, single core, will require an Ethernet cable Raspberry 
           
             <a class="ui label" href="/tags/howto/" title="HowTo">
               HowTo
-            </a>
-          
-          
-          
-            <a class="ui label" href="/tags/hp/" title="hp">
-              hp
-            </a>
-          
-          
-          
-            <a class="ui label" href="/tags/hp48/" title="hp48">
-              hp48
-            </a>
-          
-          
-          
-            <a class="ui label" href="/tags/hp49/" title="hp49">
-              hp49
-            </a>
-          
-          
-          
-            <a class="ui label" href="/tags/hp50g/" title="hp50g">
-              hp50g
-            </a>
-          
-          
-          
-            <a class="ui label" href="/tags/ice/" title="ice">
-              ice
             </a>
           
           
@@ -1659,12 +1538,6 @@ PI Zero W Raspberry pi 1, single core, will require an Ethernet cable Raspberry 
           
           
           
-            <a class="ui label" href="/tags/museum/" title="museum">
-              museum
-            </a>
-          
-          
-          
             <a class="ui label" href="/tags/mvs/" title="mvs">
               mvs
             </a>
@@ -1763,12 +1636,6 @@ PI Zero W Raspberry pi 1, single core, will require an Ethernet cable Raspberry 
           
             <a class="ui label" href="/tags/rainforest/" title="rainforest">
               rainforest
-            </a>
-          
-          
-          
-            <a class="ui label" href="/tags/raspberry/" title="raspberry">
-              raspberry
             </a>
           
           
@@ -1889,6 +1756,12 @@ PI Zero W Raspberry pi 1, single core, will require an Ethernet cable Raspberry 
           
             <a class="ui label" href="/tags/snk-neo-geo/" title="SNK Neo Geo">
               SNK Neo Geo
+            </a>
+          
+          
+          
+            <a class="ui label" href="/tags/soap/" title="soap">
+              soap
             </a>
           
           
@@ -2045,12 +1918,6 @@ PI Zero W Raspberry pi 1, single core, will require an Ethernet cable Raspberry 
           
             <a class="ui label" href="/tags/winterthur/" title="winterthur">
               winterthur
-            </a>
-          
-          
-          
-            <a class="ui label" href="/tags/zorro/" title="zorro">
-              zorro
             </a>
           
           

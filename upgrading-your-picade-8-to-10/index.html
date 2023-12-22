@@ -192,7 +192,7 @@ The ultimate desktop retro arcade machine! Picade is a Raspberry Pi-powered mini
                   
                 
 
-              | 3 minutes read
+              | 6 minutes read
 
               
               | Update at
@@ -204,6 +204,19 @@ The ultimate desktop retro arcade machine! Picade is a Raspberry Pi-powered mini
               
 
 
+            
+
+            
+            
+              <p>
+                Tags:
+                
+                  <a href="/tags/arcade/">arcade</a>, 
+                  <a href="/tags/games/">games</a>, 
+                  <a href="/tags/raspbian/">raspbian</a>, 
+                  <a href="/tags/vintage/">vintage</a>, 
+                  <a href="/tags/vintagegaming/">vintagegaming</a>
+              </p>
             
 
         </h1>
@@ -221,9 +234,9 @@ The ultimate desktop retro arcade machine! Picade is a Raspberry Pi-powered mini
 <h3 id="the-new-screen">The new Screen</h3>
 <p>10.1 inch 1366*768 LCD Screen Display TFT Monitor for Raspberry Pi 3 / 2 Model B from <!-- raw HTML omitted -->AliExpress<!-- raw HTML omitted --></p>
 <p>This 10.1 inch High-resolution 1366*768 LCD display module kit is especially designed as a monitor for Raspberry Pi 3 / 2 Model B and Raspberry Pi B+ B A+. For use with a Raspberry Pi we suggest editing config.txt to set the HDMI to the native 1366×768 in case it doesn &rsquo;t detect the resolution properly. The easiest way to edit the config.txt is to put the Pi TF card into an every day computer and edit config.txt with any text editor and save.</p>
-<!-- raw HTML omitted -->
+<p>Features:</p>
 <ul>
-<li><!-- raw HTML omitted -->Screen Dimensions: 229mm x 127mm / 9.0″ x 5.0″</li>
+<li>Screen Dimensions: 229mm x 127mm / 9.0″ x 5.0″</li>
 <li>Panel Type: a-Si TFT-LCD Panel</li>
 <li>Panel Size: 10.1″</li>
 <li>Resolution (RGB): 1366×768, WXGA</li>
@@ -238,7 +251,7 @@ The ultimate desktop retro arcade machine! Picade is a Raspberry Pi-powered mini
 <li>Resolution: 1366* 768,</li>
 <li>Plug and Play: Support</li>
 <li>OSD language: Simplified Chinese, Traditional Chinese, English, Japanese, Korean, Spanish, French, German, Italian, Portuguese</li>
-<li><!-- raw HTML omitted -->Control: Multifunction OSD operation or potentiometer adjust the brightness and color</li>
+<li>Control: Multifunction OSD operation or potentiometer adjust the brightness and color</li>
 </ul>
 <p><strong>Specifications:</strong></p>
 <ul>
@@ -274,8 +287,125 @@ The ultimate desktop retro arcade machine! Picade is a Raspberry Pi-powered mini
 <p>Just plug and boot Retropie, nothing particular to configure. The Raspberry Pi 3B+/3B do not require any modification to /boot/config.txt</p>
 <h2 id="raspberry-pi-4">Raspberry Pi 4</h2>
 <p>The Raspberry PI 4 is not able to detect the screen properly, so you &rsquo;ll have to help the operating system a bit. You need to modify /boot/config.txt file and add the following parameters, otherwise, you may only run as 1024×600 model:</p>
-<!-- raw HTML omitted -->
+<pre tabindex="0"><code>
+# Please note that this number is 1360 but not 1366
 
+framebuffer_height=768
+hdmi_force_hotplug=1
+hdmi_group=2
+hdmi_mode=87
+hdmi_cvt 1360 768 60 3 0 0 0
+
+#Please note that this number is 1360 but not 1366
+config_hdmi_boost=4
+dtparam=i2c_arm=on
+dtparam=audio=on
+
+[pi4]
+dtoverlay=vc4-fkms-v3d
+max_framebuffers=2
+
+[all]
+dtoverlay=vc4-fkms-v3d
+start_x=1
+gpu_mem=128```
+
+## How to install RecallBox on Picade
+
+[RecallBox][1] use Arch Linux and the [Picade][2] driver ONLY support [Raspbian][3], so it is not possible to run [RecallBox][1] on the [PiCade][2]
+
+## How to install Retropie software on Picade
+
+Download [Retropie][4] 4.5.1 and burn it using [Balena Etcher][5] to a 16GB SDCard, insert and Boot the Raspberry PI
+
+Connect a USB keyboard and press F4, to see the linux shell
+
+Go into the config, sudo raspi-config and set at least the following
+
+  * Under localization options, the proper keyboard layout (german swiss for me)
+  * Under Interfacing option, activate SSH (Optional useful to connect to Pi to launch command without physical access with a keyboard )
+  * Under Advance option, set the Audio to &#34;3.5 headphone jack&#34;
+  * Under Network set the WIFI SSID and password (Optional you can also use the Ethernet port)
+
+Quit Raspi-config
+
+Install the driver
+
+```bash curl https://get.pimoroni.com/picadehat | bash```
+
+And latest firmware
+
+```bash curl https://get.pimoroni.com/picadefw | bash```&lt;figure class=&#34;wp-block-pullquote&#34;&gt;
+
+&gt; ATTENTION
+&gt;
+&gt; &lt;cite&gt;do not update raspbian with apt update/upgrade this will break &lt;a href=&#34;https://retropie.org.uk/&#34;&gt;RETROPIE&lt;/a&gt;&lt;/cite&gt;&lt;/figure&gt;
+
+Reboot one more time with
+
+```bash sudo reboot```
+
+And everything should work!
+
+Still no sound? [Contact me][6] i have a ready 16GB .img file that just work.!
+
+## Running Games in Retropie
+
+DO not use an expensive and big SDCard to store your games, 128Gb or 256GB card are expensive and wont support extensive read and write. It is a lot better, cheaper and faster to use a small SSD of that size connected to the USB port.
+
+Connect an Empty USB disk, not formatted, and wait till [Retropie][4] write the folder structure on it, stop [Retropie][4]. Now connect the disk to Linux, Windows, MacOS and copy games on that disk in the proper folder. Next time you boot [Retropie][4] with that disk attached, [Retropie][4] will list all games.
+
+## Troubleshooting
+
+### I hear no Sound in Retropie
+
+I lost many HOURS, going crazy, and after many attempts (erase sdcard, and redo 5 times) I have collected a fair amount of methodology to narrow down the problem:
+
+#### Hardware
+
+  * Check physical wiring connections: nothing must be loose
+  * Check proper red/black (+/-) connections in case they were backwards
+  * Power the PI and connect a Phone to the jack to check proper output of music -&gt; this validate the whole hardware connection
+
+#### Software
+
+  * While in [Retropie][4], press F4, then type &#34;sudo raspi-config&#34;, under &#34;Advanced options&#34;, then &#34;Audio&#34;, set the sound to &#34; 3.5 headphone jack&#34;
+  * In emulation station, under sound settings audio device MUST be PCM (default), no need to restart
+  * In [Retropie][4], under audio configuration, must be set to &#34;3.5 headphone jack&#34;, you need to restart system.
+  * Emulation Station volume may be low, use the &#34;volume up&#34; button multiple time (Black button on the left side, back button)
+
+Still no sound? [Contact me][6] i have a ready 16GB .img file that just work.!
+
+Mount everything back &lt;figure class=&#34;wp-block-image&#34;&gt;
+
+&lt;img loading=&#34;lazy&#34; decoding=&#34;async&#34; width=&#34;1920&#34; height=&#34;2560&#34; src=&#34;/2020/02/picade-8inch-upgrade-to-10inch-3-scaled.jpg&#34; alt=&#34;&#34; class=&#34;wp-image-8788&#34; srcset=&#34;/2020/02/picade-8inch-upgrade-to-10inch-3-scaled.jpg 1920w, /2020/02/picade-8inch-upgrade-to-10inch-3-225x300.jpg 225w, /2020/02/picade-8inch-upgrade-to-10inch-3-768x1024.jpg 768w, /2020/02/picade-8inch-upgrade-to-10inch-3-1152x1536.jpg 1152w, /2020/02/picade-8inch-upgrade-to-10inch-3-1536x2048.jpg 1536w, /2020/02/picade-8inch-upgrade-to-10inch-3-1200x1600.jpg 1200w, /2020/02/picade-8inch-upgrade-to-10inch-3-1980x2640.jpg 1980w&#34; sizes=&#34;(max-width: 1920px) 100vw, 1920px&#34; /&gt; &lt;/figure&gt; &lt;figure class=&#34;wp-block-image&#34;&gt;&lt;img loading=&#34;lazy&#34; decoding=&#34;async&#34; width=&#34;1920&#34; height=&#34;2560&#34; src=&#34;/2020/02/picade-8inch-upgrade-to-10inch-4-scaled.jpg&#34; alt=&#34;&#34; class=&#34;wp-image-8789&#34; srcset=&#34;/2020/02/picade-8inch-upgrade-to-10inch-4-scaled.jpg 1920w, /2020/02/picade-8inch-upgrade-to-10inch-4-225x300.jpg 225w, /2020/02/picade-8inch-upgrade-to-10inch-4-768x1024.jpg 768w, /2020/02/picade-8inch-upgrade-to-10inch-4-1152x1536.jpg 1152w, /2020/02/picade-8inch-upgrade-to-10inch-4-1536x2048.jpg 1536w, /2020/02/picade-8inch-upgrade-to-10inch-4-1200x1600.jpg 1200w, /2020/02/picade-8inch-upgrade-to-10inch-4-1980x2640.jpg 1980w&#34; sizes=&#34;(max-width: 1920px) 100vw, 1920px&#34; /&gt;&lt;/figure&gt;
+
+## References
+
+Here are the keys associated with the buttons (if you haven’t modified a firmware to accommodate custom keycodes):
+
+  * button 1 &amp;#8211; keycode 29 &amp;#8211; L CTRL
+  * button 2 &amp;#8211; keycode 56 &amp;#8211; L ALT
+  * button 3 &amp;#8211; keycode 57 &amp;#8211; SPACE
+  * button 4 &amp;#8211; keycode 42 &amp;#8211; L SHIFT
+  * button 5 &amp;#8211; keycode 44 &amp;#8211; Z
+  * button 6 &amp;#8211; keycode 45 &amp;#8211; X
+  * L &amp;#8211; keycode 105 &amp;#8211; Left
+  * R &amp;#8211; keycode 106 &amp;#8211; Right
+  * D &amp;#8211; keycode 108 &amp;#8211; Down
+  * U &amp;#8211; keycode 103 &amp;#8211; Up
+  * 1UP &amp;#8211; keycode 31 &amp;#8211; S
+  * 1/4 &amp;#8211; keycode 46 &amp;#8211; C
+  * ESC &amp;#8211; keycode 1 &amp;#8211; ESC
+  * ENT &amp;#8211; keycode 28 &amp;#8211; ENTER
+
+ [1]: https://www.recalbox.com/
+ [2]: https://shop.pimoroni.com/products/picade?variant=29210087489619
+ [3]: https://www.raspberrypi.org/downloads/raspbian/
+ [4]: https://retropie.org.uk/
+ [5]: https://www.balena.io/etcher/
+ [6]: /contact/
+</code></pre>
       </article>
     </section>
 
@@ -347,42 +477,6 @@ The ultimate desktop retro arcade machine! Picade is a Raspberry Pi-powered mini
     
     
     
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
     
       
     
@@ -913,12 +1007,6 @@ The ultimate desktop retro arcade machine! Picade is a Raspberry Pi-powered mini
           
           
           
-            <a class="ui label" href="/tags/break/" title="break">
-              break
-            </a>
-          
-          
-          
             <a class="ui label" href="/tags/building/" title="building">
               building
             </a>
@@ -957,12 +1045,6 @@ The ultimate desktop retro arcade machine! Picade is a Raspberry Pi-powered mini
           
             <a class="ui label" href="/tags/cc2500/" title="cc2500">
               cc2500
-            </a>
-          
-          
-          
-            <a class="ui label" href="/tags/check/" title="check">
-              check
             </a>
           
           
@@ -1033,12 +1115,6 @@ The ultimate desktop retro arcade machine! Picade is a Raspberry Pi-powered mini
           
           
           
-            <a class="ui label" href="/tags/contact/" title="contact">
-              contact
-            </a>
-          
-          
-          
             <a class="ui label" href="/tags/contest/" title="contest">
               contest
             </a>
@@ -1069,18 +1145,6 @@ The ultimate desktop retro arcade machine! Picade is a Raspberry Pi-powered mini
           
           
           
-            <a class="ui label" href="/tags/cpu/" title="cpu">
-              cpu
-            </a>
-          
-          
-          
-            <a class="ui label" href="/tags/cream/" title="cream">
-              cream
-            </a>
-          
-          
-          
             <a class="ui label" href="/tags/created/" title="created">
               created
             </a>
@@ -1093,24 +1157,6 @@ The ultimate desktop retro arcade machine! Picade is a Raspberry Pi-powered mini
           
           
           
-            <a class="ui label" href="/tags/current/" title="current">
-              current
-            </a>
-          
-          
-          
-            <a class="ui label" href="/tags/day/" title="day">
-              day
-            </a>
-          
-          
-          
-            <a class="ui label" href="/tags/days/" title="days">
-              days
-            </a>
-          
-          
-          
             <a class="ui label" href="/tags/decentralized/" title="decentralized">
               decentralized
             </a>
@@ -1119,12 +1165,6 @@ The ultimate desktop retro arcade machine! Picade is a Raspberry Pi-powered mini
           
             <a class="ui label" href="/tags/design/" title="Design">
               Design
-            </a>
-          
-          
-          
-            <a class="ui label" href="/tags/designed/" title="designed">
-              designed
             </a>
           
           
@@ -1167,6 +1207,12 @@ The ultimate desktop retro arcade machine! Picade is a Raspberry Pi-powered mini
           
             <a class="ui label" href="/tags/ebike/" title="ebike">
               ebike
+            </a>
+          
+          
+          
+            <a class="ui label" href="/tags/ecology/" title="ecology">
+              ecology
             </a>
           
           
@@ -1221,12 +1267,6 @@ The ultimate desktop retro arcade machine! Picade is a Raspberry Pi-powered mini
           
             <a class="ui label" href="/tags/evoque/" title="evoque">
               evoque
-            </a>
-          
-          
-          
-            <a class="ui label" href="/tags/experience/" title="experience">
-              experience
             </a>
           
           
@@ -1297,12 +1337,6 @@ The ultimate desktop retro arcade machine! Picade is a Raspberry Pi-powered mini
           
           
           
-            <a class="ui label" href="/tags/graphing/" title="graphing">
-              graphing
-            </a>
-          
-          
-          
             <a class="ui label" href="/tags/guide/" title="guide">
               guide
             </a>
@@ -1335,12 +1369,6 @@ The ultimate desktop retro arcade machine! Picade is a Raspberry Pi-powered mini
           
             <a class="ui label" href="/tags/hewlettpackard/" title="hewlettpackard">
               hewlettpackard
-            </a>
-          
-          
-          
-            <a class="ui label" href="/tags/his/" title="his">
-              his
             </a>
           
           
@@ -1389,36 +1417,6 @@ The ultimate desktop retro arcade machine! Picade is a Raspberry Pi-powered mini
           
             <a class="ui label" href="/tags/howto/" title="HowTo">
               HowTo
-            </a>
-          
-          
-          
-            <a class="ui label" href="/tags/hp/" title="hp">
-              hp
-            </a>
-          
-          
-          
-            <a class="ui label" href="/tags/hp48/" title="hp48">
-              hp48
-            </a>
-          
-          
-          
-            <a class="ui label" href="/tags/hp49/" title="hp49">
-              hp49
-            </a>
-          
-          
-          
-            <a class="ui label" href="/tags/hp50g/" title="hp50g">
-              hp50g
-            </a>
-          
-          
-          
-            <a class="ui label" href="/tags/ice/" title="ice">
-              ice
             </a>
           
           
@@ -1597,12 +1595,6 @@ The ultimate desktop retro arcade machine! Picade is a Raspberry Pi-powered mini
           
           
           
-            <a class="ui label" href="/tags/museum/" title="museum">
-              museum
-            </a>
-          
-          
-          
             <a class="ui label" href="/tags/mvs/" title="mvs">
               mvs
             </a>
@@ -1701,12 +1693,6 @@ The ultimate desktop retro arcade machine! Picade is a Raspberry Pi-powered mini
           
             <a class="ui label" href="/tags/rainforest/" title="rainforest">
               rainforest
-            </a>
-          
-          
-          
-            <a class="ui label" href="/tags/raspberry/" title="raspberry">
-              raspberry
             </a>
           
           
@@ -1827,6 +1813,12 @@ The ultimate desktop retro arcade machine! Picade is a Raspberry Pi-powered mini
           
             <a class="ui label" href="/tags/snk-neo-geo/" title="SNK Neo Geo">
               SNK Neo Geo
+            </a>
+          
+          
+          
+            <a class="ui label" href="/tags/soap/" title="soap">
+              soap
             </a>
           
           
@@ -1983,12 +1975,6 @@ The ultimate desktop retro arcade machine! Picade is a Raspberry Pi-powered mini
           
             <a class="ui label" href="/tags/winterthur/" title="winterthur">
               winterthur
-            </a>
-          
-          
-          
-            <a class="ui label" href="/tags/zorro/" title="zorro">
-              zorro
             </a>
           
           

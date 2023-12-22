@@ -238,7 +238,7 @@
       <link>https://waltercedric.com/nazgul-evoque-f5-v2-o3-gps-bind-fly-elrs-using-radiomaster-zorro-4-in-1-with-radiomaster-ranger-nano-tx-in-10-minutes/</link>
       <pubDate>Wed, 09 Aug 2023 10:34:16 +0000</pubDate>
       <guid>https://waltercedric.com/nazgul-evoque-f5-v2-o3-gps-bind-fly-elrs-using-radiomaster-zorro-4-in-1-with-radiomaster-ranger-nano-tx-in-10-minutes/</guid>
-      <description>Prerequisites&#xA;Nazgul Evoque F5D or F5X V2 O3 GPS ExpressLRS DJI goggles 2 Software to install ExpressLRS Configurator installed https://github.com/ExpressLRS/ExpressLRS/releases Betaflight Configurator installed https://github.com/betaflight/betaflight-configurator/releases EdgeTX Companion installed https://github.com/EdgeTX/edgetx/releases Radiomaster ZORRO transmitter 4 in 1 multi protocol Radiomaster Ranger nano TX ELRS A small ventilator to keep the O3 cool while updating the receiver update DJI Goggles 2&#xA;Don’t use them on the Nazgul without the FCC hack, I crash once 30m away because the signal was too low…</description>
+      <description>Prerequisites&#xA;Nazgul Evoque F5D or F5X V2 O3 GPS ExpressLRS DJI goggles 2 Software to install ExpressLRS Configurator installed https://github.com/ExpressLRS/ExpressLRS/releases Betaflight Configurator installed https://github.com/betaflight/betaflight-configurator/releases EdgeTX Companion installed https://github.com/EdgeTX/edgetx/releases Radiomaster ZORRO transmitter 4 in 1 multi protocol Radiomaster Ranger nano TX ELRS A small ventilator to keep the O3 cool while updating the receiver update DJI Goggles 2&#xA;Don’t use them on the Nazgul without the FCC hack, I crash once 30m away because the signal was too low…</description>
     </item>
     <item>
       <title>A Comparison of Real-Debrid vs Alldebrid vs Premiumize vs MyDebrid.com vs LinkSnappy</title>
@@ -854,7 +854,7 @@
       <link>https://waltercedric.com/games/neo-geo-pocket-0016263/</link>
       <pubDate>Mon, 07 Dec 2009 21:26:39 +0000</pubDate>
       <guid>https://waltercedric.com/games/neo-geo-pocket-0016263/</guid>
-      <description>The Neo Geo Pocket was SNK &amp;rsquo;s first hand held video game system, released in Japan in late 1998; however, lower than expected sales resulted in its discontinuation in 1999, and was immediately succeeded by the Neo Geo Pocket Color. The system only had a retail release within the Japan and Hong Kong market.&#xA;Side by side, a SNK Neo Geo Pocket on the left side and a SNK Neo Geo Pocket Color</description>
+      <description>The Neo Geo Pocket was SNK &amp;rsquo;s first hand held video game system, released in Japan in late 1998; however, lower than expected sales resulted in its discontinuation in 1999, and was immediately succeeded by the [Neo Geo Pocket Color][1]. The system only had a retail release within the Japan and Hong Kong market.&#xA;Side by side, a SNK Neo Geo Pocket on the left side and a SNK Neo Geo Pocket Color</description>
     </item>
     <item>
       <title>SNK Neo Geo CDZ # 0013836</title>
@@ -892,13 +892,6 @@
       <description>Bought (Francs) Resold in euro SNK Neo Geo AES + Magician Lord 3490 FF 532 € 1 arcade pad 450 FF 68 € Soccer Brawl 825 FF 125 € Football Frenzy 825 FF 650FF 125 € Puzzled 690 FF 105 € NAM 75 690 FF 105 € ASO 2 690 FF 105 € King of Monster 800 FF 121 € Ninja Combat + Raguy 1600 FF 243 € Cyber Lip 670 FF 102 € Robo Army 675 FF 103 € Baseball 2020 675 FF 450FF 103 € Fatal Fury 1 800 FF 121 € World Heroes 900 FF 800FF 137 € Fatal Fury 2 exchange for Last Resort + Mutation Nation 96 € Fatal Fury Special 900 FF 137 € View Point 700 FF 106 € Baseball Star 2 400 FF 60 € Andro Dunos 400 FF 60 € Samurai Showdown 2 640 FF 99 € Samurai Showdown 1 300 FF 45 € League Bowling 150 FF 22 € Art of Fighting 2 450 FF 68 € TOTAL 2494 € This table do not take into account the 2 NEO-GEO CD I &amp;rsquo;ve bought on ebay 3 years ago.</description>
     </item>
     <item>
-      <title>Gallery of my Tasmania trip is online</title>
-      <link>https://waltercedric.com/gallery-of-my-tasmania-trip-is-online/</link>
-      <pubDate>Tue, 22 Jan 2008 22:04:08 +0000</pubDate>
-      <guid>https://waltercedric.com/gallery-of-my-tasmania-trip-is-online/</guid>
-      <description>Discover tasmania&#xA;Pictures were taken with a Canon G9, 12MP in Fine mode (4000*3000 pixels), so they are huge (2 to 5MB) but with no quality loss. A web version is available in the web page for better viewing. I do not publish any pictures containing persons that can be recognized. If you were on tour with me that day, [contact me here][1], and I will send you these personal pictures.</description>
-    </item>
-    <item>
       <title>The Bridge Climb is the most sought after Sydney attraction.</title>
       <link>https://waltercedric.com/the-bridge-climb-is-the-most-sought-after-sydney-attraction/</link>
       <pubDate>Sun, 09 Dec 2007 12:23:15 +0000</pubDate>
@@ -931,7 +924,7 @@
       <link>https://waltercedric.com/enterprise-grade-performances-tuning-with-critical-memory-constraints-part-2/</link>
       <pubDate>Fri, 19 Oct 2007 14:56:18 +0000</pubDate>
       <guid>https://waltercedric.com/enterprise-grade-performances-tuning-with-critical-memory-constraints-part-2/</guid>
-      <description>Still not enough, we were forced to profile the java code and make some big changes…. (from part 1)&#xA;Profiling&#xA;You either profile an application for speed and/or memory usage and/or memory leaks. Our application is fast enough at the moment. Our major concern is optimizing memory usage and thus avoiding disk memory swapping.&#xA;Some words about architecture&#xA;It is not possible to profile any applications without having a deep understanding of the architecture behind.</description>
+      <description>Still not enough, we were forced to profile the java code and make some big changes. (from part 1)&#xA;Profiling&#xA;You either profile an application for speed and/or memory usage and/or memory leaks. Our application is fast enough at the moment. Our major concern is optimizing memory usage and thus avoiding disk memory swapping.&#xA;Some words about architecture&#xA;It is not possible to profile any applications without having a deep understanding of the architecture behind.</description>
     </item>
     <item>
       <title>Endless love, lets be together for 5000 year more</title>
@@ -945,7 +938,7 @@
       <link>https://waltercedric.com/cinq-robots-mulhousiens-dans-larene-sarthoise/</link>
       <pubDate>Thu, 11 May 2006 16:44:29 +0000</pubDate>
       <guid>https://waltercedric.com/cinq-robots-mulhousiens-dans-larene-sarthoise/</guid>
-      <description>Pour la quatrieme année, le club E = M6 de 1 &amp;lsquo;Ecole supérieure des sciences appliquées pour 1 &amp;lsquo;ingénieur (ESSAIM) participe, dés ce mercredi, a la septième edition de la Coupe de France de robotique, dans le cadre du Festival international des arts et technologies (ARTEC), à la Ferté-Bernard dans la Sarthe…&#xA;Jean-Baptiste Bonnet, responsable du club E=M6 de 1 &amp;lsquo;ESSAIM, cache, comme Cédric, Gwen, Edouard et la dizaine d &amp;lsquo;autres membres du club, sa fatigue derrière la satisfaction du travail bien fait.</description>
+      <description>Pour la quatrieme année, le club E = M6 de 1 &amp;lsquo;Ecole supérieure des sciences appliquées pour 1 &amp;lsquo;ingénieur (ESSAIM) participe, dés ce mercredi, a la septième edition de la Coupe de France de robotique, dans le cadre du Festival international des arts et technologies (ARTEC), à la Ferté-Bernard dans la Sarthe&#xA;Jean-Baptiste Bonnet, responsable du club E=M6 de 1 &amp;lsquo;ESSAIM, cache, comme Cédric, Gwen, Edouard et la dizaine d &amp;lsquo;autres membres du club, sa fatigue derrière la satisfaction du travail bien fait.</description>
     </item>
     <item>
       <title>Visiting Italy: Cinque terre</title>
@@ -973,7 +966,7 @@
       <link>https://waltercedric.com/visiting-italy-genova/</link>
       <pubDate>Sun, 21 Nov 2004 20:30:20 +0000</pubDate>
       <guid>https://waltercedric.com/visiting-italy-genova/</guid>
-      <description>Genova city, San Lorenzo church and the seaport…&#xA;The port of Genoa is the first in Italy. It ranks second in the Mediterranean after Marseille, France.&#xA;The Aquarium of Genoa is the largest in Europe. many companies have their boat here Famous boat from the movie &amp;ldquo;Hook&amp;rdquo; Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova Italie Genova </description>
+      <description>Genova city, San Lorenzo church and the seaport&#xA;The port of Genoa is the first in Italy. It ranks second in the Mediterranean after Marseille, France.&#xA;The Aquarium of Genoa is the largest in Europe. many companies have their boat here Famous boat from the movie &amp;ldquo;Hook&amp;rdquo; </description>
     </item>
     <item>
       <title>Visiting Italy: Galleria Vittorio Emanuele II</title>
@@ -1001,7 +994,7 @@
       <link>https://waltercedric.com/visiting-italy-pisa/</link>
       <pubDate>Fri, 12 Nov 2004 22:44:54 +0000</pubDate>
       <guid>https://waltercedric.com/visiting-italy-pisa/</guid>
-      <description>Pisa is a quite small city, if you go there using the train, and want to see the leaning tower, you &amp;rsquo;ll have to walk straight away during 20 minutes to reach:&#xA;The Square of miracle (The Campo dei Miracoli )&#xA;The Square of miracle is made of four buildings:&#xA;The Leaning tower, The Cathedral, The Baptistry, The Camposanto. ## La Torre di Pisa&#xA;italie italie italie italie italie Characteristics of the leaning Tower:</description>
+      <description>Pisa is a quite small city, if you go there using the train, and want to see the leaning tower, you &amp;rsquo;ll have to walk straight away during 20 minutes to reach: The Square of miracle (The Campo dei Miracoli )&#xA;The Square of miracle is made of four buildings:&#xA;The Leaning tower, The Cathedral, The Baptistry, The Camposanto. ## La Torre di Pisa&#xA;italie italie italie italie italie Characteristics of the leaning Tower:</description>
     </item>
     <item>
       <title>Etude (gallery of)</title>
@@ -1029,7 +1022,7 @@
       <link>https://waltercedric.com/scooter/depenses/</link>
       <pubDate>Sat, 09 Oct 2004 20:28:46 +0000</pubDate>
       <guid>https://waltercedric.com/scooter/depenses/</guid>
-      <description>Depenses (voir ma page sur sa restoration de A a Z…)&#xA;100 fr moteur vespa metz&#xA;150 fr siège arrière + porte bagage&#xA;480 fr apret + peinture&#xA;380 fr papier verre + bombe alu&#xA;750 fr peinture + appret&#xA;900 fr destination scooter&#xA;122 fr cable frein&#xA;45 fr 1 retro&#xA;88 fr gaine thermo&#xA;210 fr anti parasite + clé + gaine&#xA;350 fr chromes&#xA;110 fr clignotants</description>
+      <description>Depenses (voir ma page sur sa restoration de A a Z)&#xA;100 fr moteur vespa metz 150 fr siège arrière + porte bagage 480 fr apret + peinture 380 fr papier verre + bombe alu 750 fr peinture + appret 900 fr destination scooter 122 fr cable frein 45 fr 1 retro 88 fr gaine thermo 210 fr anti parasite + clé + gaine 350 fr chromes 110 fr clignotants 100 fr gaines grises et noir 100 fr autocollants 800 fr épave 250 fr pyrolise 720 fr essence déplacements 4 pleins 300 fr déco avant+ pare choc 25 fr billes 100 fr joint moteur 120 fr de joint spis 200 fr de roulements 900 fr vilbrequin 100 fr neimann</description>
     </item>
     <item>
       <title>Comparaison Manurhin SM75 / DKW Hobby Roller</title>
@@ -1071,7 +1064,7 @@
       <link>https://waltercedric.com/dans-les-journaux/</link>
       <pubDate>Sun, 05 Sep 2004 16:17:25 +0000</pubDate>
       <guid>https://waltercedric.com/dans-les-journaux/</guid>
-      <description>|</description>
+      <description>Les étudiants de l&amp;rsquo;ESSAIM partent à l&amp;rsquo;assaut du petit écran en participant à l&amp;rsquo;émission E=M6 avec leur petit robot mis au point dans les labos de l&amp;rsquo;école.</description>
     </item>
     <item>
       <title>Reflexions techniques sur la coupe E=M6 1999</title>
@@ -1106,14 +1099,14 @@
       <link>https://waltercedric.com/check-list-apres-crash/</link>
       <pubDate>Fri, 03 Sep 2004 10:40:32 +0000</pubDate>
       <guid>https://waltercedric.com/check-list-apres-crash/</guid>
-      <description>Date:_____________&#xA;Nom du pilote :_________&#xA;Machine:__________&#xA;Placer une croix devant la partie que vous venez de finir de vérifier…&#xA;Sur le terrain&#xA;_____ Ne pas paniquer, devenir agressif, tout le monde s &amp;rsquo;est déjà crashé.&#xA;_____ Si possible, couper le moteur avec la radio pour éviter d &amp;lsquo;autres dégats . Couper l &amp;lsquo;arrivée d &amp;rsquo;essence dès que possible (penser à votre sécurité).&#xA;_____ Baliser la zone de crash pour rechercher les pièces plus tard.</description>
+      <description>Date:_____________ Nom du pilote :_________ Machine:__________&#xA;Placer une croix devant la partie que vous venez de finir de vérifier&#xA;Sur le terrain _____ Ne pas paniquer, devenir agressif, tout le monde s &amp;rsquo;est déjà crashé. _____ Si possible, couper le moteur avec la radio pour éviter d &amp;lsquo;autres dégats . Couper l &amp;lsquo;arrivée d &amp;rsquo;essence dès que possible (penser à votre sécurité). _____ Baliser la zone de crash pour rechercher les pièces plus tard.</description>
     </item>
     <item>
       <title>Hewlett Packard MetaKernel unofficial site</title>
       <link>https://waltercedric.com/metakernel-unofficial-site/</link>
       <pubDate>Thu, 02 Sep 2004 20:17:53 +0000</pubDate>
       <guid>https://waltercedric.com/metakernel-unofficial-site/</guid>
-      <description>This is not the Official MetaKernel Home Page.&#xA;A huge portion of that page was first published in raw HTML in 1998! (without CSS)&#xA;May 14, 1996, MetaKernel ? Hello World !&#xA;As you know, since 4 months, a new program is available for your HP48 His name is MetaKernel …&#xA;This program can speed up your hp48gx up to 100 times…&#xA;It &amp;rsquo;s a kernel (as the name says) which replace the standard environment of your HP … We can compare this program like windows vs DOS</description>
+      <description>This is not the Official MetaKernel Home Page.&#xA;A huge portion of that page was first published in raw HTML in 1998! (without CSS)&#xA;May 14, 1996, MetaKernel ? Hello World !&#xA;As you know, since 4 months, a new program is available for your HP48 His name is MetaKernel&#xA;This program can speed up your hp48gx up to 100 times&#xA;It &amp;rsquo;s a kernel (as the name says) which replace the standard environment of your HP We can compare this program like windows vs DOS</description>
     </item>
   </channel>
 </rss>

@@ -10,9 +10,16 @@
     <lastBuildDate>Fri, 22 Dec 2023 14:05:31 +0100</lastBuildDate>
     <atom:link href="https://waltercedric.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Consumer</title>
+      <link>https://waltercedric.com/categories/consumer/</link>
+      <pubDate>Fri, 22 Dec 2023 14:05:31 +0100</pubDate>
+      <guid>https://waltercedric.com/categories/consumer/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Homelab</title>
       <link>https://waltercedric.com/categories/homelab/</link>
-      <pubDate>Fri, 22 Dec 2023 14:05:31 +0100</pubDate>
+      <pubDate>Fri, 22 Dec 2023 12:55:31 +0100</pubDate>
       <guid>https://waltercedric.com/categories/homelab/</guid>
       <description></description>
     </item>
@@ -35,13 +42,6 @@
       <link>https://waltercedric.com/categories/scooters/</link>
       <pubDate>Fri, 20 Oct 2023 08:10:55 +0000</pubDate>
       <guid>https://waltercedric.com/categories/scooters/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Consumer</title>
-      <link>https://waltercedric.com/categories/consumer/</link>
-      <pubDate>Tue, 17 Oct 2023 14:50:40 +0000</pubDate>
-      <guid>https://waltercedric.com/categories/consumer/</guid>
       <description></description>
     </item>
     <item>
@@ -171,10 +171,10 @@
       <description></description>
     </item>
     <item>
-      <title>HP48</title>
-      <link>https://waltercedric.com/categories/hp48/</link>
+      <title>Hewlett Packard</title>
+      <link>https://waltercedric.com/categories/hewlett-packard/</link>
       <pubDate>Fri, 06 Feb 2015 08:40:17 +0000</pubDate>
-      <guid>https://waltercedric.com/categories/hp48/</guid>
+      <guid>https://waltercedric.com/categories/hewlett-packard/</guid>
       <description></description>
     </item>
     <item>

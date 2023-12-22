@@ -10,30 +10,44 @@
     <lastBuildDate>Fri, 22 Dec 2023 14:05:31 +0100</lastBuildDate>
     <atom:link href="https://waltercedric.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>ecology</title>
+      <link>https://waltercedric.com/tags/ecology/</link>
+      <pubDate>Fri, 22 Dec 2023 14:05:31 +0100</pubDate>
+      <guid>https://waltercedric.com/tags/ecology/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>soap</title>
+      <link>https://waltercedric.com/tags/soap/</link>
+      <pubDate>Fri, 22 Dec 2023 14:05:31 +0100</pubDate>
+      <guid>https://waltercedric.com/tags/soap/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>docker</title>
       <link>https://waltercedric.com/tags/docker/</link>
-      <pubDate>Fri, 22 Dec 2023 14:05:31 +0100</pubDate>
+      <pubDate>Fri, 22 Dec 2023 12:55:31 +0100</pubDate>
       <guid>https://waltercedric.com/tags/docker/</guid>
       <description></description>
     </item>
     <item>
       <title>homelab</title>
       <link>https://waltercedric.com/tags/homelab/</link>
-      <pubDate>Fri, 22 Dec 2023 14:05:31 +0100</pubDate>
+      <pubDate>Fri, 22 Dec 2023 12:55:31 +0100</pubDate>
       <guid>https://waltercedric.com/tags/homelab/</guid>
       <description></description>
     </item>
     <item>
       <title>HowTo</title>
       <link>https://waltercedric.com/tags/howto/</link>
-      <pubDate>Fri, 22 Dec 2023 14:05:31 +0100</pubDate>
+      <pubDate>Fri, 22 Dec 2023 12:55:31 +0100</pubDate>
       <guid>https://waltercedric.com/tags/howto/</guid>
       <description></description>
     </item>
     <item>
       <title>privacy</title>
       <link>https://waltercedric.com/tags/privacy/</link>
-      <pubDate>Fri, 22 Dec 2023 14:05:31 +0100</pubDate>
+      <pubDate>Fri, 22 Dec 2023 12:55:31 +0100</pubDate>
       <guid>https://waltercedric.com/tags/privacy/</guid>
       <description></description>
     </item>
@@ -147,6 +161,13 @@
       <link>https://waltercedric.com/tags/honey/</link>
       <pubDate>Tue, 17 Oct 2023 14:50:40 +0000</pubDate>
       <guid>https://waltercedric.com/tags/honey/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>kitchen</title>
+      <link>https://waltercedric.com/tags/kitchen/</link>
+      <pubDate>Tue, 17 Oct 2023 14:50:40 +0000</pubDate>
+      <guid>https://waltercedric.com/tags/kitchen/</guid>
       <description></description>
     </item>
     <item>
@@ -294,13 +315,6 @@
       <link>https://waltercedric.com/tags/airplane/</link>
       <pubDate>Sun, 10 Sep 2023 16:07:48 +0000</pubDate>
       <guid>https://waltercedric.com/tags/airplane/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>zorro</title>
-      <link>https://waltercedric.com/tags/zorro/</link>
-      <pubDate>Sun, 10 Sep 2023 16:07:48 +0000</pubDate>
-      <guid>https://waltercedric.com/tags/zorro/</guid>
       <description></description>
     </item>
     <item>
@@ -528,20 +542,6 @@
       <description></description>
     </item>
     <item>
-      <title>cream</title>
-      <link>https://waltercedric.com/tags/cream/</link>
-      <pubDate>Fri, 18 Aug 2023 11:03:17 +0000</pubDate>
-      <guid>https://waltercedric.com/tags/cream/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>ice</title>
-      <link>https://waltercedric.com/tags/ice/</link>
-      <pubDate>Fri, 18 Aug 2023 11:03:17 +0000</pubDate>
-      <guid>https://waltercedric.com/tags/ice/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>icecream</title>
       <link>https://waltercedric.com/tags/icecream/</link>
       <pubDate>Fri, 18 Aug 2023 11:03:17 +0000</pubDate>
@@ -567,13 +567,6 @@
       <link>https://waltercedric.com/tags/bio/</link>
       <pubDate>Fri, 18 Aug 2023 10:06:21 +0000</pubDate>
       <guid>https://waltercedric.com/tags/bio/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>kitchen</title>
-      <link>https://waltercedric.com/tags/kitchen/</link>
-      <pubDate>Fri, 18 Aug 2023 10:06:21 +0000</pubDate>
-      <guid>https://waltercedric.com/tags/kitchen/</guid>
       <description></description>
     </item>
     <item>
@@ -836,13 +829,6 @@
       <description></description>
     </item>
     <item>
-      <title>raspberry</title>
-      <link>https://waltercedric.com/tags/raspberry/</link>
-      <pubDate>Mon, 13 Apr 2020 09:23:14 +0000</pubDate>
-      <guid>https://waltercedric.com/tags/raspberry/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>raspbian</title>
       <link>https://waltercedric.com/tags/raspbian/</link>
       <pubDate>Mon, 13 Apr 2020 09:23:14 +0000</pubDate>
@@ -1004,20 +990,6 @@
       <description></description>
     </item>
     <item>
-      <title>his</title>
-      <link>https://waltercedric.com/tags/his/</link>
-      <pubDate>Tue, 31 Mar 2020 10:47:16 +0000</pubDate>
-      <guid>https://waltercedric.com/tags/his/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>was</title>
-      <link>https://waltercedric.com/tags/was/</link>
-      <pubDate>Tue, 31 Mar 2020 10:47:16 +0000</pubDate>
-      <guid>https://waltercedric.com/tags/was/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>main</title>
       <link>https://waltercedric.com/tags/main/</link>
       <pubDate>Tue, 31 Mar 2020 10:39:23 +0000</pubDate>
@@ -1088,55 +1060,6 @@
       <description></description>
     </item>
     <item>
-      <title>break</title>
-      <link>https://waltercedric.com/tags/break/</link>
-      <pubDate>Sun, 23 Feb 2020 19:29:23 +0000</pubDate>
-      <guid>https://waltercedric.com/tags/break/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>check</title>
-      <link>https://waltercedric.com/tags/check/</link>
-      <pubDate>Sun, 23 Feb 2020 19:29:23 +0000</pubDate>
-      <guid>https://waltercedric.com/tags/check/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>color</title>
-      <link>https://waltercedric.com/tags/color/</link>
-      <pubDate>Sun, 23 Feb 2020 19:29:23 +0000</pubDate>
-      <guid>https://waltercedric.com/tags/color/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>contact</title>
-      <link>https://waltercedric.com/tags/contact/</link>
-      <pubDate>Sun, 23 Feb 2020 19:29:23 +0000</pubDate>
-      <guid>https://waltercedric.com/tags/contact/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>copy</title>
-      <link>https://waltercedric.com/tags/copy/</link>
-      <pubDate>Sun, 23 Feb 2020 19:29:23 +0000</pubDate>
-      <guid>https://waltercedric.com/tags/copy/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>cost</title>
-      <link>https://waltercedric.com/tags/cost/</link>
-      <pubDate>Sun, 23 Feb 2020 19:29:23 +0000</pubDate>
-      <guid>https://waltercedric.com/tags/cost/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>current</title>
-      <link>https://waltercedric.com/tags/current/</link>
-      <pubDate>Sun, 23 Feb 2020 19:29:23 +0000</pubDate>
-      <guid>https://waltercedric.com/tags/current/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>codefest</title>
       <link>https://waltercedric.com/tags/codefest/</link>
       <pubDate>Wed, 10 Jul 2019 04:55:01 +0000</pubDate>
@@ -1148,27 +1071,6 @@
       <link>https://waltercedric.com/tags/calculator/</link>
       <pubDate>Fri, 06 Feb 2015 08:40:17 +0000</pubDate>
       <guid>https://waltercedric.com/tags/calculator/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>graphing</title>
-      <link>https://waltercedric.com/tags/graphing/</link>
-      <pubDate>Fri, 06 Feb 2015 08:40:17 +0000</pubDate>
-      <guid>https://waltercedric.com/tags/graphing/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>hp</title>
-      <link>https://waltercedric.com/tags/hp/</link>
-      <pubDate>Fri, 06 Feb 2015 08:40:17 +0000</pubDate>
-      <guid>https://waltercedric.com/tags/hp/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>museum</title>
-      <link>https://waltercedric.com/tags/museum/</link>
-      <pubDate>Fri, 06 Feb 2015 08:40:17 +0000</pubDate>
-      <guid>https://waltercedric.com/tags/museum/</guid>
       <description></description>
     </item>
     <item>
@@ -1214,27 +1116,6 @@
       <description></description>
     </item>
     <item>
-      <title>cpu</title>
-      <link>https://waltercedric.com/tags/cpu/</link>
-      <pubDate>Mon, 07 Dec 2009 21:00:22 +0000</pubDate>
-      <guid>https://waltercedric.com/tags/cpu/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>day</title>
-      <link>https://waltercedric.com/tags/day/</link>
-      <pubDate>Mon, 07 Dec 2009 21:00:22 +0000</pubDate>
-      <guid>https://waltercedric.com/tags/day/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>designed</title>
-      <link>https://waltercedric.com/tags/designed/</link>
-      <pubDate>Mon, 07 Dec 2009 21:00:22 +0000</pubDate>
-      <guid>https://waltercedric.com/tags/designed/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>box</title>
       <link>https://waltercedric.com/tags/box/</link>
       <pubDate>Sat, 24 Oct 2009 23:55:25 +0000</pubDate>
@@ -1242,31 +1123,24 @@
       <description></description>
     </item>
     <item>
+      <title>color</title>
+      <link>https://waltercedric.com/tags/color/</link>
+      <pubDate>Sat, 24 Oct 2009 23:55:25 +0000</pubDate>
+      <guid>https://waltercedric.com/tags/color/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>hollidays</title>
       <link>https://waltercedric.com/tags/hollidays/</link>
-      <pubDate>Tue, 22 Jan 2008 22:04:08 +0000</pubDate>
+      <pubDate>Wed, 21 Nov 2007 13:48:31 +0000</pubDate>
       <guid>https://waltercedric.com/tags/hollidays/</guid>
       <description></description>
     </item>
     <item>
       <title>vacation</title>
       <link>https://waltercedric.com/tags/vacation/</link>
-      <pubDate>Tue, 22 Jan 2008 22:04:08 +0000</pubDate>
+      <pubDate>Wed, 21 Nov 2007 13:48:31 +0000</pubDate>
       <guid>https://waltercedric.com/tags/vacation/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>days</title>
-      <link>https://waltercedric.com/tags/days/</link>
-      <pubDate>Sun, 09 Dec 2007 12:23:15 +0000</pubDate>
-      <guid>https://waltercedric.com/tags/days/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>experience</title>
-      <link>https://waltercedric.com/tags/experience/</link>
-      <pubDate>Sun, 09 Dec 2007 12:23:15 +0000</pubDate>
-      <guid>https://waltercedric.com/tags/experience/</guid>
       <description></description>
     </item>
     <item>
@@ -1291,6 +1165,13 @@
       <description></description>
     </item>
     <item>
+      <title>france</title>
+      <link>https://waltercedric.com/tags/france/</link>
+      <pubDate>Thu, 11 May 2006 16:44:29 +0000</pubDate>
+      <guid>https://waltercedric.com/tags/france/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Mulhouse</title>
       <link>https://waltercedric.com/tags/mulhouse/</link>
       <pubDate>Thu, 11 May 2006 16:44:29 +0000</pubDate>
@@ -1309,6 +1190,13 @@
       <link>https://waltercedric.com/tags/buildings/</link>
       <pubDate>Sat, 04 Dec 2004 14:16:56 +0000</pubDate>
       <guid>https://waltercedric.com/tags/buildings/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>cost</title>
+      <link>https://waltercedric.com/tags/cost/</link>
+      <pubDate>Sat, 04 Dec 2004 14:16:56 +0000</pubDate>
+      <guid>https://waltercedric.com/tags/cost/</guid>
       <description></description>
     </item>
     <item>
@@ -1347,17 +1235,17 @@
       <description></description>
     </item>
     <item>
-      <title>france</title>
-      <link>https://waltercedric.com/tags/france/</link>
-      <pubDate>Sun, 21 Nov 2004 20:30:20 +0000</pubDate>
-      <guid>https://waltercedric.com/tags/france/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>built</title>
       <link>https://waltercedric.com/tags/built/</link>
       <pubDate>Thu, 18 Nov 2004 22:14:52 +0000</pubDate>
       <guid>https://waltercedric.com/tags/built/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>was</title>
+      <link>https://waltercedric.com/tags/was/</link>
+      <pubDate>Thu, 18 Nov 2004 22:14:52 +0000</pubDate>
+      <guid>https://waltercedric.com/tags/was/</guid>
       <description></description>
     </item>
     <item>
@@ -1372,6 +1260,13 @@
       <link>https://waltercedric.com/tags/construction/</link>
       <pubDate>Fri, 12 Nov 2004 22:44:54 +0000</pubDate>
       <guid>https://waltercedric.com/tags/construction/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>copy</title>
+      <link>https://waltercedric.com/tags/copy/</link>
+      <pubDate>Fri, 12 Nov 2004 22:44:54 +0000</pubDate>
+      <guid>https://waltercedric.com/tags/copy/</guid>
       <description></description>
     </item>
     <item>
@@ -1400,27 +1295,6 @@
       <link>https://waltercedric.com/tags/hewlettpackard/</link>
       <pubDate>Thu, 02 Sep 2004 20:17:53 +0000</pubDate>
       <guid>https://waltercedric.com/tags/hewlettpackard/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>hp48</title>
-      <link>https://waltercedric.com/tags/hp48/</link>
-      <pubDate>Thu, 02 Sep 2004 20:17:53 +0000</pubDate>
-      <guid>https://waltercedric.com/tags/hp48/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>hp49</title>
-      <link>https://waltercedric.com/tags/hp49/</link>
-      <pubDate>Thu, 02 Sep 2004 20:17:53 +0000</pubDate>
-      <guid>https://waltercedric.com/tags/hp49/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>hp50g</title>
-      <link>https://waltercedric.com/tags/hp50g/</link>
-      <pubDate>Thu, 02 Sep 2004 20:17:53 +0000</pubDate>
-      <guid>https://waltercedric.com/tags/hp50g/</guid>
       <description></description>
     </item>
     <item>

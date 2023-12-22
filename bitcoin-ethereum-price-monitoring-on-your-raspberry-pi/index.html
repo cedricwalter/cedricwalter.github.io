@@ -210,6 +210,17 @@ Raspberry pi 1, single core, will require an Ethernet cable Raspberry pi 2 , dua
 
             
 
+            
+            
+              <p>
+                Tags:
+                
+                  <a href="/tags/bitcoin/">bitcoin</a>, 
+                  <a href="/tags/raspberrypi/">raspberrypi</a>, 
+                  <a href="/tags/raspbian/">raspbian</a>
+              </p>
+            
+
         </h1>
       </header>
 
@@ -246,8 +257,8 @@ Raspberry pi 1, single core, will require an Ethernet cable Raspberry pi 2 , dua
 </ul>
 <h2 id="installing-the-software">Installing the Software</h2>
 <p>Your SD-card needs to contain the software. You can take the long road by <strong>building the SD-card</strong> image yourself or <strong>use the already prepared SD-Card image:</strong></p>
-<p><strong>Download SD-Card image – Version 1.0:</strong> <strong><!-- raw HTML omitted -->SOON</strong></p>
-<p>SHA-256: <strong><!-- raw HTML omitted -->xxxxxxxxxxx</strong></p>
+<p><strong>Download SD-Card image – Version 1.0:</strong> <strong>SOON</strong></p>
+<p>SHA-256: <strong>xxxxxxxxxxx</strong></p>
 <p><strong>Write the SD-Card image to your SD Card</strong></p>
 <p>You need to write the downloaded SD card image (the img.gz-file) to your SD card (16 GB minimum) – you can use the very easy tool Balena Etcher for this: <a href="https://www.balena.io/etcher/">https://www.balena.io/etcher/</a> .. it &rsquo;s available for Win, Mac &amp; Linux.</p>
 <p>Insert the SD card and connect the power plug.</p>
@@ -309,15 +320,15 @@ Raspberry pi 1, single core, will require an Ethernet cable Raspberry pi 2 , dua
 </span></span><span style="display:flex;"><span>sudo nginx -t
 </span></span><span style="display:flex;"><span>sudo systemctl reload nginx<span style="color:#e6db74">```</span>
 </span></span><span style="display:flex;"><span>
-</span></span><span style="display:flex;"><span><span style="color:#75715e">## Disable screensaver </span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e">## Disable screensaver</span>
 </span></span><span style="display:flex;"><span>
 </span></span><span style="display:flex;"><span>Go to **Preferences **&gt; **Screensaver **and disable the screensaver.
 </span></span><span style="display:flex;"><span>
-</span></span><span style="display:flex;"><span><span style="color:#75715e">## Choose your cryptocurrency </span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e">## Choose your cryptocurrency</span>
 </span></span><span style="display:flex;"><span>
 </span></span><span style="display:flex;"><span><span style="color:#e6db74">```</span>bash cd  /var/www/html
 </span></span><span style="display:flex;"><span>
-</span></span><span style="display:flex;"><span><span style="color:#75715e"># to display Bitcoin price </span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># to display Bitcoin price</span>
 </span></span><span style="display:flex;"><span>sudo wget https://github.com/cedricwalter/raspicryptoticker/files/4466181/bitcoin.zip
 </span></span><span style="display:flex;"><span>sudo unzip bitcoin.zip
 </span></span><span style="display:flex;"><span>
@@ -328,7 +339,7 @@ Raspberry pi 1, single core, will require an Ethernet cable Raspberry pi 2 , dua
 <p>My screen is the <!-- raw HTML omitted -->3.5” version<!-- raw HTML omitted --></p>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>sudo apt update
 </span></span><span style="display:flex;"><span>sudo apt upgrade
-</span></span><span style="display:flex;"><span>sudo apt install git 
+</span></span><span style="display:flex;"><span>sudo apt install git
 </span></span><span style="display:flex;"><span>rm -r LCD-show
 </span></span><span style="display:flex;"><span>git clone https://github.com/goodtft/LCD-show.git
 </span></span><span style="display:flex;"><span>sudo chmod -R <span style="color:#ae81ff">755</span> LCD-show
@@ -336,7 +347,7 @@ Raspberry pi 1, single core, will require an Ethernet cable Raspberry pi 2 , dua
 </span></span><span style="display:flex;"><span>sudo apt-mark hold raspberrypi-bootloader
 </span></span><span style="display:flex;"><span>sudo ./LCD35-show  <span style="color:#75715e"># PI will reboot now automatically```</span>
 </span></span><span style="display:flex;"><span>
-</span></span><span style="display:flex;"><span>-deactivate  
+</span></span><span style="display:flex;"><span>-deactivate
 </span></span><span style="display:flex;"><span>This tells xscreensaver to pretend that there has just been user activity. This means that <span style="color:#66d9ef">if</span> the screensaver is active <span style="color:#f92672">(</span>the screen is blanked<span style="color:#f92672">)</span>, <span style="color:#66d9ef">then</span> this command will cause the screen to un-blank as <span style="color:#66d9ef">if</span> there had been keyboard or mouse activity. If the screen is locked, <span style="color:#66d9ef">then</span> the password dialog will pop up first, as usual. If the screen is not blanked, <span style="color:#66d9ef">then</span> this simulated user activity will re-start the countdown <span style="color:#f92672">(</span>so, issuing the -deactivate command periodically is one way to prevent the screen from blanking.<span style="color:#f92672">)</span>
 </span></span><span style="display:flex;"><span>
 </span></span><span style="display:flex;"><span> <span style="color:#f92672">[</span>1<span style="color:#f92672">]</span>: https://github.com/Head/raspberry-pi-chart
@@ -416,42 +427,6 @@ Raspberry pi 1, single core, will require an Ethernet cable Raspberry pi 2 , dua
     
     
     
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
     
       
     
@@ -982,12 +957,6 @@ Raspberry pi 1, single core, will require an Ethernet cable Raspberry pi 2 , dua
           
           
           
-            <a class="ui label" href="/tags/break/" title="break">
-              break
-            </a>
-          
-          
-          
             <a class="ui label" href="/tags/building/" title="building">
               building
             </a>
@@ -1026,12 +995,6 @@ Raspberry pi 1, single core, will require an Ethernet cable Raspberry pi 2 , dua
           
             <a class="ui label" href="/tags/cc2500/" title="cc2500">
               cc2500
-            </a>
-          
-          
-          
-            <a class="ui label" href="/tags/check/" title="check">
-              check
             </a>
           
           
@@ -1102,12 +1065,6 @@ Raspberry pi 1, single core, will require an Ethernet cable Raspberry pi 2 , dua
           
           
           
-            <a class="ui label" href="/tags/contact/" title="contact">
-              contact
-            </a>
-          
-          
-          
             <a class="ui label" href="/tags/contest/" title="contest">
               contest
             </a>
@@ -1138,18 +1095,6 @@ Raspberry pi 1, single core, will require an Ethernet cable Raspberry pi 2 , dua
           
           
           
-            <a class="ui label" href="/tags/cpu/" title="cpu">
-              cpu
-            </a>
-          
-          
-          
-            <a class="ui label" href="/tags/cream/" title="cream">
-              cream
-            </a>
-          
-          
-          
             <a class="ui label" href="/tags/created/" title="created">
               created
             </a>
@@ -1162,24 +1107,6 @@ Raspberry pi 1, single core, will require an Ethernet cable Raspberry pi 2 , dua
           
           
           
-            <a class="ui label" href="/tags/current/" title="current">
-              current
-            </a>
-          
-          
-          
-            <a class="ui label" href="/tags/day/" title="day">
-              day
-            </a>
-          
-          
-          
-            <a class="ui label" href="/tags/days/" title="days">
-              days
-            </a>
-          
-          
-          
             <a class="ui label" href="/tags/decentralized/" title="decentralized">
               decentralized
             </a>
@@ -1188,12 +1115,6 @@ Raspberry pi 1, single core, will require an Ethernet cable Raspberry pi 2 , dua
           
             <a class="ui label" href="/tags/design/" title="Design">
               Design
-            </a>
-          
-          
-          
-            <a class="ui label" href="/tags/designed/" title="designed">
-              designed
             </a>
           
           
@@ -1236,6 +1157,12 @@ Raspberry pi 1, single core, will require an Ethernet cable Raspberry pi 2 , dua
           
             <a class="ui label" href="/tags/ebike/" title="ebike">
               ebike
+            </a>
+          
+          
+          
+            <a class="ui label" href="/tags/ecology/" title="ecology">
+              ecology
             </a>
           
           
@@ -1290,12 +1217,6 @@ Raspberry pi 1, single core, will require an Ethernet cable Raspberry pi 2 , dua
           
             <a class="ui label" href="/tags/evoque/" title="evoque">
               evoque
-            </a>
-          
-          
-          
-            <a class="ui label" href="/tags/experience/" title="experience">
-              experience
             </a>
           
           
@@ -1366,12 +1287,6 @@ Raspberry pi 1, single core, will require an Ethernet cable Raspberry pi 2 , dua
           
           
           
-            <a class="ui label" href="/tags/graphing/" title="graphing">
-              graphing
-            </a>
-          
-          
-          
             <a class="ui label" href="/tags/guide/" title="guide">
               guide
             </a>
@@ -1404,12 +1319,6 @@ Raspberry pi 1, single core, will require an Ethernet cable Raspberry pi 2 , dua
           
             <a class="ui label" href="/tags/hewlettpackard/" title="hewlettpackard">
               hewlettpackard
-            </a>
-          
-          
-          
-            <a class="ui label" href="/tags/his/" title="his">
-              his
             </a>
           
           
@@ -1458,36 +1367,6 @@ Raspberry pi 1, single core, will require an Ethernet cable Raspberry pi 2 , dua
           
             <a class="ui label" href="/tags/howto/" title="HowTo">
               HowTo
-            </a>
-          
-          
-          
-            <a class="ui label" href="/tags/hp/" title="hp">
-              hp
-            </a>
-          
-          
-          
-            <a class="ui label" href="/tags/hp48/" title="hp48">
-              hp48
-            </a>
-          
-          
-          
-            <a class="ui label" href="/tags/hp49/" title="hp49">
-              hp49
-            </a>
-          
-          
-          
-            <a class="ui label" href="/tags/hp50g/" title="hp50g">
-              hp50g
-            </a>
-          
-          
-          
-            <a class="ui label" href="/tags/ice/" title="ice">
-              ice
             </a>
           
           
@@ -1666,12 +1545,6 @@ Raspberry pi 1, single core, will require an Ethernet cable Raspberry pi 2 , dua
           
           
           
-            <a class="ui label" href="/tags/museum/" title="museum">
-              museum
-            </a>
-          
-          
-          
             <a class="ui label" href="/tags/mvs/" title="mvs">
               mvs
             </a>
@@ -1770,12 +1643,6 @@ Raspberry pi 1, single core, will require an Ethernet cable Raspberry pi 2 , dua
           
             <a class="ui label" href="/tags/rainforest/" title="rainforest">
               rainforest
-            </a>
-          
-          
-          
-            <a class="ui label" href="/tags/raspberry/" title="raspberry">
-              raspberry
             </a>
           
           
@@ -1896,6 +1763,12 @@ Raspberry pi 1, single core, will require an Ethernet cable Raspberry pi 2 , dua
           
             <a class="ui label" href="/tags/snk-neo-geo/" title="SNK Neo Geo">
               SNK Neo Geo
+            </a>
+          
+          
+          
+            <a class="ui label" href="/tags/soap/" title="soap">
+              soap
             </a>
           
           
@@ -2052,12 +1925,6 @@ Raspberry pi 1, single core, will require an Ethernet cable Raspberry pi 2 , dua
           
             <a class="ui label" href="/tags/winterthur/" title="winterthur">
               winterthur
-            </a>
-          
-          
-          
-            <a class="ui label" href="/tags/zorro/" title="zorro">
-              zorro
             </a>
           
           

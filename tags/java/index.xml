@@ -28,7 +28,7 @@
       <link>https://waltercedric.com/enterprise-grade-performances-tuning-with-critical-memory-constraints-part-2/</link>
       <pubDate>Fri, 19 Oct 2007 14:56:18 +0000</pubDate>
       <guid>https://waltercedric.com/enterprise-grade-performances-tuning-with-critical-memory-constraints-part-2/</guid>
-      <description>Still not enough, we were forced to profile the java code and make some big changes…. (from part 1)&#xA;Profiling&#xA;You either profile an application for speed and/or memory usage and/or memory leaks. Our application is fast enough at the moment. Our major concern is optimizing memory usage and thus avoiding disk memory swapping.&#xA;Some words about architecture&#xA;It is not possible to profile any applications without having a deep understanding of the architecture behind.</description>
+      <description>Still not enough, we were forced to profile the java code and make some big changes. (from part 1)&#xA;Profiling&#xA;You either profile an application for speed and/or memory usage and/or memory leaks. Our application is fast enough at the moment. Our major concern is optimizing memory usage and thus avoiding disk memory swapping.&#xA;Some words about architecture&#xA;It is not possible to profile any applications without having a deep understanding of the architecture behind.</description>
     </item>
   </channel>
 </rss>

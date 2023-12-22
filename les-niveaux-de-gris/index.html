@@ -147,7 +147,7 @@ Technique des niveaux de gris Pour afficher des niveaux de gris, il suffit de ch
   <ul>
     <li><a href="#technique-des-niveaux-de-gris">Technique des niveaux de gris</a></li>
     <li><a href="#le-codage-des-images">Le codage des images</a></li>
-    <li><a href="#un-exemple-de-programme8230">Un exemple de programme…</a></li>
+    <li><a href="#un-exemple-de-programme">Un exemple de programme</a></li>
   </ul>
 </nav>
     </div>
@@ -200,6 +200,17 @@ Technique des niveaux de gris Pour afficher des niveaux de gris, il suffit de ch
               
 
 
+            
+
+            
+            
+              <p>
+                Tags:
+                
+                  <a href="/tags/calculator/">calculator</a>, 
+                  <a href="/tags/rpn/">rpn</a>, 
+                  <a href="/tags/scientific/">scientific</a>
+              </p>
             
 
         </h1>
@@ -454,7 +465,7 @@ Technique des niveaux de gris Pour afficher des niveaux de gris, il suffit de ch
 <p>Pour donner une impression de niveaux de gris, il faut que le grob 4 soit afficher 2 fois plus longtemps que le grob 3 qui lui même est afficher 2 fois plus longtemps que le grob 2 qui lui l &rsquo;est deux fois plus que le grob 1.</p>
 <p>En résumé : grob 1 : 1 fois sur 15, grob 2 : 2 fois sur 15, grob 3 : 4 fois sur 15, grob 4 : 8 fois sur 15.</p>
 <p>Pour limiter le clignotement on peut faire boucler la suite d &lsquo;images : 4/3/2/4/3/4/1/4/3/4/2/4/3/4</p>
-<h2 id="un-exemple-de-programme8230">Un exemple de programme…</h2>
+<h2 id="un-exemple-de-programme">Un exemple de programme</h2>
 <p>Ci-joint …un programme qui prend un grob 131*256 en argument ( les grob 4 , 3 , 2 , 1 sont dans le fichier dans cet ordre) et qui l &lsquo;affiche en 16 niveaux de gris, puis en 8 niveaux et enfin en 4 niveaux apprès chaque appui sur une touche.</p>
 <p><code>bash % Sauvegarde des registres !PC !0-15 GOSBVL 0679B INTOFF %ST=0 15 % Charge ds R1 l'adresse du grob (on saute le prologue) A=DAT1 A LC 00014 A=A+C A R1=A % Charge ds R0 l'adresse de la zone de travail  LC 02201 GOSBVL 05B7D AD0EX ?ABIT=0 0 %une particularité du gestionnaire d'écran qui n'accepte que les adresses paires.  GOYES PAIR A=A+1 A *PAIR R0=A % On recopie l'écran dans la zone de travail A=R1 A D0=A A=R0 A D1=A LC 02200 GOSBVL 0670C % Mise zéro de la hauteur des menus, on écrit 3F en 128h D0= 00128 LA 3F DAT0=A B %A contient l'adresse de la bitmap en cours d'affichage LA 8068D pour G(x) ou LA 7050E pour S(x)  LA 8068D D1=A A=DAT1 A R3=A A % Boucle principale % Adresses des différents grobs dans le grob 131*256  % GROB 4 : R0 % GROB 3 : R0 + 880h % GROB 2 : R0 + 1100h % GROB 1 : R0 + 1980h D1= 00120  *AFFICHE_16_NIVO GOSUB AFFICHE_GRB4 GOSUB AFFICHE_GRB3 GOSUB AFFICHE_GRB4 GOSUB AFFICHE_GRB2 GOSUB AFFICHE_GRB4 GOSUB AFFICHE_GRB3 GOSUB AFFICHE_GRB4 GOSUB AFFICHE_GRB1 GOSUB AFFICHE_GRB4 GOSUB AFFICHE_GRB3 GOSUB AFFICHE_GRB4 GOSUB AFFICHE_GRB2 GOSUB AFFICHE_GRB4 GOSUB AFFICHE_GRB3 GOSUB AFFICHE_GRB4 LC 001FF %Masque universel pour les touches OUT=C C=IN LA 0001F A=A&amp;C A ?A=0 A %si pas de touche, on continue GOYES AFFICHE_16_NIVO  *AFFICHE_8_NIVO GOSUB AFFICHE_GRB3 GOSUB AFFICHE_GRB2 GOSUB AFFICHE_GRB3 GOSUB AFFICHE_GRB1 GOSUB AFFICHE_GRB3 GOSUB AFFICHE_GRB2 GOSUB AFFICHE_GRB3 LC 001FF OUT=C GOSBVL 01160 LA 0001F A=A&amp;C A ?A=0 A GOYES AFFICHE_8_NIVO  *AFFICHE_4_NIVO GOSUB AFFICHE_GRB2 GOSUB AFFICHE_GRB1 GOSUB AFFICHE_GRB2 LC 001FF OUT=C GOSBVL 01160 LA 0001F A=A&amp;C A ?A=0 A GOYES AFFICHE_4_NIVO  % Remise en ordre du contexte pour une sortie propre D0= 00128 LA 37 %réapparition des menus DAT0=A B D1= 00120 A=R3 A DAT1=A A %ST=1 15 INTON GOSBVL 067D2 A=DAT0 A D0=D0+ 5 PC=(A)  *AFFICHE_GRB4 C=R0 GOTO AFFICHE  *AFFICHE_GRB3 C=R0 LA 00880 C=C+A A GOTO AFFICHE  *AFFICHE_GRB2 C=R0 LA 01100 C=C+A A GOTO AFFICHE  *AFFICHE_GRB1 C=R0 LA 01980 C=C+A A GOTO AFFICHE  *AFFICHE %Une boucle d'attente, sinon c'est trop rapide LA 000FF *WASTETIME A=A-1 A GONC WASTETIME  *VSYNC %Attente du passage par zéro du compteur en 128h A=DAT0 B ?A#0 B GOYES VSYNC DAT1=C A RTN @ </code></p>
 
@@ -529,42 +540,6 @@ Technique des niveaux de gris Pour afficher des niveaux de gris, il suffit de ch
     
     
     
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
     
       
     
@@ -1095,12 +1070,6 @@ Technique des niveaux de gris Pour afficher des niveaux de gris, il suffit de ch
           
           
           
-            <a class="ui label" href="/tags/break/" title="break">
-              break
-            </a>
-          
-          
-          
             <a class="ui label" href="/tags/building/" title="building">
               building
             </a>
@@ -1139,12 +1108,6 @@ Technique des niveaux de gris Pour afficher des niveaux de gris, il suffit de ch
           
             <a class="ui label" href="/tags/cc2500/" title="cc2500">
               cc2500
-            </a>
-          
-          
-          
-            <a class="ui label" href="/tags/check/" title="check">
-              check
             </a>
           
           
@@ -1215,12 +1178,6 @@ Technique des niveaux de gris Pour afficher des niveaux de gris, il suffit de ch
           
           
           
-            <a class="ui label" href="/tags/contact/" title="contact">
-              contact
-            </a>
-          
-          
-          
             <a class="ui label" href="/tags/contest/" title="contest">
               contest
             </a>
@@ -1251,18 +1208,6 @@ Technique des niveaux de gris Pour afficher des niveaux de gris, il suffit de ch
           
           
           
-            <a class="ui label" href="/tags/cpu/" title="cpu">
-              cpu
-            </a>
-          
-          
-          
-            <a class="ui label" href="/tags/cream/" title="cream">
-              cream
-            </a>
-          
-          
-          
             <a class="ui label" href="/tags/created/" title="created">
               created
             </a>
@@ -1275,24 +1220,6 @@ Technique des niveaux de gris Pour afficher des niveaux de gris, il suffit de ch
           
           
           
-            <a class="ui label" href="/tags/current/" title="current">
-              current
-            </a>
-          
-          
-          
-            <a class="ui label" href="/tags/day/" title="day">
-              day
-            </a>
-          
-          
-          
-            <a class="ui label" href="/tags/days/" title="days">
-              days
-            </a>
-          
-          
-          
             <a class="ui label" href="/tags/decentralized/" title="decentralized">
               decentralized
             </a>
@@ -1301,12 +1228,6 @@ Technique des niveaux de gris Pour afficher des niveaux de gris, il suffit de ch
           
             <a class="ui label" href="/tags/design/" title="Design">
               Design
-            </a>
-          
-          
-          
-            <a class="ui label" href="/tags/designed/" title="designed">
-              designed
             </a>
           
           
@@ -1349,6 +1270,12 @@ Technique des niveaux de gris Pour afficher des niveaux de gris, il suffit de ch
           
             <a class="ui label" href="/tags/ebike/" title="ebike">
               ebike
+            </a>
+          
+          
+          
+            <a class="ui label" href="/tags/ecology/" title="ecology">
+              ecology
             </a>
           
           
@@ -1403,12 +1330,6 @@ Technique des niveaux de gris Pour afficher des niveaux de gris, il suffit de ch
           
             <a class="ui label" href="/tags/evoque/" title="evoque">
               evoque
-            </a>
-          
-          
-          
-            <a class="ui label" href="/tags/experience/" title="experience">
-              experience
             </a>
           
           
@@ -1479,12 +1400,6 @@ Technique des niveaux de gris Pour afficher des niveaux de gris, il suffit de ch
           
           
           
-            <a class="ui label" href="/tags/graphing/" title="graphing">
-              graphing
-            </a>
-          
-          
-          
             <a class="ui label" href="/tags/guide/" title="guide">
               guide
             </a>
@@ -1517,12 +1432,6 @@ Technique des niveaux de gris Pour afficher des niveaux de gris, il suffit de ch
           
             <a class="ui label" href="/tags/hewlettpackard/" title="hewlettpackard">
               hewlettpackard
-            </a>
-          
-          
-          
-            <a class="ui label" href="/tags/his/" title="his">
-              his
             </a>
           
           
@@ -1571,36 +1480,6 @@ Technique des niveaux de gris Pour afficher des niveaux de gris, il suffit de ch
           
             <a class="ui label" href="/tags/howto/" title="HowTo">
               HowTo
-            </a>
-          
-          
-          
-            <a class="ui label" href="/tags/hp/" title="hp">
-              hp
-            </a>
-          
-          
-          
-            <a class="ui label" href="/tags/hp48/" title="hp48">
-              hp48
-            </a>
-          
-          
-          
-            <a class="ui label" href="/tags/hp49/" title="hp49">
-              hp49
-            </a>
-          
-          
-          
-            <a class="ui label" href="/tags/hp50g/" title="hp50g">
-              hp50g
-            </a>
-          
-          
-          
-            <a class="ui label" href="/tags/ice/" title="ice">
-              ice
             </a>
           
           
@@ -1779,12 +1658,6 @@ Technique des niveaux de gris Pour afficher des niveaux de gris, il suffit de ch
           
           
           
-            <a class="ui label" href="/tags/museum/" title="museum">
-              museum
-            </a>
-          
-          
-          
             <a class="ui label" href="/tags/mvs/" title="mvs">
               mvs
             </a>
@@ -1883,12 +1756,6 @@ Technique des niveaux de gris Pour afficher des niveaux de gris, il suffit de ch
           
             <a class="ui label" href="/tags/rainforest/" title="rainforest">
               rainforest
-            </a>
-          
-          
-          
-            <a class="ui label" href="/tags/raspberry/" title="raspberry">
-              raspberry
             </a>
           
           
@@ -2009,6 +1876,12 @@ Technique des niveaux de gris Pour afficher des niveaux de gris, il suffit de ch
           
             <a class="ui label" href="/tags/snk-neo-geo/" title="SNK Neo Geo">
               SNK Neo Geo
+            </a>
+          
+          
+          
+            <a class="ui label" href="/tags/soap/" title="soap">
+              soap
             </a>
           
           
@@ -2165,12 +2038,6 @@ Technique des niveaux de gris Pour afficher des niveaux de gris, il suffit de ch
           
             <a class="ui label" href="/tags/winterthur/" title="winterthur">
               winterthur
-            </a>
-          
-          
-          
-            <a class="ui label" href="/tags/zorro/" title="zorro">
-              zorro
             </a>
           
           

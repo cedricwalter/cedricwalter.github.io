@@ -8,16 +8,10 @@
     <loc>https://waltercedric.com/</loc>
     <lastmod>2023-12-22T14:05:31+01:00</lastmod>
   </url><url>
-    <loc>https://waltercedric.com/tags/docker/</loc>
+    <loc>https://waltercedric.com/categories/consumer/</loc>
     <lastmod>2023-12-22T14:05:31+01:00</lastmod>
   </url><url>
-    <loc>https://waltercedric.com/tags/homelab/</loc>
-    <lastmod>2023-12-22T14:05:31+01:00</lastmod>
-  </url><url>
-    <loc>https://waltercedric.com/categories/homelab/</loc>
-    <lastmod>2023-12-22T14:05:31+01:00</lastmod>
-  </url><url>
-    <loc>https://waltercedric.com/tags/howto/</loc>
+    <loc>https://waltercedric.com/tags/ecology/</loc>
     <lastmod>2023-12-22T14:05:31+01:00</lastmod>
   </url><url>
     <loc>https://waltercedric.com/posts/ecology/savon/</loc>
@@ -26,13 +20,28 @@
     <loc>https://waltercedric.com/posts/</loc>
     <lastmod>2023-12-22T14:05:31+01:00</lastmod>
   </url><url>
-    <loc>https://waltercedric.com/tags/privacy/</loc>
+    <loc>https://waltercedric.com/tags/soap/</loc>
     <lastmod>2023-12-22T14:05:31+01:00</lastmod>
   </url><url>
     <loc>https://waltercedric.com/tags/</loc>
     <lastmod>2023-12-22T14:05:31+01:00</lastmod>
   </url><url>
+    <loc>https://waltercedric.com/tags/docker/</loc>
+    <lastmod>2023-12-22T12:55:31+01:00</lastmod>
+  </url><url>
+    <loc>https://waltercedric.com/tags/homelab/</loc>
+    <lastmod>2023-12-22T12:55:31+01:00</lastmod>
+  </url><url>
+    <loc>https://waltercedric.com/categories/homelab/</loc>
+    <lastmod>2023-12-22T12:55:31+01:00</lastmod>
+  </url><url>
     <loc>https://waltercedric.com/posts/homelab/homelab-tools/</loc>
+    <lastmod>2023-12-22T12:55:31+01:00</lastmod>
+  </url><url>
+    <loc>https://waltercedric.com/tags/howto/</loc>
+    <lastmod>2023-12-22T12:55:31+01:00</lastmod>
+  </url><url>
+    <loc>https://waltercedric.com/tags/privacy/</loc>
     <lastmod>2023-12-22T12:55:31+01:00</lastmod>
   </url><url>
     <loc>https://waltercedric.com/switzerland/alternate-way-to-watch-init7-tv7-swiss-live-streaming-broadcast-television/</loc>
@@ -101,9 +110,6 @@
     <loc>https://waltercedric.com/tags/vintage/</loc>
     <lastmod>2023-10-20T08:10:55+00:00</lastmod>
   </url><url>
-    <loc>https://waltercedric.com/categories/consumer/</loc>
-    <lastmod>2023-10-17T14:50:40+00:00</lastmod>
-  </url><url>
     <loc>https://waltercedric.com/tags/fake/</loc>
     <lastmod>2023-10-17T14:50:40+00:00</lastmod>
   </url><url>
@@ -111,6 +117,9 @@
     <lastmod>2023-10-17T14:50:40+00:00</lastmod>
   </url><url>
     <loc>https://waltercedric.com/how-to-spot-fake-honey/</loc>
+    <lastmod>2023-10-17T14:50:40+00:00</lastmod>
+  </url><url>
+    <loc>https://waltercedric.com/tags/kitchen/</loc>
     <lastmod>2023-10-17T14:50:40+00:00</lastmod>
   </url><url>
     <loc>https://waltercedric.com/tags/helicopter/</loc>
@@ -198,9 +207,6 @@
     <lastmod>2023-09-10T16:07:48+00:00</lastmod>
   </url><url>
     <loc>https://waltercedric.com/rc-helicopter-airplanes-fpv-drone/wltoys-xk-a280-rc-airplane/</loc>
-    <lastmod>2023-09-10T16:07:48+00:00</lastmod>
-  </url><url>
-    <loc>https://waltercedric.com/tags/zorro/</loc>
     <lastmod>2023-09-10T16:07:48+00:00</lastmod>
   </url><url>
     <loc>https://waltercedric.com/tags/alpine/</loc>
@@ -353,12 +359,6 @@
     <loc>https://waltercedric.com/tags/beware/</loc>
     <lastmod>2023-08-18T11:03:17+00:00</lastmod>
   </url><url>
-    <loc>https://waltercedric.com/tags/cream/</loc>
-    <lastmod>2023-08-18T11:03:17+00:00</lastmod>
-  </url><url>
-    <loc>https://waltercedric.com/tags/ice/</loc>
-    <lastmod>2023-08-18T11:03:17+00:00</lastmod>
-  </url><url>
     <loc>https://waltercedric.com/tags/icecream/</loc>
     <lastmod>2023-08-18T11:03:17+00:00</lastmod>
   </url><url>
@@ -369,9 +369,6 @@
     <lastmod>2023-08-18T11:03:17+00:00</lastmod>
   </url><url>
     <loc>https://waltercedric.com/tags/bio/</loc>
-    <lastmod>2023-08-18T10:06:21+00:00</lastmod>
-  </url><url>
-    <loc>https://waltercedric.com/tags/kitchen/</loc>
     <lastmod>2023-08-18T10:06:21+00:00</lastmod>
   </url><url>
     <loc>https://waltercedric.com/lactofermentation/</loc>
@@ -555,9 +552,6 @@
     <lastmod>2020-04-13T09:23:14+00:00</lastmod>
   </url><url>
     <loc>https://waltercedric.com/cryptocurrency-monitor-with-unicorn-hat/</loc>
-    <lastmod>2020-04-13T09:23:14+00:00</lastmod>
-  </url><url>
-    <loc>https://waltercedric.com/tags/raspberry/</loc>
     <lastmod>2020-04-13T09:23:14+00:00</lastmod>
   </url><url>
     <loc>https://waltercedric.com/tags/raspbian/</loc>
@@ -812,13 +806,7 @@
     <loc>https://waltercedric.com/la-tour-de-peilz/</loc>
     <lastmod>2020-03-31T10:55:54+00:00</lastmod>
   </url><url>
-    <loc>https://waltercedric.com/tags/his/</loc>
-    <lastmod>2020-03-31T10:47:16+00:00</lastmod>
-  </url><url>
     <loc>https://waltercedric.com/vevey-in-the-canton-of-vaud-switzerland/</loc>
-    <lastmod>2020-03-31T10:47:16+00:00</lastmod>
-  </url><url>
-    <loc>https://waltercedric.com/tags/was/</loc>
     <lastmod>2020-03-31T10:47:16+00:00</lastmod>
   </url><url>
     <loc>https://waltercedric.com/walensee-in-st-gallen/</loc>
@@ -869,27 +857,6 @@
     <loc>https://waltercedric.com/posts/blog/privacy/</loc>
     <lastmod>2020-03-08T19:13:19+00:00</lastmod>
   </url><url>
-    <loc>https://waltercedric.com/tags/break/</loc>
-    <lastmod>2020-02-23T19:29:23+00:00</lastmod>
-  </url><url>
-    <loc>https://waltercedric.com/tags/check/</loc>
-    <lastmod>2020-02-23T19:29:23+00:00</lastmod>
-  </url><url>
-    <loc>https://waltercedric.com/tags/color/</loc>
-    <lastmod>2020-02-23T19:29:23+00:00</lastmod>
-  </url><url>
-    <loc>https://waltercedric.com/tags/contact/</loc>
-    <lastmod>2020-02-23T19:29:23+00:00</lastmod>
-  </url><url>
-    <loc>https://waltercedric.com/tags/copy/</loc>
-    <lastmod>2020-02-23T19:29:23+00:00</lastmod>
-  </url><url>
-    <loc>https://waltercedric.com/tags/cost/</loc>
-    <lastmod>2020-02-23T19:29:23+00:00</lastmod>
-  </url><url>
-    <loc>https://waltercedric.com/tags/current/</loc>
-    <lastmod>2020-02-23T19:29:23+00:00</lastmod>
-  </url><url>
     <loc>https://waltercedric.com/upgrading-your-picade-8-to-10/</loc>
     <lastmod>2020-02-23T19:29:23+00:00</lastmod>
   </url><url>
@@ -920,19 +887,10 @@
     <loc>https://waltercedric.com/tags/calculator/</loc>
     <lastmod>2015-02-06T08:40:17+00:00</lastmod>
   </url><url>
-    <loc>https://waltercedric.com/tags/graphing/</loc>
-    <lastmod>2015-02-06T08:40:17+00:00</lastmod>
-  </url><url>
-    <loc>https://waltercedric.com/tags/hp/</loc>
-    <lastmod>2015-02-06T08:40:17+00:00</lastmod>
-  </url><url>
-    <loc>https://waltercedric.com/categories/hp48/</loc>
+    <loc>https://waltercedric.com/categories/hewlett-packard/</loc>
     <lastmod>2015-02-06T08:40:17+00:00</lastmod>
   </url><url>
     <loc>https://waltercedric.com/les-niveaux-de-gris/</loc>
-    <lastmod>2015-02-06T08:40:17+00:00</lastmod>
-  </url><url>
-    <loc>https://waltercedric.com/tags/museum/</loc>
     <lastmod>2015-02-06T08:40:17+00:00</lastmod>
   </url><url>
     <loc>https://waltercedric.com/tags/rpn/</loc>
@@ -971,15 +929,6 @@
     <loc>https://waltercedric.com/tags/console/</loc>
     <lastmod>2009-12-07T21:00:22+00:00</lastmod>
   </url><url>
-    <loc>https://waltercedric.com/tags/cpu/</loc>
-    <lastmod>2009-12-07T21:00:22+00:00</lastmod>
-  </url><url>
-    <loc>https://waltercedric.com/tags/day/</loc>
-    <lastmod>2009-12-07T21:00:22+00:00</lastmod>
-  </url><url>
-    <loc>https://waltercedric.com/tags/designed/</loc>
-    <lastmod>2009-12-07T21:00:22+00:00</lastmod>
-  </url><url>
     <loc>https://waltercedric.com/games/neo-geo-cdz-0013836/</loc>
     <lastmod>2009-12-07T21:00:22+00:00</lastmod>
   </url><url>
@@ -992,26 +941,14 @@
     <loc>https://waltercedric.com/tags/box/</loc>
     <lastmod>2009-10-24T23:55:25+00:00</lastmod>
   </url><url>
+    <loc>https://waltercedric.com/tags/color/</loc>
+    <lastmod>2009-10-24T23:55:25+00:00</lastmod>
+  </url><url>
     <loc>https://waltercedric.com/games/neo-geo-pocket-color/</loc>
     <lastmod>2009-10-24T23:55:25+00:00</lastmod>
   </url><url>
     <loc>https://waltercedric.com/games/snk-neo-geo-aes-total-costs/</loc>
     <lastmod>2008-09-10T22:50:26+00:00</lastmod>
-  </url><url>
-    <loc>https://waltercedric.com/gallery-of-my-tasmania-trip-is-online/</loc>
-    <lastmod>2008-01-22T22:04:08+00:00</lastmod>
-  </url><url>
-    <loc>https://waltercedric.com/tags/hollidays/</loc>
-    <lastmod>2008-01-22T22:04:08+00:00</lastmod>
-  </url><url>
-    <loc>https://waltercedric.com/tags/vacation/</loc>
-    <lastmod>2008-01-22T22:04:08+00:00</lastmod>
-  </url><url>
-    <loc>https://waltercedric.com/tags/days/</loc>
-    <lastmod>2007-12-09T12:23:15+00:00</lastmod>
-  </url><url>
-    <loc>https://waltercedric.com/tags/experience/</loc>
-    <lastmod>2007-12-09T12:23:15+00:00</lastmod>
   </url><url>
     <loc>https://waltercedric.com/the-bridge-climb-is-the-most-sought-after-sydney-attraction/</loc>
     <lastmod>2007-12-09T12:23:15+00:00</lastmod>
@@ -1020,6 +957,12 @@
     <lastmod>2007-11-25T21:17:13+00:00</lastmod>
   </url><url>
     <loc>https://waltercedric.com/detailled-planning-of-my-australia-trip/</loc>
+    <lastmod>2007-11-21T13:48:31+00:00</lastmod>
+  </url><url>
+    <loc>https://waltercedric.com/tags/hollidays/</loc>
+    <lastmod>2007-11-21T13:48:31+00:00</lastmod>
+  </url><url>
+    <loc>https://waltercedric.com/tags/vacation/</loc>
     <lastmod>2007-11-21T13:48:31+00:00</lastmod>
   </url><url>
     <loc>https://waltercedric.com/tasmania-road-trip/</loc>
@@ -1043,6 +986,9 @@
     <loc>https://waltercedric.com/tags/essaim/</loc>
     <lastmod>2006-05-11T16:44:29+00:00</lastmod>
   </url><url>
+    <loc>https://waltercedric.com/tags/france/</loc>
+    <lastmod>2006-05-11T16:44:29+00:00</lastmod>
+  </url><url>
     <loc>https://waltercedric.com/tags/mulhouse/</loc>
     <lastmod>2006-05-11T16:44:29+00:00</lastmod>
   </url><url>
@@ -1050,6 +996,9 @@
     <lastmod>2006-05-11T16:44:29+00:00</lastmod>
   </url><url>
     <loc>https://waltercedric.com/tags/buildings/</loc>
+    <lastmod>2004-12-04T14:16:56+00:00</lastmod>
+  </url><url>
+    <loc>https://waltercedric.com/tags/cost/</loc>
     <lastmod>2004-12-04T14:16:56+00:00</lastmod>
   </url><url>
     <loc>https://waltercedric.com/tags/end/</loc>
@@ -1079,9 +1028,6 @@
     <loc>https://waltercedric.com/visiting-italy-milano/</loc>
     <lastmod>2004-11-21T20:37:00+00:00</lastmod>
   </url><url>
-    <loc>https://waltercedric.com/tags/france/</loc>
-    <lastmod>2004-11-21T20:30:20+00:00</lastmod>
-  </url><url>
     <loc>https://waltercedric.com/visiting-italy-genova/</loc>
     <lastmod>2004-11-21T20:30:20+00:00</lastmod>
   </url><url>
@@ -1089,6 +1035,9 @@
     <lastmod>2004-11-18T22:14:52+00:00</lastmod>
   </url><url>
     <loc>https://waltercedric.com/visiting-italy-galleria-vittorio-emanuele-ii/</loc>
+    <lastmod>2004-11-18T22:14:52+00:00</lastmod>
+  </url><url>
+    <loc>https://waltercedric.com/tags/was/</loc>
     <lastmod>2004-11-18T22:14:52+00:00</lastmod>
   </url><url>
     <loc>https://waltercedric.com/visiting-italy-duomo-di-milano/</loc>
@@ -1101,6 +1050,9 @@
     <lastmod>2004-11-12T22:44:54+00:00</lastmod>
   </url><url>
     <loc>https://waltercedric.com/tags/construction/</loc>
+    <lastmod>2004-11-12T22:44:54+00:00</lastmod>
+  </url><url>
+    <loc>https://waltercedric.com/tags/copy/</loc>
     <lastmod>2004-11-12T22:44:54+00:00</lastmod>
   </url><url>
     <loc>https://waltercedric.com/tags/created/</loc>
@@ -1164,15 +1116,6 @@
     <lastmod>2004-09-02T20:17:53+00:00</lastmod>
   </url><url>
     <loc>https://waltercedric.com/tags/hewlettpackard/</loc>
-    <lastmod>2004-09-02T20:17:53+00:00</lastmod>
-  </url><url>
-    <loc>https://waltercedric.com/tags/hp48/</loc>
-    <lastmod>2004-09-02T20:17:53+00:00</lastmod>
-  </url><url>
-    <loc>https://waltercedric.com/tags/hp49/</loc>
-    <lastmod>2004-09-02T20:17:53+00:00</lastmod>
-  </url><url>
-    <loc>https://waltercedric.com/tags/hp50g/</loc>
     <lastmod>2004-09-02T20:17:53+00:00</lastmod>
   </url><url>
     <loc>https://waltercedric.com/tags/metakernel/</loc>

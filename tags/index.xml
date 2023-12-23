@@ -7,8 +7,64 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Reproduction without explicit permission is prohibited. All Rights Reserved. All photos remain copyright © their rightful owners. No copyright infringement is intended.</copyright>
-    <lastBuildDate>Fri, 22 Dec 2023 14:05:31 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 23 Dec 2023 08:10:55 +0000</lastBuildDate>
     <atom:link href="https://waltercedric.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>acma</title>
+      <link>https://waltercedric.com/tags/acma/</link>
+      <pubDate>Sat, 23 Dec 2023 08:10:55 +0000</pubDate>
+      <guid>https://waltercedric.com/tags/acma/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>bernardet</title>
+      <link>https://waltercedric.com/tags/bernardet/</link>
+      <pubDate>Sat, 23 Dec 2023 08:10:55 +0000</pubDate>
+      <guid>https://waltercedric.com/tags/bernardet/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>collector</title>
+      <link>https://waltercedric.com/tags/collector/</link>
+      <pubDate>Sat, 23 Dec 2023 08:10:55 +0000</pubDate>
+      <guid>https://waltercedric.com/tags/collector/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>manurhin</title>
+      <link>https://waltercedric.com/tags/manurhin/</link>
+      <pubDate>Sat, 23 Dec 2023 08:10:55 +0000</pubDate>
+      <guid>https://waltercedric.com/tags/manurhin/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>mycollection</title>
+      <link>https://waltercedric.com/tags/mycollection/</link>
+      <pubDate>Sat, 23 Dec 2023 08:10:55 +0000</pubDate>
+      <guid>https://waltercedric.com/tags/mycollection/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>scooters</title>
+      <link>https://waltercedric.com/tags/scooters/</link>
+      <pubDate>Sat, 23 Dec 2023 08:10:55 +0000</pubDate>
+      <guid>https://waltercedric.com/tags/scooters/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>vespa</title>
+      <link>https://waltercedric.com/tags/vespa/</link>
+      <pubDate>Sat, 23 Dec 2023 08:10:55 +0000</pubDate>
+      <guid>https://waltercedric.com/tags/vespa/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>vintage</title>
+      <link>https://waltercedric.com/tags/vintage/</link>
+      <pubDate>Sat, 23 Dec 2023 08:10:55 +0000</pubDate>
+      <guid>https://waltercedric.com/tags/vintage/</guid>
+      <description></description>
+    </item>
     <item>
       <title>ecology</title>
       <link>https://waltercedric.com/tags/ecology/</link>
@@ -38,7 +94,7 @@
       <description></description>
     </item>
     <item>
-      <title>HowTo</title>
+      <title>howTo</title>
       <link>https://waltercedric.com/tags/howto/</link>
       <pubDate>Fri, 22 Dec 2023 12:55:31 +0100</pubDate>
       <guid>https://waltercedric.com/tags/howto/</guid>
@@ -105,48 +161,6 @@
       <link>https://waltercedric.com/tags/rc-helicopter/</link>
       <pubDate>Thu, 30 Nov 2023 18:43:01 +0000</pubDate>
       <guid>https://waltercedric.com/tags/rc-helicopter/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>bernardet</title>
-      <link>https://waltercedric.com/tags/bernardet/</link>
-      <pubDate>Fri, 20 Oct 2023 08:10:55 +0000</pubDate>
-      <guid>https://waltercedric.com/tags/bernardet/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>scooter</title>
-      <link>https://waltercedric.com/tags/scooter/</link>
-      <pubDate>Fri, 20 Oct 2023 08:10:55 +0000</pubDate>
-      <guid>https://waltercedric.com/tags/scooter/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>scooters</title>
-      <link>https://waltercedric.com/tags/scooters/</link>
-      <pubDate>Fri, 20 Oct 2023 08:10:55 +0000</pubDate>
-      <guid>https://waltercedric.com/tags/scooters/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Scooters from 50s</title>
-      <link>https://waltercedric.com/tags/scooters-from-50s/</link>
-      <pubDate>Fri, 20 Oct 2023 08:10:55 +0000</pubDate>
-      <guid>https://waltercedric.com/tags/scooters-from-50s/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>vespa</title>
-      <link>https://waltercedric.com/tags/vespa/</link>
-      <pubDate>Fri, 20 Oct 2023 08:10:55 +0000</pubDate>
-      <guid>https://waltercedric.com/tags/vespa/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>vintage</title>
-      <link>https://waltercedric.com/tags/vintage/</link>
-      <pubDate>Fri, 20 Oct 2023 08:10:55 +0000</pubDate>
-      <guid>https://waltercedric.com/tags/vintage/</guid>
       <description></description>
     </item>
     <item>
@@ -231,27 +245,6 @@
       <link>https://waltercedric.com/tags/tx/</link>
       <pubDate>Tue, 10 Oct 2023 17:03:02 +0000</pubDate>
       <guid>https://waltercedric.com/tags/tx/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>acma</title>
-      <link>https://waltercedric.com/tags/acma/</link>
-      <pubDate>Tue, 10 Oct 2023 12:45:01 +0000</pubDate>
-      <guid>https://waltercedric.com/tags/acma/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>collector</title>
-      <link>https://waltercedric.com/tags/collector/</link>
-      <pubDate>Tue, 10 Oct 2023 12:45:01 +0000</pubDate>
-      <guid>https://waltercedric.com/tags/collector/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>mycollection</title>
-      <link>https://waltercedric.com/tags/mycollection/</link>
-      <pubDate>Tue, 10 Oct 2023 12:45:01 +0000</pubDate>
-      <guid>https://waltercedric.com/tags/mycollection/</guid>
       <description></description>
     </item>
     <item>
@@ -731,6 +724,48 @@
       <description></description>
     </item>
     <item>
+      <title>bean</title>
+      <link>https://waltercedric.com/tags/bean/</link>
+      <pubDate>Fri, 26 Feb 2021 19:57:44 +0100</pubDate>
+      <guid>https://waltercedric.com/tags/bean/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>mapping</title>
+      <link>https://waltercedric.com/tags/mapping/</link>
+      <pubDate>Fri, 26 Feb 2021 19:57:44 +0100</pubDate>
+      <guid>https://waltercedric.com/tags/mapping/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>java</title>
+      <link>https://waltercedric.com/tags/java/</link>
+      <pubDate>Thu, 28 Jan 2021 21:25:58 +0100</pubDate>
+      <guid>https://waltercedric.com/tags/java/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>jdk11</title>
+      <link>https://waltercedric.com/tags/jdk11/</link>
+      <pubDate>Thu, 28 Jan 2021 21:25:58 +0100</pubDate>
+      <guid>https://waltercedric.com/tags/jdk11/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>junit</title>
+      <link>https://waltercedric.com/tags/junit/</link>
+      <pubDate>Thu, 28 Jan 2021 21:25:58 +0100</pubDate>
+      <guid>https://waltercedric.com/tags/junit/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>maven</title>
+      <link>https://waltercedric.com/tags/maven/</link>
+      <pubDate>Thu, 28 Jan 2021 21:25:58 +0100</pubDate>
+      <guid>https://waltercedric.com/tags/maven/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>dotNet</title>
       <link>https://waltercedric.com/tags/dotnet/</link>
       <pubDate>Tue, 22 Sep 2020 14:14:31 +0000</pubDate>
@@ -1067,6 +1102,90 @@
       <description></description>
     </item>
     <item>
+      <title>apache</title>
+      <link>https://waltercedric.com/tags/apache/</link>
+      <pubDate>Tue, 30 May 2017 10:35:23 +0200</pubDate>
+      <guid>https://waltercedric.com/tags/apache/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>atlassian</title>
+      <link>https://waltercedric.com/tags/atlassian/</link>
+      <pubDate>Tue, 30 May 2017 10:35:23 +0200</pubDate>
+      <guid>https://waltercedric.com/tags/atlassian/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>copy</title>
+      <link>https://waltercedric.com/tags/copy/</link>
+      <pubDate>Tue, 30 May 2017 10:35:23 +0200</pubDate>
+      <guid>https://waltercedric.com/tags/copy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>creating</title>
+      <link>https://waltercedric.com/tags/creating/</link>
+      <pubDate>Tue, 30 May 2017 10:35:23 +0200</pubDate>
+      <guid>https://waltercedric.com/tags/creating/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>dependency</title>
+      <link>https://waltercedric.com/tags/dependency/</link>
+      <pubDate>Tue, 30 May 2017 10:35:23 +0200</pubDate>
+      <guid>https://waltercedric.com/tags/dependency/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>development</title>
+      <link>https://waltercedric.com/tags/development/</link>
+      <pubDate>Tue, 30 May 2017 10:35:23 +0200</pubDate>
+      <guid>https://waltercedric.com/tags/development/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>essentially</title>
+      <link>https://waltercedric.com/tags/essentially/</link>
+      <pubDate>Tue, 30 May 2017 10:35:23 +0200</pubDate>
+      <guid>https://waltercedric.com/tags/essentially/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>jar</title>
+      <link>https://waltercedric.com/tags/jar/</link>
+      <pubDate>Tue, 30 May 2017 10:35:23 +0200</pubDate>
+      <guid>https://waltercedric.com/tags/jar/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>link</title>
+      <link>https://waltercedric.com/tags/link/</link>
+      <pubDate>Tue, 30 May 2017 10:35:23 +0200</pubDate>
+      <guid>https://waltercedric.com/tags/link/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>make</title>
+      <link>https://waltercedric.com/tags/make/</link>
+      <pubDate>Tue, 30 May 2017 10:35:23 +0200</pubDate>
+      <guid>https://waltercedric.com/tags/make/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>git</title>
+      <link>https://waltercedric.com/tags/git/</link>
+      <pubDate>Thu, 13 Apr 2017 09:56:22 +0200</pubDate>
+      <guid>https://waltercedric.com/tags/git/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>tutorial</title>
+      <link>https://waltercedric.com/tags/tutorial/</link>
+      <pubDate>Thu, 13 Apr 2017 09:56:22 +0200</pubDate>
+      <guid>https://waltercedric.com/tags/tutorial/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>calculator</title>
       <link>https://waltercedric.com/tags/calculator/</link>
       <pubDate>Fri, 06 Feb 2015 08:40:17 +0000</pubDate>
@@ -1085,13 +1204,6 @@
       <link>https://waltercedric.com/tags/scientific/</link>
       <pubDate>Fri, 06 Feb 2015 08:40:17 +0000</pubDate>
       <guid>https://waltercedric.com/tags/scientific/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>java</title>
-      <link>https://waltercedric.com/tags/java/</link>
-      <pubDate>Wed, 14 Jan 2015 13:36:39 +0000</pubDate>
-      <guid>https://waltercedric.com/tags/java/</guid>
       <description></description>
     </item>
     <item>
@@ -1263,24 +1375,10 @@
       <description></description>
     </item>
     <item>
-      <title>copy</title>
-      <link>https://waltercedric.com/tags/copy/</link>
-      <pubDate>Fri, 12 Nov 2004 22:44:54 +0000</pubDate>
-      <guid>https://waltercedric.com/tags/copy/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>created</title>
       <link>https://waltercedric.com/tags/created/</link>
       <pubDate>Fri, 12 Nov 2004 22:44:54 +0000</pubDate>
       <guid>https://waltercedric.com/tags/created/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>manurhin</title>
-      <link>https://waltercedric.com/tags/manurhin/</link>
-      <pubDate>Tue, 12 Oct 2004 18:09:02 +0000</pubDate>
-      <guid>https://waltercedric.com/tags/manurhin/</guid>
       <description></description>
     </item>
     <item>
@@ -1302,6 +1400,13 @@
       <link>https://waltercedric.com/tags/metakernel/</link>
       <pubDate>Thu, 02 Sep 2004 20:17:53 +0000</pubDate>
       <guid>https://waltercedric.com/tags/metakernel/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ci/cd</title>
+      <link>https://waltercedric.com/tags/ci/cd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://waltercedric.com/tags/ci/cd/</guid>
       <description></description>
     </item>
   </channel>

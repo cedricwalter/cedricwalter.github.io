@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tutorial on Cédric Walter blog</title>
+    <link>https://waltercedric.com/tags/tutorial/</link>
+    <description>Recent content in tutorial on Cédric Walter blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Reproduction without explicit permission is prohibited. All Rights Reserved. All photos remain copyright © their rightful owners. No copyright infringement is intended.</copyright>
+    <lastBuildDate>Thu, 13 Apr 2017 09:56:22 +0200</lastBuildDate>
+    <atom:link href="https://waltercedric.com/tags/tutorial/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GIT tips and tricks</title>
+      <link>https://waltercedric.com/posts/developer/2017-04-13-git/</link>
+      <pubDate>Thu, 13 Apr 2017 09:56:22 +0200</pubDate>
+      <guid>https://waltercedric.com/posts/developer/2017-04-13-git/</guid>
+      <description>A git workflow that is easy and scale for product development There are numerous GIT workflow floating around like Centralized Workflow , Gitflow , Forking flow and Feature Branch Workflow&#xA;Over the last 10 years, I have followed this really simple workflow, similar to the forking flow.- it allow Parallel Development, features branches can be merged to any release branches or ideally Master&#xA;Collaboration Feature branches also make it easier for two or more developers to collaborate on the same feature We consider Master the stable version of the product, this branch should be deployed automatically using continuous delivery</description>
+    </item>
+  </channel>
+</rss>

@@ -141,6 +141,13 @@
     <div class="ui segment toc">
       <nav id="TableOfContents">
   <ul>
+    <li><a href="#security-risks">Security Risks</a></li>
+    <li><a href="#resource-utilization">Resource Utilization</a></li>
+    <li><a href="#learning-curve">Learning Curve</a></li>
+    <li><a href="#internet-service-provider-isp-limitations">Internet Service Provider (ISP) Limitations</a></li>
+    <li><a href="#financial-investment">Financial Investment</a></li>
+    <li><a href="#noise-and-physical-space">Noise and Physical Space</a></li>
+    <li><a href="#isolation-from-production-systems">Isolation from Production Systems</a></li>
     <li><a href="#notes">Notes</a></li>
     <li><a href="#run-first-in-a-terminal">Run first in a terminal</a></li>
     <li><a href="#jellyfin">Jellyfin</a></li>
@@ -208,7 +215,8 @@
                   
                 
 
-              | 10 minutes read
+              | 12 minutes read
+              | 2454 Words
 
               
               | Update at
@@ -229,7 +237,7 @@
                 
                   <a href="/tags/homelab/">homelab</a>, 
                   <a href="/tags/docker/">docker</a>, 
-                  <a href="/tags/howto/">HowTo</a>, 
+                  <a href="/tags/howto/">howTo</a>, 
                   <a href="/tags/privacy/">privacy</a>
               </p>
             
@@ -243,15 +251,52 @@
         
 
         <p>A homelab, short for home laboratory, refers to a setup where individuals or hobbyists create a small-scale computing or networking environment in their homes for various purposes. The goal is typically to gain hands-on experience, test and learn about different technologies, and build skills related to IT, networking, server administration, and more. Homelabs can vary widely in complexity and purpose, depending on the interests and goals of the individual setting them up!</p>
+<p>While running a homelab can be a rewarding and educational experience, there are potential risks and challenges associated with it. Here are some considerations:</p>
+<h2 id="security-risks">Security Risks</h2>
+<ul>
+<li>Exposed Services: If not properly configured, exposed services in your homelab can become potential entry points for attackers. It&rsquo;s crucial to secure and properly configure your services, especially if your homelab is connected to the internet.</li>
+<li>Data Loss: In the event of hardware failure, accidental deletion, or other issues, there is a risk of data loss. Regular backups are essential to mitigate this risk. Attention RAID is NOT a backup (use unlimited backblaze instead)</li>
+</ul>
+<h2 id="resource-utilization">Resource Utilization</h2>
+<ul>
+<li>Power Consumption: Running multiple servers and networking equipment can increase your power consumption, leading to higher electricity bills. Consider the energy efficiency of your homelab components.</li>
+<li>Resource Constraints: Depending on your hardware, you might encounter resource constraints. It&rsquo;s essential to balance the number of virtual machines and services with the capabilities of your hardware.</li>
+</ul>
+<h2 id="learning-curve">Learning Curve</h2>
+<ul>
+<li>Complexity: Managing a homelab can be complex, especially if you are experimenting with advanced configurations or technologies. Be prepared to invest time in learning and troubleshooting.</li>
+<li>Maintenance: Regular maintenance is required to keep your homelab up and running. Updates, security patches, and software upgrades need to be managed.</li>
+</ul>
+<h2 id="internet-service-provider-isp-limitations">Internet Service Provider (ISP) Limitations</h2>
+<ul>
+<li>Bandwidth: Some ISPs may have limitations on upload and download speeds, which can affect the performance of services hosted in your homelab, especially if you plan to make them accessible from the internet.</li>
+<li>Legal and Ethical Considerations:
+Compliance: Be aware of legal and regulatory requirements. Running certain services may be subject to laws and regulations. Ensure compliance with terms of service and licenses for software you use.</li>
+<li>Responsible Use: Understand and respect the terms of use for the services you run. Unauthorized use or abuse of resources could lead to legal consequences.</li>
+</ul>
+<h2 id="financial-investment">Financial Investment</h2>
+<ul>
+<li>Costs: While setting up a basic homelab can be done relatively inexpensively, more advanced configurations or equipment can incur costs. Consider your budget and financial commitments.</li>
+</ul>
+<h2 id="noise-and-physical-space">Noise and Physical Space</h2>
+<ul>
+<li>Noise: Homelab equipment can generate noise, especially if you have servers or networking gear. Consider the physical location of your homelab to minimize disruption.</li>
+<li>Space: Dedicated space may be needed for your homelab equipment. Ensure proper ventilation to prevent overheating.</li>
+<li>I personally only use SSD for their speed, and they are noiseless!</li>
+</ul>
+<h2 id="isolation-from-production-systems">Isolation from Production Systems</h2>
+<ul>
+<li>Isolation: Keep your homelab isolated from critical production systems to prevent any accidental impact on live services.</li>
+</ul>
 <h2 id="notes">Notes</h2>
-<p>You need to be confortable with terminal and docker, if not I recommend you to use</p>
+<p>You need to be confortable with terminal and docker, if notm, I recommend you to use a all in one server like:</p>
 <ul>
 <li><a href="https://casaos.io">CasaOS</a> generic with a lot of apps</li>
 <li><a href="https://umbrel.com">umbrelOS</a>: a lot of apps, but more focus on crypto
 Apps can be installed using an app store and you wont have anything to tinker with! (but you lose on flexibility)</li>
 </ul>
-<p>I use Bash, but you could also put everything in a docker compose</p>
-<p>Jellyfin avoided me to install Kavita, AudiobookShelf, Calibre-web it is good enough for the task to me</p>
+<p>I use Bash, but you could also put everything in a docker compose, or use portainer.</p>
+<p>Jellyfin is good enough for my needs, I do not install Kavita, AudiobookShelf, Calibre-web anymore.</p>
 <h2 id="run-first-in-a-terminal">Run first in a terminal</h2>
 <p>We set some variables first, then you can proceed and install any software</p>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>
@@ -842,6 +887,7 @@ quality format becomes available.
 </span></span></span><span style="display:flex;"><span><span style="color:#ae81ff"></span>    --volume /var/run/docker.sock:/var/run/docker.sock <span style="color:#ae81ff">\
 </span></span></span><span style="display:flex;"><span><span style="color:#ae81ff"></span>    containrrr/watchtower
 </span></span></code></pre></div>
+
       </article>
     </section>
 
@@ -1284,6 +1330,36 @@ quality format becomes available.
     
       
     
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
     
 
     
@@ -1353,6 +1429,12 @@ quality format becomes available.
           
           
           
+            <a class="ui label" href="/tags/apache/" title="apache">
+              apache
+            </a>
+          
+          
+          
             <a class="ui label" href="/tags/arcade/" title="arcade">
               arcade
             </a>
@@ -1377,8 +1459,20 @@ quality format becomes available.
           
           
           
+            <a class="ui label" href="/tags/atlassian/" title="atlassian">
+              atlassian
+            </a>
+          
+          
+          
             <a class="ui label" href="/tags/australia/" title="Australia">
               Australia
+            </a>
+          
+          
+          
+            <a class="ui label" href="/tags/bean/" title="bean">
+              bean
             </a>
           
           
@@ -1491,6 +1585,12 @@ quality format becomes available.
           
           
           
+            <a class="ui label" href="/tags/ci/cd/" title="ci/cd">
+              ci/cd
+            </a>
+          
+          
+          
             <a class="ui label" href="/tags/city/" title="city">
               city
             </a>
@@ -1587,6 +1687,12 @@ quality format becomes available.
           
           
           
+            <a class="ui label" href="/tags/creating/" title="creating">
+              creating
+            </a>
+          
+          
+          
             <a class="ui label" href="/tags/cryptocurrency/" title="cryptocurrency">
               cryptocurrency
             </a>
@@ -1599,8 +1705,20 @@ quality format becomes available.
           
           
           
+            <a class="ui label" href="/tags/dependency/" title="dependency">
+              dependency
+            </a>
+          
+          
+          
             <a class="ui label" href="/tags/design/" title="Design">
               Design
+            </a>
+          
+          
+          
+            <a class="ui label" href="/tags/development/" title="development">
+              development
             </a>
           
           
@@ -1689,6 +1807,12 @@ quality format becomes available.
           
           
           
+            <a class="ui label" href="/tags/essentially/" title="essentially">
+              essentially
+            </a>
+          
+          
+          
             <a class="ui label" href="/tags/ethereum/" title="ethereum">
               ethereum
             </a>
@@ -1773,6 +1897,12 @@ quality format becomes available.
           
           
           
+            <a class="ui label" href="/tags/git/" title="git">
+              git
+            </a>
+          
+          
+          
             <a class="ui label" href="/tags/guide/" title="guide">
               guide
             </a>
@@ -1851,8 +1981,8 @@ quality format becomes available.
           
           
           
-            <a class="ui label" href="/tags/howto/" title="HowTo">
-              HowTo
+            <a class="ui label" href="/tags/howto/" title="howTo">
+              howTo
             </a>
           
           
@@ -1923,14 +2053,32 @@ quality format becomes available.
           
           
           
+            <a class="ui label" href="/tags/jar/" title="jar">
+              jar
+            </a>
+          
+          
+          
             <a class="ui label" href="/tags/java/" title="java">
               java
             </a>
           
           
           
+            <a class="ui label" href="/tags/jdk11/" title="jdk11">
+              jdk11
+            </a>
+          
+          
+          
             <a class="ui label" href="/tags/jellyfin/" title="jellyfin">
               jellyfin
+            </a>
+          
+          
+          
+            <a class="ui label" href="/tags/junit/" title="junit">
+              junit
             </a>
           
           
@@ -1943,6 +2091,12 @@ quality format becomes available.
           
             <a class="ui label" href="/tags/lake/" title="lake">
               lake
+            </a>
+          
+          
+          
+            <a class="ui label" href="/tags/link/" title="link">
+              link
             </a>
           
           
@@ -1965,14 +2119,32 @@ quality format becomes available.
           
           
           
+            <a class="ui label" href="/tags/make/" title="make">
+              make
+            </a>
+          
+          
+          
             <a class="ui label" href="/tags/manurhin/" title="manurhin">
               manurhin
             </a>
           
           
           
+            <a class="ui label" href="/tags/mapping/" title="mapping">
+              mapping
+            </a>
+          
+          
+          
             <a class="ui label" href="/tags/marathon/" title="marathon">
               marathon
+            </a>
+          
+          
+          
+            <a class="ui label" href="/tags/maven/" title="maven">
+              maven
             </a>
           
           
@@ -2211,20 +2383,8 @@ quality format becomes available.
           
           
           
-            <a class="ui label" href="/tags/scooter/" title="scooter">
-              scooter
-            </a>
-          
-          
-          
             <a class="ui label" href="/tags/scooters/" title="scooters">
               scooters
-            </a>
-          
-          
-          
-            <a class="ui label" href="/tags/scooters-from-50s/" title="Scooters from 50s">
-              Scooters from 50s
             </a>
           
           
@@ -2339,6 +2499,12 @@ quality format becomes available.
           
             <a class="ui label" href="/tags/tunnel/" title="tunnel">
               tunnel
+            </a>
+          
+          
+          
+            <a class="ui label" href="/tags/tutorial/" title="tutorial">
+              tutorial
             </a>
           
           
@@ -2751,6 +2917,8 @@ quality format becomes available.
 </script>
 
 
+
+<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
 
 <script src="https://cdn.jsdelivr.net/npm/html2canvas@1.0.0-rc.1/dist/html2canvas.min.js" integrity="sha256-uacRffSSMP9qpvNWhVmYLykBv9YKMA1d/VSIN1AmfyQ=" crossorigin="anonymous"></script>
 <script src="/js/post.js" defer></script>

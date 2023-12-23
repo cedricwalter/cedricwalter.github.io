@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bean on Cédric Walter blog</title>
+    <link>https://waltercedric.com/tags/bean/</link>
+    <description>Recent content in bean on Cédric Walter blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Reproduction without explicit permission is prohibited. All Rights Reserved. All photos remain copyright © their rightful owners. No copyright infringement is intended.</copyright>
+    <lastBuildDate>Fri, 26 Feb 2021 19:57:44 +0100</lastBuildDate>
+    <atom:link href="https://waltercedric.com/tags/bean/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>mappings between Java bean types with MapStruct like a pro!</title>
+      <link>https://waltercedric.com/posts/developer/2021-02-26-mappings-between-java-bean-types-with-mapstruct-like-a-pro/</link>
+      <pubDate>Fri, 26 Feb 2021 19:57:44 +0100</pubDate>
+      <guid>https://waltercedric.com/posts/developer/2021-02-26-mappings-between-java-bean-types-with-mapstruct-like-a-pro/</guid>
+      <description>MapStruct is a code generator that greatly simplifies the implementation of mappings between Java bean types based on a convention over configuration approach. The generated mapping code uses plain method invocations and thus is fast, type-safe and easy to understand.&#xA;MapStruct is an annotation processor which is plugged into the Java compiler and can be used in command-line builds (Maven, Gradle etc.) as well as from within your preferred IDE.</description>
+    </item>
+  </channel>
+</rss>

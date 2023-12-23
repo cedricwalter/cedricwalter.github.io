@@ -7,8 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Reproduction without explicit permission is prohibited. All Rights Reserved. All photos remain copyright © their rightful owners. No copyright infringement is intended.</copyright>
-    <lastBuildDate>Fri, 22 Dec 2023 14:05:31 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 23 Dec 2023 08:10:55 +0000</lastBuildDate>
     <atom:link href="https://waltercedric.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Scooters</title>
+      <link>https://waltercedric.com/categories/scooters/</link>
+      <pubDate>Sat, 23 Dec 2023 08:10:55 +0000</pubDate>
+      <guid>https://waltercedric.com/categories/scooters/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Consumer</title>
       <link>https://waltercedric.com/categories/consumer/</link>
@@ -35,13 +42,6 @@
       <link>https://waltercedric.com/categories/rc-helicopter/</link>
       <pubDate>Thu, 30 Nov 2023 18:43:01 +0000</pubDate>
       <guid>https://waltercedric.com/categories/rc-helicopter/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Scooters</title>
-      <link>https://waltercedric.com/categories/scooters/</link>
-      <pubDate>Fri, 20 Oct 2023 08:10:55 +0000</pubDate>
-      <guid>https://waltercedric.com/categories/scooters/</guid>
       <description></description>
     </item>
     <item>
@@ -105,6 +105,13 @@
       <link>https://waltercedric.com/categories/snk-neo-geo/</link>
       <pubDate>Sat, 11 Dec 2021 16:28:37 +0000</pubDate>
       <guid>https://waltercedric.com/categories/snk-neo-geo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Developer</title>
+      <link>https://waltercedric.com/categories/developer/</link>
+      <pubDate>Fri, 26 Feb 2021 19:57:44 +0100</pubDate>
+      <guid>https://waltercedric.com/categories/developer/</guid>
       <description></description>
     </item>
     <item>
@@ -175,13 +182,6 @@
       <link>https://waltercedric.com/categories/hewlett-packard/</link>
       <pubDate>Fri, 06 Feb 2015 08:40:17 +0000</pubDate>
       <guid>https://waltercedric.com/categories/hewlett-packard/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Developer</title>
-      <link>https://waltercedric.com/categories/developer/</link>
-      <pubDate>Wed, 14 Jan 2015 13:36:39 +0000</pubDate>
-      <guid>https://waltercedric.com/categories/developer/</guid>
       <description></description>
     </item>
     <item>

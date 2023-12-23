@@ -7,8 +7,43 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Reproduction without explicit permission is prohibited. All Rights Reserved. All photos remain copyright © their rightful owners. No copyright infringement is intended.</copyright>
-    <lastBuildDate>Wed, 14 Jan 2015 13:36:39 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Feb 2021 19:57:44 +0100</lastBuildDate>
     <atom:link href="https://waltercedric.com/categories/developer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>mappings between Java bean types with MapStruct like a pro!</title>
+      <link>https://waltercedric.com/posts/developer/2021-02-26-mappings-between-java-bean-types-with-mapstruct-like-a-pro/</link>
+      <pubDate>Fri, 26 Feb 2021 19:57:44 +0100</pubDate>
+      <guid>https://waltercedric.com/posts/developer/2021-02-26-mappings-between-java-bean-types-with-mapstruct-like-a-pro/</guid>
+      <description>MapStruct is a code generator that greatly simplifies the implementation of mappings between Java bean types based on a convention over configuration approach. The generated mapping code uses plain method invocations and thus is fast, type-safe and easy to understand.&#xA;MapStruct is an annotation processor which is plugged into the Java compiler and can be used in command-line builds (Maven, Gradle etc.) as well as from within your preferred IDE.</description>
+    </item>
+    <item>
+      <title>Junit tips and tricks</title>
+      <link>https://waltercedric.com/posts/developer/2021-01-28-junit/</link>
+      <pubDate>Thu, 28 Jan 2021 21:25:58 +0100</pubDate>
+      <guid>https://waltercedric.com/posts/developer/2021-01-28-junit/</guid>
+      <description>Embedded MongoDB It provide a platform neutral way for running mongodb in Java integration tests. Thanks to this java library you can easily run integration test against a real mongo database. It is best to always mock your dependencies in true unit tests, but sometimes you need to test against the real thing.&#xA;It will download mongodb (and cache it) extract it (and cache it) java uses its process api to start and monitor the mongo process you run your tests java kills the mongo process Unit testing How to use it in your unit tests</description>
+    </item>
+    <item>
+      <title>Maven tips and tricks</title>
+      <link>https://waltercedric.com/posts/developer/2017-05-30-maven/</link>
+      <pubDate>Tue, 30 May 2017 10:35:23 +0200</pubDate>
+      <guid>https://waltercedric.com/posts/developer/2017-05-30-maven/</guid>
+      <description>git-branch-renamer-maven-plugin When working with many feature/release/bugfix/hotfix branches, it is a bad idea to start changing the pom version as this will create merge conflicts using pull request. this plugin allows you to keep in ALL branches the same pom version for all your projects, for example MASTER-SNAPSHOT the version will be derived from branch name automagically 🙂&#xA;You may want to read more first these 2 short articles&#xA;Update Maven pom version on GIT checkout in TeamCity maven-release-plugin with GIT git-branch-renamer-maven-plugin allow you to keep in ALL branches the same pom version for all your projects: for example MASTER-SNAPSHOT and never change it again.</description>
+    </item>
+    <item>
+      <title>zorglub</title>
+      <link>https://waltercedric.com/posts/developer/2017-05-30-maven-copy/</link>
+      <pubDate>Tue, 30 May 2017 10:35:23 +0200</pubDate>
+      <guid>https://waltercedric.com/posts/developer/2017-05-30-maven-copy/</guid>
+      <description>zorglub</description>
+    </item>
+    <item>
+      <title>GIT tips and tricks</title>
+      <link>https://waltercedric.com/posts/developer/2017-04-13-git/</link>
+      <pubDate>Thu, 13 Apr 2017 09:56:22 +0200</pubDate>
+      <guid>https://waltercedric.com/posts/developer/2017-04-13-git/</guid>
+      <description>A git workflow that is easy and scale for product development There are numerous GIT workflow floating around like Centralized Workflow , Gitflow , Forking flow and Feature Branch Workflow&#xA;Over the last 10 years, I have followed this really simple workflow, similar to the forking flow.- it allow Parallel Development, features branches can be merged to any release branches or ideally Master&#xA;Collaboration Feature branches also make it easier for two or more developers to collaborate on the same feature We consider Master the stable version of the product, this branch should be deployed automatically using continuous delivery</description>
+    </item>
     <item>
       <title>Avoid infamous change – restart – wait – check development lifecycle!</title>
       <link>https://waltercedric.com/avoid-infamous-change-restart-wait-check-development-lifecycle/</link>

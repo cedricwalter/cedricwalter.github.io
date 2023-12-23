@@ -7,8 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Reproduction without explicit permission is prohibited. All Rights Reserved. All photos remain copyright © their rightful owners. No copyright infringement is intended.</copyright>
-    <lastBuildDate>Mon, 13 Apr 2020 09:23:14 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 Dec 2023 08:10:55 +0000</lastBuildDate>
     <atom:link href="https://waltercedric.com/tags/raspbian/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pimoroni Raspberry Picade Pi-powered mini arcade cabinet</title>
+      <link>https://waltercedric.com/pimoroni-picade/</link>
+      <pubDate>Sat, 23 Dec 2023 08:10:55 +0000</pubDate>
+      <guid>https://waltercedric.com/pimoroni-picade/</guid>
+      <description>Picade is a Raspberry Pi-powered mini arcade that you build yourself, with authentic arcade controls, a high resolution 4:3 display that &amp;rsquo;s ideal for retro gaming, and a punchy speaker to hear those 8-bit game soundtracks at their best.&#xA;The ultimate desktop retro arcade machine! Picade is a Raspberry Pi-powered mini arcade that you build yourself, with authentic arcade controls, a high resolution 4:3 display that &amp;rsquo;s ideal for retro gaming, and a punchy speaker to hear those 8-bit game soundtracks at their best</description>
+    </item>
     <item>
       <title>Cryptocurrency monitor with Unicorn HAT</title>
       <link>https://waltercedric.com/cryptocurrency-monitor-with-unicorn-hat/</link>
@@ -36,13 +43,6 @@
       <pubDate>Sat, 11 Apr 2020 08:58:08 +0000</pubDate>
       <guid>https://waltercedric.com/bitcoin-ethereum-price-ticker-using-raspberry-pi-and-displayotron/</guid>
       <description>How to monitor the Bitcoin and Ethereum price on a DisplayOTron LCD and any Raspberry PI!&#xA;Shopping list You need obviously a raspberry pi, ideally with WIFI build in if you don &amp;rsquo;t like cables&#xA;PI Zero W Raspberry pi 1, single core, will require an Ethernet cable Raspberry pi 2 , dual core, will require an Ethernet cable Raspberry pi 3 or 4, a bit a shame to use this amount of power for that task, has built in WIFI A displayOTron (Shop – [Github][1]) Includes a 16×3 character LCD display, 6-zone RGB LED backlight, bar graph, and six capacitive touch buttons all in one slim package.</description>
-    </item>
-    <item>
-      <title>Upgrading your Picade 8” to 10”</title>
-      <link>https://waltercedric.com/upgrading-your-picade-8-to-10/</link>
-      <pubDate>Sun, 23 Feb 2020 19:29:23 +0000</pubDate>
-      <guid>https://waltercedric.com/upgrading-your-picade-8-to-10/</guid>
-      <description>Picade is a Raspberry Pi-powered mini arcade that you build yourself, with authentic arcade controls, a high resolution 4:3 display that &amp;rsquo;s ideal for retro gaming, and a punchy speaker to hear those 8-bit game soundtracks at their best.&#xA;The ultimate desktop retro arcade machine! Picade is a Raspberry Pi-powered mini arcade that you build yourself, with authentic arcade controls, a high resolution 4:3 display that &amp;rsquo;s ideal for retro gaming, and a punchy speaker to hear those 8-bit game soundtracks at their best</description>
     </item>
   </channel>
 </rss>

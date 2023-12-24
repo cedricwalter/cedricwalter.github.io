@@ -1,62 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>RC helicopter on Cédric Walter blog</title>
-    <link>https://waltercedric.com/categories/rc-helicopter/</link>
-    <description>Recent content in RC helicopter on Cédric Walter blog</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>Reproduction without explicit permission is prohibited. All Rights Reserved. All photos remain copyright © their rightful owners. No copyright infringement is intended.</copyright>
-    <lastBuildDate>Thu, 30 Nov 2023 18:43:01 +0000</lastBuildDate>
-    <atom:link href="https://waltercedric.com/categories/rc-helicopter/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>AccuRC vs. CGM Next RC Simulator</title>
-      <link>https://waltercedric.com/rc-helicopter-airplanes-fpv-drone/accurc-vs-cgm-next-rc-simulator/</link>
-      <pubDate>Thu, 30 Nov 2023 18:43:01 +0000</pubDate>
-      <guid>https://waltercedric.com/rc-helicopter-airplanes-fpv-drone/accurc-vs-cgm-next-rc-simulator/</guid>
-      <description>Among the top contenders in the market, AccuRC and CGM Next RC Simulator stand out as titans, offering cutting-edge features and realistic experiences for RC enthusiasts. In this comprehensive review, we &amp;rsquo;ll dive into the intricacies of both simulators, exploring their strengths, weaknesses, and unique features.&#xA;AccuRC Realistic Physics and Dynamics&#xA;AccuRC is renowned for its unparalleled physics engine, providing an incredibly realistic flight experience. The simulator simulates various aerodynamic factors, wind conditions, and aircraft-specific characteristics, making it a favourite among serious RC pilots.</description>
-    </item>
-    <item>
-      <title>What is Bank Switching for RC Helicopter?</title>
-      <link>https://waltercedric.com/rc-helicopter-airplanes-fpv-drone/what-is-bank-switching-for-rc-helicopter/</link>
-      <pubDate>Thu, 23 Nov 2023 15:03:17 +0000</pubDate>
-      <guid>https://waltercedric.com/rc-helicopter-airplanes-fpv-drone/what-is-bank-switching-for-rc-helicopter/</guid>
-      <description>In the context of RC (radio-controlled) helicopters, &amp;ldquo;bank switching&amp;rdquo; typically refers to a feature related to setting up and switching between different flight modes or configurations. These flight modes often include variations in control responsiveness, stability, and other parameters to suit different styles of flying or specific maneuvers. The term &amp;ldquo;bank&amp;rdquo; here is used in the sense of a selection or setting. It require an additional channel (5 are required for RC Helicopter, so you need at least 6 or more)</description>
-    </item>
-    <item>
-      <title>SAB Raw 700</title>
-      <link>https://waltercedric.com/rc-helicopter-airplanes-fpv-drone/my-sab-raw-700/</link>
-      <pubDate>Thu, 23 Nov 2023 12:11:49 +0000</pubDate>
-      <guid>https://waltercedric.com/rc-helicopter-airplanes-fpv-drone/my-sab-raw-700/</guid>
-      <description>SAB (Scorpion Antennas and Batteries) primarily focused on manufacturing and designing high-quality radio-controlled (RC) helicopters. Here &amp;rsquo;s a brief overview of some SAB RC helicopter models:&#xA;Goblin Series: The Goblin series is one of SAB &amp;rsquo;s flagship lines of helicopters. Goblins are known for their high performance, precision engineering, and innovative design. Different Goblin models cater to various skill levels and preferences, from beginners to advanced pilots. RAW: RAW is another series of helicopters from SAB.</description>
-    </item>
-    <item>
-      <title>Master the Skies with the OMP Hobby M2 EVO: A Thrilling Adventure into RC Helicopter Enthusiasm</title>
-      <link>https://waltercedric.com/rc-helicopter-airplanes-fpv-drone/master-the-skies-with-the-omp-hobby-m2-evo-a-thrilling-adventure-into-rc-helicopter-enthusiasm/</link>
-      <pubDate>Fri, 13 Oct 2023 09:27:50 +0000</pubDate>
-      <guid>https://waltercedric.com/rc-helicopter-airplanes-fpv-drone/master-the-skies-with-the-omp-hobby-m2-evo-a-thrilling-adventure-into-rc-helicopter-enthusiasm/</guid>
-      <description>Remote-controlled (RC) helicopters have long been a source of fascination and excitement for hobbyists of all ages. The OMP Hobby M2 Evo, with its cutting-edge technology and innovative design, takes this passion to new heights. In this blog post, we &amp;rsquo;ll delve into the world of RC helicopters, exploring what makes the OMP Hobby M2 Evo so remarkable and why it &amp;rsquo;s become a top choice for enthusiasts. Whether you &amp;rsquo;re a seasoned pro or a beginner looking to venture into the thrilling world of RC helicopters, the M2 Evo is sure to captivate your imagination.</description>
-    </item>
-    <item>
-      <title>Matrice de connaissance du moteur</title>
-      <link>https://waltercedric.com/matrice-de-connaissance-du-moteur/</link>
-      <pubDate>Fri, 03 Sep 2004 10:42:17 +0000</pubDate>
-      <guid>https://waltercedric.com/matrice-de-connaissance-du-moteur/</guid>
-      <description>Le moteur ne tourne pas&#xA;Voltage du démarreur insuffisant. Moteur noyé. Moteur ou roulements collés. Le moteur tourne lentement, de maniÃ¨re erratique&#xA;Voltage de la Batterie Ã bougie insuffisant. Le starter de démarrage dérape Le Starter est trop peu puissant pour la cylindrée. L&amp;rsquo;huile dans le moteur est congelé ou s&amp;rsquo;est déposé sous forme de carbone solide. Moteur noyé. Le moteur tourne normalement mais ne démarre pas&#xA;La bougie ne rougit pas ou est noyée.</description>
-    </item>
-    <item>
-      <title>Check List pour le montage</title>
-      <link>https://waltercedric.com/check-list-pour-le-montage/</link>
-      <pubDate>Fri, 03 Sep 2004 10:41:08 +0000</pubDate>
-      <guid>https://waltercedric.com/check-list-pour-le-montage/</guid>
-      <description>Date:______________&#xA;Réalisé par:__________&#xA;Machine:_____________&#xA;Montage :&#xA;_____ utiliser du frein filet sur toutes les vis et ecrous ou vis &amp;ldquo;parker&amp;rdquo;. (Loctite Bleu)&#xA;_____ Ne pas échanger des pas SAE la ou des pas métrique sont nécessaire.&#xA;_____ Tous les vis de bras de servo sont suffisament serrés dans l &amp;lsquo;axe de sortie des servos.&#xA;_____ Les parties du chassis en bois sont protégés contre les projections d &amp;rsquo;essences.&#xA;_____ Bras de servo fixés (vérifier en les les tordants avec la main).</description>
-    </item>
-    <item>
-      <title>Check List après crash</title>
-      <link>https://waltercedric.com/check-list-apres-crash/</link>
-      <pubDate>Fri, 03 Sep 2004 10:40:32 +0000</pubDate>
-      <guid>https://waltercedric.com/check-list-apres-crash/</guid>
-      <description>Date:_____________ Nom du pilote :_________ Machine:__________&#xA;Placer une croix devant la partie que vous venez de finir de vérifier&#xA;Sur le terrain _____ Ne pas paniquer, devenir agressif, tout le monde s &amp;rsquo;est déjà crashé. _____ Si possible, couper le moteur avec la radio pour éviter d &amp;lsquo;autres dégats . Couper l &amp;lsquo;arrivée d &amp;rsquo;essence dès que possible (penser à votre sécurité). _____ Baliser la zone de crash pour rechercher les pièces plus tard.</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>RC helicopter on Cédric Walter blog</title><link>https://waltercedric.com/categories/rc-helicopter/</link><description>Recent content in RC helicopter on Cédric Walter blog</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Reproduction without explicit permission is prohibited. All Rights Reserved. All photos remain copyright © their rightful owners. No copyright infringement is intended.</copyright><lastBuildDate>Thu, 30 Nov 2023 18:43:01 +0000</lastBuildDate><atom:link href="https://waltercedric.com/categories/rc-helicopter/index.xml" rel="self" type="application/rss+xml"/><item><title>AccuRC vs. CGM Next RC Simulator</title><link>https://waltercedric.com/rc-helicopter-airplanes-fpv-drone/accurc-vs-cgm-next-rc-simulator/</link><pubDate>Thu, 30 Nov 2023 18:43:01 +0000</pubDate><guid>https://waltercedric.com/rc-helicopter-airplanes-fpv-drone/accurc-vs-cgm-next-rc-simulator/</guid><description>Attention AccuRC is as of today kind of abandonware, no new release in 2 years, but there is some work in progress on a 3.0.alpha. You will have to buy again the license to upgrade from AccuRC 2.0The list of abandoned RC simulator is also growing: Reflex XTR, Realflight, PhoenixRC. Root cause are piracy, non willingness to keep paying for updates,
+Among the top contenders in the market, AccuRC and CGM Next RC Simulator stand out as titans, offering cutting-edge features and realistic experiences for RC enthusiasts.</description></item><item><title>What is Bank Switching for RC Helicopter?</title><link>https://waltercedric.com/rc-helicopter-airplanes-fpv-drone/what-is-bank-switching-for-rc-helicopter/</link><pubDate>Thu, 23 Nov 2023 15:03:17 +0000</pubDate><guid>https://waltercedric.com/rc-helicopter-airplanes-fpv-drone/what-is-bank-switching-for-rc-helicopter/</guid><description>In the context of RC (radio-controlled) helicopters, &amp;ldquo;bank switching&amp;rdquo; typically refers to a feature related to setting up and switching between different flight modes or configurations. These flight modes often include variations in control responsiveness, stability, and other parameters to suit different styles of flying or specific maneuvers.</description></item><item><title>SAB Raw 700</title><link>https://waltercedric.com/rc-helicopter-airplanes-fpv-drone/my-sab-raw-700/</link><pubDate>Thu, 23 Nov 2023 12:11:49 +0000</pubDate><guid>https://waltercedric.com/rc-helicopter-airplanes-fpv-drone/my-sab-raw-700/</guid><description>SAB (Scorpion Antennas and Batteries) primarily focused on manufacturing and designing high-quality radio-controlled (RC) helicopters. Here&amp;rsquo;s a brief overview of some SAB RC helicopter models:</description></item><item><title>Master the Skies with the OMP Hobby M2 EVO: A Thrilling Adventure into RC Helicopter Enthusiasm</title><link>https://waltercedric.com/rc-helicopter-airplanes-fpv-drone/master-the-skies-with-the-omp-hobby-m2-evo-a-thrilling-adventure-into-rc-helicopter-enthusiasm/</link><pubDate>Fri, 13 Oct 2023 09:27:50 +0000</pubDate><guid>https://waltercedric.com/rc-helicopter-airplanes-fpv-drone/master-the-skies-with-the-omp-hobby-m2-evo-a-thrilling-adventure-into-rc-helicopter-enthusiasm/</guid><description>Remote-controlled (RC) helicopters have long been a source of fascination and excitement for hobbyists of all ages. The OMP Hobby M2 Evo, with its cutting-edge technology and innovative design, takes this passion to new heights.</description></item><item><title>Matrice de connaissance du moteur</title><link>https://waltercedric.com/matrice-de-connaissance-du-moteur/</link><pubDate>Fri, 03 Sep 2004 10:42:17 +0000</pubDate><guid>https://waltercedric.com/matrice-de-connaissance-du-moteur/</guid><description>Le moteur ne tourne pas
+Voltage du démarreur insuffisant. Moteur noyé. Moteur ou roulements collés. Le moteur tourne lentement, de maniÃ¨re erratique
+Voltage de la Batterie Ã bougie insuffisant. Le starter de démarrage dérape Le Starter est trop peu puissant pour la cylindrée. L&amp;rsquo;huile dans le moteur est congelé ou s&amp;rsquo;est déposé sous forme de carbone solide. Moteur noyé. Le moteur tourne normalement mais ne démarre pas
+La bougie ne rougit pas ou est noyée.</description></item><item><title>Check List pour le montage</title><link>https://waltercedric.com/check-list-pour-le-montage/</link><pubDate>Fri, 03 Sep 2004 10:41:08 +0000</pubDate><guid>https://waltercedric.com/check-list-pour-le-montage/</guid><description>Date:______________
+Réalisé par:__________
+Machine:_____________
+Montage :
+_____ utiliser du frein filet sur toutes les vis et ecrous ou vis &amp;ldquo;parker&amp;rdquo;. (Loctite Bleu)
+_____ Ne pas échanger des pas SAE la ou des pas métrique sont nécessaire.
+_____ Tous les vis de bras de servo sont suffisament serrés dans l &amp;lsquo;axe de sortie des servos.
+_____ Les parties du chassis en bois sont protégés contre les projections d &amp;rsquo;essences.
+_____ Bras de servo fixés (vérifier en les les tordants avec la main).</description></item><item><title>Check List après crash</title><link>https://waltercedric.com/check-list-apres-crash/</link><pubDate>Fri, 03 Sep 2004 10:40:32 +0000</pubDate><guid>https://waltercedric.com/check-list-apres-crash/</guid><description>Date:_____________ Nom du pilote :_________ Machine:__________
+Placer une croix devant la partie que vous venez de finir de vérifier
+Sur le terrain _____ Ne pas paniquer, devenir agressif, tout le monde s &amp;rsquo;est déjà crashé. _____ Si possible, couper le moteur avec la radio pour éviter d &amp;lsquo;autres dégats . Couper l &amp;lsquo;arrivée d &amp;rsquo;essence dès que possible (penser à votre sécurité). _____ Baliser la zone de crash pour rechercher les pièces plus tard.</description></item></channel></rss>

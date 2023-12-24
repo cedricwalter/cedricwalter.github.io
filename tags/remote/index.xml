@@ -1,27 +1,2 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>remote on Cédric Walter blog</title>
-    <link>https://waltercedric.com/tags/remote/</link>
-    <description>Recent content in remote on Cédric Walter blog</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>Reproduction without explicit permission is prohibited. All Rights Reserved. All photos remain copyright © their rightful owners. No copyright infringement is intended.</copyright>
-    <lastBuildDate>Sun, 08 Oct 2023 20:02:18 +0000</lastBuildDate>
-    <atom:link href="https://waltercedric.com/tags/remote/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Update the Nirvana or FlySky NV14 to latest EdgeTX firmware</title>
-      <link>https://waltercedric.com/rc-helicopter-airplanes-fpv-drone/update-the-nirvana-or-flysky-nv14-to-latest-edgetx-firmware/</link>
-      <pubDate>Sun, 08 Oct 2023 20:02:18 +0000</pubDate>
-      <guid>https://waltercedric.com/rc-helicopter-airplanes-fpv-drone/update-the-nirvana-or-flysky-nv14-to-latest-edgetx-firmware/</guid>
-      <description>EdgeTX is a popular open-source firmware for RC (Radio Control) transmitters. It offers a wide range of features and customization options for hobbyists and enthusiasts in the RC community. Keeping your EdgeTX installation up to date ensures you have access to the latest features, improvements, and bug fixes. One crucial aspect of updating EdgeTX is updating the SD card contents. In this blog post, we will guide you through the process of updating EdgeTX and its SD card to the latest version.</description>
-    </item>
-    <item>
-      <title>Revolutionizing Remote Control: Exploring the Radiomaster Pocket ELRS with CC2500</title>
-      <link>https://waltercedric.com/rc-helicopter-airplanes-fpv-drone/revolutionizing-remote-control-exploring-the-radiomaster-pocket-elrs-with-cc2500/</link>
-      <pubDate>Thu, 05 Oct 2023 12:20:44 +0000</pubDate>
-      <guid>https://waltercedric.com/rc-helicopter-airplanes-fpv-drone/revolutionizing-remote-control-exploring-the-radiomaster-pocket-elrs-with-cc2500/</guid>
-      <description>EdgeTX support RadioMaster Pocket is planned to be fully supported I 2.10 only. You can not use EdgeTX companion 2.9.1 yet!&#xA;In the ever-evolving world of remote control systems, enthusiasts are constantly searching for the perfect combination of range, reliability, and control. The Radiomaster Pocket ELRS, equipped with the powerful CC2500 module, has emerged as a game-changer in this arena. In this blog post, we will delve into the Radiomaster Pocket ELRS with CC2500, highlighting its key features and explaining why it has become a favorite among remote control enthusiasts.</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>remote on Cédric Walter blog</title><link>https://waltercedric.com/tags/remote/</link><description>Recent content in remote on Cédric Walter blog</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Reproduction without explicit permission is prohibited. All Rights Reserved. All photos remain copyright © their rightful owners. No copyright infringement is intended.</copyright><lastBuildDate>Sun, 08 Oct 2023 20:02:18 +0000</lastBuildDate><atom:link href="https://waltercedric.com/tags/remote/index.xml" rel="self" type="application/rss+xml"/><item><title>Update the Nirvana or FlySky NV14 to latest EdgeTX firmware</title><link>https://waltercedric.com/rc-helicopter-airplanes-fpv-drone/update-the-nirvana-or-flysky-nv14-to-latest-edgetx-firmware/</link><pubDate>Sun, 08 Oct 2023 20:02:18 +0000</pubDate><guid>https://waltercedric.com/rc-helicopter-airplanes-fpv-drone/update-the-nirvana-or-flysky-nv14-to-latest-edgetx-firmware/</guid><description>EdgeTX is a popular open-source firmware for RC (Radio Control) transmitters. It offers a wide range of features and customization options for hobbyists and enthusiasts in the RC community. Keeping your EdgeTX installation up to date ensures you have access to the latest features, improvements, and bug fixes. One crucial aspect of updating EdgeTX is updating the SD card contents. In this blog post, we will guide you through the process of updating EdgeTX and its SD card to the latest version.</description></item><item><title>Revolutionizing Remote Control: Exploring the Radiomaster Pocket ELRS with CC2500</title><link>https://waltercedric.com/rc-helicopter-airplanes-fpv-drone/revolutionizing-remote-control-exploring-the-radiomaster-pocket-elrs-with-cc2500/</link><pubDate>Thu, 05 Oct 2023 12:20:44 +0000</pubDate><guid>https://waltercedric.com/rc-helicopter-airplanes-fpv-drone/revolutionizing-remote-control-exploring-the-radiomaster-pocket-elrs-with-cc2500/</guid><description>EdgeTX support RadioMaster Pocket is planned to be fully supported I 2.10 only. You can not use EdgeTX companion 2.9.1 yet!
+In the ever-evolving world of remote control systems, enthusiasts are constantly searching for the perfect combination of range, reliability, and control. The Radiomaster Pocket ELRS, equipped with the powerful CC2500 module, has emerged as a game-changer in this arena. In this blog post, we will delve into the Radiomaster Pocket ELRS with CC2500, highlighting its key features and explaining why it has become a favorite among remote control enthusiasts.</description></item></channel></rss>

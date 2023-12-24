@@ -1,27 +1,5 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>cryptocurrency on Cédric Walter blog</title>
-    <link>https://waltercedric.com/tags/cryptocurrency/</link>
-    <description>Recent content in cryptocurrency on Cédric Walter blog</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>Reproduction without explicit permission is prohibited. All Rights Reserved. All photos remain copyright © their rightful owners. No copyright infringement is intended.</copyright>
-    <lastBuildDate>Mon, 13 Apr 2020 09:23:14 +0000</lastBuildDate>
-    <atom:link href="https://waltercedric.com/tags/cryptocurrency/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Cryptocurrency monitor with Unicorn HAT</title>
-      <link>https://waltercedric.com/cryptocurrency-monitor-with-unicorn-hat/</link>
-      <pubDate>Mon, 13 Apr 2020 09:23:14 +0000</pubDate>
-      <guid>https://waltercedric.com/cryptocurrency-monitor-with-unicorn-hat/</guid>
-      <description>Unicorn pHAT and HAT. 32 or 64 blinding ws2812 pixels for your Raspberry Pi. it is called Unicorn Hat because it does rainbows, really bright rainbows! ATTENTION: do not stare directly at the led without a sheet of paper on it. LED are REALLY bright!&#xA;Shopping list You need obviously a [raspberry pi][1], ideally with WIFI build in if you don &amp;rsquo;t like cables&#xA;Raspberry Pi 1 is not supported by Unicorn Hat Raspberry pi 2 , dual core, will require an Ethernet cable, can still be found on ebay, graiglist.</description>
-    </item>
-    <item>
-      <title>Bitcoin And Ethereum price Ticker using Raspberry Pi and Display-O-Tron</title>
-      <link>https://waltercedric.com/bitcoin-ethereum-price-ticker-using-raspberry-pi-and-displayotron/</link>
-      <pubDate>Sat, 11 Apr 2020 08:58:08 +0000</pubDate>
-      <guid>https://waltercedric.com/bitcoin-ethereum-price-ticker-using-raspberry-pi-and-displayotron/</guid>
-      <description>How to monitor the Bitcoin and Ethereum price on a DisplayOTron LCD and any Raspberry PI!&#xA;Shopping list You need obviously a raspberry pi, ideally with WIFI build in if you don &amp;rsquo;t like cables&#xA;PI Zero W Raspberry pi 1, single core, will require an Ethernet cable Raspberry pi 2 , dual core, will require an Ethernet cable Raspberry pi 3 or 4, a bit a shame to use this amount of power for that task, has built in WIFI A displayOTron (Shop – [Github][1]) Includes a 16×3 character LCD display, 6-zone RGB LED backlight, bar graph, and six capacitive touch buttons all in one slim package.</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>cryptocurrency on Cédric Walter blog</title><link>https://waltercedric.com/tags/cryptocurrency/</link><description>Recent content in cryptocurrency on Cédric Walter blog</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Reproduction without explicit permission is prohibited. All Rights Reserved. All photos remain copyright © their rightful owners. No copyright infringement is intended.</copyright><lastBuildDate>Mon, 13 Apr 2020 09:23:14 +0000</lastBuildDate><atom:link href="https://waltercedric.com/tags/cryptocurrency/index.xml" rel="self" type="application/rss+xml"/><item><title>Cryptocurrency monitor with Unicorn HAT</title><link>https://waltercedric.com/cryptocurrency-monitor-with-unicorn-hat/</link><pubDate>Mon, 13 Apr 2020 09:23:14 +0000</pubDate><guid>https://waltercedric.com/cryptocurrency-monitor-with-unicorn-hat/</guid><description>Unicorn pHAT and HAT. 32 or 64 blinding ws2812 pixels for your Raspberry Pi. it is called Unicorn Hat because it does rainbows, really bright rainbows! ATTENTION: do not stare directly at the led without a sheet of paper on it. LED are REALLY bright!
+Shopping list You need obviously a [raspberry pi][1], ideally with WIFI build in if you don &amp;rsquo;t like cables
+Raspberry Pi 1 is not supported by Unicorn Hat Raspberry pi 2 , dual core, will require an Ethernet cable, can still be found on ebay, graiglist.</description></item><item><title>Bitcoin And Ethereum price Ticker using Raspberry Pi and Display-O-Tron</title><link>https://waltercedric.com/bitcoin-ethereum-price-ticker-using-raspberry-pi-and-displayotron/</link><pubDate>Sat, 11 Apr 2020 08:58:08 +0000</pubDate><guid>https://waltercedric.com/bitcoin-ethereum-price-ticker-using-raspberry-pi-and-displayotron/</guid><description>How to monitor the Bitcoin and Ethereum price on a DisplayOTron LCD and any Raspberry PI!
+Shopping list You need obviously a raspberry pi, ideally with WIFI build in if you don &amp;rsquo;t like cables
+PI Zero W Raspberry pi 1, single core, will require an Ethernet cable Raspberry pi 2 , dual core, will require an Ethernet cable Raspberry pi 3 or 4, a bit a shame to use this amount of power for that task, has built in WIFI A displayOTron (Shop – [Github][1]) Includes a 16×3 character LCD display, 6-zone RGB LED backlight, bar graph, and six capacitive touch buttons all in one slim package.</description></item></channel></rss>

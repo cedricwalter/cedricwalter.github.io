@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>swashplate on Cédric Walter blog</title>
+    <link>https://waltercedric.com/tags/swashplate/</link>
+    <description>Recent content in swashplate on Cédric Walter blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Reproduction without explicit permission is prohibited. All Rights Reserved. All photos remain copyright © their rightful owners. No copyright infringement is intended.</copyright>
+    <lastBuildDate>Thu, 26 Aug 2004 23:36:15 +0200</lastBuildDate>
+    <atom:link href="https://waltercedric.com/tags/swashplate/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kyosho Caliber 30 Setup</title>
+      <link>https://waltercedric.com/posts/rchelicopter/2004-08-26-kyosho-caliber-30-setup/</link>
+      <pubDate>Thu, 26 Aug 2004 23:36:15 +0200</pubDate>
+      <guid>https://waltercedric.com/posts/rchelicopter/2004-08-26-kyosho-caliber-30-setup/</guid>
+      <description>Setup for mode 2 The manual explain a complete setup and is one best of its kind.&#xA;EMS MODE (CCPM 120Â° type) Futaba Radio FF9&#xA;Mode 2 (european TX) in manual only mode 1 is specified (american)&#xA;USE ONLY 3 identical servo for aileron, elevator and pitch (same brand and reference) otherwise the swash-plate will not go up and down correctly.&#xA;| Reverse | Name | Channel | Mode | |&amp;mdash;|&amp;mdash;|&amp;mdash;| | Aileron | 1 | Normal | | Elevator | 2 | Normal | | Throttle | 3 | Reverse | | Rudder | 4 | Reverse | | Gyro | 5 | Normal | | Pitch | 6 | Reverse | | SWASH-AFR | Name | Channel | value | |&amp;mdash;|&amp;mdash;|&amp;mdash;|&amp;mdash;| | Aileron | 1 | +65% | | Elevator | 2 | +65% | | Pitch | 6 | -65%</description>
+    </item>
+  </channel>
+</rss>

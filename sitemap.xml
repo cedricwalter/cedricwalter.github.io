@@ -2,6 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://waltercedric.com/tags/calculator/</loc>
+    <lastmod>2023-12-24T08:10:55+00:00</lastmod>
+  </url><url>
+    <loc>https://waltercedric.com/categories/</loc>
+    <lastmod>2023-12-24T08:10:55+00:00</lastmod>
+  </url><url>
+    <loc>https://waltercedric.com/</loc>
+    <lastmod>2023-12-24T08:10:55+00:00</lastmod>
+  </url><url>
+    <loc>https://waltercedric.com/categories/hewlett-packard/</loc>
+    <lastmod>2023-12-24T08:10:55+00:00</lastmod>
+  </url><url>
+    <loc>https://waltercedric.com/tags/hewlettpackard/</loc>
+    <lastmod>2023-12-24T08:10:55+00:00</lastmod>
+  </url><url>
+    <loc>https://waltercedric.com/posts/hp48/2004-09-02-what-iave-done-for-the-hp49/</loc>
+    <lastmod>2023-12-24T08:10:55+00:00</lastmod>
+  </url><url>
+    <loc>https://waltercedric.com/tags/metakernel/</loc>
+    <lastmod>2023-12-24T08:10:55+00:00</lastmod>
+  </url><url>
+    <loc>https://waltercedric.com/posts/</loc>
+    <lastmod>2023-12-24T08:10:55+00:00</lastmod>
+  </url><url>
+    <loc>https://waltercedric.com/tags/</loc>
+    <lastmod>2023-12-24T08:10:55+00:00</lastmod>
+  </url><url>
     <loc>https://waltercedric.com/scooter/a-timeless-classic-the-vespa-acma-1954/</loc>
     <lastmod>2023-12-23T08:10:55+00:00</lastmod>
   </url><url>
@@ -12,12 +39,6 @@
     <lastmod>2023-12-23T08:10:55+00:00</lastmod>
   </url><url>
     <loc>https://waltercedric.com/tags/bernardet/</loc>
-    <lastmod>2023-12-23T08:10:55+00:00</lastmod>
-  </url><url>
-    <loc>https://waltercedric.com/categories/</loc>
-    <lastmod>2023-12-23T08:10:55+00:00</lastmod>
-  </url><url>
-    <loc>https://waltercedric.com/</loc>
     <lastmod>2023-12-23T08:10:55+00:00</lastmod>
   </url><url>
     <loc>https://waltercedric.com/tags/collector/</loc>
@@ -65,9 +86,6 @@
     <loc>https://waltercedric.com/pimoroni-picade/</loc>
     <lastmod>2023-12-23T08:10:55+00:00</lastmod>
   </url><url>
-    <loc>https://waltercedric.com/posts/</loc>
-    <lastmod>2023-12-23T08:10:55+00:00</lastmod>
-  </url><url>
     <loc>https://waltercedric.com/tags/raspbian/</loc>
     <lastmod>2023-12-23T08:10:55+00:00</lastmod>
   </url><url>
@@ -81,9 +99,6 @@
     <lastmod>2023-12-23T08:10:55+00:00</lastmod>
   </url><url>
     <loc>https://waltercedric.com/categories/snk-neo-geo/</loc>
-    <lastmod>2023-12-23T08:10:55+00:00</lastmod>
-  </url><url>
-    <loc>https://waltercedric.com/tags/</loc>
     <lastmod>2023-12-23T08:10:55+00:00</lastmod>
   </url><url>
     <loc>https://waltercedric.com/scooter/the-classic-charm-of-the-bernardet-scooter/</loc>
@@ -983,21 +998,6 @@
     <loc>https://waltercedric.com/tags/tutorial/</loc>
     <lastmod>2017-04-13T09:56:22+02:00</lastmod>
   </url><url>
-    <loc>https://waltercedric.com/tags/calculator/</loc>
-    <lastmod>2015-02-06T08:40:17+00:00</lastmod>
-  </url><url>
-    <loc>https://waltercedric.com/categories/hewlett-packard/</loc>
-    <lastmod>2015-02-06T08:40:17+00:00</lastmod>
-  </url><url>
-    <loc>https://waltercedric.com/les-niveaux-de-gris/</loc>
-    <lastmod>2015-02-06T08:40:17+00:00</lastmod>
-  </url><url>
-    <loc>https://waltercedric.com/tags/rpn/</loc>
-    <lastmod>2015-02-06T08:40:17+00:00</lastmod>
-  </url><url>
-    <loc>https://waltercedric.com/tags/scientific/</loc>
-    <lastmod>2015-02-06T08:40:17+00:00</lastmod>
-  </url><url>
     <loc>https://waltercedric.com/avoid-infamous-change-restart-wait-check-development-lifecycle/</loc>
     <lastmod>2015-01-14T13:36:39+00:00</lastmod>
   </url><url>
@@ -1124,7 +1124,7 @@
     <loc>https://waltercedric.com/visiting-italy-pisa/</loc>
     <lastmod>2004-11-12T22:44:54+00:00</lastmod>
   </url><url>
-    <loc>https://waltercedric.com/scooter/fabriquer-votre-cabine-de-sablage-pour-presque-rien/</loc>
+    <loc>https://waltercedric.com/posts/scooters/2004-09-09-fabriquer-votre-cabine-de-sablage-pour-presque-rien/</loc>
     <lastmod>2004-09-09T21:53:08+00:00</lastmod>
   </url><url>
     <loc>https://waltercedric.com/tags/checklist/</loc>
@@ -1142,11 +1142,29 @@
     <loc>https://waltercedric.com/metakernel-unofficial-site/</loc>
     <lastmod>2004-09-02T20:17:53+00:00</lastmod>
   </url><url>
-    <loc>https://waltercedric.com/tags/hewlettpackard/</loc>
-    <lastmod>2004-09-02T20:17:53+00:00</lastmod>
+    <loc>https://waltercedric.com/posts/rchelicopter/2004-09-01-comment-regler-un-helicoptere-rc-raptor-30-ou-caliber-30/</loc>
+    <lastmod>2004-09-01T23:26:37+02:00</lastmod>
   </url><url>
-    <loc>https://waltercedric.com/tags/metakernel/</loc>
-    <lastmod>2004-09-02T20:17:53+00:00</lastmod>
+    <loc>https://waltercedric.com/tags/techniques/</loc>
+    <lastmod>2004-09-01T23:26:37+02:00</lastmod>
+  </url><url>
+    <loc>https://waltercedric.com/tags/correctly/</loc>
+    <lastmod>2004-08-26T23:36:15+02:00</lastmod>
+  </url><url>
+    <loc>https://waltercedric.com/tags/european/</loc>
+    <lastmod>2004-08-26T23:36:15+02:00</lastmod>
+  </url><url>
+    <loc>https://waltercedric.com/tags/kyosho/</loc>
+    <lastmod>2004-08-26T23:36:15+02:00</lastmod>
+  </url><url>
+    <loc>https://waltercedric.com/posts/rchelicopter/2004-08-26-kyosho-caliber-30-setup/</loc>
+    <lastmod>2004-08-26T23:36:15+02:00</lastmod>
+  </url><url>
+    <loc>https://waltercedric.com/tags/reference/</loc>
+    <lastmod>2004-08-26T23:36:15+02:00</lastmod>
+  </url><url>
+    <loc>https://waltercedric.com/tags/swashplate/</loc>
+    <lastmod>2004-08-26T23:36:15+02:00</lastmod>
   </url><url>
     <loc>https://waltercedric.com/tags/ci/cd/</loc>
   </url>

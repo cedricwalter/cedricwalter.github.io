@@ -7,8 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Reproduction without explicit permission is prohibited. All Rights Reserved. All photos remain copyright © their rightful owners. No copyright infringement is intended.</copyright>
-    <lastBuildDate>Sat, 23 Dec 2023 08:10:55 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 Dec 2023 08:10:55 +0000</lastBuildDate>
     <atom:link href="https://waltercedric.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>calculator</title>
+      <link>https://waltercedric.com/tags/calculator/</link>
+      <pubDate>Sun, 24 Dec 2023 08:10:55 +0000</pubDate>
+      <guid>https://waltercedric.com/tags/calculator/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>hewlettpackard</title>
+      <link>https://waltercedric.com/tags/hewlettpackard/</link>
+      <pubDate>Sun, 24 Dec 2023 08:10:55 +0000</pubDate>
+      <guid>https://waltercedric.com/tags/hewlettpackard/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>metakernel</title>
+      <link>https://waltercedric.com/tags/metakernel/</link>
+      <pubDate>Sun, 24 Dec 2023 08:10:55 +0000</pubDate>
+      <guid>https://waltercedric.com/tags/metakernel/</guid>
+      <description></description>
+    </item>
     <item>
       <title>acma</title>
       <link>https://waltercedric.com/tags/acma/</link>
@@ -1242,27 +1263,6 @@
       <description></description>
     </item>
     <item>
-      <title>calculator</title>
-      <link>https://waltercedric.com/tags/calculator/</link>
-      <pubDate>Fri, 06 Feb 2015 08:40:17 +0000</pubDate>
-      <guid>https://waltercedric.com/tags/calculator/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>rpn</title>
-      <link>https://waltercedric.com/tags/rpn/</link>
-      <pubDate>Fri, 06 Feb 2015 08:40:17 +0000</pubDate>
-      <guid>https://waltercedric.com/tags/rpn/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>scientific</title>
-      <link>https://waltercedric.com/tags/scientific/</link>
-      <pubDate>Fri, 06 Feb 2015 08:40:17 +0000</pubDate>
-      <guid>https://waltercedric.com/tags/scientific/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>me</title>
       <link>https://waltercedric.com/tags/me/</link>
       <pubDate>Wed, 25 Aug 2010 13:58:00 +0000</pubDate>
@@ -1389,17 +1389,45 @@
       <description></description>
     </item>
     <item>
-      <title>hewlettpackard</title>
-      <link>https://waltercedric.com/tags/hewlettpackard/</link>
-      <pubDate>Thu, 02 Sep 2004 20:17:53 +0000</pubDate>
-      <guid>https://waltercedric.com/tags/hewlettpackard/</guid>
+      <title>Techniques</title>
+      <link>https://waltercedric.com/tags/techniques/</link>
+      <pubDate>Wed, 01 Sep 2004 23:26:37 +0200</pubDate>
+      <guid>https://waltercedric.com/tags/techniques/</guid>
       <description></description>
     </item>
     <item>
-      <title>metakernel</title>
-      <link>https://waltercedric.com/tags/metakernel/</link>
-      <pubDate>Thu, 02 Sep 2004 20:17:53 +0000</pubDate>
-      <guid>https://waltercedric.com/tags/metakernel/</guid>
+      <title>correctly</title>
+      <link>https://waltercedric.com/tags/correctly/</link>
+      <pubDate>Thu, 26 Aug 2004 23:36:15 +0200</pubDate>
+      <guid>https://waltercedric.com/tags/correctly/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>european</title>
+      <link>https://waltercedric.com/tags/european/</link>
+      <pubDate>Thu, 26 Aug 2004 23:36:15 +0200</pubDate>
+      <guid>https://waltercedric.com/tags/european/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>kyosho</title>
+      <link>https://waltercedric.com/tags/kyosho/</link>
+      <pubDate>Thu, 26 Aug 2004 23:36:15 +0200</pubDate>
+      <guid>https://waltercedric.com/tags/kyosho/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>reference</title>
+      <link>https://waltercedric.com/tags/reference/</link>
+      <pubDate>Thu, 26 Aug 2004 23:36:15 +0200</pubDate>
+      <guid>https://waltercedric.com/tags/reference/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>swashplate</title>
+      <link>https://waltercedric.com/tags/swashplate/</link>
+      <pubDate>Thu, 26 Aug 2004 23:36:15 +0200</pubDate>
+      <guid>https://waltercedric.com/tags/swashplate/</guid>
       <description></description>
     </item>
     <item>

@@ -7,8 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Reproduction without explicit permission is prohibited. All Rights Reserved. All photos remain copyright © their rightful owners. No copyright infringement is intended.</copyright>
-    <lastBuildDate>Sat, 23 Dec 2023 08:10:55 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 Dec 2023 08:10:55 +0000</lastBuildDate>
     <atom:link href="https://waltercedric.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Me and the Hewlett Packard calculators</title>
+      <link>https://waltercedric.com/posts/hp48/2004-09-02-what-iave-done-for-the-hp49/</link>
+      <pubDate>Sun, 24 Dec 2023 08:10:55 +0000</pubDate>
+      <guid>https://waltercedric.com/posts/hp48/2004-09-02-what-iave-done-for-the-hp49/</guid>
+      <description>Hewlett-Packard, a pioneering force in the world of technology, has left an indelible mark on the field of calculators with its innovative and reliable range of HP calculators. Since the introduction of its first handheld calculator in 1972, HP has consistently upheld a commitment to precision, functionality, and user-friendly design.&#xA;HP calculators are renowned for their durability and advanced features, making them indispensable tools for professionals, scientists, engineers, students, and enthusiasts alike.</description>
+    </item>
     <item>
       <title>A Timeless Classic: The Vespa Acma 1954</title>
       <link>https://waltercedric.com/scooter/a-timeless-classic-the-vespa-acma-1954/</link>
@@ -871,13 +878,6 @@
       <description>A git workflow that is easy and scale for product development There are numerous GIT workflow floating around like Centralized Workflow , Gitflow , Forking flow and Feature Branch Workflow&#xA;Over the last 10 years, I have followed this really simple workflow, similar to the forking flow.- it allow Parallel Development, features branches can be merged to any release branches or ideally Master&#xA;Collaboration Feature branches also make it easier for two or more developers to collaborate on the same feature We consider Master the stable version of the product, this branch should be deployed automatically using continuous delivery</description>
     </item>
     <item>
-      <title>Les niveaux de gris sur HP48</title>
-      <link>https://waltercedric.com/les-niveaux-de-gris/</link>
-      <pubDate>Fri, 06 Feb 2015 08:40:17 +0000</pubDate>
-      <guid>https://waltercedric.com/les-niveaux-de-gris/</guid>
-      <description>par Cédric Walter 1996&#xA;Cet article permet de comprendre comment afficher des niveaux de gris sur HP48, un programme ASM y fait suite.&#xA;Technique des niveaux de gris Pour afficher des niveaux de gris, il suffit de changer rapidement d &amp;lsquo;image et de jouer sur la persistance rétinienne de l &amp;lsquo;oeil. Pour changer rapidement d &amp;lsquo;écran, on modifie l &amp;lsquo;adresse en 120h (écran affiché en cours). Pour modifier les images à la bonne vitesse, il faut lire le compteur de ligne en 128h, 6 bits sur lesquels sont codés le numéro de la ligne en cours de rafraîchissement et qui décroît de la séparation des menus jusqu &amp;lsquo;à 0 (Technique de synchronisation verticale).</description>
-    </item>
-    <item>
       <title>Avoid infamous change – restart – wait – check development lifecycle!</title>
       <link>https://waltercedric.com/avoid-infamous-change-restart-wait-check-development-lifecycle/</link>
       <pubDate>Wed, 14 Jan 2015 13:36:39 +0000</pubDate>
@@ -1040,10 +1040,10 @@
     </item>
     <item>
       <title>Fabriquer votre cabine de sablage pour presque rien…</title>
-      <link>https://waltercedric.com/scooter/fabriquer-votre-cabine-de-sablage-pour-presque-rien/</link>
+      <link>https://waltercedric.com/posts/scooters/2004-09-09-fabriquer-votre-cabine-de-sablage-pour-presque-rien/</link>
       <pubDate>Thu, 09 Sep 2004 21:53:08 +0000</pubDate>
-      <guid>https://waltercedric.com/scooter/fabriquer-votre-cabine-de-sablage-pour-presque-rien/</guid>
-      <description>Fabriquer votre cabine de sablage pour presque rien… Sablage1.jpg&#xA;Sablage2.jpg&#xA;Sablage3.jpg&#xA;Amélioration du concept :&#xA;– Impossible de faire fonctionner la cabine sans un dispositif qui aspire les poussières. J’ai donc acheter un aspirateur de copeaux industrielle pour 200€ (pales metal) et l’ai donc bricoler et cela marche a la perfection !&#xA;Point Noirs :&#xA;La CONSOMMATION !!!!! :&#xA;2 halogènes de 500 watts = 1000 Watts + 1 compresseur de 5CV 9A 3KWatts et 370 l/min restitué a 9bars (insuffisant) + 1 deuzieme compresseur d’appoint pour rester a 10 bars de 1,2KWatts + le dessableur de 1100 Watts</description>
+      <guid>https://waltercedric.com/posts/scooters/2004-09-09-fabriquer-votre-cabine-de-sablage-pour-presque-rien/</guid>
+      <description>Fabriquer votre cabine de sablage pour presque rien… Amélioration du concept Il est impossible de faire fonctionner la cabine sans un dispositif qui aspire les poussières. J’ai donc acheter un aspirateur de copeaux industrielle pour 200€ (pales en métal) et l’ai donc bricoler et cela marche a la perfection !&#xA;Point Noirs la consommation electrique 2 halogènes de 500 watts = 1000 Watts 1 compresseur de 5CV 9A 3KWatts et 370 l/min restitué a 9bars (insuffisant) 1 deuzieme compresseur d’appoint pour rester a 10 bars de 1,2KWatts le dessableur de 1100 Watts Je me demande si il n’est pas plus rentable de louer une fois tous les 6 mois avec des copains un compresseur de chantier pour le week end et sabler jours et nuits</description>
     </item>
     <item>
       <title>Matrice de connaissance du moteur</title>
@@ -1072,6 +1072,20 @@
       <pubDate>Thu, 02 Sep 2004 20:17:53 +0000</pubDate>
       <guid>https://waltercedric.com/metakernel-unofficial-site/</guid>
       <description>This is not the Official MetaKernel Home Page.&#xA;A huge portion of that page was first published in raw HTML in 1998! (without CSS)&#xA;May 14, 1996, MetaKernel ? Hello World !&#xA;As you know, since 4 months, a new program is available for your HP48 His name is MetaKernel&#xA;This program can speed up your hp48gx up to 100 times&#xA;It &amp;rsquo;s a kernel (as the name says) which replace the standard environment of your HP We can compare this program like windows vs DOS</description>
+    </item>
+    <item>
+      <title>Comment régler un hélicoptère RC: Raptor 30 ou caliber 30</title>
+      <link>https://waltercedric.com/posts/rchelicopter/2004-09-01-comment-regler-un-helicoptere-rc-raptor-30-ou-caliber-30/</link>
+      <pubDate>Wed, 01 Sep 2004 23:26:37 +0200</pubDate>
+      <guid>https://waltercedric.com/posts/rchelicopter/2004-09-01-comment-regler-un-helicoptere-rc-raptor-30-ou-caliber-30/</guid>
+      <description>Notice Légal : L’auteur ne pourra en aucun cas Ãªtre tenu responsable de tout accidents ou dommages matériels pouvant survenir de l’utilisation de ces informations. Utiliser les Ã vos propres risques et périls.&#xA;ATTENTION Les hélicopteres radiocommandés ne sont pas des jouets, Ce sont des machines de précision qui ont le potentiel de causer des blessures graves et mÃªme de provoquer la MORT. Ne jamais l’oublier !!!! Les pales du rotor tournent souvent Ã plus de 450 km/h et cree une pression similaire a une balle de 45mm, de plus un hélico de 5 kilos a plus de 70 km/h contient une energie cinétique considérable qui se libére violement a l’impact.</description>
+    </item>
+    <item>
+      <title>Kyosho Caliber 30 Setup</title>
+      <link>https://waltercedric.com/posts/rchelicopter/2004-08-26-kyosho-caliber-30-setup/</link>
+      <pubDate>Thu, 26 Aug 2004 23:36:15 +0200</pubDate>
+      <guid>https://waltercedric.com/posts/rchelicopter/2004-08-26-kyosho-caliber-30-setup/</guid>
+      <description>Setup for mode 2 The manual explain a complete setup and is one best of its kind.&#xA;EMS MODE (CCPM 120Â° type) Futaba Radio FF9&#xA;Mode 2 (european TX) in manual only mode 1 is specified (american)&#xA;USE ONLY 3 identical servo for aileron, elevator and pitch (same brand and reference) otherwise the swash-plate will not go up and down correctly.&#xA;| Reverse | Name | Channel | Mode | |&amp;mdash;|&amp;mdash;|&amp;mdash;| | Aileron | 1 | Normal | | Elevator | 2 | Normal | | Throttle | 3 | Reverse | | Rudder | 4 | Reverse | | Gyro | 5 | Normal | | Pitch | 6 | Reverse | | SWASH-AFR | Name | Channel | value | |&amp;mdash;|&amp;mdash;|&amp;mdash;|&amp;mdash;| | Aileron | 1 | +65% | | Elevator | 2 | +65% | | Pitch | 6 | -65%</description>
     </item>
   </channel>
 </rss>

@@ -215,68 +215,66 @@
 
       <article class="main">
         
-        <img class="cover" src="/2012/10/apache-poi-logo_thumb.jpg" />
-        
 
         <p>The <a href="http://poi.apache.org/">Apache POI</a> Project &rsquo;s mission is to create and maintain #Java APIs for manipulating various file formats based upon the Office Open XML standards (OOXML) and Microsoft &rsquo;s OLE 2 Compound Document format (OLE2). In short, you can read and write MS Excel files using #Java. In addition, you can read and write MS Word and MS PowerPoint files using #Java. <a href="http://poi.apache.org/">Apache POI</a> is your #Java Excel solution (for Excel 97-2008). We have a complete API for porting other OOXML and OLE2 formats and welcome others to participate.</p>
 <h3 id="my-contributions-to-the-open-source-project-apache-poi-adding-missing-excel-functions-in-java">My Contributions to the Open Source project Apache POI: adding missing Excel functions in #Java</h3>
-<p><a href="https://issues.apache.org/bugzilla/show_bug.cgi?id=54673"><strong>Bug 54673</strong></a> <strong>– [PATCH] Simple wildcard support in HLOOKUP, VOOLKUP, MATCH, COUNTIF</strong><br>
-Add support for wildcards<br>
-? (question mark) Any single character<br>
+<p><a href="https://issues.apache.org/bugzilla/show_bug.cgi?id=54673"><strong>Bug 54673</strong></a> <strong>– [PATCH] Simple wildcard support in HLOOKUP, VOOLKUP, MATCH, COUNTIF</strong>
+Add support for wildcards
+? (question mark) Any single character
     For example, sm?th finds &ldquo;smith&rdquo; and &ldquo;smyth&rdquo;</p>
 <ul>
-<li>(asterisk) Any number of characters<br>
-    For example, *east finds &ldquo;Northeast&rdquo; and &ldquo;Southeast&rdquo;<br>
-~ (tilde) followed by ?, *, or ~A question mark, asterisk, or tilde<br>
+<li>(asterisk) Any number of characters
+    For example, *east finds &ldquo;Northeast&rdquo; and &ldquo;Southeast&rdquo;
+~ (tilde) followed by ?, *, or ~A question mark, asterisk, or tilde
     For example, fy91~? finds &ldquo;fy91?&rdquo;</li>
 </ul>
-<p><a href="https://issues.apache.org/bugzilla/show_bug.cgi?id=54723"><strong>Bug 54723</strong></a> **– [PATCH] Support for percentage in VALUE() function<br>
+<p><a href="https://issues.apache.org/bugzilla/show_bug.cgi?id=54723"><strong>Bug 54723</strong></a> **– [PATCH] Support for percentage in VALUE() function
 ** support for VALUE(&ldquo;30%&rdquo;) or VALUE(&ldquo;30 %&rdquo;) as excel support this</p>
-<p><a href="https://issues.apache.org/bugzilla/show_bug.cgi?id=54720"><strong>Bug 54720</strong></a> **– [PATCH] Support for Row/Col Area Range like 8:8 or H:H<br>
+<p><a href="https://issues.apache.org/bugzilla/show_bug.cgi?id=54720"><strong>Bug 54720</strong></a> **– [PATCH] Support for Row/Col Area Range like 8:8 or H:H
 ** Range support in the form of NameType.ROW:NameType.ROW    like 8:8 or 6:8</p>
-<p><a href="https://issues.apache.org/bugzilla/show_bug.cgi?id=55037"><strong>Bug 55037</strong></a> <strong>– [PATCH] patch for missing function DELTA</strong><br>
-Add support for function Delta<br>
+<p><a href="https://issues.apache.org/bugzilla/show_bug.cgi?id=55037"><strong>Bug 55037</strong></a> <strong>– [PATCH] patch for missing function DELTA</strong>
+Add support for function Delta
 <a href="http://office.microsoft.com/en-001/excel-help/delta-HP005209057.aspx">http://office.microsoft.com/en-001/excel-help/delta-HP005209057.aspx</a></p>
-<p><a href="https://issues.apache.org/bugzilla/show_bug.cgi?id=55036"><strong>Bug 55036</strong></a> <strong>– [PATCH] patch for missing function Dec2HEx</strong><br>
-Converts a decimal number to hexadecimal.<br>
+<p><a href="https://issues.apache.org/bugzilla/show_bug.cgi?id=55036"><strong>Bug 55036</strong></a> <strong>– [PATCH] patch for missing function Dec2HEx</strong>
+Converts a decimal number to hexadecimal.
 <a href="http://office.microsoft.com/en-001/excel-help/dec2hex-HP005209054.aspx">http://office.microsoft.com/en-001/excel-help/dec2hex-HP005209054.aspx</a></p>
-<p><a href="https://issues.apache.org/bugzilla/show_bug.cgi?id=55038"><strong>Bug 55038</strong></a> <strong>– [PATCH] patch for missing function Dec2Oct</strong><br>
-Converts a decimal number to octal.<br>
+<p><a href="https://issues.apache.org/bugzilla/show_bug.cgi?id=55038"><strong>Bug 55038</strong></a> <strong>– [PATCH] patch for missing function Dec2Oct</strong>
+Converts a decimal number to octal.
 <a href="http://office.microsoft.com/en-001/excel-help/dec2oct-HP005209055.aspx">http://office.microsoft.com/en-001/excel-help/dec2oct-HP005209055.aspx</a></p>
-<p><a href="https://issues.apache.org/bugzilla/show_bug.cgi?id=55041"><strong>Bug 55041</strong></a> **– [PATCH] patch for missing function CODE<br>
-** Returns a numeric code for the first character in a text string. The returned code corresponds to the character set used by your computer.<br>
+<p><a href="https://issues.apache.org/bugzilla/show_bug.cgi?id=55041"><strong>Bug 55041</strong></a> **– [PATCH] patch for missing function CODE
+** Returns a numeric code for the first character in a text string. The returned code corresponds to the character set used by your computer.
 <a href="http://office.microsoft.com/en-001/mac-excel-help/code-function-HA102927539.aspx">http://office.microsoft.com/en-001/mac-excel-help/code-function-HA102927539.aspx</a></p>
-<p><a href="https://issues.apache.org/bugzilla/show_bug.cgi?id=55042"><strong>Bug 55042</strong></a> <strong>– [PATCH] patch for missing function COMPLEX</strong><br>
-Converts real and imaginary coefficients into a complex number of the form x + yi or x + yj.<br>
+<p><a href="https://issues.apache.org/bugzilla/show_bug.cgi?id=55042"><strong>Bug 55042</strong></a> <strong>– [PATCH] patch for missing function COMPLEX</strong>
+Converts real and imaginary coefficients into a complex number of the form x + yi or x + yj.
 <a href="http://office.microsoft.com/en-001/excel-help/complex-HP005209019.aspx">http://office.microsoft.com/en-001/excel-help/complex-HP005209019.aspx</a></p>
-<p><a href="https://issues.apache.org/bugzilla/show_bug.cgi?id=55043"><strong>Bug 55043</strong></a> <strong>– [PATCH] patch for missing function QUOTIENT</strong><br>
-Returns the integer portion of a division. Use this function when you want to discard the remainder of a division.<br>
+<p><a href="https://issues.apache.org/bugzilla/show_bug.cgi?id=55043"><strong>Bug 55043</strong></a> <strong>– [PATCH] patch for missing function QUOTIENT</strong>
+Returns the integer portion of a division. Use this function when you want to discard the remainder of a division.
 <a href="http://office.microsoft.com/en-001/excel-help/quotient-HP005209227.aspx">http://office.microsoft.com/en-001/excel-help/quotient-HP005209227.aspx</a></p>
-<p><a href="https://issues.apache.org/bugzilla/show_bug.cgi?id=55047"><strong>Bug 55047</strong></a> <strong>– [PATCH] patch for missing function REPT</strong><br>
-Repeats text a given number of times. Use <strong>REPT</strong> to fill a cell with a number of instances of a text string.<br>
+<p><a href="https://issues.apache.org/bugzilla/show_bug.cgi?id=55047"><strong>Bug 55047</strong></a> <strong>– [PATCH] patch for missing function REPT</strong>
+Repeats text a given number of times. Use <strong>REPT</strong> to fill a cell with a number of instances of a text string.
 <a href="http://office.microsoft.com/en-001/mac-excel-help/rept-function-HA102927993.aspx">http://office.microsoft.com/en-001/mac-excel-help/rept-function-HA102927993.aspx</a></p>
-<p><a href="https://issues.apache.org/bugzilla/show_bug.cgi?id=55055"><strong>Bug 55055</strong></a> <strong>– [PATCH] patch for missing function Bin2Dec</strong><br>
-Converts a binary number to decimal.<br>
-Number cannot contain more than 10 characters (10 bits). The most significant bit of number is the sign bit. The remaining 9 bits are magnitude bits. Negative numbers are represented using two &rsquo;s-complement notation.<br>
+<p><a href="https://issues.apache.org/bugzilla/show_bug.cgi?id=55055"><strong>Bug 55055</strong></a> <strong>– [PATCH] patch for missing function Bin2Dec</strong>
+Converts a binary number to decimal.
+Number cannot contain more than 10 characters (10 bits). The most significant bit of number is the sign bit. The remaining 9 bits are magnitude bits. Negative numbers are represented using two &rsquo;s-complement notation.
 <a href="http://office.microsoft.com/en-001/excel-help/bin2dec-HP005209002.aspx">http://office.microsoft.com/en-001/excel-help/bin2dec-HP005209002.aspx</a></p>
-<p><a href="https://issues.apache.org/bugzilla/show_bug.cgi?id=55057"><strong>Bug 55057</strong></a> <strong>– [PATCH] patch for missing function Hex2Dec</strong><br>
-Converts a hexadecimal number to decimal.<br>
-Number cannot contain more than 10 characters (40 bits). The most significant bit of number is the sign bit. The remaining 39 bits are magnitude bits. Negative numbers are represented using two &rsquo;s-complement notation.<br>
+<p><a href="https://issues.apache.org/bugzilla/show_bug.cgi?id=55057"><strong>Bug 55057</strong></a> <strong>– [PATCH] patch for missing function Hex2Dec</strong>
+Converts a hexadecimal number to decimal.
+Number cannot contain more than 10 characters (40 bits). The most significant bit of number is the sign bit. The remaining 39 bits are magnitude bits. Negative numbers are represented using two &rsquo;s-complement notation.
 <a href="http://office.microsoft.com/en-001/excel-help/hex2dec-HP005209111.aspx">http://office.microsoft.com/en-001/excel-help/hex2dec-HP005209111.aspx</a></p>
-<p><a href="https://issues.apache.org/bugzilla/show_bug.cgi?id=55058"><strong>Bug 55058</strong></a> <strong>– [PATCH] patch for missing function FactDouble<br>
-** Returns the double factorial of a number.      **<br>
+<p><a href="https://issues.apache.org/bugzilla/show_bug.cgi?id=55058"><strong>Bug 55058</strong></a> <strong>– [PATCH] patch for missing function FactDouble
+** Returns the double factorial of a number.      **
 <a href="http://office.microsoft.com/en-001/excel-help/factdouble-HP005209085.aspx">http://office.microsoft.com/en-001/excel-help/factdouble-HP005209085.aspx</a></strong></p>
-<p><a href="https://issues.apache.org/bugzilla/show_bug.cgi?id=55079"><strong>Bug 55079</strong></a> **– [PATCH] patch for missing function IMAGINARY<br>
-** Returns the imaginary coefficient of a complex number in x + yi or x + yj text format.<br>
+<p><a href="https://issues.apache.org/bugzilla/show_bug.cgi?id=55079"><strong>Bug 55079</strong></a> **– [PATCH] patch for missing function IMAGINARY
+** Returns the imaginary coefficient of a complex number in x + yi or x + yj text format.
 <a href="http://office.microsoft.com/en-001/excel-help/imaginary-HP005209120.aspx">http://office.microsoft.com/en-001/excel-help/imaginary-HP005209120.aspx</a></p>
-<p><a href="https://issues.apache.org/bugzilla/show_bug.cgi?id=55080"><strong>Bug 55080</strong></a> <strong>– [PATCH] patch for missing function IMREAL</strong><br>
-Returns the real coefficient of a complex number in x + yi or x + yj text format.<br>
+<p><a href="https://issues.apache.org/bugzilla/show_bug.cgi?id=55080"><strong>Bug 55080</strong></a> <strong>– [PATCH] patch for missing function IMREAL</strong>
+Returns the real coefficient of a complex number in x + yi or x + yj text format.
 <a href="http://office.microsoft.com/en-001/excel-help/imreal-HP005209131.aspx">http://office.microsoft.com/en-001/excel-help/imreal-HP005209131.aspx</a></p>
-<p><strong><a href="https://issues.apache.org/bugzilla/show_bug.cgi?id=55081"><strong>Bug 55081</strong></a> – [PATCH] patch for missing function WEEKNUM</strong><br>
-Returns a number that indicates where the week falls numerically within a year.<br>
+<p><strong><a href="https://issues.apache.org/bugzilla/show_bug.cgi?id=55081"><strong>Bug 55081</strong></a> – [PATCH] patch for missing function WEEKNUM</strong>
+Returns a number that indicates where the week falls numerically within a year.
 <a href="http://office.microsoft.com/en-001/excel-help/weeknum-HP005209337.aspx">http://office.microsoft.com/en-001/excel-help/weeknum-HP005209337.aspx</a></p>
-<p><a href="https://issues.apache.org/bugzilla/show_bug.cgi?id=55082"><strong>Bug 55082</strong></a> <strong>– [PATCH] patch for missing function ROMAN</strong><br>
-Converts an arabic numeral to roman, as text.<br>
+<p><a href="https://issues.apache.org/bugzilla/show_bug.cgi?id=55082"><strong>Bug 55082</strong></a> <strong>– [PATCH] patch for missing function ROMAN</strong>
+Converts an arabic numeral to roman, as text.
 <a href="http://office.microsoft.com/en-001/excel-help/roman-HP005209238.aspx">http://office.microsoft.com/en-001/excel-help/roman-HP005209238.aspx</a></p>
 <p><strong>More to come soon!</strong></p>
 
@@ -352,6 +350,14 @@ Converts an arabic numeral to roman, as text.<br>
     
     
     
+    
+      
+    
+      
+    
+      
+    
+      
     
       
     
@@ -1062,6 +1068,12 @@ Converts an arabic numeral to roman, as text.<br>
           
           
           
+            <a class="ui label" href="/tags/correctly/" title="correctly">
+              correctly
+            </a>
+          
+          
+          
             <a class="ui label" href="/tags/cost/" title="cost">
               cost
             </a>
@@ -1214,6 +1226,12 @@ Converts an arabic numeral to roman, as text.<br>
           
             <a class="ui label" href="/tags/europe/" title="europe">
               europe
+            </a>
+          
+          
+          
+            <a class="ui label" href="/tags/european/" title="european">
+              european
             </a>
           
           
@@ -1482,6 +1500,12 @@ Converts an arabic numeral to roman, as text.<br>
           
           
           
+            <a class="ui label" href="/tags/kyosho/" title="kyosho">
+              kyosho
+            </a>
+          
+          
+          
             <a class="ui label" href="/tags/lake/" title="lake">
               lake
             </a>
@@ -1734,6 +1758,12 @@ Converts an arabic numeral to roman, as text.<br>
           
           
           
+            <a class="ui label" href="/tags/reference/" title="reference">
+              reference
+            </a>
+          
+          
+          
             <a class="ui label" href="/tags/released/" title="released">
               released
             </a>
@@ -1758,20 +1788,8 @@ Converts an arabic numeral to roman, as text.<br>
           
           
           
-            <a class="ui label" href="/tags/rpn/" title="rpn">
-              rpn
-            </a>
-          
-          
-          
             <a class="ui label" href="/tags/rx/" title="rx">
               rx
-            </a>
-          
-          
-          
-            <a class="ui label" href="/tags/scientific/" title="scientific">
-              scientific
             </a>
           
           
@@ -1836,6 +1854,12 @@ Converts an arabic numeral to roman, as text.<br>
           
           
           
+            <a class="ui label" href="/tags/swashplate/" title="swashplate">
+              swashplate
+            </a>
+          
+          
+          
             <a class="ui label" href="/tags/swiftui/" title="swiftui">
               swiftui
             </a>
@@ -1862,6 +1886,12 @@ Converts an arabic numeral to roman, as text.<br>
           
             <a class="ui label" href="/tags/team/" title="team">
               team
+            </a>
+          
+          
+          
+            <a class="ui label" href="/tags/techniques/" title="Techniques">
+              Techniques
             </a>
           
           

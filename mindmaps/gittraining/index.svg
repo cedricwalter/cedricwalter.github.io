@@ -6832,7 +6832,7 @@ WpX8n8st8ZhO1wkf3jeI1dvTNJ3gILvCv5oL8HfvjX/SG2udD17M9DF/9PT0KOt9
 I5xvbCyH0dGjftx2hbZAEykUYWLyiS+pCIPVew6Moy9kphlD+avfu0pKerdEo+dC
 qhpeLi+TFkz7+6anpp7m2zpf84bjApi+AHDGbbHo8h3JRob/OL8AdBdD40lwPYcA
 AAAASUVORK5CYII=" height="16" preserveAspectRatio="none" />
-      <text x="6" y="15" clip-path="url(#clipPath185)" text-rendering="geometricPrecision" stroke="none" xml:space="preserve">git checkout --theirs -- animated.gif</text>
+      <text x="6" y="15" clip-path="url(#clipPath185)" text-rendering="geometricPrecision" stroke="none" xml:space="preserve">git checkout --theirs -- animated.webp</text>
     </g>
     <g font-size="11" transform="translate(5,2244)" fill="gray" text-rendering="optimizeSpeed" font-family="&apos;Tahoma&apos;" stroke="gray">
       <path fill="none" d="M399 71 C387 71 398 69 378 69" clip-path="url(#clipPath272)" />
@@ -6857,7 +6857,7 @@ WpX8n8st8ZhO1wkf3jeI1dvTNJ3gILvCv5oL8HfvjX/SG2udD17M9DF/9PT0KOt9
 I5xvbCyH0dGjftx2hbZAEykUYWLyiS+pCIPVew6Moy9kphlD+avfu0pKerdEo+dC
 qhpeLi+TFkz7+6anpp7m2zpf84bjApi+AHDGbbHo8h3JRob/OL8AdBdD40lwPYcA
 AAAASUVORK5CYII=" height="16" preserveAspectRatio="none" />
-      <text x="6" y="15" clip-path="url(#clipPath273)" text-rendering="geometricPrecision" stroke="none" xml:space="preserve">git add animated.gif</text>
+      <text x="6" y="15" clip-path="url(#clipPath273)" text-rendering="geometricPrecision" stroke="none" xml:space="preserve">git add animated.webp</text>
     </g>
     <g fill="gray" text-rendering="optimizeSpeed" font-family="sans-serif" transform="translate(55,2294)" stroke="gray">
       <line clip-path="url(#clipPath275)" fill="none" x1="0" x2="329" y1="19" y2="19" />
@@ -6879,7 +6879,7 @@ WpX8n8st8ZhO1wkf3jeI1dvTNJ3gILvCv5oL8HfvjX/SG2udD17M9DF/9PT0KOt9
 I5xvbCyH0dGjftx2hbZAEykUYWLyiS+pCIPVew6Moy9kphlD+avfu0pKerdEo+dC
 qhpeLi+TFkz7+6anpp7m2zpf84bjApi+AHDGbbHo8h3JRob/OL8AdBdD40lwPYcA
 AAAASUVORK5CYII=" height="16" preserveAspectRatio="none" />
-      <text x="6" y="15" clip-path="url(#clipPath275)" text-rendering="geometricPrecision" stroke="none" xml:space="preserve">git commit -m "use their version of binary animated.gif"</text>
+      <text x="6" y="15" clip-path="url(#clipPath275)" text-rendering="geometricPrecision" stroke="none" xml:space="preserve">git commit -m "use their version of binary animated.webp"</text>
     </g>
     <g fill="gray" text-rendering="optimizeSpeed" font-family="sans-serif" transform="translate(533,2271)" stroke="gray">
       <line clip-path="url(#clipPath277)" fill="none" x1="0" x2="252" y1="19" y2="19" />

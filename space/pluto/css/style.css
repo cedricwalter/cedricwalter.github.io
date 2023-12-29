@@ -77,7 +77,7 @@ a:hover {
   width: 100%;
   height: 49px;
   text-align: left;
-  background: #363b47 url('../img/common/top_bg.gif') 0 0 repeat-x;
+  background: #363b47 url('../img/common/top_bg.webp') 0 0 repeat-x;
 }
 .page .header .company-logo {
   float: right;
@@ -87,7 +87,7 @@ a:hover {
   height: 38px;
   overflow: hidden;
   text-indent: -9999px;
-  background: transparent url('../img/common/def_parallels_logo.gif') 0 0 no-repeat;
+  background: transparent url('../img/common/def_parallels_logo.webp') 0 0 no-repeat;
 }
 .page .header .header-area {
   height: 49px;
@@ -104,7 +104,7 @@ a:hover {
   height: 49px;
   overflow: hidden;
   text-indent: -9999px;
-  background: url('../img/common/def_plesk_logo.gif') no-repeat;
+  background: url('../img/common/def_plesk_logo.webp') no-repeat;
 }
 .page .header .header-text {
   float: right;
@@ -139,13 +139,13 @@ a:hover {
   background: #fff;
 }
 .wrapper .content {
-  background: #fff url('../img/common/content_bg.gif') 0 0 repeat-y;
+  background: #fff url('../img/common/content_bg.webp') 0 0 repeat-y;
 }
 .wrapper .content .description {
   padding: 0 15px 0 190px;
   min-height: 229px;
   font-size: 12px;
-  background: transparent url('../img/common/banner.jpg') 0 0 no-repeat;
+  background: transparent url('../img/common/banner.webp') 0 0 no-repeat;
 }
 * html .wrapper .content .description {
   height: 229px;
@@ -221,7 +221,7 @@ a:hover {
   font-size: 12px;
   font-weight: bold;
   color: #616161;
-  background: transparent url('../img/common/arrow.gif') 0 0 no-repeat;
+  background: transparent url('../img/common/arrow.webp') 0 0 no-repeat;
 }
 .promo .promo-block h4 a:hover,
 .promo .promo-block a.more:hover {
@@ -243,14 +243,14 @@ a:hover {
   width: 100%;
   min-width: 300px;
   height: 69px;
-  background: #f1fbfe url('../img/common/footer_bg.gif') 0 0 repeat-x;
+  background: #f1fbfe url('../img/common/footer_bg.webp') 0 0 repeat-x;
 }
 .page .footer-area {
   height: 69px;
   font-size: 11px;
   text-align: left;
   color: #000;
-  background: url('../img/common/footer_right_bg.png') 100% 0 no-repeat;
+  background: url('../img/common/footer_right_bg.webp') 100% 0 no-repeat;
 }
 .page .footer a {
   color: #06c;
@@ -294,15 +294,15 @@ a:hover {
   line-height: 32px;
   cursor: pointer;
 }
-#asp { background-image: url('../img/glyph/btn_asp_bg.gif'); }
-#aspnet { background-image: url('../img/glyph/btn_aspdotnet_bg.gif'); }
-#coldfusion { background-image: url('../img/glyph/btn_coldfusion_bg.gif'); }
-#perl { background-image: url('../img/glyph/btn_perl_bg.gif'); }
-#php { background-image: url('../img/glyph/btn_php_bg.gif'); }
-#python { background-image: url('../img/glyph/btn_python_bg.gif'); }
-#ssi { background-image: url('../img/glyph/btn_ssi_bg.gif'); }
-#fcgi { background-image: url('../img/glyph/btn_fast_cgi_bg.gif'); }
-#miva { background-image: url('../img/glyph/btn_miva_bg.gif'); }
+#asp { background-image: url('../img/glyph/btn_asp_bg.webp'); }
+#aspnet { background-image: url('../img/glyph/btn_aspdotnet_bg.webp'); }
+#coldfusion { background-image: url('../img/glyph/btn_coldfusion_bg.webp'); }
+#perl { background-image: url('../img/glyph/btn_perl_bg.webp'); }
+#php { background-image: url('../img/glyph/btn_php_bg.webp'); }
+#python { background-image: url('../img/glyph/btn_python_bg.webp'); }
+#ssi { background-image: url('../img/glyph/btn_ssi_bg.webp'); }
+#fcgi { background-image: url('../img/glyph/btn_fast_cgi_bg.webp'); }
+#miva { background-image: url('../img/glyph/btn_miva_bg.webp'); }
 .test {
   width: 680px;
 }
@@ -374,15 +374,15 @@ legend {
   white-space: nowrap;
   cursor: pointer;
   font: normal 11px 'Segoe UI', Tahoma, Verdana, Arial, Helvetica, sans-serif;
-  background: transparent url('../img/glyph/btn_bg.gif') 0 0 no-repeat;
+  background: transparent url('../img/glyph/btn_bg.webp') 0 0 no-repeat;
 }
 .commonButton button[disabled] {
   color: #999;
-  background-image: url('../img/glyph/btn_bg-disabled.gif');
+  background-image: url('../img/glyph/btn_bg-disabled.webp');
 }
 #bid-ok button  {
   padding-left: 8px;
-  background-image: url('../img/glyph/btn_ok_bg.gif');
+  background-image: url('../img/glyph/btn_ok_bg.webp');
 }
 .commonButton button:hover {
   background-position: 0 -21px;
@@ -394,13 +394,13 @@ legend {
   border: 1px solid #ccc;
   margin: 0 0 10px;
   padding: 10px 10px 10px 32px;
-  background: #fde9e5 url('../img/icons/fail.gif') 10px 11px no-repeat;
+  background: #fde9e5 url('../img/icons/fail.webp') 10px 11px no-repeat;
 }
 .testRelults#testSuccessful {
   border: 1px solid #ccc;
   margin: 0 0 10px;
   padding: 10px 32px;
-  background: #bff7b4 url('../img/icons/success.gif') 10px 11px no-repeat;
+  background: #bff7b4 url('../img/icons/success.webp') 10px 11px no-repeat;
 }
 .testResult {
   font-weight: bold;

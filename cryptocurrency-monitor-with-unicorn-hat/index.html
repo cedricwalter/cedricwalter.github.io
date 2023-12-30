@@ -18,7 +18,7 @@ Monday, Apr 13, 2020<p>Tags:
 <a href=/tags/bitcoin/>bitcoin</a>,
 <a href=/tags/cryptocurrency/>cryptocurrency</a>,
 <a href=/tags/raspberrypi/>raspberrypi</a>,
-<a href=/tags/raspbian/>raspbian</a></p></h1></header><article class=main><figure><picture><source type=image/webp srcset=https://waltercedric.com/2020/04/Cryptocurrency-monnitor-unicorn-hat-scaled.webp><img class=cover loading=lazy src=https://waltercedric.com/2020/04/Cryptocurrency-monnitor-unicorn-hat-scaled.webp></picture></figure><p>Unicorn pHAT and HAT. 32 or 64 blinding ws2812 pixels for your Raspberry Pi. it is called Unicorn Hat because it does rainbows, really bright rainbows! <strong>ATTENTION</strong>: do not stare directly at the led without a sheet of paper on it. LED are REALLY bright!</p><p><picture><img class=img-fluid alt src=https://waltercedric.com/2020/04/unicorn-hat-raspberry-pi.webp loading=lazy width=600 height=600></picture></p><h2 id=shopping-list>Shopping list</h2><p>You need obviously a [raspberry pi][1], ideally with WIFI build in if you don &rsquo;t like cables</p><ul><li>Raspberry Pi 1 is not supported by Unicorn Hat</li><li>Raspberry pi 2 , dual core, will require an Ethernet cable, can still be found on ebay, graiglist. Consume half the power of a PI 3 or 4</li><li>[Raspberry pi][1] 3 or 4, quad core, a bit a shame to use this amount of power for that task, but has built in WIFI!</li></ul><p>and a Unicorn HAT from <a href=https://shop.pimoroni.com/products/unicorn-hat>https://shop.pimoroni.com/products/unicorn-hat</a> I &rsquo;ve got mine used in flea market 🙂</p><h3 id=unicorn-hat-features>Unicorn HAT Features</h3><ul><li>It works on [Raspberry pi][1] 4, 3+, 3, 2, A+ and Zero</li><li>64 RGB LEDs (WS2812B)</li><li>LED data driven via DMA over PWM</li><li>[Unicorn HAT pinout][2]</li><li>Compatible with all 40-pin header Raspberry Pi models</li><li>[Python library][3]</li><li>Comes fully assembled</li><li><strong>Warning</strong>: WS2812 LEDs are bright enough to cause eye pain, do not look at them directly when brightly lit. is recommended to use a [diffuser][4].</li><li><strong>Photo-sensitivity warning</strong>: flashing, strobing, and patterns of lights may cause epileptic seizures. Always take care and immediately stop using if you feel unwell (dizziness, nausea, affected vision, eye twitching, disorientation).</li><li><strong>Power</strong>: Unicorn HAT requires a >2A microUSB power supply for your Pi.</li></ul><h2 id=building-the-sd-card>BUILDING THE SD CARD</h2><p><strong>[Raspbian][5]</strong> is THE official operating system for <strong>all</strong> models of the [Raspberry pi][1].</p><p>Raspbian is a Debian-based (32 bit) computer operating system for Raspberry Pi. There are several versions of Raspbian including Raspbian Buster and Raspbian Stretch. Since 2015 it has been officially provided by the Raspberry Pi Foundation as the primary operating system for the family of Raspberry Pi single-board computers.</p><p>We now use the <strong>Raspberry Pi Imager</strong> for an easy way to install Raspbian and other operating systems to an SD card ready to use with your Raspberry Pi:</p><ul><li>[Raspberry Pi Imager for Windows][6]</li><li>[Raspberry Pi Imager for macOS][7]</li><li>[Raspberry Pi Imager for Ubuntu][8]</li></ul><p><picture><img class=img-fluid alt src loading=lazy></picture></p><p>Choose Raspbian (other), then lite version connect HDMI, Keyboard, mouse (and network cable or you can use WIFI)</p><p>Add a new file ‘ssh &rsquo; to the first partition, to enable ssh. Boot the PI and connect to the console.</p><h2 id=installation>Installation</h2><h2 id=install-unicorn-hat>Install Unicorn HAT</h2><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-bash data-lang=bash><span style=display:flex><span>curl -sS https://get.pimoroni.com/unicornhat | bash<span style=color:#e6db74>```</span>
+<a href=/tags/raspbian/>raspbian</a></p></h1></header><article class=main><figure><picture><source type=image/webp srcset=https://waltercedric.com/2020/04/Cryptocurrency-monnitor-unicorn-hat-scaled.webp><img class=cover loading=lazy src=https://waltercedric.com/2020/04/Cryptocurrency-monnitor-unicorn-hat-scaled.webp></picture></figure><p>Unicorn pHAT and HAT. 32 or 64 blinding ws2812 pixels for your Raspberry Pi. it is called Unicorn Hat because it does rainbows, really bright rainbows! <strong>ATTENTION</strong>: do not stare directly at the led without a sheet of paper on it. LED are REALLY bright!</p><p><img src=/2020/04/unicorn-hat-raspberry-pi.webp alt></p><h2 id=shopping-list>Shopping list</h2><p>You need obviously a [raspberry pi][1], ideally with WIFI build in if you don &rsquo;t like cables</p><ul><li>Raspberry Pi 1 is not supported by Unicorn Hat</li><li>Raspberry pi 2 , dual core, will require an Ethernet cable, can still be found on ebay, graiglist. Consume half the power of a PI 3 or 4</li><li>[Raspberry pi][1] 3 or 4, quad core, a bit a shame to use this amount of power for that task, but has built in WIFI!</li></ul><p>and a Unicorn HAT from <a href=https://shop.pimoroni.com/products/unicorn-hat>https://shop.pimoroni.com/products/unicorn-hat</a> I &rsquo;ve got mine used in flea market 🙂</p><h3 id=unicorn-hat-features>Unicorn HAT Features</h3><ul><li>It works on [Raspberry pi][1] 4, 3+, 3, 2, A+ and Zero</li><li>64 RGB LEDs (WS2812B)</li><li>LED data driven via DMA over PWM</li><li>[Unicorn HAT pinout][2]</li><li>Compatible with all 40-pin header Raspberry Pi models</li><li>[Python library][3]</li><li>Comes fully assembled</li><li><strong>Warning</strong>: WS2812 LEDs are bright enough to cause eye pain, do not look at them directly when brightly lit. is recommended to use a [diffuser][4].</li><li><strong>Photo-sensitivity warning</strong>: flashing, strobing, and patterns of lights may cause epileptic seizures. Always take care and immediately stop using if you feel unwell (dizziness, nausea, affected vision, eye twitching, disorientation).</li><li><strong>Power</strong>: Unicorn HAT requires a >2A microUSB power supply for your Pi.</li></ul><h2 id=building-the-sd-card>BUILDING THE SD CARD</h2><p><strong>[Raspbian][5]</strong> is THE official operating system for <strong>all</strong> models of the [Raspberry pi][1].</p><p>Raspbian is a Debian-based (32 bit) computer operating system for Raspberry Pi. There are several versions of Raspbian including Raspbian Buster and Raspbian Stretch. Since 2015 it has been officially provided by the Raspberry Pi Foundation as the primary operating system for the family of Raspberry Pi single-board computers.</p><p>We now use the <strong>Raspberry Pi Imager</strong> for an easy way to install Raspbian and other operating systems to an SD card ready to use with your Raspberry Pi:</p><ul><li>[Raspberry Pi Imager for Windows][6]</li><li>[Raspberry Pi Imager for macOS][7]</li><li>[Raspberry Pi Imager for Ubuntu][8]</li></ul><p><img src=/2020/04/rasbian-desktop.webp alt></p><p>Choose Raspbian (other), then lite version connect HDMI, Keyboard, mouse (and network cable or you can use WIFI)</p><p>Add a new file ‘ssh &rsquo; to the first partition, to enable ssh. Boot the PI and connect to the console.</p><h2 id=installation>Installation</h2><h2 id=install-unicorn-hat>Install Unicorn HAT</h2><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-bash data-lang=bash><span style=display:flex><span>curl -sS https://get.pimoroni.com/unicornhat | bash<span style=color:#e6db74>```</span>
 </span></span><span style=display:flex><span>
 </span></span><span style=display:flex><span><span style=color:#75715e>## Install the software</span>
 </span></span><span style=display:flex><span>
@@ -99,6 +99,7 @@ Monday, Apr 13, 2020<p>Tags:
 </a><a class="ui label" href=/tags/bought/ title=Bought>Bought
 </a><a class="ui label" href=/tags/box/ title=box>box
 </a><a class="ui label" href=/tags/breakingbarriers/ title=BreakingBarriers>BreakingBarriers
+</a><a class="ui label" href=/tags/businessbooks/ title=BusinessBooks>BusinessBooks
 </a><a class="ui label" href=/tags/calculator/ title=calculator>calculator
 </a><a class="ui label" href=/tags/camera/ title=camera>camera
 </a><a class="ui label" href=/tags/cc2500/ title=cc2500>cc2500
@@ -135,12 +136,14 @@ Monday, Apr 13, 2020<p>Tags:
 </a><a class="ui label" href=/tags/empoweringnarrative/ title=EmpoweringNarrative>EmpoweringNarrative
 </a><a class="ui label" href=/tags/engelberg/ title=engelberg>engelberg
 </a><a class="ui label" href=/tags/ensitm/ title=Ensitm>Ensitm
+</a><a class="ui label" href=/tags/entrepreneurshipbooks/ title=EntrepreneurshipBooks>EntrepreneurshipBooks
 </a><a class="ui label" href=/tags/essaim/ title=Essaim>Essaim
 </a><a class="ui label" href=/tags/essentially/ title=essentially>essentially
 </a><a class="ui label" href=/tags/ethereum/ title=ethereum>ethereum
 </a><a class="ui label" href=/tags/evoque/ title=evoque>evoque
 </a><a class="ui label" href=/tags/fake/ title=fake>fake
 </a><a class="ui label" href=/tags/familydynamics/ title=FamilyDynamics>FamilyDynamics
+</a><a class="ui label" href=/tags/financebooks/ title=FinanceBooks>FinanceBooks
 </a><a class="ui label" href=/tags/firearm/ title=firearm>firearm
 </a><a class="ui label" href=/tags/fpv/ title=fpv>fpv
 </a><a class="ui label" href=/tags/frame/ title=frame>frame
@@ -151,6 +154,7 @@ Monday, Apr 13, 2020<p>Tags:
 </a><a class="ui label" href=/tags/games/ title=games>games
 </a><a class="ui label" href=/tags/git/ title=git>git
 </a><a class="ui label" href=/tags/globalimpact/ title=GlobalImpact>GlobalImpact
+</a><a class="ui label" href=/tags/growthhackingbooks/ title=GrowthHackingBooks>GrowthHackingBooks
 </a><a class="ui label" href=/tags/guide/ title=guide>guide
 </a><a class="ui label" href=/tags/hackathon/ title=hackathon>hackathon
 </a><a class="ui label" href=/tags/hackday/ title=hackday>hackday
@@ -171,12 +175,14 @@ Monday, Apr 13, 2020<p>Tags:
 </a><a class="ui label" href=/tags/indoor/ title=indoor>indoor
 </a><a class="ui label" href=/tags/industrial-shit/ title=industrial-shit>industrial-shit
 </a><a class="ui label" href=/tags/industry/ title=industry>industry
+</a><a class="ui label" href=/tags/innovationbooks/ title=InnovationBooks>InnovationBooks
 </a><a class="ui label" href=/tags/ios/ title=ios>ios
 </a><a class="ui label" href=/tags/jar/ title=jar>jar
 </a><a class="ui label" href=/tags/java/ title=java>java
 </a><a class="ui label" href=/tags/jdk11/ title=jdk11>jdk11
 </a><a class="ui label" href=/tags/junit/ title=junit>junit
 </a><a class="ui label" href=/tags/kitchen/ title=kitchen>kitchen
+</a><a class="ui label" href=/tags/leadershipbooks/ title=LeadershipBooks>LeadershipBooks
 </a><a class="ui label" href=/tags/lifetransformations/ title=LifeTransformations>LifeTransformations
 </a><a class="ui label" href=/tags/link/ title=link>link
 </a><a class="ui label" href=/tags/linux/ title=linux>linux
@@ -186,6 +192,7 @@ Monday, Apr 13, 2020<p>Tags:
 </a><a class="ui label" href=/tags/manurhin/ title=manurhin>manurhin
 </a><a class="ui label" href=/tags/mapping/ title=mapping>mapping
 </a><a class="ui label" href=/tags/marathon/ title=marathon>marathon
+</a><a class="ui label" href=/tags/marketingbooks/ title=MarketingBooks>MarketingBooks
 </a><a class="ui label" href=/tags/maven/ title=maven>maven
 </a><a class="ui label" href=/tags/me/ title=me>me
 </a><a class="ui label" href=/tags/metakernel/ title=metakernel>metakernel
@@ -206,6 +213,7 @@ Monday, Apr 13, 2020<p>Tags:
 </a><a class="ui label" href=/tags/parts/ title=parts>parts
 </a><a class="ui label" href=/tags/plex/ title=plex>plex
 </a><a class="ui label" href=/tags/privacy/ title=privacy>privacy
+</a><a class="ui label" href=/tags/productivitybooks/ title=ProductivityBooks>ProductivityBooks
 </a><a class="ui label" href=/tags/quadcopter/ title=quadcopter>quadcopter
 </a><a class="ui label" href=/tags/radiomaster/ title=radiomaster>radiomaster
 </a><a class="ui label" href=/tags/raspberrypi/ title=raspberrypi>raspberrypi
@@ -221,6 +229,7 @@ Monday, Apr 13, 2020<p>Tags:
 </a><a class="ui label" href=/tags/rhythmsoflife/ title=RhythmsOfLife>RhythmsOfLife
 </a><a class="ui label" href=/tags/robotic/ title=robotic>robotic
 </a><a class="ui label" href=/tags/rx/ title=rx>rx
+</a><a class="ui label" href=/tags/salesbooks/ title=SalesBooks>SalesBooks
 </a><a class="ui label" href=/tags/scooters/ title=scooters>scooters
 </a><a class="ui label" href=/tags/skydiving/ title=skydiving>skydiving
 </a><a class="ui label" href=/tags/snk/ title=snk>snk
@@ -228,6 +237,7 @@ Monday, Apr 13, 2020<p>Tags:
 </a><a class="ui label" href=/tags/soap/ title=soap>soap
 </a><a class="ui label" href=/tags/space/ title=space>space
 </a><a class="ui label" href=/tags/sport/ title=sport>sport
+</a><a class="ui label" href=/tags/startupbooks/ title=startupBooks>startupBooks
 </a><a class="ui label" href=/tags/streaming/ title=streaming>streaming
 </a><a class="ui label" href=/tags/support/ title=support>support
 </a><a class="ui label" href=/tags/surrogacyagency/ title=SurrogacyAgency>SurrogacyAgency

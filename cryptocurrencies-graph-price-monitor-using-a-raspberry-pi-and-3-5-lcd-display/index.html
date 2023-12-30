@@ -17,7 +17,7 @@ Saturday, Apr 11, 2020
 Saturday, Apr 11, 2020<p>Tags:
 <a href=/tags/bitcoin/>bitcoin</a>,
 <a href=/tags/ethereum/>ethereum</a>,
-<a href=/tags/raspberrypi/>raspberrypi</a></p></h1></header><article class=main><figure><picture><source type=image/webp srcset=https://waltercedric.com/2020/04/cryptocurrencies-graph-raspberry-pi-lcd-scaled.webp><img class=cover loading=lazy src=https://waltercedric.com/2020/04/cryptocurrencies-graph-raspberry-pi-lcd-scaled.webp></picture></figure><p>We will use the project [Bitcoin chart for the terminal][1] as command line util. For a list of supported cryptocurrencies see [coins][2].</p><h2 id=shopping-list>Shopping list</h2><p>You need obviously a raspberry pi, ideally with WIFI build in if you don &rsquo;t like cables</p><ul><li>Raspberry pi 1, single core, will require an Ethernet cable</li><li>Raspberry pi 2 , dual core, will require an Ethernet cable</li><li>Raspberry pi 3 or 4, a bit a shame to use this amount of power for that task, but has built in WIFI</li></ul><p>A <a href=https://amzn.to/2xmJHb9>3.5" LCD screen from Amazon</a></p><ul><li><p><a href=/2020/04/Raspberry-Pi-LCD-Display-Module-3.5inch-320X480-TFT-2-scaled.webp><picture><img class=img-fluid alt src loading=lazy></picture></a></p><p>Raspberry Pi LCD Display Module 3.5inch 320X480 TFT</p></li><li><p><a href=/2020/04/Raspberry-Pi-LCD-Display-Module-3.5inch-320X480-TFT-1-scaled.webp><picture><img class=img-fluid alt src loading=lazy></picture></a></p><p>Raspberry Pi LCD Display Module 3.5inch 320X480 TFT</p></li></ul><h2 id=installing-the-software>Installing the Software</h2><p>Your SD-card needs to contain the software. You can take the long road by <strong>building the SD-card</strong> image yourself or <strong>use the already prepared SD-Card image:</strong></p><p><strong>Download SD-Card image – Version 1.0:</strong> <strong>SOON</strong></p><p>SHA-256: <strong>xxxxxxxxxxx</strong></p><p><strong>Write the SD-Card image to your SD Card</strong></p><p>You need to write the downloaded SD card image (the img.gz-file) to your SD card (16 GB minimum) – you can use the very easy tool Balena Etcher for this: <a href=https://www.balena.io/etcher/>https://www.balena.io/etcher/</a> .. it &rsquo;s available for Win, Mac & Linux.</p><p>Insert the SD card and connect the power plug.</p><ul><li>Make sure to connect the raspberry with a LAN cable to the internet at this point.</li><li>Make sure that your laptop and the raspberry are on the same local network.</li></ul><h2 id=building-the-sd-card>BUILDING THE SD CARD</h2><p><strong>[Raspbian][3]</strong> is THE official operating system for <strong>all</strong> models of the Raspberry Pi.</p><p>Raspbian is a Debian-based (32 bit) computer operating system for Raspberry Pi. There are several versions of Raspbian including Raspbian Buster and Raspbian Stretch. Since 2015 it has been officially provided by the Raspberry Pi Foundation as the primary operating system for the family of Raspberry Pi single-board computers.</p><p>We now use the <strong>Raspberry Pi Imager</strong> for an easy way to install Raspbian and other operating systems to an SD card ready to use with your Raspberry Pi:</p><ul><li>[Raspberry Pi Imager for Windows][4]</li><li>[Raspberry Pi Imager for macOS][5]</li><li>[Raspberry Pi Imager for Ubuntu][6]</li></ul><p>Choose Raspbian other, then lite. When finished boot the image and connect the pi to WIFI</p><p><code>bash sudo raspi-config</code></p><ul><li>Under localization options, set the proper keyboard layout</li><li>Under network, connect to your WIFI</li><li>Under interfaces, activate SSH</li></ul><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-bash data-lang=bash><span style=display:flex><span>sudo apt install npm
+<a href=/tags/raspberrypi/>raspberrypi</a></p></h1></header><article class=main><figure><picture><source type=image/webp srcset=https://waltercedric.com/2020/04/cryptocurrencies-graph-raspberry-pi-lcd-scaled.webp><img class=cover loading=lazy src=https://waltercedric.com/2020/04/cryptocurrencies-graph-raspberry-pi-lcd-scaled.webp></picture></figure><p>We will use the project [Bitcoin chart for the terminal][1] as command line util. For a list of supported cryptocurrencies see [coins][2].</p><h2 id=shopping-list>Shopping list</h2><p>You need obviously a raspberry pi, ideally with WIFI build in if you don &rsquo;t like cables</p><ul><li>Raspberry pi 1, single core, will require an Ethernet cable</li><li>Raspberry pi 2 , dual core, will require an Ethernet cable</li><li>Raspberry pi 3 or 4, a bit a shame to use this amount of power for that task, but has built in WIFI</li></ul><p>A <a href=https://amzn.to/2xmJHb9>3.5" LCD screen from Amazon</a></p><ul><li><p><a href=/2020/04/Raspberry-Pi-LCD-Display-Module-3.5inch-320X480-TFT-2-scaled.webp><img src=/2020/04/Raspberry-Pi-LCD-Display-Module-3.5inch-320X480-TFT-2-768x1024.webp alt></a></p><p>Raspberry Pi LCD Display Module 3.5inch 320X480 TFT</p></li><li><p><a href=/2020/04/Raspberry-Pi-LCD-Display-Module-3.5inch-320X480-TFT-1-scaled.webp><img src=/2020/04/Raspberry-Pi-LCD-Display-Module-3.5inch-320X480-TFT-1-768x1024.webp alt></a></p><p>Raspberry Pi LCD Display Module 3.5inch 320X480 TFT</p></li></ul><h2 id=installing-the-software>Installing the Software</h2><p>Your SD-card needs to contain the software. You can take the long road by <strong>building the SD-card</strong> image yourself or <strong>use the already prepared SD-Card image:</strong></p><p><strong>Download SD-Card image – Version 1.0:</strong> <strong>SOON</strong></p><p>SHA-256: <strong>xxxxxxxxxxx</strong></p><p><strong>Write the SD-Card image to your SD Card</strong></p><p>You need to write the downloaded SD card image (the img.gz-file) to your SD card (16 GB minimum) – you can use the very easy tool Balena Etcher for this: <a href=https://www.balena.io/etcher/>https://www.balena.io/etcher/</a> .. it &rsquo;s available for Win, Mac & Linux.</p><p>Insert the SD card and connect the power plug.</p><ul><li>Make sure to connect the raspberry with a LAN cable to the internet at this point.</li><li>Make sure that your laptop and the raspberry are on the same local network.</li></ul><h2 id=building-the-sd-card>BUILDING THE SD CARD</h2><p><strong>[Raspbian][3]</strong> is THE official operating system for <strong>all</strong> models of the Raspberry Pi.</p><p>Raspbian is a Debian-based (32 bit) computer operating system for Raspberry Pi. There are several versions of Raspbian including Raspbian Buster and Raspbian Stretch. Since 2015 it has been officially provided by the Raspberry Pi Foundation as the primary operating system for the family of Raspberry Pi single-board computers.</p><p>We now use the <strong>Raspberry Pi Imager</strong> for an easy way to install Raspbian and other operating systems to an SD card ready to use with your Raspberry Pi:</p><ul><li>[Raspberry Pi Imager for Windows][4]</li><li>[Raspberry Pi Imager for macOS][5]</li><li>[Raspberry Pi Imager for Ubuntu][6]</li></ul><p>Choose Raspbian other, then lite. When finished boot the image and connect the pi to WIFI</p><p><code>bash sudo raspi-config</code></p><ul><li>Under localization options, set the proper keyboard layout</li><li>Under network, connect to your WIFI</li><li>Under interfaces, activate SSH</li></ul><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-bash data-lang=bash><span style=display:flex><span>sudo apt install npm
 </span></span><span style=display:flex><span>sudo npm install bitcoin-chart-cli -g<span style=color:#e6db74>```</span>
 </span></span><span style=display:flex><span>
 </span></span><span style=display:flex><span><span style=color:#75715e>## Install LCD drivers</span>
@@ -113,6 +113,7 @@ Saturday, Apr 11, 2020<p>Tags:
 </a><a class="ui label" href=/tags/bought/ title=Bought>Bought
 </a><a class="ui label" href=/tags/box/ title=box>box
 </a><a class="ui label" href=/tags/breakingbarriers/ title=BreakingBarriers>BreakingBarriers
+</a><a class="ui label" href=/tags/businessbooks/ title=BusinessBooks>BusinessBooks
 </a><a class="ui label" href=/tags/calculator/ title=calculator>calculator
 </a><a class="ui label" href=/tags/camera/ title=camera>camera
 </a><a class="ui label" href=/tags/cc2500/ title=cc2500>cc2500
@@ -149,12 +150,14 @@ Saturday, Apr 11, 2020<p>Tags:
 </a><a class="ui label" href=/tags/empoweringnarrative/ title=EmpoweringNarrative>EmpoweringNarrative
 </a><a class="ui label" href=/tags/engelberg/ title=engelberg>engelberg
 </a><a class="ui label" href=/tags/ensitm/ title=Ensitm>Ensitm
+</a><a class="ui label" href=/tags/entrepreneurshipbooks/ title=EntrepreneurshipBooks>EntrepreneurshipBooks
 </a><a class="ui label" href=/tags/essaim/ title=Essaim>Essaim
 </a><a class="ui label" href=/tags/essentially/ title=essentially>essentially
 </a><a class="ui label" href=/tags/ethereum/ title=ethereum>ethereum
 </a><a class="ui label" href=/tags/evoque/ title=evoque>evoque
 </a><a class="ui label" href=/tags/fake/ title=fake>fake
 </a><a class="ui label" href=/tags/familydynamics/ title=FamilyDynamics>FamilyDynamics
+</a><a class="ui label" href=/tags/financebooks/ title=FinanceBooks>FinanceBooks
 </a><a class="ui label" href=/tags/firearm/ title=firearm>firearm
 </a><a class="ui label" href=/tags/fpv/ title=fpv>fpv
 </a><a class="ui label" href=/tags/frame/ title=frame>frame
@@ -165,6 +168,7 @@ Saturday, Apr 11, 2020<p>Tags:
 </a><a class="ui label" href=/tags/games/ title=games>games
 </a><a class="ui label" href=/tags/git/ title=git>git
 </a><a class="ui label" href=/tags/globalimpact/ title=GlobalImpact>GlobalImpact
+</a><a class="ui label" href=/tags/growthhackingbooks/ title=GrowthHackingBooks>GrowthHackingBooks
 </a><a class="ui label" href=/tags/guide/ title=guide>guide
 </a><a class="ui label" href=/tags/hackathon/ title=hackathon>hackathon
 </a><a class="ui label" href=/tags/hackday/ title=hackday>hackday
@@ -185,12 +189,14 @@ Saturday, Apr 11, 2020<p>Tags:
 </a><a class="ui label" href=/tags/indoor/ title=indoor>indoor
 </a><a class="ui label" href=/tags/industrial-shit/ title=industrial-shit>industrial-shit
 </a><a class="ui label" href=/tags/industry/ title=industry>industry
+</a><a class="ui label" href=/tags/innovationbooks/ title=InnovationBooks>InnovationBooks
 </a><a class="ui label" href=/tags/ios/ title=ios>ios
 </a><a class="ui label" href=/tags/jar/ title=jar>jar
 </a><a class="ui label" href=/tags/java/ title=java>java
 </a><a class="ui label" href=/tags/jdk11/ title=jdk11>jdk11
 </a><a class="ui label" href=/tags/junit/ title=junit>junit
 </a><a class="ui label" href=/tags/kitchen/ title=kitchen>kitchen
+</a><a class="ui label" href=/tags/leadershipbooks/ title=LeadershipBooks>LeadershipBooks
 </a><a class="ui label" href=/tags/lifetransformations/ title=LifeTransformations>LifeTransformations
 </a><a class="ui label" href=/tags/link/ title=link>link
 </a><a class="ui label" href=/tags/linux/ title=linux>linux
@@ -200,6 +206,7 @@ Saturday, Apr 11, 2020<p>Tags:
 </a><a class="ui label" href=/tags/manurhin/ title=manurhin>manurhin
 </a><a class="ui label" href=/tags/mapping/ title=mapping>mapping
 </a><a class="ui label" href=/tags/marathon/ title=marathon>marathon
+</a><a class="ui label" href=/tags/marketingbooks/ title=MarketingBooks>MarketingBooks
 </a><a class="ui label" href=/tags/maven/ title=maven>maven
 </a><a class="ui label" href=/tags/me/ title=me>me
 </a><a class="ui label" href=/tags/metakernel/ title=metakernel>metakernel
@@ -220,6 +227,7 @@ Saturday, Apr 11, 2020<p>Tags:
 </a><a class="ui label" href=/tags/parts/ title=parts>parts
 </a><a class="ui label" href=/tags/plex/ title=plex>plex
 </a><a class="ui label" href=/tags/privacy/ title=privacy>privacy
+</a><a class="ui label" href=/tags/productivitybooks/ title=ProductivityBooks>ProductivityBooks
 </a><a class="ui label" href=/tags/quadcopter/ title=quadcopter>quadcopter
 </a><a class="ui label" href=/tags/radiomaster/ title=radiomaster>radiomaster
 </a><a class="ui label" href=/tags/raspberrypi/ title=raspberrypi>raspberrypi
@@ -235,6 +243,7 @@ Saturday, Apr 11, 2020<p>Tags:
 </a><a class="ui label" href=/tags/rhythmsoflife/ title=RhythmsOfLife>RhythmsOfLife
 </a><a class="ui label" href=/tags/robotic/ title=robotic>robotic
 </a><a class="ui label" href=/tags/rx/ title=rx>rx
+</a><a class="ui label" href=/tags/salesbooks/ title=SalesBooks>SalesBooks
 </a><a class="ui label" href=/tags/scooters/ title=scooters>scooters
 </a><a class="ui label" href=/tags/skydiving/ title=skydiving>skydiving
 </a><a class="ui label" href=/tags/snk/ title=snk>snk
@@ -242,6 +251,7 @@ Saturday, Apr 11, 2020<p>Tags:
 </a><a class="ui label" href=/tags/soap/ title=soap>soap
 </a><a class="ui label" href=/tags/space/ title=space>space
 </a><a class="ui label" href=/tags/sport/ title=sport>sport
+</a><a class="ui label" href=/tags/startupbooks/ title=startupBooks>startupBooks
 </a><a class="ui label" href=/tags/streaming/ title=streaming>streaming
 </a><a class="ui label" href=/tags/support/ title=support>support
 </a><a class="ui label" href=/tags/surrogacyagency/ title=SurrogacyAgency>SurrogacyAgency

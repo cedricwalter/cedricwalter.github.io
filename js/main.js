@@ -30,8 +30,25 @@ $(document).ready(function () {
     })
 
 
+
     const toc = $('#TableOfContents');
     if (toc.length) {
+
+      $('#TableOfContents li').each(function() {
+        if ($(this).children('ul').length >= 1) {
+          $(this).children('ul').slideToggle();
+          $(this).toggleClass('collapsed');
+        }
+      });
+
+      $('#TableOfContents li').click(function(event) {
+        event.stopPropagation();
+        if ($(this).children('ul').length >= 1) {
+          $(this).children('ul').slideToggle();
+          $(this).toggleClass('collapsed');
+        }
+      });
+
         const links = toc.find('a');
         if (links.length) {
             // create a new Intersection Observer instance

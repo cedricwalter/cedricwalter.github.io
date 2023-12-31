@@ -357,3 +357,14 @@ body {
 .active:hover {
     background-color: #ccff00; /* Darker highlight color on hover, you can change this */
 }
+
+.collapsed {
+    list-style-type: none; /* Remove default list item marker */
+}
+
+.collapsed:before {
+    content: '+ '; /* Set content to a plus symbol followed by a space */
+    display: inline-block; /* Ensure the content is treated as a block element */
+    width: 1em; /* Adjust the width as needed */
+    margin-right: 5px; /* Adjust the spacing to your preference */
+}

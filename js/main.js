@@ -30,8 +30,16 @@ $(document).ready(function () {
     })
 
 
+    // tocbot.init({
+    //   tocSelector: '.mytocbot',
+    //   contentSelector: '.main',
+    //   headingSelector: 'h1, h2, h3, h4, h5',
+    //   hasInnerContainers: true,
+    //   headingsOffset: 40,
+    //   scrollSmoothOffset: -40,
+    // });
 
-    const toc = $('#TableOfContents');
+   const toc = $('#TableOfContents');
     if (toc.length) {
 
       $('#TableOfContents li').each(function() {

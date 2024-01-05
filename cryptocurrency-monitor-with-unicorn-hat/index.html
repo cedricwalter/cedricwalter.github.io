@@ -16,7 +16,7 @@ Monday, Apr 13, 2020
 | Update at
 Monday, Apr 13, 2020<p>Tags:
 <a href=/tags/bitcoin/>bitcoin</a>,
-<a href=/tags/cryptocurrency/>cryptocurrency</a>,
+<a href=/tags/cryptocurrency/>Cryptocurrency</a>,
 <a href=/tags/raspberrypi/>raspberrypi</a>,
 <a href=/tags/raspbian/>raspbian</a></p></h1></header><article class=main><figure><picture><source type=image/webp srcset=https://waltercedric.com/2020/04/Cryptocurrency-monnitor-unicorn-hat-scaled.webp><img class=cover loading=lazy src=https://waltercedric.com/2020/04/Cryptocurrency-monnitor-unicorn-hat-scaled.webp></picture></figure><p>Unicorn pHAT and HAT. 32 or 64 blinding ws2812 pixels for your Raspberry Pi. it is called Unicorn Hat because it does rainbows, really bright rainbows! <strong>ATTENTION</strong>: do not stare directly at the led without a sheet of paper on it. LED are REALLY bright!</p><p><img src=/2020/04/unicorn-hat-raspberry-pi.webp alt></p><h2 id=shopping-list>Shopping list</h2><p>You need obviously a [raspberry pi][1], ideally with WIFI build in if you don &rsquo;t like cables</p><ul><li>Raspberry Pi 1 is not supported by Unicorn Hat</li><li>Raspberry pi 2 , dual core, will require an Ethernet cable, can still be found on ebay, graiglist. Consume half the power of a PI 3 or 4</li><li>[Raspberry pi][1] 3 or 4, quad core, a bit a shame to use this amount of power for that task, but has built in WIFI!</li></ul><p>and a Unicorn HAT from <a href=https://shop.pimoroni.com/products/unicorn-hat>https://shop.pimoroni.com/products/unicorn-hat</a> I &rsquo;ve got mine used in flea market 🙂</p><h3 id=unicorn-hat-features>Unicorn HAT Features</h3><ul><li>It works on [Raspberry pi][1] 4, 3+, 3, 2, A+ and Zero</li><li>64 RGB LEDs (WS2812B)</li><li>LED data driven via DMA over PWM</li><li>[Unicorn HAT pinout][2]</li><li>Compatible with all 40-pin header Raspberry Pi models</li><li>[Python library][3]</li><li>Comes fully assembled</li><li><strong>Warning</strong>: WS2812 LEDs are bright enough to cause eye pain, do not look at them directly when brightly lit. is recommended to use a [diffuser][4].</li><li><strong>Photo-sensitivity warning</strong>: flashing, strobing, and patterns of lights may cause epileptic seizures. Always take care and immediately stop using if you feel unwell (dizziness, nausea, affected vision, eye twitching, disorientation).</li><li><strong>Power</strong>: Unicorn HAT requires a >2A microUSB power supply for your Pi.</li></ul><h2 id=building-the-sd-card>BUILDING THE SD CARD</h2><p><strong>[Raspbian][5]</strong> is THE official operating system for <strong>all</strong> models of the [Raspberry pi][1].</p><p>Raspbian is a Debian-based (32 bit) computer operating system for Raspberry Pi. There are several versions of Raspbian including Raspbian Buster and Raspbian Stretch. Since 2015 it has been officially provided by the Raspberry Pi Foundation as the primary operating system for the family of Raspberry Pi single-board computers.</p><p>We now use the <strong>Raspberry Pi Imager</strong> for an easy way to install Raspbian and other operating systems to an SD card ready to use with your Raspberry Pi:</p><ul><li>[Raspberry Pi Imager for Windows][6]</li><li>[Raspberry Pi Imager for macOS][7]</li><li>[Raspberry Pi Imager for Ubuntu][8]</li></ul><p><img src=/2020/04/rasbian-desktop.webp alt></p><p>Choose Raspbian (other), then lite version connect HDMI, Keyboard, mouse (and network cable or you can use WIFI)</p><p>Add a new file ‘ssh &rsquo; to the first partition, to enable ssh. Boot the PI and connect to the console.</p><h2 id=installation>Installation</h2><h2 id=install-unicorn-hat>Install Unicorn HAT</h2><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-bash data-lang=bash><span style=display:flex><span>curl -sS https://get.pimoroni.com/unicornhat | bash<span style=color:#e6db74>```</span>
 </span></span><span style=display:flex><span>
@@ -94,6 +94,8 @@ Monday, Apr 13, 2020<p>Tags:
 </a><a class="ui label" href=/tags/bio/ title=bio>bio
 </a><a class="ui label" href=/tags/bitcoin/ title=bitcoin>bitcoin
 </a><a class="ui label" href=/tags/blockchain/ title=blockchain>blockchain
+</a><a class="ui label" href=/tags/blockchain-consensus-encyclopedia/ title=Blockchain-Consensus-Encyclopedia>Blockchain-Consensus-Encyclopedia
+</a><a class="ui label" href=/tags/blockchain-systems/ title=Blockchain-Systems>Blockchain-Systems
 </a><a class="ui label" href=/tags/blog/ title=blog>blog
 </a><a class="ui label" href=/tags/book-review/ title=Book-Review>Book-Review
 </a><a class="ui label" href=/tags/books/ title=Books>Books
@@ -103,6 +105,7 @@ Monday, Apr 13, 2020<p>Tags:
 </a><a class="ui label" href=/tags/business-management/ title=Business-management>Business-management
 </a><a class="ui label" href=/tags/business-strategy/ title=Business-strategy>Business-strategy
 </a><a class="ui label" href=/tags/businessbooks/ title=BusinessBooks>BusinessBooks
+</a><a class="ui label" href=/tags/byzantine-fault-tolerance/ title=Byzantine-Fault-Tolerance>Byzantine-Fault-Tolerance
 </a><a class="ui label" href=/tags/calculator/ title=calculator>calculator
 </a><a class="ui label" href=/tags/camera/ title=camera>camera
 </a><a class="ui label" href=/tags/cc2500/ title=cc2500>cc2500
@@ -114,19 +117,23 @@ Monday, Apr 13, 2020<p>Tags:
 </a><a class="ui label" href=/tags/collector/ title=collector>collector
 </a><a class="ui label" href=/tags/color/ title=color>color
 </a><a class="ui label" href=/tags/competition/ title=competition>competition
+</a><a class="ui label" href=/tags/consensus-algorithms/ title=Consensus-Algorithms>Consensus-Algorithms
+</a><a class="ui label" href=/tags/consensus-mechanisms/ title=Consensus-Mechanisms>Consensus-Mechanisms
 </a><a class="ui label" href=/tags/console/ title=console>console
 </a><a class="ui label" href=/tags/contest/ title=contest>contest
 </a><a class="ui label" href=/tags/controller/ title=controller>controller
 </a><a class="ui label" href=/tags/copy/ title=copy>copy
 </a><a class="ui label" href=/tags/covid19/ title=covid19>covid19
 </a><a class="ui label" href=/tags/creating/ title=creating>creating
-</a><a class="ui label" href=/tags/cryptocurrency/ title=cryptocurrency>cryptocurrency
+</a><a class="ui label" href=/tags/cryptocurrency/ title=Cryptocurrency>Cryptocurrency
 </a><a class="ui label" href=/tags/customer-discovery/ title=Customer-discovery>Customer-discovery
 </a><a class="ui label" href=/tags/dance-dreams/ title=Dance-Dreams>Dance-Dreams
+</a><a class="ui label" href=/tags/decentralization/ title=Decentralization>Decentralization
 </a><a class="ui label" href=/tags/decentralized/ title=decentralized>decentralized
 </a><a class="ui label" href=/tags/dependency/ title=dependency>dependency
 </a><a class="ui label" href=/tags/design/ title=Design>Design
 </a><a class="ui label" href=/tags/development/ title=development>development
+</a><a class="ui label" href=/tags/distributed-ledger-technology/ title=Distributed-Ledger-Technology>Distributed-Ledger-Technology
 </a><a class="ui label" href=/tags/dji/ title=dji>dji
 </a><a class="ui label" href=/tags/docker/ title=docker>docker
 </a><a class="ui label" href=/tags/dotnet/ title=dotNet>dotNet
@@ -232,6 +239,8 @@ Monday, Apr 13, 2020<p>Tags:
 </a><a class="ui label" href=/tags/privacy/ title=privacy>privacy
 </a><a class="ui label" href=/tags/product-market-fit/ title=Product-market-fit>Product-market-fit
 </a><a class="ui label" href=/tags/productivity-books/ title=Productivity-Books>Productivity-Books
+</a><a class="ui label" href=/tags/proof-of-stake/ title=Proof-of-Stake>Proof-of-Stake
+</a><a class="ui label" href=/tags/proof-of-work/ title=Proof-of-Work>Proof-of-Work
 </a><a class="ui label" href=/tags/quadcopter/ title=quadcopter>quadcopter
 </a><a class="ui label" href=/tags/radiomaster/ title=radiomaster>radiomaster
 </a><a class="ui label" href=/tags/raspberrypi/ title=raspberrypi>raspberrypi
@@ -268,6 +277,7 @@ Monday, Apr 13, 2020<p>Tags:
 </a><a class="ui label" href=/tags/team/ title=team>team
 </a><a class="ui label" href=/tags/team-building/ title=Team-building>Team-building
 </a><a class="ui label" href=/tags/team-dynamics/ title=Team-Dynamics>Team-Dynamics
+</a><a class="ui label" href=/tags/tendermint/ title=Tendermint>Tendermint
 </a><a class="ui label" href=/tags/tunnel/ title=tunnel>tunnel
 </a><a class="ui label" href=/tags/tutorial/ title=tutorial>tutorial
 </a><a class="ui label" href=/tags/tx/ title=tx>tx

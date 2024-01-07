@@ -1,5 +1,15 @@
 'use strict'
 $(document).ready(function () {
+
+  tocbot.init({
+    tocSelector: '.toc',
+    contentSelector: '.main',
+    headingSelector: 'h1, h2, h3, h4, h5',
+    hasInnerContainers: false,
+    headingsOffset: 40,
+    scrollSmoothOffset: -40,
+  });
+
   // var e,
   //   a = $('body')
   //     .overlayScrollbars({
@@ -33,14 +43,6 @@ $(document).ready(function () {
         $('.flip-container').toggleClass('flip-it')
       })
 
-    tocbot.init({
-      tocSelector: '.toc',
-      contentSelector: '.main',
-      headingSelector: 'h1, h2, h3, h4, h5',
-      hasInnerContainers: false,
-      headingsOffset: 40,
-      scrollSmoothOffset: -40,
-    });
 
   //  const toc = $('#TableOfContents');
   //   if (toc.length) {

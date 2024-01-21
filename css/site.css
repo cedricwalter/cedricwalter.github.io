@@ -3,6 +3,17 @@ body {
     background-size: cover
 }
 
+/* from bootstrap */
+.img-fluid {
+    height: auto;
+    max-width: 100%;
+  }
+
+  .fill { object-fit: fill; }
+  .contain { object-fit: contain; }
+  .cover { object-fit: cover; }
+  .scale { object-fit: scale-down; }
+
 .flip-container {
     width: 100vw;
     height: 100vh;

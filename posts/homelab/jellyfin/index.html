@@ -12,7 +12,7 @@ Cédric Walter
 |
 Sunday, Jan 7, 2024
 | 10 minutes read
-| 2085 Words
+| 2127 Words
 | Update at
 Tuesday, Feb 20, 2024<div class=dream-tags style=margin-top:1.5rem>Tags:
 <a class="ui label" style=margin-bottom:.5rem href=/tags/music/>music</a><a class="ui label" style=margin-bottom:.5rem href=/tags/plex/>plex</a><a class="ui label" style=margin-bottom:.5rem href=/tags/video/>video</a><a class="ui label" style=margin-bottom:.5rem href=/tags/photos/>photos</a><a class="ui label" style=margin-bottom:.5rem href=/tags/jellyfin/>jellyfin</a></div></h1></header><article class=main><figure><picture><source type=image/webp srcset=https://waltercedric.com/homelab/Plex-Jellyfin.webp><img class=cover loading=lazy src=https://waltercedric.com/homelab/Plex-Jellyfin.webp></picture></figure><h2 id=automation-architecture>Automation Architecture</h2><div class=mermaid>%%{
@@ -30,12 +30,24 @@ init: {
 }
 }%%
 flowchart LR
+subgraph Internet Area
+Internet --> Router
+end
+subgraph Firewall Area
+Router --> OpenSense
+OpenSense --> UbiquityWifi
+end
+subgraph Authentik Area
+OpenSense --> Authentik
+Authentik --> Users
+Authentik --> Admin
+end
 subgraph User Area
 Users(🙎‍♂️🙎‍♀️🙎‍♂️🙎‍♀️) --> Homarr(Homarr Dashboard)
 Users(🙎‍♂️🙎‍♀️🙎‍♂️🙎‍♀️) --> Jellyfin(Jellyfin Mediacenter)
-Users(🙎‍♂️🙎‍♀️🙎‍♂️🙎‍♀️) --> Kavita(Comics reader)
+Users(🙎‍♂️🙎‍♀️🙎‍♂️🙎‍♀️) --> Kavita(Kavita comics reader)
 Kavita --> |read|KavitaFolder[(Kavita folder)]
-Users(🙎‍♂️🙎‍♀️🙎‍♂️🙎‍♀️) --> CalibreWeb(Books reader)
+Users(🙎‍♂️🙎‍♀️🙎‍♂️🙎‍♀️) --> CalibreWeb(CalibreWeb books reader)
 CalibreWeb --> |read|CalibreWebFolder[(CalibreWeb folder)]
 Jellyfin --> Jellyseer((Jellyseer request))
 Jellyfin --> |read, write|JellyfinFolder[(Jellyfin folder)]
@@ -58,6 +70,7 @@ Admin(Admin 🥷) --> Lidarr
 Admin(Admin 🥷) --> Filebot(Filebot 8080)
 Lidarr(Lidarr Audio) --> |as download client|RTDClient(Real-Debrid Torrent Client)
 Admin(Admin 🥷) --> Readarr
+Readarr --> |write new books|CalibreWebFolder
 Readarr(Readarr Book) --> |as download client|RTDClient(Real-Debrid Torrent Client)
 Readarr(Readarr Book) --> |as download client|SABnzbd(SABnzbd usenet client)
 Admin(Admin 🥷) --> Radarr
@@ -65,6 +78,7 @@ Radarr(Radarr Movies) --> |as download client|RTDClient(Real-Debrid Torrent Clie
 Admin(Admin 🥷) --> Sonarr
 Sonarr(Sonarr TVshow) --> |as download client|RTDClient(Real-Debrid Torrent Client)
 Admin(Admin 🥷) --> Mylar3
+Mylar3 --> |write new comics|KavitaFolder
 Mylar3(Mylar3 Comics) --> |as download client|RTDClient(Real-Debrid Torrent Client)
 Admin(Admin 🥷) --> Bazarr
 Bazarr(Bazarr Subtitle) --> |as download client|RTDClient(Real-Debrid Torrent Client)
@@ -179,6 +193,7 @@ may be enough.</p><h2 id=goodbye-plex-hello-jellyfin-the-future-of-media-servers
 </a><a class="ui label" href=/tags/bernardet/ title=bernardet>bernardet
 </a><a class="ui label" href=/tags/bestwishes/ title=bestwishes>bestwishes
 </a><a class="ui label" href=/tags/betaflight/ title=betaflight>betaflight
+</a><a class="ui label" href=/tags/betruger/ title=betruger>betruger
 </a><a class="ui label" href=/tags/beware/ title=beware>beware
 </a><a class="ui label" href=/tags/bio/ title=bio>bio
 </a><a class="ui label" href=/tags/bioethics/ title=bioethics>bioethics
@@ -189,6 +204,7 @@ may be enough.</p><h2 id=goodbye-plex-hello-jellyfin-the-future-of-media-servers
 </a><a class="ui label" href=/tags/blog/ title=blog>blog
 </a><a class="ui label" href=/tags/book-review/ title=book-review>book-review
 </a><a class="ui label" href=/tags/books/ title=books>books
+</a><a class="ui label" href=/tags/bots/ title=bots>bots
 </a><a class="ui label" href=/tags/bought/ title=Bought>Bought
 </a><a class="ui label" href=/tags/box/ title=box>box
 </a><a class="ui label" href=/tags/brand-authenticity/ title=brand-authenticity>brand-authenticity
@@ -583,6 +599,7 @@ may be enough.</p><h2 id=goodbye-plex-hello-jellyfin-the-future-of-media-servers
 </a><a class="ui label" href=/tags/social-issues/ title=social-issues>social-issues
 </a><a class="ui label" href=/tags/solex/ title=solex>solex
 </a><a class="ui label" href=/tags/space/ title=space>space
+</a><a class="ui label" href=/tags/spams/ title=spams>spams
 </a><a class="ui label" href=/tags/sport/ title=sport>sport
 </a><a class="ui label" href=/tags/ssl-termination/ title=ssl-termination>ssl-termination
 </a><a class="ui label" href=/tags/ssl/tls/ title=ssl/tls>ssl/tls

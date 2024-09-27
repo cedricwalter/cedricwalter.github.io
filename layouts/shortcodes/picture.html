@@ -1,0 +1,14 @@
+{{ $image := .Get "src" }}
+{{ $alt := .Get "alt" }}
+{{ $avif := $image | relURL | replaceRE `(\.\w+)$` ".avif" | absURL }}
+{{ $webp := $image | relURL | replaceRE `(\.\w+)$` ".webp" | absURL }}
+
+<figure>
+  <picture>
+    <source type="image/webp" srcset="{{ $webp }}">
+
+    <img loading="lazy" src="{{ $image | absURL }}" title="{{ $alt }}" alt="{{ $alt }}"
+    >
+  </picture>
+  <figcaption>{{ $alt }}</figcaption>
+</figure>

@@ -1,0 +1,97 @@
+{{ if isset .Site.Params "favicon" }}
+<link href="{{ .Site.Params.favicon }}" rel="shortcut icon" type="image/x-icon" />
+{{ end }}
+
+<!-- The dns-prefetch resource functionality is intended to look-up domain names
+   before the browser would otherwise know that they’d be needed in the near future.
+   It’s a quick way to speed up the loading of external page resources.
+   You only need to set this up for resources that aren’t hosted on your own domain.
+-->
+<link rel="dns-prefetch" href="https://cdn.jsdelivr.net">
+<link href="https://cdn.jsdelivr.net" rel="preconnect" crossorigin>
+
+{{ if eq .Type "posts" }}
+  <meta name="author" content="{{ if isset .Params "author" }}{{ .Params.author }}{{ else }}{{ .Site.Params.author }}{{ end }}" />
+  <meta name="description" content="{{ .Summary | plainify }}" />
+{{ else }}
+  <meta name="author" content="{{ .Site.Params.author }}" />
+  <meta name="description" content="{{ .Site.Params.description }}" />
+{{ end }}
+
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<meta name="apple-mobile-web-app-title" content="C&eacute;dric Walter Blog">
+<meta name="application-name" content="C&eacute;dric Walter Blog">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff">
+
+<!-- Site Generator -->
+{{ hugo.Generator }}
+
+<!-- Setting the canonical URL helps guard against confusion from duplication of the content elsewhere (even on the same site).
+  In essence, it tells search engines, “This location is what you should consider an authoritative, original source for its content.” -->
+{{- if isset .Params "canonical" -}}
+  <link rel="canonical" href="{{ .Params.canonical }}" />
+{{- else -}}
+  <link rel="canonical" href="{{ .Permalink }}" />
+{{- end }}
+
+<!-- Open Graph -->
+{{ template "_internal/opengraph.html" . }}
+
+<!-- Twitter Cards -->
+{{ template "_internal/twitter_cards.html" . }}
+
+<link async rel="stylesheet" href="{{ "/css/tocbot.css" | relURL }}" />
+<script src="{{ "/js/tocbot.min.js" | relURL }}"></script>
+
+<link async rel="stylesheet" href="https://cdn.jsdelivr.net/npm/semantic-ui@2.4.2/dist/semantic.min.css" integrity="sha256-UXesixbeLkB/UYxVTzuj/gg3+LMzgwAmg3zD+C4ZASQ=" crossorigin="anonymous">
+<link async rel="stylesheet" href="{{ "/css/icomoon.css" | relURL }}" />
+<link async rel="stylesheet" href="https://cdn.jsdelivr.net/npm/overlayscrollbars@1.13.1/css/OverlayScrollbars.min.css" integrity="sha256-WKijf8KI68sbq8Znd6yMepIuFF0wdWfIt6gk3JWcQfk=" crossorigin="anonymous">
+<link async rel="stylesheet" href="https://cdn.jsdelivr.net/npm/github-markdown-css@4.0.0/github-markdown.min.css">
+<link async rel="stylesheet" href="{{ "/css/site.css" | relURL }}" />
+
+<style>
+  .ui.header a:not(.item, .ui.button):hover {
+    text-decoration: underline;
+  }
+
+  {{ if .Site.Params.linkColor }}
+  a:not(.item, .ui.button) {
+    color: {{ .Site.Params.linkColor }} !important;
+  }
+  {{ end }}
+
+  {{ if .Site.Params.darkLinkColor }}
+  .inverted a:not(.item, .ui.button) {
+     color: {{ .Site.Params.darkLinkColor }} !important;
+  }
+  {{ end }}
+
+  {{ if or .Site.Params.background .Site.Params.backgroundImage }}
+  body.default {
+    {{ if .Site.Params.background }}
+    background-color: {{ .Site.Params.background }};
+    {{ end }}
+
+    {{ if .Site.Params.backgroundImage }}
+    background-image: url({{ .Site.Params.backgroundImage }});
+    {{ end }}
+  }
+  {{ end }}
+
+  {{ if or .Site.Params.backgroundDark .Site.Params.backgroundImageDark }}
+  body.dark {
+    {{ if .Site.Params.backgroundDark }}
+    background-color: {{ .Site.Params.backgroundDark }};
+    {{ end }}
+
+    {{ if .Site.Params.backgroundImageDark }}
+    background-image: url({{ .Site.Params.backgroundImageDark }});
+    {{ end }}
+  }
+  {{ end }}
+</style>

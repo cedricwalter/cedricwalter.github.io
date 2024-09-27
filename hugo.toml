@@ -1,0 +1,220 @@
+baseURL = 'https://waltercedric.com'
+languageCode = 'en-us'
+defaultContentLanguage = "en"
+title = 'Cédric Walter blog'
+theme = ["dream", "darths-hugo-shortcodes"]
+
+# copyright = ""
+
+
+# enableRobotsTXT = true
+
+# copyright = '<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Knowledge Enjoy License Agreement style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a> This work adopts <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-Non-Commercial-Same Share 4.0 International License Agreement</a> for licensing. The background is used <a href="https://www.pexels.com/zh-cn/" target="_blank">Pexels</a> on <a href="http s://www.pexels.com/zh-cn/@minan1398" target="_blank">Min An</a> <a href="https://www.pexels.com/z h-cn/photo/1454794/" target="_blank">picture</a>.'
+copyright="Reproduction without explicit permission is prohibited. All Rights Reserved. All photos remain copyright © their rightful owners. No copyright infringement is intended."
+
+# .Site.Config.Services.GoogleAnalytics.ID = ""
+
+enableRobotsTXT = true # For details, see the document under Dream author docs directory
+enableEmoji = true
+
+# Instead of defining lastmod in front matter:
+#  - use the git author date or
+#  - the file modification time
+# when displaying .Lastmod on a page.
+enableGitInfo = true
+[frontmatter]
+lastmod = [':git', ':fileModTime']
+
+######################################################
+##### Gitcus
+gitcusRepo = "cedricwalter/cedricwalter.github.io"
+
+
+######################################################
+##### Disqus
+# .Site.Config.Services.Disqus.Shortname = ""
+
+######################################################
+##### utteranc.es
+
+#utterancesRepo = "cedricwalter/cedricwalter.github.io"
+# utterancesStyle = "github-light"
+# utterancesStyle = "gruvbox-dark"
+# utterancesStyle = "github-dark"
+# utterancesStyle = "preferred-color-scheme"
+# utterancesStyle = "github-dark-orange"
+# utterancesStyle = "icy-dark"
+# utterancesStyle = "dark-blue"
+# utterancesStyle = "photon-dark"
+# utterancesStyle = "boxy-light"
+
+# Choose the mapping between blog posts and GitHub issues.
+
+# Issue title contains page pathname: Utterances will search for an issue whose title contains the blog post's pathname URL component.
+# If a matching issue is not found, Utterances will automatically create one the first time someone comments on your post.
+# utterancesMapping=pathname
+
+# Issue title contains page URL
+# Utterances will search for an issue whose title contains the blog post's URL.
+# If a matching issue is not found, Utterances will automatically create one the first time someone comments on your post.
+# utterancesMapping=url
+
+# Issue title contains page title
+# Utterances will search for an issue whose title contains the blog post's title.
+# If a matching issue is not found, Utterances will automatically create one the first time someone comments on your post.
+# utterancesMapping=title
+
+# Issue title contains page og:title
+# Utterances will search for an issue whose title contains the page's Open Graph title meta. If a matching issue is not found, Utterances will automatically create one the first time someone comments on your post.
+# utterancesMapping=og:title
+
+# Specific issue number
+# You configure Utterances to load a specific issue by number. Issues are not automatically created.
+# utterancesMapping=[ENTER ISSUE NUMBER HERE]
+
+# Issue title contains specific term
+# You configure Utterances to search for an issue whose title contains a specific term of your choosing. If a matching issue is not found, Utterances will automatically create one the first time someone comments on your post. The issue's title will be the term you chose.
+# utterancesMapping=[ENTER TERM HERE]
+
+paginate = 15
+
+[params]
+  # assetDir = "static"
+  background = "#f7f7f7"
+  # backgroundImage = "/me/background1.webp"
+  linkColor = "seagreen"
+
+  # dark mode
+  # defaultDark = true
+  backgroundDark = "black"
+  # backgroundImageDark = "/me/background1-dark.webp"
+  darkLinkColor = "darkseagreen"
+  darkNav = true
+  dark404 = true
+
+  author = "Cédric Walter"
+  name = "Cédric Walter blog"
+  headerTitle = "Cédric Walter"
+  description ="Cédric Walter is a French-Swiss entrepreneur, investor, and software engineer based in Zurich, Switzerland."
+  motto = "A true selfless act always sparks another"
+  # "\"To see life; to see the world; to eyewitness great events; to watch the faces of the poor and the gestures of the proud; to see strange things — machines, armies, multitudes, shadows in the jungle and on the moon; to see man's work — his paintings, towers and discoveries; to see things thousands of miles away, things hidden behind walls and within rooms, things dangerous to come to; the women that men love and many children; to see and take pleasure in seeing; to see and be amazed; to see and be instructed.\" -- Henry Luce, LIFE's founder and publisher. 1936"
+  # "A true selfless act always sparks another"
+
+  # use true for chinese
+  hasCJKLanguage = false
+  avatar = "/img/avatar.webp"
+  maxTags = 5
+  # categoriesLimitInHeader = 6 # deprecated
+  # headerBottomText = "" # deprecated
+  # footerBottomText = ""
+  rss = true
+
+  # valine = true
+  # LEANCLOUD_APP_ID = ""
+  # LEANCLOUD_APP_KEY = ""
+  # VALINE_LANGUAGE = ""
+
+  email = "cedric.walter@gmail.com"
+  twitter = "cedricwalter"
+  facebook = "cedricwalter"
+  instagram = "cedricwalter"
+  mastodon = "cedricwalter"
+  linkedin = "cedricwalter"
+  github = "cedricwalter"
+  stackoverflow = "cedricwalter"
+  youtube = "subscription_center?add_user_id=sGBOO5NTfBIm6Jd9hCo2uw&feature=creators_cornier-https%3A//s.ytimg.com/yt/img/creators_corner/Subscribe_to_my_videos/YT_Subscribe_130x36_red.png"
+    # codepen = ""
+  flickr = "https://www.flickr.com/people/194126732@N05/"
+
+  siteStartYear = 1997
+
+  favicon = "/favicon.ico"
+
+  highlightjs = true
+  highlightjsCDN = "https://cdn.jsdelivr.net/gh/highlightjs/cdn-release/build/highlight.min.js"
+  highlightjsExtraLanguages = ["ocaml"]
+  highlightjsTheme = "gruvbox-light"
+  highlightjsThemeDark = "gruvbox-dark"
+
+  # search
+  enableSearch = true
+
+  # options
+  showSummaryCoverInPost = true
+  hasTwitterEmbed = false
+  reversePostAndAside = true
+  shareInAside = true
+  fixedNav = true
+  collapsibleTags = true
+  collapseBySummary = true
+  #disableFlip = true
+  #hideBackSocialLinks = true
+
+  # [params.experimental]
+  #   jsDate = true
+  #   jsDateFormat = "yyyy年MM月dd日"
+
+  [params.advanced]
+      customCSS = ["css/custom.css"] # files in the list will be loaded in order
+  #    customJSBefore = ["js/custom-before.js"]
+      # customJS = ["js/custom.js"]
+
+  [outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+  [taxonomies]
+  category = 'categories'
+  tag = 'tags'
+
+  # default related settings
+  [related]
+    includeNewer = true
+    threshold = 80
+    toLower = false
+  [[related.indices]]
+      applyFilter = false
+      cardinalityThreshold = 0
+      name = 'keywords'
+      pattern = ''
+      toLower = false
+      type = 'basic'
+      weight = 100
+  [[related.indices]]
+      applyFilter = false
+      cardinalityThreshold = 0
+      name = 'date'
+      pattern = ''
+      toLower = false
+      type = 'basic'
+      weight = 10
+  [[related.indices]]
+      applyFilter = false
+      cardinalityThreshold = 0
+      name = 'tags'
+      pattern = ''
+      toLower = false
+      type = 'basic'
+      weight = 80
+
+  [imaging]
+   [imaging.exif]
+    disableDate = false
+    disableLatLong = false
+    excludeFields = ''
+    includeFields = ''
+
+[build]
+  writeStats = true
+  [build.buildStats]
+    enable = true
+
+# This will minify your CSS, HTML, JS, JSON, SVGs and XML automatically.
+# https://gohugo.io/getting-started/configuration/#configure-minify
+[minify]
+  minifyOutput = true
+
+[markup]
+  [markup.tableOfContents]
+    endLevel = 4
+    ordered = false
+    startLevel = 2

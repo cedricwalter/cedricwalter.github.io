@@ -1,0 +1,26 @@
+{{ if or .Site.Params.backgroundDark .Site.Params.backgroundImageDark }}
+<nav class="ui secondary menu dream-menu dream-nav">
+{{ else if .Site.Params.darkNav }}
+<nav class="ui secondary inverted menu dream-menu dream-nav">
+{{ else }}
+<nav class="ui secondary menu dream-menu dream-nav">
+{{ end }}
+  {{ if not .Site.Params.disableFlip }}
+  <a class="item dream-flip-toggle" aria-label="View about page with contact informations" href="#" title="{{ i18n "flip" }}">
+    <i class="large link bullseye icon"></i>
+  </a>
+  {{ end }}
+  <a class="item" href="{{ .Site.BaseURL }}" aria-label="Go back to home" title="{{ i18n "home" }}">
+    <i class="large link home icon"></i>
+  </a>
+  {{ if or .Site.Params.backgroundDark .Site.Params.backgroundImageDark }}
+  <a class="item" href="#" aria-label="Switch theme to dark mode" onclick="themeSwitch(event)">
+    <i class="large link icon theme-switch"></i>
+  </a>
+  {{ end }}
+  {{ if .Site.Params.enableSearch }}
+  <a class="item" href="#" aria-label="Open search bar" title="{{ i18n "search" }}" onclick="toggleSearch(event)">
+    <i class="large link search icon"></i>
+  </a>
+  {{ end }}
+</nav>

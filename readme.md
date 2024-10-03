@@ -1,4 +1,17 @@
 
+# Readme
+* One repo public cedricwalter.github.io
+* Use .github/workflows/hugo.yml
+* No need to install brew, hugo, no supply chain attack possible
+* Ability to edit md online on github
+* Impossible to test locally
+
+# Previous readme "old tech" DEPRECATED
+* one repo public cedricwalter.github.io
+* one repo private blog-hugo
+* you need to install hugo locally, on macos using brew
+
+you add page in blog-hugo and use deploy.sh to update the content (only html, css, images, javascript) and push to cedricwalter.github.io
 
 ```bash
 echo "# cedricwalter.github.io" >> README.md

@@ -3,6 +3,7 @@
 title: "Pourquoi j'ai arrêté d'utiliser WhatsApp, Telegram, Signal, Instagram et Messenger au profit de iMessage"
 date: 2024-07-24T10:32:17+01:00
 summary: "Dans un monde où les applications de messagerie sont omniprésentes, choisir la bonne plateforme peut sembler un casse-tête. Pendant des années, j'ai jonglé entre WhatsApp, Telegram, Signal, Telegram, Instagram et Messenger, mais récemment, j'ai décidé de simplifier ma vie numérique en adoptant exclusivement iMessage."
+cover: /homelab/quit-social-network.webp
 categories:
   - Homelab
 tags:

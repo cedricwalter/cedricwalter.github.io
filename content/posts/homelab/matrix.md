@@ -1,8 +1,8 @@
-
 ---
 title: "Self-Hosting Matrix for Federated Communication"
 date: 2024-10-07T10:44:17+01:00
 summary: "In an era where privacy and control over personal data are increasingly at risk, self-hosting communication tools has become more attractive. Among the available options, Matrix, an open-source decentralized communication protocol, stands out for its ability to offer federated, secure, and scalable communication."
+cover: /homelab/quit-social-network.webp
 categories:
     - Homelab
 tags:

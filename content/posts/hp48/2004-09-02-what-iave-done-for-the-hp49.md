@@ -49,7 +49,7 @@ You can now take **any** HP49G/HP49Gx/HP50G/... in the world, and do a soft rese
 
 Under the pseudo : Elta, (the last magician lord a famous SNK Neo Geo game)
 
-[\* Some very USEFUL document to program in LM](http://www.waltercedric.com/HP48/asm/) (
+[\* Some very USEFUL document to program in LM](https://www.waltercedric.com/HP48/asm/) (
 all credits to COCOHP). A NICE flags demo! ! ! ! ! They are here because i’ve never find them in Internet (personnal
 correspondance in 1995).
 

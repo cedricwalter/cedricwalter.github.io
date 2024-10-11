@@ -3,7 +3,7 @@ title: Misc
 type: posts
 date: 2023-12-19T11:48:33+01:00
 ---
-*   [Twitter](http://www.twitter.com/cedricwalter)
+*   [Twitter](https://www.twitter.com/cedricwalter)
 *   [Facebook](https://web.archive.org/web/20230203001255/http://www.facebook.com/cedric.walter)
 *   [Pinterest](https://web.archive.org/web/20230203001255/https://www.pinterest.com/cedricwalter/)
 *   [Instagram](https://web.archive.org/web/20230203001255/https://www.instagram.com/cedricwalter/)

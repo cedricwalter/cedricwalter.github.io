@@ -51,7 +51,7 @@ This website is owned by **Cedric Walter.**We can be reached [via e-mail HERE]
 
             *   The website (URI) the user came through in order to arrive at this website (example: clicking on a hyperlink from Yahoo.com that took the user to this website)
             *   Search engine query used (example: typing in a phrase into a search engine like Google, and clicking on a link from that search engine)
-    *   Google Analytics data is shared with Google. For more information on Google 's Privacy Policies, visit: [http://www.google.com/intl//privacypolicy.html](http://www.google.com/intl/privacypolicy.html)
+    *   Google Analytics data is shared with Google. For more information on Google 's Privacy Policies, visit: [http://www.google.com/intl//privacypolicy.html](https://www.google.com/intl/privacypolicy.html)
     *   **This data is primarily used to optimize our website for our visitors and search engines, however we will use this data for marketing purposes**. An example of how this data could be used for marketing purposes would be to tell potential advertisers how many visitors we get to the website, where our visitors come from, and how they arrive at our website.
     *   **This data DOES NOT include any personal identification information such as**:
 

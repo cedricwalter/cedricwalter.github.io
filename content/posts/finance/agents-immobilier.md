@@ -15,12 +15,28 @@ Les agents immobiliers utilisent une variété de techniques et d'astuces pour a
 Voici quelques-unes des astuces les plus courantes :
 
 # Ils manipulent les photos
-- Enlèvent les vis à vis dans les fenêtres
+- Enlèvent les vis à vis dans les fenêtres grâce au logiciel de retouches
 - Eclaircissent les pièces en post production
 - Utilisent de l'IA pour vous aider à voir le potentiel mais parlent rarement des coûts.
+- Vous présentent des vues 3D
+
+# Les descriptions
+- Ils parlent de la belle vue mais ne donne pas de photos
+- Des vues dégagés oui mais avec des terrains en friche ou en constructions (donc vieilles photos)
+- Pas de photos des intérieurs, même si renovés. Cela peut être pour des raison de confidentialité mais aussi cacher quelques fois le mauvais gout des propriètaires. Cela laisse une chnace au bien mais peut vous décevoir lors de la visite.
+
+
+# Pas d'adresse ou une localisation approximative
+Manque de pot, une seule image suffit à faire une recherche inversé dans google lens. De une vous allez découvrir que c'est RAREMENT une exclusivité et que le bien apparait sur X sites différents. Certains de ces sites vous donneront l'adresse exacte, ou pire encore vous allez trouver le bien sous AirBNB.
+
+Ma méthode préféré est d'avoir une photo d'ensemble (en drone), ou mieux du toit. Google map en mode satelite est redoutable pour trouver l'adresse en 15min chrono.
+
+La vous allez découvrir la cité HLM à coté, ou le parking d'hotel bruyant, la voie ferré ou pire encore. 
+
+Bref ne pas fournir l'adresse est peut être important pour le respect de la vie privé, c'est redoutable pour vous sapper la confiance.
 
 # Mise en scène (Home staging)
-- Décorer et organiser les espaces pour les rendre plus attractifs et aider les acheteurs à se projeter dans le bien.
+- Décorer et organiser les espaces pour les rendre plus attractifs et aider les acheteurs à se projeter dans le bien. ne vous laissez pas berner, rajouter 5000 euros de chaises longues et parasoles souvent loués à la journée le temps des photos, cela reste une facon d'embellir l'existant.
 - Utiliser des meubles et des décorations modernes pour donner une impression de confort et de modernité.
 
 # Photographie professionnelle

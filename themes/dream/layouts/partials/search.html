@@ -8,7 +8,7 @@
 </div>
 <script>
   $(document).ready(function () {
-    $.getJSON('{{ .Site.BaseURL }}/index.json', function (data) {
+    $.getJSON('https://waltercedric.com/index.json', function (data) {
       $('.ui.search').search({
         source: data,
         searchFields: ['title'],

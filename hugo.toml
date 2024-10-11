@@ -5,7 +5,7 @@ title = 'Cédric Walter blog'
 theme = ["dream", "darths-hugo-shortcodes"]
 
 # copyright = ""
-relativeURLs = true
+
 
 # enableRobotsTXT = true
 

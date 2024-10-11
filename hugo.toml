@@ -83,6 +83,8 @@ paginate = 15
   background = "#f7f7f7"
   # backgroundImage = "/me/background1.webp"
   linkColor = "seagreen"
+  
+  relativeURLs = true
 
   # dark mode
   # defaultDark = true

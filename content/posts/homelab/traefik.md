@@ -1,7 +1,7 @@
 ---
 title: "Reverse proxy Docker applications and applications with Let's Encrypt and Traefik"
 date: 2024-02-28T10:44:17+01:00
-cover: "/homelab/traefik.webp"
+cover: "https://www.waltercedric.com/homelab/traefik.webp"
 summary: "Securing Docker containers with Let's Encrypt and Traefik involves setting up a reverse proxy with SSL termination using `Traefik` and obtaining SSL/TLS certificates with the help of letsencrypt"
 categories:
   - Homelab

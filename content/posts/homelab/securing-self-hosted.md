@@ -1,7 +1,7 @@
 ---
 title: "Securing self hosted app with Fail2Ban, Traeffik"
 date: 2024-02-11T10:15:17+01:00
-cover: /2023/docker.webp
+cover: https://www.waltercedric.com/2023/docker.webp
 cover_alt: "Immich in docker"
 cover_width: "1286px"
 cover_height: "350px"

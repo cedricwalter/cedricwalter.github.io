@@ -3,7 +3,7 @@ title: The Classic Charm of the Bernardet Scooter
 type: posts
 date: 2023-12-23T08:10:55+00:00
 url: /scooter/the-classic-charm-of-the-bernardet-scooter/
-cover: /2023/10/bernardet-scooter-e51-1.webp
+cover: https://www.waltercedric.com/2023/10/bernardet-scooter-e51-1.webp
 tags:
   - scooters
   - vespa

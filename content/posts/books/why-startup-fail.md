@@ -1,7 +1,7 @@
 ---
 title: "Starting a startup is an exciting and challenging journey. However, the reality is that most startups fail."
 date: 2024-01-05T10:11:52+01:00
-cover: "/books/why-startup-fail.webp"
+cover: "https://www.waltercedric.com/books/why-startup-fail.webp"
 summary: "According to a report by Harvard Business, approximately 90% of startups fail within the first year. By understanding the common reasons for startup failure and following the tips outlined above, you can navigate the challenges of entrepreneurship and build a successful business."
 categories:
   - Books

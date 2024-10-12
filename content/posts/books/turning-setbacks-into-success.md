@@ -1,7 +1,7 @@
 ---
 title: "Turning Setbacks into Success: Tales of Resilience from Entrepreneurs"
 date: 2024-01-08T10:11:52+01:00
-cover: "/books/tales-of-resilience-from-entrepreneurs.webp"
+cover: "https://www.waltercedric.com/books/tales-of-resilience-from-entrepreneurs.webp"
 summary: "In the ever-evolving landscape of entrepreneurship, setbacks are an inevitable part of the journey. What sets successful entrepreneurs apart is their ability to transform these challenges into opportunities for growth. In You Screwed Up! by Alice Hlidkova, readers are treated to a collection of inspiring stories that highlight the remarkable resilience and determination of entrepreneurs who faced significant setbacks but ultimately turned them into stepping stones towards success."
 categories:
   - Books

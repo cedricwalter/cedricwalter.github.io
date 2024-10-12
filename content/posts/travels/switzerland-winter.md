@@ -1,7 +1,7 @@
 ---
 title: Winter in Switzerland
 date: 2024-01-28T10:44:17+01:00
-cover: "/switzerland/ski/switzerland-ski-1.webp"
+cover: "https://www.waltercedric.com/switzerland/ski/switzerland-ski-1.webp"
 cover_alt: "Switzerland in winter"
 
 summary: "Switzerland, renowned for its breathtaking landscapes and pristine Alpine peaks, is a haven for skiing enthusiasts. With its world-class ski resorts, the country offers an unparalleled winter sports experience. Whether you're a seasoned skier or a novice looking to hit the slopes, Switzerland has something for everyone. In this blog post, we'll explore the 10 best ski resorts that promise unforgettable skiing adventures amidst stunning snow-covered vistas."

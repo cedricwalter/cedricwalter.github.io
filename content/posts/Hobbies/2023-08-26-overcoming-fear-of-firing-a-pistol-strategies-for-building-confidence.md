@@ -4,7 +4,7 @@ summary: "Firing a pistol for the first time or even after several attempts can 
 type: posts
 date: 2023-08-26T16:39:21+00:00
 url: /hobbies/overcoming-fear-of-firing-a-pistol-strategies-for-building-confidence/
-cover: /2023/08/indoorShootingRange.webp
+cover: https://www.waltercedric.com/2023/08/indoorShootingRange.webp
 tags:
   - firearm
   - hobby

@@ -1,7 +1,7 @@
 ---
 title: "The Blockchain Consensus Encyclopedia"
 date: 2024-01-05T10:11:52+01:00
-cover: "/books/the-blockchain-consensus-encyclopedia.webp"
+cover: "https://www.waltercedric.com/books/the-blockchain-consensus-encyclopedia.webp"
 cover_alt: "the-blockchain-consensus-encyclopedia"
 summary: "the Blockchain Consensus Encyclopedia - A Comprehensive Resource for Distributed Ledger Technology"
 categories:

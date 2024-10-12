@@ -1,7 +1,7 @@
 ---
 title: Homelab - dont rely on services where YOU are the product
 date: 2023-12-22T12:55:31+01:00
-cover: /2023/docker.webp
+cover: https://www.waltercedric.com/2023/docker.webp
 type: posts
 summary: "A homelab, short for home laboratory, refers to a setup where individuals or hobbyists create a small-scale computing or networking environment in their homes for various purposes. The goal is typically to gain hands-on experience, test and learn about different technologies, and build skills related to IT, networking, server administration, and more. Homelabs can vary widely in complexity and purpose, depending on the interests and goals of the individual setting them up!"
 categories:

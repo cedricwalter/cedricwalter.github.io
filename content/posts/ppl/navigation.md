@@ -3,7 +3,7 @@ title: "40 questions sur la navigations pour la PPL ECQB"
 type: posts
 date: 2024-08-03T21:01:05+00:00
 summary: "Voici 40 questions et réponses pour vous aider à réviser la partie navigation de l'examen théorique du PPL, en se basant sur le syllabus ECQB. Ces questions couvrent divers aspects de la navigation aérienne et sont conçues pour évaluer votre compréhension des principes théoriques essentiels. Bonne préparation !"
-cover: /hobbies/shark-aero.webp
+cover: https://www.waltercedric.com/hobbies/shark-aero.webp
 tags:
   - ppl
   - private-pilot-license

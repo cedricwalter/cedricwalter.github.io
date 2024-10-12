@@ -1,7 +1,7 @@
 ---
 title: "edgeTX tips and tricks"
 date: 2024-01-15T10:11:52+01:00
-cover: /2023/10/radiomaster-pocket-9-1-scaled.webp
+cover: https://www.waltercedric.com/2023/10/radiomaster-pocket-9-1-scaled.webp
 summary: "A collection of tips and tricks for edgeTX the open source radio control"
 categories:
   - RC helicopter
@@ -60,7 +60,7 @@ It is also advised to start from a blank model if you dont remember was was set 
 
 Here's a brief overview of each method:
 
-![](/2023/10/RC-Helicopter-Understanding-Transmitter-Flight-Controls--1024x533.webp)
+![](https://www.waltercedric.com/2023/10/RC-Helicopter-Understanding-Transmitter-Flight-Controls--1024x533.webp)
 
 In EdgeTX, the "input" (stick positions) from the sticks travels to the RF channel output (signal out the RF module) like this:
 

@@ -1,7 +1,7 @@
 ---
 title: "Visiter le Japon, un mélange captivant de traditions anciennes et de modernité de pointe"
 date: 2024-02-14T09:41:17+01:00
-cover: "/travels/japan/japan.webp"
+cover: "https://www.waltercedric.com/travels/japan/japan.webp"
 cover_alt: "The cherry blossom season in Japan"
 cover_width: "640"
 cover_height: "480"

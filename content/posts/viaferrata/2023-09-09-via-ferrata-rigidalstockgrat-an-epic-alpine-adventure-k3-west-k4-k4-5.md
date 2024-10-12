@@ -4,7 +4,7 @@ summary: "Nestled within the breathtaking landscapes of Switzerland lies a via f
 type: posts
 date: 2023-09-09T13:04:14+00:00
 url: /via-ferrata-rigidalstockgrat-an-epic-alpine-adventure-k3-west-k4-k4-5/
-cover: /2023/09/IMG_2062-scaled.webp
+cover: https://www.waltercedric.com/2023/09/IMG_2062-scaled.webp
 enclosure:
   - |
     |
@@ -29,7 +29,7 @@ Nestled within the breathtaking landscapes of Switzerland lies a via ferrata tha
 ![Rigidalstockgrat](/2023/09/Via-Ferrata-Rigidalstockgrat-5-300x225.webp)
 
 
-![](/2023/09/via-ferrata-equipement-1024x759.webp)
+![](https://www.waltercedric.com/2023/09/via-ferrata-equipement-1024x759.webp)
 
 ## Equipment
 
@@ -37,7 +37,7 @@ To tackle a Via Ferrata, you’ll need appropriate climbing gear. A climbing har
 
 ## My notes
 
-![](/2023/09/IMG_2061-1024x768.webp)
+![](https://www.waltercedric.com/2023/09/IMG_2061-1024x768.webp)
 
 The uphill approach walk is really demanding, took me 2h without break from Brunnistöckli. The walk ended being more difficult than the K3 due to the steepness, small rocks limiting speed and making the road hazardous. A good self balance and sure footness is required!
 

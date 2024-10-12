@@ -4,7 +4,7 @@ summary: "I am always trying to complete my collection, you can contact me if yo
 type: posts
 date: 2009-10-25T00:16:33+00:00
 url: /games/all-neo-geo-cd-games/
-cover: /2009/10/snk-neo-geo-logo.webp
+cover: https://www.waltercedric.com/2009/10/snk-neo-geo-logo.webp
 tags:
   - arcade
   - Collectibles

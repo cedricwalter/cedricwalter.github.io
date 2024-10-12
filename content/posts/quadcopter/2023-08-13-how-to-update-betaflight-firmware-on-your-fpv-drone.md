@@ -4,7 +4,7 @@ summary: "Upgrading the Betaflight firmware on your FPV drone is essential to ac
 type: posts
 date: 2023-08-13T18:36:11+00:00
 url: /how-to-update-betaflight-firmware-on-your-fpv-drone/
-cover: /2023/08/betaflight.webp
+cover: https://www.waltercedric.com/2023/08/betaflight.webp
 tags:
   - betaflight
   - drone

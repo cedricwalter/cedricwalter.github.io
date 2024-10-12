@@ -2,7 +2,7 @@
 title: Me and the Hewlett Packard calculators
 type: posts
 date: 2023-12-24T08:10:55+00:00
-cover: /hewlett-packard/hp50gGraphingCalculator.webp
+cover: https://www.waltercedric.com/hewlett-packard/hp50gGraphingCalculator.webp
 tags:
   - calculator
   - hewlettpackard
@@ -43,7 +43,7 @@ I have done a nice picture on 20th March 1998 while being at the engineer school
 The MetaKernel is a masterpiece of software written entirely in ASM. I use to buy a license (version 2.20) when it was still on HP48Gx before it was merged inside the HP49kernel.
 You can now take **any** HP49G/HP49Gx/HP50G/... in the world, and do a soft reset (ON-C), and you can see my picture!!!!!. My signature is on the left corner, you can press ON quickly to freeze the picture.
 
-![](/hewlett-packard/metakernel.webp)
+![](https://www.waltercedric.com/hewlett-packard/metakernel.webp)
 
 ## Some HP programs I did
 

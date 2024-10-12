@@ -1,7 +1,7 @@
 ---
 title: "Dynamic IP at home, no problem with ddclient and Cloudflare"
 date: 2024-02-29T10:32:17+01:00
-cover: "/homelab/ddclient-cloudflare.webp"
+cover: "https://www.waltercedric.com/homelab/ddclient-cloudflare.webp"
 summary: "ddclient is an open-source Perl-based client used to update dynamic DNS entries for various DDNS service providers. It supports a wide range of protocols, including DynDNS, No-IP, DuckDNS, Cloudflare, and many others, making it a flexible choice for users with diverse needs."
 categories:
   - Homelab

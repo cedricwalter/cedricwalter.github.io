@@ -3,7 +3,7 @@ title: "40 questions sur la météorologie pour la PPL ECQB"
 type: posts
 date: 2024-08-03T21:01:05+00:00
 summary: "Voici 40 questions et réponses sur la météorologie pour vous aider à préparer l'examen théorique du PPL basé sur le syllabus ECQB. Ces questions couvrent une gamme de concepts clés en météorologie aéronautique. Bonne chance dans vos révisions pour l'examen théorique du PPL !"
-cover: /hobbies/shark-aero.webp
+cover: https://www.waltercedric.com/hobbies/shark-aero.webp
 tags:
   - ppl
   - private-pilot-license

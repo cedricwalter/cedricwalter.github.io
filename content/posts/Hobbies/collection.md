@@ -26,7 +26,7 @@ tags:
   - bien-vivre
 categories:
   - Hobbies
-cover: /homelab/flat-before.webp
+cover: https://www.waltercedric.com/homelab/flat-before.webp
 ---
 Collectionner des objets peut être une passion enrichissante et gratifiante pour beaucoup de gens. Pendant des années, j'ai moi-même été un collectionneur passionné, cherchant sans relâche à ajouter de nouveaux trésors à ma collection. Cependant, au fil du temps, j'ai réalisé que cette obsession pour l'accumulation d'objets avait des conséquences néfastes sur ma vie et ma santé mentale. Dans ce blog post, je partagerai mon parcours personnel et les raisons pour lesquelles j'ai finalement décidé de mettre un terme à ma vie de collectionneur en série.
 

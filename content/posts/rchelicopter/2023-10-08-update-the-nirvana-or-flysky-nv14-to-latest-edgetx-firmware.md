@@ -5,7 +5,7 @@ type: posts
 date: 2023-10-08T20:02:18+00:00
 summary: "EdgeTX is a popular open-source firmware for RC (Radio Control) transmitters. It offers a wide range of features and customization options for hobbyists and enthusiasts in the RC community. Keeping your EdgeTX installation up to date ensures you have access to the latest features, improvements, and bug fixes. One crucial aspect of updating EdgeTX is updating the SD card contents. In this blog post, we will guide you through the process of updating EdgeTX and its SD card to the latest version."
 url: /rc-helicopter-airplanes-fpv-drone/update-the-nirvana-or-flysky-nv14-to-latest-edgetx-firmware/
-cover: /2023/10/nirvana-nv14-edgetx.webp
+cover: https://www.waltercedric.com/2023/10/nirvana-nv14-edgetx.webp
 tags:
   - controller
   - drone

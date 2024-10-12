@@ -3,7 +3,7 @@ title: "Radiomaster Nexus for Rotorflight"
 summary: ""
 type: posts
 date: 2024-06-17T10:30:17+01:00
-cover: /rchelicopter/Rotorflight_rotorflight.webp
+cover: https://www.waltercedric.com/rchelicopter/Rotorflight_rotorflight.webp
 summary: "The NEXUS Flybarless (FBL) control unit has been designed from the ground up based on the Rotorflight 2.0 reference design. All aspects of the NEXUS have been planned and tested for optimum performance and compatibility, ensuring the best out-of-the-box Rotorflight experience on the market today."
 tags:
   - rc-helicopter

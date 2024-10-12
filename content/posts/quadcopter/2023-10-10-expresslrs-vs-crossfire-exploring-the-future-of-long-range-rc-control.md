@@ -5,7 +5,7 @@ type: posts
 date: 2023-10-10T17:03:02+00:00
 summary: "In the world of long-range RC (Radio Control) control systems, two names have risen to prominence: ExpressLRS and Crossfire. These systems are at the forefront of technological advancements, pushing the boundaries of what's possible in the world of remote-controlled devices. "
 url: /rc-helicopter-airplanes-fpv-drone/expresslrs-vs-crossfire-exploring-the-future-of-long-range-rc-control/
-cover: /2023/10/expressLRS-ELRS-logo.webp
+cover: https://www.waltercedric.com/2023/10/expressLRS-ELRS-logo.webp
 tags:
   - drone
   - edgetx

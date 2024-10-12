@@ -4,7 +4,7 @@ summary: "In the ever-evolving world of remote control systems, enthusiasts are 
 type: posts
 date: 2023-10-05T12:20:44+00:00
 url: /rc-helicopter-airplanes-fpv-drone/revolutionizing-remote-control-exploring-the-radiomaster-pocket-elrs-with-cc2500/
-cover: /2023/10/radiomaster-pocket-9-1-scaled.webp
+cover: https://www.waltercedric.com/2023/10/radiomaster-pocket-9-1-scaled.webp
 tags:
   - cc2500
   - drone
@@ -161,11 +161,11 @@ They cost 14 CHF and are available in 4 colors!
 *   **RDQ**
 *   **Banggood**
 
-![](/2023/10/RadioMaster_Pocket_Case_Info.webp)
+![](https://www.waltercedric.com/2023/10/RadioMaster_Pocket_Case_Info.webp)
 
 Changing the shell take 15 min, only difficulty is to unmount the antenna fron the plastic shell. Take your time to not break the plastic.
 
-![](/2023/10/radiomaster-pocket-9-1024x552.webp)
+![](https://www.waltercedric.com/2023/10/radiomaster-pocket-9-1024x552.webp)
 
 **Conclusion**s
 ---------------

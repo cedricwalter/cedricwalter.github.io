@@ -4,7 +4,7 @@ title: Versus Virus Hackathon
 type: posts
 date: 2020-04-07T09:28:19+00:00
 url: /we-raise-awareness-on-food-waste-and-emergency-stock-hoarding-in-times-of-covid-19/
-cover: /2020/04/The-Selfish-Hamster.webp
+cover: https://www.waltercedric.com/2020/04/The-Selfish-Hamster.webp
 summary: "We just have finished the 48h Versus Virus Hackaton this weekend (03.04to 05.04.2020) with the challenge to raise awareness on food waste and emergency stock hoarding in times of COVID-19."
 tags:
   - competition
@@ -31,7 +31,7 @@ We just have finished the 48h <a rel="noreferrer noopener" href="https://www.ver
 
 ## Team <figure class="wp-block-image size-large">
 
-![](/2020/04/The-Selfish-Hamster-team-1024x577.webp)
+![](https://www.waltercedric.com/2020/04/The-Selfish-Hamster-team-1024x577.webp)
 
 Our Team [Lorenz Hänggi](https://www.linkedin.com/in/ACoAAACcrr4BzptVlYZLGDP5QEa84p2R-MNZGW0/), [Cristofo Vilares](https://www.linkedin.com/in/ACoAABCQ4Z8BBzHMePBFXcSAyUnlJJ1jtjuyAIw/), \[SvenFrei\]\[1\], [Thomas Veit](https://www.linkedin.com/in/thomasveit/), [Luca Mele](https://www.linkedin.com/in/ACoAAASzEV0B_Bz2AMA-AZsodye0Qc4YFTQroU8/), [Cédric Walter](https://www.linkedin.com/in/ACoAAAAH6ukBlRfIpcoS2XG09Tu9ZhELBylheT8/)
 
@@ -39,7 +39,7 @@ Our Team [Lorenz Hänggi](https://www.linkedin.com/in/ACoAAACcrr4BzptVlYZLGDP5QE
 
 Every citizen in the current situation started to build an emergency stock of food, base nutrition and toilet paper. It 's a cycled hype. What happens in a few months and years with all of this stock? Today in Switzerland every year 1 million kilogram of food is wasted.
 
-![](/2020/04/empty.webp)
+![](https://www.waltercedric.com/2020/04/empty.webp)
 
 # What it does
 
@@ -50,7 +50,7 @@ The user answers a few questions about his or her living situation and emergency
 
 We designed the user flows and wireframes collaboratively in Miro. After that, we jumped into Figma to explore the design direction and finally designed our app 's user interface. We then built a mobile first WebApp based on Vue JS, Node JS and Mongo DB.
 
-![](/2020/04/star-wars-1024x768.webp)
+![](https://www.waltercedric.com/2020/04/star-wars-1024x768.webp)
 
 ## What 's next for The-Selfish-Hamster
 
@@ -72,7 +72,7 @@ Google maps, javascript, nmongodb, node.js and vue.js
 
 ## Tools
 
-![](/2020/04/toilet-768x1024.webp)
+![](https://www.waltercedric.com/2020/04/toilet-768x1024.webp)
 
 Figma.com, Miro.com, Microsoft Teams, Slack
 

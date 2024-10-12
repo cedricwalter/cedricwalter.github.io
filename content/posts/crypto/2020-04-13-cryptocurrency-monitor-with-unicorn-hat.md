@@ -3,7 +3,7 @@ title: Cryptocurrency monitor with Unicorn HAT
 type: posts
 date: 2020-04-13T09:23:14+00:00
 url: /cryptocurrency-monitor-with-unicorn-hat/
-cover: /2020/04/Cryptocurrency-monnitor-unicorn-hat-scaled.webp
+cover: https://www.waltercedric.com/2020/04/Cryptocurrency-monnitor-unicorn-hat-scaled.webp
 summary: "Bitcoin, Ethereum price Monitoring on your raspberry Pi"
 tags:
   - bitcoin
@@ -15,7 +15,7 @@ categories:
 ---
 Unicorn pHAT and HAT. 32 or 64 blinding ws2812 pixels for your Raspberry Pi. it is called Unicorn Hat because it does rainbows, really bright rainbows! **ATTENTION**: do not stare directly at the led without a sheet of paper on it. LED are REALLY bright!
 
-![](/2020/04/unicorn-hat-raspberry-pi.webp)
+![](https://www.waltercedric.comhttps://www.waltercedric.com/2020/04/unicorn-hat-raspberry-pi.webp)
 
 ## Shopping list
 
@@ -52,7 +52,7 @@ We now use the **Raspberry Pi Imager** for an easy way to install Raspbian and o
   * [Raspberry Pi Imager for macOS][7]
   * [Raspberry Pi Imager for Ubuntu][8]
 
-  ![](/2020/04/rasbian-desktop.webp)
+  ![](https://www.waltercedric.com/2020/04/rasbian-desktop.webp)
 
 Choose Raspbian (other), then lite version connect HDMI, Keyboard, mouse (and network cable or you can use WIFI)
 

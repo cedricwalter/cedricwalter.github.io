@@ -4,7 +4,7 @@ summary: "Ten Guidelines for Via Ferrata Climbers"
 type: posts
 date: 2023-08-25T05:30:33+00:00
 url: /hobbies/via-ferrata-guide/
-cover: /2023/08/viaferrata-murren-schweiz.webp
+cover: https://www.waltercedric.com/2023/08/viaferrata-murren-schweiz.webp
 tags:
   - climb
   - climbing

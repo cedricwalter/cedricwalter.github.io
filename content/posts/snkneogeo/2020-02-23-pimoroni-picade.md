@@ -3,7 +3,7 @@ title: Pimoroni Raspberry Picade Pi-powered mini arcade cabinet
 type: posts
 date: 2023-12-23T08:10:55+00:00
 url: /pimoroni-picade/
-cover: /2020/02/RetroPieWebsiteLogo.webp
+cover: https://www.waltercedric.com/2020/02/RetroPieWebsiteLogo.webp
 tags:
   - arcade
   - games

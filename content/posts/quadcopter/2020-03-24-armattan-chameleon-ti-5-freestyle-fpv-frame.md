@@ -4,7 +4,7 @@ summary: "The Chameleon Titanium is the evolution of the all time favorite Chame
 type: posts
 date: 2020-03-24T17:44:01+00:00
 url: /armattan-chameleon-ti-5-freestyle-fpv-frame/
-cover: /2020/03/armattan-chameleon-ti-mounted-scaled.webp
+cover: https://www.waltercedric.com/2020/03/armattan-chameleon-ti-mounted-scaled.webp
 tags:
   - armattan
   - art
@@ -23,7 +23,7 @@ categories:
 ---
 The Chameleon Titanium is the evolution of the all time favorite Chameleon released back in 2016. Better materials are used and many lessons learned with the Chameleon are revised in this new, state of the art design.
 
- ![](/2020/03/chameleonti-banner-4-2-1024x341.webp)
+ ![](https://www.waltercedric.com/2020/03/chameleonti-banner-4-2-1024x341.webp)
 
   * Better carbon fiber we worked on recently for the Rooster
   * Lighter, easier to build
@@ -32,16 +32,16 @@ The Chameleon Titanium is the evolution of the all time favorite Chameleon relea
   * Better VTX mounting solutions
   * Better anchoring provisions for 3D printed parts
 
-  ![](/2020/03/armattan-chameleon-ti-5-freestyle-fpv-frame-2.webp)
+  ![](https://www.waltercedric.com/2020/03/armattan-chameleon-ti-5-freestyle-fpv-frame-2.webp)
 
     Armattan Chameleon Ti side
 
-![](/2020/03/armattan-chameleon-ti-5-freestyle-fpv-frame.webp)
+![](https://www.waltercedric.com/2020/03/armattan-chameleon-ti-5-freestyle-fpv-frame.webp)
 
     Armattan Chameleon Ti front
 
 
-![](/2020/10/IMG_4257-1024x768.webp)
+![](https://www.waltercedric.com/2020/10/IMG_4257-1024x768.webp)
 
   * Frame Weight 118g
   * Motor to Motor 220mm
@@ -55,4 +55,4 @@ The Chameleon Titanium is the evolution of the all time favorite Chameleon relea
   * FPV Camera Tilt 25-60 degrees
   * Max Stack Height 22mm
 
-![](/2020/10/IMG_4192-1024x768.webp)
+![](https://www.waltercedric.com/2020/10/IMG_4192-1024x768.webp)

@@ -4,7 +4,7 @@ title: 'Swifi won Trust Square biggest blockchain Hackathon #SBHACK21'
 type: posts
 date: 2022-02-24T15:33:05+00:00
 url: /swifi-won-trust-square-biggest-blockchain-hackathon-sbhack21/
-cover: /2022/02/swifi-team-sbhack21-winner.webp
+cover: https://www.waltercedric.com/2022/02/swifi-team-sbhack21-winner.webp
 summary: "347 hackers in 69 teams worked on the diverse challenges provided by Bossard, the City of Lugano, Dexgame Julius Bär, NZZ, Richemont, Canton of Ticino, Swiss Federal Office of Energy, Swiss Post, Casper, SEBA Bank, Nomoko, ZHAW & FairRecycling, and Lumas Gallery. "
 tags:
   - algorand
@@ -19,7 +19,7 @@ categories:
 ---
  Exhausted but really happy about our team CM2P (\[Cédric Walter\]\[1\], \[Michael Sladoje\]\[2\], \[Mike Schälchli 🚀\]\[3\] and \[Potsie Rivera\]\[4\]) efforts and results at the Trustsquare \[#sbhack21\]\[5\] \[#blockchain\]\[6\] \[#hackathon\]\[7\] 48 h coding and 4 hours sleep 🥳
 
-![](/2022/02/IMG_0323-1024x682.webp)
+![](https://www.waltercedric.com/2022/02/IMG_0323-1024x682.webp)
 
 The winners were announced on Sunday, 31 October 2021, at 2pm CET We tackled the Julius Baer Stable Coin Challenge and build it on \[#Algorand\]\[8\], \[#Streamr\]\[9\], Amazon Web Services (\[#AWS\]\[10\]) and \[#google\]\[11\] \[#flutter\]\[12\] for the mobile stack. For \[#SBHack21\]\[5\] Jury we built the best Solution on Algorand and we won the Overall Winner 3rd Prize as well as a CV Labs Fast Track Ticket!  ▪️ 347 participants ▪️ 69 teams ▪️ 31 nationalities ▪️ 5 blockchain protocols: Algorand, Casper, Velas, Near, Streamr ▪️ 16 challenges Check our submission [https://devpost.com/software/swifi](https://devpost.com/software/swifi) and 3 min video
 

@@ -4,7 +4,7 @@ title: Multi cryptocurrencies price Ticker using Raspberry Pi and 3.5” LCD Dis
 type: posts
 date: 2020-04-11T11:16:49+00:00
 url: /multi-cryptocurrencies-price-ticker-using-raspberry-pi-and-3-5-lcd-display/
-cover: /2020/04/bitcoin-ethereum-price-ticker-lcd-raspberry-scaled.webp
+cover: https://www.waltercedric.com/2020/04/bitcoin-ethereum-price-ticker-lcd-raspberry-scaled.webp
 summary: "How to monitor your favorite cryptocurrencies on a 3.5 inches LCD and any Raspberry PI!"
 tags:
   - bitcoin
@@ -28,11 +28,11 @@ You need obviously a raspberry pi, ideally with WIFI build in if you don 't like
 
 A [3.5" LCD screen from Amazon](https://amzn.to/2xmJHb9)
 
-*   [![](/2020/04/Raspberry-Pi-LCD-Display-Module-3.5inch-320X480-TFT-2-768x1024.webp)](/2020/04/Raspberry-Pi-LCD-Display-Module-3.5inch-320X480-TFT-2-scaled.webp)
+*   [![](https://www.waltercedric.com/2020/04/Raspberry-Pi-LCD-Display-Module-3.5inch-320X480-TFT-2-768x1024.webp)](/2020/04/Raspberry-Pi-LCD-Display-Module-3.5inch-320X480-TFT-2-scaled.webp)
 
     Raspberry Pi LCD Display Module 3.5inch 320X480 TFT
 
-*   [![](/2020/04/Raspberry-Pi-LCD-Display-Module-3.5inch-320X480-TFT-1-768x1024.webp)](/2020/04/Raspberry-Pi-LCD-Display-Module-3.5inch-320X480-TFT-1-scaled.webp)
+*   [![](https://www.waltercedric.com/2020/04/Raspberry-Pi-LCD-Display-Module-3.5inch-320X480-TFT-1-768x1024.webp)](/2020/04/Raspberry-Pi-LCD-Display-Module-3.5inch-320X480-TFT-1-scaled.webp)
 
     Raspberry Pi LCD Display Module 3.5inch 320X480 TFT
 
@@ -187,7 +187,7 @@ and reboot
 
 ```bash sudo reboot```
 
-![](/2020/04/bitcoin-ethereum-price-ticker-lcd-raspberry-1024x630.webp)
+![](https://www.waltercedric.com/2020/04/bitcoin-ethereum-price-ticker-lcd-raspberry-1024x630.webp)
 
 ## SSH login do not work anymore?
 

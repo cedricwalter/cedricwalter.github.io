@@ -1,7 +1,7 @@
 ---
 title: "Monitor Docker Container with Grafana & Prometheus"
 date: 2024-02-29T10:32:17+01:00
-cover: "/homelab/ddclient-cloudflare.webp"
+cover: "https://www.waltercedric.com/homelab/ddclient-cloudflare.webp"
 summary: ""
 categories:
   - Homelab

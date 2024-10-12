@@ -1,7 +1,7 @@
 ---
 title: "Redefining Family: Exploring Unconventional Relationships in \"Pretty Girl Complex\" by Alice Hlidkova"
 date: 2024-01-29T18:05:52+01:00
-cover: /books/unconventional-relationships.webp
+cover: https://www.waltercedric.com/books/unconventional-relationships.webp
 summary: "In a world that is constantly evolving, our understanding of relationships, family, and parenthood is also undergoing a transformative journey. Traditional notions of family structures are being challenged, and a new wave of narratives is emerging to celebrate the diversity of human connections."
 categories:
   - Books
@@ -71,7 +71,7 @@ The author hub is [https://www.alicehlidkova.com](https://www.alicehlidkova.com?
 
 Book and Audiobooks are available on all platforms:
 
-![](/books/pretty-girl-complex-by-alice-hlidkova-composite.webp?width=350px)
+![](https://www.waltercedric.com/books/pretty-girl-complex-by-alice-hlidkova-composite.webp?width=350px)
 
 * [Alice Hlidkova on Amazon](https://www.amazon.com/gp/product/B07YZVCVFG/ref=dbs_a_def_rwt_bibl_vppi_i0)
 * [Alice Hlidkova on Kobo](https://www.kobo.com/us/en/ebook/pretty-girl-complex)

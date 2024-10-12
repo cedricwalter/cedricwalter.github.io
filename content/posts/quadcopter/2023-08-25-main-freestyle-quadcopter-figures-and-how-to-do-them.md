@@ -4,7 +4,7 @@ summary: "Freestyle quadcopter flying involves performing various aerobatic mane
 type: posts
 date: 2023-08-25T09:16:10+00:00
 url: /rc-helicopter-airplanes-fpv-drone/main-freestyle-quadcopter-figures-and-how-to-do-them/
-cover: /2023/08/iFlight-Nazgul-Evoque-F5-V2-HD-5inch-6S-FPV-Drone-BNF-F5X-F5D-Squashed-X-or-e1691577482692.webp
+cover: https://www.waltercedric.com/2023/08/iFlight-Nazgul-Evoque-F5-V2-HD-5inch-6S-FPV-Drone-BNF-F5X-F5D-Squashed-X-or-e1691577482692.webp
 tags:
   - armattan
   - drone
@@ -81,7 +81,7 @@ Similar to a roll, but the drone performs a front or back flip by tilting forwar
 
 ### Back Flips
 
-![](/2023/08/backflip-under.-obstacle.webp)
+![](https://www.waltercedric.com/2023/08/backflip-under.-obstacle.webp)
 
 ### **Power Loops**
 
@@ -93,7 +93,7 @@ Start a roll or flip when the drone is upside down, completing the loop.
 
 ### **Mattystyle Spin**
 
-![](/2023/08/ed7df8a504c1ea80f3b10b3e36165ee4-1024x536.webp)
+![](https://www.waltercedric.com/2023/08/ed7df8a504c1ea80f3b10b3e36165ee4-1024x536.webp)
 
 Gain altitude and reduce throttle.
 
@@ -125,7 +125,7 @@ Increase throttle while rolling to maintain altitude throughout the roll.
 
 ### **Reverse Power Loop**
 
-![](/2023/08/324132bac471814b15341de28091195cd2b9faa8.webp)
+![](https://www.waltercedric.com/2023/08/324132bac471814b15341de28091195cd2b9faa8.webp)
 
 Gain altitude and reduce throttle.
 
@@ -139,7 +139,7 @@ Fly through a series of obstacles or structures in a zigzag pattern, resembling 
 
 ### Inverse Yaw Spins
 
-![](/2023/08/inverse-yaw-spin.webp)
+![](https://www.waltercedric.com/2023/08/inverse-yaw-spin.webp)
 
 ### **YAW Spins and Snap Rolls**
 
@@ -157,7 +157,7 @@ Pull up the drone to recover from the dive.
 
 ### Rubik’s Cube
 
-![](/2023/08/rubiks-cube--1024x524.webp)
+![](https://www.waltercedric.com/2023/08/rubiks-cube--1024x524.webp)
 
 ### **Power Spin**
 

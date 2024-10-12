@@ -3,7 +3,7 @@ title: "SAB RAW 420 Hub setup, flight log :rocket:"
 summary: ""
 type: posts
 date: 2024-03-25T10:30:17+01:00
-cover: /rchelicopter/sab-raw-420/sab-raw-420.webp
+cover: https://www.waltercedric.com/rchelicopter/sab-raw-420/sab-raw-420.webp
 summary: "The new RAW 420."
 tags:
   - rc-helicopter

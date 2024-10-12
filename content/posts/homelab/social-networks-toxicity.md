@@ -2,7 +2,7 @@
 title: "20+ Bonnes Raisons de Quitter Instagram/Tik Tok/Facebook/Tik Tok/Facebook"
 date: 2024-07-24T10:32:17+01:00
 summary: "Instagram/Tik Tok/Facebook est l'une des plateformes de médias sociaux les plus populaires, offrant un espace pour partager des photos, des vidéos et se connecter avec des amis et des influenceurs. Cependant, malgré ses avantages, de nombreuses personnes trouvent des raisons valables de quitter cette application. Voici 20 bonnes raisons pour lesquelles vous pourriez envisager de dire adieu à Instagram/Tik Tok/Facebook."
-cover: /homelab/quit-social-network.webp
+cover: https://www.waltercedric.com/homelab/quit-social-network.webp
 categories:
   - Homelab
 tags:

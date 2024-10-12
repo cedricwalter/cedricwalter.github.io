@@ -3,7 +3,7 @@ title: "Fissure Horizontale du Ménisque"
 type: posts
 date: 2024-03-18T08:10:55+00:00
 summary: "La fissure horizontale du ménisque peut être une source de douleur et d'inconfort significatifs pour ceux qui en souffrent. Cependant, avec un diagnostic précoce et un traitement approprié, il est souvent possible de gérer efficacement cette blessure et de retrouver une fonctionnalité optimale du genou. Si vous présentez des symptômes de fissure horizontale du ménisque, il est essentiel de consulter un professionnel de la santé pour obtenir un diagnostic précis et un plan de traitement adapté à vos besoins individuels."
-cover: /medical/fissure-menisque.webp
+cover: https://www.waltercedric.com/medical/fissure-menisque.webp
 tags:
   - medical
   - fissure-horizontale

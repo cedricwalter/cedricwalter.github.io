@@ -4,7 +4,7 @@ summary: "Indoor skydiving, also known as vertical wind tunnel skydiving or body
 type: posts
 date: 2023-08-21T12:08:15+00:00
 url: /indoor-skydiving-also-known-as-vertical-wind-tunnel-skydiving-or-bodyflight/
-cover: /2023/08/ok-windwerk_Photos_CdricWalter_capt_1393_230819_193730-e1692619764838.webp
+cover: https://www.waltercedric.com/2023/08/ok-windwerk_Photos_CdricWalter_capt_1393_230819_193730-e1692619764838.webp
 enclosure:
   - |
     |

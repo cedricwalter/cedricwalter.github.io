@@ -1,7 +1,7 @@
 ---
 title: "5 Best books for Startups and entrepreneurs"
 date: 2023-12-30T10:11:52+01:00
-cover: "/books/5-Best-books-for-Startups-and-entrepreneurs.webp"
+cover: "https://www.waltercedric.com/books/5-Best-books-for-Startups-and-entrepreneurs.webp"
 summary: "Starting a business can be an exciting and challenging journey. To help you navigate this process, here are five highly recommended books on entrepreneurship"
 categories:
   - Books

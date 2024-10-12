@@ -5,7 +5,7 @@ type: posts
 date: 2023-09-10T16:07:48+00:00
 summary: "WLtoys XK A280 RC Airplane. My first venture into RC airplanes is not just a hobby; it is a journey of exploration, learning, and fun. It mark the beginning of an exciting hobby that will continue to bring joy and satisfaction as I ventured further into the world of RC aviation."
 url: /rc-helicopter-airplanes-fpv-drone/wltoys-xk-a280-rc-airplane/
-cover: /2023/09/WLtoys-XK-A280-RC-Airplane-3-scaled.webp
+cover: https://www.waltercedric.com/2023/09/WLtoys-XK-A280-RC-Airplane-3-scaled.webp
 tags:
   - airplane
   - radiomaster
@@ -26,12 +26,12 @@ Features
 Why it is a good beginner plane
 -------------------------------
 
-![](/2023/09/WLtoys-XK-A280-RC-Airplane-1.webp")
-![](/2023/09/WLtoys-XK-A280-RC-Airplane-2.webp)
-![](/2023/09/WLtoys-XK-A280-RC-Airplane-3.webp)
-![](/2023/09/WLtoys-XK-A280-RC-Airplane-4.webp)
-![](/2023/09/WLtoys-XK-A280-RC-Airplane-5.webp)
-![](/2023/09/WLtoys-XK-A280-RC-Airplane-product.webp)
+![](https://www.waltercedric.com/2023/09/WLtoys-XK-A280-RC-Airplane-1.webp")
+![](https://www.waltercedric.com/2023/09/WLtoys-XK-A280-RC-Airplane-2.webp)
+![](https://www.waltercedric.com/2023/09/WLtoys-XK-A280-RC-Airplane-3.webp)
+![](https://www.waltercedric.com/2023/09/WLtoys-XK-A280-RC-Airplane-4.webp)
+![](https://www.waltercedric.com/2023/09/WLtoys-XK-A280-RC-Airplane-5.webp)
+![](https://www.waltercedric.com/2023/09/WLtoys-XK-A280-RC-Airplane-product.webp)
 
 ### Durable EPP Foam Material
 
@@ -51,8 +51,8 @@ Six-axis mode increases stability. In many cases, as long as you release the joy
 
 ### Flight Control System
 
-![](/2023/09/xk-a280-flight-controller-1-1024x712.webp)
-![](/2023/09/xk-a280-flight-controller-3-876x1024.webp)
+![](https://www.waltercedric.com/2023/09/xk-a280-flight-controller-1-1024x712.webp)
+![](https://www.waltercedric.com/2023/09/xk-a280-flight-controller-3-876x1024.webp)
 
 
 The flight control adds two receiver conversion socks,5V is suitable for Futaba(S-Bus)J and other receiver with S-Bus ports, 3V is suitable for DSM receivers.
@@ -61,11 +61,11 @@ The flight control adds two receiver conversion socks,5V is suitable for Futaba(
 
 Motor is a 2000Kv
 
-![](/2023/09/WLtoys-XK-A280-RC-Airplane-4-768x1024.webp)
+![](https://www.waltercedric.com/2023/09/WLtoys-XK-A280-RC-Airplane-4-768x1024.webp)
 
 flight controller
 
-![](/2023/09/WLtoys-XK-A280-RC-Airplane-1-768x1024.webp)
+![](https://www.waltercedric.com/2023/09/WLtoys-XK-A280-RC-Airplane-1-768x1024.webp)
 
 Motor, LiPo and ESC
 
@@ -80,7 +80,7 @@ Fair price at $80 – $100
 Recommended linkage
 -------------------
 
-![](/2023/09/rc-airplane-controls.webp)
+![](https://www.waltercedric.com/2023/09/rc-airplane-controls.webp)
 
 **Mode 2 remote control**
 
@@ -118,7 +118,7 @@ The default one is OK, not great but ok for the job. Only this one is able to co
 
 **Senior mode**: takes away the mixing of aileron and rudder and lets you control them independently. But it will not turn on full manual with autolevelling completely off! Basically toggles what ever mode you have on the 6G-3D switch and no gyro. Senior is 3D no assistance no gyro mode. It is an assisted mode like AS3X.
 
-![](/2023/09/WLtoys-XK-A280-RC-Airplane-controller-1024x576.webp)
+![](https://www.waltercedric.com/2023/09/WLtoys-XK-A280-RC-Airplane-controller-1024x576.webp)
 
 ### Using your own EdgeTX remote
 

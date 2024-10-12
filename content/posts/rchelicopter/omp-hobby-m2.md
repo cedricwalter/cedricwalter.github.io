@@ -5,7 +5,7 @@ type: posts
 date: 2023-10-13T09:27:50+00:00
 summary: "Remote-controlled (RC) helicopters have long been a source of fascination and excitement for hobbyists of all ages. The OMP Hobby M2 Evo, with its cutting-edge technology and innovative design, takes this passion to new heights."
 url: /rc-helicopter-airplanes-fpv-drone/master-the-skies-with-the-omp-hobby-m2-evo-a-thrilling-adventure-into-rc-helicopter-enthusiasm/
-cover: /2023/10/omphobby-m2-evo-rc-helicopter.webp
+cover: https://www.waltercedric.com/2023/10/omphobby-m2-evo-rc-helicopter.webp
 tags:
   - helicopter
   - omphobby
@@ -41,7 +41,7 @@ Constructed from high-quality materials and with meticulous attention to detail,
 
 The M2 Evo boasts powerful brushless motors that provide ample thrust and agility, allowing for impressive stunts and maneuvers. Its precise control, even in windy conditions, ensures that every flight is an exhilarating experience.
 
-![](/2023/10/omphobby-rc-helicopter-m2-evo-4-1024x444.webp)
+![](https://www.waltercedric.com/2023/10/omphobby-rc-helicopter-m2-evo-4-1024x444.webp)
 
 | Dimension|----| | Long|428 mm| | Width|72 mm| | height|138 mm| | Weight|335 g| | Diameter|434 mm|
 
@@ -134,7 +134,7 @@ Remember, setting up and flying an RC helicopter, especially one with advanced f
 
 {{< notice info>}}Out of the box… OMPHobby does a great job, the helicopter is perfectly setup! just replace all parts and adjust again all linkages. No need to alter the flight behaviour by changing flight controller previous values.{{< /notice >}}
 
-![](/2023/10/RC-Helicopter-Understanding-Transmitter-Flight-Controls--1024x533.webp)
+![](https://www.waltercedric.com/2023/10/RC-Helicopter-Understanding-Transmitter-Flight-Controls--1024x533.webp)
 
 {{< notice tip>}}If you’re unsure or uncomfortable making these adjustments, consider seeking assistance from an experienced RC helicopter pilot or hobby shop.{{< /notice >}}
 
@@ -258,7 +258,7 @@ You can control the Elevator behaviour:
 
 Recommended pitch settings values and range.
 
-![](/2023/10/rc-helicopter-pitch-settings-1024x492.webp)
+![](https://www.waltercedric.com/2023/10/rc-helicopter-pitch-settings-1024x492.webp)
 
 #### Why it is important to set pitch rate settings
 
@@ -276,7 +276,7 @@ In summary, adjusting the pitch rate setting on an RC helicopter is vital for ac
 
 #### How to adjust the pitch rate on the flight controller
 
-![](/2023/10/omphobby-m2-flight-controller-pitch-rate.webp)
+![](https://www.waltercedric.com/2023/10/omphobby-m2-flight-controller-pitch-rate.webp)
 
 {{< notice warning>}}Before changing any Flight controller settings ensure that the Helicopter is bound to the radio and throttle cut is active. It is recommended to remove the main and tail rotor blades to prevent any injury if the motors accidentally start up.{{< /notice >}}
 
@@ -310,7 +310,7 @@ The Flight controller is configured with a combination of SET button presses and
 
 #### How to adjust the pitch agility on the flight controller
 
-![](/2023/10/omphobby-m2-flight-controller-pitch-agility.webp)
+![](https://www.waltercedric.com/2023/10/omphobby-m2-flight-controller-pitch-agility.webp)
 
 Press the set key for 3 seconds. click set key until elev light is on and agile light flashes. when the agile light flashes 5 times it indicates factory default pitch agility. move the elevator stick up and down to increase or decrease the agility setting.the amount of flashes indicates the level, 1 being the lowest to 9 being the highest. after the desired level is achieved, press the set key for 3 seconds to save the setting.
 
@@ -333,7 +333,7 @@ To adjust flight controller settings, press the set key for 3 seconds. click set
 
 The amount of flashes indicates the level, 1 being the lowest to 9 being the highest. after the desired level is achieved, press the set key for 3 seconds to save the setting.
 
-![](/2023/10/omphobby-m2-flight-controller-pitch-gain.webp)
+![](https://www.waltercedric.com/2023/10/omphobby-m2-flight-controller-pitch-gain.webp)
 
 Parameter
 
@@ -351,7 +351,7 @@ You can control the Aileron behaviour:
 *   AGILE: This controls the Agility. How quickly the helicopter reacts to change in stick input.
 *   GYRO: This controls the Gyro Gain for Aileron axe.
 
-![](/2023/10/rc-helicopter-roll-settings-1024x434.webp)
+![](https://www.waltercedric.com/2023/10/rc-helicopter-roll-settings-1024x434.webp)
 
 TODO
 
@@ -361,7 +361,7 @@ TODO
 
 #### How to adjust the aileron speed on the flight controller
 
-![](/2023/10/rc-helicopter-aileron-speed-settings.webp)
+![](https://www.waltercedric.com/2023/10/rc-helicopter-aileron-speed-settings.webp)
 
 |                    Parameter|Setting|Setting range|M2 V2/EXPSuggested Value|M2 EVOSuggested Value|
 |:----|:----|:----|:----|:----|
@@ -376,7 +376,7 @@ TODO
 
 TODO
 
-![](/2023/10/rc-helicopter-aileron-agility-settings.webp)
+![](https://www.waltercedric.com/2023/10/rc-helicopter-aileron-agility-settings.webp)
 
 |                    Parameter|Setting|Setting range|M2 V2/EXPSuggested Value|M2 EVOSuggested Value|
 |:----|:----|:----|:----|:----|
@@ -391,7 +391,7 @@ TODO
 
 TODO
 
-![](/2023/10/rc-helicopter-aileron-gain-settings.webp)
+![](https://www.waltercedric.com/2023/10/rc-helicopter-aileron-gain-settings.webp)
 
 |                    Parameter|Setting|Setting range|M2 V2/EXPSuggested Value|M2 EVOSuggested Value|
 |:----|:----|:----|:----|:----|
@@ -406,7 +406,7 @@ You can control the Rudder behaviour:
 *   AGILE: This controls the Agility. How quickly the helicopter reacts to change in stick input.
 *   GYRO: This controls the Gyro Gain for Rudder/Yaw axe.
 
-![](/2023/10/rc-helicopter-yaw-settings-1024x541.webp)
+![](https://www.waltercedric.com/2023/10/rc-helicopter-yaw-settings-1024x541.webp)
 
 #### Adjusting the yaw rate setting
 
@@ -433,7 +433,7 @@ The Flight controller is configured with a combination of SET button presses and
 
 TODO
 
-![](/2023/10/rc-helicopter-rudder-agility-settings.webp.webp)
+![](https://www.waltercedric.com/2023/10/rc-helicopter-rudder-agility-settings.webp.webp)
 
 |                    Parameter|Setting|Setting range|M2 V2/EXPSuggested Value|M2 EVOSuggested Value|
 |:----|:----|:----|:----|:----|
@@ -465,13 +465,13 @@ The Flight controller is configured with a combination of SET button presses and
 
 TODO
 
-![](/2023/10/rc-helicopter-rudder-gain-settings.webp)
+![](https://www.waltercedric.com/2023/10/rc-helicopter-rudder-gain-settings.webp)
 
 | Parameter|Setting|Setting range|M2 V2/EXPSuggested Value|M2 EVOSuggested Value| |:----|:----|:----|:----|:----| | Rudder|Gyro|1-9|3|4|
 
 ### How to get the swashplate leveled / servo trim
 
-![](/2023/10/omhobby-m2-rc-helicopter-servi-trim-1024x720.webp)
+![](https://www.waltercedric.com/2023/10/omhobby-m2-rc-helicopter-servi-trim-1024x720.webp)
 
 On a levelled table, turn off self leveling by going in 3D mode.
 

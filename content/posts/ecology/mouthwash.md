@@ -2,7 +2,7 @@
 title: "Le rince-bouche au thé vert (Camellia sinensis) est aussi efficace pour réduire la parodontite que les bains de bouche commerciaux (qui sont mutagènes)"
 date: 2024-01-16T10:11:52+01:00
 type: posts
-cover: "/ecology/bain-de-bouches-mouthwash.webp"
+cover: "https://www.waltercedric.com/ecology/bain-de-bouches-mouthwash.webp"
 summary: "La plaque dentaire est l'un des principaux facteurs étiologiques de la gingivite, de la parodontite et de l'halitose orale."
 tags:
    - oral-care

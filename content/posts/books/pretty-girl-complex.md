@@ -1,7 +1,7 @@
 ---
 title: "Soaring Dreams: A Review of \"Pretty Girl Complex\" by Alice Hlidkova"
 date: 2023-12-30T10:11:52+01:00
-cover: /books/pretty-girl-complex-by-alice-hlidkova-composite.webp
+cover: https://www.waltercedric.com/books/pretty-girl-complex-by-alice-hlidkova-composite.webp
 categories:
   - Books
 tags:

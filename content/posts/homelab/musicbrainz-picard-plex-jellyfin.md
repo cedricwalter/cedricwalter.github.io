@@ -1,7 +1,7 @@
 ---
 title: Music Library Organization with MusicBrainz Picard for Plex or Jellyfin
 date: 2024-01-01T10:44:17+01:00
-cover: "/homelab/Music-Library-Organization-with-MusicBrainz-Picard-for-Plex-or-Jellyfin.webp"
+cover: "https://www.waltercedric.com/homelab/Music-Library-Organization-with-MusicBrainz-Picard-for-Plex-or-Jellyfin.webp"
 summary: "If you're a music enthusiast who loves curating an extensive collection, you understand the importance of having a well-organized music library. One powerful tool that can significantly enhance your music organization experience, especially when using media server, is [MusicBrainz Picard](https://picard.musicbrainz.org)."
 categories:
   - Homelab

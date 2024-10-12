@@ -3,7 +3,7 @@ title: "Young Generation Electronic YGE Saphir 155 ESC"
 summary: ""
 type: posts
 date: 2024-06-17T10:30:17+01:00
-cover: /rchelicopter/Regler-YGE-Saphir-155.webp
+cover: https://www.waltercedric.com/rchelicopter/Regler-YGE-Saphir-155.webp
 summary: "Young Generation Electronic YGE Saphir 155 ESC"
 tags:
   - rc-helicopter

@@ -3,7 +3,7 @@ title: "Flybarless Gyroscope for RC helicopter"
 summary: "A flybarless gyroscope, also known as a flybarless system or FBL system, is a crucial component in RC helicopters that replaces the traditional flybar setup. The primary function of a flybarless gyroscope is to stabilize the helicopter during flight by controlling the cyclic and tail rotor servos based on the pilot's inputs and external factors such as wind."
 type: posts
 date: 2024-01-07T10:44:17+01:00
-cover: /2023/11/sab-raw-700-rc-helicopter.webp
+cover: https://www.waltercedric.com/2023/11/sab-raw-700-rc-helicopter.webp
 tags:
   - rc-helicopters
   - flybarless-systems
@@ -36,7 +36,7 @@ Here's a simplified explanation of how a flybarless gyroscope works:
 ### Sensor Input
 The flybarless system contains sensors, usually gyroscopes and accelerometers, that continuously monitor the helicopter's movements in three dimensions: pitch, roll, and yaw. These sensors provide real-time data on the helicopter's orientation.
 
-![](/2023/10/RC-Helicopter-Understanding-Transmitter-Flight-Controls--1024x533.webp)
+![](https://www.waltercedric.com/2023/10/RC-Helicopter-Understanding-Transmitter-Flight-Controls--1024x533.webp)
 
 ### Microprocessor Processing
 The sensor data is processed by a microprocessor within the flybarless system. The microprocessor calculates the helicopter's current attitude and any deviations from the desired level flight. Most of the time an ARM 32 Bits CPU.

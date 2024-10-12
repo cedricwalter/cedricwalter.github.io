@@ -4,7 +4,7 @@ type: posts
 date: 2023-12-23T08:10:55+00:00
 summary: "One name stands out for its enduring charm and timeless appeal – the Vespa Acma 1954. With its elegant design, smooth lines, and a history that traces back to the mid-20th century, this iconic scooter has won the hearts of riders and collectors alike. Join us as we take a journey back in time to explore the fascinating story of the Vespa Alma 1954."
 url: /scooter/a-timeless-classic-the-vespa-acma-1954/
-cover: /2023/10/vespa-acma-26.webp
+cover: https://www.waltercedric.com/2023/10/vespa-acma-26.webp
 tags:
   - acma
   - collector

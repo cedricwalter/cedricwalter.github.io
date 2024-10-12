@@ -4,7 +4,7 @@ summary: "Stop waiting for build & deploy make code changes. Write code and refr
 type: posts
 date: 2015-01-14T13:36:39+00:00
 url: /avoid-infamous-change-restart-wait-check-development-lifecycle/
-cover: /2015/01/devlopment.webp
+cover: https://www.waltercedric.com/2015/01/devlopment.webp
 tags:
   - java
 categories:

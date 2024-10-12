@@ -1,7 +1,7 @@
 ---
 title: "The worst router and brand Zyxel AX7501-B0 I've seen in 35 years"
 date: 2024-01-08T09:44:17+01:00
-cover: "/homelab/Zyxel-AX7501-B0-is-shit.webp"
+cover: "https://www.waltercedric.com/homelab/Zyxel-AX7501-B0-is-shit.webp"
 summary: "Avoid Purchasing and Using This Device Zyxel AX7501-B0! Zyxel is a company known for producing networking equipment, including routers, switches, and other network infrastructure devices. "
 categories:
   - Homelab

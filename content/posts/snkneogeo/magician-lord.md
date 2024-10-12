@@ -3,7 +3,7 @@ title: "Magician Lord on SNK Neo Geo AES"
 summary: "In the realm of classic arcade gaming, few titles command the same level of awe and nostalgia as Magician Lord on the SNK Neo Geo. Released in 1990, this side-scrolling platformer stands as a testament to the ingenuity of its time."
 type: posts
 date: 2024-01-26T10:44:17+01:00
-cover: /snkneogeo/aes/magician-lord/magician-lord-snk-neo-geo-aes-1.webp
+cover: https://www.waltercedric.com/snkneogeo/aes/magician-lord/magician-lord-snk-neo-geo-aes-1.webp
 tags:
   - arcade
   - collectibles
@@ -55,7 +55,7 @@ ADK developed several titles for the Neo Geo, and some of their well-known games
 
 At the heart of "Magician Lord" lies a rich narrative that unfolds in the mystical land of Magician Lord. Players assume the role of Elta, the eponymous magician tasked with thwarting the nefarious plans of the evil wizard Gal Agiese. The world is imbued with an otherworldly ambiance, enhanced by the hauntingly beautiful soundtrack that seamlessly blends with the atmospheric pixel art. Each level introduces players to a new realm, brimming with enchanted creatures and magical landscapes, creating a captivating atmosphere that keeps players hooked from start to finish.
 
-![](/snkneogeo/aes/magician-lord/magician-lord-snk-neo-geo-aes-2.webp)
+![](https://www.waltercedric.com/snkneogeo/aes/magician-lord/magician-lord-snk-neo-geo-aes-2.webp)
 
 ## Graphics and Soundtrack
 
@@ -81,7 +81,7 @@ Decades after its initial release, "Magician Lord" has retained its allure. The 
 
 In the realm of classic arcade gaming, "Magician Lord" stands as a shining example of what made the SNK Neo Geo a powerhouse of its time. Its captivating narrative, enchanting atmosphere, challenging gameplay, and enduring legacy make it a must-play for retro gaming enthusiasts. As we look back on the mystical journey of Elta, we can't help but appreciate the timeless magic woven into the pixels of this iconic title. "Magician Lord" is not just a game; it's a testament to the golden era of arcade gaming and a reminder of the enduring power of well-crafted, immersive experiences.
 
-![](/snkneogeo/aes/magician-lord/magician-lord-snk-neo-geo-aes-3.webp)
+![](https://www.waltercedric.com/snkneogeo/aes/magician-lord/magician-lord-snk-neo-geo-aes-3.webp)
 
 ## Magician Lord cheat code
 Magician Lord has no known cheat code beside using the Unibios.

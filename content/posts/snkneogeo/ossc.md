@@ -3,7 +3,7 @@ title: "RetroScaler OSSC Upcaler V1.8 Open Source Scan Converter for Retro Game 
 summary: "In the realm of classic arcade gaming, few titles command the same level of awe and nostalgia as Magician Lord on the SNK Neo Geo. Released in 1990, this side-scrolling platformer stands as a testament to the ingenuity of its time."
 type: posts
 date: 2024-01-26T10:44:17+01:00
-cover: /snkneogeo/aes/magician-lord/magician-lord-snk-neo-geo-aes-1.webp
+cover: https://www.waltercedric.com/snkneogeo/aes/magician-lord/magician-lord-snk-neo-geo-aes-1.webp
 tags:
   - arcade
   - collectibles

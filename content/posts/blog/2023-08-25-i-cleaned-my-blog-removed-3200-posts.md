@@ -4,7 +4,7 @@ summary: "It is a sad day when your delete lots of posts in your personal blog, 
 type: posts
 date: 2023-08-25T13:30:17+00:00
 url: /i-cleaned-my-blog-removed-3200-posts/
-cover: /2023/08/nasa-Q1p7bh3SHj8-unsplash-scaled.webp
+cover: https://www.waltercedric.com/2023/08/nasa-Q1p7bh3SHj8-unsplash-scaled.webp
 tags:
   - blog
   - wordpress

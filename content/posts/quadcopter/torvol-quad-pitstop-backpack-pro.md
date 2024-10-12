@@ -3,7 +3,7 @@ title: Quad Pitstop Backpack Pro
 summary: "J'ai récemment eu l'occasion de mettre la main sur le sac Quad Pitstop Backpack Pro, et après l'avoir utilisé pendant quelques semaines, je voulais partager mes impressions avec vous."
 type: posts
 date: 2024-04-09T12:37:20+00:00
-cover: /quadcopter/torvol-quad-pitstop-backpack-pro.webp
+cover: https://www.waltercedric.com/quadcopter/torvol-quad-pitstop-backpack-pro.webp
 tags:
   - Design
   - torvol

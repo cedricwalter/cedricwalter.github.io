@@ -3,7 +3,7 @@ title: "Bitcoin, Ethereum price Monitoring on your raspberry Pi"
 type: posts
 date: 2020-04-12T09:58:56+00:00
 url: /bitcoin-ethereum-price-monitoring-on-your-raspberry-pi/
-cover: /2020/04/bitcoin-monitor.webp
+cover: https://www.waltercedric.com/2020/04/bitcoin-monitor.webp
 summary: "Bitcoin, Ethereum price Monitoring on your raspberry Pi"
 tags:
   - bitcoin
@@ -31,11 +31,11 @@ You need obviously a raspberry pi, ideally with WIFI build in if you don 't like
 
 A  [3.5" LCD screen from Amazon](https://amzn.to/2xmJHb9)
 
-*   [![](/2020/04/Raspberry-Pi-LCD-Display-Module-3.5inch-320X480-TFT-2-768x1024.webp)](/2020/04/Raspberry-Pi-LCD-Display-Module-3.5inch-320X480-TFT-2-scaled.webp)
+*   [![](https://www.waltercedric.com/2020/04/Raspberry-Pi-LCD-Display-Module-3.5inch-320X480-TFT-2-768x1024.webp)](/2020/04/Raspberry-Pi-LCD-Display-Module-3.5inch-320X480-TFT-2-scaled.webp)
 
     Raspberry Pi LCD Display Module 3.5inch 320X480 TFT
 
-*   [![](/2020/04/Raspberry-Pi-LCD-Display-Module-3.5inch-320X480-TFT-1-768x1024.webp)](/2020/04/Raspberry-Pi-LCD-Display-Module-3.5inch-320X480-TFT-1-scaled.webp)
+*   [![](https://www.waltercedric.com/2020/04/Raspberry-Pi-LCD-Display-Module-3.5inch-320X480-TFT-1-768x1024.webp)](/2020/04/Raspberry-Pi-LCD-Display-Module-3.5inch-320X480-TFT-1-scaled.webp)
 
     Raspberry Pi LCD Display Module 3.5inch 320X480 TFT
 
@@ -70,7 +70,7 @@ We now use the **Raspberry Pi Imager** for an easy way to install Raspbian and o
   * [Raspberry Pi Imager for macOS][4]
   * [Raspberry Pi Imager for Ubuntu][5]
 
-![](/2020/04/rasbian-desktop.webp)
+![](https://www.waltercedric.com/2020/04/rasbian-desktop.webp)
 
 Choose Raspbian Desktop (recommended), connect HDMI, Keyboard, mouse (and network cable or you can use WIFI)
 

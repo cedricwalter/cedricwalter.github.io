@@ -2,7 +2,7 @@
 title: {{ replace .TranslationBaseName "-" " " | title }}
 date: {{ .Date }}
 
-cover: "/img/cover.jpg"
+cover: "https://www.waltercedric.com/img/cover.jpg"
 cover_alt: ""
 cover_width: "250px"
 cover_height: "250px"

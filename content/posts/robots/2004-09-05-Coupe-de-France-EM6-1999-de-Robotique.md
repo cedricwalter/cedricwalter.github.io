@@ -2,7 +2,7 @@
 title: Coupe de France E=M6 1999 de Robotique
 type: posts
 date: 2023-12-23T08:10:55+00:00
-cover: /2004/09/Dscf0044.webp
+cover: https://www.waltercedric.com/2004/09/Dscf0044.webp
 tags:
   - contest
   - France
@@ -21,7 +21,7 @@ summary: "Pour la quatrieme année, le club E = M6 de 1 'Ecole supérieure des s
 ## Dans les journaux
 Les étudiants de l'ESSAIM partent à l'assaut du petit écran en participant à l'émission E=M6 avec leur petit robot mis au point dans les labos de l'école.
 
-![](/2020/04/Alsace_em6.webp)
+![](https://www.waltercedric.com/2020/04/Alsace_em6.webp)
 
 ## Cinq robots mulhousiens dans l’arène sarthoise.
 
@@ -162,29 +162,29 @@ L 'ENSISA est une école d 'ingénieurs publique qui résulte de la fusion de l 
 
 Voici Le robot ESSAIM ainsi que nos deux petits modules destructeurs OBee-1 et OBee-2
 
-![](/2004/09/Dscf0044.webp)
+![](https://www.waltercedric.com/2004/09/Dscf0044.webp)
 
 **Notre Carte Mère :** 1 Arcom Pc-104 avec carte Multi Io32 (32 E/S numériques) et une carte Vidéo (3 cartes en tout. C 'est un 486SL 25 MHz AMD avec 2 Mo de flash (programme) et un Rom Bios. Carte prêtée par le laboratoire LSI (Logiciels des Systèmes Industriels de l 'ESSAIM). Cette Année, on a acheté un beau boitier Alu qui n 'existait pas l 'année dernière.
 
-![](/2004/09/Dscf0002.webp)
+![](https://www.waltercedric.com/2004/09/Dscf0002.webp)
 
 Le programme en turbo pascal est <a rel="rokbox" href="images/em6/site/pgm.zip">ICI</a>. Il se compile sur le robot et se déclenche dans l 'autoexec.bat au boot du PC.
 
 **Vu de Face (cliquer pour élargir):**
 
-[![](/2004/09/tnface.webp)](/2004/09/face.webp)
+[![](https://www.waltercedric.com/2004/09/tnface.webp)](/2004/09/face.webp)
 
 C 'est par ici, que les balles de tennis sont aspirées et rejetées violemment. Le rouleau est un tube de mousse de peinture. Le carénage est en tÃ´le d 'alu peint en jaune.
 
 **Vue arrière (cliquer pour élargir):**
 
-[![](/2004/09/tnarr.webp)](/2004/09/arr.webp)
+[![](https://www.waltercedric.com/2004/09/tnarr.webp)](/2004/09/arr.webp)
 
 Ici les deux robots OBI1 et OBI2 ne sont pas en position encore. On aperÃ§oit de part et d 'autres les deux moteurs Ã courant continu fixés par des bagues en aluminium fabriqué par les agents techniques de l 'ESSAIM (merci encore !).
 
 **Vue arrière (cliquer pour élargir):**
 
-[![](/2004/09/tnarrcomplet.webp)](/2004/09/arrcomplet.webp)
+[![](https://www.waltercedric.com/2004/09/tnarrcomplet.webp)](/2004/09/arrcomplet.webp)
 
 Les deux robots OBI1 et OBI2 sont posés. En fait deux servomoteurs du commerce enroulent autour de leurs flasques une ficelle qui permet de descendre sur commande les deux robots.
 
@@ -192,89 +192,89 @@ Les deux robots OBI1 et OBI2 sont posés. En fait deux servomoteurs du commerce 
 
 Voici une vue plus précise du système d 'aspiration de balle de tennis ainsi que du système de projection. Les vues sont assez explicites et se passent presque de commentaires.
 
-[![](/2004/09/tnaspire.webp)](/2004/09/aspire.webp)
+[![](https://www.waltercedric.com/2004/09/tnaspire.webp)](/2004/09/aspire.webp)
 
-[![](/2004/09/tnprojette.webp)](/2004/09/projette.webp)
+[![](https://www.waltercedric.com/2004/09/tnprojette.webp)](/2004/09/projette.webp)
 
 **LA PROPULSION :**
 
 Cliquer [ICI](/2004/09/PCBmoteurs.webp) pour voir le PCB qui gère les deux moteurs principaux.
 
-[![](/2004/09/tncommande.webp)](/2004/09/commande.webp)
+[![](https://www.waltercedric.com/2004/09/tncommande.webp)](/2004/09/commande.webp)
 
 La carte de commande des moteurs. Commande en tout ou rien par relais.
 
-[![](/2004/09/tnpvuecote.webp)](/2004/09/pvuecote.webp)
+[![](https://www.waltercedric.com/2004/09/tnpvuecote.webp)](/2004/09/pvuecote.webp)
 
 Moteur Conrad 12 Volts Réducteur + moyeu alu usiné par nos soins. Roue en Néoprène coupé Ã la bonne épaisseur.
 
-[![](/2004/09/tnpvuedessus.webp)](/2004/09/pvuedessus.webp)
+[![](https://www.waltercedric.com/2004/09/tnpvuedessus.webp)](/2004/09/pvuedessus.webp)
 
 Vu de dessus sur le même moteur mais coté gauche. La symétrie est parfaite et on peut mieux voir la fixation avec les 2 vis alènes. A coté on remarque le minuscule moteur du rouleau avec sa logique de commande (tout ou rien, en fait juste une réduction de la tension)..
 
-[![](/2004/09/tnpatinarriere.webp)](/2004/09/patinarriere.webp)
+[![](https://www.waltercedric.com/2004/09/tnpatinarriere.webp)](/2004/09/patinarriere.webp)
 
 Pas de roues a l’arrière mais des boules… ne laisse aucune trace sur la piste. Nota : les PMI possèdent des patins en téflon pour des raisons évidentes de places.
 
 **LE SYSTEME DE TIR :**
 
-[![](/2004/09/tna.webp)](/2004/09/a.webp)
+[![](https://www.waltercedric.com/2004/09/tna.webp)](/2004/09/a.webp)
 
 Balle en bas. La balle est Ã l’horizontal dans le berceau.
 
-[![](/2004/09/tnb.webp)](/2004/09/b.webp)
+[![](https://www.waltercedric.com/2004/09/tnb.webp)](/2004/09/b.webp)
 
 Idem mais vue de dessus. Noter les deux liaisons pivot glissant sur lequel coulisse verticalement le panier basculant.
 
-[![](/2004/09/tnc.webp)](/2004/09/c.webp)
+[![](https://www.waltercedric.com/2004/09/tnc.webp)](/2004/09/c.webp)
 
 On tend la ficelle, le berceau monte avec la balle. On prend l’exemple d’une balle en attente. Noter la superbe astuce dans la case suivante.
 
-[![](/2004/09/tnd.webp)](/2004/09/d.webp)
+[![](https://www.waltercedric.com/2004/09/tnd.webp)](/2004/09/d.webp)
 
 Une guillotine ! Elle empêche le passage de la seconde balle tant que le berceau est en l’air (liaison avec une vulgaire ficelle).
 
-[![](/2004/09/tne.webp)](/2004/09/e.webp)
+[![](https://www.waltercedric.com/2004/09/tne.webp)](/2004/09/e.webp)
 
 On note le rail horizontal vers le système de tir et le guide pour la guillotine au premier plan. La carte Ã coté, c’est le système de détection des lignes (IR en tout ou rien).
 
-[![](/2004/09/tnf.webp)](/2004/09/f.webp)
+[![](https://www.waltercedric.com/2004/09/tnf.webp)](/2004/09/f.webp)
 
 On est presque arrivé en haut. Le berceau peut coulisser autour d’un axe horizontal et si vous regarder bien le berceau est volontairement trop long (butée contre le bâti en jaune).
 
-[![](/2004/09/tng.webp)](/2004/09/g.webp)
+[![](https://www.waltercedric.com/2004/09/tng.webp)](/2004/09/g.webp)
 
 On continue donc Ã tirer dessus, un fin de course allume maintenant le moteur de tir avec une petite avance (c’est le rÃ´le de la tige Ã droite en violet, que de réaliser cette temporisation).
 
-[![](/2004/09/tnh.webp)](/2004/09/h.webp)
+[![](https://www.waltercedric.com/2004/09/tnh.webp)](/2004/09/h.webp)
 
 La gravité va faire le reste, la balle roule vers le système de tir…..
 
-[![](/2004/09/tni.webp)](/2004/09/i.webp)
+[![](https://www.waltercedric.com/2004/09/tni.webp)](/2004/09/i.webp)
 
 La balle est légèrement comprimée. En fait la roue de modélisme est creuse et souple, avec la vitesse de rotation élevée du moteur, elle se déforme et ses crampons empêche qu’une balle ne parte pas. Malheureusement, l’excentricité forme un balourd, qui fait vibrer tout le robot, et fait même un peu peur. Mais quelle Patate ! mieux que JPP
 
-[![](/2004/09/tnj.webp)](/2004/09/j.webp)
+[![](https://www.waltercedric.com/2004/09/tnj.webp)](/2004/09/j.webp)
 
 Attention, ne restez pas devant ! Ã§a va faire BOUM
 
-[![](/2004/09/tnjj.webp)](/2004/09/jj.webp)
+[![](https://www.waltercedric.com/2004/09/tnjj.webp)](/2004/09/jj.webp)
 
 Vu de dessus de l’imposant moteur de tir, 9A en transitoire et une fixation qui ne favorise pas le refroidissement (voir photo), un fin de course de 3.6 A maximum ! (grille même pas rapidement)
 
-[![](/2004/09/tnn.webp)](/2004/09/n.webp)
+[![](https://www.waltercedric.com/2004/09/tnn.webp)](/2004/09/n.webp)
 
 Vu de coté du même dispositif…
 
-[![](/2004/09/tnk.webp)](/2004/09/k.webp)
+[![](https://www.waltercedric.com/2004/09/tnk.webp)](/2004/09/k.webp)
 
 Pendant ce temps… la deuxième balle est toujours coincé en bas par la guillotine (un bout de métal fixé avec une ficelle autour de la poulie constituée par le bâti).
 
-[![](/2004/09/tnl.webp)](/2004/09/l.webp)
+[![](https://www.waltercedric.com/2004/09/tnl.webp)](/2004/09/l.webp)
 
 L’ascenseur revient vide…
 
-[![](/2004/09/tnm.webp)](/2004/09/m.webp)
+[![](https://www.waltercedric.com/2004/09/tnm.webp)](/2004/09/m.webp)
 
 Et c’est reparti pour un tour si l’on peut dire.
 
@@ -282,17 +282,17 @@ Voici la première ébauche de notre système de tir, au cas ou ce ne serait pas
 
 **L 'ELECTRONIQUE :**
 
-[![](/2004/09/tnelecdessus.webp)](/2004/09/elecdessus.webp)
+[![](https://www.waltercedric.com/2004/09/tnelecdessus.webp)](/2004/09/elecdessus.webp)
 
 Vu de dessus du bric Ã brac.
 
-[![](/2004/09/tnledligne.webp)](/2004/09/ledligne.webp)
+[![](https://www.waltercedric.com/2004/09/tnledligne.webp)](/2004/09/ledligne.webp)
 
 L’asservissement de suivi de ligne nécessite d’étalonner les leds IR avec des potentiomètres. Voici une aide au réglage pour chacun des 8 capteurs.
 
 \*\*LES CAPTEURS :\*\*
 
-[![](/2004/09/tncapteurir.webp)](/2004/09/capteurir.webp)
+[![](https://www.waltercedric.com/2004/09/tncapteurir.webp)](/2004/09/capteurir.webp)
 
 Cliquer <a rel="rokbox" href="/2004/09/PCBir.webp">ICI</a> pour voir le PCB qui gère 8 capteurs IR en tout ou rien.
 
@@ -300,7 +300,7 @@ Cliquer <a rel="rokbox" href="/2004/09/PCBir.webp">ICI</a> pour voir le PCB qui 
 
 **LES MODULES :**
 
-Il s’agit de petits modules Ã base de 80C535 programmés en assembleur qui possèdent chacun 2 servomoteurs auquel on a enlevé les fins de courses. Cliquer [ICI](/2004/09/PLANmodule1.webp) et [LA](/2004/09/PLANmodule2.webp) pour avoir les plans exacts des bâtis de ces modules. ![](/2004/09/modules.webp)
+Il s’agit de petits modules Ã base de 80C535 programmés en assembleur qui possèdent chacun 2 servomoteurs auquel on a enlevé les fins de courses. Cliquer [ICI](/2004/09/PLANmodule1.webp) et [LA](/2004/09/PLANmodule2.webp) pour avoir les plans exacts des bâtis de ces modules. ![](https://www.waltercedric.com/2004/09/modules.webp)
 
 
 

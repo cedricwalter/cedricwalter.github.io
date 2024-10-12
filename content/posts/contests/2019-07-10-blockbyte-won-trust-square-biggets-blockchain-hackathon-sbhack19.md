@@ -4,7 +4,7 @@ title: 'BlockByte won Trust Square biggest blockchain Hackathon #SBHACK19'
 type: posts
 date: 2019-07-10T04:55:01+00:00
 url: /blockbyte-won-trust-square-biggets-blockchain-hackathon-sbhack19/
-cover: /2019/07/BlockByte-won-Trust-Square-biggest-blockchain-Hackathon-SBHACK19.webp
+cover: https://www.waltercedric.com/2019/07/BlockByte-won-Trust-Square-biggest-blockchain-Hackathon-SBHACK19.webp
 summary: "Last weekend I took part in the biggest Swiss Blockchain Hackathon [#SBHACK19](https://www.linkedin.com/feed/hashtag/?keywords=%23SBHACK19), and our team [Lend-It](https://lendit.tokens-economy.com) won twice!"
 tags:
   - blockchain
@@ -35,7 +35,7 @@ BlockByte designed an immutable Land Lease Ledger (LLL based on R3 Corda) where 
 
 Our code is hosted at <https://github.com/blockbyte-sbhack19> and you can watch all other submissions here <http://jury.sbhack.ch/>
 
-![](/2019/07/BlockByte-won-Trust-Square-biggest-blockchain-Hackathon-SBHACK19.webp)
+![](https://www.waltercedric.com/2019/07/BlockByte-won-Trust-Square-biggest-blockchain-Hackathon-SBHACK19.webp)
 
 BlockByte team:
 - [Aleksandr Kopnin](https://www.linkedin.com/in/kopnin/)
@@ -44,7 +44,7 @@ BlockByte team:
 – [Mike Schälchli](https://www.linkedin.com/in/ACoAAB6EAfYBbrxTSgOh801_aiIRxegHLxaw0w8/?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BteT6qrH%2FTZyh6rEn9j1PiA%3D%3D)
 – [Silke Humbert](https://www.linkedin.com/in/ACoAAAyD49EBQ1HRqOw234hHiebbfYtdJJhr8yg/?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3BteT6qrH%2FTZyh6rEn9j1PiA%3D%3D)
 
-![](/2022/02/IMG_3724-1024x769.webp)
+![](https://www.waltercedric.com/2022/02/IMG_3724-1024x769.webp)
 
 \[My personal certificate\]\[1\] is certified and tamperproof secured on the blockchain by [certifaction.io](http://certifaction.io/).
 

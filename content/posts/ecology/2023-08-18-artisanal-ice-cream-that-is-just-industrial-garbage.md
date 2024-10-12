@@ -4,7 +4,7 @@ title: "Artisanal ice cream that is just industrial garbage"
 type: posts
 date: 2023-08-18T11:03:17+00:00
 url: /artisanal-ice-cream-that-is-just-industrial-garbage/
-cover: /2023/08/artisanal-icecream-just-bad-iceacream-scaled.webp
+cover: https://www.waltercedric.com/2023/08/artisanal-icecream-just-bad-iceacream-scaled.webp
 summary: "Got this ice cream in the middle of the Swiss alps, I was told it is artisanal and made by the owner 's sister (Lucerne area)"
 tags:
   - beware
@@ -211,7 +211,7 @@ This has way too much ingredients, this is a kind of ice cream powder + milk or 
 
 An example of artisanal ice cream while still at small industrial scale: for example I love the Erhard Ice cream <https://www.erhard-desserts.com/boutique/chocolat> <figure class="wp-block-image size-medium">
 
-![](/2023/08/erhard-ice-cream-delicious-300x230.webp)
+![](https://www.waltercedric.com/2023/08/erhard-ice-cream-delicious-300x230.webp)
 
 **INGRÉDIENTS**
 Farm-fresh pasteurized whole MILK 54%, fresh pasteurized CREAM 15%, sugar, chocolate 10% (cocoa mass, sugar, low-fat cocoa powder), cocoa powder, skimmed MILK powder, EGG yolk from free-range hens, flax fiber.

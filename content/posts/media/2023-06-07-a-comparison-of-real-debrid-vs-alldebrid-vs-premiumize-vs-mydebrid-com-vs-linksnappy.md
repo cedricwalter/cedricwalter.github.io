@@ -4,7 +4,7 @@ summary: "When it comes to downloading files from the internet, using a debrid s
 type: posts
 date: 2023-06-07T15:50:57+00:00
 url: /a-comparison-of-real-debrid-vs-alldebrid-vs-premiumize-vs-mydebrid-com-vs-linksnappy/
-cover: /2023/06/pirate_flag_-_Jack_Rackham.webp
+cover: https://www.waltercedric.com/2023/06/pirate_flag_-_Jack_Rackham.webp
 tags:
   - Download
   - downloading

@@ -1,7 +1,7 @@
 ---
 title: "Frohes Neues Jahr, Bonne Année, and Happy New Year!"
 date: 2023-12-30T22:08:13+01:00
-cover: "/blog/happy-new-year.webp"
+cover: "https://www.waltercedric.com/blog/happy-new-year.webp"
 summary: "As we bid farewell to the old and welcome the new year, I extend my warmest wishes to each and every one of you for a Happy New Year! May the upcoming year be filled with joy, growth, and endless possibilities. Let's embrace the opportunities that lie ahead and make this year a chapter to remember.
 Thank you for being part of this incredible journey, and to my new adventures, cherished moments, and a year brimming with positivity. Happy New Year!"
 categories:

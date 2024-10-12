@@ -4,7 +4,7 @@ summary: "Why the IFlight Nazgul Evoque F5D V2 is not a good FPV frame"
 type: posts
 date: 2023-08-13T12:50:01+00:00
 url: /iflight-nazgul-evoque-f5d-v2-is-not-a-good-fpv-frame/
-cover: /2023/08/iFlight-Nazgul-Evoque-F5-V2-HD-5inch-6S-FPV-Drone-BNF-F5X-F5D-Squashed-X-or-e1691577482692.webp
+cover: https://www.waltercedric.com/2023/08/iFlight-Nazgul-Evoque-F5-V2-HD-5inch-6S-FPV-Drone-BNF-F5X-F5D-Squashed-X-or-e1691577482692.webp
 tags:
   - 6s
   - dji
@@ -17,9 +17,9 @@ tags:
 categories:
   - Quadcopter
 ---
-![](/2023/08/IFlight-Nazgul-Evoque-F5D-V2-is-not-a-good-FPV-frame-2-768x1024.webp)
+![](https://www.waltercedric.com/2023/08/IFlight-Nazgul-Evoque-F5D-V2-is-not-a-good-FPV-frame-2-768x1024.webp)
 
-![](/2023/08/IFlight-Nazgul-Evoque-F5D-V2-is-not-a-good-FPV-frame-scaled-e1691930789542-1024x690.webp)
+![](https://www.waltercedric.com/2023/08/IFlight-Nazgul-Evoque-F5D-V2-is-not-a-good-FPV-frame-scaled-e1691930789542-1024x690.webp)
 
 All these holes and hollows in the carbon are made for making the frame lighter but these area are prone to break during a crash. The frame is less rigid, and don’t cool down any better the electronic. It’s just pleasing to the eye nothing else. I suspect the carbon also to be of a lesser quality. First FPV frame I broke in 5 years… luckily the DJI O3 camera is fine. Up to 2 weeks ago I was flying Armattan quad frames.
 
@@ -35,7 +35,7 @@ Bad:
 * it seems carbon is somehow cheap compared to other brands.
 * the controller is specific for the narrow frame. There is no way to use another or reuse an old flight controller. All the electronic is tightly packed
 
-![](/2023/10/really-tight-space-for-fc-nazgul-1024x929.webp)
+![](https://www.waltercedric.com/2023/10/really-tight-space-for-fc-nazgul-1024x929.webp)
 
 Neutral:
 * don’t fly it in CE mode, this is a DJI O3 issue, use FCC or you can not fly more than 30m away behind a small tree Recognizing a bad FPV (First Person View) frame is important to ensure a smooth and enjoyable flying experience while using your FPV drone. A bad frame can lead to poor flight performance, instability, and even crashes.
@@ -65,6 +65,6 @@ Flight Performance and Stability: Once you have built the drone using the frame,
 
 Crash Resistance: While crashes are unavoidable in FPV flying, a good frame should be able to withstand moderate crashes without major damage. Examine the frame after a few crashes to see if it’s holding up well.
 
-![](/2023/10/iflight-nazgul-F5D-1-1024x768.webp)
+![](https://www.waltercedric.com/2023/10/iflight-nazgul-F5D-1-1024x768.webp)
 
-![](/2023/10/iflight-nazgul-F5D-2-768x1024.webp)
+![](https://www.waltercedric.com/2023/10/iflight-nazgul-F5D-2-768x1024.webp)

@@ -2,7 +2,7 @@
 title: DJI Robomaster S1
 type: posts
 date: 2024-03-01T08:10:55+00:00
-cover: /robots/robomaster/robomaster-head-3d-print.webp
+cover: https://www.waltercedric.com/robots/robomaster/robomaster-head-3d-print.webp
 tags:
   - robotic
 categories:

@@ -1,7 +1,7 @@
 ---
 title: "BambuLabs Disruptive Innovation Dethorning Prusa and Sending Shockwaves Through the 3D Printing Community"
 date: 2024-01-19T10:44:17+01:00
-cover: "/3dprinting/bambu-lab-vs-prusa-3dprinting.webp"
+cover: "https://www.waltercedric.com/3dprinting/bambu-lab-vs-prusa-3dprinting.webp"
 cover_alt: "Bambu Lab vs Prusa 3d Printer"
 cover_width: "1286px"
 cover_height: "350px"

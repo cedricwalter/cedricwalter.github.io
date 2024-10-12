@@ -1,7 +1,7 @@
 ---
 title: Jellyfin
 date: 2024-01-07T10:44:17+01:00
-cover: "/homelab/Plex-Jellyfin.webp"
+cover: "https://www.waltercedric.com/homelab/Plex-Jellyfin.webp"
 summary: "In the world of digital entertainment, having a reliable and efficient media server is essential for streaming your favorite movies, TV shows, music, and more. For years, many users have turned to Plex as their go-to solution. However, after using it extensively, I decided to make a switch to Jellyfin due to its numerous advantages over the traditional Plex Media Server."
 categories:
   - Homelab

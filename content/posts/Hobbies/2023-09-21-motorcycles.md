@@ -4,7 +4,7 @@ type: posts
 date: 2023-09-21T12:56:19+00:00
 summary: "Choosing a first motorcycle should also depend on your individual needs, preferences, and level of riding experience. Be sure to take into account factors such as your riding goals, physical size and comfort, budget, and the availability of training courses in your area before making a decision. Additionally, always wear appropriate safety gear and consider enrolling in a motorcycle safety course to learn essential riding skills."
 url: /motorcycles/
-cover: /2023/09/IMG_E3075-scaled-e1695300847660.webp
+cover: https://www.waltercedric.com/2023/09/IMG_E3075-scaled-e1695300847660.webp
 tags:
   - honda
   - hornet

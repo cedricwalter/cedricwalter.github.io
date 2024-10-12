@@ -1,7 +1,7 @@
 ---
 title: 'buy me a coffee'
 url : "buy-me-a-coffee"
-cover: /blog/buy-me-a-coffee.webp
+cover: https://www.waltercedric.com/blog/buy-me-a-coffee.webp
 summary: "I'm passionate about technology, a bit a nerd in denial. Whether it's writing, creating educational content, or sharing insights on [your niche], I pour my heart and soul into every piece. Your support means the world to me and enables me to continue doing what I love."
 date: 2023-08-25T13:30:17+00:00
 type: posts

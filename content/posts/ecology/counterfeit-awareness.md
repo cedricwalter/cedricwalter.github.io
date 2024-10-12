@@ -2,7 +2,7 @@
 title: "How to spot fake Lacoste, North Face fake items"
 type: posts
 date: 2024-01-09T08:10:55+00:00
-cover: /fake-products/fake-north-face-budget-puffer-4-thumb.webp
+cover: https://www.waltercedric.com/fake-products/fake-north-face-budget-puffer-4-thumb.webp
 tags:
   - lacoste
   - fake

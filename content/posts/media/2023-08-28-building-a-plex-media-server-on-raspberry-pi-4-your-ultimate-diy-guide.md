@@ -4,7 +4,7 @@ summary: "In the era of digital media consumption, having a centralized hub to m
 type: posts
 date: 2023-08-28T08:07:25+00:00
 url: /building-a-plex-media-server-on-raspberry-pi-4-your-ultimate-diy-guide/
-cover: /2023/08/raspberry-pi-4.webp
+cover: https://www.waltercedric.com/2023/08/raspberry-pi-4.webp
 tags:
   - decentralized
   - homelab

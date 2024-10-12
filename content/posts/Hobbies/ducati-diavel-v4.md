@@ -11,7 +11,7 @@ tags:
   - moto
 categories:
   - Hobbies
-cover: /moto/Ducati-Diavel-V4.webp
+cover: https://www.waltercedric.com/moto/Ducati-Diavel-V4.webp
 ---
 I did ride a Ducati Diavel V4 300km in a hot weather 31°C and in the Hills 23°C. I did not like it at all in the city with frequent stop and go. It nearly burn my balls. Seing the temperature of the water colling reaching 118°C make me question the overall design of the bike. Its seems that going to Neutral switch off 2 cylinders, my mistake as I stayed in gear 1 while stopping. I was ready to buy a Diavel but after trying one, the motor heat is just ridiculous. I will try again one later, the V4S
 

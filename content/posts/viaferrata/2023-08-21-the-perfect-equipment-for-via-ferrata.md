@@ -4,7 +4,7 @@ summary: "Via ferrata is a mountain activity that involves climbing routes equip
 type: posts
 date: 2023-08-21T13:28:30+00:00
 url: /the-perfect-equipment-for-via-ferrata/
-cover: /2023/08/viaferrata-murren-schweiz.webp
+cover: https://www.waltercedric.com/2023/08/viaferrata-murren-schweiz.webp
 tags:
   - climbing
   - mountain
@@ -16,7 +16,7 @@ Via ferrata is a mountain activity that involves climbing routes equipped with f
 
 ## Here 's a list of the essential equipment for via ferrata
 
-![](/2023/08/Petzl-Sirocco.webp)
+![](https://www.waltercedric.com/2023/08/Petzl-Sirocco.webp)
 
 ## Helmet
 A climbing helmet is crucial to protect your head from falling rocks, debris, and potential impacts.
@@ -25,14 +25,14 @@ You head has no price tag, so invest in a good one, and always wear it!
 
 Perfect protection and minimal weight. The **Petzl** Sirocco is the ideal partner for ambitious climbers looking for an ultra-light helmet that still protects the head well. Increased protection is ensured by the deeper design in the neck area, while the excellent ventilation ensures maximum comfort. The hybrid construction consists of a helmet shell made of EPP foam (expanded polypropylene) and a hard outer shell with injected EPS foam (expanded polystyrene). Weight: 170 g. Test mark: UIAA 106. visor/screen: without. Compatible with Vizion face shield. Intended use: climbing.
 
-![](/2023/08/Petzl-Corax.webp)
+![](https://www.waltercedric.com/2023/08/Petzl-Corax.webp)
 
 ## Harness
  A climbing harness should be comfortable, adjustable, and have designated attachment points for securing yourself to the via ferrata cable using lanyards or energy-absorbing devices.
 
 Ex: Petzl Corax
 
-![](/2023/08/Black-Diamond-Easy-Rider-Via-Ferrata.webp)
+![](https://www.waltercedric.com/2023/08/Black-Diamond-Easy-Rider-Via-Ferrata.webp)
 
 **Lanyards or Energy Absorbers: These are used to attach yourself to the via ferrata cable. Energy-absorbing lanyards are designed to reduce the impact force in the event of a fall.
 
@@ -40,7 +40,7 @@ ex: **Black Diamond** Easy Rider Via Ferrata
 
 The new Black Diamond Easy Rider Via Ferrata set is easy to clip and features an innovative carabiner with lock/unlock mechanism. This detail allows efficiency and style on the via ferrata. Two Easy Rider carabiners are equipped with an internal locking mechanism with push/clamp activation for easy operation with one hand. The sling, which is attached directly to the climbing harness, is designed for users weighing between 40 and 120 kg according to the EN 958: 2017 standard.
 
-![](/2023/08/Petzl-Connect-Adjust.webp)
+![](https://www.waltercedric.com/2023/08/Petzl-Connect-Adjust.webp)
 
 ## An adjustable safety line
 
@@ -50,7 +50,7 @@ Ex: Petzl Connect Adjust
 
 ## OR A fixed safety line
 
-![](/2023/08/Twin-Lanyard-1024x707.webp)
+![](https://www.waltercedric.com/2023/08/Twin-Lanyard-1024x707.webp)
 
 A fixed safety line in Y (2 different length of rope)
 

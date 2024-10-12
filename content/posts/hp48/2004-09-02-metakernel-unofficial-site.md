@@ -1,6 +1,6 @@
 ---
 title: Hewlett Packard MetaKernel unofficial site
-cover: "/hewlett-packard/metakernel.webp"
+cover: "https://www.waltercedric.com/hewlett-packard/metakernel.webp"
 images:
  - "/hewlett-packard/metakernel.webp"
 type: posts
@@ -142,7 +142,7 @@ I have done a nice picture on 20th March 1998 while being at the engineer school
 The MetaKernel is a masterpiece of software written entirely in ASM. I use to buy a license (version 2.20) when it was still on HP48Gx before it was merged inside the HP49kernel.
 You can now take **any** HP49G/HP49Gx/HP50G/... in the world, and do a soft reset (ON-C), and you can see my picture!!!!!. My signature is on the left corner, you can press ON quickly to freeze the picture.
 
-![](/hewlett-packard/metakernel.webp)
+![](https://www.waltercedric.com/hewlett-packard/metakernel.webp)
 
 # Articles (related from <a href="https://groups.google.com/g/comp.sys.hp48" target="_blank" rel="noopener">Comp.sys.hp48</a>)
 

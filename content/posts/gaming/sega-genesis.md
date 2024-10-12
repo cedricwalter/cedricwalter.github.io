@@ -1,7 +1,7 @@
 ---
 title: "Sega genesis rarities guide"
 date: 2024-01-27T10:11:52+01:00
-cover: /2023/10/radiomaster-pocket-9-1-scaled.webp
+cover: https://www.waltercedric.com/2023/10/radiomaster-pocket-9-1-scaled.webp
 summary: ""
 categories:
   - Gaming

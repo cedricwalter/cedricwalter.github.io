@@ -4,13 +4,13 @@ summary: "Archaeologists have unearthed two skeletons from the Neolithic period 
 type: posts
 date: 2007-02-07T18:59:48+00:00
 url: /endless-love-lets-be-together-for-5000-year-more/
-cover: /2007/02/couple.skeleton.found_.italy_.webp
+cover: https://www.waltercedric.com/2007/02/couple.skeleton.found_.italy_.webp
 categories:
   - Family
 tags:
  - death
 ---
-![](/2007/02/couple.skeleton.found_.italy_.webp)
+![](https://www.waltercedric.com/2007/02/couple.skeleton.found_.italy_.webp)
 
 Reuers
 

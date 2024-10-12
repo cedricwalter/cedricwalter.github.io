@@ -3,7 +3,7 @@ title: "Rotorflight Flydragon- F722"
 summary: ""
 type: posts
 date: 2024-06-17T10:30:17+01:00
-cover: /rchelicopter/Rotorflight_rotorflight.webp
+cover: https://www.waltercedric.com/rchelicopter/Rotorflight_rotorflight.webp
 summary: "Rotorflight is a Flight Control software suite designed for single-rotor helicopters. It consists of: Rotorflight Flight Controller Firmware. Rotorflight Configurator, for flashing and configuring the flight controller "
 tags:
   - rc-helicopter

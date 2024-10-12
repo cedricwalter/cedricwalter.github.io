@@ -1,7 +1,7 @@
 ---
 title: "Why Every Entrepreneur Should Read 'You Screwed Up!' by Alice Hlidkova"
 date: 2024-01-15T10:11:52+01:00
-cover: "/books/you-screwed-up-alice-hlidkova-composite.webp"
+cover: "https://www.waltercedric.com/books/you-screwed-up-alice-hlidkova-composite.webp"
 cover_alt: "'You Screwed Up!' by Alice Hlidkova"
 cover_width: "499px"
 cover_height: "350px"

@@ -4,7 +4,7 @@ title: 'Cryptocurrencies Graph price using  a Raspberry Pi and 3.5” LCD Displa
 type: posts
 date: 2020-04-11T18:04:18+00:00
 url: cryptocurrencies-graph-price-monitor-using-a-raspberry-pi-and-3-5-lcd-display/
-cover: /2020/04/cryptocurrencies-graph-raspberry-pi-lcd-scaled.webp
+cover: https://www.waltercedric.com/2020/04/cryptocurrencies-graph-raspberry-pi-lcd-scaled.webp
 summary: "How to monitor Cryptocurrencies Graph price using  a Raspberry Pi and 3.5” LCD Display"
 tags:
   - bitcoin
@@ -25,11 +25,11 @@ You need obviously a raspberry pi, ideally with WIFI build in if you don 't like
 
 A [3.5" LCD screen from Amazon](https://amzn.to/2xmJHb9)
 
-*   [![](/2020/04/Raspberry-Pi-LCD-Display-Module-3.5inch-320X480-TFT-2-768x1024.webp)](/2020/04/Raspberry-Pi-LCD-Display-Module-3.5inch-320X480-TFT-2-scaled.webp)
+*   [![](https://www.waltercedric.com/2020/04/Raspberry-Pi-LCD-Display-Module-3.5inch-320X480-TFT-2-768x1024.webp)](/2020/04/Raspberry-Pi-LCD-Display-Module-3.5inch-320X480-TFT-2-scaled.webp)
 
     Raspberry Pi LCD Display Module 3.5inch 320X480 TFT
 
-*   [![](/2020/04/Raspberry-Pi-LCD-Display-Module-3.5inch-320X480-TFT-1-768x1024.webp)](/2020/04/Raspberry-Pi-LCD-Display-Module-3.5inch-320X480-TFT-1-scaled.webp)
+*   [![](https://www.waltercedric.com/2020/04/Raspberry-Pi-LCD-Display-Module-3.5inch-320X480-TFT-1-768x1024.webp)](/2020/04/Raspberry-Pi-LCD-Display-Module-3.5inch-320X480-TFT-1-scaled.webp)
 
     Raspberry Pi LCD Display Module 3.5inch 320X480 TFT
 
@@ -121,7 +121,7 @@ and reboot
 
 ```bash sudo reboot```<figure class="wp-block-image size-large">
 
-![](/2020/04/cryptocurrencies-graph-raspberry-pi-lcd-1024x626.webp)
+![](https://www.waltercedric.com/2020/04/cryptocurrencies-graph-raspberry-pi-lcd-1024x626.webp)
 
 ## SSH login do not work anymore?
 

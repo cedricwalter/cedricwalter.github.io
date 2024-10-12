@@ -3,7 +3,7 @@ title: GoHugo tips and tricks, moving away from wordpress
 date: 2023-12-27T18:24:28+01:00
 type: posts
 summary: "Some useful tips and tricks for Hugo blog owner"
-cover: /blog/hugo-logo-wide.webp
+cover: https://www.waltercedric.com/blog/hugo-logo-wide.webp
 categories:
   - Blog
 tags:
@@ -48,7 +48,7 @@ Create a file in your theme folder, e.g. in themes/dream/archetypes/posts.md
 ---
 title: {{ replace .TranslationBaseName "-" " " | title }}
 date: {{ .Date }}
-cover: /cover.webp
+cover: https://www.waltercedric.com/cover.webp
 summary: "summary"
 categories:
   - category1
@@ -236,5 +236,5 @@ Optimize images
 
 Usage:
 ```go
-![](/hewlett-packard/hp49boot.gif)
+![](https://www.waltercedric.com/hewlett-packard/hp49boot.gif)
 ```

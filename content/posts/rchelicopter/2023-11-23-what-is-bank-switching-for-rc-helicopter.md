@@ -4,7 +4,7 @@ type: posts
 date: 2023-11-23T15:03:17+00:00
 summary: "In the context of RC (radio-controlled) helicopters, bank switching typically refers to a feature related to setting up and switching between different flight modes or configurations. These flight modes often include variations in control responsiveness, stability, and other parameters to suit different styles of flying or specific maneuvers."
 url: /rc-helicopter-airplanes-fpv-drone/what-is-bank-switching-for-rc-helicopter/
-cover: /2023/11/sab-raw-700-rc-helicopter.webp
+cover: https://www.waltercedric.com/2023/11/sab-raw-700-rc-helicopter.webp
 tags:
   - RC helicopter
 categories:

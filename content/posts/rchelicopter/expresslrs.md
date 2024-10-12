@@ -3,7 +3,7 @@ title: "Express LRS tips and tricks"
 summary: ""
 type: posts
 date: 2024-07-03T10:30:17+01:00
-cover: /rchelicopter/elrs/rx2sim-elrs-ep1.webp
+cover: https://www.waltercedric.com/rchelicopter/elrs/rx2sim-elrs-ep1.webp
 summary: "ExpressLRS aims to provide the best completely open, high refresh radio control link while maintaining a maximum achievable range at that rate with low latency. Vast support of hardware in both 900 MHz and 2.4 GHz frequencies"
 tags:
   - rc-helicopter

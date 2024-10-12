@@ -1,7 +1,7 @@
 ---
 title: "Securing a Docker registry with Let's Encrypt and Nginx-proxy"
 date: 2024-01-30T10:44:17+01:00
-cover: "/homelab/Plex-Jellyfin.webp"
+cover: "https://www.waltercedric.com/homelab/Plex-Jellyfin.webp"
 summary: "Securing Docker containers with Let's Encrypt and Nginx-proxy-manager involves setting up a reverse proxy with SSL termination using `nginx-proxy` and obtaining SSL/TLS certificates with the help of letsencrypt"
 categories:
   - Homelab

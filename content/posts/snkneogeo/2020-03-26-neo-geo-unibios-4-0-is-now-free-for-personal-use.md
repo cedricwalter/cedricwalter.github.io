@@ -4,7 +4,7 @@ summary: "The UNIVERSE BIOS is for owners of SNK MVS or AES hardware that want a
 type: posts
 date: 2020-03-26T20:16:51+00:00
 url: /games/neo-geo-unibios-4-0-is-now-free-for-personal-use/
-cover: /2020/03/unibios-4-snk-neogeo.webp
+cover: https://www.waltercedric.com/2020/03/unibios-4-snk-neogeo.webp
 tags:
   - arcade
   - Collectibles

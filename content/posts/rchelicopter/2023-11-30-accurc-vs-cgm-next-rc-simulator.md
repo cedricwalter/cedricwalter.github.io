@@ -4,7 +4,7 @@ summary: "AccuRC is as of today kind of abandonware, no new release in 2 years, 
 type: posts
 date: 2023-11-30T18:43:01+00:00
 url: /rc-helicopter-airplanes-fpv-drone/accurc-vs-cgm-next-rc-simulator/
-cover: "/2023/11/cgm-next-sab-700.webp"
+cover: "https://www.waltercedric.com/2023/11/cgm-next-sab-700.webp"
 tags:
   - rc-helicopter
   - reflex-xtr

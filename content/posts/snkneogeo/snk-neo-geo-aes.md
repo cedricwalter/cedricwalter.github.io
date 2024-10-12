@@ -4,7 +4,7 @@ summary: "The Neo Geo AES, also known as the Advanced Entertainment System, was 
 type: posts
 date: 2024-01-07T10:44:17+01:00
 url: /games/snk-neo-geo-aes-total-costs/
-cover: /snkneogeo/aes/snk-neo-geo-intro.webp
+cover: https://www.waltercedric.com/snkneogeo/aes/snk-neo-geo-intro.webp
 tags:
   - arcade
   - collectibles
@@ -122,6 +122,6 @@ The SNK Neo Geo AES games I own since 1991
 |      Samurai Showdown 1|300 FF| |45 €|
 |      League Bowling|150 FF| |22 €|
 |      Art of Fighting 2|450 FF| |68 €|
-| |![](snk/metalslug3loop.webp)|TOTAL|2494 €|
+| |![](https://www.waltercedric.comsnk/metalslug3loop.webp)|TOTAL|2494 €|
 
 This table do not take into account the 2 NEO-GEO CD I 've bought on ebay in 2002. I will have to look at what I 've paid at that time

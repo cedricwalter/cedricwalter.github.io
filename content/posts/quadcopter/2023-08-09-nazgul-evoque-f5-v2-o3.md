@@ -3,7 +3,7 @@ title: 'Nazgul Evoque F5 V2 O3'
 summary: "Nazgul Evoque F5 V2 O3 GPS Bind & Fly ELRS using Radiomaster ZORRO 4 in 1 with Radiomaster Ranger Nano TX in 10 minutes and some tips and tricks."
 type: posts
 date: 2023-08-09T10:34:16+00:00
-cover: /2023/08/iFlight-Nazgul-Evoque-F5-V2-HD-5inch-6S-FPV-Drone-BNF-F5X-F5D-Squashed-X-or-e1691577482692.webp
+cover: https://www.waltercedric.com/2023/08/iFlight-Nazgul-Evoque-F5-V2-HD-5inch-6S-FPV-Drone-BNF-F5X-F5D-Squashed-X-or-e1691577482692.webp
 tags:
   - betaflight
   - dji
@@ -292,7 +292,7 @@ Don’t use them on the Nazgul without the FCC hack, I crash once 30m away becau
 
 ## FLASH the transmitter TX with latest ELRS firmware
 
-![](/2023/08/Ranger-Nano-2.4GHZ-ELRS-Module-144x300.webp)
+![](https://www.waltercedric.com/2023/08/Ranger-Nano-2.4GHZ-ELRS-Module-144x300.webp)
 
 Featuring up to 1W output, F-1000Hz refresh rates and a high-efficiency cooling system, the Ranger Micro 2.4GHz ELRS Module represents the cutting edge in ELRS technology. Attach the module to a compatible radio (RadioMaster [Zorro](https://www.radiomasterrc.com/products/zorro-radio-controller) and more) to enjoy all that ELRS has to offer. The included T-shape antenna is designed for maximum signal coverage. An optional MOXON antenna is available for directional applications.
 
@@ -300,7 +300,7 @@ Featuring up to 1W output, F-1000Hz refresh rates and a high-efficiency cooling 
 
 Launch Express LRS Configurator, select latest release, for me the 3.3.0, and the target “”Radiomaster 2.4GHz” and the device ”Radiomaster Ranger 2.4GHz TX”
 
-![](/2023/08/Express-LRS-Configurator-Radiomaster-2.4GHz-TX-step1-1024x642.webp)
+![](https://www.waltercedric.com/2023/08/Express-LRS-Configurator-Radiomaster-2.4GHz-TX-step1-1024x642.webp)
 
 Connect the computer to the ”Radiomaster Ranger 2.4GHz TX” with a USB-C cable
 
@@ -312,7 +312,7 @@ Scroll down and enter a custom binding phrase, the more unique the better, it al
 
 *   HOME\_WIFLSSID and HOME WIFI PASSWORD are your WIFI network SSID and password, they are optional
 
-![](/2023/08/Express-LRS-Configurator-Radiomaster-2.4GHz-TX-step2-1024x580.webp)
+![](https://www.waltercedric.com/2023/08/Express-LRS-Configurator-Radiomaster-2.4GHz-TX-step2-1024x580.webp)
 
 Click “Flash” it will build an upload the latest firmware on your Radiomaster Ranger nano TX, it take 1-2 min to complete and reboot
 
@@ -365,7 +365,7 @@ Why EdgeTX is better and recommended on your Radiomaster Zorro
 
 Launch EdgeTX companion
 
-![](/2023/08/edgetx-companion-add-radio-profile-zorro-1-1024x978.webp)
+![](https://www.waltercedric.com/2023/08/edgetx-companion-add-radio-profile-zorro-1-1024x978.webp)
 
 Create a new profile, using menu “Settings” – “Add profile” – select Radio Type = Radiomaster Zorro
 
@@ -373,23 +373,23 @@ I fly RC Helicopter so I do not switch off noheli, you need to activate lua scri
 
 Lua (pronounced “loo-uh”) is a lightweight, high-level programming language designed for embedded systems, scripting, and general-purpose programming. It’s often used as an extension or embedded scripting language in various applications and software frameworks. Lua is known for its simplicity, flexibility, and ease of integration.
 
-![](/2023/08/edgeTx-read-models-and-settings.webp)
+![](https://www.waltercedric.com/2023/08/edgeTx-read-models-and-settings.webp)
 
 You can now do a backup first by clicking “Read models and setting from radio” and saving on your disk the documents (.etx)
 
-![](/2023/08/edgeTx-settings-icon.webp)
+![](https://www.waltercedric.com/2023/08/edgeTx-settings-icon.webp)
 
 Click settings
 
-![](/2023/08/edgeTx-settings-for-update-1024x980.webp)
+![](https://www.waltercedric.com/2023/08/edgeTx-settings-for-update-1024x980.webp)
 
 Define a folder for updates first
 
-![](/2023/08/edgeTx-update.webp)
+![](https://www.waltercedric.com/2023/08/edgeTx-update.webp)
 
 Click the Update button to refresh all version and follow on screen
 
-![](/2023/08/edgeTx-sdcard-update-button.webp)
+![](https://www.waltercedric.com/2023/08/edgeTx-sdcard-update-button.webp)
 
 Update the SDCARD to reflect the latest state of the EdgeTX firmware
 
@@ -401,7 +401,7 @@ The GPS support Galileo, so activate it under configuration, this was not in the
 
 The BNF (Bind and Fly)ELRS version come with a Betaflight preset, we just need to assign switches to some modes
 
-![](/2023/08/betaflight-nazgul-evoque-assign-switches-1024x540.webp)
+![](https://www.waltercedric.com/2023/08/betaflight-nazgul-evoque-assign-switches-1024x540.webp)
 
 with the above setup:
 
@@ -410,7 +410,7 @@ with the above setup:
 *   SB switch is the angle or manual mode
 *   SE activate the failsafe
 
-![](/2023/08/radiomaster-zorro-tx-layout-1024x592.webp)
+![](https://www.waltercedric.com/2023/08/radiomaster-zorro-tx-layout-1024x592.webp)
 
 ## GPS rescue mode
 

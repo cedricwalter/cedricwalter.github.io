@@ -4,7 +4,7 @@ summary: "Firing a pistol is a skill that demands precision, discipline, and con
 type: posts
 date: 2023-08-26T16:22:15+00:00
 url: /hobbies/mastering-pistol-firing-techniques-a-comprehensive-guide/
-cover: /2023/08/indoorShootingRange.webp
+cover: https://www.waltercedric.com/2023/08/indoorShootingRange.webp
 tags:
   - firearm
   - hobby
@@ -35,11 +35,11 @@ Find your dominant eye, your dominant eye is the eye your brain prefers for proc
 
 Select an item located approximately 7 meters away and roughly the size of a doorknob or a light switch. Raise both of your hands, creating a triangular frame that encloses the chosen object. While keeping both eyes open, stretch your arms outward, ensuring that the object remains centered within the triangular frame. Following this, close one eye at a time while maintaining the position of the triangular frame without any movement. Begin by closing your left eye and observing your field of vision. Then, open your left eye and proceed to close your right eye, making note of your visual experience. Whichever open eye allows you to see the object neatly framed within your hands indicates the eye your brain has the most confidence in. This open eye is your dominant one.
 
-![](/2023/08/left-eye-1024x341.webp)
+![](https://www.waltercedric.com/2023/08/left-eye-1024x341.webp)
 
 How to determine if you’re left eye dominant
 
-![](/2023/08/right-eye-1024x341.webp)
+![](https://www.waltercedric.com/2023/08/right-eye-1024x341.webp)
 
 How to determine if you’re right eye dominant
 

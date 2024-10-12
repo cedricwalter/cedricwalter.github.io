@@ -2,7 +2,7 @@
 title: Manurhin SM75 / DKW Hobby Roller
 type: posts
 date: 2023-12-23T08:10:55+00:00
-cover: /scooter/manurhin/scooter-50s-manurhin-sm75-cedricwalter-11.webp
+cover: https://www.waltercedric.com/scooter/manurhin/scooter-50s-manurhin-sm75-cedricwalter-11.webp
 tags:
   - scooters
   - vespa
@@ -142,7 +142,7 @@ Pour la monter, il faut démonter la flasque mobile de la seconde poulie, facile
 fabriquer un outil pour comprimer le ressort.
 Voici une autre référence si vous pouvez en trouver : CONT_VARIFLEX W16x0560
 
-![](/2004/08/motorView.webp)
+![](https://www.waltercedric.com/2004/08/motorView.webp)
 
 KEILRIEMEN FüR DKW HOBBY ROLLER 22mm X 8.5mm X 570mm
 
@@ -339,7 +339,7 @@ EMPLACEMENT DÉ LA PLAQUÉ CONSTRUCTEUR : Sous la selle. EMPLACEMENT DÉ LA PLAQ
 Système UHER
 I : 1 1:1,93
 
-![](/2004/08/pic1.webp)
+![](https://www.waltercedric.com/2004/08/pic1.webp)
 
 ## COMMANDES DIVERSES
 
@@ -408,7 +408,7 @@ Il sera bon de laisser tourner le moteur vide pendant environ une minute, pour l
 c) FREINAGE. – Il y a lieu de remarquer d’abord que le Variateur continu, par sa conception même, fait agir le moteur comme frein dès que l’on coupe les gaz au moyen de la poignée.
 Si on veut ralentir plus rapidement, on utilisera de préférence le frein main, agissant sur la roue AV.
 
-![](/2004/08/pic3.webp)
+![](https://www.waltercedric.com/2004/08/pic3.webp)
 
 ### Utilisation du lanceur-démarreur.
 
@@ -425,7 +425,7 @@ Les révisions périodiques doivent être faites régulièrement. Les Agents MAN
 Nous insistons tout particulièrement sur la nécessité de faire effectuer par les Agents MANURHIN, les deux premières révisions, dont la première est gratuite. Au cas où cette prescription ne serait pas suivie, il ne serait plus possible de faire jouer la clause de garantie.
 Pour les Scootéristes qui désireraient assurer eux-mêmes l’entretien de leur machine, après ces deux révisions que nous considérons comme indispensables, nous indiquons ci-après les quelques travaux qui peuvent être faits facilement sans l’intervention d’une Station-Service
 
-![](/2004/08/pic4.webp)
+![](https://www.waltercedric.com/2004/08/pic4.webp)
 
 ### I. – ALIMENTATION.
 
@@ -435,7 +435,7 @@ Destiné arrêter les impuretés ou les gouttelettes d’eau qui pourraient exis
 2\) Filtre du réservoir d’essence
 Il existe un filtre la sortie du réservoir (côté intérieur). Si on constate une alimentation défectueuse au carburateur (diminution de la puissance, retours, difficultés de mise en route), et si après un nettoyage du filtre du carburateur, l’alimentation n’est pas redevenue normale, c’est que le filtre du réservoir est obstrué (si on retire le tube flexible du carburateur, l’essence ne coule pas ou coule ‘faiblement lorsqu’on ouvre le robinet). Pour le déboucher, on
 
-![](/2004/08/pic5.webp)
+![](https://www.waltercedric.com/2004/08/pic5.webp)
 
 soufflera fortement dans le tuyau souple après avoir ouvert le robinet et enlevé le bouchon du réservoir ; on repousse ainsi les saletés qui obstruaient le filtre, et l’essence coulera de nouveau. Cette opération n’est qu’un dépannage provisoire faire en route. Il sera bon, dès que possible, de faire un nettoyage complet de la tuyauterie du filtre et du réservoir.
 

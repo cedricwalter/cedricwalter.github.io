@@ -1,7 +1,7 @@
 ---
 title: "OpenVPN server in a Docker container"
 date: 2024-02-01T10:44:17+01:00
-cover: /2023/docker.webp
+cover: https://www.waltercedric.com/2023/docker.webp
 summary: "OpenVPN server in a Docker container complete with an EasyRSA PKI CA."
 categories:
   - Homelab

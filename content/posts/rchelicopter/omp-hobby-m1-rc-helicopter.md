@@ -3,7 +3,7 @@ title: OMPHobby M1 RC Helicopter Review
 summary: "RC helicopters have always been a source of excitement and joy for hobbyists, and the OMPHobby M1 is no exception. In this review, we'll take a closer look at the strengths and weaknesses of the OMPHobby M1, evaluating its performance, build quality, and overall user experience."
 type: posts
 date: 2023-12-27T18:24:28+01:00
-cover: "/rchelicopter/omphobbym1/omphobby-m1-header.webp?width=100px"
+cover: "https://www.waltercedric.com/rchelicopter/omphobbym1/omphobby-m1-header.webp?width=100px"
 tags:
   - helicopter
   - omphobby

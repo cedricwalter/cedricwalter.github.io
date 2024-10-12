@@ -1,7 +1,7 @@
 ---
 title: "Navigating the Complexities of Surrogacy: A Moral Odyssey Explored in \"Pretty Girl Complex\" by Alice Hlidkova."
 date: 2024-01-22T09:11:52+01:00
-cover: /books/navigating-the-complexities o-offsurrogacy.webp
+cover: https://www.waltercedric.com/books/navigating-the-complexities o-offsurrogacy.webp
 summary: "Surrogacy raises questions about the autonomy and responsibility of all parties involved. How much control should the surrogate have over her body and the pregnancy? What obligations do the intended parents bear towards the surrogate and the unborn child?"
 categories:
   - Books
@@ -89,7 +89,7 @@ Surrogacy raises questions about the autonomy and responsibility of all parties 
 
 Ensuring the health and well-being of the surrogate is an ethical imperative that requires careful consideration. From medical screenings to mental health assessments, ethical concerns arise regarding the thoroughness of the evaluation process and the responsibility of all parties, including medical professionals and intended parents, to prioritize the surrogate's physical and emotional welfare.
 
-![](/books/pretty-girl-complex-by-alice-hlidkova-composite.webp?width=350px#float-start)
+![](https://www.waltercedric.com/books/pretty-girl-complex-by-alice-hlidkova-composite.webp?width=350px#float-start)
 
 "Pretty Girl Complex" by [Alice Hlidkova](https://www.alicehlidkova.com?utm_source=cedricwalter) serves as a poignant exploration of the difficulties and moral encounters inherent in the world of surrogacy. Through a rich tapestry of characters and ethical dilemmas, the book challenges readers to confront their preconceptions and engage in a nuanced dialogue about the profound impact of reproductive technologies on our society. As we navigate the intricate terrain of surrogacy alongside Hlidkova's characters, we are invited to reflect on the profound moral questions that shape our understanding of family, autonomy, and the very essence of human connection.
 

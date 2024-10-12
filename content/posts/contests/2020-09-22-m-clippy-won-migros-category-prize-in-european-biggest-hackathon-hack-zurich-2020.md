@@ -4,7 +4,7 @@ title: m-Clippy WON Migros Category prize in Europe’s Biggest Hackathon Hack Z
 type: posts
 date: 2020-09-22T14:14:31+00:00
 url: /m-clippy-won-migros-category-prize-in-european-biggest-hackathon-hack-zurich-2020/
-cover: /2020/09/DSC_1549-scaled.webp
+cover: https://www.waltercedric.com/2020/09/DSC_1549-scaled.webp
 summary: "Since 2014, HackZurich unites the world’s best tech talents, selected from thousands of applications, representing several elite universities and leading organizations from +85 countries, to collaborate and develop innovative web-, mobile- and hardware applications during a 40-hours hackathon in teams."
 tags:
   - dotnet
@@ -49,7 +49,7 @@ The vision
 
 We started by filling up a **Problem Canvas**. A  **Problem Canvas** allows you to identify the customer, the problematic action, the improvement areas, the reasons for customer to switch and the risks of not switching, all in a single view. The number one cause of startup failure is the lack of a real need in the market, according to a recent [post-mortem on startups](https://www.cbinsights.com/research/startup-failure-reasons-top/).
 
-![](/2020/09/problem-statement-canvas-1-1024x512.webp)
+![](https://www.waltercedric.com/2020/09/problem-statement-canvas-1-1024x512.webp)
 
 And we came up with the following idea:
 
@@ -60,14 +60,14 @@ Designing the logo
 
 We designed a logo. Note how we reuse the same color palette used by Migros 😉
 
-![](/2020/09/logo-1024x915.webp)
+![](https://www.waltercedric.com/2020/09/logo-1024x915.webp)
 
 Designing the iOS app
 ---------------------
 
 We start designing mockups using some iPhone wireframes. You can use this template (right click save – as)
 
-![](/2020/09/Screen-Shot-2020-09-22-at-4.39.42-PM-1024x701.webp)
+![](https://www.waltercedric.com/2020/09/Screen-Shot-2020-09-22-at-4.39.42-PM-1024x701.webp)
 
 Coding!
 -------
@@ -82,11 +82,11 @@ We started coding on Friday 18.09 18:00 PM, coding 14 hours in a row, sleeping 3
 
 Our Pitch Deck:
 
-![](/2020/09/Screenshot-2020-09-20-at-08.14.21-1024x576.webp)
+![](https://www.waltercedric.com/2020/09/Screenshot-2020-09-20-at-08.14.21-1024x576.webp)
 
-![](/2020/09/Screenshot-2020-09-20-at-08.15.13-1024x576.webp)
+![](https://www.waltercedric.com/2020/09/Screenshot-2020-09-20-at-08.15.13-1024x576.webp)
 
-![](/2020/09/Screenshot-2020-09-20-at-08.15.44-1024x576.webp)
+![](https://www.waltercedric.com/2020/09/Screenshot-2020-09-20-at-08.15.44-1024x576.webp)
 
 Inspiration
 -----------
@@ -123,26 +123,26 @@ Our iOS app
 
 Customers need to select their preferences in Migros cumulus app (intolerance, eating habits, allergens )
 
-![](/2020/09/m-clippy-1.webp)
+![](https://www.waltercedric.com/2020/09/m-clippy-1.webp)
 
-![](/2020/09/m-clippy-target-1-1.webp)
+![](https://www.waltercedric.com/2020/09/m-clippy-target-1-1.webp)
 
-![](/2020/09/m-clippy-target-2-1.webp)
+![](https://www.waltercedric.com/2020/09/m-clippy-target-2-1.webp)
 
 
 Customers get insights through recommendations, tips and alternative products based on the preferences.
 
-![](/2020/09/m-clippy-tips-1.webp)
+![](https://www.waltercedric.com/2020/09/m-clippy-tips-1.webp)
 
-![](/2020/09/m-clippy-tips-2.webp)
+![](https://www.waltercedric.com/2020/09/m-clippy-tips-2.webp)
 
-![](/2020/09/m-clippy-tips-3.webp)
+![](https://www.waltercedric.com/2020/09/m-clippy-tips-3.webp)
 
-![](/2020/09/m-clippy-tips-4.webp)
+![](https://www.waltercedric.com/2020/09/m-clippy-tips-4.webp)
 
-![](/2020/09/m-clippy-tips-5.webp)
+![](https://www.waltercedric.com/2020/09/m-clippy-tips-5.webp)
 
-![](/2020/09/m-clippy-tips-6.webp)
+![](https://www.waltercedric.com/2020/09/m-clippy-tips-6.webp)
 
 
 How we built it

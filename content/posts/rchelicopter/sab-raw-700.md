@@ -3,7 +3,7 @@ title: SAB Raw 700
 type: posts
 date: 2023-11-23T12:11:49+00:00
 summary: "SAB (Scorpion Antennas and Batteries) primarily focused on manufacturing and designing high-quality radio-controlled (RC) helicopters. Here's a brief overview of some SAB RC helicopter models"
-cover: /2023/11/sab-raw-700-rc-helicopter.webp
+cover: https://www.waltercedric.com/2023/11/sab-raw-700-rc-helicopter.webp
 tags:
   - rc-helicopters
   - flybarless-systems

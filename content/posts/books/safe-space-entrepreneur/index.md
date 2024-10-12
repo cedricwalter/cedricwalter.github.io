@@ -1,7 +1,7 @@
 ---
 title: "Providing entrepreneurs a safe space to openly reflect on their experiences"
 date: 2024-01-11T10:11:52+01:00
-cover: "/books/anonymous-interview-startup.webp"
+cover: "https://www.waltercedric.com/books/anonymous-interview-startup.webp"
 cover_alt: "a room full of person being interviewed"
 summary: "In the realm of entrepreneurship, the journey is often painted with both triumphs and tribulations. Behind the glossy success stories lie untold narratives, lessons learned, and challenges overcome. To capture the authentic essence of these experiences, the process of conducting anonymous interviews for a book emerges as a powerful tool. This approach provides entrepreneurs with a safe space to openly reflect on their journeys, fostering a level of vulnerability that contributes significantly to the book's authenticity."
 categories:

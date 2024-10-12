@@ -4,7 +4,7 @@ summary: "Au soir du mardi 27 Juin 2017 s'est endormi paisiblement ma chère m
 type: posts
 date: 2017-07-05T13:59:07+00:00
 url: /anne-walter-4-avril-1941-mardi-27-juin-2017/
-cover: /2017/07/tata-anne-walter.webp
+cover: https://www.waltercedric.com/2017/07/tata-anne-walter.webp
 categories:
   - Family
 tags:

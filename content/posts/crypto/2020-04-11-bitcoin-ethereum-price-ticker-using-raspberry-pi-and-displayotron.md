@@ -4,7 +4,7 @@ title: Bitcoin And Ethereum price Ticker using Raspberry Pi and Display-O-Tron
 type: posts
 date: 2020-04-11T08:58:08+00:00
 url: /bitcoin-ethereum-price-ticker-using-raspberry-pi-and-displayotron/
-cover: /2020/04/bitcoin-ethereum-price-ticker-using-raspberry-pi-and-displayotron-scaled.webp
+cover: https://www.waltercedric.com/2020/04/bitcoin-ethereum-price-ticker-using-raspberry-pi-and-displayotron-scaled.webp
 summary: "How to monitor the Bitcoin and Ethereum price on a DisplayOTron LCD and any Raspberry PI!"
 tags:
   - bitcoin
@@ -149,7 +149,7 @@ Add a crontab to this file
 
 * * * * * /home/pi/bitcoin.py 2>&1```<figure class="wp-block-image size-large">
 
-![](/2020/04/bitcoin-ethereum-price-ticker-using-raspberry-pi-and-displayotron-1024x768.webp)
+![](https://www.waltercedric.com/2020/04/bitcoin-ethereum-price-ticker-using-raspberry-pi-and-displayotron-1024x768.webp)
 
  [1]: https://github.com/pimoroni/displayotron
  [2]: https://downloads.raspberrypi.org/imager/imager.exe

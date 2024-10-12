@@ -4,7 +4,7 @@ summary: "I did buy these 2 color hand held Neo-Geo pocket color on ebay. When I
 type: posts
 date: 2009-10-24T23:55:25+00:00
 url: /games/neo-geo-pocket-color/
-cover: /2009/10/neo.geo_.pocket.color_.aqua_.blue_.3-scaled.webp
+cover: https://www.waltercedric.com/2009/10/neo.geo_.pocket.color_.aqua_.blue_.3-scaled.webp
 tags:
   - arcade
   - Bought

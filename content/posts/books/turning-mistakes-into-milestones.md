@@ -1,7 +1,7 @@
 ---
 title: "Turning Mistakes into Milestones: Lessons in Entrepreneurial Growth"
 date: 2024-01-14T10:11:52+01:00
-cover: "/books/turning-mistakes-into-milestones-by-alice-hlidkova.webp"
+cover: "https://www.waltercedric.com/books/turning-mistakes-into-milestones-by-alice-hlidkova.webp"
 summary: "Specific case studies featured in the book 'You Screwed Up!' where entrepreneurs turned their mistakes into significant milestones. Explore the strategies and mindset shifts that led to success."
 categories:
   - Books

@@ -4,7 +4,7 @@ type: posts
 date: 2023-10-17T14:50:40+00:00
 summary: "Detecting fake honey can be challenging because some counterfeit products are skillfully made to resemble real honey. However, there are several methods you can use to help identify fake honey:"
 url: /how-to-spot-fake-honey/
-cover: /2023/10/real-honey-scaled.webp
+cover: https://www.waltercedric.com/2023/10/real-honey-scaled.webp
 tags:
   - fake
   - honey

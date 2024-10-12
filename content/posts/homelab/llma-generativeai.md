@@ -1,7 +1,7 @@
 ---
 title: "Use generative AI assistants like ChatGPT for FREE"
 date: 2024-02-07T10:24:17+01:00
-cover: "/homelab/facebook-llama-v2-generative-ai.webp"
+cover: "https://www.waltercedric.com/homelab/facebook-llama-v2-generative-ai.webp"
 summary: "If youre intrigued by the concept of AI assistants like ChatGPT, Google Bard, Bing Chat, or others, you might have certain apprehensions regarding privacy, expenses, and beyond. This is where Llama 2 steps in. Llama 2 is an open-source large language model engineered by Meta, boasting variants spanning from 7 billion to 70 billion parameters."
 categories:
   - Homelab
@@ -151,12 +151,12 @@ Go to the model tab, we need to load LLama 2 with 13Billion parameters first
 
 go to Download model or LoRA and use `TheBloke/Llama-2-13B-Chat-fp16`   (32GB of download)
 
-![](/homelab/text-generation-webui-load-llama2.webp)
+![](https://www.waltercedric.com/homelab/text-generation-webui-load-llama2.webp)
 
 Click the download button and wait....
 
 When finished, hit the reload button, select the model in the list box, and you're done
-![](/homelab/text-generation-webui-load-llama2-reload.webp)
+![](https://www.waltercedric.com/homelab/text-generation-webui-load-llama2-reload.webp)
 
 # Stable Difusion GUI
 see https://github.com/AUTOMATIC1111/stable-diffusion-webui

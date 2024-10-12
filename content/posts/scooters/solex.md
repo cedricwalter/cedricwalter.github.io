@@ -2,7 +2,7 @@
 title: "Solex"
 type: posts
 date: 2024-01-09T08:10:55+00:00
-cover: /scooter/collection/cedricwalter-bernardet-e51.webp
+cover: https://www.waltercedric.com/scooter/collection/cedricwalter-bernardet-e51.webp
 cover_alt: "Scooter Bernardet E51 1956"
 tags:
   - scooters

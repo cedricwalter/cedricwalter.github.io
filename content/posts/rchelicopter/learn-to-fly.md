@@ -4,7 +4,7 @@ type: posts
 date: 2023-12-31T17:08:13+01:00
 summary: "Remote-controlled (RC) helicopters have long been a source of fascination and excitement for hobbyists of all ages. Learning to fly an RC helicopter can be a rewarding and enjoyable hobby, but it does require practice, patience, and dedication.
 Remember, flying RC helicopters is a skill that improves with time and practice. Take it one step at a time, and most importantly, enjoy the journey as you become a skilled pilot in the world of RC helicopters."
-cover: /2023/10/omphobby-m2-evo-rc-helicopter.webp
+cover: https://www.waltercedric.com/2023/10/omphobby-m2-evo-rc-helicopter.webp
 tags:
    - helicopter
    - rc

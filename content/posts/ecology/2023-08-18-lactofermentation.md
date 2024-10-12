@@ -4,7 +4,7 @@ title: Lactofermentation
 type: posts
 date: 2023-08-18T10:06:21+00:00
 url: /lactofermentation/
-cover: /2023/08/Lactofermentation-scaled.webp
+cover: https://www.waltercedric.com/2023/08/Lactofermentation-scaled.webp
 summary: "Lactofermentation, also known as lactic acid fermentation, is a natural process in which microorganisms, primarily lactic acid bacteria, convert sugars into lactic acid. This process is commonly used to preserve and transform various foods, especially vegetables and fruits. The lactic acid produced during lactofermentation acts as a natural preservative, inhibiting the growth of harmful bacteria and helping to extend the shelf life of the fermented foods."
 tags:
   - bio
@@ -31,7 +31,7 @@ Lactofermentation is responsible for the creation of various fermented foods, su
 
 Lactofermenting tomatoes is a unique and flavorful way to preserve and enjoy their taste. Here 's a basic guide to lactofermenting tomatoes:<figure class="wp-block-image aligncenter size-large">
 
-![](/2023/08/Lactofermentation-tomatoes-1024x768.webp)
+![](https://www.waltercedric.com/2023/08/Lactofermentation-tomatoes-1024x768.webp)
 
 **Ingredients:**
 

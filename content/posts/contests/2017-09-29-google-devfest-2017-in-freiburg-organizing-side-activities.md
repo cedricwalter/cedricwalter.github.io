@@ -1,6 +1,6 @@
 ---
 title: Google DevFest 2017 I’m organizing side activities
-cover: /google-devfest/retrogaming/google-devfest-2017-retrogaming-1.webp
+cover: https://www.waltercedric.com/google-devfest/retrogaming/google-devfest-2017-retrogaming-1.webp
 type: posts
 date: 2017-09-29T11:52:08+00:00
 url: google-devfest-2017-in-freiburg-organizing-side-activities/

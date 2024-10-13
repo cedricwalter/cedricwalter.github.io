@@ -110,7 +110,7 @@ Bien que la recherche sur l'utilisation du PRP pour traiter les fissures horizon
 ## Chirurgie
 Dans les cas où les méthodes conservatrices ne fournissent pas de soulagement adéquat, une intervention chirurgicale, comme une réparation arthroscopique du ménisque, peut être recommandée pour réparer la déchirure.
 
-### Une expérience
+### Mon expérience
 Arrivé à 8:30 du matin, un docteur vous demander quelle jambe et vous marquera la jambe visuelement au marqueur histoire de ne pas se tromper.
 
 Départ en salle de préparation à 10:30 pour une bonne heure de préparation à la péridurale dorsale, mise en place de la perfusion, mise sous monitoring scope. Elle met environ 15-20min à agir mais cela dépend de beaucoup de facteurs, le médecin en charge testera tous les 3 min la progression de l'anéstésie. On continuera de ressentir la pression sur la peau mais les récepteurs de douleurs sont bloqués. La jambe est fixé sur un bras hydraulique marchant à l'air comprimmé qui permet au chirurgien de controller l'inclinaison de la jambe.
@@ -119,13 +119,21 @@ Rentré au bloc, grosses desinfection, puis encore une et mise en place du champ
 
 On bloque ou réduit l'arrivé du sang avec un garot pneumatique pour que le chirurgien voit mieux ce aui se passe dans l'articulation du genou.
 
-Le chirurgien incise et insère la camera pour voir les dégats, l'IRM étant pour le diagnostic. Ils decident collégialement de ce qu'il faut faire et manipule le genou sans de géner de gauche à droite en forcant pour mieux voir avec la camèra et insérer entre l'articulation  l'ustensile qui coupera l'os.
+Le chirurgien incise et insère la camera pour voir les dégats, l'IRM étant pour le diagnostic. Ils decident collégialement de ce qu'il faut faire et manipule le genou sans de géner de gauche à droite en forcant pour mieux voir avec la camèra et insérer entre l'articulation l'ustensile qui coupera l'os.
 
 Puis il enlèvent le minimum du ménisque pour avoir le meilleur résultat possible. Cela peut durer de 30min à 1 heure.
 
-Vous pouvez commencer à avoir très mal sur la fin, et vous aurez alors un complément anéstésique dans la perfusion.
+Vous pouvez commencer à avoir très mal sur la fin, l'anésthésie s'estompant et vous aurez alors un complément anéstésique dans la perfusion.
 
-Enfin lew deux trous sont cousus, on emballe la jambe pour l'asseptie et le maintien de l'articulation du genou. On vous envoie en observation le temps que l'anéstésie passe, et que vous ayez des gazs et pouvez uriner à nouveau. La position dossie relevé est à privilégier, ou mieux assise. On vous remplira de boissons pour cela: café, thé, jus de fruit, eau et il suffira de demander.
+Enfin lew deux trous sont cousus, on emballe la jambe pour l'asseptie et le maintien de l'articulation du genou. On vous envoie en observation le temps que l'anéstésie passe, et que vous ayez des gazs et pouvez uriner à nouveau. La position dossie relevé est à privilégier, ou mieux assise. On vous remplira de boissons pour cela: café, thé, jus de fruit, eau et il suffira de demander: c'est open bar!
+
+La première nuit est un peu dure, pas vraiment mal mais c'est inconfortable car le genou est très enflé... il faut glacer 15min toutes les heures, le résultat est magique et immédiat. Il suffit bien dormir les jambes bien à plat, la nuit le corps semble réduire les inflammations et surtout vous ne marcher pas constament.
+
+4 jours plus tard je faisais une heure de velo chez le physiothérapeute sans forcer, vous aurez des exercises de renforcement musculaire des cuisses, fesses, chevilles à faire.
+
+2 semaines plus tard, je faisais une marche de 5 heures à 2400m avec 800m de denivelés négatifs et 800m positifs sur le retour au téléphérique. J'avait mal partout mais pas aux genoux :-)
+
+L'inflamation va rester un peu douloureuse à la flexion et limiter la mobilité du genou jusqu'a deux mois environ. 
 
 # Prévenir l’arthrose du genou
 
@@ -133,7 +141,13 @@ Enfin lew deux trous sont cousus, on emballe la jambe pour l'asseptie et le main
 le fait de bouger est important non seulement lors du traitement, mais aussi comme mesure de prévention contre l’arthrose. A cet effet, une étude indique que le vélo est une très bonne solution.
 
 ## Diminuer le surpoids
+Lorsque vous montez les escaliers, le poids exercé sur les ménisques, qui sont des structures de cartilage dans les genoux, peut être significatif en raison de la charge supplémentaire induite par l'effort et la mécanique du mouvement. En général, lors de la montée des escaliers, la force qui s'exerce sur les genoux peut être multipliée par 3 à 4 fois le poids corporel.
+
+Par exemple, si une personne pèse 70 kg, les forces exercées sur ses ménisques lorsqu'elle monte des escaliers peuvent atteindre environ 210 à 280 kg, en fonction de divers facteurs comme la vitesse de montée, la posture, ou l'angle de flexion du genou.
+
 L'excès de poids exerce une pression supplémentaire sur les articulations, en particulier sur les genoux, les hanches et la colonne vertébrale. Cela peut aggraver les symptômes de l'arthrose et accélérer la dégradation du cartilage. Une alimentation équilibrée, associée à une activité physique régulière, peut aider à maintenir un poids santé ou à perdre du poids si nécessaire, ce qui réduit la charge sur les articulations et soulage les symptômes de l'arthrose.
+
+Pour les mêmes raisons, ne portez plus de charges lourdes sans raison (meubles, caisses).
 
 ## Corriger les mauvaises postures
 Pour corriger les mauvaises postures, il est recommandé de travailler avec un professionnel de la santé qualifié, tel qu'un physiothérapeute ou un chiropraticien. Ces professionnels peuvent évaluer votre posture actuelle, identifier les déséquilibres musculaires et les compensations, et vous fournir des exercices et des techniques pour améliorer votre posture et réduire la pression sur vos articulations.

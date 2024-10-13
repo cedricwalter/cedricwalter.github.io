@@ -24,6 +24,9 @@ Le sirop contient aussi trop de sucre (45-60 g de sucre pour 100 ml de sirop). J
 
 Des études montrent maintenant que les boissons light sont tout aussi dangereuses. Le corps ne fait pas la différence, et les aspartames sont probablement cancérigènes.
 
+## Le chocolat
+J'adore le chocolat, mais la encore c'est plutot du sucre au chocolat que vous allez consommer. Un moyen de se faire plaisir sans trop de calories est de passé au chocolat chaud en boisson, très peu calorique si il est préparé avec du vrai cacao maigre (100% suchard ou autres), du vrai lait et PAS de sucre mais de temps en temps une demi cuillère de miel. TOUS les cacao industriels en préparation, c'est 85% ou plus de sucre avec un peu ou très peu de cacao dedans!
+
 # Fumer, boire de l'alcool
 Je ne fume pas ni ne boit jamais d'alcool mais beaucoup le font. Les dernières études sont sans appel, le corps n'a pas besoin d'alcool et le minimum dont le corps a besoin c'est zéro. Le reste n'est que du marketting.
 

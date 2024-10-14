@@ -24,14 +24,13 @@ Prices for the Nyx Z3 vary depending on the model and battery, starting from abo
 {{< youtube KYG_tSa8wcE >}}
 {{< youtube RjM8fE-e28 >}}
 
-{{< youtube cLi3ytbCCdk  >}}
+{{< youtube cLi3ytbCCdk >}}
 
 {{< youtube P2nX6b0R6HA >}}
 
 {{< youtube R0qK0flaClA >}}
 
 {{< youtube XiyIm8nsStg >}}
-
 
 ## Remote control
 There are 27 options. Options 1, 2, 5, 6, 7, and 9 cannot be adjusted or modified without authorization.

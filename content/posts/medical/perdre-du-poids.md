@@ -3,6 +3,7 @@ title: "Perdre du poids naturellement"
 type: posts
 date: 2024-07-28T08:10:55+00:00
 summary: "Comment perdre du poids avec surtout des bonnes habitudes"
+cover: https://www.waltercedric.com/medical/weight-loss.webp
 tags:
   - medical
   - mobilité

@@ -2,7 +2,7 @@
 title: "Acedeck NYX Z3 electric skate board"
 summary: "The AceDeck Nyx Z3 is a high-performance off-road electric skateboard designed for enthusiasts seeking power and durability for rough terrains. Its equipped with advanced features like a gear drive system for optimal torque and control, shock-absorbing channel trucks for smoother rides on uneven surfaces, and all-terrain wheels that can handle dirt, gravel, and grass with ease."
 type: posts
-date: 2024-10-14T09:11:52+01:00
+date: 2024-10-13T09:11:52+01:00
 tags:
   - passion
   - acedeck

@@ -22,7 +22,7 @@ Prices for the Nyx Z3 vary depending on the model and battery, starting from abo
 ## Best Video
 
 {{< youtube KYG_tSa8wcE >}}
-{{< youtube RjM8fE-e28 >}}
+{{< youtube ORjM8fE-e28 >}}
 
 {{< youtube cLi3ytbCCdk >}}
 
@@ -53,6 +53,17 @@ Here is the full options list as they are displayed, with their choices in opera
 10. RESTORE PARA (yes, no) 
 11. BLE UNBIND (yes,no)
 
+A quick tutorial on remote control mode settings.
+There are 4 modes (Low, Eco, Sport, Sport+), each of which can be completely modified and customized.
+To access them, press the setup button 8 times (under the remote control's power button), then adjust them using the remote control's thumbwheel.)
+
+For each mode, there are 4 setting options, which I detail here:
+* REF MODE: As a percentage of the VMAX the skateboard can reach. 50% = approx. 30km/h You can even have a pedestrian mode by setting to 10-15% in LOW mode for example)
+* CUR MODE: Amperage sent to the motors. At 100%, the amperage is maximum (120A on my model) In sport+ mode, the remote control is set to this amperage
+* SPEEDUP line: Acceleration curve to Vmax: at 100%, the skate gives a very abrupt, almost brutal curve. Setting it to 50% gives a more progressive acceleration. But will not ultimately change the mode's vmax.
+* BRAKE LINE: same as for the acceleration curve, here it's the braking curve: at 100%, braking power is maximum, with little progressiveness. Don't hesitate to soften the curve by lowering the percentage.
+
+Remember to confirm by switching off the remote control! 
 
 ## Recommended helmet
 https://www.ridetsg.com/helmets/skate/
@@ -60,18 +71,5 @@ https://www.ridetsg.com/helmets/skate/
 ## Recommended binding
 They recommends https://www.mbs.com/parts/14051-mbs-f5-bindings-1-pair
 
-
-A quick tutorial on remote control mode settings.
-
-There are 4 modes (Low, Eco, Sport, Sport+), each of which can be completely modified and customized.
-
-To access them, press the setup button 8 times (under the remote control's power button), then adjust them using the remote control's thumbwheel.)
-
-For each mode, there are 4 setting options, which I detail here:
-
-* REF MODE: As a percentage of the VMAX the skateboard can reach. 50% = approx. 30km/h You can even have a pedestrian mode by setting to 10-15% in LOW mode for example)
-* CUR MODE: Amperage sent to the motors. At 100%, the amperage is maximum (120A on my model) In sport+ mode, the remote control is set to this amperage, and...it's pretty cool...
-* SPEEDUP line: Acceleration curve to Vmax: at 100%, the skate gives a very abrupt, almost brutal curve. Setting it to 50% gives a more progressive acceleration. But will not ultimately change the mode's vmax.
-* BRAKE LINE: same as for the acceleration curve, here it's the braking curve: at 100%, braking power is maximum, with little progressiveness. Don't hesitate to soften the curve by lowering the percentage.
-
-Remember to confirm by switching off the remote control! 
+## Product Page
+https://acedeckboards.com/products/nyx-z3

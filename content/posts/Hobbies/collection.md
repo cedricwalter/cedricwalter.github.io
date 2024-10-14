@@ -81,8 +81,10 @@ Je connait des collections qui ne valent plus rien ou 20 X moins si vous arriver
 La valeur des objets de collection est souvent soumise à des fluctuations du marché. Ce qui est considéré comme précieux aujourd'hui peut ne pas l'être demain en raison de changements dans les tendances, les goûts du marché ou les intérêts des collectionneurs.
 ### L'effet "pyramide des âges"
 Des générations entière de collectioneur disparaissent en vieillissant. Les nouvelles générations vous regardent comme des extra terrestres!
+### La réduction de la taille des logements
+Les logements deviennent de plus en plus cher et aussi plus petit. Les grandes collections se raréfient.
 ### La surproduction, les éditions collector en série et les ré-éditions
-Si un objet de collection est produit en grande quantité, sa rareté diminue et par conséquent, sa valeur peut chuter. Les éditeurs ou fabricants qui produisent en masse des articles de collection peuvent saturer le marché et réduire la demande pour ces objets.
+Si un objet de collection est produit en grande quantité, sa rareté diminue et par conséquent, sa valeur peut chuter. Les éditeurs ou fabricants qui produisent en masse des articles "de collection" peuvent saturer le marché et réduire la demande pour ces objets. Par example, les éditions limités sont permanentes et touche tous les jeux vidéo, chaque jeux vidéo.
 ### La qualité de conservation
 L'état de conservation d'un objet de collection est souvent un facteur déterminant de sa valeur. Les objets endommagés, altérés ou mal entretenus peuvent perdre considérablement de leur valeur par rapport à des exemplaires en excellent état.
 ### L'évolution des intérêts et les effets de mode

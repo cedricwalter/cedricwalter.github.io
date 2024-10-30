@@ -146,6 +146,9 @@ Slicer Supported OS: MacOS, Windows
 ## Some resources
 * [The Bambu Lab Wiki](https://wiki.bambulab.com/en/a1-mini)
 
+### Get 3mf preview in MacOS Finder
+You can use https://github.com/DavidPhillipOster/ThumbHost3mf 
+
 ## Reducing amount of poop
 How to reduce the printer wasted filament when it changes color:
 

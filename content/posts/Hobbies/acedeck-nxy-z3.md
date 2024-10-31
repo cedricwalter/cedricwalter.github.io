@@ -17,6 +17,20 @@ The AceDeck Nyx Z3 is a high-performance off-road electric skateboard designed f
 
 Prices for the Nyx Z3 vary depending on the model and battery, starting from about $1,500 and going up to $2,900 for the higher-end versions
 
+𝗔𝗰𝗲𝗱𝗲𝗰𝗸® 𝗡𝘆𝘅 𝗭𝟯 𝗢𝗳𝗳-𝗿𝗼𝗮𝗱 𝗘𝗹𝗲𝗰𝘁𝗿𝗶𝗰 𝗦𝗸𝗮𝘁𝗲𝗯𝗼𝗮𝗿𝗱 𝙁𝙤𝙧 𝙍𝙚𝙖𝙡 𝙊𝙛𝙛-𝙧𝙤𝙖𝙙𝙞𝙣𝙜
+- Shock-absorbing channel trucks. The Acedeck way.
+- Ultimate endurance: Up to 95km/ 59 miles Range(1554Wh)
+- Acedeck Gear Drive 4.0: 
+- Alloy steel gear. 
+- Fully Enclosed Design. 
+- Compact, lightweight, durable. 
+- Maximizing top speed efficiency.
+- A new generation of ESC: 145A
+- Top Speed: Up to 60kph/ 37mph Top Speed
+- Torque: 65nm
+- Acedeck premium CNC materials
+- Max load: 150kg
+
 ## Best Video
 
 {{< youtube KYG_tSa8wcE >}}
@@ -63,6 +77,16 @@ For each mode, there are 4 setting options, which I detail here:
 
 Remember to confirm by switching off the remote control! 
 
+# Useful 3D printing
+Acedeck NYX Z1 Footstop also working on Z3 https://www.thingiverse.com/thing:6329652 
+
+Want more 3D print?
+* [Acedeck 3d print at MakerWorld (Bambu lab - Free)](https://makerworld.com/en/models/search?keyword=acedeck)
+* [Acedeck 3d print at Thingiverse (All - Free)](https://www.thingiverse.com/search?q=acedeck)
+* [Acedeck 3d print at Printables (Prusa - Free)](https://www.printables.com/search/models?q=acedeck)
+* [Acedeck 3d print at Cults3D (All - Free & $$$)](https://cults3d.com/en/search?q=acedeck)
+* [Acedeck 3d print at Yeggi (All - Free & $$$)](https://www.yeggi.com/q/acedeck/)
+
 ## Recommended helmet
 ### NTA-8776 E-bike rating ONLY!
 
@@ -87,12 +111,17 @@ Here's a comparison between the **ASTM F1952** and **NTA 8776** standards, speci
 
 In summary, **ASTM F1952** is ideal for high-impact sports like downhill biking, where speed and extreme conditions are a factor, while **NTA 8776** is optimized for high-speed electric mobility with a focus on lighter weight, ventilation, and coverage appropriate for urban and commuter use.
 
+EN 1078    - European bike and skateboard helmet standard.
+ASTM F1952 - US-American downhill-mountain bike helmet standard.
+ASTM F1447 - Recreational Bicycling or Roller Skating. 
+ASTM F1492 – Skateboarding and Trick Roller Skating.
+
 Bell FULL-10 SPHERICAL https://www.bellhelmets.com/shop-our-brands/bell-helmets/p/full-10-spherical-full-face-bike-helmet/BL-7151885.html
 Fox Rampage https://www.foxracing.com/product/rampage-matte-black-helmet/32212.html
 https://www.ridetsg.com/helmets/skate/
 
 ## Recommended binding
-They recommends https://www.mbs.com/parts/14051-mbs-f5-bindings-1-pair
+Acedeck recommends MBS bindings https://www.mbs.com/parts/14051-mbs-f5-bindings-1-pair you can at the beginning use only one binding on the front foot.
 
 ## Product Page
 https://acedeckboards.com/products/nyx-z3

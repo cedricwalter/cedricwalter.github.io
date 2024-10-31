@@ -92,7 +92,7 @@ services:
           - PGID=1000
           - TZ=Europe/Zurich
         ports:
-          - 8008:8008
+          - 8008:8008 # admin API
         volumes:
           - /root/docker/matrix:/data
         restart: unless-stopped
@@ -116,6 +116,18 @@ services:
           - "traefik.http.services.matrix.loadbalancer.server.scheme=http"
         networks:
           - traefik_proxy
+    synapse-admin:
+        image: awesometechnologies/synapse-admin
+        container_name: synapse-admin
+        environment:
+          - LOG_LEVEL=debug
+          - PUID=1000
+          - PGID=1000
+          - TZ=Europe/Zurich
+        ports:
+          - 98080:80
+        restart: unless-stopped
+        # not mapped with labels to internet with traefik on purpose
 ```
 
 Finally create an admin user with
@@ -131,6 +143,14 @@ add to homeserver.yaml
 ```yaml
 enable_registration: false
 allow_guest_access: false
+
+## Repactha and registration config
+recaptcha_public_key: "####################"
+recaptcha_private_key: "####################"
+enable_registration_captcha: true
+
+## Disable federation if you want
+# federation_domain_whitelist: []
 
 rc_message:
   per_second: 0.2  # messages per second

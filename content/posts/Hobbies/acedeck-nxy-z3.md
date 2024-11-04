@@ -123,6 +123,8 @@ https://www.ridetsg.com/helmets/skate/
 ## Recommended binding
 Acedeck recommends MBS bindings https://www.mbs.com/parts/14051-mbs-f5-bindings-1-pair you can at the beginning use only one binding on the front foot.
 
+{{< youtube GQa9NrDx0mSRGdHQ >}}
+
 ## Product Page
 https://acedeckboards.com/products/nyx-z3
 
@@ -144,10 +146,21 @@ Each type has different performance characteristics that make it suitable for va
 | **Price Range**                 | Higher                            | Moderate                          | Moderate                          | Moderate to High                          |
 | **Optimal Use Case**            | High-capacity applications needing stable performance | E-bikes, moderate power e-skates, DIY packs | Similar to 50S, general use with slight trade-off | Various (depends on model)                |
 
-**Summary:**
 - **Samsung 50S** is ideal for applications needing high capacity and decent discharge, like high-performance electric skateboards or e-bikes.
 - **Samsung 50E** and **50G** offer balanced capacity and discharge current, making them good for general use in moderate power applications.
 - **Other cells** like the LG MJ1 or Panasonic NCR18650GA provide alternatives but typically have lower discharge rates, which may limit them in high-power setups.
+
+# "14S6P" battery configuration?
+
+14S: This means 14 cells are connected in series. In a series connection, the voltages of individual cells add up, so a 14S configuration results in a higher voltage. Most lithium-ion cells have a nominal voltage of 3.7V, so a 14S battery pack would have a nominal voltage of around 51.8V (14 * 3.7V). Higher voltage generally allows the motor to spin faster, which can improve the skateboard's speed and performance.
+
+6P: This means 6 cells are connected in parallel. In a parallel configuration, the capacity (amp hours) of individual cells adds up. More parallel cells mean greater capacity, which increases the range of the skateboard by allowing it to store more energy. For instance, if each cell has a capacity of 3000mAh, then a 6P configuration would give a total capacity of 18,000mAh (or 18Ah).
+
+In a 14S6P configuration, you combine both series and parallel setups, resulting in a battery pack with high voltage and high capacity. This configuration matters because:
+
+* Higher Voltage: This enables better acceleration and top speeds, making the skateboard more powerful and responsive.
+* Increased Capacity: More capacity means longer range, allowing you to travel further on a single charge.
+* Heat Management and Reliability: More parallel cells help distribute the load, so individual cells aren’t working as hard, which can reduce heat buildup and improve battery longevity.
 
 # Pros & Cons Direct Drive
 | Type | Pros | Cons |
@@ -155,6 +168,28 @@ Each type has different performance characteristics that make it suitable for va
 |Direct Drive	|Quieter + less maintenance + no belt-adjustment/maintenance + easier to roll-carry	| Slightly less torque/brake power + not possible to put AT wheels |
 |Belt Drive	|More customizable to improve torque/top-speed + slightly better overall torque/brakes | Difificult to roll-carry + belt breaks can be hazardous AF (very rare but worth mentioning) + loud |
 
+# Tail lights
+Double click the power button to have them always on or always off.
+
+# Maintenance
+
+## Gears: every 800km or when gear start sounding dry  
+There’s no need to add grease early on, as the gears come properly lubricated. 
+Excessive grease can hinder heat dissipation and affect gear performance. 
+owever, if they start sounding dry or you notice that some parts of the gears aren’t coated, it’s time to add a little. 
+
+2. The hardware has been upgraded for durability, so stripping the screws is unlikely. You don’t need to retighten screws unless they feel loose; overtightening can actually cause issues.
+
+## Tires
+Running 6-inch or road tires on the Z3 is possible but it goes against the purpose of an all-terrain board.
+You’ll lose some confidence on rougher terrain, especially on wet grass or dirt paths. However, if you’re exclusively on the road,
+knobby tires may wear down faster. Acedeck offer a  new 9-inch upgrade kit is much better suited for versatile terrain.
+
+## Bolts tightening
+The bolts hold more securely now, so you’ll only need to check them once every few rides, maybe every 5–10. 
+
+## Battery
+Store it at room temperature when not in use, ideally at 60% charge if you won’t be riding for a while.
 
 # Troubleshooting
 ## My boards arrow show forward, but the board goes in reverse, when the arrow is in reverse, board goes forward

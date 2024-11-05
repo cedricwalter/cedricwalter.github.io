@@ -44,6 +44,9 @@ Prices for the Nyx Z3 vary depending on the model and battery, starting from abo
 
 {{< youtube XiyIm8nsStg >}}
 
+Review in French
+{{< youtube VAnugYMX-nk >}}
+
 ## Remote control
 There are 27 options. Options 1, 2, 5, 6, 7, and 9 cannot be adjusted or modified without authorization.
 Here is the full options list as they are displayed, with their choices in operation.
@@ -177,6 +180,8 @@ Double click the power button to have them always on or always off.
 There’s no need to add grease early on, as the gears come properly lubricated. 
 Excessive grease can hinder heat dissipation and affect gear performance. 
 owever, if they start sounding dry or you notice that some parts of the gears aren’t coated, it’s time to add a little. 
+
+{{< youtube Ul4zF0FGzlA >}}
 
 2. The hardware has been upgraded for durability, so stripping the screws is unlikely. You don’t need to retighten screws unless they feel loose; overtightening can actually cause issues.
 

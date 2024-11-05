@@ -205,7 +205,7 @@ I made the switch from Plex Media Server to Jellyfin due to its open-source natu
 
 3. Mobile Apps: Jellyfin offers official mobile apps for iOS and Android devices, providing seamless access to your media library on the go.
 
-## Jellyfin Tips and Tricks
+# Jellyfin Tips and Tricks
 1. Activate the unofficial Apple Music plugin
 2. Jellyfin run best in Linux, windows is a joke, windows or macos let you use Backblaze unlimited desktop backup for $75 a year, but linux not.
 3. Hide you real IP behind a DNS proxy using Cloudflare Free
@@ -229,6 +229,48 @@ The Intel NUC n100 can run various operating systems like Windows, Linux, or mac
 The Intel NUC n100 has more expansion options such as additional storage slots, multiple USB ports, and support for various peripherals like monitors, keyboards, and mice. Intel N100 has Quicksync, a hardware decoder for transcoding (up to 6 stream in 1080p concurently)
 
 The Intel NUC n100 consumes more power than a Raspberry Pi 5 because it uses a more powerful processor and has additional features, which might make it less suitable for energy-efficient applications or when using limited power sources. However, the Intel NUC n100 can be more efficient in terms of performance per watt compared to traditional desktop computers due to its compact design and optimized components.
+
+## Cleaning up the Music library once for good
+* Don't use FLAC, it is a RELIGION and science has proven that MP3 320mbps CBR is the same! https://www.reddit.com/r/DJs/comments/sp5981/there_is_no_meaningful_discernible_difference/
+* Use Musicbrain Picard to add meta tags and rename
+* Use MediaHuman Audio converter to convert everything to mp3
+
+## Jellyfin on a laptop: restrict battery to not load over 70%
+If you use a notebook to power your homelab, it is recommended to not let the Li-Ion stays at 100%, 
+
+```bash
+apt install tlp
+vi /etc/tlp.conf
+
+# Battery charge level below which charging will begin. 
+START_CHARGE_THRESH_BAT0=50
+# Battery charge level above which charging will stop.
+STOP_CHARGE_THRESH_BAT0=60
+```
+
+and restart the daemon
+
+```bash
+service tlp stop
+service tlp start
+```
+
+## Using USB and avoiding USB disks to SUSPEND in Ubuntu
+
+```bash
+apt install tlp
+vi /etc/tlp.conf
+
+# set to 0
+USB_AUTOSUSPEND=0
+```
+
+and restart the daemon
+
+```bash
+service tlp stop
+service tlp start
+```
 
 ## Jellyfin permission to write on USB disks
 

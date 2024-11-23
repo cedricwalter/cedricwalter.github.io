@@ -177,8 +177,8 @@ There is enough space to add an Apple Airtag in the ESC box and the battery box.
 # Front lights 
 Included for free in Elite model
 
-![acedeck NXY Z3 front lights 1](/hobbies/acedeck-nyx-z3-front-lights-1.webp) 
-![acedeck NXY Z3 front lights 2](/hobbies/acedeck-nyx-z3-front-lights-2.webp)
+![acedeck NXY Z3 front lights 1](https://www.waltercedric.com/hobbies/acedeck-nyx-z3-front-lights-1.webp) 
+![acedeck NXY Z3 front lights 2](https://www.waltercedric.com/hobbies/acedeck-nyx-z3-front-lights-2.webp)
 
 # Tail lights
 Double click the power button to have them always on or always off.

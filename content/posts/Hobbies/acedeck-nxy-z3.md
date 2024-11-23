@@ -11,7 +11,7 @@ tags:
   - hobbies
 categories:
   - Hobbies
-cover: https://www.waltercedric.com/hobbies/acedeck-nyx-z3--electric-skateboard.webp
+cover: https://www.waltercedric.com/hobbies/acedeck-nyx-z3-poster.webp
 ---
 The AceDeck Nyx Z3 is a high-performance off-road electric skateboard designed for enthusiasts seeking power and durability for rough terrains. It's equipped with advanced features like a gear drive system for optimal torque and control, shock-absorbing channel trucks for smoother rides on uneven surfaces, and all-terrain wheels that can handle dirt, gravel, and grass with ease. The Nyx Z3 also boasts a powerful electronic speed controller (ESC), allowing it to tackle steep inclines and reach a top speed of around 37 mph.
 
@@ -170,6 +170,15 @@ In a 14S6P configuration, you combine both series and parallel setups, resulting
 | ---- | ---- | ---- |
 |Direct Drive	|Quieter + less maintenance + no belt-adjustment/maintenance + easier to roll-carry	| Slightly less torque/brake power + not possible to put AT wheels |
 |Belt Drive	|More customizable to improve torque/top-speed + slightly better overall torque/brakes | Difificult to roll-carry + belt breaks can be hazardous AF (very rare but worth mentioning) + loud |
+
+# Airtags
+There is enough space to add an Apple Airtag in the ESC box and the battery box.
+
+# Front lights 
+Included for free in Elite model
+
+![acedeck NXY Z3 front lights 1](/hobbies/acedeck-nyx-z3-front-lights-1.webp) 
+![acedeck NXY Z3 front lights 2](/hobbies/acedeck-nyx-z3-front-lights-2.webp)
 
 # Tail lights
 Double click the power button to have them always on or always off.

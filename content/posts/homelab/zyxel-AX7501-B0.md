@@ -131,3 +131,18 @@ Zyxel's network devices can not be recommended.
 Their only solution is to adopt the latest OpenWrt and promote automatic warning or update of their firmware.
 
 if only Apple or Synology would again produce fiber router...
+
+
+# Alternative Init7 Fiber 7 1GB / 7-X 10GB
+
+## FritzBox 5590
+https://ch.avm.de/produkte/fritzbox/fritzbox-5590-fiber-xgs-pon/
+
+The Fiber 7 / 1GB works without problems with the 5590 fiber and also with the 5530 fiber. (The SFP module that is also supplied by AVM AON)
+
+The Fiber 7-X 10GB requires a special module, one with an AON connection from FS.COM.
+(Fiber7-X 10 Gbit/s: 10G SFP+ BIDI LR, TX1270/RX1330 nm)
+Order number #74681 www.fs.com/de/products/74681.html and important compatibility “GENERIC”
+
+https://www.fs.com/de/products/123906.html 
+The linked 10 Gbit/s optics from FS should be connected with an LC UPC fiber optic patch cable (blue plug). Such a cable is also available on FS with the order number #123906 (LC UPC to LC APC Simplex OS2 Singlemode) for less than 3 CHF.

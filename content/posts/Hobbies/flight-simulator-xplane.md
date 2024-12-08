@@ -19,25 +19,25 @@ Work in progress, will document here my tips and tricks for Microsoft flight sim
 
 You dont need anything to enjoy Microsoft Flight Simulator 2024, you can play on a XBOX. 
 
-These tips apply if you want to seriously make it close to the reality and want to use it as a tool, you need a personal computer, running Windfows 11.
+These tips apply if you want to seriously make it close to the reality and want to use it as a tool, you need a personal computer, running Windows 11.
 {{< /notice >}}
 
 {{< notice info>}}
 Total Cost of Ownership
 
-625.-   Honeycomb Yoke and flight throttle management, Thrustmaster TPR rudder
-92.-    Microsoft Flight Simulator Aviator Edition 2024
-60.-    Air manager v4 Desktop
-22.-    Air manager v4 iPad
-1942.-  PUMA X A-Style - 5th generation USB Joystick
-2785.-  [Computer](https://www.digitec.ch/en/shoplist/show/CfDJ8HX6w6VPuHtCgkQ86Rt4COp7tq0SAjAwrKdBRcbk5nywh58wh76gFl6766y8X9rS-eYUpQ_SMrIP2RraH4BH9kUemnQGwUcWJRQQOm-y_o3Z4DuQdzXMCJJ7i8jztVVDJg)
+* 625.-   Honeycomb Yoke and flight throttle management, Thrustmaster TPR rudder
+* 92.-    Microsoft Flight Simulator Aviator Edition 2024
+* 60.-    Air manager v4 Desktop
+* 22.-    Air manager v4 iPad
+* 1942.-  PUMA X A-Style - 5th generation USB Joystick
+* 2785.-  [Computer](https://www.digitec.ch/en/shoplist/show/CfDJ8HX6w6VPuHtCgkQ86Rt4COp7tq0SAjAwrKdBRcbk5nywh58wh76gFl6766y8X9rS-eYUpQ_SMrIP2RraH4BH9kUemnQGwUcWJRQQOm-y_o3Z4DuQdzXMCJJ7i8jztVVDJg)
 
 {{< /notice >}}
 
 # Hardware
 You need a Yoke, Rudder and flight throttle management.
 
-## Good hardware
+## Budget hardware
 ### Logitech G Saitek Pro Flight Yoke System
 115.- CHF
 ### Logitech G Saitek Pro Flight Rudder Pedals

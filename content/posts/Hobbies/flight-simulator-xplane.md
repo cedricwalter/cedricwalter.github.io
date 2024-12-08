@@ -14,11 +14,11 @@ categories:
 cover: https://www.waltercedric.com/hobbies/flight/honeycomb-alpha-bravo.webp
 ---
 {{< notice tips>}}
-Work in porgress, will document here my tips and tricks for flight simulator
+Work in progress, will document here my tips and tricks for Microsoft flight simulator 2024 and xPlane 12.
 {{< /notice >}}
 
 # Hardware
-You need a Yoke, Rudder and flight throttle management, you can play on a XBOX but if youre serious and want to use it as a tool, you need a personal computer
+You need a Yoke, Rudder and flight throttle management, you can play on a XBOX but if youre serious and want to use it as a tool, you need a personal computer, running Windfows 11.
 
 ## Good hardware
 ### Logitech G Saitek Pro Flight Yoke System
@@ -29,7 +29,7 @@ You need a Yoke, Rudder and flight throttle management, you can play on a XBOX b
 66.- CHF
 
 ## Premium hardware
-What I am using. Payed 625.- CHF used.
+What I am using. Payed 625.- CHF used (975.- New) and can be resold later for a similar amount.
 
 ### Honeycomb Alpha
 It was designed to meet the requirements of flight simulator users, but also of flight students and pilots. All internal components are manufactured in aviation quality and offer a realistic flight experience with realistic ergonomics. The high quality mechanics offer a realistic full 180° rotation angle for aileron control with a self-centering mechanism without dead zone. In longitudinal direction the steel shaft allows a range of motion of 15 cm. The mechanism is made entirely of metal for durability and the yoke features a switch panel with battery and alternator switch, avionics main switch and light switches. It is equipped with a red LED backlight so that it can be easily operated at night. There is also an ignition switch, as is common on piston engine aircraft. The left handle has two buttons, two 2-way hat switches and a push-to-talk button, while the right handle has two more 2-way hat switches, an 8-way panorama switch and a button. Thanks to a matching bracket, Alpha Flight Controls are compatible with both Honeycomb and Saitek products.

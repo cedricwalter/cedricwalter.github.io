@@ -77,18 +77,22 @@ Stable and precise - Versatile ergonomic design, suitable for all types of fligh
 
 New arounf 450.- CHF (got it for 300.- used)
 
+# Stream Deck XL or +
+There is a lot of free and paid extension for the Stream Deck at https://flightsim.to/others/stream-deck/1
+
+If youre on a budget you can also use a cheap tablet and Touch Portal (Android/iOS)
+https://play.google.com/store/apps/details?id=rils.apps.touchportal&hl=en 
+
 
 # If you have an Ipad
-Reusing an iPad is easy
+Reusing an iPad/Android device is easy. The Samsung Galaxy A9+ 11inch is cheap at 140.- CHF
 
 Print either one of these mount
-* https://www.thingiverse.com/thing:4554130
-* https://makerworld.com/en/models/33439
+* https://www.thingiverse.com/thing:4554130 for iPad Air or any 11 inches tablet
+* https://makerworld.com/en/models/33439 for any iPad/tablet
 
-Install Air Manager on iPad (22€) and connect XPlane or Microsoft Simulator 2024
 
-How to connect:
-Soon...
+Install Air Manager on iPad (22€ iOS, 23 CHF Android) and connect XPlane or Microsoft Simulator 2024
 
 # Computer Software
 You need:
@@ -100,13 +104,26 @@ Nice to Have:
 * Air manager v4 (https://www.siminnovations.com/shop/air-manager-desktop/) let you simulate any panel on a touch screen monitor (USB) or iPad so you can avoid buying costly MFD.
 * The knobster can be build on your own but costs are really close to price asked...
 
+# Microsoft Flight Simulator 2024
+
+## Addons
+https://flightsim.to
+https://flightsim.to/news/add-ons-to-enhance-your-flight-simulator-2024-experience
+
+
 # Mixed Reality
 You can use a free tool to define what will be rendered by the simulator and what not: you keep your physical panels visible!
 
 You need
 - Meta Quest 3
-- OpenKneeBoard (Free)   [OpenKneeboard](https://www.youtube.com/watch?v=oqoEssvvbZo
+- OpenKneeBoard (Free)   [OpenKneeboard](https://openkneeboard.com)
+
+{{< youtube oqoEssvvbZo >}}
 
 # Study materials
 ## Near real-time analysis of general aviation accidents 
 https://www.aopa.org/training-and-safety/air-safety-institute/accident-analysis/richard-g-mcspadden-report
+
+
+# Acessories makers
+https://virpil-controls.eu/

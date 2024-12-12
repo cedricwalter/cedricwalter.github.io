@@ -15,7 +15,7 @@ categories:
 cover: https://www.waltercedric.com/hobbies/flight/honeycomb-alpha-bravo.webp
 ---
 {{< notice tips>}}
-Work in progress, will document here my tips and tricks for Microsoft flight simulator 2024 and xPlane 12.
+Work in progress, will document here my tips and tricks for Microsoft flight simulator 2024 and xPlane 12. Computer simulation is expensive, but it is a tool. If you are ready to do your PPL or PPL(H), money should not be an issue.
 
 You dont need anything to enjoy Microsoft Flight Simulator 2024, you can play on a XBOX. 
 
@@ -29,7 +29,7 @@ Total Cost of Ownership
 * 92.-    Microsoft Flight Simulator Aviator Edition 2024
 * 60.-    Air manager v4 Desktop
 * 22.-    Air manager v4 iPad
-* 1942.-  PUMA X A-Style - 5th generation USB Joystick
+* 1942.-  PUMA X A-Style - 5th generation USB Joystick - ONLY for PPL(H) - best jostick for helicopter training - Optional
 * 2785.-  [Computer](https://www.digitec.ch/en/shoplist/show/CfDJ8HX6w6VPuHtCgkQ86Rt4COp7tq0SAjAwrKdBRcbk5nywh58wh76gFl6766y8X9rS-eYUpQ_SMrIP2RraH4BH9kUemnQGwUcWJRQQOm-y_o3Z4DuQdzXMCJJ7i8jztVVDJg)
 
 {{< /notice >}}
@@ -77,14 +77,14 @@ Stable and precise - Versatile ergonomic design, suitable for all types of fligh
 
 New arounf 450.- CHF (got it for 300.- used)
 
-# Stream Deck XL or +
+## Stream Deck XL or +
 There is a lot of free and paid extension for the Stream Deck at https://flightsim.to/others/stream-deck/1
 
 If youre on a budget you can also use a cheap tablet and Touch Portal (Android/iOS)
 https://play.google.com/store/apps/details?id=rils.apps.touchportal&hl=en 
 
 
-# If you have an Ipad
+## If you have an Ipad
 Reusing an iPad/Android device is easy. The Samsung Galaxy A9+ 11inch is cheap at 140.- CHF
 
 Print either one of these mount
@@ -94,15 +94,35 @@ Print either one of these mount
 
 Install Air Manager on iPad (22€ iOS, 23 CHF Android) and connect XPlane or Microsoft Simulator 2024
 
+## Logitech Flight panels
+The Logitech driver is REALLY bad, only work for microsoft flight simulator 2020, but there is a project Spad.next that work great but require a payment.
+
+* [Switch panel](https://www.logitechg.com/en-ch/products/flight/flight-simulator-switch-panel.html)
+* [Radio panel](https://www.logitechg.com/en-ch/products/flight/flight-simulator-cockpit-radio-panel.html)
+* [Multi panel](https://www.logitechg.com/en-ch/products/flight/flight-simulator-autopilot-multipanel.html)
+
+You can find them used everywhere. The Honeycomb yoke provide already (Switch) and (Multi), the radio panel is nice to have.
+
+## MFD 
+{{< notice tips>}}
+Multifunction display (MFD): Small screen (CRT or LCD) in an aircraft that can be used to display information to the pilot in numerous configurable ways. Often an MFD will be used in concert with a primary flight display.
+{{< /notice >}}
+
+They are really expensive for what it is [MFD panel](https://www.logitechg.com/en-ch/products/flight/flight-simulator-instrument-panel.html), try to grab them second hand!
+
+You can also use a touch panel or monitor and buy Air manager v4 (https://www.siminnovations.com/shop/air-manager-desktop/) to you simulate any panel on a touch screen monitor (USB) or iPad so you can avoid buying costly MFD.
+
+MFD can also be build, a raspberry pi, a 3D printed enclosure and air player
+
+Nice to Have:
+* The knobster can be build on your own but costs are really close to price asked...
+
 # Computer Software
 You need:
 * Somehow a powerful computer, recommended is AMD AM5 7800X3D, Radeon 7900 XTX or Nvidia Geforce RTX 4080
 * Windows 11
 * Microsoft Flight Simulator 2024 and or Xplane 12
 
-Nice to Have:
-* Air manager v4 (https://www.siminnovations.com/shop/air-manager-desktop/) let you simulate any panel on a touch screen monitor (USB) or iPad so you can avoid buying costly MFD.
-* The knobster can be build on your own but costs are really close to price asked...
 
 # Microsoft Flight Simulator 2024
 

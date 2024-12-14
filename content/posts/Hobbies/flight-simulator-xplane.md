@@ -103,6 +103,13 @@ The Logitech driver is REALLY bad, only work for microsoft flight simulator 2020
 
 You can find them used everywhere. The Honeycomb yoke provide already (Switch) and (Multi), the radio panel is nice to have.
 
+
+In Microsoft Flight Simulator 2024, you MUST manualy start the Logitech Plugin.
+It’s noch automatically initialising with the start of MSFS 2024.
+Install the driver https://download01.logi.com/web/ftp/pub/techsupport/simulation/MSFS_Plugin_x64_Software_8.0.313.0.exe and run the exe before starting flight simulator 2024.
+So, if you have the plug-in installed, create a shortcut on the desktop with this adress and the start arguments at the end:
+ “C:\Program Files\Logitech\Microsoft Flight Simulator Plugin\LogiMicrosoftFlightSimulator.exe” --run --force
+
 ## MFD 
 {{< notice tips>}}
 Multifunction display (MFD): Small screen (CRT or LCD) in an aircraft that can be used to display information to the pilot in numerous configurable ways. Often an MFD will be used in concert with a primary flight display.
@@ -123,15 +130,30 @@ You need:
 * Windows 11
 * Microsoft Flight Simulator 2024 and or Xplane 12
 
+# Simulator enviroment dilemna
+## Use real MFD
+Going with physical and expensive hardware MFD
 
-# Microsoft Flight Simulator 2024
+* https://flightsimdiy.com 500.- and up
+* https://www.realsimgear.com  up to 2500.-
+* Thrustmaster MFD panel
+* Logitech MFD panel  (110.- to 170.-)
+* DIY from thingiverse, e.g. https://www.thingiverse.com/thing:5738740
 
-## Addons
-https://flightsim.to
-https://flightsim.to/news/add-ons-to-enhance-your-flight-simulator-2024-experience
+Not really recommended...you loose flexibility.
 
+## Touch display With HDMI
+you may need a lot of HDMI cable and support
 
-# Mixed Reality
+You need to use [Pop Out Panel Manager (Free)](https://flightsim.to/file/35759/msfs-pop-out-panel-manager) or Air Manager V4 
+
+## Touch display with tablet
+Use either 
+* Air Manager v4
+* [simionic ](https://www.simionic.net/wordpress/g1000-apps/) but may be outdated
+
+## Mixed Reality
+The most immersive!
 You can use a free tool to define what will be rendered by the simulator and what not: you keep your physical panels visible!
 
 You need
@@ -140,10 +162,48 @@ You need
 
 {{< youtube oqoEssvvbZo >}}
 
+# X-Plane 12
+
+## Logitech flight panels in X-Plaxe 12 with xsaitekpanels
+an excellent open source project located at https://github.com/sparker256/xsaitekpanels
+Get the binary of the latest release here:
+https://forums.x-plane.org/index.php?/files/file/14646-xsaitekpanels-linwinmac/
+
+Unpack the zip in xplane12/resources/plugins
+
+# Microsoft Flight Simulator 2024
+
+## Logitech flight panels in Microsoft Flight Simulator 2024 with the official drivers for Microsoft Flight Simulator 2020
+Install the old drivers, copy the dll into the new Microsoft Flight Simulator 2024 plugins folder
+
+https://support.logi.com/hc/en-gb/articles/360024848713--Downloads-Flight-Instrument-Panel
+
+## Addons
+https://flightsim.to
+https://flightsim.to/news/add-ons-to-enhance-your-flight-simulator-2024-experience
+
+# VATSIM (Virtual Air Traffic Simulation Network):
+A global online network for flight simulation enthusiasts.
+
+* Allows virtual pilots and air traffic controllers (ATC) to interact in real-time.
+* Pilots use flight simulation software like Microsoft Flight Simulator or X-Plane to fly while VATSIM provides a realistic ATC experience.
+* Controllers on VATSIM use radar simulation software to manage air traffic.
+* Real-world-like ATC communications (via voice or text).
+* A large, active community with events and training opportunities.
+* Free to use.
+https://vatsim.net
+
 # Study materials
 ## Near real-time analysis of general aviation accidents 
 https://www.aopa.org/training-and-safety/air-safety-institute/accident-analysis/richard-g-mcspadden-report
 
 
-# Acessories makers
-https://virpil-controls.eu/
+# Great accessories maker
+
+* https://flyhoneycomb.com
+* https://www.logitechg.com/en-ch/products/flight/
+* https://virpil-controls.eu/
+* https://winwingsim.com/view/
+
+# Forums
+* https://forum.aerosoft.com

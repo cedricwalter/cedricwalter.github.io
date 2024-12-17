@@ -45,6 +45,9 @@ You need a Yoke, Rudder and flight throttle management.
 ### Logitech G Saitek Pro Flight Throttle Quadrant
 66.- CHF
 
+# Medium budget Hardware 
+Virpil or winwing
+
 ## Premium hardware
 What I am using. Payed 625.- CHF used (975.- New) and can be resold later for a similar amount.
 
@@ -53,6 +56,10 @@ It was designed to meet the requirements of flight simulator users, but also of 
 The included driver and configuration software provides individual profile settings for different aircraft and is compatible with Windows and macOS.
 
 New arounf 260.- CHF (got it for 160.- used but like new in the box)    
+
+iPad/Android device mount for the honeycomb
+* https://www.thingiverse.com/thing:4554130 for iPad Air or any 11 inches tablet
+* https://makerworld.com/en/models/33439 for any iPad/tablet
 
 ### Honeycomb Bravo: 
 The thrust lever quadrant allows configurations from the single-engine small aircraft to the four-engine airliner. 
@@ -77,22 +84,12 @@ Stable and precise - Versatile ergonomic design, suitable for all types of fligh
 
 New arounf 450.- CHF (got it for 300.- used)
 
-## Stream Deck XL or +
+## Stream Deck XL or + (optional)
+Allow you to win time by creating shortcuts for preflight, flight.
 There is a lot of free and paid extension for the Stream Deck at https://flightsim.to/others/stream-deck/1
 
 If youre on a budget you can also use a cheap tablet and Touch Portal (Android/iOS)
 https://play.google.com/store/apps/details?id=rils.apps.touchportal&hl=en 
-
-
-## If you have an Ipad
-Reusing an iPad/Android device is easy. The Samsung Galaxy A9+ 11inch is cheap at 140.- CHF
-
-Print either one of these mount
-* https://www.thingiverse.com/thing:4554130 for iPad Air or any 11 inches tablet
-* https://makerworld.com/en/models/33439 for any iPad/tablet
-
-
-Install Air Manager on iPad (22€ iOS, 23 CHF Android) and connect XPlane or Microsoft Simulator 2024
 
 ## Logitech Flight panels
 The Logitech driver is REALLY bad, only work for microsoft flight simulator 2020, but there is a project Spad.next that work great but require a payment.
@@ -103,26 +100,11 @@ The Logitech driver is REALLY bad, only work for microsoft flight simulator 2020
 
 You can find them used everywhere. The Honeycomb yoke provide already (Switch) and (Multi), the radio panel is nice to have.
 
-
 In Microsoft Flight Simulator 2024, you MUST manualy start the Logitech Plugin.
 It’s noch automatically initialising with the start of MSFS 2024.
 Install the driver https://download01.logi.com/web/ftp/pub/techsupport/simulation/MSFS_Plugin_x64_Software_8.0.313.0.exe and run the exe before starting flight simulator 2024.
 So, if you have the plug-in installed, create a shortcut on the desktop with this adress and the start arguments at the end:
  “C:\Program Files\Logitech\Microsoft Flight Simulator Plugin\LogiMicrosoftFlightSimulator.exe” --run --force
-
-## MFD 
-{{< notice tips>}}
-Multifunction display (MFD): Small screen (CRT or LCD) in an aircraft that can be used to display information to the pilot in numerous configurable ways. Often an MFD will be used in concert with a primary flight display.
-{{< /notice >}}
-
-They are really expensive for what it is [MFD panel](https://www.logitechg.com/en-ch/products/flight/flight-simulator-instrument-panel.html), try to grab them second hand!
-
-You can also use a touch panel or monitor and buy Air manager v4 (https://www.siminnovations.com/shop/air-manager-desktop/) to you simulate any panel on a touch screen monitor (USB) or iPad so you can avoid buying costly MFD.
-
-MFD can also be build, a raspberry pi, a 3D printed enclosure and air player
-
-Nice to Have:
-* The knobster can be build on your own but costs are really close to price asked...
 
 # Computer Software
 You need:
@@ -131,16 +113,32 @@ You need:
 * Microsoft Flight Simulator 2024 and or Xplane 12
 
 # Simulator enviroment dilemna
+You can go cheap or crazy expensive really fast.
+
 ## Use real MFD
-Going with physical and expensive hardware MFD
+{{< notice tips>}}
+Multifunction display (MFD): Small screen (CRT or LCD) in an aircraft that can be used to display information to the pilot in numerous configurable ways. Often an MFD will be used in concert with a primary flight display.
+{{< /notice >}}
+
+Going with physical and expensive hardware MFD!
 
 * https://flightsimdiy.com 500.- and up
 * https://www.realsimgear.com  up to 2500.-
 * Thrustmaster MFD panel
-* Logitech MFD panel  (110.- to 170.-)
+* [Logitech MFD panel](https://www.logitechg.com/en-ch/products/flight/flight-simulator-instrument-panel.html), try to grab them second hand!
+  (110.- to 170.-) 
 * DIY from thingiverse, e.g. https://www.thingiverse.com/thing:5738740
 
 Not really recommended...you loose flexibility.
+
+You can also use a touch panel or monitor and buy Air manager v4 (https://www.siminnovations.com/shop/air-manager-desktop/) to you simulate any panel on a touch screen monitor (USB) or iPad so you can avoid buying costly MFD.
+
+MFD can also be build, a raspberry pi, a 3D printed enclosure and linux air player 
+
+Install Air Manager on iPad (22€ iOS, 23 CHF Android) and connect XPlane or Microsoft Simulator 2024
+
+Nice to Have:
+* The knobster can be build on your own but costs are really close to price asked...
 
 ## Touch display With HDMI
 you may need a lot of HDMI cable and support
@@ -165,7 +163,7 @@ You need
 # X-Plane 12
 
 ## Logitech flight panels in X-Plaxe 12 with xsaitekpanels
-an excellent open source project located at https://github.com/sparker256/xsaitekpanels
+An excellent open source project located at https://github.com/sparker256/xsaitekpanels
 Get the binary of the latest release here:
 https://forums.x-plane.org/index.php?/files/file/14646-xsaitekpanels-linwinmac/
 

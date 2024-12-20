@@ -92,19 +92,21 @@ If youre on a budget you can also use a cheap tablet and Touch Portal (Android/i
 https://play.google.com/store/apps/details?id=rils.apps.touchportal&hl=en 
 
 ## Logitech Flight panels
-The Logitech driver is REALLY bad, only work for microsoft flight simulator 2020, but there is a project Spad.next that work great but require a payment.
+Saitek has been bought by Logitech, and they have nice panels:
 
 * [Switch panel](https://www.logitechg.com/en-ch/products/flight/flight-simulator-switch-panel.html)
 * [Radio panel](https://www.logitechg.com/en-ch/products/flight/flight-simulator-cockpit-radio-panel.html)
 * [Multi panel](https://www.logitechg.com/en-ch/products/flight/flight-simulator-autopilot-multipanel.html)
 
-You can find them used everywhere. The Honeycomb yoke provide already (Switch) and (Multi), the radio panel is nice to have.
+You can find them used everywhere. The Honeycomb yoke provide already (Switch) and (Multi), the radio panel is a "nice to have".
 
 In Microsoft Flight Simulator 2024, you MUST manualy start the Logitech Plugin.
 It’s noch automatically initialising with the start of MSFS 2024.
 Install the driver https://download01.logi.com/web/ftp/pub/techsupport/simulation/MSFS_Plugin_x64_Software_8.0.313.0.exe and run the exe before starting flight simulator 2024.
 So, if you have the plug-in installed, create a shortcut on the desktop with this adress and the start arguments at the end:
  “C:\Program Files\Logitech\Microsoft Flight Simulator Plugin\LogiMicrosoftFlightSimulator.exe” --run --force
+
+The Logitech driver has not been updated for Microsoft Flight Simulator 2024 yet, and is limited. There is a project Spad.next that let you customize all buttons and switches, work great but require a one time payment.
 
 # Computer Software
 You need:
@@ -116,11 +118,13 @@ You need:
 You can go cheap or crazy expensive really fast.
 
 ## Use real MFD
+Going with physical and expensive hardware MFD!
+
 {{< notice tips>}}
 Multifunction display (MFD): Small screen (CRT or LCD) in an aircraft that can be used to display information to the pilot in numerous configurable ways. Often an MFD will be used in concert with a primary flight display.
 {{< /notice >}}
 
-Going with physical and expensive hardware MFD!
+Some MFD examples:
 
 * https://flightsimdiy.com 500.- and up
 * https://www.realsimgear.com  up to 2500.-
@@ -128,12 +132,10 @@ Going with physical and expensive hardware MFD!
 * [Logitech MFD panel](https://www.logitechg.com/en-ch/products/flight/flight-simulator-instrument-panel.html), try to grab them second hand!
   (110.- to 170.-) 
 * DIY from thingiverse, e.g. https://www.thingiverse.com/thing:5738740
+* MFD can also be build, a raspberry pi, a 3D printed enclosure and linux air player 
 
-Not really recommended...you loose flexibility.
 
-You can also use a touch panel or monitor and buy Air manager v4 (https://www.siminnovations.com/shop/air-manager-desktop/) to you simulate any panel on a touch screen monitor (USB) or iPad so you can avoid buying costly MFD.
-
-MFD can also be build, a raspberry pi, a 3D printed enclosure and linux air player 
+Recommended is to use a touch panel or monitor and buy Air manager v4 (https://www.siminnovations.com/shop/air-manager-desktop/) to you simulate any panel on a touch screen monitor (USB) or iPad so you can avoid buying costly MFD.
 
 Install Air Manager on iPad (22€ iOS, 23 CHF Android) and connect XPlane or Microsoft Simulator 2024
 
@@ -141,7 +143,7 @@ Nice to Have:
 * The knobster can be build on your own but costs are really close to price asked...
 
 ## Touch display With HDMI
-you may need a lot of HDMI cable and support
+you may need a lot of HDMI cable and support (commercial MFD use USB port instead).
 
 You need to use [Pop Out Panel Manager (Free)](https://flightsim.to/file/35759/msfs-pop-out-panel-manager) or Air Manager V4 
 

@@ -1,5 +1,5 @@
 ---
-title: "Flight Simulator"
+title: "Flight Simulator and Private Pilot License (PPL) training"
 summary: "a work in progress, what I use to progress faster for my PPL and fly safer."
 type: posts
 date: 2024-12-08T09:11:52+01:00
@@ -15,7 +15,9 @@ categories:
 cover: https://www.waltercedric.com/hobbies/flight/honeycomb-alpha-bravo.webp
 ---
 {{< notice tips>}}
-Work in progress, will document here my tips and tricks for Microsoft flight simulator 2024 and xPlane 12. Computer simulation is expensive, but it is a tool. If you are ready to do your PPL or PPL(H), money should not be an issue.
+Work in progress, will document here my tips and tricks for Microsoft flight simulator 2024 and xPlane 12. 
+
+Computer simulation is cheap or can be expensive, but it is a tool. If you are ready to do your PPL or PPL(H), money should not be an issue.
 
 You dont need anything to enjoy Microsoft Flight Simulator 2024, you can play on a XBOX. 
 

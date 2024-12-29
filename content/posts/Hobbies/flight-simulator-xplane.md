@@ -136,13 +136,17 @@ Some MFD examples:
 * DIY from thingiverse, e.g. https://www.thingiverse.com/thing:5738740
 * MFD can also be build, a raspberry pi, a 3D printed enclosure and linux air player 
 
-
 Recommended is to use a touch panel or monitor and buy Air manager v4 (https://www.siminnovations.com/shop/air-manager-desktop/) to you simulate any panel on a touch screen monitor (USB) or iPad so you can avoid buying costly MFD.
 
 Install Air Manager on iPad (22€ iOS, 23 CHF Android) and connect XPlane or Microsoft Simulator 2024
 
-Nice to Have:
-* The knobster can be build on your own but costs are really close to price asked...
+## Knobster (nice to have)
+Allows you to control every wheel and button of your flight simulation software like Air Manager or Air Player Cockpit Panel,
+also works in VR with knobXP for xplane or knobFS for Microsoft flight simulator
+
+https://siminnovations.com/wiki/index.php?title=KnobFS
+
+The knobster can be build on your own but costs are really close to price asked...
 
 ## Touch display With HDMI
 you may need a lot of HDMI cable and support (commercial MFD use USB port instead).
@@ -162,7 +166,31 @@ You need
 - Meta Quest 3
 - OpenKneeBoard (Free)   [OpenKneeboard](https://openkneeboard.com)
 
+Quest 3 and RTX 4080 super. I have been experimenting with Virtual Desktop and Airlink.
+ I can run the game at a very high resolution over 3000 pixel per eye. 200 LOD in Terrain details
+  and 140 LOD in object details. Trees in Low and the rest is medium and some high and Ultra texture. 
+  It runs fine and overall is sharp. I have to use ASW and DLSS Quality.
+It runs smoother in Virtual Destkop BUT not as sharp.
+With arilink, is the opposite. Feels not as smooth but could keep up at 36 fps with 72 Hz refresh rate.
+ The color, contrast, and sharpness are better with Airlink.
+My main issue with the EFB. Is only functional if your planes have the actual EFB holder. 
+Even that, the texts are blurry because they are too smooth. I could barely make changes on my
+ flight plan with it WHILE flying at the same time. Some planes I have to pause it and making changes to it outside of VR.
+
+
 {{< youtube oqoEssvvbZo >}}
+
+# Beyond ATC ???
+
+# tablet
+A tablet can be really handy, but I think its best use is for charts, which you can load up from a second screen's browser using Microsoft's official 
+flight planner (https://planner.flightsimulator.com/) or the free repository at chartfox.org
+
+# Eye tracker
+You can just setup a tracker system for free with an android phone, droidcam phone app and windows app, trackAl on pc, and also openTrack. Works great.
+
+
+
 
 # X-Plane 12
 
@@ -183,6 +211,21 @@ https://support.logi.com/hc/en-gb/articles/360024848713--Downloads-Flight-Instru
 ## Addons
 https://flightsim.to
 https://flightsim.to/news/add-ons-to-enhance-your-flight-simulator-2024-experience
+
+Christmas extemsion https://orbxdirect.com/product/santa-run-2024
+
+https://fslivetrafficliveries.com
+
+https://vpilot.rosscarlson.dev 
+
+
+If you're flying small planes in France and want to fly patterns realistically you will know that MSFS doesn't always give you valid landing instructions.
+In France every aerodrome has a VAC (Visual
+Approach Chart), which is published for free and are easy to find online.
+luse a mobile app usually called IVAC https://.play.google.com/store/apps/details?id=fr.julienroze.ivac
+... But there are lots of lists of them online also, eg
+https://www.aero-hesbaye.be/vac/vac_fr.htm
+
 
 # VATSIM (Virtual Air Traffic Simulation Network):
 A global online network for flight simulation enthusiasts.

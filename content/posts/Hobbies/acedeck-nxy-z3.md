@@ -128,6 +128,11 @@ Acedeck recommends MBS bindings https://www.mbs.com/parts/14051-mbs-f5-bindings-
 
 {{< youtube GQa9NrDx0mSRGdHQ >}}
 
+## 3rd Party mods
+
+* 9 inch MUD-PLUGGER Tyre https://trampaboards.com/trampa-mudplugger-9-inch-p-27393.html
+* Ratcheting Toe-clips https://tomiboiesk8.com/ratcheting-toe-clips/
+
 ## Product Page
 https://acedeckboards.com/products/nyx-z3
 

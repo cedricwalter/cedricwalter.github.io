@@ -177,10 +177,16 @@ My main issue with the EFB. Is only functional if your planes have the actual EF
 Even that, the texts are blurry because they are too smooth. I could barely make changes on my
  flight plan with it WHILE flying at the same time. Some planes I have to pause it and making changes to it outside of VR.
 
-
 {{< youtube oqoEssvvbZo >}}
 
-# Beyond ATC ???
+# Beyond ATC
+BeyondATC is an advanced air traffic control (ATC) add-on for Microsoft Flight Simulator, designed to enhance the virtual flying experience by providing more realistic and immersive ATC interactions. Leveraging cutting-edge AI technology, it offers features such as:
+
+* Ultra-Realistic AI Voices: Over 250 voices with regional accents from almost every country, enhancing the authenticity of communications. 
+* Support for IFR and VFR Flights: Accommodates both Instrument Flight Rules (IFR) and Visual Flight Rules (VFR) operations, catering to various flying preferences. 
+* FAA and ICAO Phraseology: Incorporates realistic phraseology developed with real air traffic controllers worldwide, ensuring authentic communication standards. 
+* Full SimBrief Integration: Seamless integration with SimBrief allows for streamlined flight planning and execution. 
+* AI Traffic Control: Manages AI traffic, providing instructions to both the user and AI-controlled aircraft, contributing to a dynamic and realistic airspace environment.
 
 # tablet
 A tablet can be really handy, but I think its best use is for charts, which you can load up from a second screen's browser using Microsoft's official 
@@ -189,10 +195,8 @@ flight planner (https://planner.flightsimulator.com/) or the free repository at 
 # Eye tracker
 You can just setup a tracker system for free with an android phone, droidcam phone app and windows app, trackAl on pc, and also openTrack. Works great.
 
-
-
-
 # X-Plane 12
+X-Plane 12 is the latest version of the X-Plane flight simulation software, developed by Laminar Research. It is a highly realistic and advanced flight simulator aimed at aviation enthusiasts, flight training, and professional pilots. X-Plane is known for its detailed physics engine, realistic aircraft behavior, and support for a wide range of hardware and plugins. Work on Windows/macOS/Linux.
 
 ## Logitech flight panels in X-Plaxe 12 with xsaitekpanels
 An excellent open source project located at https://github.com/sparker256/xsaitekpanels
@@ -202,22 +206,19 @@ https://forums.x-plane.org/index.php?/files/file/14646-xsaitekpanels-linwinmac/
 Unpack the zip in xplane12/resources/plugins
 
 # Microsoft Flight Simulator 2024
+Microsoft Flight Simulator 2024 is the next-generation installment in the Microsoft Flight Simulator series, developed by Asobo Studio and published by Microsoft. It builds on the success of Microsoft Flight Simulator 2020 by introducing enhanced features, new gameplay elements, and expanded realism for virtual aviation enthusiasts. Work on Windows/Xbox only.
 
 ## Logitech flight panels in Microsoft Flight Simulator 2024 with the official drivers for Microsoft Flight Simulator 2020
 Install the old drivers, copy the dll into the new Microsoft Flight Simulator 2024 plugins folder
-
 https://support.logi.com/hc/en-gb/articles/360024848713--Downloads-Flight-Instrument-Panel
 
 ## Addons
-https://flightsim.to
-https://flightsim.to/news/add-ons-to-enhance-your-flight-simulator-2024-experience
 
-Christmas extemsion https://orbxdirect.com/product/santa-run-2024
-
-https://fslivetrafficliveries.com
-
-https://vpilot.rosscarlson.dev 
-
+* https://flightsim.to
+* https://flightsim.to/news/add-ons-to-enhance-your-flight-simulator-2024-experience
+* Christmas extemsion https://orbxdirect.com/product/santa-run-2024
+* https://fslivetrafficliveries.com
+* https://vpilot.rosscarlson.dev 
 
 If you're flying small planes in France and want to fly patterns realistically you will know that MSFS doesn't always give you valid landing instructions.
 In France every aerodrome has a VAC (Visual
@@ -225,7 +226,6 @@ Approach Chart), which is published for free and are easy to find online.
 luse a mobile app usually called IVAC https://.play.google.com/store/apps/details?id=fr.julienroze.ivac
 ... But there are lots of lists of them online also, eg
 https://www.aero-hesbaye.be/vac/vac_fr.htm
-
 
 # VATSIM (Virtual Air Traffic Simulation Network):
 A global online network for flight simulation enthusiasts.
@@ -242,9 +242,7 @@ https://vatsim.net
 ## Near real-time analysis of general aviation accidents 
 https://www.aopa.org/training-and-safety/air-safety-institute/accident-analysis/richard-g-mcspadden-report
 
-
 # Great accessories maker
-
 * https://flyhoneycomb.com
 * https://www.logitechg.com/en-ch/products/flight/
 * https://virpil-controls.eu/

@@ -152,6 +152,14 @@ https://siminnovations.com/wiki/index.php?title=KnobFS
 
 The knobster can be build on your own but costs are really close to price asked...
 
+## Motion platform (really nice to have)
+{{< notice tips>}}
+Motions platform deliver all six axes of movements: heave, roll, pitch, surge, sway, and yaw. it will never be able to smulate G
+{{< /notice >}}
+
+* Qubic System QS-S25 https://qubicsystem.com/product/qs-s25/  30k CHF 460kg!
+* DoF Reality P6 Pro https://dofreality.com/product/racing/motion-racing-rig-6-axis-pro-p6/   8000.- CHF 
+
 ## Touch display With HDMI
 you may need a lot of HDMI cable and support (commercial MFD use USB port instead).
 
@@ -214,12 +222,12 @@ Unpack the zip in xplane12/resources/plugins
 # Microsoft Flight Simulator 2024
 Microsoft Flight Simulator 2024 is the next-generation installment in the Microsoft Flight Simulator series, developed by Asobo Studio and published by Microsoft. It builds on the success of Microsoft Flight Simulator 2020 by introducing enhanced features, new gameplay elements, and expanded realism for virtual aviation enthusiasts. Work on Windows/Xbox only.
 
-## Logitech flight panels in Microsoft Flight Simulator 2024 with the official drivers for Microsoft Flight Simulator 2020
+## Logitech flight panels in Microsoft Flight Simulator 2024 
+You can use the official drivers for Microsoft Flight Simulator 2020 in 2024!
 Install the old drivers, copy the dll into the new Microsoft Flight Simulator 2024 plugins folder
 https://support.logi.com/hc/en-gb/articles/360024848713--Downloads-Flight-Instrument-Panel
 
 ## Addons
-
 * https://flightsim.to
 * https://flightsim.to/news/add-ons-to-enhance-your-flight-simulator-2024-experience
 * Christmas extemsion https://orbxdirect.com/product/santa-run-2024

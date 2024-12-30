@@ -31,6 +31,8 @@ Total Cost of Ownership
 * 92.-    Microsoft Flight Simulator Aviator Edition 2024
 * 60.-    Air manager v4 Desktop
 * 22.-    Air manager v4 iPad
+* 869.-   Next Level Racing® Flight Seat Pro
+* 649.-   Next Level Racing® Flight Stand Pro
 * 1942.-  PUMA X A-Style - 5th generation USB Joystick - ONLY for PPL(H) - best jostick for helicopter training - Optional
 * 2785.-  [Computer](https://www.digitec.ch/en/shoplist/show/CfDJ8HX6w6VPuHtCgkQ86Rt4COp7tq0SAjAwrKdBRcbk5nywh58wh76gFl6766y8X9rS-eYUpQ_SMrIP2RraH4BH9kUemnQGwUcWJRQQOm-y_o3Z4DuQdzXMCJJ7i8jztVVDJg)
 
@@ -64,6 +66,8 @@ iPad/Android device mount for the honeycomb
 * https://makerworld.com/en/models/33439 for any iPad/tablet
 
 ### Honeycomb Bravo: 
+![Honeycomb Bravo Alpha](https://www.waltercedric.com/hobbies/flight/honeycomb-alpha-bravo.webp)
+
 The thrust lever quadrant allows configurations from the single-engine small aircraft to the four-engine airliner. 
 
 It supports various cockpit systems such as autopilot, annunciator panel, landing gear switch, flaps and trim. 

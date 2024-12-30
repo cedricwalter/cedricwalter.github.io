@@ -12,7 +12,7 @@ tags:
   - computer-simulator
 categories:
   - Hobbies
-cover: https://www.waltercedric.com/hobbies/flight/honeycomb-alpha-bravo.webp
+cover: https://www.waltercedric.com/hobbies/flight/Next-Level-Racing-Flight-Seat-Pro-fully-loaded.webp
 ---
 {{< notice tips>}}
 Work in progress, will document here my tips and tricks for Microsoft flight simulator 2024 and xPlane 12. 
@@ -197,6 +197,8 @@ You can just setup a tracker system for free with an android phone, droidcam pho
 
 # X-Plane 12
 X-Plane 12 is the latest version of the X-Plane flight simulation software, developed by Laminar Research. It is a highly realistic and advanced flight simulator aimed at aviation enthusiasts, flight training, and professional pilots. X-Plane is known for its detailed physics engine, realistic aircraft behavior, and support for a wide range of hardware and plugins. Work on Windows/macOS/Linux.
+
+{{< youtube U7bZmCCEQPM >}}
 
 ## Logitech flight panels in X-Plaxe 12 with xsaitekpanels
 An excellent open source project located at https://github.com/sparker256/xsaitekpanels

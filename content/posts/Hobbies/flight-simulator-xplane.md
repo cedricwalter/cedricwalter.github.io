@@ -215,6 +215,12 @@ X-Plane 12 is the latest version of the X-Plane flight simulation software, deve
 
 {{< youtube U7bZmCCEQPM >}}
 
+## Guimbal Cabri G2 helicopter in X-Plane 12
+The VSKYLABS helicopters development and testing process are using the [Pro Flight Trainer Puma X](https://www.pro-flight-trainer.com/) flight controls system as the main and standard-hardware equipment for development and testing in X-Plane by LR. 
+An installation and setup guide, including detailed X-Plane settings recommendations for each one of the VSKYLABS helicopters is on the making, and it will be posted in each helicopter product page as well as in the VSKYLABS Support forums.
+
+https://www.vskylabs.com/p/vskylabs-cabri-g2/
+
 ## Logitech flight panels in X-Plaxe 12 with xsaitekpanels
 An excellent open source project located at https://github.com/sparker256/xsaitekpanels
 Get the binary of the latest release here:

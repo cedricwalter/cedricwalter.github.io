@@ -200,14 +200,17 @@ BeyondATC is an advanced air traffic control (ATC) add-on for Microsoft Flight S
 * Full SimBrief Integration: Seamless integration with SimBrief allows for streamlined flight planning and execution. 
 * AI Traffic Control: Manages AI traffic, providing instructions to both the user and AI-controlled aircraft, contributing to a dynamic and realistic airspace environment.
 
-# tablet
-A tablet can be really handy, but I think its best use is for charts, which you can load up from a second screen's browser using Microsoft's official 
-flight planner (https://planner.flightsimulator.com/) or the free repository at chartfox.org
+# Tablet
+A tablet can be really handy, but I think its best use is for charts, which you can load up from a second screen's browser using [Microsoft's Xbox only official flight planner](https://planner.flightsimulator.com) or the free repository at [chartfox.org](https://chartfox.org)
 
 # Eye tracker
 You can just setup a tracker system for free with an android phone, droidcam phone app and windows app, trackAl on pc, and also openTrack. Works great.
 
 # X-Plane 12
+{{< notice tips>}}
+X-Plane 12 is the MOST realistic simulator, and the pro version is FAA certified.
+{{< /notice >}}
+
 X-Plane 12 is the latest version of the X-Plane flight simulation software, developed by Laminar Research. It is a highly realistic and advanced flight simulator aimed at aviation enthusiasts, flight training, and professional pilots. X-Plane is known for its detailed physics engine, realistic aircraft behavior, and support for a wide range of hardware and plugins. Work on Windows/macOS/Linux.
 
 {{< youtube U7bZmCCEQPM >}}
@@ -220,6 +223,11 @@ https://forums.x-plane.org/index.php?/files/file/14646-xsaitekpanels-linwinmac/
 Unpack the zip in xplane12/resources/plugins
 
 # Microsoft Flight Simulator 2024
+{{< notice warning>}}
+## Dont buy it for now
+Microsoft Flight Simulator 2024 is looking great but really buggy and not recommended before end of 2025. The career mode is broken.
+{{< /notice >}}
+
 Microsoft Flight Simulator 2024 is the next-generation installment in the Microsoft Flight Simulator series, developed by Asobo Studio and published by Microsoft. It builds on the success of Microsoft Flight Simulator 2020 by introducing enhanced features, new gameplay elements, and expanded realism for virtual aviation enthusiasts. Work on Windows/Xbox only.
 
 ## Logitech flight panels in Microsoft Flight Simulator 2024 

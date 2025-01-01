@@ -14,35 +14,44 @@ categories:
   - Hobbies
 cover: https://www.waltercedric.com/hobbies/flight/Next-Level-Racing-Flight-Seat-Pro-fully-loaded.webp
 ---
-{{< notice tips>}}
+{{< notice warning>}}
 Work in progress, will document here my tips and tricks for Microsoft flight simulator 2024 and xPlane 12. 
-
 Computer simulation is cheap or can be expensive, but it is a tool. If you are ready to do your PPL or PPL(H), money should not be an issue.
+{{< /notice >}}
 
+{{< notice tips>}}
 You dont need anything to enjoy Microsoft Flight Simulator 2024, you can play on a XBOX. 
-
 These tips apply if you want to seriously make it close to the reality and want to use it as a tool, you need a personal computer, running Windows 11.
 {{< /notice >}}
 
-{{< notice info>}}
-Total Cost of Ownership
+# Total Cost of Ownership
 
+## Hardware
 * 625.-   Honeycomb Yoke and flight throttle management, Thrustmaster TPR rudder
-* 92.-    Microsoft Flight Simulator Aviator Edition 2024
-* 60.-    Air manager v4 Desktop
-* 22.-    Air manager v4 iPad
-* 869.-   Next Level Racing® Flight Seat Pro
-* 649.-   Next Level Racing® Flight Stand Pro
-* 1942.-  PUMA X A-Style - 5th generation USB Joystick - ONLY for PPL(H) - best jostick for helicopter training - Optional
+* 869.-   Next Level Racing® Flight Seat Pro - **Optional**
+* 649.-   Next Level Racing® Flight Stand Pro - **Optional**
+* 1942.-  PUMA X A-Style - 5th generation USB Joystick - ONLY for PPL(H) - best jostick for helicopter training - **Optional**
 * 2785.-  [Computer](https://www.digitec.ch/en/shoplist/show/CfDJ8HX6w6VPuHtCgkQ86Rt4COp7tq0SAjAwrKdBRcbk5nywh58wh76gFl6766y8X9rS-eYUpQ_SMrIP2RraH4BH9kUemnQGwUcWJRQQOm-y_o3Z4DuQdzXMCJJ7i8jztVVDJg)
 
-{{< /notice >}}
+## Software
+* 52.-    Microsoft Flight Simulator Aviator Edition 2024 - **Microsoft discount**
+* 60.-    Air manager v4 Desktop - **Optional**
+* 22.-    Air manager v4 iPad - **Optional**
+* 53.-    X-Plane 12
+* 14.50.- Guimbal Cabri G2 helicopter model - **Optional**
 
-# Hardware
+# Hardware choice
+
 You need a Yoke, Rudder and flight throttle management.
 
+| Yoke   |      Product      |  Price |
+|----------|:-------------:|------:|
+| Turtle beach VélocityOne Flight Control System  |  ![Turtle beach VélocityOne Flight Control System](https://www.waltercedric.com/hobbies/flight/Turtle-Beach-VelocityOne-Flight-Universal-Control-System.webp) | 360.- CHF|
+| Logitech G Saitek Pro Flight Yoke System |    xxx   |   $115 |
+| Honeycomb Alpha | ![Honeycomb Bravo Alpha](https://www.waltercedric.com/hobbies/flight/honeycomb-alpha-bravo.webp) |    $260 |
+
 ## Budget hardware
-### Logitech G Saitek Pro Flight Yoke System
+### 
 115.- CHF
 ### Logitech G Saitek Pro Flight Rudder Pedals
 131.- CHF

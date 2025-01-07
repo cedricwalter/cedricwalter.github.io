@@ -3,6 +3,7 @@ title: "Dans la cuisine"
 summary: "Mon journal de bord de mes expérimentation en cuisine"
 type: posts
 date: 2025-01-06T09:11:52+01:00
+cover: https://www.waltercedric.com/2023/08/Lactofermentation-scaled.webp
 tags:
   - DIY
 categories:

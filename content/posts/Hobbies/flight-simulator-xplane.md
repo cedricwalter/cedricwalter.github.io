@@ -28,7 +28,7 @@ These tips apply if you want to seriously make it close to the reality and want 
 
 ## Hardware
 * 625.-   Honeycomb Yoke and flight throttle management, Thrustmaster TPR rudder
-* 869.-   Next Level Racing® Flight Seat Pro - **Optional**
+* 589.-   Next Level Racing® Flight Seat Pro - **Optional**
 * 649.-   Next Level Racing® Flight Stand Pro - **Optional**
 * 1942.-  PUMA X A-Style - 5th generation USB Joystick - ONLY for PPL(H) - best jostick for helicopter training - **Optional**
 * 2785.-  [Computer](https://www.digitec.ch/en/shoplist/show/CfDJ8HX6w6VPuHtCgkQ86Rt4COp7tq0SAjAwrKdBRcbk5nywh58wh76gFl6766y8X9rS-eYUpQ_SMrIP2RraH4BH9kUemnQGwUcWJRQQOm-y_o3Z4DuQdzXMCJJ7i8jztVVDJg)
@@ -155,7 +155,7 @@ You can use a free tool to define what will be rendered by the simulator and wha
 
 You need
 - Meta Quest 3
-- OpenKneeBoard (Free)   [OpenKneeboard](https://openkneeboard.com)
+- [OpenKneeboard (Free)](https://openkneeboard.com) or https://flightsim.to/file/64739/color-panel-for-vr-passthrough
 
 Quest 3 and RTX 4080 super. I have been experimenting with Virtual Desktop and Airlink.
  I can run the game at a very high resolution over 3000 pixel per eye. 200 LOD in Terrain details
@@ -260,9 +260,20 @@ A global online network for flight simulation enthusiasts.
 * Free to use.
 https://vatsim.net
 
+# Vibrations
+
+For example, the buttkicker https://thebuttkicker.com
+of you DIY, You just need a transducer, a cheap amp, some cables and maybe a usb sound card. Plug everything together and run the [simshaker](https://simshaker-for-aviators.github.io/SimShaker-for-Aviators-Releases/) software. 
+
+https://forums.mudspike.com/t/feedback-for-flight-simulation-2020/10886
+
 # Study materials
 ## Near real-time analysis of general aviation accidents 
-https://www.aopa.org/training-and-safety/air-safety-institute/accident-analysis/richard-g-mcspadden-report
+* https://www.aopa.org/training-and-safety/air-safety-institute/accident-analysis/richard-g-mcspadden-report
+* https://asn.flightsafety.org/
+
+## Motor failure after takeoff
+* https://pilotinstitute.com/the-impossible-turn-engine-failure-after-takeoff/
 
 # Great accessories maker
 * https://flyhoneycomb.com
@@ -272,3 +283,6 @@ https://www.aopa.org/training-and-safety/air-safety-institute/accident-analysis/
 
 # Forums
 * https://forum.aerosoft.com
+
+# FAQ
+* https://www.reddit.com/r/MicrosoftFlightSim/wiki/faq/ 

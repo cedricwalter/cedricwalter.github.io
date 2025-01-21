@@ -128,6 +128,43 @@ Acedeck recommends MBS bindings https://www.mbs.com/parts/14051-mbs-f5-bindings-
 
 {{< youtube GQa9NrDx0mSRGdHQ >}}
 
+In skateboarding, the terms **goofy** and **regular** refer to the stance you use when riding your skateboard. The difference lies in which foot you place forward on the board and which foot you use for pushing or balancing.
+
+---
+
+### **1. Regular Stance**
+- **Front Foot:** Left foot is placed on the board near the front trucks.  
+- **Back Foot:** Right foot is used for pushing and controlling the tail of the board.  
+- This stance is more common and feels natural for many people.
+
+---
+
+### **2. Goofy Stance**
+- **Front Foot:** Right foot is placed on the board near the front trucks.  
+- **Back Foot:** Left foot is used for pushing and controlling the tail of the board.  
+- This stance feels natural to some, even though it's less common.
+
+---
+
+### **How to Determine Your Stance**
+If you're unsure about your stance, try these methods:
+
+1. **Sliding Test:**  
+   - Run and slide on a slippery floor in socks.  
+   - The foot you instinctively place forward to balance is likely your front foot for skateboarding.
+
+2. **Push Test:**  
+   - Stand on a skateboard and let someone gently push you.  
+   - The foot you instinctively place forward to catch your balance is your front foot.
+
+3. **Comfort Test:**  
+   - Stand in both stances on your skateboard and see which feels more natural.
+
+---
+
+### **Switch Stance**
+- Learning to skate in the opposite stance (e.g., skating goofy if you're regular) is called **switch skating**. It’s an advanced skill that improves versatility and board control.
+
 ## 3rd Party mods
 
 * 9 inch MUD-PLUGGER Tyre https://trampaboards.com/trampa-mudplugger-9-inch-p-27393.html

@@ -270,10 +270,16 @@ https://vatsim.net
 
 # Vibrations
 
-For example, the buttkicker https://thebuttkicker.com
-of you DIY, You just need a transducer, a cheap amp, some cables and maybe a usb sound card. Plug everything together and run the [simshaker](https://simshaker-for-aviators.github.io/SimShaker-for-Aviators-Releases/) software. 
+## Do It Yourself
+You just need a cheap transducer (e.g. https://www.amazon.it/Rockwood-Bodyshaker/dp/B002LQAHPE), a cheap amplifier (e.g. https://www.amazon.com/gp/aw/d/B06Y67PZB1), some cables and maybe a usb sound card. 
+Plug everything together and run the 
+[simshaker](https://simshaker-for-aviators.github.io/SimShaker-for-Aviators-Releases/) software
+or https://github.com/SHWotever/SimHub/wiki/Shake-It-for-bass-shakers (Car)
 
 https://forums.mudspike.com/t/feedback-for-flight-simulation-2020/10886
+
+## ButtKicker
+You can install the buttkicker https://thebuttkicker.com but it can cost up to 1000.- CHF
 
 # Glas cockpit
 A **glass cockpit** is a modern aircraft cockpit that replaces traditional analog gauges and dials with electronic displays, typically LCD or LED screens. These displays show flight information such as altitude, airspeed, heading, and navigation data. The **Garmin G1000** is one of the most popular glass cockpit systems, widely used in general aviation, training aircraft, and some business jets.

@@ -14,6 +14,10 @@ tags:
 mermaid: true
 ---
 
+{{< notice tips>}}
+Pirating content for personal use is legal in Switzerland due to its copyright laws, which allow individuals to download and use copyrighted material for private, non-commercial purposes (you pay a premium tax on storage devide for that!). This is based on the principle of personal use under Swiss law, and no penalties are imposed for such actions. However, uploading or sharing copyrighted material, as well as distributing pirated content, remains illegal.
+{{< /notice >}}
+
 ## Automation Architecture
 {{<mermaidjs>}}
 %%{
@@ -384,6 +388,34 @@ find "$1" -type f | while read -r file; do
 done
 ```
 run with `./dup.sh /media/paths`
+
+# Return on investment: real streaming costs
+
+{{< notice tips>}}
+Pirating content for personal use is legal in Switzerland due to its copyright laws, which allow individuals to download and use copyrighted material for private, non-commercial purposes (you pay a premium tax on storage devide for that!). This is based on the principle of personal use under Swiss law, and no penalties are imposed for such actions. However, uploading or sharing copyrighted material, as well as distributing pirated content, remains illegal.
+
+But support artists you really like and go to the cinema!
+{{< /notice >}}
+
+Here's a general table listing popular video and music streaming providers along with their approximate prices in Switzerland. Prices may vary based on subscriptions or promotions, so I recommend verifying with the respective service provider for precise amounts.
+
+| **Provider**             | **Price in Switzerland (CHF) in January 2025**           |
+|---------------------------|------------------------------------------|
+| **Video Streaming**      |                                          |
+| Netflix                  | ~11.90 to 24.90 (Basic to Premium)       |
+| Disney+                  | ~12.90/month                             |
+| Amazon Prime Video       | ~6.99/month                              |
+| Apple TV+                | ~8.90/month                              |
+| Sky Show                 | ~14.90/month                             |
+| Paramount+               | ~9.90/month                              |
+| YouTube Premium          | ~15.90/month (includes YouTube Music)    |
+| **Music Streaming**      |                                          |
+| Spotify                  | ~12.95/month (Individual)                |
+| Apple Music              | ~12.90/month (Individual)                |
+| Deezer                   | ~12.90/month (Individual)                |
+| Tidal                    | ~13.99/month (HiFi)                      |
+| Amazon Music Unlimited   | ~9.99/month (Prime Members)              |
+| YouTube Music            | ~15.90/month (via YouTube Premium)       |
 
 ## Support me
 

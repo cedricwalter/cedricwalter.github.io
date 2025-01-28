@@ -149,6 +149,16 @@ Use either
 * Air Manager v4
 * [simionic ](https://www.simionic.net/wordpress/g1000-apps/) but may be outdated
 
+## Simulation Rig (really nice to have)
+I use Next Level Racing seat pro and stand pro.
+
+Want more 3D print?
+* [Next Level Racing 3d print at MakerWorld (Bambu lab - Free)](https://makerworld.com/en/models/search?keyword=next+level+racing)
+* [Next Level Racing 3d print at Thingiverse (All - Free)](https://www.thingiverse.com/search?q=next+level+racing)
+* [Next Level Racing 3d print at Printables (Prusa - Free)](https://www.printables.com/search/models?q=next+level+racing)
+* [Next Level Racing 3d print at Cults3D (All - Free & $$$)](https://cults3d.com/en/search?q=next+level+racing)
+* [Next Level Racing 3d print at Yeggi (All - Free & $$$)](https://www.yeggi.com/q/next+level+racing/)
+
 ## Motion platform (really nice to have)
 {{< notice tips>}}
 Motions platform deliver all six axes of movements: heave, roll, pitch, surge, sway, and yaw. it will never be able to smulate G

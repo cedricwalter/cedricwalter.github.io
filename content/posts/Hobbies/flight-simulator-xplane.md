@@ -28,8 +28,8 @@ These tips apply if you want to seriously make it close to the reality and want 
 
 ## Hardware
 * 625.-   Honeycomb Yoke and flight throttle management, Thrustmaster TPR rudder
-* 589.-   Next Level Racing® Flight Seat Pro - **Optional**
-* 649.-   Next Level Racing® Flight Stand Pro - **Optional**
+* 589.-   [Next Level Racing® Flight Seat Pro](https://nextlevelracing.com/products/flight-seat-pro) - **Optional**
+* 649.-   [Next Level Racing® Flight Stand Pro](https://nextlevelracing.com/products/flight-stand-pro) - **Optional**
 * 1942.-  PUMA X A-Style - 5th generation USB Joystick - ONLY for PPL(H) - best jostick for helicopter training - **Optional**
 * 2785.-  [Computer](https://www.digitec.ch/en/shoplist/show/CfDJ8HX6w6VPuHtCgkQ86Rt4COp7tq0SAjAwrKdBRcbk5nywh58wh76gFl6766y8X9rS-eYUpQ_SMrIP2RraH4BH9kUemnQGwUcWJRQQOm-y_o3Z4DuQdzXMCJJ7i8jztVVDJg)
 
@@ -77,14 +77,83 @@ If youre on a budget you can also use a cheap tablet and Touch Portal (Android/i
 https://play.google.com/store/apps/details?id=rils.apps.touchportal&hl=en 
 
 ## Logitech Flight panels
-Saitek has been bought by Logitech, and they have nice panels:
+Saitek has been bought by Logitech, and they have nice panels.
+
+### Logitech Flight Switch Panel
 
 * [Switch panel](https://www.logitechg.com/en-ch/products/flight/flight-simulator-switch-panel.html)
-* [Radio panel](https://www.logitechg.com/en-ch/products/flight/flight-simulator-cockpit-radio-panel.html)
+
+You don't need the Logitech Flight Switch Panel if you already have the Honeycomb Alpha (yoke) and Bravo (throttle quadrant). Here's why:
+* The Honeycomb Alpha already has a master battery, alternator, avionics, and light switches, covering most of what the Logitech panel offers.
+* The Honeycomb Bravo includes a landing gear lever with LED indicators, which is one of the key features of the Logitech panel.
+* The Logitech panel primarily adds additional switches for lights, fuel pump, de-icing, and magneto selection, but you can easily map those to the Bravo or Alpha.
+Unless you really want dedicated physical switches for every function.
+
+### Logitech Flight Multi Panel
+
 * [Multi panel](https://www.logitechg.com/en-ch/products/flight/flight-simulator-autopilot-multipanel.html)
+
+you don’t need the Logitech Flight Multi Panel if you already have the Honeycomb Alpha (yoke) and Bravo (throttle quadrant). The Bravo Throttle Quadrant already includes an autopilot panel with knobs and buttons for altitude, heading, vertical speed, and other essential autopilot functions. This effectively makes the Logitech panel redundant.
+However, if you want additional LCD readouts for autopilot settings or prefer the Logitech layout, you could still use it, but it’s not necessary.
+
+### Logitech Flight Radio Panel
+
+* [Radio panel](https://www.logitechg.com/en-ch/products/flight/flight-simulator-cockpit-radio-panel.html)
+
+#### What the Logitech Flight Radio Panel Adds:
+- **Dedicated radio tuning (COM, NAV, ADF, XPDR)**
+- **Quick frequency changes** without needing to use mouse/keyboard.
+- **More realism** if you frequently interact with radios (e.g., VATSIM, IFR flights).
+
+#### Do You Need It?
+- If you **mostly fly VFR**, the Bravo's dials and buttons can handle COM/NAV switching just fine.
+- If you **fly IFR often**, having a separate radio stack can **improve immersion and efficiency**.
+- If you **use VR a lot**, physical radio controls can make tuning easier without relying on VR controllers.
+
+#### Alternative?
+- **Use an on-screen radio stack** (in-sim pop-ups).
+- **Map radio controls to Bravo’s knobs and switches** (less intuitive but works).
+- **Consider an iPad with Air Manager** for a touchscreen radio stack.
+
+If you like having **dedicated, easy-to-use radio controls**, then the Logitech panel is a good add-on. Otherwise, the Bravo can handle most of it with some extra mappings.
+
+#### Two Logitech Flight Radio Panel better than one?
+Some people use **two** Logitech Flight Radio Panels to increase efficiency and realism, especially for **IFR flying**. Here’s why:  
+
+##### **1. Quick Access to Multiple Frequencies**  
+Each Logitech Flight Radio Panel has **two frequency displays** (active & standby), and you can toggle between:  
+- COM1 / COM2 (for ATC communications)  
+- NAV1 / NAV2 (for VOR/ILS navigation)  
+- ADF (for NDB navigation)  
+- XPDR (for squawk codes)  
+
+With **one** panel, you have to switch modes frequently. With **two**, you can dedicate:  
+- One for **COM1 & COM2** (handling ATC comms without switching modes).  
+- One for **NAV1 & NAV2 or ADF & XPDR** (for quick navigation adjustments).  
+
+##### **2. More Realistic Setup**  
+In real aircraft, radios are usually separate units in the stack. Two panels allow:  
+- **Permanent COM & NAV displays**, making tuning easier.  
+- **Faster frequency changes** without switching modes mid-flight.  
+
+##### **3. IFR & VATSIM Flying**  
+Pilots who fly IFR (especially on **VATSIM or IVAO**) need to change frequencies **constantly**. With two panels:  
+- One panel can handle **ATC frequencies (COM1/COM2)**.  
+- The other can handle **NAV aids & squawk codes**.  
+
+This makes operations **faster, smoother, and more immersive**.  
+
+##### **4. Convenience in VR**  
+If you're flying in **VR**, using two panels means **less button switching** and more intuitive frequency management, so you don’t have to fiddle with menus or controllers.  
+
+##### **Do You Need Two?**  
+- If you fly **casual VFR**, one panel (or even just the Bravo) is enough.  
+- If you fly **serious IFR, especially online**, two panels can **greatly** improve workflow.  
+- If you prefer **max realism**, a dual-panel setup mimics real aircraft radio stacks.  
 
 You can find them used everywhere. The Honeycomb yoke provide already (Switch) and (Multi), the radio panel is a "nice to have".
 
+#### Drivers
 In Microsoft Flight Simulator 2024, you MUST manualy start the Logitech Plugin.
 It’s noch automatically initialising with the start of MSFS 2024.
 Install the driver https://download01.logi.com/web/ftp/pub/techsupport/simulation/MSFS_Plugin_x64_Software_8.0.313.0.exe and run the exe before starting flight simulator 2024.
@@ -152,7 +221,14 @@ Use either
 ## Simulation Rig (really nice to have)
 I use Next Level Racing seat pro and stand pro.
 
-Want more 3D print?
+### Assembling
+{{< youtube HDGkWW-IciE >}}
+
+### Next level Racing printed gallery
+
+TODO
+
+### You want more 3D print?
 * [Next Level Racing 3d print at MakerWorld (Bambu lab - Free)](https://makerworld.com/en/models/search?keyword=next+level+racing)
 * [Next Level Racing 3d print at Thingiverse (All - Free)](https://www.thingiverse.com/search?q=next+level+racing)
 * [Next Level Racing 3d print at Printables (Prusa - Free)](https://www.printables.com/search/models?q=next+level+racing)

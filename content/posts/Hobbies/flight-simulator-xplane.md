@@ -27,17 +27,19 @@ These tips apply if you want to seriously make it close to the reality and want 
 # Total Cost of Ownership
 
 ## Hardware
-* 625.-   Honeycomb Yoke and flight throttle management, Thrustmaster TPR rudder
+* 625.-   (used, price new 1100.-) Honeycomb Yoke and flight throttle management, Thrustmaster TPR rudder
+* 2000.-  Computer
 * 589.-   [Next Level Racing® Flight Seat Pro](https://nextlevelracing.com/products/flight-seat-pro) - **Optional**
 * 649.-   [Next Level Racing® Flight Stand Pro](https://nextlevelracing.com/products/flight-stand-pro) - **Optional**
 * 1942.-  PUMA X A-Style - 5th generation USB Joystick - ONLY for PPL(H) - best jostick for helicopter training - **Optional**
-* 2785.-  [Computer](https://www.digitec.ch/en/shoplist/show/CfDJ8HX6w6VPuHtCgkQ86Rt4COp7tq0SAjAwrKdBRcbk5nywh58wh76gFl6766y8X9rS-eYUpQ_SMrIP2RraH4BH9kUemnQGwUcWJRQQOm-y_o3Z4DuQdzXMCJJ7i8jztVVDJg)
+* 1300.-  (used, price new 3400.-) Next Level Racing Motion V3 Plattform seat-mover - **Optional**
+* 180.-   Next Level Racing Free Standing Single Monitor- **Optional**
 
 ## Software
+* 53.-    X-Plane 12 (New Year end sales)
 * 52.-    Microsoft Flight Simulator Aviator Edition 2024 - **Microsoft discount**
 * 60.-    Air manager v4 Desktop - **Optional**
 * 22.-    Air manager v4 iPad - **Optional**
-* 53.-    X-Plane 12
 * 14.50.- Guimbal Cabri G2 helicopter model - **Optional**
 
 # Hardware choice
@@ -351,6 +353,9 @@ Motions platform deliver all six axes of movements: heave, roll, pitch, surge, s
 * Qubic System QS-S25 https://qubicsystem.com/product/qs-s25/  30k CHF 460kg!
 * DoF Reality P6 Pro https://dofreality.com/product/racing/motion-racing-rig-6-axis-pro-p6/   8000.- CHF 
 
+## Eye tracker (really nice to have)
+You can just setup a tracker system for free with an android phone, droidcam phone app and windows app, trackAl on pc, and also openTrack. Works great.
+
 ## Vibrations (really nice to have)
 
 ### Do It Yourself
@@ -392,21 +397,6 @@ You need:
 * Somehow a powerful computer, recommended is AMD AM5 7800X3D, Radeon 7900 XTX or Nvidia Geforce RTX 4080
 * Windows 11
 * Microsoft Flight Simulator 2024 and or Xplane 12
-
-## Beyond ATC
-BeyondATC is an advanced air traffic control (ATC) add-on for Microsoft Flight Simulator, designed to enhance the virtual flying experience by providing more realistic and immersive ATC interactions. Leveraging cutting-edge AI technology, it offers features such as:
-
-* Ultra-Realistic AI Voices: Over 250 voices with regional accents from almost every country, enhancing the authenticity of communications. 
-* Support for IFR and VFR Flights: Accommodates both Instrument Flight Rules (IFR) and Visual Flight Rules (VFR) operations, catering to various flying preferences. 
-* FAA and ICAO Phraseology: Incorporates realistic phraseology developed with real air traffic controllers worldwide, ensuring authentic communication standards. 
-* Full SimBrief Integration: Seamless integration with SimBrief allows for streamlined flight planning and execution. 
-* AI Traffic Control: Manages AI traffic, providing instructions to both the user and AI-controlled aircraft, contributing to a dynamic and realistic airspace environment.
-
-## Tablet
-A tablet can be really handy, but I think its best use is for charts, which you can load up from a second screen's browser using [Microsoft's Xbox only official flight planner](https://planner.flightsimulator.com) or the free repository at [chartfox.org](https://chartfox.org)
-
-## Eye tracker
-You can just setup a tracker system for free with an android phone, droidcam phone app and windows app, trackAl on pc, and also openTrack. Works great.
 
 ## X-Plane 12
 {{< notice tips>}}
@@ -482,6 +472,18 @@ A global online network for flight simulation enthusiasts.
 * A large, active community with events and training opportunities.
 * Free to use.
 https://vatsim.net
+
+## Beyond ATC
+BeyondATC is an advanced air traffic control (ATC) add-on for Microsoft Flight Simulator, designed to enhance the virtual flying experience by providing more realistic and immersive ATC interactions. Leveraging cutting-edge AI technology, it offers features such as:
+
+* Ultra-Realistic AI Voices: Over 250 voices with regional accents from almost every country, enhancing the authenticity of communications. 
+* Support for IFR and VFR Flights: Accommodates both Instrument Flight Rules (IFR) and Visual Flight Rules (VFR) operations, catering to various flying preferences. 
+* FAA and ICAO Phraseology: Incorporates realistic phraseology developed with real air traffic controllers worldwide, ensuring authentic communication standards. 
+* Full SimBrief Integration: Seamless integration with SimBrief allows for streamlined flight planning and execution. 
+* AI Traffic Control: Manages AI traffic, providing instructions to both the user and AI-controlled aircraft, contributing to a dynamic and realistic airspace environment.
+
+## Tablet
+A tablet can be really handy, but I think its best use is for charts, which you can load up from a second screen's browser using [Microsoft's Xbox only official flight planner](https://planner.flightsimulator.com) or the free repository at [chartfox.org](https://chartfox.org)
 
 # Study materials
 ## Near real-time analysis of general aviation accidents 

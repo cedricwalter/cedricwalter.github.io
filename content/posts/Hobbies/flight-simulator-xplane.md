@@ -64,10 +64,6 @@ These tips apply if you want to seriously make it close to the reality and want 
 | Logitech G Saitek Pro Flight Rudder Pedals |    xxx   |   $131 |
 | Thrustmaster Rudder TPR | ![Honeycomb Bravo Alpha](https://www.waltercedric.com/hobbies/flight/Thrustmaster-Rudder-TPR.webp) All set for immediate liftoff: With the first rudder with a S.M.A.R.T-guide rail system (Sliding Motion on Aluminium Rail Tracks) for smooth control. System of 4 industrial aluminium slide rails for a perfect sliding movement. Two differential brake pedals: Large differential brake pedals: 25 centimeters (equivalent to shoe size 45). USB and/or proprietary RJ12 connectivity: On PC (Windows 10/8/7/Vista), works with all standard joysticks. On PC and on PS4, works and connects directly to the Thrustmaster T.Flight Hotas 4 joystick. Advanced calibration software for setting dead zones: Set the central dead zone. T.A.R.G.E.T Advanced PC Programming Software: Allows you to program the axes and differential brakes. Two differential brake pedals for optimized flying! - Large differential brake pedals: 25 centimeters (shoe size 12/45). Rounded central pivot point with central grip on the differential brake axles. Pivot point with a 15° range of motion: On an incline for intentional operation, avoiding unintentional activation when using the rudder.Stable and precise - Versatile ergonomic design, suitable for all types of flights (aerial combat, space adventure, civil flight, etc.): Removed heel support = rudder control with the ball of the foot. Mounted heel support = one hundred percent support of the foot on the pedal.| New arounf 450.- CHF (got it for 300.- used) |
 
-# 3D print
-![Honeycomb Bravo Alpha](https://www.waltercedric.com/hobbies/flight/honeycomb-alpha-bravo.webp)
-* https://www.thingiverse.com/thing:4554130 for iPad Air or any 11 inches tablet
-* https://makerworld.com/en/models/33439 for any iPad/tablet
 
 ## Stream Deck XL or + (optional)
 Allow you to win time by creating shortcuts for preflight, flight.
@@ -162,14 +158,25 @@ So, if you have the plug-in installed, create a shortcut on the desktop with thi
 
 The Logitech driver has not been updated for Microsoft Flight Simulator 2024 yet, and is limited. There is a project Spad.next that let you customize all buttons and switches, work great but require a one time payment.
 
-# Computer Software
-You need:
-* Somehow a powerful computer, recommended is AMD AM5 7800X3D, Radeon 7900 XTX or Nvidia Geforce RTX 4080
-* Windows 11
-* Microsoft Flight Simulator 2024 and or Xplane 12
+## Simulation Rig (really nice to have)
+I use Next Level Racing seat pro and stand pro.
 
-# Simulator enviroment dilemna
-You can go cheap or crazy expensive really fast.
+### Assembling
+{{< youtube HDGkWW-IciE >}}
+
+### Next level Racing printed gallery
+
+TODO
+
+### You want more 3D print?
+* [Next Level Racing 3d print at MakerWorld (Bambu lab - Free)](https://makerworld.com/en/models/search?keyword=next+level+racing)
+* [Next Level Racing 3d print at Thingiverse (All - Free)](https://www.thingiverse.com/search?q=next+level+racing)
+* [Next Level Racing 3d print at Printables (Prusa - Free)](https://www.printables.com/search/models?q=next+level+racing)
+* [Next Level Racing 3d print at Cults3D (All - Free & $$$)](https://cults3d.com/en/search?q=next+level+racing)
+* [Next Level Racing 3d print at Yeggi (All - Free & $$$)](https://www.yeggi.com/q/next+level+racing/)
+
+## Screen estate
+Simulator enviroment dilemna... You can go cheap or crazy expensive really fast.
 
 | Choice   |      Note |
 |----------|:------:|
@@ -179,7 +186,7 @@ You can go cheap or crazy expensive really fast.
 | LCD display using HDMI to desktop | cheap, require a free extension in MSFS |
 | LCD display, Linux, PI | cheap, DIY with linux and air player and air manager on your desktop, custom 3d printed case |
 
-## Use real MFD
+### Use real MFD
 Going with physical and expensive hardware MFD!
 
 {{< notice tips>}}
@@ -200,7 +207,7 @@ Recommended is to use a touch panel or monitor and buy Air manager v4 (https://w
 
 Install Air Manager on iPad (22€ iOS, 23 CHF Android) and connect XPlane or Microsoft Simulator 2024
 
-## Knobster (nice to have)
+### Knobster (nice to have)
 Allows you to control every wheel and button of your flight simulation software like Air Manager or Air Player Cockpit Panel,
 also works in VR with knobXP for xplane or knobFS for Microsoft flight simulator
 
@@ -208,32 +215,17 @@ https://siminnovations.com/wiki/index.php?title=KnobFS
 
 The knobster can be build on your own but costs are really close to price asked...
 
-## Touch display With HDMI
+### Touch display With HDMI
 you may need a lot of HDMI cable and support (commercial MFD use USB port instead).
 
 You need to use [Pop Out Panel Manager (Free)](https://flightsim.to/file/35759/msfs-pop-out-panel-manager) or Air Manager V4 
 
-## Touch display with tablet
+### Touch display with tablet
 Use either 
 * Air Manager v4
 * [simionic ](https://www.simionic.net/wordpress/g1000-apps/) but may be outdated
-
-## Simulation Rig (really nice to have)
-I use Next Level Racing seat pro and stand pro.
-
-### Assembling
-{{< youtube HDGkWW-IciE >}}
-
-### Next level Racing printed gallery
-
-TODO
-
-### You want more 3D print?
-* [Next Level Racing 3d print at MakerWorld (Bambu lab - Free)](https://makerworld.com/en/models/search?keyword=next+level+racing)
-* [Next Level Racing 3d print at Thingiverse (All - Free)](https://www.thingiverse.com/search?q=next+level+racing)
-* [Next Level Racing 3d print at Printables (Prusa - Free)](https://www.printables.com/search/models?q=next+level+racing)
-* [Next Level Racing 3d print at Cults3D (All - Free & $$$)](https://cults3d.com/en/search?q=next+level+racing)
-* [Next Level Racing 3d print at Yeggi (All - Free & $$$)](https://www.yeggi.com/q/next+level+racing/)
+The most immersive!
+You can use a free tool to define what will be rendered by the simulator and what not: you keep your physical panels visible!
 
 ## Motion platform (really nice to have)
 {{< notice tips>}}
@@ -244,9 +236,6 @@ Motions platform deliver all six axes of movements: heave, roll, pitch, surge, s
 * DoF Reality P6 Pro https://dofreality.com/product/racing/motion-racing-rig-6-axis-pro-p6/   8000.- CHF 
 
 ## Mixed Reality
-The most immersive!
-You can use a free tool to define what will be rendered by the simulator and what not: you keep your physical panels visible!
-
 You need
 - Meta Quest 3
 - [OpenKneeboard (Free)](https://openkneeboard.com) or https://flightsim.to/file/64739/color-panel-for-vr-passthrough
@@ -263,6 +252,17 @@ Even that, the texts are blurry because they are too smooth. I could barely make
  flight plan with it WHILE flying at the same time. Some planes I have to pause it and making changes to it outside of VR.
 
 {{< youtube oqoEssvvbZo >}}
+
+# 3D print
+![Honeycomb Bravo Alpha](https://www.waltercedric.com/hobbies/flight/honeycomb-alpha-bravo.webp)
+* https://www.thingiverse.com/thing:4554130 for iPad Air or any 11 inches tablet
+* https://makerworld.com/en/models/33439 for any iPad/tablet
+
+# Computer Software
+You need:
+* Somehow a powerful computer, recommended is AMD AM5 7800X3D, Radeon 7900 XTX or Nvidia Geforce RTX 4080
+* Windows 11
+* Microsoft Flight Simulator 2024 and or Xplane 12
 
 # Beyond ATC
 BeyondATC is an advanced air traffic control (ATC) add-on for Microsoft Flight Simulator, designed to enhance the virtual flying experience by providing more realistic and immersive ATC interactions. Leveraging cutting-edge AI technology, it offers features such as:

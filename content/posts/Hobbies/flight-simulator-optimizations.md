@@ -14,67 +14,8 @@ categories:
   - Hobbies
 cover: https://www.waltercedric.com/hobbies/flight/Next-Level-Racing-Flight-Seat-Pro-fully-loaded.webp
 ---
-
-<!-- vscode-markdown-toc -->
-* 1. [**Disable Unnecessary Background Processes**](#DisableUnnecessaryBackgroundProcesses)
-* 2. [**Set High-Performance Power Plan**](#SetHigh-PerformancePowerPlan)
-* 3. [**Disable Core Isolation & Virtualization-Based Security (VBS)**](#DisableCoreIsolationVirtualization-BasedSecurityVBS)
-* 4. [**Turn Off Windows Game Mode & Xbox Services**](#TurnOffWindowsGameModeXboxServices)
-* 5. [**Disable Windows Automatic Updates While Playing**](#DisableWindowsAutomaticUpdatesWhilePlaying)
-* 6. [**AMD Radeon 7900 XTX Optimization**](#AMDRadeon7900XTXOptimization)
-	* 6.1. [**1. BIOS & System-Level Optimizations**](#1.BIOSSystem-LevelOptimizations)
-		* 6.1.1. [**Enable Resizable BAR (ReBAR)**](#EnableResizableBARReBAR)
-		* 6.1.2. [**Set PCIe to Gen4 (If Needed)**](#SetPCIetoGen4IfNeeded)
-	* 6.2. [**2. AMD Adrenalin Settings**](#2.AMDAdrenalinSettings)
-		* 6.2.1. [**Graphics Settings**](#GraphicsSettings)
-		* 6.2.2. [**Advanced Settings**](#AdvancedSettings)
-	* 6.3. [**3. GPU Undervolting (Lower Temps, More Stable FPS)**](#3.GPUUndervoltingLowerTempsMoreStableFPS)
-	* 6.4. [**4. Cooling & Thermal Optimization**](#4.CoolingThermalOptimization)
-		* 6.4.1. [**Adjust Fan Curve for Better Temps**](#AdjustFanCurveforBetterTemps)
-		* 6.4.2. [**Replace Stock Thermal Pads (If Needed)**](#ReplaceStockThermalPadsIfNeeded)
-	* 6.5. [**5. Windows & DirectX Optimizations**](#5.WindowsDirectXOptimizations)
-		* 6.5.1. [**Enable Hardware-Accelerated GPU Scheduling (HAGS)**](#EnableHardware-AcceleratedGPUSchedulingHAGS)
-		* 6.5.2. [**Disable MPO (Multiplane Overlay) to Prevent Stutters**](#DisableMPOMultiplaneOverlaytoPreventStutters)
-	* 6.6. [**6. VR Optimization (For Meta Quest 3 / OpenXR)**](#6.VROptimizationForMetaQuest3OpenXR)
-* 7. [**Enable OpenXR for Better VR Performance**](#EnableOpenXRforBetterVRPerformance)
-* 8. [**Enable DX12 + FidelityFX Super Resolution (FSR)**](#EnableDX12FidelityFXSuperResolutionFSR)
-	* 8.1. [**7. In-Game Optimization**](#7.In-GameOptimization)
-		* 8.1.1. [**X-Plane 12 (Vulkan Mode)**](#X-Plane12VulkanMode)
-		* 8.1.2. [**MSFS 2024 (DX12 + AMD Optimized Settings)**](#MSFS2024DX12AMDOptimizedSettings)
-* 9. [NVIDIA Users](#NVIDIAUsers)
-* 10. [**Enable Hardware-Accelerated GPU Scheduling (HAGS)**](#EnableHardware-AcceleratedGPUSchedulingHAGS-1)
-* 11. [**Disable Fullscreen Optimizations & Enable High DPI Scaling**](#DisableFullscreenOptimizationsEnableHighDPIScaling)
-* 12. [**Disable CPU Parking & SMT (if needed)**](#DisableCPUParkingSMTifneeded)
-* 13. [**Enable ReBAR (Resizable BAR)**](#EnableReBARResizableBAR)
-* 14. [**Overclock & Tune RAM**](#OverclockTuneRAM)
-* 15. [**Use an NVMe SSD for the Games**](#UseanNVMeSSDfortheGames)
-		* 15.1. [**Increase Pagefile Size (Virtual Memory)**](#IncreasePagefileSizeVirtualMemory)
-* 16. [**Oculus/Meta Quest 3**](#OculusMetaQuest3)
-* 17. [**SteamVR Settings**](#SteamVRSettings)
-* 18. [**OpenXR Toolkit**](#OpenXRToolkit)
-* 19. [**Disable Network Throttling**](#DisableNetworkThrottling)
-* 20. [**Prioritize Flight Sim Traffic (QoS)**](#PrioritizeFlightSimTrafficQoS)
-* 21. [**X-Plane 12**](#X-Plane12)
-* 22. [**Microsoft Flight Simulator 2024**](#MicrosoftFlightSimulator2024)
-* 23. [**For AMD (Ryzen 5000/7000/8000 Series)**](#ForAMDRyzen500070008000Series)
-	* 23.1. [**Enable Precision Boost Overdrive (PBO)**](#EnablePrecisionBoostOverdrivePBO)
-	* 23.2. [**Enable EXPO (For DDR5 RAM)**](#EnableEXPOForDDR5RAM)
-* 24. [**Enable XMP (RAM Overclocking)**](#EnableXMPRAMOverclocking)
-* 25. [**Undervolt via Intel XTU / BIOS**](#UndervoltviaIntelXTUBIOS)
-* 26. [**Power Limits (PL1/PL2)**](#PowerLimitsPL1PL2)
-* 27. [**Enable Resizable BAR (ReBAR)**](#EnableResizableBARReBAR-1)
-* 28. [**Undervolt GPU for Cooler & More Stable Performance**](#UndervoltGPUforCoolerMoreStablePerformance)
-* 29. [**Enable PCIe Gen4/5**](#EnablePCIeGen45)
-* 30. [**Enable Write Caching for NVMe SSDs**](#EnableWriteCachingforNVMeSSDs)
-	* 30.1. [**Custom Fan Curves (For CPU & GPU)**](#CustomFanCurvesForCPUGPU)
-* 31. [**Monitor GPU Usage & Temps**](#MonitorGPUUsageTemps)
-* 32. [**Test for Stutter-Free VR**](#TestforStutter-FreeVR)
-
-<!-- vscode-markdown-toc-config
-	numbering=true
-	autoSave=true
-	/vscode-markdown-toc-config -->
-<!-- /vscode-markdown-toc -->
+To optimize Windows 11 for **X-Plane 12** and **Microsoft Flight Simulator 2024**, 
+you need to focus on system performance, latency reduction, and stability. 
 
 # **1. Windows 11 Optimization**
 ##  1. <a name='DisableUnnecessaryBackgroundProcesses'></a>**Disable Unnecessary Background Processes**

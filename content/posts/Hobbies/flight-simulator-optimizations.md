@@ -2,7 +2,7 @@
 title: "optimize Windows 11 for X-Plane and Microsoft Flight Simulator 2024"
 summary: "To optimize Windows 11 for **X-Plane 12** and **Microsoft Flight Simulator 2024**, you need to focus on system performance, latency reduction, and stability. Since you're using a high-end flight simulator setup with VR, we'll also optimize for VR performance."
 type: posts
-date: 2024-12-08T09:11:52+01:00
+date: 2025-02-06T09:10:52+01:00
 tags:
   - PPL
   - flying

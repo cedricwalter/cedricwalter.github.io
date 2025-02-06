@@ -2,7 +2,7 @@
 title: "Flight Simulator and Private Pilot License (PPL) training"
 summary: "a work in progress, what I use to progress faster for my PPL and fly safer."
 type: posts
-date: 2024-12-08T09:11:52+01:00
+date: 2025-02-06T09:11:52+01:00
 tags:
   - PPL
   - flying
@@ -87,12 +87,16 @@ You don't need the Logitech Flight Switch Panel if you already have the Honeycom
 * The Logitech panel primarily adds additional switches for lights, fuel pump, de-icing, and magneto selection, but you can easily map those to the Bravo or Alpha.
 Unless you really want dedicated physical switches for every function.
 
+---
+
 ### Logitech Flight Multi Panel
 
 * [Multi panel](https://www.logitechg.com/en-ch/products/flight/flight-simulator-autopilot-multipanel.html)
 
 you don’t need the Logitech Flight Multi Panel if you already have the Honeycomb Alpha (yoke) and Bravo (throttle quadrant). The Bravo Throttle Quadrant already includes an autopilot panel with knobs and buttons for altitude, heading, vertical speed, and other essential autopilot functions. This effectively makes the Logitech panel redundant.
 However, if you want additional LCD readouts for autopilot settings or prefer the Logitech layout, you could still use it, but it’s not necessary.
+
+---
 
 ### Logitech Flight Radio Panel
 
@@ -107,6 +111,8 @@ However, if you want additional LCD readouts for autopilot settings or prefer th
 - If you **mostly fly VFR**, the Bravo's dials and buttons can handle COM/NAV switching just fine.
 - If you **fly IFR often**, having a separate radio stack can **improve immersion and efficiency**.
 - If you **use VR a lot**, physical radio controls can make tuning easier without relying on VR controllers.
+
+---
 
 #### Alternative?
 - **Use an on-screen radio stack** (in-sim pop-ups).
@@ -160,6 +166,8 @@ So, if you have the plug-in installed, create a shortcut on the desktop with thi
 
 The Logitech driver has not been updated for Microsoft Flight Simulator 2024 yet, and is limited. There is a project Spad.next that let you customize all buttons and switches, work great but require a one time payment.
 
+---
+
 ## Simulation Rig (really nice to have)
 I use Next Level Racing seat pro and stand pro.
 
@@ -177,6 +185,8 @@ TODO
 * [Next Level Racing 3d print at Cults3D (All - Free & $$$)](https://cults3d.com/en/search?q=next+level+racing)
 * [Next Level Racing 3d print at Yeggi (All - Free & $$$)](https://www.yeggi.com/q/next+level+racing/)
 
+---
+
 ## Screen estate
 Simulator enviroment dilemna... You can go cheap or crazy expensive really fast.
 
@@ -187,6 +197,8 @@ Simulator enviroment dilemna... You can go cheap or crazy expensive really fast.
 | Touch display with Android | cheap and you have a real tablet fto use when not flying! I use Lenovo M11 |
 | LCD display using HDMI to desktop | cheap, require a free extension in MSFS |
 | LCD display, Linux, PI | cheap, DIY with linux and air player and air manager on your desktop, custom 3d printed case |
+
+---
 
 ### Use real MFD
 Going with physical and expensive hardware MFD!
@@ -350,6 +362,7 @@ You can use a free tool to define what will be rendered by the simulator and wha
 Motions platform deliver all six axes of movements: heave, roll, pitch, surge, sway, and yaw. it will never be able to smulate G
 {{< /notice >}}
 
+* Next Level Racing motion v3 3600.- 25kg what i'm using
 * Qubic System QS-S25 https://qubicsystem.com/product/qs-s25/  30k CHF 460kg!
 * DoF Reality P6 Pro https://dofreality.com/product/racing/motion-racing-rig-6-axis-pro-p6/   8000.- CHF 
 

@@ -24,9 +24,6 @@ You dont need anything to enjoy Microsoft Flight Simulator 2024, you can play on
 These tips apply if you want to seriously make it close to the reality and want to use it as a tool, you need a personal computer, running Windows 11.
 {{< /notice >}}
 
-# My Simulation Rigs
-see my [Simulation Rigs](https://www.waltercedric.com/posts/hobbies/simulation-rigs/)
-
 # Hardware choice
 ## Yoke
 | Yoke   |      Product      |  Price |
@@ -155,20 +152,7 @@ The Logitech driver has not been updated for Microsoft Flight Simulator 2024 yet
 
 ## Simulation Rig (really nice to have)
 I use Next Level Racing seat pro and stand pro.
-
-### Assembling
-{{< youtube HDGkWW-IciE >}}
-
-### Next level Racing printed gallery
-
-TODO
-
-### You want more 3D print?
-* [Next Level Racing 3d print at MakerWorld (Bambu lab - Free)](https://makerworld.com/en/models/search?keyword=next+level+racing)
-* [Next Level Racing 3d print at Thingiverse (All - Free)](https://www.thingiverse.com/search?q=next+level+racing)
-* [Next Level Racing 3d print at Printables (Prusa - Free)](https://www.printables.com/search/models?q=next+level+racing)
-* [Next Level Racing 3d print at Cults3D (All - Free & $$$)](https://cults3d.com/en/search?q=next+level+racing)
-* [Next Level Racing 3d print at Yeggi (All - Free & $$$)](https://www.yeggi.com/q/next+level+racing/)
+see my [Simulation Rigs](https://www.waltercedric.com/posts/hobbies/simulation-rigs/)
 
 ---
 
@@ -354,7 +338,9 @@ Motions platform deliver all six axes of movements: heave, roll, pitch, surge, s
 ## Eye tracker (really nice to have)
 You can just setup a tracker system for free with an android phone, droidcam phone app and windows app, trackAl on pc, and also openTrack. Works great.
 
-## Vibrations (really nice to have)
+## Buttkicker / Haptic Feedback (for enhanced immersion) - (really nice to have)
+
+Not needed with the motion v3 platform
 
 ### Do It Yourself
 You just need a cheap transducer (e.g. https://www.amazon.it/Rockwood-Bodyshaker/dp/B002LQAHPE), a cheap amplifier (e.g. https://www.amazon.com/gp/aw/d/B06Y67PZB1), some cables and maybe a usb sound card. 
@@ -364,7 +350,7 @@ or https://github.com/SHWotever/SimHub/wiki/Shake-It-for-bass-shakers (Car)
 
 https://forums.mudspike.com/t/feedback-for-flight-simulation-2020/10886
 
-### ButtKicker
+### Buttkicker
 You can install the buttkicker https://thebuttkicker.com but it can cost up to 1000.- CHF
 
 ## Mixed Reality
@@ -459,6 +445,15 @@ Approach Chart), which is published for free and are easy to find online.
 luse a mobile app usually called IVAC https://.play.google.com/store/apps/details?id=fr.julienroze.ivac
 ... But there are lots of lists of them online also, eg
 https://www.aero-hesbaye.be/vac/vac_fr.htm
+
+
+# Flight Sim Enhancements
+
+## Navigraph (for updated navigation charts & AIRAC cycles)
+[Navigraph Charts](https://navigraph.com/)
+
+## SimBrief (for realistic flight planning)
+[SimBrief](https://www.simbrief.com/)
 
 ## VATSIM (Virtual Air Traffic Simulation Network):
 A global online network for flight simulation enthusiasts.

@@ -41,3 +41,18 @@ RotorX only exist for now, because i can not easily mount the [Puma-X](https://p
 * 60.-    Air manager v4 Desktop - **Optional**
 * 22.-    Air manager v4 iPad - **Optional**
 * 14.50.- Guimbal Cabri G2 helicopter model - **Optional**
+
+
+## Assembling
+{{< youtube HDGkWW-IciE >}}
+
+## Next level Racing printed gallery
+
+TODO
+
+### You want more 3D print?
+* [Next Level Racing 3d print at MakerWorld (Bambu lab - Free)](https://makerworld.com/en/models/search?keyword=next+level+racing)
+* [Next Level Racing 3d print at Thingiverse (All - Free)](https://www.thingiverse.com/search?q=next+level+racing)
+* [Next Level Racing 3d print at Printables (Prusa - Free)](https://www.printables.com/search/models?q=next+level+racing)
+* [Next Level Racing 3d print at Cults3D (All - Free & $$$)](https://cults3d.com/en/search?q=next+level+racing)
+* [Next Level Racing 3d print at Yeggi (All - Free & $$$)](https://www.yeggi.com/q/next+level+racing/)

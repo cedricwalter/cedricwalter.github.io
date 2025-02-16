@@ -491,6 +491,10 @@ A tablet can be really handy, but I think its best use is for charts, which you 
 * https://www.logitechg.com/en-ch/products/flight/
 * https://virpil-controls.eu/
 * https://winwingsim.com/view/
+* https://realsimgear.com
+* https://www.737diysim.com
+* https://flightsimdiy.com
+* https://flightsimbuilder.com
 
 # Forums
 * https://forum.aerosoft.com

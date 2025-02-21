@@ -25,22 +25,32 @@ RotorX only exist for now, because i can not easily mount the [Puma-X](https://p
 ![Simulator Flight rig Rotor X](https://www.waltercedric.com/hobbies/flight/RotorX.webp)
 
 # Total Cost of Ownership (TCO)
-## Hardware
+
+* 3000.-  Computer 7900XTX, 9800X3d, 4TB 990 Pro, 64GB RAM
+* 38.-    Windows 11 PRO
+
+## Hardware for flights
 
 * 625.-   (used, price new 1100.-) Honeycomb Yoke and flight throttle management, Thrustmaster TPR rudder
-* 3000.-  Computer 7900XTX, 9800X3d, 4TB 990 Pro, 64GB RAM
 * 589.-   [Next Level Racing® Flight Seat Pro](https://nextlevelracing.com/products/flight-seat-pro) - **Optional**
 * 649.-   [Next Level Racing® Flight Stand Pro](https://nextlevelracing.com/products/flight-stand-pro) - **Optional**
 * 1942.-  [Puma-X](https://pro-flight-trainer.com/product/puma-x-a-style-snapaction/) A-Style - 5th generation USB Joystick - ONLY for PPL(H) - best joystick for helicopter training - **Optional**
 * 1300.-  (used, price new 3400.-) Next Level Racing Motion V3 Plattform seat-mover - **Optional**
 * 180.-   Next Level Racing Free Standing Single Monitor- **Optional**
 
-## Software
+**Software**
 * 53.-    X-Plane 12 (New Year end sales)
 * 52.-    Microsoft Flight Simulator Aviator Edition 2024 - **Microsoft discount**
 * 60.-    Air manager v4 Desktop - **Optional**
 * 22.-    Air manager v4 iPad - **Optional**
 * 14.50.- Guimbal Cabri G2 helicopter model - **Optional**
+
+## Hardware for racing
+* 140.- Moza SPG Sequential Shifter
+* 473.- Moza CRP Premium Load-Cell Pedalset
+* 106.- Moza HBP Handbrake
+* 565.- Moza R12 Direct Drive Wheelbase (12 Nm)
+* 285.- Moza Ks Gt
 
 
 ## Assembling

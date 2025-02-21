@@ -13,6 +13,11 @@ categories:
   - Hobbies
 cover: https://www.waltercedric.com/hobbies/acedeck-nyx-z3-poster.webp
 ---
+{{< notice warning>}}
+* Electric skateboards are STRICTLY FORBIDDEN in Switzerland! only on private ground, NEVER on any public streets.
+* Electric skateboards are authorized on french roads ONLY if limited to 25km/h
+{{< /notice >}}
+
 The AceDeck Nyx Z3 is a high-performance off-road electric skateboard designed for enthusiasts seeking power and durability for rough terrains. It's equipped with advanced features like a gear drive system for optimal torque and control, shock-absorbing channel trucks for smoother rides on uneven surfaces, and all-terrain wheels that can handle dirt, gravel, and grass with ease. The Nyx Z3 also boasts a powerful electronic speed controller (ESC), allowing it to tackle steep inclines and reach a top speed of around 37 mph.
 
 Prices for the Nyx Z3 vary depending on the model and battery, starting from about $1,500 and going up to $2,900 for the higher-end versions

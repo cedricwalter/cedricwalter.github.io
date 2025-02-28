@@ -78,7 +78,7 @@ Perseverance, nicknamed Percy, is a car-sized Mars rover designed to explore the
 
 ![mars-perseverance-rover-cedricwalter-boarding-pass](/space/mars-perseverance-rover-cedricwalter-boarding-pass.webp)
 
-["proof link"]("https://mars.nasa.gov/participate/send-your-name/mars2020/certificate/913000730935")
+["proof link"](https://mars.nasa.gov/participate/send-your-name/mars2020/certificate/913000730935)
 
 [Learn more about the Perseverance rover mission](https://mars.nasa.gov/resources/24877/send-your-name-placard-attached-to-perseverance/)
 
@@ -97,7 +97,7 @@ InSight is a Mars lander designed to give the Red Planet its first thorough chec
 
 ![mars-insight-cedricwalter-boarding-pass](/space/mars-insight-cedricwalter-boarding-pass.webp)
 
-["proof link"]("https://mars.nasa.gov/participate/send-your-name/insight/?cn=673002350037")
+["proof link"](https://mars.nasa.gov/participate/send-your-name/insight/?cn=673002350037)
 
 [Learn more about the InSight Mars lander mission](https://mars.nasa.gov/insight/)
 

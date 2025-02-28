@@ -35,20 +35,14 @@ other = "Saites sociālajos tīklos"
 one = " minūte lasīta"
 other = " minūtes lasīts"
 
-[updateAt]
+[updatedAt]
 other = "Atjaunināts plkst"
-
-[noTag]
-other = "Nav tagu"
 
 [prevPage]
 other = "Iepriekšējā lapa"
 
 [nextPage]
 other = "Nākamā lapaspuse"
-
-[saveAsImage]
-other = "Saglabāt kā attēlu"
 
 [search]
 other = "Meklēt"

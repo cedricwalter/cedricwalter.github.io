@@ -1,74 +1,34 @@
-[home]
-other = "Home"
+# Alerts
+note = "Note"
+tip = "Tip"
+important = "Important"
+warning = "Warning"
+caution = "Caution"
 
-[backToHome]
-other = "Back to home"
+home = "Home"
+backToHome = "Back to home"
+flip = "Flip it!"
+about = "About"
+search = "Search"
+prevPage = "Previous page"
+nextPage = "Next page"
 
-[flip]
-other = "About, contact me, find me on the web"
+archives = "Archives"
+allCategories = "All Categories"
+allTags = "All Tags"
 
-[archives]
-other = "Archives"
+minuteRead = " minute read"
+updatedAt = "Updated at"
+socialLinks = "Social Links"
 
-[allTags]
-other = "All Tags"
-
-[tag]
-one = "1 tag"
-other = "{{ .Count }} tags"
-
-[allCategories]
-other = "All Categories"
+[article]
+one = "1 article"
+other = "{{ .Count }} articles"
 
 [category]
 one = "1 category"
 other = "{{ .Count }} categories"
 
-[article]
-one = "1 article"
-other = " {{ .Count }} articles"
-
-[group]
-one = "1 group"
-other = "{{ .Count }} groups"
-
-[socialLinks]
-other = "Social Links"
-
-[minuteRead]
-one = " minute read"
-other = " minutes read"
-
-[updateAt]
-other = "Update at"
-
-[noTag]
-other = "No Tags"
-
-[prevPage]
-other = "Previous page"
-
-[nextPage]
-other = "Next page"
-
-[saveAsImage]
-other = "Save as image"
-
-[search]
-other = "Search"
-
-[[root]]
-id = "warning"
-translation = "Warning"
-
-[[root]]
-id = "note"
-translation = "Note"
-
-[[root]]
-id = "info"
-translation = "Info"
-
-[[root]]
-id = "tip"
-translation = "Tip"
+[tag]
+one = "1 tag"
+other = "{{ .Count }} tags"

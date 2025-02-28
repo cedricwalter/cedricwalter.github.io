@@ -6,6 +6,18 @@
 * Ability to edit md online on github
 * Impossible to test locally
 
+
+Hugo V3
+initial:
+```
+npm i tailwindcss
+```
+
+if you chnage themes, then run 
+```
+npm run css
+```
+
 # Previous readme "old tech" DEPRECATED
 * one repo public cedricwalter.github.io
 * one repo private blog-hugo

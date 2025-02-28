@@ -28,10 +28,6 @@ other = "{{ .Count }} kategori"
 one = "1 makale"
 other = "{{ .Count }} makale"
 
-[group]
-one = "1 grup"
-other = "{{ .Count }} grup"
-
 [socialLinks]
 other = "Sosyal Bağlantılar"
 
@@ -39,20 +35,14 @@ other = "Sosyal Bağlantılar"
 one = " dakika okuma süresi"
 other = " dakika okuma süresi"
 
-[updateAt]
+[updatedAt]
 other = "Güncellenme tarihi"
-
-[noTag]
-other = "Etiketsiz"
 
 [prevPage]
 other = "Önceki sayfa"
 
 [nextPage]
 other = "Sonraki sayfa"
-
-[saveAsImage]
-other = "Resim olarak kaydet"
 
 [search]
 other = "Arama"

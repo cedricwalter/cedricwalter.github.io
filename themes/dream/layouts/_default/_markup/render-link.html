@@ -1,17 +1,7 @@
-
-<!--
-Once search results do bring people to the site, you can help keep them there longer by optimizing the behavior of links so that:
-
-- Going to an internal link opens it in the same browser window/tab.
-- Going to an external link opens it in a different browser window/tab, increasing the likelihood that the visitor will return to your site after viewing the external content.
-To accomplish this, we use this layouts/_default/_markup/render-link.html:
-
-The target="_blank" section of the link is what causes it to open in a new tab. It's also worth adding a few words here regarding the rel="nofollow noopener noreferrer" part of the link. These days, most search engines’ ranking algorithms tend to ignore these rel values, but they can serve other purposes:
-
-- nofollow tells search engines they shouldn’t use your link to “endorse” the external site’s authority or importance and, thus, help that site’s rankings. Historically this was important to add if you were linking to a site you didn’t want to be associated with. Now days, Google uses this as a ‘hint’ and it may still choose to associate your sites together.
-- noopener provides security for the visitor against any malware that somehow could be inserted in the new window/tab, via target="_blank", long after you’ve completed building the site.
-- noreferrer keeps the external site’s analytics from showing that your site is linking there; so, if you want the external site’s owners to see who’s providing them this traffic, don’t include the noreferrer attribute.
-
-rel="nofollow noopener noreferrer"
--->
-<a href="{{ .Destination | safeURL }}"{{ with .Title}} title="{{ . }}"{{ end }}{{ if strings.HasPrefix .Destination "http" }} target="_blank" {{ end }}>{{ .Text | safeHTML }}</a>
+{{- $u := urls.Parse .Destination -}}
+<a href="{{ .Destination | safeURL }}"
+  {{- with .Title }} title="{{ . }}"{{ end -}}
+  {{- if $u.IsAbs }} target="_blank"{{ end -}}
+>
+  {{- with .Text }}{{ . }}{{ end -}}
+</a>

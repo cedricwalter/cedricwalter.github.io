@@ -43,20 +43,14 @@ few = " минуты чтения"
 many = " минут чтения"
 other = " минут чтения"
 
-[updateAt]
+[updatedAt]
 other = "Обновлено"
-
-[noTag]
-other = "Нет тегов"
 
 [prevPage]
 other = "Предыдущая"
 
 [nextPage]
 other = "Следующая"
-
-[saveAsImage]
-other = "Сохранить как изображение"
 
 [search]
 other = "Поиск"

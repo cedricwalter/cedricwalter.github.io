@@ -4,13 +4,10 @@ defaultContentLanguage = "en"
 title = 'Cédric Walter blog'
 theme = ["dream", "darths-hugo-shortcodes"]
 
-# copyright = ""
-
-
 # enableRobotsTXT = true
-
 # copyright = '<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Knowledge Enjoy License Agreement style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a> This work adopts <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-Non-Commercial-Same Share 4.0 International License Agreement</a> for licensing. The background is used <a href="https://www.pexels.com/zh-cn/" target="_blank">Pexels</a> on <a href="http s://www.pexels.com/zh-cn/@minan1398" target="_blank">Min An</a> <a href="https://www.pexels.com/z h-cn/photo/1454794/" target="_blank">picture</a>.'
-copyright="Reproduction without explicit permission is prohibited. All Rights Reserved. All photos remain copyright © their rightful owners. No copyright infringement is intended."
+# copyright="Reproduction without explicit permission is prohibited. All Rights Reserved. All photos remain copyright © their rightful owners. No copyright infringement is intended."
+
 
 # .Site.Config.Services.GoogleAnalytics.ID = ""
 
@@ -78,21 +75,8 @@ gitcusRepo = "cedricwalter/cedricwalter.github.io"
 
 paginate = 15
 
-[params]
-  # assetDir = "static"
-  background = "#f7f7f7"
-  # backgroundImage = "/me/background1.webp"
-  linkColor = "seagreen"
-  
+[params]  
   relativeURLs = true
-
-  # dark mode
-  # defaultDark = true
-  backgroundDark = "black"
-  # backgroundImageDark = "/me/background1-dark.webp"
-  darkLinkColor = "darkseagreen"
-  darkNav = true
-  dark404 = true
 
   author = "Cédric Walter"
   name = "Cédric Walter blog"
@@ -105,11 +89,20 @@ paginate = 15
   # use true for chinese
   hasCJKLanguage = false
   avatar = "/img/avatar.webp"
-  maxTags = 5
-  # categoriesLimitInHeader = 6 # deprecated
-  # headerBottomText = "" # deprecated
-  # footerBottomText = ""
   rss = true
+
+  # options
+  stickyNav = true
+  # reorderNavItems = ["search", "rss", "posts", "categories", "tags"]
+  # collapseNavItems = ["posts", "categories", "tags"]
+  # noDefaultSummaryCover = true
+  showTableOfContents = true
+  showSummaryCoverInPost = true
+  imageZoomableInPost = true
+  showPrevNextPost = true
+
+  lightTheme = "emerald"
+  darkTheme = "forest"
 
   # valine = true
   # LEANCLOUD_APP_ID = ""
@@ -142,7 +135,6 @@ paginate = 15
   enableSearch = true
 
   # options
-  showSummaryCoverInPost = true
   hasTwitterEmbed = false
   reversePostAndAside = true
   shareInAside = true
@@ -155,6 +147,10 @@ paginate = 15
   # [params.experimental]
   #   jsDate = true
   #   jsDateFormat = "yyyy年MM月dd日"
+
+  [params.navItems]
+  series = { href = "/", title = "Home" }
+  github = { href = "https://github.com/cedricwalter", target = "_blank", icon = "logo-github", title = "GitHub" }
 
   [params.advanced]
       customCSS = ["css/custom.css"] # files in the list will be loaded in order

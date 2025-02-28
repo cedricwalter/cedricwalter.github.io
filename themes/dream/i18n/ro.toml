@@ -35,20 +35,14 @@ other = "Link-uri de social media"
 one = " minut de citit"
 other = " minute de citire"
 
-[updateAt]
+[updatedAt]
 other = "Actualizat la"
-
-[noTag]
-other = "Fără etichete"
 
 [prevPage]
 other = "Pagina precedentă"
 
 [nextPage]
 other = "Pagina următoare"
-
-[saveAsImage]
-other = "Salvați ca imagine"
 
 [search]
 other = "Căutare"

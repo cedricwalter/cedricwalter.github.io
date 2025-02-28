@@ -26,7 +26,7 @@ other = "{{ .Count }} categories"
 
 [article]
 one = "1 article"
-other = " {{ .Count }} articles"
+other = "{{ .Count }} articles"
 
 [socialLinks]
 other = "Enllaços de xarxes socials"
@@ -35,20 +35,14 @@ other = "Enllaços de xarxes socials"
 one = " minut de lectura"
 other = " minuts de lectura"
 
-[updateAt]
+[updatedAt]
 other = "Actualització a"
-
-[noTag]
-other = "Sense etiquetes"
 
 [prevPage]
 other = "Pàgina anterior"
 
 [nextPage]
 other = "Pàgina següent"
-
-[saveAsImage]
-other = "Desa com a imatge"
 
 [search]
 other = "Buscar"

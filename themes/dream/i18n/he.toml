@@ -35,20 +35,14 @@ other = "קישורים למדיה חברתית"
 one = " דקה לקרוא"
 other = " דקות לקריאה"
 
-[updateAt]
+[updatedAt]
 other = "עודכן בשעה"
-
-[noTag]
-other = "אין תגים"
 
 [prevPage]
 other = "עמוד קודם"
 
 [nextPage]
 other = "עמוד הבא"
-
-[saveAsImage]
-other = "שמור כתמונה"
 
 [search]
 other = "לחפש"

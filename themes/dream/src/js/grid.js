@@ -1,15 +1,20 @@
-$(document).ready(() => {
-  function initGrid() {
-    const $grid = $('.dream-grid').masonry({
+function initGrid() {
+  document.querySelectorAll('.dream-grid').forEach((grid) => {
+    const msnry = new Masonry(grid, {
       itemSelector: '.dream-column',
     })
 
-    $grid.imagesLoaded().progress(() => $grid.masonry('layout'))
-
-    if (window.hasTwitterEmbed) {
-      window.twttr.ready((twttr) => twttr.events.bind('loaded', () => $grid.masonry('layout')))
+    if (grid.classList.contains('dream-grid-about')) {
+      // Export Masonry instance to global scope for about page,
+      // currently used for resizing the grid after Disqus comments are loaded.
+      window.aboutMasonry = msnry
     }
-  }
 
-  initGrid()
-})
+    imagesLoaded(grid, () => {
+      grid.style.opacity = 1
+      msnry.layout()
+    })
+  })
+}
+
+initGrid()

@@ -13,7 +13,9 @@ tags:
 ---
 If dont want to pay and use CleanMyMac and still see a lot of space being used, even after rebooting, here are some possible causes and solutions to investigate:
 
-Note: the bash script at the bottom of this post is safe to use and faster.
+{{< notice tip>}}
+The bash script at the bottom of this post is safe to use and faster than going through each steps manualy.
+{{< /notice >}}
 
 # 1. Hidden System Files and Caches
 - macOS sometimes caches large amounts of data (e.g., Spotlight indexing, system logs, or updates).

@@ -71,3 +71,15 @@ document.addEventListener('alpine:init', function () {
     }
   });
 });
+
+$(document).ready(() => {
+  tocbot.init({
+    tocSelector: '.TableOfContents',
+    contentSelector: '.dream-single-post-content',
+    headingSelector: 'h1, h2, h3, h4, h5',
+    hasInnerContainers: false,
+    headingsOffset: 40,
+    scrollSmoothOffset: -40,
+  });
+})
+

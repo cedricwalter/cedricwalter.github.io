@@ -44,6 +44,9 @@
 <!-- Twitter Cards -->
 {{ template "_internal/twitter_cards.html" . }}
 
+<link async rel="stylesheet" href="{{ "/css/tocbot.css" | relURL }}" />
+<script src="{{ "/js/tocbot.min.js" | relURL }}"></script>
+
 {{ $outputCss := resources.Get "css/output.css" }}
 {{ if hugo.IsProduction }}
   {{ $outputCss = $outputCss | minify }}

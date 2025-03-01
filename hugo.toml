@@ -6,7 +6,7 @@ theme = ["dream", "darths-hugo-shortcodes"]
 
 # enableRobotsTXT = true
 # copyright = '<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Knowledge Enjoy License Agreement style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a> This work adopts <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-Non-Commercial-Same Share 4.0 International License Agreement</a> for licensing. The background is used <a href="https://www.pexels.com/zh-cn/" target="_blank">Pexels</a> on <a href="http s://www.pexels.com/zh-cn/@minan1398" target="_blank">Min An</a> <a href="https://www.pexels.com/z h-cn/photo/1454794/" target="_blank">picture</a>.'
-# copyright="Reproduction without explicit permission is prohibited. All Rights Reserved. All photos remain copyright © their rightful owners. No copyright infringement is intended."
+footerBottomText="Reproduction without explicit permission is prohibited. All Rights Reserved. All photos remain copyright © their rightful owners. No copyright infringement is intended."
 
 
 # .Site.Config.Services.GoogleAnalytics.ID = ""
@@ -34,8 +34,8 @@ gitcusRepo = "cedricwalter/cedricwalter.github.io"
 ######################################################
 ##### utteranc.es
 
-#utterancesRepo = "cedricwalter/cedricwalter.github.io"
-# utterancesStyle = "github-light"
+utterancesRepo = "cedricwalter/cedricwalter.github.io"
+utterancesStyle = "github-light"
 # utterancesStyle = "gruvbox-dark"
 # utterancesStyle = "github-dark"
 # utterancesStyle = "preferred-color-scheme"
@@ -96,10 +96,13 @@ paginate = 15
   # reorderNavItems = ["search", "rss", "posts", "categories", "tags"]
   # collapseNavItems = ["posts", "categories", "tags"]
   # noDefaultSummaryCover = true
-  showTableOfContents = true
-  showSummaryCoverInPost = true
   imageZoomableInPost = true
+
+  showTableOfContents = true
   showPrevNextPost = true
+  showTaxonomyInPost = true
+  showTaxonomyInPostTop = true
+  showTaxonomyInPostBottom = true
 
   lightTheme = "emerald"
   darkTheme = "forest"
@@ -138,7 +141,7 @@ paginate = 15
   hasTwitterEmbed = false
   reversePostAndAside = true
   shareInAside = true
-  fixedNav = true
+  fixedNav = false
   collapsibleTags = true
   collapseBySummary = true
   #disableFlip = true

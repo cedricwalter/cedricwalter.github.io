@@ -76,9 +76,8 @@ utterancesStyle = "github-light"
 paginate = 15
 
 [params]  
-  relativeURLs = true
-
-  author = "Cédric Walter"
+  relativeURLs = false
+  #author = "Cédric Walter"
   name = "Cédric Walter blog"
   headerTitle = "Cédric Walter"
   description ="Cédric Walter is a French-Swiss entrepreneur, investor, and software engineer based in Zurich, Switzerland."

@@ -1,11 +1,8 @@
 ---
 title: Copyright information
-
 type: page
 date: 2020-03-08T19:11:49+00:00
-
 ---
-
 All editorial content and graphics on our sites are protected by U.S. copyright, international treaties, and other applicable copyright laws and may not be copied without the express permission of Cedric Walter, which reserves all rights. Reuse of any of Cedric Walter editorial content and graphics for any purpose without The author 's permission is strictly prohibited.
 
 DO NOT copy or adapt the HTML or other code that this site creates to generate pages. It also is covered by copyright.

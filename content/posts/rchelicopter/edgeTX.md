@@ -27,7 +27,6 @@ tags:
   - transmitter-firmware
   - open-source-rc
   - rc-configuration
-mermaid: true
 ---
 {{< notice warning>}}Always refer to the EdgeTX documentation for any specific details or features that may have been added or modified in the firmware.
 {{< /notice >}}
@@ -64,13 +63,13 @@ Here's a brief overview of each method:
 
 In EdgeTX, the "input" (stick positions) from the sticks travels to the RF channel output (signal out the RF module) like this:
 
-{{<mermaidjs>}}
+```mermaid
 flowchart TD
     Sticks(Sticks hardware) --> Inputs(Inputs configuration)
     Inputs(Inputs hardware) --> Mixer(Mixer configuration)
     Mixer(Mixer configuration) --> Outputs(Outputs configuration)
     Outputs(Outputs configuration) --> RFModule(RFModule hardware)
-{{</mermaidjs>}}
+```
 
 ### **Input Menu (Rates and Expo):**
 - **Pros:**

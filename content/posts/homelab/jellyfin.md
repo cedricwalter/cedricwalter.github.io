@@ -11,7 +11,6 @@ tags:
   - video
   - photos
   - jellyfin
-mermaid: true
 ---
 
 {{< notice tips>}}
@@ -19,21 +18,7 @@ Pirating content for personal use is legal in Switzerland due to its copyright l
 {{< /notice >}}
 
 ## Automation Architecture
-{{<mermaidjs>}}
-%%{
-  init: {
-    'theme': 'base',
-    'themeVariables': {
-      'nodeFontSize': '14',
-      'primaryColor': '#2e8b57',
-      'primaryTextColor': '#fff',
-      'primaryBorderColor': '#7C0000',
-      'lineColor': '#F8B229',
-      'secondaryColor': '#006100',
-      'tertiaryColor': '#fff'
-    }
-  }
-}%%
+```mermaid
 flowchart LR
     subgraph Internet Area
      Internet --> Router
@@ -115,7 +100,7 @@ flowchart LR
     RTDClient(Real-Debrid Torrent Client) --> |write|Mylar3Folder[(Mylar3 folder)]
     RTDClient(Real-Debrid Torrent Client) --> |write|BazarrFolder[(Bazarr folder)]
     end
-{{</mermaidjs>}}
+```
 
 Real-Debrid Torrent Client https://github.com/rogerfar/rdt-client
 All Arr-tools listed https://github.com/Ravencentric/awesome-arr

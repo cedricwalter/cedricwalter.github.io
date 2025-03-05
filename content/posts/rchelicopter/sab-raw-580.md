@@ -27,7 +27,6 @@ tags:
   - sab
 categories:
   - RC helicopter
-mermaid: true
 ---
 SAB (Scorpion Antennas and Batteries) primarily focused on manufacturing and designing high-quality radio-controlled (RC) helicopters.
 
@@ -50,7 +49,7 @@ Here 's a brief overview of some SAB RC helicopter models:
   * RAW helicopters typically feature a robust construction to withstand aggressive maneuvers and provide a thrilling flying experience.
 
 ## Why are RC Helicopter so fun?
-{{<mermaidjs>}}
+```mermaid
 flowchart TD
     Build --> |Yeah :smiley::smiley::smiley:|Build
     Build --> |Yeah :smiley::smiley::smiley:|Fly
@@ -65,7 +64,7 @@ flowchart TD
     Status --> |:unamused::scream::moneybag:|Order
     Order --> |:unamused::hourglass::hourglass:|Wait
     Wait --> |:screwdriver::wrench:|Build
-{{</mermaidjs>}}
+```
 
 {{< notice tip>}}Page is under construction - setup - flight log
  {{< /notice >}}

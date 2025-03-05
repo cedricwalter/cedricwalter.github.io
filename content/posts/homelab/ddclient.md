@@ -28,14 +28,13 @@ tags:
   - network
   - dynamic-ip
   - linux
-mermaid: true
 ---
 Maintaining a stable connection to your network resources can be challenging, especially when dealing with constantly changing IP addresses. Whether you're hosting a website, running a server, or accessing your home network remotely, Dynamic DNS (DDNS) services offer a solution by mapping your dynamic IP address to a domain name. Among the plethora of DDNS clients available, ddclient stands out as a reliable and versatile tool for automating the management of dynamic DNS configurations.
 
 ## What is ddclient?
 ddclient is an open-source Perl-based client used to update dynamic DNS entries for various DDNS service providers. It supports a wide range of protocols, including DynDNS, No-IP, DuckDNS, Cloudflare, and many others, making it a flexible choice for users with diverse needs. Whether you're a home user looking to access your network remotely or a business maintaining an online presence, ddclient offers seamless integration with popular DDNS providers, ensuring that your domain always points to the correct IP address.
 
-{{<mermaidjs>}}
+```mermaid
 flowchart LR
     subgraph InternetArea
      Internet --> Cloudflare
@@ -65,7 +64,7 @@ flowchart LR
       Ubiquity-U7-Pro --> Phones(Phones)
       Ubiquity-U7-Pro --> Tablets(Tablets)
     end
-{{</mermaidjs>}}
+```
 
 
 ## Installation

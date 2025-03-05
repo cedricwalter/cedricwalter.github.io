@@ -28,7 +28,6 @@ tags:
   - network
   - dynamic-ip
   - linux
-mermaid: true
 draft: true
 ---
 

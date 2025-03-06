@@ -1,6 +1,6 @@
 ---
 title: "Ditch american products! EU first"
-date: 2024-03-05T09:44:17+01:00
+date: 2025-03-05T09:44:17+01:00
 summary: "list of federated selfhosted apps that can replace all major social network like x, Instagram, Facebook, reddit, messenger and other"
 categories:
   - Homelab
@@ -9,6 +9,9 @@ tags:
   - trump-is-an-idiot
   - putin-dictator
   - eu-freedom
+  - scoial-network-will-end-civilization
+  - freedom-of-speech-but-respect-law
+  - foreign-country-manipulation
 ---
 Here’s a list of federated, self-hosted apps that can replace major social networks and platforms. These are typically built on open protocols like ActivityPub or Matrix, allowing federation and interoperability!
 

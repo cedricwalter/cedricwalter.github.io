@@ -6,10 +6,12 @@ categories:
   - Homelab
 tags:
   - trump-is-an-idiot
+  - putin-dictator
+  - eu-freedom
 ---
 Here’s a list of federated, self-hosted apps that can replace major social networks and platforms. These are typically built on open protocols like ActivityPub or Matrix, allowing federation and interoperability!
 
-{{< notice warning>}}
+{{< notice warning>}} 
 The best is to ditch all social networks, they make you loose time, polarize society. We are at this point of history because of these tools!
 {{< /notice >}}
 

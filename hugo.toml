@@ -92,6 +92,7 @@ paginate = 15
 
   # options
   stickyNav = true
+  showSummaryCoverInPost = true
   # reorderNavItems = ["search", "rss", "posts", "categories", "tags"]
   # collapseNavItems = ["posts", "categories", "tags"]
   # noDefaultSummaryCover = true

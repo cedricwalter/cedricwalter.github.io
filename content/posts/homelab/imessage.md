@@ -80,7 +80,6 @@ Whatsapp n'est pas très loin non plus:
 - Des 0-days pendant 1 mois et plus
 - Facebook pourra toujours dire que c'est la faute à un bug
 - Une grande communauté de hackers cherchent en permanence des failles
-- Je ne veut pas installer l
 
 iMessage à aussi des problèmes mais moins que toute ces applications de plusieurs 100 de mégaoctets qui contient plus de code pour vous tracer et vous profiler.
 

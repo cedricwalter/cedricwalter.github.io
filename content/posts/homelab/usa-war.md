@@ -63,6 +63,10 @@ The best is to ditch all social networks, they make you loose time, polarize soc
 - [Hubzilla](https://hubzilla.org/): A privacy-aware, federated platform with features like forums, wikis, and file sharing.  
 
 ## Replacement for Reddit  
+{{< notice info>}} 
+What is Lemmy? see https://lemm.ee/post/37715 and all Lemmy apps can be found at https://www.lemmyapps.com
+{{< /notice >}} 
+
 - [Lemmy](https://join-lemmy.org): A federated alternative to Reddit, allowing communities to create and moderate their own instances.  
 - [Kbin](https://kbin.pub/): A federated Reddit-like platform that also supports microblogging.  
 

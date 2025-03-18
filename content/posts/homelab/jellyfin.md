@@ -120,6 +120,10 @@ https://github.com/iptv-org/iptv
 
 some channels will be geo blocked
 
+# Jellyfin universe
+A great list of all addons, clients you can use:
+https://github.com/awesome-jellyfin/awesome-jellyfin/
+
 # Running Filebot for free
 If you have some media that require renaming, Filebot can quickly rename a bulk of media files by pulling their metadata from specific resources. This is great until the application became closed source or behind the paywall. There are many forks of the last open-source version, but the repo from coppit/filebot is a docker container with web-UI. The old version 4.9.7 is still open source and is mroe than enough to support plex or jellyfin.
 

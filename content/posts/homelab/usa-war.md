@@ -17,10 +17,19 @@ tags:
   - foreign-country-manipulation
 ---
 
+# Installing pihole / adguard home
+Pihole or any ads blocker is a great way to remove all publicity and trackers. This is a good way to reduce US big corporations grip on you.
+
 # AI
 ## Replacement for OpenAI ChatGPT
 use LeChat from MistralAI https://chat.mistral.ai/chat
 or better Ollama.com and https://github.com/open-webui/open-webui if your computer is fast enough (16GB Ram, and/or with a GPU)
+
+# Amazon
+If you're looking for European alternatives to Amazon, there are several regional e-commerce platforms that have gained popularity and trust among local consumers. Here are a few notable options:
+* Otto.de (Germany): A well-established e-commerce platform in Germany, offering a wide range of products and enjoying broad trust among local consumers 1.
+* Cdiscount (France): This platform provides a variety of products and has its own logistics solution, similar to Amazon's services. It also offers access to other e-commerce platforms in Europe through its International Marketplace Network 1.
+* Bol (Belgium/Netherlands): A popular choice in the Benelux region, Bol is known for its reliability and growing customer base 1.
 
 # IDE
 ## Replacement for Vidual Studio Code
@@ -31,11 +40,10 @@ Microsoft’s vscode source code is open source (MIT-licensed), but the product 
 ```
 When we [Microsoft] build Visual Studio Code, we do exactly this. We clone the vscode repository, we lay down a customized product.json that has Microsoft specific functionality (telemetry, gallery, logo, etc.), and then produce a build that we release under our license.
 When you clone and build from the vscode repo, none of these endpoints are configured in the default product.json. Therefore, you generate a “clean” build, without the Microsoft customizations, which is by default licensed under the MIT license```
-
+```
 The VSCodium project exists so that you don’t have to download+build from source. This project includes special build scripts that clone Microsoft’s vscode repo, run the build commands, and upload the resulting binaries for you to GitHub releases. These binaries are licensed under the MIT license. Telemetry is disabled.
 
 # Social Networks
-
 Here’s a list of federated, self-hosted apps that can replace major social networks and platforms. These are typically built on open protocols like ActivityPub or Matrix, allowing federation and interoperability!
 
 {{< notice warning>}} 
@@ -62,14 +70,17 @@ The best is to ditch all social networks, they make you loose time, polarize soc
 - [Matrix](https://matrix.org/) (with apps like [Element](https://element.io/)): A decentralized communication protocol for secure messaging, VoIP, and collaboration.  
 - [XMPP](https://xmpp.org) (e.g., with [Conversations](https://conversations.im/)): A robust protocol for messaging and presence information.  
 
-## Replacement for YouTube  
+## Replacement for YouTube 
+{{< notice info>}} 
+I think that as soon as LORA or any other AI tool is able to generate video fast enough, Youtube will disappear as video will be produced on demand instead of being produced by influencers. There is no reason to store a video hoping they will be found or viewed if AI can generate anything... 
+{{< /notice >}} 
 - [PeerTube](https://joinpeertube.org/): A federated video hosting platform with features similar to YouTube.  
 
 ## Replacement for TikTok  
 - [Owncast](https://owncast.online/): A self-hosted live streaming service that could be adapted for short video content.  
 - [Peertube](https://joinpeertube.org/): Can also be used for short video clips with proper configuration.  
 
-## Replacement for WhatsApp or Signal  
+## Replacement for Meta WhatsApp or Signal or Telegram or Meta Messenger
 - [Matrix](https://matrix.org/): Secure messaging, with end-to-end encryption.  
 - [Jami](https://jami.net/): A peer-to-peer alternative for secure chat and video calls without servers.  
 

@@ -31,8 +31,11 @@ If you're looking for European alternatives to Amazon, there are several regiona
 * Cdiscount (France): This platform provides a variety of products and has its own logistics solution, similar to Amazon's services. It also offers access to other e-commerce platforms in Europe through its International Marketplace Network 1.
 * Bol (Belgium/Netherlands): A popular choice in the Benelux region, Bol is known for its reliability and growing customer base 1.
 
+# Windows
+Linux run great on any machine and Steam support it through proton. Moving from a windows 10 or 11 desktop and you wont regret it!
+
 # IDE
-## Replacement for Vidual Studio Code
+## Replacement for Visual Studio Code
 https://vscodium.com/#install
 
 Microsoft’s vscode source code is open source (MIT-licensed), but the product available for download (Visual Studio Code) is licensed under this not-FLOSS license and contains telemetry/tracking. According to this comment from a Visual Studio Code maintainer:

@@ -107,10 +107,20 @@ services:
       - /root/docker/traefik/dynamic_conf.yml:/dynamic_conf.yml
       #- /root/docker/traefik/rules:/rules:ro
     labels:
-          - traefik.enable=true
-          - traefik.http.services.traefik.loadbalancer.server.port=8080
-          - traefik.http.middlewares.waf.plugin.traefik-modsecurity-plugin.modSecurityUrl=http://waf:80
-          - traefik.http.middlewares.waf.plugin.traefik-modsecurity-plugin.maxBodySize=10485760
+      - traefik.enable=true
+          
+      # fix issue 1 (Incorrect Routing to Jellyfin outside of docker), you need to make sure 
+      # that requests to /.well-known/acme-challenge/ are not forwarded to Jellyfin
+      # and are instead handled by Traefik itself. Here’s how you can do it:
+      - "traefik.http.routers.acme-challenge.rule=PathPrefix(`/.well-known/acme-challenge/`)"
+      - "traefik.http.routers.acme-challenge.entrypoints=http"
+      - "traefik.http.routers.acme-challenge.service=noop@internal"
+      # end fix issue 1
+
+      # Restrict Dashboard Access to Internal IPs
+      # You can allow only specific IP ranges (e.g., your internal network):
+      - "traefik.http.routers.api.middlewares=ipallowlist"
+      - "traefik.http.middlewares.ipallowlist.ipallowlist.sourcerange=192.168.1.0/24,10.0.0.0/8"
   waf:
     image: owasp/modsecurity-crs:apache
     environment:

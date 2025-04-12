@@ -5,6 +5,8 @@ summary: "list of federated selfhosted apps that can replace all major social ne
 categories:
   - Homelab
 cover: "how-trumps-tariffs-against-his-allies-work.webp"
+images: 
+  - "how-trumps-tariffs-against-his-allies-work.webp"
 tags:
   - trump-is-an-idiot
   - putin-dictator

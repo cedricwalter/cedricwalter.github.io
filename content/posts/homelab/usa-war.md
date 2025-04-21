@@ -4,9 +4,9 @@ date: 2025-03-05T09:44:17+01:00
 summary: "list of federated selfhosted apps that can replace all major social network like x, Instagram, Facebook, reddit, messenger and other"
 categories:
   - Homelab
-cover: "how-trumps-tariffs-against-his-allies-work.webp"
+cover: "https://www.waltercedric.com/homelab/how-trumps-tariffs-against-his-allies-work.webp"
 images: 
-  - "how-trumps-tariffs-against-his-allies-work.webp"
+ - "https://www.waltercedric.com/homelab/how-trumps-tariffs-against-his-allies-work.webp"
 tags:
   - trump-is-an-idiot
   - putin-dictator

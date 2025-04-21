@@ -36,69 +36,69 @@ flowchart LR
     end
 
     subgraph User Area
-    Users(:pouting_man::pouting_woman::pouting_man::pouting_woman:) --> Homarr(Homarr Dashboard)
-    Users(:pouting_man::pouting_woman::pouting_man::pouting_woman:) --> Jellyfin(Jellyfin Mediacenter)
+    Users --> Homarr
+    Users --> Jellyfin
 
-    Users(:pouting_man::pouting_woman::pouting_man::pouting_woman:) --> Kavita(Kavita comics reader)
+    Users --> Kavita
     Kavita --> |read|KavitaFolder[(Kavita folder)]
 
-    Users(:pouting_man::pouting_woman::pouting_man::pouting_woman:) --> CalibreWeb(CalibreWeb books reader)
+    Users --> CalibreWeb
     CalibreWeb --> |read|CalibreWebFolder[(CalibreWeb folder)]
 
-    Jellyfin --> Jellyseer((Jellyseer request))
+    Jellyfin --> Jellyseer
     Jellyfin --> |read, write|JellyfinFolder[(Jellyfin folder)]
 
-    Users(:frowning_man::frowning_man::frowning_man:) --> Jellyseer(Jellyseer requests)
+    Users --> Jellyseer
 
     end
 
     subgraph Admin Area
 
-    Jellyseer(Jellyseer requests) --> Sonarr(Sonarr for series)
-    Jellyseer(Jellyseer requests) --> Radarr(Radarr for movies)
+    Jellyseer --> Sonarr
+    Jellyseer --> Radarr
 
-    Admin(Admin :ninja:) --> Prowlar
-    Prowlar(Prowlar for indexers) --> |RSS, API|Torrents
-    Prowlar(Prowlar for indexers) --> |RSS, API|NZB
+    Admin --> Prowlar
+    Prowlar --> |API|Torrents
+    Prowlar --> |API|NZB
 
-    Prowlar(Prowlar for indexers) --> |use proxy|Solarflare(Solarflare proxy)
-    Prowlar(Prowlar for indexers) --> |Inject indexers|Sonarr
-    Prowlar(Prowlar for indexers) --> |Inject indexers|Radarr
-    Prowlar(Prowlar for indexers) --> |Inject indexers|Lidarr
-    Prowlar(Prowlar for indexers) --> |Inject indexers|Readarr
-    Prowlar(Prowlar for indexers) --> |Inject indexers|Mylar3
-    Prowlar(Prowlar for indexers) --> |Inject indexers|Bazarr
+    Prowlar --> |use proxy|Solarflare(Solarflare proxy)
+    Prowlar --> |API|Sonarr
+    Prowlar --> |API|Radarr
+    Prowlar --> |API|Lidarr
+    Prowlar --> |API|Readarr
+    Prowlar --> |API|Mylar3
+    Prowlar --> |API|Bazarr
 
-    Admin(Admin :ninja:) --> Lidarr
-    Admin(Admin :ninja:) --> Filebot(Filebot 8080)
-    Lidarr(Lidarr Audio) --> |as download client|RTDClient(Real-Debrid Torrent Client)
+    Admin --> Lidarr
+    Admin --> Filebot(Filebot 8080)
+    Lidarr(Lidarr Audio) --> |as download client|RTDClient
 
-    Admin(Admin :ninja:) --> Readarr
+    Admin --> Readarr
     Readarr --> |write new books|CalibreWebFolder
-    Readarr(Readarr Book) --> |as download client|RTDClient(Real-Debrid Torrent Client)
-    Readarr(Readarr Book) --> |as download client|SABnzbd(SABnzbd usenet client)
+    Readarr --> |as download client|RTDClient
+    Readarr --> |as download client|SABnzbd(SABnzbd usenet client)
 
-    Admin(Admin :ninja:) --> Radarr
-    Radarr(Radarr Movies) --> |as download client|RTDClient(Real-Debrid Torrent Client)
+    Admin --> Radarr
+    Radarr(Radarr Movies) --> |as download client|RTDClient
 
-    Admin(Admin :ninja:) --> Sonarr
-    Sonarr(Sonarr TVshow) --> |as download client|RTDClient(Real-Debrid Torrent Client)
+    Admin --> Sonarr
+    Sonarr --> |as download client|RTDClient
 
-    Admin(Admin :ninja:) --> Mylar3
+    Admin --> Mylar3
     Mylar3 --> |write new comics|KavitaFolder
-    Mylar3(Mylar3 Comics) --> |as download client|RTDClient(Real-Debrid Torrent Client)
+    Mylar3 --> |as download client|RTDClient
 
-    Admin(Admin :ninja:) --> Bazarr
-    Bazarr(Bazarr Subtitle) --> |as download client|RTDClient(Real-Debrid Torrent Client)
+    Admin --> Bazarr
+    Bazarr --> |as download client|RTDClient
 
-    Admin(Admin :ninja:) --> RTDClient(Real-Debrid Torrent Client)
-    RTDClient(Real-Debrid Torrent Client) --> |API key|RealDebrid(https://real-debrid.com)
-    RTDClient(Real-Debrid Torrent Client) --> |write|LidarrFolder[(Lidarr folder)]
-    RTDClient(Real-Debrid Torrent Client) --> |write|SonarrFolder[(Sonarr folder)]
-    RTDClient(Real-Debrid Torrent Client) --> |write|ReadarrFolder[(Readarr folder)]
-    RTDClient(Real-Debrid Torrent Client) --> |write|RadarrFolder[(Radarr folder)]
-    RTDClient(Real-Debrid Torrent Client) --> |write|Mylar3Folder[(Mylar3 folder)]
-    RTDClient(Real-Debrid Torrent Client) --> |write|BazarrFolder[(Bazarr folder)]
+    Admin --> RTDClient
+    RTDClient --> |API key|RealDebrid(https://real-debrid.com)
+    RTDClient --> |write|LidarrFolder[(Lidarr folder)]
+    RTDClient --> |write|SonarrFolder[(Sonarr folder)]
+    RTDClient --> |write|ReadarrFolder[(Readarr folder)]
+    RTDClient --> |write|RadarrFolder[(Radarr folder)]
+    RTDClient --> |write|Mylar3Folder[(Mylar3 folder)]
+    RTDClient --> |write|BazarrFolder[(Bazarr folder)]
     end
 ```
 

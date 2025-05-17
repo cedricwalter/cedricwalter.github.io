@@ -145,7 +145,7 @@ paginate = 15
   collapsibleTags = true
   collapseBySummary = true
   #disableFlip = true
-  #hideBackSocialLinks = true
+  hideBackSocialLinks = true
 
   # [params.experimental]
   #   jsDate = true

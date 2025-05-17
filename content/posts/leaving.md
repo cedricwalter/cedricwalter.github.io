@@ -1,5 +1,5 @@
 ---
-title: "Why Having a Personal Blog Might Be a Bad Idea in the Age of AI, 20 reasons to quit"
+title: "Why having a personal blog might be a bad idea in the age of AI, 20 reasons to quit"
 date: 2025-05-16T10:44:17+01:00
 summary: "Writing will always be a powerful form of expression. But in the age of AI, where everything online can be recorded, analyzed, and weaponized, a personal blog is no longer just a creative outlet — it’s a dataset. If you choose to write, do so with intention and awareness. The stakes are higher than ever. AI-generated video and picture influencers are poised to destabilize social networks, particularly in relation to the personal blog and online identity."
 tags:
@@ -24,7 +24,7 @@ tags:
   - InternetCulture  
   - DigitalVulnerability
 ---
-waltercedric.com was created in 1997 and went trough different technological mutations (static, java applet, javascript, mambo cms, joomla cms, wordpress cms, jekyll, hugo), today 17 May 2025 is the last day of my personal blog.
+{{< notice note>}}waltercedric.com was created in 1997 and went trough different technological mutations (static, java applet, javascript, mambo cms, joomla cms, wordpress cms, jekyll, hugo), today 17 May 2025 is the last day of my personal blog.{{< /notice >}}
 
 The internet once celebrated the personal blog as a digital sanctuary — a place to share thoughts, experiences, and ideas with a global audience. But the landscape has shifted dramatically. In the age of AI, the personal blog is no longer the quaint creative outlet it once was. It’s now a double-edged sword. Here's why you might want to think twice before baring your life online.
 

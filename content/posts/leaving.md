@@ -91,11 +91,11 @@ If you still want to write online, consider more controlled platforms:
 * Use newsletters with subscriber-only access (e.g., Substack).
 * Write anonymously if you’re sharing sensitive opinions.
 * Focus on private writing communities or platforms with stricter content protection.
-* Keep a personal offline journal — yes, analog still has value.
+* Keep a personal offline journal — yes, analog still has value. https://obsidian.md or any other self hosted note taking software is a good idea (but encrypt and do backups)
 
 # My Final Words
 The best is simply to QUIT and live in the real world.
 
 Do you really want to see all these AI generated stuff and only be able to focus during 5sec till the next swipe or video reels?
 
-I Quit now!
+I Quit today!

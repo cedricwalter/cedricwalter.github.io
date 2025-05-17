@@ -3,8 +3,26 @@ title: "Why Having a Personal Blog Might Be a Bad Idea in the Age of AI, 20 reas
 date: 2025-05-16T10:44:17+01:00
 summary: "Writing will always be a powerful form of expression. But in the age of AI, where everything online can be recorded, analyzed, and weaponized, a personal blog is no longer just a creative outlet — it’s a dataset. If you choose to write, do so with intention and awareness. The stakes are higher than ever. AI-generated video and picture influencers are poised to destabilize social networks, particularly in relation to the personal blog and online identity."
 tags:
-  - AI
-  - Blog
+  - ArtificialIntelligence  
+  - Privacy  
+  - DigitalIdentity  
+  - AIInfluencers  
+  - ContentCreation  
+  - BloggingRisks  
+  - SurveillanceCapitalism  
+  - TechEthics  
+  - AIvsHuman  
+  - DigitalFootprint  
+  - Deepfakes  
+  - SocialMediaDecline  
+  - OnlineSafety  
+  - AlgorithmicBias  
+  - ContentScraping  
+  - AuthenticityOnline  
+  - SEOProblems  
+  - AIContent  
+  - InternetCulture  
+  - DigitalVulnerability
 ---
 waltercedric.com was created in 1997 and went trough different technological mutations (static, java applet, javascript, mambo cms, joomla cms, wordpress cms, jekyll, hugo), today 17 May 2025 is the last day of my personal blog.
 

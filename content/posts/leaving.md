@@ -24,7 +24,7 @@ tags:
   - InternetCulture  
   - DigitalVulnerability
 ---
-{{< notice note>}}waltercedric.com was created in 1997 and went through many technological mutations (static HTML, JAVA applet, Javascript, Mambo cms, Joomla cms, Wordpress cms, Jekyll and finally Hugo). Up to 1,5 millions visitors per month at it popularity peak. Today 17 May 2025 is the last day of my personal blog.{{< /notice >}}
+{{< notice note>}}waltercedric.com was created in 1997 and went through many technological mutations (static HTML, JAVA applet, Javascript, Mambo cms, Joomla cms, Wordpress cms, Jekyll and finally Hugo). Up to 1,5 millions visitors per month at it popularity peak. {{< /notice >}}
 
 The internet once celebrated the personal blog as a digital sanctuary — a place to share thoughts, experiences, and ideas with a global audience. But the landscape has shifted dramatically. In the age of AI, the personal blog is no longer the quaint creative outlet it once was. It’s now a double-edged sword. Here's why you might want to think twice before baring your life online.
 
@@ -162,5 +162,3 @@ If you still want to write online, consider more controlled platforms:
 The best is simply to QUIT and live in the real world.
 
 Do you really want to see all these AI generated stuff and only be able to focus during 5sec till the next swipe or video reels?
-
-I Quit today!

@@ -68,3 +68,14 @@ https://alpackaraft.com/products/mage
 
 Ne jamais économiser sur le casque, ni les élément de sécurité.
 
+# Mise en route
+
+https://alpackaraft.com/getting-started
+
+ou 
+
+{{< youtube tSAYgiuSNSw >}}
+
+# Spots
+
+https://www.paddle-spots.com/schweiz/ 

@@ -18,7 +18,7 @@ My setup use
 
   * Nginx instead of Apache
   * An easier setup, with less steps
-  * You can display Bitcoin, Ethereum or any other cryptocurrencies (<a href="https://github.com/cedricwalter/raspicryptoticker/issues" target="_blank" rel="noreferrer noopener">request</a>)
+  * You can display Bitcoin, Ethereum or any other cryptocurrencies https://github.com/cedricwalter/raspicryptoticker/issues"
   * I also provide a ready to use image
 
 ## Shopping list
@@ -139,7 +139,7 @@ sudo unzip ethereum.zip
 
 ## Install LCD drivers
 
-My screen is the <a href="http://www.lcdwiki.com/3.5inch_RPi_Display" target="_blank" rel="noreferrer noopener">3.5” version</a>
+My screen is the http://www.lcdwiki.com/3.5inch_RPi_Display
 
 ```bash # install LCD driver
 sudo apt update

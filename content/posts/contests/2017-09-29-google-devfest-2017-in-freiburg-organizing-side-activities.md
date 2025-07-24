@@ -72,7 +72,7 @@ Not everything is on pictures, NES and SNES classic are missing for example.
 
 Get your ticket now <https://devfest.ch/>
 
-BTW, I was also <a href="https://2016.devfest.ch/" target="_blank" rel="noopener noreferrer">there last year</a> in 2016, watch [the gallery][1] and also <a href="https://photos.google.com/share/AF1QipOoTbkCfOYCn2IMoXe9MoMHi9MoZNsCFWwQoBXL276oYZcgWDw-RCndc9SXPoD7ww?key=OTVPLXE3TTRuRzE4TjZNR3ZNSFZTc1M1eWE4cFJB" target="_blank" rel="noopener noreferrer">the interesting talks</a>
+BTW, I was also https://2016.devfest.ch/
 
 ### Rapsberry Pi Gertboard
 

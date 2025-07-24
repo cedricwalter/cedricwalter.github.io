@@ -30,7 +30,8 @@ Total cost of upgrade: 37$ and a bit of time
 
 ## Parts to order:
 
-The new Screen, a 10.1 inch 1366*768 LCD Screen Display TFT Monitor for Raspberry Pi 3 / 2 Model B from <a href="https://www.aliexpress.com/item/32657119718.html?spm=a2g0s.9042311.0.0.1f8b4c4dSm4xry" target="_blank" rel="noopener noreferrer">AliExpress</a>
+The new Screen, a 10.1 inch 1366*768 LCD Screen Display TFT Monitor for Raspberry Pi 3 / 2 Model B from 
+https://www.aliexpress.com/item/32657119718.html?spm=a2g0s.9042311.0.0.1f8b4c4dSm4xry
 
 This 10.1 inch High-resolution 1366*768 LCD display module kit is especially designed as a monitor for Raspberry Pi 3 / 2 Model B and Raspberry Pi B+ B A+. For use with a Raspberry Pi we suggest editing config.txt to set the HDMI to the native 1366&#215;768 in case it doesn 't detect the resolution properly. The easiest way to edit the config.txt is to put the Pi TF card into an every day computer and edit config.txt with any text editor and save.
 
@@ -82,7 +83,7 @@ Get any 12V / 2A power supply
 
 ## 1. Mounting the new screen
 
-Just disassemble the Picade, removing the old screen. You will have to cut the cardboard to the new screen size. It is not difficult, just take your time to cut properly the cardboard.<figure class="wp-block-image">
+Just disassemble the Picade, removing the old screen. You will have to cut the cardboard to the new screen size. It is not difficult, just take your time to cut properly the cardboard.
 
 {{< foldergallery src="picade/newscreen" >}}
 
@@ -151,8 +152,8 @@ And latest firmware
 curl https://get.pimoroni.com/picadefw | bash
 ```
 
-> ATTENTION
-> <cite>do not update raspbian with apt update/upgrade this will break <a href="https://retropie.org.uk/">RETROPIE</a></cite>
+ATTENTION
+do not update raspbian with apt update/upgrade this will break https://retropie.org.uk/
 
 Reboot one more time with
 

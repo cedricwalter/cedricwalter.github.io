@@ -28,7 +28,7 @@ Reducing this amount of object was the first priority, a lot of them are meta da
 
 ****
 
-Entropy and cardinality of <a href="http://en.wikipedia.org/wiki/Metadata" style="font-weight: bold">meta data</a>
+Entropy and cardinality of http://en.wikipedia.org/wiki/Metadata
 An Attribute may have an unlimited number of meta text (among other things), common [meta data][2] keys are  "long", and "short" and "help" text description in 4 languages (en\_us, fr\_ch, de\_ch, it\_ch), while this is not a problem in the database, this make the Product  object tree size quite huge  in the Product cache (containing Products Value Object). ..Counting some of them in database for example return stunning result.
 We found 60000 "long" texts which translate into 60000 String text keys and 60000 String text values (worst case scenario since texts values may not be all reusable). Reducing this number of Objects is done quite easily by not creating new instance of  String, Decimal, Integer object and returning always the right and same Object instance. (we keep them in a MAP and return either a new instance or a previously cache one).
 
@@ -55,22 +55,3 @@ For example the class [FastTable][6] has the following advantages over the widel
 
 >Different caching strategy
 By design the ProductCatalog is able to use many caching strategy. One is named "Nocache" limit number of object in memory to the bare minimum, and redirect all access to product to database. In a mono user environment, and since products reside in 4 tables only (so only 4 select to read all data from DB and some VO to rebuild the tree are needed), the through output is more than enough.
-
-More to come
-
-References
-
-  * <a href="http://javaperformancetuning.com/" class="l" onmousedown="return rwt(this,'','','res','1','AFQjCNGAv7KnlcQUj4eklkuH-PqKSMoiHg','&#038;sig2=AyG0YvH5lOAbX5E_5eDa-g')">Java Performance Tuning </a>Tips, resources, and monthly newsletter on improving the performance of applications.
-  * <a href="http://java.sun.com/performance/reference/whitepapers/tuning.html" class="l" onmousedown="return rwt(this,'','','res','3','AFQjCNFfVGrdWJC3QmnYJboLs60vjkkTgw','&#038;sig2=29sbJg7OGOf9KfNcjcD6kQ')">Java Tuning White Paper </a>The Java Tuning White Paper is the reference for Java Performance Tuning information, techniques and pointers.
-  * [Tomcat WIKI][8]
-  * [Apache MyFaces WIKI][9]
-
- [1]: content/view/1220/1/
- [2]: http://en.wikipedia.org/wiki/Metadata
- [3]: http://java.sun.com/j2se/1.4.2/docs/api/java/lang/reflect/Proxy.html
- [4]: http://java.sun.com/j2se/1.4.2/docs/api/java/lang/reflect/InvocationHandler.html
- [5]: http://javolution.org/
- [6]: http://javolution.org/api/javolution/util/FastTable.html
- [7]: http://javolution.org/api/javolution/util/FastMap.html
- [8]: http://wiki.apache.org/tomcat/
- [9]: http://wiki.apache.org/myfaces/

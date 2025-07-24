@@ -32,7 +32,7 @@ A displayOTron (<a rel="noreferrer noopener" href="https://shop.pimoroni.com/pro
 
 Your SD-card needs to contain the software. You can take the long road by **building the SD-card** image yourself or **use the already prepared SD-Card image:**
 
-**Download SD-Card image &#8211; Version 1.0:** <a href="https://drive.google.com/open?id=1XZLb0e2J3-wHaR2At0dT-rYQ0IfkhdYK" target="_blank" rel="noreferrer noopener">https://drive.google.com/open?id=1XZLb0e2J3-wHaR2At0dT-rYQ0IfkhdYK</a>
+**Download SD-Card image &#8211; Version 1.0:** https://drive.google.com/open?id=1XZLb0e2J3-wHaR2At0dT-rYQ0IfkhdYK
 
 SHA-256:** **6380f16ff0546864cc9e53ee948ea63dcf47c6decbea50cf17ece7cd8613f72e
 
@@ -76,7 +76,7 @@ pip install coinbase```
 
 ## Get a Coinbase API key
 
-**We will use a Public endpoint, if you do more than 3 requests per second, up to 6 requests per second in bursts, you ll need an API Key.** (<a href="https://docs.pro.coinbase.com/#rate-limits" target="_blank" rel="noreferrer noopener">doc</a>)
+**We will use a Public endpoint, if you do more than 3 requests per second, up to 6 requests per second in bursts, you ll need an API Key.** (https://docs.pro.coinbase.com/#rate-limits)
 
 I recommend you for security reasons to create **ANOTHER** empty Coinbase account.
 

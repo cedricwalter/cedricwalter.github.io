@@ -77,7 +77,7 @@ sudo npm install bitcoin-chart-cli -g```
 
 ## Install LCD drivers
 
-My screen is the <a href="http://www.lcdwiki.com/3.5inch_RPi_Display" target="_blank" rel="noreferrer noopener">3.5" version</a>
+My screen is the http://www.lcdwiki.com/3.5inch_RPi_Display 
 
 ```bash # install LCD driver
 sudo apt update

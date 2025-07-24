@@ -150,7 +150,7 @@ Remercions l 'Equipe au complet: J. B. Bonnet, J. Béringuer, G. Schmitt, E. Wal
 G. Guillaume et surtout un grand merci à l 'administration, aux professeursqui nous ont soutenu ainsi qu 'aux techniciens sans qui nous aurions eu beaucoup de difficultés à réaliser le robot.
 
 ## Le robot 1999 de l ESSAIM en images
-Le Robot de l 'ESSAIM (aujourd 'hui appeleé <a rel="noreferrer noopener" href="http://www.ensisa.uha.fr/" target="_blank">ENSISA</a>) lors de la coupe E=M6 de Robotique.
+Le Robot de l 'ESSAIM (aujourd 'hui appeleé http://www.ensisa.uha.fr/) lors de la coupe E=M6 de Robotique.
 
 L’ESSAIM est créée par décret le 1<sup>er</sup> août 1990. L’Administrateur Provisoire de cette nouvelle Ecole est le Directeur de l’IRP : Monsieur Gérard METZGER.
 
@@ -168,7 +168,7 @@ Voici Le robot ESSAIM ainsi que nos deux petits modules destructeurs OBee-1 et O
 
 ![](https://www.waltercedric.com/2004/09/Dscf0002.webp)
 
-Le programme en turbo pascal est <a rel="rokbox" href="images/em6/site/pgm.zip">ICI</a>. Il se compile sur le robot et se déclenche dans l 'autoexec.bat au boot du PC.
+Le programme en turbo pascal est images/em6/site/pgm.zip Il se compile sur le robot et se déclenche dans l 'autoexec.bat au boot du PC.
 
 **Vu de Face (cliquer pour élargir):**
 
@@ -278,7 +278,7 @@ L’ascenseur revient vide…
 
 Et c’est reparti pour un tour si l’on peut dire.
 
-Voici la première ébauche de notre système de tir, au cas ou ce ne serait pas encore clair. <a rel="rokbox" href="/2004/09/EbaucheAscenseur.webp">Ebauche du système de tir.</a>
+Voici la première ébauche de notre système de tir, au cas ou ce ne serait pas encore clair. /2004/09/EbaucheAscenseur.webp
 
 **L 'ELECTRONIQUE :**
 
@@ -294,7 +294,7 @@ L’asservissement de suivi de ligne nécessite d’étalonner les leds IR avec 
 
 [![](https://www.waltercedric.com/2004/09/tncapteurir.webp)](/2004/09/capteurir.webp)
 
-Cliquer <a rel="rokbox" href="/2004/09/PCBir.webp">ICI</a> pour voir le PCB qui gère 8 capteurs IR en tout ou rien.
+Cliquer /2004/09/PCBir.webp pour voir le PCB qui gère 8 capteurs IR en tout ou rien.
 
 
 

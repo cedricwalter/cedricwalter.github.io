@@ -59,9 +59,6 @@ A huge portion of that page was first published in raw HTML in 1998! (without CS
 > To use this program, you just need a 128kb RAM Card.. Yes, it 's quite enough, but remember that MetaKernel replace all of your old program utilities
 > A ROM card will be available in few months
 >
-> If you need more informations or if you have questions wrote to :
-> <a href="https://groups.google.com/" rel="nofollow" data-email-masked="">aven@epita.fr</a> . or <a href="https://groups.google.com/" rel="nofollow" data-email-masked="">HPm@micronet.fr</a>
->
 > To order it : wrote to :
 > META-KERNEL
 > 18 rue Sebastien Mercier
@@ -83,13 +80,13 @@ A huge portion of that page was first published in raw HTML in 1998! (without CS
 > Ps : we don 't wrote the MetaKernel for money, only for HP48 users wich wants to use their HP48 the best is possible And sending a paper notice is quite expensive
 > All the MetaKernel 's writer are member of The MDG (Maubert Development Group). The MDG is an official HP developers.
 >
-> Announcement from <a href="https://groups.google.com/g/comp.sys.hp48/c/TAOpeHvwFbc?pli=1" target="_blank" rel="noopener">https://groups.google.com/g/comp.sys.hp48/c/TAOpeHvwFbc?pli=1</a>
+> Announcement from https://groups.google.com/g/comp.sys.hp48/c/TAOpeHvwFbc?pli=1
 
 I bought their license and still have the CARD and printed manual 🙂
 
 # MetaKernel in action
 
-see review <a href="https://www.hpcalc.org/hp48/apps/mk/mk.php" target="_blank" rel="noopener">https://www.hpcalc.org/hp48/apps/mk/mk.php</a>
+see review https://www.hpcalc.org/hp48/apps/mk/mk.php
 
 # ACO Team
 
@@ -99,7 +96,7 @@ ACO stands for Australian Calculator Operation, and is the great HP design team 
 
 MetaKernel  was privately sold by Jean-Yves Avenard.  The ACO team (including Jean-Yves Avenard, Cyrille and other HP-48 developers) based the OS and CAS of the HP49G on MetaKernel, ALG48 and Erable. The version of MetaKernel used was the never-released MK 3.0 that Jean-Yves Avenard originally planned for the 48GX. Afterwards Jean-Yves Avenard made the earlier MK 2.30 (the last one sold for the 48GX) available for free download.
 HP later adapted the 49G OS and CAS for the 49g+ and then the 50g.
-They apparently control the rights to the code from the 49G onward, but not the earlier versions of that code for the 48GX, because those earlier versions remain freely available for download from <a href="http://hpcalc.org/" target="_blank" rel="nofollow noopener" data-saferedirecturl="https://www.google.com/url?hl=en&q=http://hpcalc.org&source=gmail&ust=1649258749267000&usg=AOvVaw3IoB-IFgvA--TrePk7G7TI">hpcalc.org</a>. Jean-Yves Avenard in the HP 48 times. Then HP hired him and he joined ACO.
+They apparently control the rights to the code from the 49G onward, but not the earlier versions of that code for the 48GX, because those earlier versions remain freely available for download from http://hpcalc.org/ Jean-Yves Avenard in the HP 48 times. Then HP hired him and he joined ACO.
 
 # Programming
 
@@ -144,7 +141,7 @@ You can now take **any** HP49G/HP49Gx/HP50G/... in the world, and do a soft rese
 
 ![](https://www.waltercedric.com/hewlett-packard/metakernel.webp)
 
-# Articles (related from <a href="https://groups.google.com/g/comp.sys.hp48" target="_blank" rel="noopener">Comp.sys.hp48</a>)
+# Articles (related from https://groups.google.com/g/comp.sys.hp48)
 
   * [Article from J. Y. Avenard : Contains description of each component of MDGker. Very Interesting.][20]
   * [Article from J. Y. Avenard : It explain us the advantage of Masd notation.][21]
@@ -160,7 +157,7 @@ Click Here to go : <http://www-miaif.lip6.fr/gerald/mk.html>
 
 # Getting more software
 
-As usual, visit <a href="https://www.hpcalc.org/hp48/apps/mk/" target="_blank" rel="noopener">https://www.hpcalc.org/hp48/apps/mk/</a>
+As usual, visit https://www.hpcalc.org/hp48/apps/mk/
 
  [1]: http://www.hpcalc.org/goodbyeaco.php
  [2]: mailto:squelart@aemiaif.lip6.fr

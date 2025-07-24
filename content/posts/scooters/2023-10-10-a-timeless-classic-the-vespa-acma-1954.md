@@ -54,7 +54,7 @@ One name stands out for its enduring charm and timeless appeal – the Vespa Acm
 
 {{< foldergallery src="scooter/vespa/ads" >}}
 
-The Vespa Acma 1954 is not just a scooter; it 's a symbol of Italian style, ingenuity, and timeless design. With its classic lines and enduring charm, it serves as a testament to Vespa 's enduring legacy in the world of scooters. Whether you 're a vintage scooter enthusiast, a collector, or simply someone who appreciates iconic design, the Vespa Acma 1954 is a classic that will forever hold a special place in the hearts of those who encounter it.<figure class="wp-block-image aligncenter size-full">
+The Vespa Acma 1954 is not just a scooter; it 's a symbol of Italian style, ingenuity, and timeless design. With its classic lines and enduring charm, it serves as a testament to Vespa 's enduring legacy in the world of scooters. Whether you 're a vintage scooter enthusiast, a collector, or simply someone who appreciates iconic design, the Vespa Acma 1954 is a classic that will forever hold a special place in the hearts of those who encounter it.
 
 {{< foldergallery src="scooter/vespa/restoration" >}}
 

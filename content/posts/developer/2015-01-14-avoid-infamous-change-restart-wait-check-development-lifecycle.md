@@ -12,7 +12,7 @@ categories:
 ---
 Stop waiting for build & deploy make code changes. Write code and refresh your browser!
 
-Use <a href="http://ssw.jku.at/dcevm" rel="nofollow">DCEVM</a> and add java fields, methods, classes and use them without restarting your application server, it 's a modification of the HotSpot VM that allows unlimited class redefinition at run-time. You can add/remove fields and methods and change the super types of a class at run-time. The features of <a href="http://ssw.jku.at/dcevm" rel="nofollow">DCEVM</a> are likely to be integrated in a future update of #Java 8 as part of <a href="http://openjdk.java.net/jeps/159" rel="nofollow">JEP 159</a>.
+Use http://ssw.jku.at/dcevm"  and add java fields, methods, classes and use them without restarting your application server, it 's a modification of the HotSpot VM that allows unlimited class redefinition at run-time. You can add/remove fields and methods and change the super types of a class at run-time. The features of http://ssw.jku.at/dcevm are likely to be integrated in a future update of #Java 8 as part of http://openjdk.java.net/jeps/159
 
 View code changes instantly and increases team velocity!
 

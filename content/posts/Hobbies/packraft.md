@@ -13,6 +13,12 @@ cover: https://www.waltercedric.com/hobbies/packraft/Alpacka-Mage-SB-Solstice-20
 ---
 Imaginez pouvoir explorer des rivières sauvages, des lacs isolés ou des fjords paisibles avec un bateau qui tient dans votre sac à dos. C’est exactement ce que permet le packraft : une petite révolution dans le monde de l’aventure en plein air.
 
+{{< notice warning>}} 
+Il y a beaucoup de marketting dans le Packraft, ne vous imaginez pas partir en balade avec 2.5kg de matériels. C'est valable sur des rivières ou lac de catégorie 1 dans des pays chaud et SANS néoprène ni casque, ni gilet, ni .....
+
+Pour le Rhin, et les rivières d'altitude à 10-12-14°°C, je suis à 12kg de matériels sans boisson ni nourritures.
+{{< /notice >}}
+
 # Qu’est-ce que le packraft ?
 Le packraft est un bateau gonflable ultra-léger, suffisamment compact pour être transporté dans un sac à dos, mais assez robuste pour naviguer sur des rivières, lacs, voire même certains cours d’eau agités. Il combine la liberté de la randonnée et l’exploration aquatique : marche, navigue, répète.
 
@@ -64,9 +70,20 @@ L'alpacka Mage me laisse une très grande marge de progression vers le haut, il 
 
 * Alpacka Mage, un modèle très haut de gamme du leader USA Alpacka. -- 1650.- CHF
 https://alpackaraft.com/products/mage
-* Neopren, Gilet Astral Green jacket, couteau de sécurité, paracorde, Dry Veste, très bon casque -- 1500.- CHF
 
-Ne jamais économiser sur le casque, ni les élément de sécurité.
+Avec quelques accessoires indispensable (1300.-):
+* Pantalon Longjohn 'Blaze' de Palm en néoprène
+* Chaussette en néoprène 'Index' de Palm
+* Gilet Astral 'Greenjacket'
+* Couteau de sécurité 'Wingman'
+* Paracorde 30m
+* Dry Veste 'Rookie 3L' Sandiline 
+* Sac de sauvetage eau vive 'Hornet' de Nookie
+* Chaussure  'Gradient 3.0' en vibram de Palm
+* Casque 'Sweet' de Rocker
+* Hybrid Bow Bag Liner + Hybrid Bow Bag Liner de Alpacka
+
+Ne jamais économiser sur votre casque, ni les élément de sécurité!
 
 # Mise en route
 
@@ -75,7 +92,28 @@ https://alpackaraft.com/getting-started
 ou 
 
 {{< youtube tSAYgiuSNSw >}}
+{{< youtube FiHz7gCnCrY >}}
 
-# Spots
+# Spots, ou aller?
 
 https://www.paddle-spots.com/schweiz/ 
+
+# Les noeuds
+
+Noeud de huit - SOON
+
+Noeud plat - SOON
+
+# Ligne de vie ou perimeter line
+Une ligne de vie (ou perimeter line) sur un packraft est une corde fixée tout autour de l’embarcation, souvent passée dans des anneaux en tissu ou D-rings sur le pourtour du bateau.
+* Sécurité:	Permet de s’agripper en cas de chavirage ou de tomber à l’eau
+* Remorquage:	Utile pour tirer un autre packraft ou se faire remorquer
+* Transport & Portage:	Sert de poignée pour porter ou tirer le packraft à terre
+* Fixation de matériel:	Permet d’attacher sacs étanches, pagaie de secours, etc.
+* Auto-sauvetage:	Indispensable pour remonter dans le bateau après immersion
+
+Choisir une Paracorde flottante, corde de 4–6 mm, souvent en polypropylène, de couleur vive pour une meilleure visibilité.
+
+Passer dans les D-rings ou points d’ancrage autour du raft et ne laisser qu'un jeu modéré! Suffisamment tendue pour ne pas traîner dans l’eau, mais pas trop tendue pour qu’on puisse s’y agripper facilement. 
+Nœud de huit, nœud plat, ou usage de bloqueurs si nécessaire
+Faire tout le tour de l'embarcation, parfois aussi doublée à l’avant ou à l’arrière pour faciliter la prise.

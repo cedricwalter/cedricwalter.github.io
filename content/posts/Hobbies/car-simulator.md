@@ -7,8 +7,15 @@ tags:
   - simrig
   - car-racing
   - computer-simulator
+  - moza
+  - fanatec
+  - raspberry-pi
+  - simhub
+  - assetto-corsa
+  - steam
 categories:
   - Hobbies
+cover: https://www.waltercedric.com/hobbies/car/invictus-car-racing-simulation.webp
 ---
 {{< notice warning>}}
 Work in progress, will document here my tips and tricks for car racing. 

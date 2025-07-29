@@ -24,7 +24,24 @@ You dont need anything to enjoy Microsoft Flight Simulator 2024, you can play on
 These tips apply if you want to seriously make it close to the reality and want to use it as a tool, you need a personal computer, running Windows 11.
 {{< /notice >}}
 
-# Hardware choice
+# "Simulon Prime" flight simulator
+
+## Hardware
+
+* 625.-   (used, price new 1100.-) Honeycomb Yoke and flight throttle management, Thrustmaster TPR rudder
+* 589.-   [Next Level Racing® Flight Seat Pro](https://nextlevelracing.com/products/flight-seat-pro) - **Optional**
+* 649.-   [Next Level Racing® Flight Stand Pro](https://nextlevelracing.com/products/flight-stand-pro) - **Optional**
+* 1942.-  [Puma-X](https://pro-flight-trainer.com/product/puma-x-a-style-snapaction/) A-Style - 5th generation USB Joystick - ONLY for PPL(H) - best joystick for helicopter training - **Optional**
+* 1300.-  (used, price new 3400.-) Next Level Racing Motion V3 Plattform seat-mover - **Optional**
+* 180.-   Next Level Racing Free Standing Single Monitor- **Optional**
+
+**Software**
+* 53.-    X-Plane 12 (New Year end sales)
+* 52.-    Microsoft Flight Simulator Aviator Edition 2024 - **Microsoft discount**
+* 60.-    Air manager v4 Desktop - **Optional**
+* 22.-    Air manager v4 iPad - **Optional**
+* 14.50.- Guimbal Cabri G2 helicopter model - **Optional**
+
 ## Yoke
 | Yoke   |      Product      |  Price |
 |----------|:-------------:|------:|

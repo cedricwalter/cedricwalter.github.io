@@ -63,8 +63,8 @@ Pour qui ?
 
 ![classes de rivières](https://www.waltercedric.com/hobbies/packraft/packraft-river-category.webp)
 
-# Mon equipement
-Vous pouvez faire du packaft sur un Itwit 100 sans combinaison néoprene en été sur les lacs suisse pounr moins de 500.- (Bateau+ pagaies). J'ai decidé d'investir et de ne pas me limiter au rivières de categorie 1. Je vais m'acheter un itiwit 100 quand même mais pour l'avoir sur le vélo en quasi permanence.
+# Mon équipement
+Vous pouvez faire du packaft sur un Itwit 100 sans combinaison néoprene en été sur les lacs suisse pounr moins de 350.- (Bateau 300.- + pagaies 50.-). J'ai decidé d'investir et de ne pas me limiter au rivières de categorie 1. Je vais m'acheter un itiwit 100 quand même mais pour l'avoir sur le vélo en quasi permanence.
 
 L'alpacka Mage me laisse une très grande marge de progression vers le haut, il n'est pas recommandé au débutants, il faut être motivé mais peut être rendu un peu plus stable en dégonflant le fond pour le rendre un peu plus plat.
 
@@ -73,7 +73,7 @@ https://alpackaraft.com/products/mage
 
 Avec quelques accessoires indispensable (1300.-):
 * Pantalon Longjohn 'Blaze' de Palm en néoprène
-* Chaussette en néoprène 'Index' de Palm
+* Chaussette 'Index' de Palm en néoprène
 * Gilet Astral 'Greenjacket'
 * Couteau de sécurité 'Wingman'
 * Paracorde 30m
@@ -85,6 +85,9 @@ Avec quelques accessoires indispensable (1300.-):
 
 Ne jamais économiser sur votre casque, ni les élément de sécurité!
 
+# Avis, comparatif avec le valkyrie v3
+{{< youtube K3QH0DMGp0Y >}}
+
 # Mise en route
 
 https://alpackaraft.com/getting-started
@@ -93,6 +96,7 @@ ou
 
 {{< youtube tSAYgiuSNSw >}}
 {{< youtube FiHz7gCnCrY >}}
+{{< youtube LXyfHpBe57g >}}
 
 # Spots, ou aller?
 

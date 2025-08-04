@@ -17,13 +17,13 @@ categories:
   - Hobbies
 cover: https://www.waltercedric.com/hobbies/car/invictus-car-racing-simulation.webp
 ---
-{{< notice warning>}}
+{{< notice info>}}
 Work in progress, will document here my tips and tricks for car racing. 
 Computer simulation is cheap or can be expensive, but it could be a tool. 
 {{< /notice >}}
 
 {{< notice tips>}}
-You dont need anything to enjoy car racing, you can play on a XBOX. 
+You don't need anything to enjoy car racing, you can play on a XBOX. 
 These tips apply if you want to seriously make it close to the reality and want to use it as a tool, you need a personal computer, running Windows 11.
 {{< /notice >}}
 
@@ -36,11 +36,19 @@ I went the MOZA route as it is a bit cheaper and as good as Fanatec. You can mix
 * 473.- Moza CRP Premium Load-Cell Pedalset
 * 106.- Moza HBP Handbrake
 * 565.- Moza R12 Direct Drive Wheelbase (12 Nm)
-* 285.- Moza KS Gt
+* 285.- Moza KS GT
+* 450.- Next Level Racing simulation rig
 
 ## Software 
 * SimHub - https://www.simhubdash.com - Free or a few euros
 * Content manager - https://assettocorsa.club/content-manager.html - Free
+
+### Games
+* Assetto Corsa
+* DCS World Steam Edition FREE
+* Forza Horizon
+* Forza Motorsport
+* Liftoff
 
 ## DIY racing panels
 You can use cheap Raspberry Pi Touch Display in ALL your favorite car racing simulator!

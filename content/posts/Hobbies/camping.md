@@ -13,7 +13,7 @@ categories:
 
 Se lancer dans le camping, c’est dire oui à l’inconnu, à l’autonomie, et à une nouvelle manière de découvrir le monde. Que vous soyez baroudeur aguerri ou simple curieux de nature, le camping vous ouvre un terrain de jeu immense et poétique.
 
-# My Equipment
+# Mon équipement 
 
 | **What**                   | **Weight**                                  | **Price**                                 |
 |----------------------------|---------------------------------------------|-------------------------------------------|
@@ -24,3 +24,9 @@ Se lancer dans le camping, c’est dire oui à l’inconnu, à l’autonomie, et
 | **Msr Mug 450ml titan**                 | 100 Gr           | 39.-    |
 | **Decathlon groundsheet**               | 595 Gr           | 18.-    |
 | **Decathlon gas stove**                 | 385 Gr           | 39.-    |
+
+## Total
+1'386 CHF
+3,453 Kg
+
+Et si vous partez en mode packraft + camping il vous faut encore du matériel de packraft https://www.waltercedric.com/posts/hobbies/packraft/ qui n'est pas léger non plus!

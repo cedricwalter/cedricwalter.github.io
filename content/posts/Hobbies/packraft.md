@@ -104,6 +104,10 @@ Ne jamais économiser sur votre casque, ni les élément de sécurité!
 | **Sac de sauvetage eau vive 'Hornet' de Nookie** <https://www.nookie.co.uk/product/hornet-18m-rescue-throwline/>              | 630 Gr           | 69.-    |
 | **Paddle werner powerhouse**               | 1169 Gr           | 345.-    |
 
+## Total
+2'602 CHF
+3,664 Kg
+
 
 ## Whitewater eau froide
 | **Description**                   | **Poids**                                  | **Prix**                                 |
@@ -113,12 +117,23 @@ Ne jamais économiser sur votre casque, ni les élément de sécurité!
 | **Dry Veste 'Rookie 3L' Sandiline** <https://www.sandiline.com/en/shop/centres-schools/spraytops-amp-jackets/jacket-rookie-3l-red>             | 595 Gr           | 215.-    |
 | **Chaussure  'Gradient 3.0' en vibram de Palm** <https://palm.equipment/gb/boots/2300-gradient-30-boots>              | 825 Gr           | 159.-    |
 
+## Total
+615 CHF
+2,545 Kg
+
 ## Accessoires
 | **Description**                   | **Poids**                                  | **Prix**                                 |
 |----------------------------|---------------------------------------------|-------------------------------------------|
 | **Hybrid Bow Bag Liner de Alpacka**  20L, 200d Blue Oxford             | 160 Gr           | 80.-    |
 | **Hybrid Bow Bag de Alpacka**   24L                                    | 244 Gr           | 70.-    |
 | **Couteau de sécurité 'Wingman'**               | 86 Gr           | 45.-    |
+
+## Total
+195 CHF
+0.490 Kg
+
+
+Et si vous partez en mode packraft + camping il vous faut encore du matériel de camping https://www.waltercedric.com/posts/hobbies/camping/ qui n'est pas léger non plus!
 
 # Avis, comparatif avec le valkyrie v3
 

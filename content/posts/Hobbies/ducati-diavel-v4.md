@@ -104,7 +104,9 @@ Le style audacieux et agressif de la Diavel V4 est une question de goût. Person
 Les faisceaux électriques bien visibles, bien pourris avec leur connecteurs bien pourri aussi: innaceptable sur une moto de ce prix!
 ![faisceaux électriques bien visibles](https://www.waltercedric.com/moto/xdiavel/ducati-xdiavel-v4-2025-moteur-cables-pas-beau.webp)
 
-Sur la xDiavel V4, votre pied gauche sera auc chaud! tellement que même en botte de moto haute il faudra éloigner le pied du selecteur de vitesse. La cause la durite du radiateur qui a la bonne idée de passer par la, a flanc de sélecteur: ridicule comme choix.
+Sur la xDiavel V4, votre pied gauche sera au chaud! tellement que même en botte de moto haute il faudra éloigner le pied du selecteur de vitesse. La cause la durite du radiateur qui a la bonne idée de passer par la, a flanc de sélecteur: ridicule comme choix.
+
+![xDiavel V4, votre pied gauche sera au chaud!](https://www.waltercedric.com/moto/xdiavel/ducati-xdiavel-v4-2025-pied-gauche-chaud.webp)
 
 J'adore les comodo éclairé, le tableau est lisible-
 

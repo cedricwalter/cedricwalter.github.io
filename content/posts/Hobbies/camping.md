@@ -32,3 +32,14 @@ Se lancer dans le camping, c’est dire oui à l’inconnu, à l’autonomie, et
 4,453 Kg
 
 Et si vous partez en mode packraft + camping il vous faut encore du matériel de packraft https://www.waltercedric.com/posts/hobbies/packraft/ qui n'est pas léger non plus!
+
+# Le poids est votre plus grand ennemi
+
+## Optimiser le poids des tentes Hilleberg
+
+| **Quoi**                   | **Gains**                                  | **Prix**                                 |
+|----------------------------|---------------------------------------------|-------------------------------------------|
+| Vous pouver remplacer tous les cordages d'origine par de la corde en dyneema de 2mm plus légère et >3 foix plus résistante (80kg contre 280kg)  https://www.galaxus.ch/en/s3/producttype/swimming-equipment-1879?textFilter=cord              | 100 Gr           | 40.-    |
+| Remplacer tous les têtes des zipper métallique par de la corde dyneema ou des Night Glow Zipper Pull Kit de MSR ou une version imprimmée en 3D comme: https://makerworld.com/en/models/708883-zipper-pull-tab-pack?from=search#profileId-639155                 | 60 Gr           | 0.
+| Si vous savez que vous partez dans une zonne avec peu de vent, ou le temps n'est pas extreme, utiliser des piquets de tente plus léger, ceux d'origines pésent 70 Gr. 
+          | ??? Gr           | ??.-    |

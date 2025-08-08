@@ -17,11 +17,6 @@ cover: https://www.waltercedric.com/moto/Ducati-Diavel-V4.webp
 ## Essai Ducati Diavel V4 2024 300km le 1 sept 2024
 J’ai roulé sur une Ducati Diavel V4 2024 sur 300 km par temps chaud (31°C) et dans les collines (23°C). Je n’ai pas du tout aimé la conduite en ville avec des arrêts fréquents. J’ai failli me brûler les parties intimes. Voir la température du liquide de refroidissement atteindre 118°C me fait vraiment douter de la conception générale de la moto. 
 
-
-
-
-
-
 ## Essai Ducati xDiavel V4 2025 272km le 5 Aout 2025
 ’ai roulé sur une Ducati xDiavel V5 2025 sur 272 km par temps chaud (27°C) et sur autoroute et ville. Il faut du temps pour l'apprécier, conduire une tondeuse à 34'000 euros sous 4000 tours est assez bizarre 😂
 
@@ -142,8 +137,33 @@ La Diavel V4 est équipée d’un système de désactivation de cylindres qui co
 
 Dès que le pilote redemande de la puissance, les quatre cylindres se réactivent immédiatement.
 
-# Mots de la fin
-En résumé, bien que la chaleur moteur de la Ducati Diavel V4 soit courante chez les motos haute performance, elle est ici particulièrement marquée, un peu moins sur la xDiavel V4. Si vous roulez souvent en ville ou dans des climats chauds, cet aspect doit absolument être pris en compte.
+# Conclusions
+La **Ducati Diavel V4** est un gros et puissant cruiser musclé, avec un moteur qui garde encore un peu d’ADN de sportive. C’est pourquoi elle semble assez inerte en dessous d’environ 4 000 tr/min — la courbe de couple dort jusqu’à ce que les profils d’arbres à cames et le flux d’air prennent vraiment vie.
+Voici ce qui se passe :
+
+### Pourquoi elle paraît « nulle » à bas régime
+
+* Le calage des cames et le croisement des soupapes sont réglés pour la respiration à haut régime, pas pour une conduite tranquille.
+* Les gros corps d’injection et les larges conduits d’admission/échappement signifient une faible vitesse d’air à bas régime, ce qui émousse la réponse du couple.
+* La cartographie ride-by-wire, sur certaines Ducati modernes, adoucit volontairement la puissance à bas régime pour des raisons d’émissions et de douceur.
+* L’ordre d’allumage et le caractère du V4 lui donnent une nature vive, presque impatiente — il est plus heureux quand il prend des tours.
+
+### L’avantage de cette « zone morte »
+
+* Une fois passé la barre des \~4 000 tr/min, le moteur se réveille soudainement — le couple grimpe, la note d’échappement s’approfondit, et vous ressentez cette poussée addictive qui vous fait oublier le démarrage mollasson.
+* C’est en fait la même personnalité qu’un moteur de superbike, simplement installé dans un châssis plus droit, de type power-cruiser.
+
+### Au quotidien
+
+* Le choix des rapports est important — gardez une vitesse plus basse que sur un twin plus coupleux.
+* Les coups de gaz et le maintien au-dessus de 4 000 tr/min permettent de rester dans la bonne plage.
+* Si vous cherchez du couple disponible en reprise tranquille, le caractère de la Diavel semblera toujours un peu impatient.
+* Certains propriétaires font reprogrammer l’ECU ou montent des échappements aftermarket pour épaissir le bas du compte-tours, mais on ne change pas la physique — ça reste un V4 à haut régime.
+
+L’ironie, c’est que sur le papier, la Diavel V4 a beaucoup plus de couple qu’une pure supersport, mais sa livraison est tellement orientée vers le haut du compte-tours qu’en bas, ça paraît vide.
+C’est comme un sprinteur qui marche lentement mais explose en vitesse dès qu’on lui dit « Partez ! »
+
+Enfin, bien que la chaleur moteur de la Ducati Diavel V4 soit courante chez les motos haute performance, elle est ici particulièrement marquée, un peu moins sur la xDiavel V4. Si vous roulez souvent en ville ou dans des climats chauds, cet aspect doit absolument être pris en compte.
 
 Ces inconvénients ne sont pas forcément rédhibitoires pour tout le monde, mais ils méritent réflexion, surtout compte tenu de l’investissement important que représente l’achat et l’entretien d’une xDiavel/Diavel V4.
 

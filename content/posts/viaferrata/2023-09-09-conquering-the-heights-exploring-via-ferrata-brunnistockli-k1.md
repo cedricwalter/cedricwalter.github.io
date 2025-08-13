@@ -45,7 +45,7 @@ Before we dive into the details of Via Ferrata Brunnistöckli, let’s clarify w
 
 ![](https://www.waltercedric.com/2023/09/via-ferrata-equipement-1024x759.webp)
 
-Equipment
+# Equipment
 ---------
 
 To tackle a [via ferrata](/tag/viaferrata/), you’ll need appropriate climbing gear. A climbing harness, helmet, [via ferrata](/tag/viaferrata/) lanyard with energy absorber, and gloves are essential. These can typically be rented if you don’t have your own equipment.

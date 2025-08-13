@@ -18,7 +18,7 @@ Se lancer dans le camping, c’est dire oui à l’inconnu, à l’autonomie, et
 | **What**                   | **Weight**                                  | **Price**                                 |
 |----------------------------|---------------------------------------------|-------------------------------------------|
 | **Hilleberg Allak 2 Red Label** - 2 persons - dome  the fully free standing Unna is supremely easy to pitch nearly anywhere – rocky shores, narrow ridgelines, dense forests (or, of course, even on “perfect” tent sites) – and it boasts an impressive amount of interior space  https://hilleberg.com/eng/products/tent/Allak              | 3300 Gr (2800 Gr)           | 1479.-    |
-| **Ultralight Camping mat Therm-a-Rest NeoAir XLite NXT L.** Thickness 7.5 cm. 1-liter bottle volume. R4.5 30D nylon | 480 Gr           | 215.-    |
+| **Ultralight Camping mat Therm-a-Rest NeoAir XLite NXT L.** Thickness 7.5 cm. 1-liter bottle volume. R4.5 30D nylon | 480 Gr           | 215.- use https://www.waltercedric.com/hobbies/camping/Alpacka_BigAgnes_Thermarest_Adapter.stl  to save weight |
 | **Sea To Summit Aeros Premium (Head & neck pillow)**  30D nylon | 79 Gr           | 40.-    |
 | **Msr PocketRocket 2 gas stove**        | 73 Gr            | 45.-    |
 | **Msr Mug 450ml titan**                 | 100 Gr           | 39.-    |

@@ -12,56 +12,69 @@ tags:
 categories:
   - Amazon
 ---
-I never ordered anything from amazon in 3 years but got suddenly 2 packages I never ordered and now I am forced to pay a bill with penalities.
+I haven’t ordered anything from Amazon in 3 years, but suddenly I received 2 packages I never ordered. Now Riverty is forcing me to pay a bill with penalties (45 CHF).
 
-It seems you can create an amazon account or steal an existing Amazon account, buy something for a total stranger, and make that stranger pay?
+**TL;DR:**
+1. Amazon may detect the fraud and stop it, but…
+2. Riverty can still send a debt letter. They may eventually detect the fraud and cancel everything, but not immediately.
+3. Calling Riverty (+41 44 797 6740) may redirect you to their recovery service in Switzerland, Arvato.
+4. Arvato may not find you in their system, but you could still receive a letter a few days later—or even 3–4 weeks later—after Amazon requests to stop everything.
 
-For that Riverty https://support.riverty.com/amazon/ch_en/ make it clear, "Select your country, your full name and date of birth, then select or add a billing address" data that can be found in any leaks. Really address and birthdate???
+Amazon, Riverty, and Arvato are all victims of hackers. It may take time for them to detect the fraud. Each of them can notice inconsistencies (mismatched email, birthday, or name) and alert the others. The best thing you can do is **contact Amazon immediately**.
 
-# Facts
-- My account shows no suspicious activities and are all protected with 2FA since years or passkey since Amazon support it.
-- In June I got 1 physical packages i never ordered and report to amazon support, told me to destruct the first one
-- In June I got another one I reported too, no response, I treaten them to delete all my accounts
-- In July I deleted all my Amazon accounts
-- Now I got a monthly bill of June 2025 in August 2025!
-- I did recreate all my amazon accounts on Friday 15th August just to contact Amazon support AGAIN
-- Nobody in my family has my adress even if it is uncommon.
-- I never used monthly payment only credit card payment in Amazon
+It seems the hackers’ goal is not to send free gifts to strangers, but rather to make Amazon lose money and time, while upsetting customers. I lost many hours in that case too.
 
-# Solution
-Up to now, I found no way to stop this nonsense, 1h on the phone with a support person (in Africa) that speak French but refuse to speak French because it is a German hotline, he moved the case to a "Specialist" which just sent me somehow a template, here is his answer:
+{{< notice tips >}}
+Going to the police only makes sense if you suffer a real financial loss. Otherwise, you’ll just waste your time—and the police’s time too, since they usually prioritize more urgent cases.
 
-```txt
-On 19 Aug 2025, at 20:17, no-reply@amazon.de wrote:
+You should never have to pay Riverty or Arvato for items you did not order.
 
-Guten Tag!
+**Arvato recommended me:**
+* Wait, and if I get a letter from them, call their hotline again.
+* If I receive new packages, do **not** open them—just keep them.
+{{< /notice >}}
 
-Wir haben Ihr Konto bei Amazon.de Überprüft und dabei keine nicht autorisierten Aktivitten gefunden. Daher haben wir keine Anderungen an Ihrem Konto vorgenommen.
+# My Story
 
-Fur Vorgänge, die als nicht autorisierte Aktivitäten wahrgenommen werden, gibt es hufig folgende Erklärungen:
--- Ein automatisch verlngertes Abonnement
--- Aktivitten von Personen, die Ihnen bekannt sind und Ihr Konto nutzen oder Zugriff auf Ihre Zahlungsdaten haben
--- Ein versehentlicher 1 Click-Kauf
--- Eine Gebühr fr eine frher aufgegebene Bestellung, die gerade versandt wurde
--- Eine Gebühr fr eine Bestellung, die von einem Familienmitglied oder Freund ber ein gemeinsam genutztes sprachgesteuertes Gert aufgegeben wurde
+**June 2025**
 
-Zum Schutz Ihres Kontos empfehlen wir Ihnen, das Passwort fr Ihr Amazon Konto sowie die Passwrter fr Ihre E-Mail-Konten und andere Websites zu ndern.
+* I received a box of *Amazon Basics pens* that I never ordered. I reported it to Amazon support the same day. They told me via chat to destroy, give away, or throw them away.
+* I received a German-language book I never ordered. I reported it the same day, but got no reply. I even threatened to delete all my Amazon accounts.
 
-Weitere Informationen ber sichere Online-Einkufe finden Sie im Bereich "Sicherheit und Datenschutz" auf unseren Hilfeseiten. Falls Sie der Ansicht sind, dass wir etwas bersehen haben, kontaktieren Sie bitte unseren Kundenservice, der Ihnen gern weiterhilft.
+**July 2025**
 
-Woran kann ich erkennen, dass diese E-Mail wirklich von Amazon stammt?
--- E-Mails von Amazon werden immer von einer Adresse gesendet, die auf "@amazon.de" endet.
+* I deleted all my Amazon accounts. (I hadn’t used them for 3 years anyway.)
 
-Kontospezialist
-Amazon.de
-https://www.amazon.de
-```
+**August 2025**
 
-or
+* I received a Riverty bill for June 2025!
+* I recreate my Amazon accounts on 15th August just to be able to ... contact their support again 🙃
+
+My Amazon accounts show no suspicious activity or orders. They’ve been secured with 2FA for years, and I switched to passkeys as soon as Amazon supported them.
+
+# What’s Bad
+
+Apparently, someone can create or steal an Amazon account, buy something for a random stranger, have it delivered to them, and then make that stranger pay later through Riverty’s monthly billing system!
+
+Riverty’s own page makes this clear:
+👉 [https://support.riverty.com/amazon/ch\_en/](https://support.riverty.com/amazon/ch_en/)
+
+It only requires **name, date of birth, and billing address**—all of which are commonly found in data leaks or sold by data brokers. That’s shockingly insecure.
+
+---
+
+# Solutions
+
+1. **Contact Amazon ASAP** and explain the situation.
+2. **Keep screenshots and copies** of all chats and emails. Fraud cases can take time to resolve.
+3. If Riverty/Arvato contacts you, **call them directly**.
+
+I personally spent 1 hour on the phone with a French-speaking support agent (based in Africa) who refused to speak French because it was a German hotline. He escalated the case to a “specialist,” but the reply was just a template (see below).
+
+### Example Reply from Amazon Specialist
 
 ```
 On August 19, 2025, at 8:17 PM, no-reply@amazon.de wrote:
-
 Hello!
 
 We have reviewed your Amazon.de account and found no unauthorized activity. Therefore, we have not made any changes to your account.
@@ -85,6 +98,16 @@ Amazon.de
 https://www.amazon.de
 ```
 
-Of course, none of the "Answers" from that specialist apply to me, none of my friends ordered anything form me ever, my account is not shared and I use unique password for every single services.
+None of these explanations applied to me.
 
-I get soon to a point, that I will have to pay this low amount, but I want to be 100% insured that it will never happen again. By deleting all my amazon accounts. But even that is not guaranted at this point. I fear that huge amount may come
+* I don’t share my account.
+* I use unique passwords for all services.
+* No one I know has ever ordered items for me.
+* Last time i was online in amazon is maybe September 2024
+
+# Final Note
+Calling Riverty, which redirected me to Arvato, turned out to be the right move. My case does not exist in their system (yet) and may never appear.
+All players—Amazon, Riverty, and Arvato—can detect and stop this type of fraud. But until they do, you may still receive unwanted letters. as of today, i still need to wait and hope for the best outcome!
+
+More on that subject:
+* https://www.biallo.de/verbraucherschutz/news/datenmissbrauch-bei-amazon-vermutet/

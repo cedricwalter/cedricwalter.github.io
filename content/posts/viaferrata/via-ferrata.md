@@ -90,6 +90,7 @@ This specialized set usually includes two lanyards with carabiners, designed spe
 * https://www.kletterportal.ch
 * Look for a local SAC club
 * Seek a buddy in a nearby climbing hall. There‘s always like a „black board“ where people look for climbing partners
+* In Boulderlounge Schlieren
 
 # Ten Guidelines for Via Ferrata Climbers
 

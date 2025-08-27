@@ -11,6 +11,7 @@ tags:
   - data-leaks
 categories:
   - Amazon
+cover: https://www.waltercedric.com/misc/amazon-unwanted-packages.webp
 ---
 I haven’t ordered anything from Amazon in 3 years, but suddenly I received 2 packages I never ordered. Now Riverty is forcing me to pay a bill with penalties (45 CHF).
 
@@ -91,28 +92,28 @@ I personally spent 1 hour on the phone with a French-speaking support agent (bas
 
 ### Example Reply from Amazon Specialist
 
-On August 19, 2025, at 8:17 PM, no-reply@amazon.de wrote:
-Hello!
-
-We have reviewed your Amazon.de account and found no unauthorized activity. Therefore, we have not made any changes to your account.
-
-Things that are perceived as unauthorized activity often include the following:
--- An automatically renewed subscription
--- Activity by people you know who use your account or have access to your payment information
--- An accidental 1-Click purchase
--- A charge for a previously placed order that has just shipped
--- A charge for an order placed by a family member or friend using a shared voice-activated device
-
-To protect your account, we recommend changing your Amazon account password, as well as the passwords for your email accounts and other websites.
-
-For more information about shopping safely online, please visit the "Security and Privacy" section of our help pages. If you think we've missed something, please contact our customer service, who will be happy to assist you.
-
-How can I tell if this email is really from Amazon?
--- Amazon emails are always sent from an address ending in "@amazon.de."
-
-Account Specialist
-Amazon.de
-https://www.amazon.de
+>On August 19, 2025, at 8:17 PM, no-reply@amazon.de wrote:
+>Hello!
+>
+>We have reviewed your Amazon.de account and found no unauthorized activity. Therefore, we have not made any changes to your account.
+>
+>Things that are perceived as unauthorized activity often include the following:
+>-- An automatically renewed subscription
+>-- Activity by people you know who use your account or have access to your payment information
+>-- An accidental 1-Click purchase
+>-- A charge for a previously placed order that has just shipped
+>-- A charge for an order placed by a family member or friend using a shared voice-activated device
+>
+>To protect your account, we recommend changing your Amazon account password, as well as the passwords for your email accounts and other websites.
+>
+>For more information about shopping safely online, please visit the "Security and Privacy" section of our help pages. If you think we've missed something, please contact our customer service, who will be happy to assist you.
+>
+>How can I tell if this email is really from Amazon?
+>-- Amazon emails are always sent from an address ending in "@amazon.de."
+>
+>Account Specialist
+>Amazon.de
+>https://www.amazon.de
 
 
 None of these explanations applied to me.

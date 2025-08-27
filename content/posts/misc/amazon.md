@@ -15,6 +15,11 @@ categories:
 I haven’t ordered anything from Amazon in 3 years, but suddenly I received 2 packages I never ordered. Now Riverty is forcing me to pay a bill with penalties (45 CHF).
 
 **TL;DR:**
+0. Update 27.08.2025 I still get bills and it now escalate to Arvato, from 35.- to 170.-. I will call them tomorrow.
+00. Amazon blocked my phone number!???, trying now to reach them through impressum@amazon.de as support chat, phone DO NOT WORK
+000. Next steps is to go to the polcie again and claim a potential loss of 170.- due to the hack
+0000. Lost already 3h of my life in this shit. I will never be an amazon customer till I die.
+
 1. Amazon may detect the fraud and stop it, but…
 2. Riverty can still send a debt letter. They may eventually detect the fraud and cancel everything, but not immediately.
 3. Calling Riverty (+41 44 797 6740) may redirect you to their recovery service in Switzerland, Arvato.
@@ -24,6 +29,15 @@ Amazon, Riverty, and Arvato are all victims of hackers. It may take time for the
 
 It seems the hackers’ goal is not to send free gifts to strangers, but rather to make Amazon lose money and time, while upsetting customers. I lost many hours in that case too.
 
+# Amazon basic pens unwanted and never ordered packages
+![Amazon basic pens unwanted packages](https://www.waltercedric.com/misc/amazon-basic-pen-unwanted)
+
+Amazon said it is solved but...
+![Amazon said it is solved but](https://www.waltercedric.com/misc/amazon-abuse.webp)
+
+and I can not contact amazon anymore...
+![Amazon basic pens unwanted packages](https://www.waltercedric.com/misc/amazon-chat-not-available.webp)
+
 {{< notice tips >}}
 Going to the police only makes sense if you suffer a real financial loss. Otherwise, you’ll just waste your time—and the police’s time too, since they usually prioritize more urgent cases.
 
@@ -32,6 +46,10 @@ You should never have to pay Riverty or Arvato for items you did not order.
 **Arvato recommended me:**
 * Wait, and if I get a letter from them, call their hotline again.
 * If I receive new packages, do **not** open them—just keep them.
+
+Don't forget to verify that Amazon's Riverty bills is legit, dont trust the QRCode but call them or verifiy their bank data online.
+
+Use 2FA and even better only passkeys (WebAuthn / FIDO2), it iwas designed to prevent man-in-the-middle (MITM) attacks that plague traditional password and SMS/OTP authentication.
 {{< /notice >}}
 
 # My Story
@@ -73,7 +91,6 @@ I personally spent 1 hour on the phone with a French-speaking support agent (bas
 
 ### Example Reply from Amazon Specialist
 
-```
 On August 19, 2025, at 8:17 PM, no-reply@amazon.de wrote:
 Hello!
 
@@ -96,7 +113,7 @@ How can I tell if this email is really from Amazon?
 Account Specialist
 Amazon.de
 https://www.amazon.de
-```
+
 
 None of these explanations applied to me.
 
@@ -108,6 +125,9 @@ None of these explanations applied to me.
 # Final Note
 Calling Riverty, which redirected me to Arvato, turned out to be the right move. My case does not exist in their system (yet) and may never appear.
 All players—Amazon, Riverty, and Arvato—can detect and stop this type of fraud. But until they do, you may still receive unwanted letters. as of today, i still need to wait and hope for the best outcome!
+
+UPDATE: i get new bills and I own them even more now! what a shame!
+
 
 More on that subject:
 * https://www.biallo.de/verbraucherschutz/news/datenmissbrauch-bei-amazon-vermutet/

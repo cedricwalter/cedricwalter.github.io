@@ -15,9 +15,11 @@ cover: https://www.waltercedric.com/misc/amazon-unwanted-packages.webp
 ---
 I haven’t ordered anything from Amazon in 3 years, but suddenly I received 2 packages I never ordered. Now Riverty is forcing me to pay a bill with penalties (45 CHF to 54 CHF to 170 CHF). You should never have to pay Riverty or Arvato for items you did not order.
 
-Amazon, Riverty, and Arvato **are all victims of hackers**. It may take time for them to detect the fraud. Each of them can notice inconsistencies (mismatched email, birthday, or name) and alert the others. The best thing you can do is **contact Amazon immediately**.
+Amazon, Riverty, and Arvato **are all victims of hackers**. It may take time for them to detect the fraud. Each of them can notice inconsistencies (mismatched email, birthday, or name) and alert the others. The best thing you can do is  [**Contact Amazon ASAP**](https://www.amazon.de/hz/contact-us/foresight/hubgateway) and explain the situation.
 
 It seems the hackers’ goal is not to send free gifts to strangers, but rather to make Amazon lose money and time, while upsetting customers. I lost many hours in that case too (4 hours and it is not over)
+
+All players—Amazon, Riverty, and Arvato—can detect and stop this type of fraud. But until they do, you may still receive unwanted letters. as of today, i still need to wait and hope for the best outcome!
 
 ## TL;DR In an ideal world
 
@@ -130,13 +132,13 @@ It only requires **name, date of birth, and billing address**—all of which are
 
 ## Solutions
 
-1. **Contact Amazon ASAP** and explain the situation.
+1. [**Contact Amazon ASAP**](https://www.amazon.de/hz/contact-us/foresight/hubgateway) and explain the situation. 
 2. **Keep screenshots and copies** of all chats and emails. Fraud cases can take time to resolve.
 3. If Riverty/Arvato contacts you, **call them directly**.
 4. Keep a log file of all communications: screenshots, PDF of all letters
 
-Calling Riverty, which redirected me to Arvato, turned out to be the right move. My case does not exist in their system (yet) and may never appear.
-All players—Amazon, Riverty, and Arvato—can detect and stop this type of fraud. But until they do, you may still receive unwanted letters. as of today, i still need to wait and hope for the best outcome!
+Calling Riverty, which redirected me to Arvato, turned out to be the right move. My case was not existing in their system (yet) and may never appear.
+
 
 ## More on that subject
 

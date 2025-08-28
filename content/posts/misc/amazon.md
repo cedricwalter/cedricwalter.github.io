@@ -117,7 +117,7 @@ Amazon blocked my phone number!???, trying now to reach them through impressum@a
 
 ## 27th August 2025
 
-I call Arvato again and they ask for my birthdate that do not match in their system, nor the email adress. They will transmit my dossier numebr to the accounting and stop everything (hopefully) and transmit to amazon.
+I call Arvato again and they ask for my birthdate that do not match in their system, nor the email adress. They will transmit my dossier number to the accounting and stop everything (hopefully) and transmit to amazon.
 
 ## What’s Bad
 

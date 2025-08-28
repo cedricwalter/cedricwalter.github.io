@@ -7,6 +7,9 @@ tags:
   - axa
   - claims
   - schaden
+  - sinistres
+  - désastre
+  - accident
 categories:
   - Insurances
 cover: https://www.waltercedric.com/misc/axa.webp

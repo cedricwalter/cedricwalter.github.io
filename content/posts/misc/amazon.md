@@ -45,8 +45,9 @@ Don't forget to verify that Amazon's Riverty bills is legit, dont trust the QRCo
 
 ## June 2025
 
-* I received a box of *Amazon Basics pens* that I never ordered. I reported it to Amazon support the same day. They told me via chat to destroy, give away, or throw them away.
-* I received a German-language book I never ordered. I reported it the same day, but got no reply. I even threatened to delete all my Amazon accounts.
+I received a box of *Amazon Basics pens* that I never ordered. I reported it to Amazon support the same day. They told me via chat to destroy, give away, or throw them away. **I should have kept a screenshot of that chat session!**
+
+I received a German-language book I never ordered a few days later. I reported it the same day, but got no reply. I even threatened to delete all my Amazon accounts.
 
 ## July 2025
 
@@ -54,7 +55,7 @@ I deleted all my Amazon accounts. Not a big loss, I hadn’t used them for the l
 
 ## August 2025
 
-I received a Riverty bill for June 2025 of 35 CHF ...
+I received a Riverty bill for June 2025 of 35 CHF ... seems that it is for the paperback book.
 
 ## 13th August 2025
 

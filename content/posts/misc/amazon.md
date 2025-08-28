@@ -36,7 +36,7 @@ Amazon said it is solved but...
 {{< notice tips >}}
 Going to the police only makes sense if you suffer a real financial loss. Otherwise, you’ll just waste your time—and the police’s time too, since they usually prioritize more urgent cases.
 
-Use 2FA and even better only passkeys (WebAuthn / FIDO2), it iwas designed to prevent man-in-the-middle (MITM) attacks that plague traditional password and SMS/OTP authentication.
+Use 2FA and even better only passkeys (WebAuthn / FIDO2), it was designed to prevent man-in-the-middle (MITM) attacks that plague traditional password and SMS/OTP authentication.
 {{< /notice >}}
 
 {{< notice warning >}}

@@ -58,11 +58,12 @@ Extrait de la lettre final pour AXA Winterthur qui résume bien tous mes problê
 >
 >Voila pour vous ce que CHATGPT en pense, que ni le garage, AXA, ni les douaniers Français ni Suisse ne savait mais qui a bien fait rigolé le douanier suisse quand je suis revenu lui expliquer que je ne pouvais pas récupérer la TVA française. Lui non plus ne savait pas, donc personne ne sait rien dans cette affaire. Mais nul n’est censé ignorer la loi, je vais en faire des t-shirts et casquettes.
 
+Avec mes meilleurs salutations, 
+Le couillon
+
 j'ai ensuite attaché ce que chatGPT en pense:
 
-## Cédric
-Y a t il une loi française qui empêche de récupérer la TVA française sur un véhicule suisse réparée en France même après avoir payé la TVA suisse à la frontière?
-## ChatGPT
+{{< chatgpt prompt="Y a t il une loi française qui empêche de récupérer la TVA française sur un véhicule suisse réparée en France même après avoir payé la TVA suisse à la frontière?" >}}
 En résumé, oui, il existe bien une disposition de la loi fiscale française qui empêche la récupération de la TVA française sur les prestations liées aux véhicules de tourisme, même si le véhicule est immatriculé en Suisse et que de la TVA suisse a été payée.
 
 Voici les points clés à retenir :
@@ -74,12 +75,12 @@ La réglementation fiscale française prévoit expressément que certaines TVA n
    * Si un véhicule suisse est réparé en France, la facture inclura la TVA française (en B2C), car la prestation est localisée en France.
    * Le bénéficiaire (ou le propriétaire) ne peut pas récupérer cette TVA : la loi interdit explicitement la déduction de la TVA supportée pour de telles prestations.
 
-✅ Conclusion claire :
 Il n’existe donc pas de voie légale pour récupérer la TVA française payée en France dans le cadre de réparations sur un véhicule de tourisme, même si vous avez déjà acquitté la TVA suisse à la frontière — la TVA française reste non déductible selon la loi.
+{{< /chatgpt >}}
 
-## Cédric
-Véhicule suisse accidenté en France et réparé en France
-## ChatGPT
+
+
+{{< chatgpt prompt="Véhicule suisse accidenté en France et réparé en France" >}}
 📌 Règles de TVA applicables
 1.	Localisation de la prestation de réparation
   * Les prestations de services (comme une réparation automobile) sont taxées là où elles sont matériellement exécutées (art. 259 A du CGI pour les B2C).
@@ -96,16 +97,11 @@ Véhicule suisse accidenté en France et réparé en France
   * On a donc une double taxation apparente : TVA française sur la prestation + TVA suisse à l’importation du véhicule réparé.
   * Mais juridiquement, les deux sont justifiées, car ce sont deux opérations fiscales distinctes (service en France + import en Suisse).
 
-⸻
-✅ Conclusion claire :
 Dans votre cas (véhicule de tourisme suisse, accidenté et réparé en France), la TVA française facturée par le garagiste n’est pas récupérable, même si la TVA suisse est payée à la frontière. C’est la combinaison des règles européennes et françaises qui l’impose.
-
 👉 Seule exception possible : si le véhicule appartient à une entreprise suisse et qu’il s’agit d’un véhicule utilitaire, il y a une procédure de remboursement de TVA étrangère qui peut s’appliquer.
+{{< /chatgpt >}}
 
-## Cédric
-Je peut pas récupérer la TVA sur les pièces détachées utilisés?
-## ChatGPT
-🚗 Cas d’un véhicule de tourisme suisse réparé en France
+{{< chatgpt prompt="Je peut pas récupérer la TVA sur les pièces détachées utilisés?" >}}
   * La facture du garagiste inclut main-d’œuvre + pièces détachées.
   * La TVA est facturée en bloc sur l’ensemble de la prestation (c’est une réparation, pas une vente de pièces détachées indépendante).
   * Donc vous ne pouvez pas demander le remboursement de la TVA française sur les pièces, car elles sont intégrées dans la prestation de réparation d’un véhicule de tourisme → non déductible par principe (article 206, annexe II du CGI).
@@ -116,11 +112,6 @@ Je peut pas récupérer la TVA sur les pièces détachées utilisés?
   * Dans ce cas, le vendeur peut vous facturer sans TVA française, à condition que vous fournissiez les preuves d’exportation.
   * Vous ne supportez alors que la TVA suisse à l’importation.
 
-✅ Conclusion pratique :
   * Si les pièces sont facturées comme partie d’une réparation en France → TVA non récupérable.
   * Si vous achetez séparément les pièces en France pour export → vous pouvez éviter la TVA française (facturation hors taxes avec preuve d’export).
-
-⸻
-
-Avec mes meilleurs salutations 
-Le couillon
+{{< /chatgpt >}}

@@ -1,0 +1,43 @@
+.chatblock {
+  background: #f9fafb;
+  border: 1px solid #e5e7eb;
+  border-radius: 14px;
+  padding: 1rem 1.2rem;
+  font-family: system-ui, sans-serif;
+  line-height: 1.6;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+  margin: 1rem 0;
+}
+
+.chatblock__section + .chatblock__section {
+  margin-top: 1rem;
+  padding-top: 1rem;
+  border-top: 1px dashed #d1d5db;
+}
+
+.chatblock__label {
+  font-weight: 600;
+  margin-bottom: 0.3rem;
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  color: #374151;
+}
+
+.chatblock__content p {
+  margin: 0.4em 0;
+}
+
+@media (prefers-color-scheme: dark) {
+  .chatblock {
+    background: #111827;
+    border-color: #1f2937;
+    color: #e5e7eb;
+  }
+  .chatblock__label {
+    color: #9ca3af;
+  }
+  .chatblock__section + .chatblock__section {
+    border-top-color: #374151;
+  }
+}

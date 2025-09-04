@@ -175,7 +175,13 @@ see my [Simulation Rigs](https://www.waltercedric.com/posts/hobbies/simulation-r
 # Head Tracking
 
 # Head Tracking using a cheap webcam with OpenTrack
-Logitech C920S Pro HD Webcam – A solid 1080p webcam known for consistent performance; widely used in OpenTrack setups. https://github.com/opentrack/opentrack
+
+Choose a webcam with qt least 60fps.
+
+* Logitech Brio 500 60fps or 
+* Logitech C920S Pro HD Webcam 30 fps – A solid 1080p webcam known for consistent performance; widely used in OpenTrack setups. https://github.com/opentrack/opentrack
+
+{{< youtube 6cvWn2Oy0CA >}}
 
 # Head Tracking using an iPhone with AITrack (Face Tracking) + iPhone Camera
 You can run AITrack (a separate app that uses your phone camera for head tracking) and feed its data into OpenTrack on your PC.
@@ -187,9 +193,6 @@ Cons: Needs good lighting, not as robust as IR tracking.
 * Install openTrack https://github.com/opentrack/opentrack
 * Install a camera streaming app on iPhone (like iVCam or EpocCam).
 * Connect iPhone to PC → Open AITrack → Forward to OpenTrack.
-
-
----
 
 ## Screen estate
 Simulator enviroment dilemna... You can go cheap or crazy expensive really fast.

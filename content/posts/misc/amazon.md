@@ -27,6 +27,7 @@ All players—Amazon, Riverty, and Arvato—can detect and stop this type of fra
 2. Riverty can still send a debt letter. They may eventually detect the fraud and cancel everything, but not immediately.
 3. Calling Riverty (+41 44 797 6740) may redirect you to their recovery service in Switzerland, Arvato.
 4. Arvato may not find you in their system, but you could still receive a letter a few days later—or even 3–4 weeks later—after Amazon requests to stop everything.
+5. Arvato will finally detect the hack after verifying your email and birthdate that does not match yours. Arvato told me that they have a bit more than 5+ customers in Switzerland per week at least having the same issue.
 
 ## Amazon basic pens unwanted and never ordered packages
 

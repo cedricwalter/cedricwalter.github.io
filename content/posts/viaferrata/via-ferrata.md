@@ -218,3 +218,52 @@ who hears the «Alpine emergency signal» is obliged to provide assistance as fa
 3.  When was the accident (time of the accident)?
 4.  What is the situation like at the scene of the accident? (weather, terrain, visibility)?
 5.  Who makes the report (personal details)?
+
+## Rappelling (abseiling) on a via ferrata?
+
+Rappelling (abseiling) on a via ferrata is generally discouraged and rarely necessary because via ferratas are designed for upward or horizontal progress using the fixed cables, ladders, and steps. However, there are certain emergency or special-case scenarios where rappelling might become necessary.
+
+Emergency Evacuation (Injury or Exhaustion): Retreat is safer than continuing, and there's no escape route except down.
+* A climber is injured and cannot continue.
+* A team member is too exhausted or psychologically overwhelmed to proceed.
+* Weather has suddenly turned dangerous (e.g., lightning storm, snow, or high winds), making forward movement unsafe.
+
+Route Blockage or Collapse: Forward progress is impossible or unsafe.
+* A part of the via ferrata is damaged (e.g., rockfall destroyed a ladder or cable).
+* A section is blocked by debris, snow, or ice.
+* There’s a technical problem with the installation or maintenance of the via ferrata.
+
+Missed Escape Route: You've gone too far and now can't backtrack easily or safely.
+* Many via ferratas have designated "escape routes" — side trails or down-climb options.
+* If these are missed or inaccessible, the only way out might be rappelling.
+
+Wrong Route / Off-Route: To safely retreat to the correct route or ground.
+* Accidentally veering off the marked route onto a much more difficult or dangerous section.
+* Getting stuck in a spot that’s too hard to ascend or descend without proper additional gear.
+
+Soloing or Unsupported Climbing: It's part of their planned contingency, not a standard part of via ferrata usage. In rare cases, experienced * * * * climbers doing solo or exploratory routes may need to rappel due to lack of support or safe continuance.
+
+Nightfall or Time Constraints: To shorten descent time and reach safety.
+* If caught out too late and can’t finish the route before dark.
+* If descent via hiking path is no longer viable due to time or risk.
+
+Practice or Training (Rare but Possible): Some guides or rescue teams might use via ferrata terrain for rescue training, which could involve rappelling.
+
+Zip Line: Carrying a rope may be useful to rescue someone stuck on a zip line.
+
+# Knots
+
+## Nœud « queue de vache »
+Le nœud « queue de vache » (aussi appelé nœud de plein poing ou double overhand knot en anglais) est un nœud très simple et polyvalent.
+
+* Sert souvent de nœud d’arrêt en bout de corde (pour éviter qu’elle ne glisse dans un dispositif ou un trou).
+* Utilisé comme nœud de sécurité derrière un autre nœud (par exemple derrière un nœud de huit).
+* Peut servir en escalade, spéléologie, voile ou pêche.
+* On peut aussi l’utiliser pour créer une butée ou pour alourdir une extrémité de corde.
+* Relié au baudrier de l’assureur il est utilisé pour prévenir une moulinette éventuellement trop courte,
+* On peut éventuellement l’utiliser au relais sur le deuxième point.
+
+Il n’est jamais utilisé comme noeud d’assurage car difficile à défaire après avoir été mis sous tension. 
+
+![Noeud-Queue-de-vache](https://www.waltercedric.com/viaferrata/Noeud-Queue-de-vache.webp)
+

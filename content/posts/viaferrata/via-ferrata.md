@@ -324,7 +324,23 @@ Practice or Training (Rare but Possible): Some guides or rescue teams might use 
 
 Carrying a rope may be useful to rescue someone stuck on a zip line.
 
+## Zip line / tyroliennes
+
+### Equipment
+
+* Petzl speed pulley (only one that work on metallic zipline)
+* 4 carabiners in oval shape, PETZL OK for example
+* 2 express sling for added safety
+
+![PETZL pulley for zip line setup](https://www.waltercedric.com/viaferrata/petzl-pulley-zip-line.webp)
+
+### rescue stuck person
+
 {{< youtube Z4ok2tX0XYU >}}
+
+### self rescue
+
+{{< youtube JoOKwok9Q44 >}}
 
 ## Knots
 
@@ -342,3 +358,8 @@ Le nœud « queue de vache » (aussi appelé nœud de plein poing ou double over
 Il n’est jamais utilisé comme noeud d’assurage car difficile à défaire après avoir été mis sous tension. 
 
 ![Noeud-Queue-de-vache](https://www.waltercedric.com/viaferrata/Noeud-Queue-de-vache.webp)
+
+### Links
+
+* https://www.petzl.com/LU/fr/Sport/Via-ferrata
+* https://www.petzl.com/LU/fr/Sport/Nœuds-autobloquants

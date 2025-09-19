@@ -54,4 +54,5 @@ One section of this via ferrata is difficult, where there are 5 stairs, use the 
 
 ## Links
 
-https://brunni.ch/62/en/rigidalstockridge-and-face
+* https://brunni.ch/62/en/rigidalstockridge-and-face
+* https://brunni.ch/en/detail/via-ferratas

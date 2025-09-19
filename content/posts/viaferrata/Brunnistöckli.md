@@ -70,4 +70,5 @@ Via Ferrata Brunnistöckli is an exhilarating adventure that combines the thrill
 
 ## Links
 
-https://brunni.ch/60/en/brunnistockli
+* https://brunni.ch/60/en/brunnistockli
+* https://brunni.ch/en/detail/via-ferratas

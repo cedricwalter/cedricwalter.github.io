@@ -24,9 +24,9 @@ categories:
 ---
 Nestled within the breathtaking landscapes of Switzerland lies a via ferrata that promises adventure-seekers an unforgettable journey. Via Ferrata Rigidalstockgrat, often referred to as Rigidalstockgrat, is a hidden gem among the Swiss Alps’ many climbing routes. In this blog post, we’ll take you on a virtual tour of this exhilarating via ferrata, sharing all you need to know to prepare for and embark on this thrilling alpine experience. ## Understanding Via Ferrata  Before we delve into the specifics of Via Ferrata Rigidalstockgrat, let’s clarify what a via ferrata is. Originating from Italian, “via ferrata” translates to “iron path.” These climbing routes are characterized by steel cables, ladders, and rungs anchored to the rock, allowing climbers to ascend steep terrain safely. Via ferratas blend the thrill of climbing with the accessibility of hiking, making them accessible to a wide range of adventurers. ## A very demanding approach
 
-![Rigidalstockgrat](/2023/09/Via-Ferrata-Rigidalstockgrat-3-300x225.webp)
-![Rigidalstockgrat](/2023/09/Via-Ferrata-Rigidalstockgrat-4-300x225.webp)
-![Rigidalstockgrat](/2023/09/Via-Ferrata-Rigidalstockgrat-5-300x225.webp)
+![Rigidalstockgrat](https://www.waltercedric.com/2023/09/Via-Ferrata-Rigidalstockgrat-3-300x225.webp)
+![Rigidalstockgrat](https://www.waltercedric.com/2023/09/Via-Ferrata-Rigidalstockgrat-4-300x225.webp)
+![Rigidalstockgrat](https://www.waltercedric.com/2023/09/Via-Ferrata-Rigidalstockgrat-5-300x225.webp)
 
 ![](https://www.waltercedric.com/2023/09/via-ferrata-equipement-1024x759.webp)
 

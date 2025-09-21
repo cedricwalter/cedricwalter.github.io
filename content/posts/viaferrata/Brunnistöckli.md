@@ -64,7 +64,7 @@ Easy via ferrata, for kids and beginners, you can escape at any time on the left
 
 ## View from the summit
 
-![View from the summit](/2023/09/Via-Ferrata-Brunnistockli-summit-1024x768.webp)
+![View from the summit](https://www.waltercedric.com/2023/09/Via-Ferrata-Brunnistockli-summit-1024x768.webp)
 
 Via Ferrata Brunnistöckli is an exhilarating adventure that combines the thrill of climbing with the beauty of the Swiss Alps. It’s a journey that will push your limits, reward you with breathtaking vistas, and leave you with memories to cherish. If you’re an adventurous spirit seeking an unforgettable experience in the mountains, this via ferrata should be at the top of your bucket list. So, gear up, take the plunge, and conquer the heights of Via Ferrata Brunnistöckli for a truly memorable alpine adventure. Read more
 

@@ -24,20 +24,9 @@ Nestled in the heart of the Swiss Alps, Via Ferrata Brunnistöckli (2030 m) is a
 |:----|:----|:----|
 | K2 | 0:30 h| +100 Hm |
 
-another suspension bridge
-
-  ![](https://www.waltercedric.com/2023/09/Via-Ferrata-Brunnistockli-2-300x225.webp)
-
-view from summit
-
-  ![](https://www.waltercedric.com/2023/09/Via-Ferrata-Brunnistockli-3-300x225.webp)
-
-
 ## What is Via Ferrata?
 
 Before we dive into the details of Via Ferrata Brunnistöckli, let’s clarify what a via ferrata is. Translated from Italian, “via ferrata” means “iron road.” These routes are a type of protected climbing path that involves steel cables, rungs, and ladders fixed to the rock. Via ferratas allow climbers to ascend steep mountainsides safely, using a combination of their own physical abilities and the support provided by the route’s infrastructure. ## Via Ferrata Brunnistöckli: An Overview  Via Ferrata Brunnistöckli is often referred to as one of the most scenic via ferratas in Switzerland, and for good reason. This route takes you through a picturesque alpine landscape, offering stunning panoramic views of the surrounding peaks and valleys. Here are some key highlights: ## Location  Via Ferrata Brunnistöckli is located near Engelberg, a charming Swiss mountain town known for its outdoor activities and natural beauty. Engelberg is easily accessible from major cities like Lucerne and Zurich, making it a convenient starting point for your adventure. ## Difficulty  This via ferrata is graded as easy to intermediate, making it suitable for climbers without some prior experience. It’s recommended for beginners due to its not challenging sections, including slow steep ascents and not exposed traverses.
-
-![](https://www.waltercedric.com/2023/09/via-ferrata-equipement-1024x759.webp)
 
 ## Equipment
 
@@ -58,17 +47,15 @@ Safety is paramount on Via Ferrata Brunnistöckli. Always ensure that you’re p
 3. Gear Check: Ensure that your climbing gear is in good condition and that you’re familiar with how to use it.
 4. Weather: Check the weather forecast for Engelberg and the surrounding area. Ideal conditions include clear skies and calm winds. ## My notes
 
-![](https://www.waltercedric.com/2023/09/Via-Ferrata-Brunnistockli-chairlift-sign-768x1024.webp)
-
 ## My notes
 
 Approach is very easy, light walk from chair lift 15min.
 
 Easy via ferrata, for kids and beginners, you can escape at any time on the left or right and walk down on the ground. You should still not fear heights.
 
-## View from the summit
+## Gallery
 
-![View from the summit](https://www.waltercedric.com/2023/09/Via-Ferrata-Brunnistockli-summit-1024x768.webp)
+{{< foldergallery src="viaferrata/brunni" >}}
 
 Via Ferrata Brunnistöckli is an exhilarating adventure that combines the thrill of climbing with the beauty of the Swiss Alps. It’s a journey that will push your limits, reward you with breathtaking vistas, and leave you with memories to cherish. If you’re an adventurous spirit seeking an unforgettable experience in the mountains, this via ferrata should be at the top of your bucket list. So, gear up, take the plunge, and conquer the heights of Via Ferrata Brunnistöckli for a truly memorable alpine adventure. Read more
 

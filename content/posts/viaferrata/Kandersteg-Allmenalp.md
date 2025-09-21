@@ -3,7 +3,7 @@ title: "The Allmenalp Via Ferrata (K4)"
 summary: "The Allmenalp Via Ferrata is one of the best in Switzerland. Climb iron pegs, cable bridges and traverse above the spectacular Allmenalp waterfall."
 type: posts
 date: 2025-09-18T13:04:14+00:00
-cover: https://www.waltercedric.com/2023/09/IMG_2062-scaled.webp
+cover: https://www.waltercedric.com/viaferrata/almenalp/Allmenalp-2.webp
 tags:
   - alpine
   - kandersteg
@@ -65,6 +65,10 @@ Climbers will find a variety of terrain: iron steps, ladders, rope bridges, zip 
 * The normal version is not so difficult but very long, expect to make it in 3H, but I completed it in 1.5 with 2 short breaks.
 * You can only climb using the safety line, so using good all fingers gloves is a must.
 * Take 2L of water if you can, it is exposed and there is no shadows, I was drying up at 22°C air on 18 September 2025.
+
+## Gallery
+
+{{< foldergallery src="viaferrata/almenalp" >}}
 
 ## Links
 

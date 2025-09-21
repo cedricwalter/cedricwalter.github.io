@@ -25,25 +25,13 @@ Nestled within the breathtaking landscapes of Switzerland lies a via ferrata tha
 |:----|:----|:----|
 | K3 | 1:30 h| +180 Hm |
 
-## A very demanding approach
-
-![Rigidalstockgrat](https://www.waltercedric.com/2023/09/Via-Ferrata-Rigidalstockgrat-3-300x225.webp)
-![Rigidalstockgrat](https://www.waltercedric.com/2023/09/Via-Ferrata-Rigidalstockgrat-4-300x225.webp)
-![Rigidalstockgrat](https://www.waltercedric.com/2023/09/Via-Ferrata-Rigidalstockgrat-5-300x225.webp)
-
-![](https://www.waltercedric.com/2023/09/via-ferrata-equipement-1024x759.webp)
-
 ## Equipment
 
 To tackle a Via Ferrata, you’ll need appropriate climbing gear. A climbing harness, helmet, Via Ferrata lanyard with energy absorber, and gloves are essential. These can typically be rented if you don’t have your own equipment.
 
 ## My notes
 
-![](https://www.waltercedric.com/2023/09/IMG_2061-1024x768.webp)
-
 The uphill approach walk is really demanding, took me 2h without break from Brunnistöckli. The walk ended being more difficult than the K3 due to the steepness, small rocks limiting speed and making the road hazardous. A good self balance and sure footness is required!
-
-## The approach in videos
 
 There is no water source on the road, I recommend to have 3 litres or more and hide the bottles on the path up to avoid transporting them to the summit and down. I was having 0.5 liter water and when back at the station drank 1.5l in one shot: I was clearly dehydrated!
 
@@ -54,6 +42,10 @@ The walk is really demanding, expect to suffer a lot more than on the via ferrat
 Experienced climbers start with the Rigidalstockgrat west (K4-K4.5) and go down with the Rigidalstockgrat (K3). I met some experienced climbers and they said the track has changed and some part is now a K4.5. The Rigidalstockgrat is K3 and easy, You won’t fear heights.
 
 One section of this via ferrata is difficult, where there are 5 stairs, use the steel cable if you feel in danger, are panicking, with your both hands. You will have to climb this via ferrata up and then down.
+
+## Gallery
+
+{{< foldergallery src="viaferrata/rigidalstockgrat" >}}
 
 ## Links
 

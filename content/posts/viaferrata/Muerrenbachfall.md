@@ -3,7 +3,7 @@ title: 'Mürren via ferrata (K3)'
 summary: "With a height of 417m, the Mürrenbachfall is one of the highest waterfalls in Switzerland. On the Mürren via ferrata you cross the waterfall a good 500m above the valley floor."
 type: posts
 date: 2023-08-25T12:24:52+00:00
-cover: https://www.waltercedric.com/2023/09/Via-Ferrata-Brunnistockli-cedric-scaled.webp
+cover: https://www.waltercedric.com/viaferrata/muerren/muerren-5.webp
 tags:
   - alps
   - engelberg
@@ -75,6 +75,10 @@ An easy via ferrata that require stamina at the beginning with a very exposed pa
 It is mainly a long walk down in the wood, steep, secured by a via ferrata. 3 bridges. The last bridge being very long and with a lot of heights below. The scaring effect is amplified because at the beginning and the end of that bridge, you can not grab the bridge line on both side and must use the safety line.
 
 Still it is a long one, with plenty of wow effects!
+
+## Gallery
+
+{{< foldergallery src="viaferrata/muerren" >}}
 
 ## Links
 * https://www.sac-cas.ch/en/huts-and-tours/sac-route-portal/muerrenbachfall-8215/via-ferrata/

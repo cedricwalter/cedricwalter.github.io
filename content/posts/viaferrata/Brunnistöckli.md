@@ -14,7 +14,15 @@ tags:
 categories:
   - Climbing
 ---
-Nestled in the heart of the Swiss Alps, Via Ferrata Brunnistöckli is a breathtaking adventure that promises to challenge your limits while rewarding you with awe-inspiring views. This unique via ferrata, located near Engelberg, Switzerland, offers a thrilling experience for both novice climbers and seasoned adventurers. In this blog post, we 'll take you on a virtual journey through the Via Ferrata Brunnistöckli, sharing everything you need to know to plan your own unforgettable alpine adventure.
+Nestled in the heart of the Swiss Alps, Via Ferrata Brunnistöckli (2030 m) is a breathtaking adventure that promises to challenge your limits while rewarding you with awe-inspiring views. This unique via ferrata, located near Engelberg, Switzerland, offers a thrilling experience for both novice climbers and seasoned adventurers. In this blog post, we 'll take you on a virtual journey through the Via Ferrata Brunnistöckli, sharing everything you need to know to plan your own unforgettable alpine adventure.
+
+|Aproach Difficulty|Aproach duration|Aproach elevation|
+|:----|:----|:----|
+| T2 | 10min | +60 Hm |
+
+|Climbing difficulty|Climbing duration|Climbing elevation|
+|:----|:----|:----|
+| K2 | 0:30 h| +100 Hm |
 
 another suspension bridge
 
@@ -66,5 +74,6 @@ Via Ferrata Brunnistöckli is an exhilarating adventure that combines the thrill
 
 ## Links
 
+* https://www.sac-cas.ch/de/huetten-und-touren/sac-tourenportal/brunnistoeckli-7438/klettersteig/
 * https://brunni.ch/60/en/brunnistockli
 * https://brunni.ch/en/detail/via-ferratas

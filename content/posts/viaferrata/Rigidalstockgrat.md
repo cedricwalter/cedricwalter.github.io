@@ -15,7 +15,15 @@ tags:
 categories:
   - Climbing
 ---
-Nestled within the breathtaking landscapes of Switzerland lies a via ferrata that promises adventure-seekers an unforgettable journey. Via Ferrata Rigidalstockgrat, often referred to as Rigidalstockgrat, is a hidden gem among the Swiss Alps’ many climbing routes. In this blog post, we’ll take you on a virtual tour of this exhilarating via ferrata, sharing all you need to know to prepare for and embark on this thrilling alpine experience. ## Understanding Via Ferrata  Before we delve into the specifics of Via Ferrata Rigidalstockgrat, let’s clarify what a via ferrata is. Originating from Italian, “via ferrata” translates to “iron path.” These climbing routes are characterized by steel cables, ladders, and rungs anchored to the rock, allowing climbers to ascend steep terrain safely. Via ferratas blend the thrill of climbing with the accessibility of hiking, making them accessible to a wide range of adventurers. 
+Nestled within the breathtaking landscapes of Switzerland lies a via ferrata that promises adventure-seekers an unforgettable journey. Via Ferrata Rigidalstockgrat, often referred to as Rigidalstockgrat, is a hidden gem among the Swiss Alps’ many climbing routes. In this blog post, we’ll take you on a virtual tour of this exhilarating via ferrata, sharing all you need to know to prepare for and embark on this thrilling alpine experience. ## Understanding Via Ferrata  Before we delve into the specifics of Via Ferrata Rigidalstockgrat, let’s clarify what a via ferrata is. Originating from Italian, “via ferrata” translates to “iron path.” These climbing routes are characterized by steel cables, ladders, and rungs anchored to the rock, allowing climbers to ascend steep terrain safely. Via ferratas blend the thrill of climbing with the accessibility of hiking, making them accessible to a wide range of adventurers.
+
+|Aproach Difficulty|Aproach duration|Aproach elevation|
+|:----|:----|:----|
+| T2 | 1h30min | +540 Hm |
+
+|Climbing difficulty|Climbing duration|Climbing elevation|
+|:----|:----|:----|
+| K3 | 1:30 h| +180 Hm |
 
 ## A very demanding approach
 
@@ -49,5 +57,6 @@ One section of this via ferrata is difficult, where there are 5 stairs, use the 
 
 ## Links
 
+* https://www.sac-cas.ch/de/huetten-und-touren/sac-tourenportal/rigidalstock-1499/klettersteig/
 * https://brunni.ch/62/en/rigidalstockridge-and-face
 * https://brunni.ch/en/detail/via-ferratas

@@ -14,6 +14,15 @@ tags:
 categories:
   - Climbing
 ---
+
+|Aproach Difficulty|Aproach duration|Aproach elevation|
+|:----|:----|:----|
+| T2 | 25min | +90 Hm |
+
+|Climbing difficulty|Climbing duration|Climbing elevation|
+|:----|:----|:----|
+| K4 | 2:45 h| +350 Hm |
+
 ## Location & access
 
 The via ferrata is accessed from Kandersteg (c. 1176 m) or directly from the Allmenalp valley station (c. 1181 m).
@@ -59,6 +68,7 @@ Climbers will find a variety of terrain: iron steps, ladders, rope bridges, zip 
 
 ## Links
 
+* https://www.sac-cas.ch/en/huts-and-tours/sac-route-portal/allmenalp-8207/via-ferrata/
 * https://www.myswitzerland.com/en-ch/experiences/kandersteg-allmenalp-via-ferrata/§ "Kandersteg-Allmenalp via ferrata | Switzerland Tourism"
 * https://www.allmenalp.ch/en/experience/climbing.html "The Allmenalp Via Ferrata | Luftseilbahn Kandersteg-Allmenalp"
 * https://www.allmenalp.ch/de/erleben/klettern.html "Klettersteig Kandersteg-Allmenalp | Luftseilbahn Kandersteg-Allmenalp"

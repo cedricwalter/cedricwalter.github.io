@@ -2,7 +2,7 @@
 title: 'Mürren via ferrata (K3)'
 summary: "With a height of 417m, the Mürrenbachfall is one of the highest waterfalls in Switzerland. On the Mürren via ferrata you cross the waterfall a good 500m above the valley floor."
 type: posts
-date: 2023-08-25T12:24:52+00:00
+date: 2025-08-25T12:24:52+00:00
 cover: https://www.waltercedric.com/viaferrata/muerren/muerren-5.webp
 tags:
   - alps

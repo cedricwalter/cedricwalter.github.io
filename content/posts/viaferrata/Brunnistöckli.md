@@ -3,7 +3,7 @@ title: 'Conquering the Heights: Exploring Via Ferrata Brunnistöckli (K2)'
 summary: "Nestled in the heart of the Swiss Alps, Via Ferrata Brunnistöckli is a breathtaking adventure that promises to challenge your limits while rewarding you with awe-inspiring views. This unique via ferrata, located near Engelberg, Switzerland, offers a thrilling experience for both novice climbers and seasoned adventurers. In this blog post, we 'll take you on a virtual journey through the Via Ferrata Brunnistöckli, sharing everything you need to know to plan your own unforgettable alpine adventure."
 type: posts
 date: 2023-09-09T12:24:52+00:00
-cover: https://www.waltercedric.com/2023/09/Via-Ferrata-Brunnistockli-cedric-scaled.webp
+cover: https://www.waltercedric.com/viaferrata/brunni/Brunnistockli-1.webp
 tags:
   - alps
   - engelberg

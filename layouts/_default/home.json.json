@@ -1,0 +1,12 @@
+{
+  "title": "{{ .Site.Title }}",
+  "pages": [
+    {{- $pages := .Site.RegularPages -}}
+    {{- range $i, $p := $pages -}}
+      {
+        "title": {{ $p.Title | jsonify }},
+        "url": {{ $p.Permalink | jsonify }}
+      }{{ if lt (add $i 1) (len $pages) }},{{ end }}
+    {{- end -}}
+  ]
+}

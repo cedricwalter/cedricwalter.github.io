@@ -16,26 +16,26 @@ All credit goes to [Author][1]
 
 My setup use
 
-  * Nginx instead of Apache
-  * An easier setup, with less steps
-  * You can display Bitcoin, Ethereum or any other cryptocurrencies https://github.com/cedricwalter/raspicryptoticker/issues"
-  * I also provide a ready to use image
+* Nginx instead of Apache
+* An easier setup, with less steps
+* You can display Bitcoin, Ethereum or any other cryptocurrencies https://github.com/cedricwalter/raspicryptoticker/issues"
+* I also provide a ready to use image
 
 ## Shopping list
 
 You need obviously a raspberry pi, ideally with WIFI build in if you don 't like cables
 
-  * Raspberry pi 1, single core, will require an Ethernet cable
-  * Raspberry pi 2 , dual core, will require an Ethernet cable
-  * Raspberry pi 3 or 4, a bit a shame to use this amount of power for that task, but has built in WIFI
+* Raspberry pi 1, single core, will require an Ethernet cable
+* Raspberry pi 2 , dual core, will require an Ethernet cable
+* Raspberry pi 3 or 4, a bit a shame to use this amount of power for that task, but has built in WIFI
 
 A  [3.5" LCD screen from Amazon](https://amzn.to/2xmJHb9)
 
-*   [![](https://www.waltercedric.com/2020/04/Raspberry-Pi-LCD-Display-Module-3.5inch-320X480-TFT-2-768x1024.webp)](/2020/04/Raspberry-Pi-LCD-Display-Module-3.5inch-320X480-TFT-2-scaled.webp)
+* [![](https://www.waltercedric.com/2020/04/Raspberry-Pi-LCD-Display-Module-3.5inch-320X480-TFT-2-768x1024.webp)](/2020/04/Raspberry-Pi-LCD-Display-Module-3.5inch-320X480-TFT-2-scaled.webp)
 
     Raspberry Pi LCD Display Module 3.5inch 320X480 TFT
 
-*   [![](https://www.waltercedric.com/2020/04/Raspberry-Pi-LCD-Display-Module-3.5inch-320X480-TFT-1-768x1024.webp)](/2020/04/Raspberry-Pi-LCD-Display-Module-3.5inch-320X480-TFT-1-scaled.webp)
+* [![](https://www.waltercedric.com/2020/04/Raspberry-Pi-LCD-Display-Module-3.5inch-320X480-TFT-1-768x1024.webp)](/2020/04/Raspberry-Pi-LCD-Display-Module-3.5inch-320X480-TFT-1-scaled.webp)
 
     Raspberry Pi LCD Display Module 3.5inch 320X480 TFT
 
@@ -49,26 +49,26 @@ SHA-256: **xxxxxxxxxxx**
 
 **Write the SD-Card image to your SD Card**
 
-You need to write the downloaded SD card image (the img.gz-file) to your SD card (16 GB minimum) &#8211; you can use the very easy tool Balena Etcher for this: <https://www.balena.io/etcher/> .. it 's available for Win, Mac & Linux.
+You need to write the downloaded SD card image (the img.gz-file) to your SD card (16 GB minimum) &#8211; you can use the very easy tool Balena Etcher for this: https://www.balena.io/etcher/ it 's available for Win, Mac & Linux.
 
 Insert the SD card and connect the power plug.
 
-  * Make sure to connect the raspberry with a LAN cable to the internet at this point.
-  * Make sure that your laptop and the raspberry are on the same local network.
+* Make sure to connect the raspberry with a LAN cable to the internet at this point.
+* Make sure that your laptop and the raspberry are on the same local network.
 
 ## BUILDING THE SD CARD
 
 **[Raspbian][2]** is THE official operating system for **all** models of the Raspberry Pi.
 
-> **Raspbian** is a Debian-based (32 bit) computer operating system for Raspberry Pi. There are several versions of Raspbian including Raspbian Buster and Raspbian Stretch. Since 2015 it has been officially provided by the Raspberry Pi Foundation as the primary operating system for the family of Raspberry Pi single-board computers.
->
-> [Wikipedia](https://en.wikipedia.org/wiki/Raspbian)
+**Raspbian** is a Debian-based (32 bit) computer operating system for Raspberry Pi. There are several versions of Raspbian including Raspbian Buster and Raspbian Stretch. Since 2015 it has been officially provided by the Raspberry Pi Foundation as the primary operating system for the family of Raspberry Pi single-board computers.
+
+[Wikipedia](https://en.wikipedia.org/wiki/Raspbian)
 
 We now use the **Raspberry Pi Imager** for an easy way to install Raspbian and other operating systems to an SD card ready to use with your Raspberry Pi:
 
-  * [Raspberry Pi Imager for Windows][3]
-  * [Raspberry Pi Imager for macOS][4]
-  * [Raspberry Pi Imager for Ubuntu][5]
+* [Raspberry Pi Imager for Windows][3]
+* [Raspberry Pi Imager for macOS][4]
+* [Raspberry Pi Imager for Ubuntu][5]
 
 ![](https://www.waltercedric.com/2020/04/rasbian-desktop.webp)
 
@@ -116,11 +116,12 @@ server {
 }
 
 sudo nginx -t
-sudo systemctl reload nginx```
+sudo systemctl reload nginx
+```
 
 ## Disable screensaver
 
-Go to **Preferences **> **Screensaver **and disable the screensaver.
+Go to **Preferences Screensaver** and disable the screensaver.
 
 ## Choose your cryptocurrency
 
@@ -134,8 +135,6 @@ sudo unzip bitcoin.zip
 sudo wget https://github.com/cedricwalter/raspicryptoticker/files/4466186/ethereum.zip
 sudo unzip ethereum.zip
 ```
-
-
 
 ## Install LCD drivers
 

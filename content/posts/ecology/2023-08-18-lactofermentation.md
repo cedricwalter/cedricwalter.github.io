@@ -29,23 +29,23 @@ Lactofermentation is responsible for the creation of various fermented foods, su
 
 ## Lactofermenting tomatoes
 
-Lactofermenting tomatoes is a unique and flavorful way to preserve and enjoy their taste. Here 's a basic guide to lactofermenting tomatoes:<figure class="wp-block-image aligncenter size-large">
+Lactofermenting tomatoes is a unique and flavorful way to preserve and enjoy their taste. Here 's a basic guide to lactofermenting tomatoes:
 
 ![](https://www.waltercedric.com/2023/08/Lactofermentation-tomatoes-1024x768.webp)
 
 **Ingredients:**
 
-  * Ripe tomatoes
-  * Non-chlorinated water (filtered or bottled water), leave 30min to 1h in a bowl to let chorine evaporate
-  * Salt (non-iodized, preferably sea salt or kosher salt),
-  * Optional: Herbs, spices, garlic, or other flavorings
+* Ripe tomatoes
+* Non-chlorinated water (filtered or bottled water), leave 30min to 1h in a bowl to let chorine evaporate
+* Salt (non-iodized, preferably sea salt or kosher salt),
+* Optional: Herbs, spices, garlic, or other flavorings
 
 ### **Equipment**
 
-  * Glass jar or fermentation crock
-  * Weight or fermenting weights
-  * Lid or cover
-  * Bowl or plate to catch any overflow during fermentation
+* Glass jar or fermentation crock
+* Weight or fermenting weights
+* Lid or cover
+* Bowl or plate to catch any overflow during fermentation
 
 ### **Instructions**
 

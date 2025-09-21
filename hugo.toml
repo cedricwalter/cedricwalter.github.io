@@ -2,7 +2,7 @@ baseURL = 'https://www.waltercedric.com'
 languageCode = 'en-us'
 defaultContentLanguage = "en"
 title = 'Cédric Walter blog'
-theme = ["dream", "darths-hugo-shortcodes"]
+theme = ["dream"]
 
 # enableRobotsTXT = true
 # copyright = '<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Knowledge Enjoy License Agreement style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a> This work adopts <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-Non-Commercial-Same Share 4.0 International License Agreement</a> for licensing. The background is used <a href="https://www.pexels.com/zh-cn/" target="_blank">Pexels</a> on <a href="http s://www.pexels.com/zh-cn/@minan1398" target="_blank">Min An</a> <a href="https://www.pexels.com/z h-cn/photo/1454794/" target="_blank">picture</a>.'

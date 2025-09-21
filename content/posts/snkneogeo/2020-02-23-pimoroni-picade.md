@@ -37,45 +37,45 @@ This 10.1 inch High-resolution 1366*768 LCD display module kit is especially des
 
   Features:
 
-  * Screen Dimensions: 229mm x 127mm / 9.0&#8243; x 5.0&#8243;
-  * Panel Type: a-Si TFT-LCD Panel
-  * Panel Size: 10.1&#8243;
-  * Resolution (RGB): 1366&#215;768, WXGA
-  * Brightness: 200cd/m2
-  * Contrast Ratio: 800:1 (Min.)
-  * Display Colors (16bit): 65K
-  * Response Time (Tr+Td): 30
-  * Viewing Angle (CR>10): 85/85/85/85
-  * Operating voltage: 12V (current requirement 1A-2A)
-  * Rated power: 6-7W
-  * Signal input: AV + VGA + HDMI (HDMI 1.2)
-  * Resolution: 1366* 768,
-  * Plug and Play: Support
-  * OSD language: Simplified Chinese, Traditional Chinese, English, Japanese, Korean, Spanish, French, German, Italian, Portuguese
-  * Control: Multifunction OSD operation or potentiometer adjust the brightness and color
+* Screen Dimensions: 229mm x 127mm / 9.0&#8243; x 5.0&#8243;
+* Panel Type: a-Si TFT-LCD Panel
+* Panel Size: 10.1&#8243;
+* Resolution (RGB): 1366&#215;768, WXGA
+* Brightness: 200cd/m2
+* Contrast Ratio: 800:1 (Min.)
+* Display Colors (16bit): 65K
+* Response Time (Tr+Td): 30
+* Viewing Angle (CR>10): 85/85/85/85
+* Operating voltage: 12V (current requirement 1A-2A)
+* Rated power: 6-7W
+* Signal input: AV + VGA + HDMI (HDMI 1.2)
+* Resolution: 1366* 768,
+* Plug and Play: Support
+* OSD language: Simplified Chinese, Traditional Chinese, English, Japanese, Korean, Spanish, French, German, Italian, Portuguese
+* Control: Multifunction OSD operation or potentiometer adjust the brightness and color
 
 **Specifications:**
 
-  * Screen size: 10.1 inch
-  * Touch screen: Not support
-  * Screen Dimensions: 229mm x 127mm / 9.0&#8243; x 5.0&#8243;
-  * Panel Type: a-Si TFT-LCD Panel
-  * Panel Size: 10.1&#8243;
-  * Resolution (RGB): 1366&#215;768, WXGA
-  * Display Mode: HFFS, Normally Black, Transmissive
-  * Surface: Hard coating
-  * Brightness: 200cd/m2
-  * Contrast Ratio: 800:1 (Min.)
-  * Display Colors (16bit): 65K
+* Screen size: 10.1 inch
+* Touch screen: Not support
+* Screen Dimensions: 229mm x 127mm / 9.0&#8243; x 5.0&#8243;
+* Panel Type: a-Si TFT-LCD Panel
+* Panel Size: 10.1&#8243;
+* Resolution (RGB): 1366&#215;768, WXGA
+* Display Mode: HFFS, Normally Black, Transmissive
+* Surface: Hard coating
+* Brightness: 200cd/m2
+* Contrast Ratio: 800:1 (Min.)
+* Display Colors (16bit): 65K
 
-<div>
+
   Package Includes:
-</div>
 
-  * 1× HDMI+VGA+2AV LCD Controller Board
-  * 1× 10.1 inch 1366&#215;768 LCD Screen
-  * 1× LVDS Cable
-  * 1× Keyboard with Wire
+
+* 1× HDMI+VGA+2AV LCD Controller Board
+* 1× 10.1 inch 1366&#215;768 LCD Screen
+* 1× LVDS Cable
+* 1× Keyboard with Wire
 
 **A 12V power supply**
 
@@ -133,10 +133,10 @@ Connect a USB keyboard and press F4, to see the linux shell
 
 Go into the config, sudo raspi-config and set at least the following
 
-  * Under localization options, the proper keyboard layout (german swiss for me)
-  * Under Interfacing option, activate SSH (Optional useful to connect to Pi to launch command without physical access with a keyboard )
-  * Under Advance option, set the Audio to "3.5 headphone jack"
-  * Under Network set the WIFI SSID and password (Optional you can also use the Ethernet port)
+* Under localization options, the proper keyboard layout (german swiss for me)
+* Under Interfacing option, activate SSH (Optional useful to connect to Pi to launch command without physical access with a keyboard )
+* Under Advance option, set the Audio to "3.5 headphone jack"
+* Under Network set the WIFI SSID and password (Optional you can also use the Ethernet port)
 
 Quit Raspi-config
 
@@ -179,16 +179,16 @@ I lost many HOURS, going crazy, and after many attempts (erase sdcard, and redo 
 
 #### Hardware
 
-  * Check physical wiring connections: nothing must be loose
-  * Check proper red/black (+/-) connections in case they were backwards
-  * Power the PI and connect a Phone to the jack to check proper output of music -> this validate the whole hardware connection
+* Check physical wiring connections: nothing must be loose
+* Check proper red/black (+/-) connections in case they were backwards
+* Power the PI and connect a Phone to the jack to check proper output of music -> this validate the whole hardware connection
 
 #### Software
 
-  * While in [Retropie][4], press F4, then type "sudo raspi-config", under "Advanced options", then "Audio", set the sound to " 3.5 headphone jack"
-  * In emulation station, under sound settings audio device MUST be PCM (default), no need to restart
-  * In [Retropie][4], under audio configuration, must be set to "3.5 headphone jack", you need to restart system.
-  * Emulation Station volume may be low, use the "volume up" button multiple time (Black button on the left side, back button)
+* While in [Retropie][4], press F4, then type "sudo raspi-config", under "Advanced options", then "Audio", set the sound to " 3.5 headphone jack"
+* In emulation station, under sound settings audio device MUST be PCM (default), no need to restart
+* In [Retropie][4], under audio configuration, must be set to "3.5 headphone jack", you need to restart system.
+* Emulation Station volume may be low, use the "volume up" button multiple time (Black button on the left side, back button)
 
 Still no sound? [Contact me][6] i have a ready 16GB .img file that just work.!
 
@@ -200,24 +200,24 @@ Mount everything back
 
 Here are the keys associated with the buttons (if you haven’t modified a firmware to accommodate custom keycodes):
 
-  * button 1 &#8211; keycode 29 &#8211; L CTRL
-  * button 2 &#8211; keycode 56 &#8211; L ALT
-  * button 3 &#8211; keycode 57 &#8211; SPACE
-  * button 4 &#8211; keycode 42 &#8211; L SHIFT
-  * button 5 &#8211; keycode 44 &#8211; Z
-  * button 6 &#8211; keycode 45 &#8211; X
-  * L &#8211; keycode 105 &#8211; Left
-  * R &#8211; keycode 106 &#8211; Right
-  * D &#8211; keycode 108 &#8211; Down
-  * U &#8211; keycode 103 &#8211; Up
-  * 1UP &#8211; keycode 31 &#8211; S
-  * 1/4 &#8211; keycode 46 &#8211; C
-  * ESC &#8211; keycode 1 &#8211; ESC
-  * ENT &#8211; keycode 28 &#8211; ENTER
+* button 1 &#8211; keycode 29 &#8211; L CTRL
+* button 2 &#8211; keycode 56 &#8211; L ALT
+* button 3 &#8211; keycode 57 &#8211; SPACE
+* button 4 &#8211; keycode 42 &#8211; L SHIFT
+* button 5 &#8211; keycode 44 &#8211; Z
+* button 6 &#8211; keycode 45 &#8211; X
+* L &#8211; keycode 105 &#8211; Left
+* R &#8211; keycode 106 &#8211; Right
+* D &#8211; keycode 108 &#8211; Down
+* U &#8211; keycode 103 &#8211; Up
+* 1UP &#8211; keycode 31 &#8211; S
+* 1/4 &#8211; keycode 46 &#8211; C
+* ESC &#8211; keycode 1 &#8211; ESC
+* ENT &#8211; keycode 28 &#8211; ENTER
 
- [1]: https://www.recalbox.com/
- [2]: https://shop.pimoroni.com/products/picade?variant=29210087489619
- [3]: https://www.raspberrypi.org/downloads/raspbian/
- [4]: https://retropie.org.uk/
- [5]: https://www.balena.io/etcher/
- [6]: /contact/
+[1]: https://www.recalbox.com/
+[2]: https://shop.pimoroni.com/products/picade?variant=29210087489619
+[3]: https://www.raspberrypi.org/downloads/raspbian/
+[4]: https://retropie.org.uk/
+[5]: https://www.balena.io/etcher/
+[6]: /contact/

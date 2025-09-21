@@ -17,19 +17,17 @@ categories:
   - Competition
   - Hackathon
 ---
-We just have finished the 48h <a rel="noreferrer noopener" href="https://www.versusvirus.ch/" target="_blank">Versus Virus Hackaton</a> this weekend (03.04 &#8211; 05.04.2020) with the challenge to raise awareness on food waste and emergency stock hoarding in times of COVID-19.
+We just have finished the 48h https://www.versusvirus.ch/ Versus Virus Hackaton this weekend (03.04 &#8211; 05.04.2020) with the challenge to raise awareness on food waste and emergency stock hoarding in times of COVID-19.
 
 ## Overall
 
-  * 263 projects submitted of 600 teams
-  * 84 project short listed
-  * 43 selected
+* 263 projects submitted of 600 teams
+* 84 project short listed
+* 43 selected
 
 ## Pitch Deck
 
-<a rel="noreferrer noopener" href="https://disruptr.ch/The-Selfish-Hamster.pdf" target="_blank">Our Pitch Deck</a>
-
-## Team <figure class="wp-block-image size-large">
+## Team
 
 ![](https://www.waltercedric.com/2020/04/The-Selfish-Hamster-team-1024x577.webp)
 
@@ -41,8 +39,7 @@ Every citizen in the current situation started to build an emergency stock of fo
 
 ![](https://www.waltercedric.com/2020/04/empty.webp)
 
-# What it does
-
+## What it does
 
 The user answers a few questions about his or her living situation and emergency stocks. We are then able to show possible excessive behaviours in a simple and funny way. In a personal summary we want to give suggestions, share knowledge and provide the possibility to donate "not-used emergency stock" to non-profit organisations.
 
@@ -58,13 +55,13 @@ We 'll run a pilot phase at a large Swiss insurer to gather feedback and learn f
 
 ## Github
 
-https://github.com/LucaMele/the-selfish-hamster/>
+https://github.com/LucaMele/the-selfish-hamster/
 
 ## Demo
 
 only work perfectly on iPhone X (resolution: 325px x 812px): but we are now fixing it this week!
 
-<https://selfishhamster.disruptr.ch/>
+https://selfishhamster.disruptr.ch/
 
 ## Built with
 
@@ -75,6 +72,5 @@ Google maps, javascript, nmongodb, node.js and vue.js
 ![](https://www.waltercedric.com/2020/04/toilet-768x1024.webp)
 
 Figma.com, Miro.com, Microsoft Teams, Slack
-
 
  [1]: https://www.linkedin.com/in/ACoAACJ48m8BJBTtMzyO_O10YaddjhaCDtYqBEI/

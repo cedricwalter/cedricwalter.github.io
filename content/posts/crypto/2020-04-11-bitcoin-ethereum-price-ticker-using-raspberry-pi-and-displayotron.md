@@ -21,12 +21,12 @@ How to monitor the Bitcoin and Ethereum price on a DisplayOTron LCD and any Rasp
 
 You need obviously a raspberry pi, ideally with WIFI build in if you don 't like cables
 
-  * PI Zero W
-  * Raspberry pi 1, single core, will require an Ethernet cable
-  * Raspberry pi 2 , dual core, will require an Ethernet cable
-  * Raspberry pi 3 or 4, a bit a shame to use this amount of power for that task, has built in WIFI
+* PI Zero W
+* Raspberry pi 1, single core, will require an Ethernet cable
+* Raspberry pi 2 , dual core, will require an Ethernet cable
+* Raspberry pi 3 or 4, a bit a shame to use this amount of power for that task, has built in WIFI
 
-A displayOTron (<a rel="noreferrer noopener" href="https://shop.pimoroni.com/products/display-o-tron-hat" target="_blank">Shop</a> &#8211; [Github][1]) Includes a 16&#215;3 character LCD display, 6-zone RGB LED backlight, bar graph, and six capacitive touch buttons all in one slim package.
+A displayOTron https://shop.pimoroni.com/products/display-o-tron-hat Includes a 3 character LCD display, 6-zone RGB LED backlight, bar graph, and six capacitive touch buttons all in one slim package.
 
 ## Installing the Software
 
@@ -34,7 +34,9 @@ Your SD-card needs to contain the software. You can take the long road by **buil
 
 **Download SD-Card image &#8211; Version 1.0:** https://drive.google.com/open?id=1XZLb0e2J3-wHaR2At0dT-rYQ0IfkhdYK
 
+```bash
 SHA-256:** **6380f16ff0546864cc9e53ee948ea63dcf47c6decbea50cf17ece7cd8613f72e
+```
 
 **Write the SD-Card image to your SD Card**
 
@@ -42,9 +44,9 @@ You need to write the downloaded SD card image (the img.gz-file) to your SD card
 
 Insert the SD card and connect the power plug.
 
-  * Make sure to connect the raspberry with a LAN cable to the internet at this point.
-  * Make sure that your laptop and the raspberry are on the same local network.
-  * Change the WIFI password (mine in the image wont work for your network) sudo raspi-config &#8211; Network options
+* Make sure to connect the raspberry with a LAN cable to the internet at this point.
+* Make sure that your laptop and the raspberry are on the same local network.
+* Change the WIFI password (mine in the image wont work for your network) sudo raspi-config &#8211; Network options
 
 ## Building the SD Card
 
@@ -52,20 +54,21 @@ Insert the SD card and connect the power plug.
 
 Raspbian is a Debian-based (32 bit) computer operating system for Raspberry Pi. There are several versions of Raspbian including Raspbian Buster and Raspbian Stretch. Since 2015 it has been officially provided by the Raspberry Pi Foundation as the primary operating system for the family of Raspberry Pi single-board computers.
 
-
 Use **Raspberry Pi Imager** for an easy way to install Raspbian and other operating systems to an SD card ready to use with your Raspberry Pi:
 
-  * [Raspberry Pi Imager for Windows][2]
-  * [Raspberry Pi Imager for macOS][3]
-  * [Raspberry Pi Imager for Ubuntu][4]
+* [Raspberry Pi Imager for Windows][2]
+* [Raspberry Pi Imager for macOS][3]
+* [Raspberry Pi Imager for Ubuntu][4]
 
 Boot the image and connect the pi to WIFI
 
-```bash sudo raspi-config```
+```bash
+ sudo raspi-config
+```
 
-  * Under localization options, set the proper keyboard layout
-  * Under network, connect to your WIFI
-  * Under interfaces, activate SSH
+* Under localization options, set the proper keyboard layout
+* Under network, connect to your WIFI
+* Under interfaces, activate SSH
 
 ## install drivers
 
@@ -145,9 +148,12 @@ print 'Bitcoin price %s in %s: %s' % (dateTimeNow, currency_code, bitcoinPrice.a
 
 Add a crontab to this file
 
-```bash crontab -e
+```bash
+bash crontab -e
 
-* * * * * /home/pi/bitcoin.py 2>&1```<figure class="wp-block-image size-large">
+* * * * * /home/pi/bitcoin.py 2>&1
+```
+
 
 ![](https://www.waltercedric.com/2020/04/bitcoin-ethereum-price-ticker-using-raspberry-pi-and-displayotron-1024x768.webp)
 

@@ -3,7 +3,6 @@ title: Via Ferrata guide
 summary: "Via ferrata is a mountain activity that involves climbing routes equipped with fixed cables, ladders, bridges, and other aids to assist climbers along exposed and challenging terrain. Proper equipment is essential to ensure safety and comfort during via ferrata climbing."
 type: posts
 date: 2025-08-12T05:30:33+00:00
-url: /hobbies/via-ferrata-guide/
 cover: https://www.waltercedric.com/2023/08/viaferrata-murren-schweiz.webp
 tags:
   - climb

@@ -16,6 +16,48 @@ categories:
 ---
 Via ferrata is a mountain activity that involves climbing routes equipped with fixed cables, ladders, bridges, and other aids to assist climbers along exposed and challenging terrain. Proper equipment is essential to ensure safety and comfort during via ferrata climbing.
 
+## Stages of Learning on a Via Ferrata
+
+### Unconscious Incompetence
+
+At this stage, you don’t know what you don’t know. The risks and techniques are invisible, so mistakes happen without awareness. On a via ferrata, this might look like clipping in carelessly, pulling yourself up with your arms instead of using your legs, or walking past an anchor without realizing the danger. You may underestimate exposure, not recognizing how a small error could have serious consequences.
+
+* Do Recognize that you’re new and seek instruction.
+* Do double-check with a partner or guide.
+* Don't clip without checking orientation.
+* Don't rely only on your arms for pulling.
+* Don't ignore exposure or anchor points.
+
+### Conscious Incompetence
+
+Now the blinders are off—you start to recognize your limits. You notice your carabiner handling is awkward, your footwork feels unstable, or you freeze when the exposure suddenly feels overwhelming. Mistakes make sense in hindsight: you see why they happened. You can now name missing skills—such as efficient clipping, balance, or weight transfer—and you understand the gap between where you are and where you want to be.
+
+* Do practice smooth carabiner handling at every anchor.
+* Do pause to focus on foot placement before pulling.
+* Do name the skills you’re working on (balance, clipping, breathing under exposure).
+* Don't rush when nervous.
+* Don' Pretend you’re more skilled than you are—acknowledge gaps.
+
+### Conscious Competence
+
+The basics are in place, but they require focus. You climb deliberately: placing feet precisely, moving weight smoothly, clipping with care. Traverses and vertical ladders are manageable if you keep your attention sharp. Every step is intentional. But if you rush, forget a check, or lose focus, errors creep back in. Success at this stage depends on discipline and concentration.
+
+* Do move deliberately: foot, weight transfer, clip—repeat.
+* Do keep a rhythm: “feet first, then hands, then clip.”
+* Do perform safety checks at rests.
+* Don't let concentration drift during easy sections.
+* Don't skip anchors or safety checks to save time.
+
+### Unconscious Competence
+
+With enough repetition, the skills settle into your muscle memory. Clipping is automatic, your body naturally shifts weight onto your legs, and you instinctively scan for the next solid foothold. You move fluidly across ladders, traverses, and vertical walls, adapting smoothly to changes in terrain. At this stage, you not only climb confidently but can also mentor others—spotting mistakes, giving tips, and modeling safe, efficient movement.
+
+* Do trust your legs—hands are for balance, not hauling.
+* Do anticipate moves before they happen.
+* Do share your knowledge with beginners.
+* Don't switch off completely—complacency is dangerous.
+* Don't forget that others may still be in earlier stages.
+
 ## Essential equipment for via ferrata
 
 ![](https://www.waltercedric.com/2023/08/Petzl-Sirocco.webp)

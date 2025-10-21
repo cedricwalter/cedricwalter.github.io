@@ -447,6 +447,21 @@ If you're a guide or experienced climber and carry a short rope (20–30m dynami
 {{< notice warning>}}These require practice and understanding of basic climbing rescue systems. Train in controlled environments before relying on them.
 {{< /notice >}}
 
+## Harness Suspension Trauma (Orthostatic Shock) Why It’s Dangerous to Hang Motionless on a Zip Line!
+When you hang still in a harness, the leg straps compress blood vessels in your thighs.
+Blood pools in your legs because the muscles aren’t contracting (no movement = no circulation).
+
+After several minutes, your brain and vital organs receive less oxygenated blood.
+The harness can also compress your diaphragm and pinch nerves around the hips and thighs.
+This causes numbness, tingling, or pain — and worsens if you panic or breathe shallowly.
+Prolonged compression may cause temporary nerve damage or loss of leg function.
+
+Symptoms: dizziness, nausea, fainting, rapid breathing, and eventually loss of consciousness.
+
+{{< notice warning>}}In severe cases (10–30 min of suspension), this can lead to cardiac arrest and DEATH — even if you weren’t injured before.
+Never remain hanging motionless for more than a few minutes. If stuck, act immediately.
+{{< /notice >}}
+
 ## Conclusions
 
 Via ferrata is a thrilling, accessible way to explore the mountains—but it still demands respect and preparation. Learn your gear, train for the worst-case scenario, and practice self-rescue skills in safe environments.

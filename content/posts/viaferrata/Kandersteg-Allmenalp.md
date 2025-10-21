@@ -70,6 +70,11 @@ Climbers will find a variety of terrain: iron steps, ladders, rope bridges, zip 
 
 {{< foldergallery src="viaferrata/almenalp" >}}
 
+## Execution date
+
+* 18 Sept 2025 alone
+* 11 Octobre 2025 in Zürich Together group
+
 ## Links
 
 * https://www.sac-cas.ch/en/huts-and-tours/sac-route-portal/allmenalp-8207/via-ferrata/

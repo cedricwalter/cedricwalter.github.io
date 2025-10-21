@@ -47,6 +47,11 @@ One section of this via ferrata is difficult, where there are 5 stairs, use the 
 
 {{< foldergallery src="viaferrata/rigidalstockgrat" >}}
 
+## Execution date
+
+* 23 Sept 2023 alone
+* 18 Sep 2025 in Zürich Together group
+
 ## Links
 
 * https://www.sac-cas.ch/de/huetten-und-touren/sac-tourenportal/rigidalstock-1499/klettersteig/

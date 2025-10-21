@@ -80,5 +80,10 @@ Still it is a long one, with plenty of wow effects!
 
 {{< foldergallery src="viaferrata/muerren" >}}
 
+## Execution date
+
+* 20 August 2025 alone
+* 12 Sep 2025 in Zürich Together group
+
 ## Links
 * https://www.sac-cas.ch/en/huts-and-tours/sac-route-portal/muerrenbachfall-8215/via-ferrata/

@@ -58,6 +58,11 @@ Easy via ferrata, for kids and beginners, you can escape at any time on the left
 {{< foldergallery src="viaferrata/brunni" >}}
 
 Via Ferrata Brunnistöckli is an exhilarating adventure that combines the thrill of climbing with the beauty of the Swiss Alps. It’s a journey that will push your limits, reward you with breathtaking vistas, and leave you with memories to cherish. If you’re an adventurous spirit seeking an unforgettable experience in the mountains, this via ferrata should be at the top of your bucket list. So, gear up, take the plunge, and conquer the heights of Via Ferrata Brunnistöckli for a truly memorable alpine adventure. Read more
+ 
+## Execution date
+
+* 23 Sept 2023 alone
+* 18 Sep 2025 in Zürich Together group
 
 ## Links
 

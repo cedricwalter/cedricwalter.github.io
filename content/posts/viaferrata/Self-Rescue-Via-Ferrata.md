@@ -47,6 +47,28 @@ Most via ferrata routes are designed to be accessible, but the consequences of m
 | Enough water or Filtering system (less weight but water source needed)    | Dehydratation prevention               |
 | Enough to eat             | For up to 2 days.                      |
 
+## Essential Knots for Via Ferrata
+
+| Knot                               | Primary Use                                                    | Why It’s Important                                                         |
+| ---------------------------------- | -------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| **Figure-Eight Knot (on a bight)** | Creating a secure loop in the rope or sling                    | Easy to tie and untie, even after loading; great for attaching to anchors. |
+| **Clove Hitch**                    | Quick attachment to carabiners or anchor points                | Adjustable and fast to tie one-handed—perfect for temporary anchoring.     |
+| **Girth Hitch (Lark’s Foot)**      | Attaching slings or Prusik loops to harness or gear            | Commonly used to connect slings or cords securely.                         |
+| **Double Fisherman’s Knot**        | Joining two ropes or closing a loop of cord (e.g., for Prusik) | Very secure, ideal for making your own Prusik loops.                       |
+| **Prusik Knot**                    | Ascending or backing up a rope (self-rescue)                   | Friction hitch that grips under load and slides when released.             |
+| **Munter Hitch (Italian Hitch)**   | Emergency belay or rappel control (with locking carabiner)     | Enables controlled lowering or belaying without a belay device.            |
+| **Overhand Knot (Stopper Knot)**   | Preventing rope ends from slipping through a device            | Simple backup or stopper knot for extra safety.                            |
+
+### Optional but Useful Knots
+
+| Knot                       | Use                                                                                                |
+| -------------------------- | -------------------------------------------------------------------------------------------------- |
+| **Bowline**                | Creating a fixed loop at rope end (less common for via ferrata but useful for improvised anchors). |
+| **Klemheist or Autoblock** | Alternative friction hitches for ascending or rappelling.                                          |
+| **Water Knot (Tape Knot)** | Joining two flat slings or webbing together.                                                       |
+
+see https://knotspedia.com for how to make them
+
 ## Alpine emergency signal
 
 In an emergency, help can be summoned with this signal: six acoustic or optical signals per minute.

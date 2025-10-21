@@ -404,3 +404,52 @@ Il n’est jamais utilisé comme noeud d’assurage car difficile à défaire ap
 
 * https://www.petzl.com/LU/fr/Sport/Via-ferrata
 * https://www.petzl.com/LU/fr/Sport/Nœuds-autobloquants
+
+Via ferrata in Switzerland http://www.myswitzerland.com/en/via-ferrata-in-switzerland.html
+Descriptions and photos of many of the via ferrata in Switzerland on the website of Switzerland Tourism.
+
+de Andar http://deandar.com/ferratas/
+A well-designed and useful Spanish language website that provides information on via ferrata across Europe.   There is an interactive map marking each via ferrata as well as route descriptions, photographic topos, photos, local maps, and some videos.
+
+via-ferrata.de http://www.via-ferrata.de/
+A German language website that provides descriptions and photos of via ferrata across Europe.  It also has via ferrata news, technical advice, articles, useful links and information on equipment.
+
+Ferrata Guide https://ferrataguide.com/
+A website with descriptions, topos, photos, and maps of via ferrata around the world. There are also user comments on the via ferratas.
+
+Klettersteig.com http://www.klettersteig.org/
+An Austrian website that provides brief descriptions and photos of via ferrata in Austria, Germany, Italy and Switzerland.  The majority of the website is in German, but the introductory pages (including an explanation of one system of via ferrata grading) is in English.
+
+bergsteigen.com https://www.bergsteigen.com/touren/klettersteig/
+A nicely set out, German-language website that provides route descriptions, maps and topos for via ferratas in Austria, Switzerland and Italy.
+
+6 of the Best Via Ferrata in Europe https://www.muchbetteradventures.com/magazine/6-awesome-via-ferrata-in-europe/
+An article on some of the best via ferrata around Europe.
+
+The Ultimate Guide to Via Ferrata in the UK https://www.base-mag.com/the-ultimate-guide-to-via-ferrata-in-the-uk/
+An overview of the via ferrata in England, Scotland and Wales.
+
+Via Ferrata – Protected Climbing Paths in the Dolomites http://alavigne.net/Outdoors/FeatureReports/ViaFerrata/
+A website that provides route descriptions and photographs of many via ferrata in the Italian Dolomites.  An interactive via ferrata map on the site is a useful tool for planning a trip, while routes are also listed by mountain group and name.
+
+8 Via Ferratas You Wouldn’t Want to Fall From https://www.redbull.com/gb-en/8-high-wire-via-ferratas-to-give-you-vertigo
+An article from Red Bull about a selection of via ferrata from around the world.
+
+
+Planet Mountain – Via Ferrata http://www.planetmountain.com/english/trekking/ferrate/itineraries/home.php
+A brilliant website that provides very detailed and clear route descriptions of via ferrata in the Italian Dolomites.  A search function allows you to look for via ferrata by mountain group and name.  Route descriptions can also be downloaded as pdf files so you can print them off and take them on the mountain with you.  The Planet Mountain site is available in both English and Italian and contains lots of other information on mountain activities.
+
+Climbing in South Tyrol https://www.suedtirol.info/en/en/experiences-and-events/sports-activities/rock-climbing
+The tourist authority of South Tyrol provides description of via ferrata in their region on this website.  The summaries of the via ferrata are short, but each helpfully includes a topographical map showing the route together with an altitude profile of the route.
+
+Viaferrata-FR http://viaferratafr.free.fr/
+A French language website that provide short descriptions of French via ferrata and articles on such things as via ferrata safety.
+
+Take a Leap of Faith  https://localfreshies.com/take-a-leap-of-faith-and-try-the-best-via-ferrata-in-north-america/
+An article on the best via ferrata in the USA and Canada.
+
+Ecrins & Briancon Via Ferrata app 
+A free app that provides information on via ferrata in the Ecrins and Briancon area of the Haute Alps in France.  It includes topos, route maps, photos, mapping, access information and descriptions of the routes.  It’s available from the Apple App Store and Google Play. https://itunes.apple.com/gb/app/écrins-briançon-via-ferrata/id1348658640?mt=8 and https://play.google.com/store/apps/details?id=com.skiroute16.viaferrata.ecrins.braincon
+
+Norway’s Awesome Via Ferratas https://www.visitnorway.com/things-to-do/outdoor-activities/via-ferrata/
+This website from Visit Norway describes via ferrata across the country. Scrolling down takes you through videos and photos of each via ferrata, with links to further information. At the bottom of the first page is a map with links to the descriptions of each route.

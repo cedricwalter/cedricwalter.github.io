@@ -41,7 +41,7 @@ Most via ferrata routes are designed to be accessible, but the consequences of m
 | Small rope (30m min)      | Emergency descent or belay aid         |
 | Knife/multitool           | Cutting rope or gear adjustment        |
 | First aid kit             | Treat scrapes, sprains, or wounds      |
-| Headlamp                  | Visibility if delayed or nightfall     |
+| Headlamp                  | Visibility if delayed or nightfall, Emergency signaling    |
 | Whistle                   | Emergency signaling                    |
 | Emergency blanket/bivy    | Hypothermia prevention                 |
 | Enough water or Filtering system (less weight but water source needed)    | Dehydratation prevention               |

@@ -67,7 +67,7 @@ Most via ferrata routes are designed to be accessible, but the consequences of m
 | **Klemheist or Autoblock** | Alternative friction hitches for ascending or rappelling.                                          |
 | **Water Knot (Tape Knot)** | Joining two flat slings or webbing together.                                                       |
 
-see https://knotspedia.com for how to make them
+see <https://knotspedia.com> for how to make them
 
 ## Alpine emergency signal
 
@@ -331,6 +331,11 @@ Final Safety Tips for Bridges and Zip Lines
 * Practice zip line self-rescue techniques on a controlled line or gym setup before trying real scenarios.
 * If you’re unsure whether you’ll make it across a zip line, have someone go first to assist or send a rope back.
 
+#### Zip Line rescue video
+
+{{< youtube chY_JaGMqRc >}}
+{{< youtube Z4ok2tX0XYU >}}
+
 ## Ascending the Cable After a Fall
 
 If you take a fall and end up dangling below the last rung or anchor, especially on a vertical or overhanging section, you may not be able to climb back up directly.
@@ -447,7 +452,8 @@ If you're a guide or experienced climber and carry a short rope (20–30m dynami
 {{< notice warning>}}These require practice and understanding of basic climbing rescue systems. Train in controlled environments before relying on them.
 {{< /notice >}}
 
-## Harness Suspension Trauma (Orthostatic Shock) Why It’s Dangerous to Hang Motionless on a Zip Line!
+## Harness Suspension Trauma (Orthostatic Shock) Why It’s Dangerous to Hang Motionless on a Zip Line
+
 When you hang still in a harness, the leg straps compress blood vessels in your thighs.
 Blood pools in your legs because the muscles aren’t contracting (no movement = no circulation).
 
@@ -461,6 +467,23 @@ Symptoms: dizziness, nausea, fainting, rapid breathing, and eventually loss of c
 {{< notice warning>}}In severe cases (10–30 min of suspension), this can lead to cardiac arrest and DEATH — even if you weren’t injured before.
 Never remain hanging motionless for more than a few minutes. If stuck, act immediately.
 {{< /notice >}}
+
+## Magic Sling tips
+
+* You must check them for wear
+* Consider them as static, do not load shock them
+* Rated at 20kn, they will fail when too old at less than 3kn
+
+Durability taken from Mammut Slings manual
+
+| Frequency of Use                         | Approximate durability         |
+|-------------------------------|--------------------------------------------------------------------------|
+| Never Used     | 10 years                                             |
+| Once or twice a year                  | Up to 7 years                                |
+| Once a month       | Up to 5 years           |
+| Several times a omth          | Up to 3 years        |
+| Every week                        | Up to 1 years           |
+| Almost daily   | less than a year           |
 
 ## Conclusions
 

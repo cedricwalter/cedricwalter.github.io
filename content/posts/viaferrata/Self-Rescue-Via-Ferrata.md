@@ -22,7 +22,7 @@ Knowing self-rescue techniques is essential for via ferrata enthusiasts—especi
 
 {{< notice info>}}This page will always be a work in progress! You can fork this page on github and propose corrections or add comments there!{{< /notice >}}
 
-## Why Self-Rescue Skills Matter
+## Why Rescue Skills Matter
 
 Most via ferrata routes are designed to be accessible, but the consequences of mistakes can still be fatal. Here’s why you should be prepared:
 
@@ -30,6 +30,24 @@ Most via ferrata routes are designed to be accessible, but the consequences of m
 * You may be climbing solo or with inexperienced partners
 * Injuries and exhaustion can make retreating or continuing dangerous
 * Weather can deteriorate suddenly, increasing risk of hypothermia or lightning strikes
+
+---
+
+## What you should learn
+
+Go to training courses, which provide a solid base and help you expand your competences and improve your technique with qualified instructors.
+
+* How to set up a rappel and different ways to perform it (with one or two ropes, single or double).
+* Self-belay rappelling and management of zip lines and exposed sections.
+* How to belay a partner on vertical sections, both ascending and descending.
+* Basic rescue of a person on a vertical wall and techniques to handle minor emergencies.
+* Essential and optional equipment for via ferratas, plus recommendations on what to purchase.
+* Practical tips and tricks that guides use when managing a via ferrata or a rappel.
+* Self-rescue: How to get yourself out of a difficult situation, such as a crevasse, or how to manage a fall. 
+* Companion rescue: Techniques for rescuing an injured partner, including proper rigging, ascending a rope, and removing intermediate anchor points.
+* High-angle rescue: Advanced techniques for complicated rescue scenarios, often including the use of Artificial High Directionals (AHDs) and a mix of winches and mechanical advantage systems.
+* Rigging and anchor systems: Learning to build strong and reliable anchor points using specific knots and equipment. 
+Emergency response: How to assess a situation, prevent further danger, and manage a rescue from start to finish. 
 
 ---
 

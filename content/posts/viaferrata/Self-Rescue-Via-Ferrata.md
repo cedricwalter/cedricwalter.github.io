@@ -31,6 +31,8 @@ Most via ferrata routes are designed to be accessible, but the consequences of m
 * Injuries and exhaustion can make retreating or continuing dangerous
 * Weather can deteriorate suddenly, increasing risk of hypothermia or lightning strikes
 
+---
+
 ## Must-Have Emergency Gear for Via Ferrata
 
 | Item                     | Use Case                              |
@@ -46,6 +48,8 @@ Most via ferrata routes are designed to be accessible, but the consequences of m
 | Emergency blanket/bivy    | Hypothermia prevention                 |
 | Enough water or Filtering system (less weight but water source needed)    | Dehydratation prevention               |
 | Enough to eat             | For up to 2 days.                      |
+
+---
 
 ## Essential Knots for Via Ferrata
 
@@ -69,6 +73,8 @@ Most via ferrata routes are designed to be accessible, but the consequences of m
 
 see <https://knotspedia.com> for how to make them
 
+---
+
 ## Alpine emergency signal
 
 In an emergency, help can be summoned with this signal: six acoustic or optical signals per minute.
@@ -83,6 +89,8 @@ Anyone who hears the «Alpine emergency signal» is obliged to provide assistanc
 3. When was the accident (time of the accident)?
 4. What is the situation like at the scene of the accident? (weather, terrain, visibility)?
 5. Who makes the report (personal details)?
+
+---
 
 ## You’re Stuck Mid-Route and Can’t Climb Up or Down
 
@@ -117,6 +125,8 @@ Step 4: Call for Help (if needed)
 * Signal with a whistle (3 long blasts = SOS).
 * Consider waiting for other climbers—many via ferratas have decent traffic.
 
+---
+
 ## Lanyard Slipped or Equipment Malfunction
 
 Your via ferrata lanyard is compromised—one arm fails, a carabiner is jammed, or your harness wasn't properly secured.
@@ -142,6 +152,8 @@ Step 3: Repair or Replace
 * If not, consider bypassing the damaged section using slings or a rope to rappel short distances (see scenario 4).
 
 Always carry a small “rescue kit”: 2 locking carabiners, a 120 cm sling, prusik cord, and a multitool.
+
+---
 
 ## Your Partner is Injured or Immobilized
 
@@ -176,6 +188,8 @@ Step 4: Get Help
 
 {{< notice warning>}}Never try to lower an unconscious climber unless you're trained in technical rescue—wait for professionals.
 {{< /notice >}}
+
+---
 
 ## Need to Retreat or Rappel Off the Route
 
@@ -212,6 +226,8 @@ Steps:
 {{< notice warning>}}Only rappel if you're confident in your anchor and technique. Improvised descents can be extremely risky without experience.
 {{< /notice >}}
 
+---
+
 ## Caught in a Thunderstorm or Bad Weather
 
 A storm rolls in and you’re exposed on a metal route—dangerous for lightning and slippery under rain or hail.
@@ -233,6 +249,8 @@ Step 3: Descend After the Storm
 * Wet rock is slippery; move cautiously.
 * Use gloves for better grip.
 * Use slings for temporary rests to reduce strain.
+
+---
 
 ## You Fall Off a Suspension Bridge or Hanging Ladder
 
@@ -274,6 +292,8 @@ Step 4: Ask for Help
 {{< youtube tAFF9onbGqg >}}
 {{< youtube JoOKwok9Q44 >}}
 {{< youtube J9vqAy-ySXY  >}}
+
+---
 
 ## You’re Stuck in the Middle of a Zip Line (Tyrolean Traverse)
 
@@ -336,6 +356,8 @@ Final Safety Tips for Bridges and Zip Lines
 {{< youtube chY_JaGMqRc >}}
 {{< youtube Z4ok2tX0XYU >}}
 
+---
+
 ## Ascending the Cable After a Fall
 
 If you take a fall and end up dangling below the last rung or anchor, especially on a vertical or overhanging section, you may not be able to climb back up directly.
@@ -361,6 +383,8 @@ You’ll use a prusik and a sling or foot loop to ascend the cable slowly.
 
 If your lanyard is fully extended or the absorber deployed, the cable may be out of reach. Use a cow’s tail or a short sling to gain the first few centimeters to reach up.
 
+---
+
 ## Improvised Belay or Assisted Rescue
 
 Sometimes you’re climbing with someone less experienced or injured, and you need to provide a temporary belay or assist through a tough section.
@@ -384,6 +408,8 @@ If you’re carrying a short rope or even a long sling, you can create a Munter 
 
 This is NOT as smooth as a real belay device but works in emergencies.
 
+---
+
 ## Getting Past a Frozen or Injured Climber Blocking the Cable
 
 If someone is frozen in fear, unconscious, or injured and blocking your route, you may need to bypass them—without compromising your own safety.
@@ -405,6 +431,8 @@ If someone is frozen in fear, unconscious, or injured and blocking your route, y
 
 ATTENTION: Always have a third point of attachment while unclipping.
 
+---
+
 ## Torn or Used-Up Shock Absorber on Your Lanyard
 
 Via ferrata lanyards have shock absorbers that rip open during a fall to reduce impact. After deployment, the lanyard is no longer safe to use for arresting another fall.
@@ -424,6 +452,8 @@ If you have no lanyard backup:
 
 ATTENTION: Treat the rest of the climb as "no-fall territory." Use extra caution and maintain 3 points of contact.
 
+---
+
 ## Mental Self-Rescue: Managing Panic and Freezing
 
 Not all rescues are physical—mental freezing is a common and dangerous problem, especially on exposed sections.
@@ -439,6 +469,8 @@ Not all rescues are physical—mental freezing is a common and dangerous problem
 
 {{< notice info>}}Practicing mindfulness and breath control during training can make a huge difference in panic management.{{< /notice >}}
 
+---
+
 ## Advanced Emergency Techniques: Lowering a Partner (If You Carry Rope)
 
 If you're a guide or experienced climber and carry a short rope (20–30m dynamic), here are some next-level rescues:
@@ -451,6 +483,8 @@ If you're a guide or experienced climber and carry a short rope (20–30m dynami
 
 {{< notice warning>}}These require practice and understanding of basic climbing rescue systems. Train in controlled environments before relying on them.
 {{< /notice >}}
+
+---
 
 ## Harness Suspension Trauma (Orthostatic Shock) Why It’s Dangerous to Hang Motionless on a Zip Line
 
@@ -468,6 +502,8 @@ Symptoms: dizziness, nausea, fainting, rapid breathing, and eventually loss of c
 Never remain hanging motionless for more than a few minutes. If stuck, act immediately.
 {{< /notice >}}
 
+---
+
 ## Magic Sling tips
 
 * You must check them for wear
@@ -484,6 +520,8 @@ Durability taken from Mammut Slings manual
 | Several times a omth          | Up to 3 years        |
 | Every week                        | Up to 1 years           |
 | Almost daily   | less than a year           |
+
+---
 
 ## Conclusions
 

@@ -16,6 +16,9 @@ Se lancer dans le ski de fond, c’est dire oui à l’inconnu, à l’autonomie
 
 NNN IFP are the latest binding system but require both the ski and binding to be IFP. You don't need any tools to adjust
 
+https://www.rossignol.com/ca-en/unisex-nordic-skis-r-skin-ultra-stiff-RHMCT02000.html
+
+
 ## Costs
 
 | Item                     | Price                              |
@@ -23,8 +26,16 @@ NNN IFP are the latest binding system but require both the ski and binding to be
 | Leki PRC 750 Langlaufstöcke       | 129.-           |
 | Rossignol X-7 Combischuhe         | 163.-           |
 | Rossignol R-Skin Ultra Stiff Race Classicset 25/26         | 345.-           |
-| RXC Race Pro Classic Ifp Langlaufbindung       | 163.-           |
-| Rossignol X-7 Combischuhe         | 163.-           |
+
+## Learning
+
+{{< youtube Ufko1XT20b8 >}}
+
+
+* En Engadine, entre Madulain et Zernez.
+* Le Jura, le Gantrisch, la Suisse centrale avec l’Eigenthal.
+
+https://www.css.ch/fr/clients-prives/ma-sante/activite-physique/exercices/ski-de-fond-classique.html
 
 ## Links
 

@@ -3,7 +3,6 @@ title: "Via ferrata self-rescue techniques in various situations"
 summary: "Via ferrata (iron path in Italian) allows climbers to explore vertical and exposed alpine terrain with the aid of fixed steel cables, ladders, and rungs. While it's safer than traditional rock climbing, it’s not risk-free. Rockfall, weather changes, fatigue, or even equipment failure can turn a fun day into a dangerous situation. Knowing self-rescue techniques is essential for via ferrata enthusiasts—especially when you're far from professional help or cell signal. In this post, we'll cover realistic scenarios and step-by-step self-rescue strategies for each, focusing on practical skills, gear management, and risk mitigation."
 type: posts
 date: 2025-10-20T10:04:14+00:00
-url: /via-ferrata-rigidalstockgrat-an-epic-alpine-adventure-k3-west-k4-k4-5/
 cover: https://www.waltercedric.com/2023/09/IMG_2062-scaled.webp
 tags:
   - alpine
@@ -107,6 +106,16 @@ Anyone who hears the «Alpine emergency signal» is obliged to provide assistanc
 3. When was the accident (time of the accident)?
 4. What is the situation like at the scene of the accident? (weather, terrain, visibility)?
 5. Who makes the report (personal details)?
+
+---
+
+## S.O.S Alerts Alps
+
+* Germany: 112
+* Austria: 112 or 140
+* France: 112
+* Italie: 118
+* Switzerland: 144 or 112
 
 ---
 

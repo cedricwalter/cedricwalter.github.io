@@ -2,4 +2,4 @@
 {{- $width := .Get 1 -}}
 {{- $heigh := .Get 2 -}}
 
-<iframe src="{{ .Get 0 }}"  width="100%" height="640px" frameborder="0"></iframe>
+<iframe src="{{ .Get 0 }}"  width="{{ .Get 1 }}" height="{{ .Get 2 }}" frameborder="0"></iframe>

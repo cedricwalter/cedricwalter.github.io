@@ -1,5 +1,5 @@
-<a href="{{ .Get 0 }}" />
-{{- $width := .Get 1 -}}
-{{- $heigh := .Get 2 -}}
-
-<iframe src="{{ .Get 0 }}"  width="{{ .Get 1 }}" height="{{ .Get 2 }}" frameborder="0"></iframe>
+<iframe src="{{ .Get "src" }}" 
+        width="{{ .Get "width" | default "100%" }}"
+        height="{{ .Get "height" | default "600" }}"
+        allowfullscreen>
+</iframe>

@@ -3,6 +3,7 @@ title: "MongoDB User Group / MongoDB and Agents and Agentic AI"
 type: posts
 date: 2025-10-23T10:04:14+00:00
 summary: "Intro to AI Agents and Agentic Systems"
+cover: https://www.waltercedric.com/ai/mongodb-user-group-zurich.webp
 tags:
   - talks
   - ai
@@ -37,11 +38,13 @@ Some hands-on examples to help you build powerful AI-driven applications!
 
 {{< notice info>}}Press SPACE key or mouse click to move to next animation or slide{{< /notice >}}
 
-{{< iframe "https://www.waltercedric.com/intro-to-ai-agents/index.html" "1024px" "768px">}}
+{{< iframe src="https://www.waltercedric.com/intro-to-ai-agents/index.html" width="800" height="600" >}}
+
+link to presentation https://www.waltercedric.com/intro-to-ai-agents/index.html
 
 ## Jupyter Demo notebook
 
-https://colab.research.google.com/github/cedricwalter/AI-Agents/blob/main/notebooks/agents/intro-generative-AI.ipynb 
+Link to Collab https://colab.research.google.com/github/cedricwalter/AI-Agents/blob/main/notebooks/agents/intro-generative-AI.ipynb 
 
 ## MongoDB User Group Zürich
 

@@ -2,7 +2,7 @@
 title: "MongoDB User Group / MongoDB and Agents and Agentic AI"
 type: posts
 date: 2025-10-23T10:04:14+00:00
-summary: "Intro to AI Agents and Agentic Systems"
+summary: "Introduction to AI Agents and Agentic Systems, a presentation I did for the MongoDB User Group Zürich on 23 October 2025."
 cover: https://www.waltercedric.com/ai/mongodb-user-group-zurich.webp
 tags:
   - talks

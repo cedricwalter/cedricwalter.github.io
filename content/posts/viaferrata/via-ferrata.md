@@ -400,7 +400,34 @@ Il n’est jamais utilisé comme noeud d’assurage car difficile à défaire ap
 
 ![Noeud-Queue-de-vache](https://www.waltercedric.com/viaferrata/Noeud-Queue-de-vache.webp)
 
-### Links
+## Belay loop or not?
+
+https://www.alpinesavvy.com/blog/how-to-best-connect-a-tether-to-your-harness?rq=via%20ferrata
+
+## Interesting blogs
+
+* https://www.alpinesavvy.com
+
+## Interesting YOUTUBE
+
+* https://www.youtube.com/@ViaFerrataHelvetica
+* https://www.youtube.com/@JetSetYourself/
+* https://www.youtube.com/@carlseye
+* https://www.youtube.com/@TraintoSummit/
+* https://www.youtube.com/@alpinrock1288/videos 
+* https://www.youtube.com/@AvventureDolomitiche/videos 
+* https://www.youtube.com/@b2attravel/videos 
+* https://www.youtube.com/@Berg_auf/videos 
+* https://www.youtube.com/@BrunoPisaniAdventure 
+* https://www.youtube.com/@tourferrateita6015/videos 
+* https://www.youtube.com/@viasferratasespana-toprutas 
+* https://www.youtube.com/@topojavi1
+
+## Interesting Instagram
+
+* https://www.instagram.com/viaferrata_helvetica/?hl=en
+
+## Links
 
 * https://www.petzl.com/LU/fr/Sport/Via-ferrata
 * https://www.petzl.com/LU/fr/Sport/Nœuds-autobloquants

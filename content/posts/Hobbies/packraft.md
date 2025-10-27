@@ -176,3 +176,26 @@ Choisir une Paracorde flottante, corde de 4–6 mm, souvent en polypropylène, d
 Passer dans les D-rings ou points d’ancrage autour du raft et ne laisser qu'un jeu modéré! Suffisamment tendue pour ne pas traîner dans l’eau, mais pas trop tendue pour qu’on puisse s’y agripper facilement.
 Nœud de huit, nœud plat, ou usage de bloqueurs si nécessaire
 Faire tout le tour de l'embarcation, parfois aussi doublée à l’avant ou à l’arrière pour faciliter la prise.
+
+## Stages of Learning
+
+Unconscious incompetenceYou don’t know what you don’t know. Gaps are invisible, and you may not even see the value in learning the skill. In paddling, this looks like swimming without knowing why, staring at a rapid without tools to read it, or carrying bad habits you don’t realize you have.
+
+Conscious incompetenceThe blinders are off. You can see what you can’t yet do. Your ferry angles are sloppy, your brace is late—but at least now you recognize it. When you swim, you know why. You can name the missing skills or bad habits and start to see how to fix them.
+
+Conscious competenceThe pieces begin to come together. You can execute strokes and maneuvers with focus, often step by step. You scout a rapid, make a plan, and concentrate hard to pull it off. A lapse in focus still often means a blown line or another swim.
+
+Unconscious competenceAfter enough practice, skills become second nature. Strokes blend without conscious thought. You read water in motion, adjusting midline without overthinking. At this stage you paddle fluidly, and you can start passing knowledge on to others.
+
+## Kanuschule Versam GmbH
+
+Sie sind täglich zwischen 09:00-17:00 für dich da.
+
+Station Versam 9
+CH-7104 Versam
+Tel: +41 (0)81 645 13 24
+ 
+* info@kanuschule.ch
+* www.kanuschule.ch
+* www.paddlershop.ch
+* www.ally.ch

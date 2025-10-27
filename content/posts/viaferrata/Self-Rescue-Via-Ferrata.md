@@ -550,6 +550,30 @@ Durability taken from Mammut Slings manual
 
 ---
 
+## Emergency 3 carabiner brake rappel
+
+https://www.alpinesavvy.com/blog/a-slick-carabiner-rappel-brake
+https://www.instagram.com/reel/DOyOQ-MDuMD/?igsh=MWdlYnR1YWZ1Ym1jOA==
+
+---
+
+## Limits of gears
+
+sling vs lanyards
+{{< youtube 0gWOiqPAZDw >}}
+
+quickdraw
+{{< youtube 3pEvn4P1vj0 >}}
+
+carabiners
+{{< youtube H3ojYSq_NFY >}}
+
+knots
+{{< youtube 4aHjsSWjeVk >}}
+
+falling physics
+{{< youtube WyExE2qH4Fs >}}
+
 ## Conclusions
 
 Via ferrata is a thrilling, accessible way to explore the mountains—but it still demands respect and preparation. Learn your gear, train for the worst-case scenario, and practice self-rescue skills in safe environments.

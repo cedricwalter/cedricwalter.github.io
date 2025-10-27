@@ -42,7 +42,9 @@ Some hands-on examples to help you build powerful AI-driven applications!
 
 link to presentation https://www.waltercedric.com/intro-to-ai-agents/index.html
 
-## Jupyter Demo notebook
+## Jupyter Demo notebook and PDF presentation slides
+
+https://github.com/cedricwalter/AI-Agents/tree/main
 
 Link to Collab https://colab.research.google.com/github/cedricwalter/AI-Agents/blob/main/notebooks/agents/intro-generative-AI.ipynb 
 

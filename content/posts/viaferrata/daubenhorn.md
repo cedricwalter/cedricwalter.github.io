@@ -3,6 +3,7 @@ title: 'The Daubenhorn via ferrata'
 summary: "The Daubenhorn via ferrata is Switzerland’s longest via ferrata route (8 to 10 hours of climbing), at a hefty 9km, and is classified “K5 Extremely Difficult”. You have to cross a glacier in order to get back down the mountain again. 
 There are more than 2000m of steel cables, 12 steel ladders with a total length of 216m and a 30m rope bridge."
 type: posts
+cover: https://www.waltercedric.com/viaferrata/daubenhorn-via-ferrata.webp
 date: 2025-11-04T12:24:52+00:00
 tags:
   - alps

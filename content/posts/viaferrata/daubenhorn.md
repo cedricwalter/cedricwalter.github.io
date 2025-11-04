@@ -49,7 +49,7 @@ It rewards you with **panoramic views of the Valais Alps**, including the Rhône
 This is a **long, committing route**, so timing is crucial.
 
 **Recommended start time:**
-**7:00 AM (or earlier)** in summer
+**7:00 AM (or even earlier)** in summer
 
 Why?
 
@@ -64,15 +64,12 @@ Only go in **dry, stable weather**. Rain, wind, or thunderstorms drastically inc
 
 Approach: 20 mins
 
-
-
 Trail begins above Leukerbad. Most climbers start from **Gemmibahn valley station** and follow signs to *Klettersteig Daubenhorn*.
 
 Expect:
 
 * ~1–1.5 hours hiking to the via ferrata start
 * A warm-up scramble section
-
 
 ### How to Exit
 
@@ -97,7 +94,7 @@ This route is **not for beginners**. You should be comfortable with:
 * Long days in alpine terrain
 * NEVER GO ALONE!!!
 
-**Gear essentials**
+#### Gear essentials
 
 * Certified VF set (lanyards with energy absorber)
 * Maybe carry another VF set in case the first open after a fall and you are not injured.
@@ -109,7 +106,7 @@ This route is **not for beginners**. You should be comfortable with:
 * Plenty of water (little to no water en-route), you need a lot of water also because a large part is in full sun !
 * High-energy snacks
 
-**Be cautious of**
+#### Be cautious of
 
 | Risk                  | Why It Matters                             |
 | --------------------- | ------------------------------------------ |
@@ -145,6 +142,6 @@ If you’re ready for exposure, endurance, and unbeatable views — it might jus
 
 {{< youtube ThOvctMyCAI >}}
 
-and what NOT TO DO in this video
+and what NOT TO DO in this video, he could have died!
 
 {{< youtube SMK41UXUx3U >}}

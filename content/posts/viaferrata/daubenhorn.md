@@ -142,6 +142,8 @@ If you’re ready for exposure, endurance, and unbeatable views — it might jus
 
 {{< youtube ThOvctMyCAI >}}
 
+{{< youtube Wg00Rr81fF4 >}}
+
 and what NOT TO DO in this video, he could have died!
 
 {{< youtube SMK41UXUx3U >}}

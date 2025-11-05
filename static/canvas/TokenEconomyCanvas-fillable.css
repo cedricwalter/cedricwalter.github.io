@@ -1,0 +1,61 @@
+h1 {
+	text-align: center;
+	margin-bottom: 25px;
+}
+
+h2 {
+	font-size: 14px;
+	text-align: center;
+	margin-bottom: 9px;
+	color: gray;
+}
+
+h3 {
+	font-size: 14px;
+	text-align: center;
+	margin-bottom: 9px;
+	color: gray;
+}
+
+h4 {
+	font-size: 9px;
+	text-align: center;
+	margin-bottom: 9px;
+	color: gray;
+}
+
+.title {
+	font-size: 18px;
+	font-style: bold;
+	color: black;
+	margin-bottom: 5px;
+}
+
+.subtitle {
+	font-size: 14px;
+	font-style: bold;
+	color: gray;
+	margin-bottom: 15px;
+}
+
+#save-indicator{
+	display:none;
+}
+
+textarea {
+	background-image: linear-gradient(#F1F1F1 50%, #F9F9F9 50%);
+	background-size: 100% 4rem;
+	border: 1px solid #CCC;
+	width: 100%;
+	height: 400px;
+	line-height: 2rem;
+	margin: 0 auto;
+	padding: 4px 8px;
+}
+
+textarea::placeholder {
+    text-align: center;
+    font-size: 135px;
+    color: gray;
+}
+

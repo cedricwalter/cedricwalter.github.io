@@ -1,0 +1,38 @@
+{
+  "name": "binance-watch",
+  "description": "Webapp client for watching price action on Binance.",
+  "version": "1.0.0",
+  "author": "Rainner Lins <rainnerlins@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "cross-env NODE_ENV=development webpack-dev-server --hot",
+    "build": "cross-env NODE_ENV=production webpack --progress --hide-modules"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not ie <= 8"
+  ],
+  "dependencies": {
+    "vue": "^2.5.22"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.5",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-stage-3": "^6.24.1",
+    "cross-env": "^5.2.0",
+    "css-loader": "^0.28.7",
+    "extract-text-webpack-plugin": "^3.0.2",
+    "file-loader": "^1.1.4",
+    "ignore-loader": "^0.1.2",
+    "node-sass": "^4.11.0",
+    "postcss-loader": "^2.1.6",
+    "sass-loader": "^6.0.6",
+    "vue-loader": "^13.7.3",
+    "vue-style-loader": "^4.1.2",
+    "vue-template-compiler": "^2.5.17",
+    "webpack": "^3.12.0",
+    "webpack-dev-server": "^2.11.3"
+  }
+}

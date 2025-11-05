@@ -1,0 +1,103 @@
+/**
+ * Custom prompt box
+ */
+.prompt-overlay {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  position: fixed;
+  overflow: hidden;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color: $colorOverlay;
+  z-index: ( $zindexAlerts + 100 );
+  pointer-events: none;
+  opacity: 0;
+
+  .prompt-container {
+    margin: 0 auto;
+    width: calc( 100% - ( #{$padSpace} * 2 ) );
+    max-width: calc( #{$sizeSmall} + ( #{$padSpace} * 2 ) );
+    background-color: lighten( $colorDocumentLight, 4% );
+    border-radius: $lineJoin;
+    box-shadow: $shadowBold;
+    transform: scale( 0.5 );
+
+    .prompt-title {
+      color: $colorBright;
+      padding: $padSpace;
+      border-bottom: $lineWidth $lineStyle $lineColor;
+    }
+
+    .prompt-message {
+      padding: $padSpace;
+    }
+
+    .prompt-input {
+      display: block;
+      overflow: hidden;
+      font-size: inherit;
+      line-height: 1.4em;
+      min-width: 100%;
+      margin: 0;
+      padding: $padSpace;
+      color: darken( $colorPrimary, 6% );
+      background-color: transparent;
+      box-shadow: none;
+
+      &:active, &:focus {
+        color: $colorPrimary;
+      }
+    }
+
+    .prompt-buttons {
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      justify-content: stretch;
+      border-top: $lineWidth $lineStyle $lineColor;
+
+      button {
+        display: block;
+        flex: 1;
+        cursor: pointer;
+        color: $colorDocumentText;
+        text-align: center;
+        text-transform: uppercase;
+        font-size: 90%;
+        line-height: 1.2em;
+        margin: 0;
+        padding: $padSpace;
+        border-bottom: $lineWidth $lineStyle rgba( 0, 0, 0, 0.1 );
+      }
+      .prompt-accept-btn {
+        background-color: rgba( 0, 0, 0, 0.05 );
+        color: $colorGain;
+
+        &:hover, &:active, &:focus {
+          background-color: rgba( 0, 0, 0, 0 );
+        }
+      }
+      .prompt-cancel-btn {
+        background-color: rgba( 0, 0, 0, 0.15 );
+        color: $colorLoss;
+
+        &:hover, &:active, &:focus {
+          background-color: rgba( 0, 0, 0, 0.1 );
+        }
+      }
+    }
+  }
+
+  &.prompt-visible {
+    pointer-events: auto;
+    opacity: 1;
+
+    .prompt-container {
+      transform: scale( 1 );
+    }
+  }
+}

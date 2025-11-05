@@ -1,0 +1,78 @@
+/**
+tooltip
+ */
+
+.tooltip_content .description {
+    color: black;
+    font-size: 18px;
+    text-align: center;
+}
+
+.tooltip_content .logo {
+    width: 250px;
+    text-align: center;
+    margin: 10px;
+}
+
+img{
+    text-align: center;
+}
+
+.tooltip_content .motto {
+    font-size: 16px;
+    color: #00cbdf;
+    font-weight: bold;
+    text-align: center;
+    margin: 10px;
+}
+.tooltip_content .title {
+    font-size: 39px;
+    color: black;
+    font-weight: bold;
+}
+.tooltip_content .address {
+    position: relative;
+    padding-bottom: 10px;
+    font-size: 14px;
+    color: #00cbdf;
+    margin: 10px;
+}
+.tooltip_content .address:before {
+    content: "\f041";
+    font-family: FontAwesome;
+    left: -5px;
+    padding-right: 5px;
+    top: 0;
+}
+
+.tooltip_content .cat {
+    position: relative;
+    font-size: 14px;
+    color: #00cbdf;
+}
+.tooltip_content .cat:before {
+    content: "\f105";
+    font-family: FontAwesome;
+    left: -5px;
+    padding-right: 5px;
+    top: 0;
+}
+.tooltip_content .scat {
+    position: relative;
+    font-size: 14px;
+    color: #00cbdf;
+}
+.tooltip_content .scat:before {
+    content: "\f107";
+    font-family: FontAwesome;
+    left: -5px;
+    padding-right: 5px;
+    top: 0;
+}
+
+.tooltip_templates { display: none; }
+
+.tooltip_content .name {
+    font-size: 30px;
+    text-align: center;
+}

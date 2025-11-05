@@ -1,0 +1,144 @@
+.chart rect {
+    fill: steelblue;
+}
+
+text {
+    font: 24px "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-anchor: middle;
+    pointer-events: none;
+}
+
+
+.link {
+    stroke: #999;
+    stroke-opacity: .6;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 220px;
+}
+
+
+@media(min-width: 1350px) { }
+    .box {
+        background-color: lightgray;
+        width: 450px;
+        height: 450px;
+        margin-top: 25px;
+        float: left;
+        margin-left: 3px;
+        margin-bottom: 3px;
+        position: relative;
+    }
+
+    .bub1, .bub2, .bub3, .bub4, .bub5, .bub6, .bub7 {
+        background-color: lightgray;
+        width: 450px;
+        height: 450px;
+        margin-top: 25px;
+    }
+
+    .country {
+        font-weight: bold;
+        font-size: 1.5rem;
+        position: absolute;
+        top: 5px;
+        right: 180px;
+    }
+
+    .raised {
+        font-weight: bolder;
+        font-size: 1.2rem;
+        position: absolute;
+        top: 5px;
+        right: 30px;
+    }
+
+    .number {
+        font-weight: normal;
+        font-size: 1rem;
+        position: absolute;
+        top: 5px;
+        left: 10px;
+    }
+
+    .number-value {
+        font-weight: bold;
+        font-size: 3rem;
+        position: absolute;
+        top: 25px;
+        left: 10px;
+    }
+
+    .legend {
+        display: block;
+        margin-top: 10px;
+    }
+
+
+h1 {
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    color: black;
+    font-size: 1em;
+}
+
+h2 {
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    color: rgb(0, 132, 161);
+    font-size: 0.9em;
+}
+
+h3 {
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    color: black;
+    font-size: 0.8em;
+}
+
+h4 {
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    color: black;
+    font-size: 0.7em;
+}
+
+p {
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    color: black;
+    font-size: 0.7em;
+}
+
+a {
+    text-decoration: none;
+    cursor: pointer;
+}
+
+body {
+    background-color: white;
+}
+
+/* Option 1A: Override a single element's box model via CSS */
+.hack-bootstrap {
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    box-sizing: content-box;
+}
+
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+*:before,
+*:after {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}

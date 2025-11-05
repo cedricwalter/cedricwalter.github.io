@@ -1,0 +1,268 @@
+body {
+	background: #9D1C21;
+	color: #fff;
+	font-family: 'BioRhyme', serif;
+}
+
+a {
+	color: #fff;
+}
+
+a:hover,
+a:focus {
+	color: #fceeb8;
+}
+
+.deuce-logo {
+	margin-top: 12.5em;
+	padding: 0 calc((100vw - (7 * (7vw + 1vw)))/2) 4%;
+	transition: opacity 300ms;
+	transition: margin 600ms;
+}
+
+.deuce-logo img {
+	width: 100%;
+	max-width: 23%;
+	position: absolute;
+}
+
+.opening .deuce-logo,
+.open .deuce-logo {
+	opacity: 0;
+}
+
+.open .deuce-logo {
+	/*margin-top: 0;*/
+}
+
+.js .opening .content {
+	position: relative;
+}
+
+.js .open .content {
+	overflow: visible;
+}
+
+.codrops-header {
+	background: none;
+}
+
+.codrops-header__tagline,
+.codrops-demos,
+.content__description,
+.content__meta {
+	font-family: 'Roboto Condensed', sans-serif;
+}
+
+.content__description a {
+	color: #fff;
+	text-decoration: underline;
+}
+
+.codrops-demos a.current-demo {
+	color: #fceeb8;
+}
+
+.calendar {
+	-webkit-perspective: 2500px;
+	perspective: 2500px;
+	overflow: visible;
+}
+
+.js .open .calendar {
+	display: none;
+}
+
+.cube__side,
+.no-js .cube {
+	border: 3px solid #fff;
+	outline: 1px solid #fff;
+	background: #f0f0f0 url(../img/c1.png) no-repeat center center;
+}
+
+.cube:not(.cube--inactive):nth-child(2n) .cube__side,
+.no-js .cube:not(.cube--inactive):nth-child(2n) {
+	background-image: url(../img/c2.png);
+}
+
+.cube:not(.cube--inactive):nth-child(3n) .cube__side,
+.no-js .cube:not(.cube--inactive):nth-child(3n) {
+	background-image: url(../img/c3.png);
+}
+
+.cube:not(.cube--inactive):nth-child(4n) .cube__side,
+.no-js .cube:not(.cube--inactive):nth-child(4n) {
+	background-image: url(../img/c4.png);
+}
+
+.cube:not(.cube--inactive):nth-child(5n) .cube__side,
+.no-js .cube:not(.cube--inactive):nth-child(5n) {
+	background-image: url(../img/c5.png);
+}
+
+.cube--inactive .cube__side,
+.no-js .cube--inactive {
+	background: #e6e6e6;
+}
+
+
+/* With JS we insert a number span into the cube */
+
+.cube__number,
+.no-js .cube::after {
+	font-weight: 700;
+	color: #cc0019;
+	background: #fff;
+	width: 100%;
+	text-align: center;
+	top: 50%;
+	height: 1.5em;
+	line-height: 1.5;
+	bottom: auto;
+	margin: -0.75em 0 0;
+}
+
+.cube--inactive .cube__number,
+.no-js .cube--inactive::after {
+	color: #cac9c9;
+}
+
+.js .content__block {
+	width: 100%;
+	padding: 0 10vw 0 20vw;
+	font-family: 'Lato', serif;
+	height: auto;
+}
+
+.js .content__description {
+	padding: 0 0 0 4vw;
+}
+
+.content__number {
+	color: #000;
+	font-weight: bold;
+	line-height: 0.5;
+	letter-spacing: -0.175em;
+	font-size: 30vw;
+	left: -5vw;
+	bottom: 8vh;
+}
+
+.content__title {
+	font-size: 4vw;
+	line-height: 1.25;
+	opacity: 0;
+	transition: opacity 300ms;
+}
+
+.open .content__title {
+	opacity: 1;
+}
+
+.title {
+	color: #fceeb8;
+	right: auto;
+	left: 3vw;
+}
+
+.post {
+	background: #ffffff;
+	max-width: 900px;
+	width: 100%;
+	margin: 0 auto;
+	margin-top: 40px;
+	text-align: center;
+	padding-bottom: 40px;
+}
+
+.post-title {
+	font-family: 'Roboto', sans-serif;
+	font-size: 34px;
+	font-weight: 700;
+	color: #1a1a1a;
+	text-align: center;
+	padding: 0 15px;
+	margin: 40px auto;
+	max-width: 700px;
+}
+
+.post h1,
+.post h2,
+.post h3,
+.post h4,
+.post h5,
+.post h6 {
+	color: #1a1a1a;
+	max-width: 700px;
+	margin: 20px auto;
+	font-family: 'Roboto', sans-serif;
+}
+
+.post p {
+	text-align: left;
+	line-height: 26px;
+	color: #1a1a1a;
+	max-width: 700px;
+	margin: 0 auto 20px;
+	font-family: 'Roboto', sans-serif;
+	display: inline-block;
+	font-size: 20px;
+	font-weight: 300;
+}
+
+.post em {
+	color: #1a1a1a;
+	max-width: 700px;
+	margin: 0 auto 20px;
+	font-family: 'Roboto', sans-serif;
+	display: block;
+}
+
+.post img {
+	margin: 20px 0;
+}
+
+.xmas-img {
+	width: 100%;
+}
+
+@media screen and (max-width: 50.75em) {
+	.js .content__block {
+		padding: 4em 2em 0;
+		-webkit-justify-content: flex-start;
+		-ms-flex-pack: start;
+		justify-content: flex-start;
+	}
+	.content__number {
+		bottom: 30vh;
+	}
+	.deuce-logo {
+		padding: 0 calc((100vw - (7 * (12vw + 1vw)))/2) 7%;
+	}
+
+	.open .deuce-logo {
+		margin-top: 0;
+	}
+
+	.deuce-logo img {
+		max-width: 37%;
+	}
+
+	.content__title {
+		font-size: 7vw;
+	}
+}
+
+@media screen and (max-width: 950px) {
+	.post {
+		width: auto;
+    	margin: 40px;
+	}
+}
+
+@media screen and (max-width: 480px) {
+	.post {
+		width: auto;
+    	margin: 20px;
+	}
+}

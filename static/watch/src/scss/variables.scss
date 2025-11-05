@@ -1,0 +1,114 @@
+// topbar size
+$topbarHeight: 4em;
+
+// list icons fixed size (w|h px)
+$iconSize: 46px;
+
+// spacing and padding
+$padSpace: 1em;
+$padSpaceSmall: $padSpace / 2;
+$colSpace: 1.0em;
+$rowSpace: 1.2em;
+$listSpace: 0.4em;
+
+// borders and lines
+$lineWidth: 2px;
+$lineStyle: solid;
+$lineColor: rgba( white, 0.02 );
+$lineJoin: 6px;
+
+// common z-index values
+$zindexUnder: -1;
+$zindexElements: 100;
+$zindexModals: 8888;
+$zindexAlerts: 9999;
+
+// base font options
+$fontSize: 17px;
+$fontSpace: 1.4em;
+$fontWeight: normal;
+$fontFamily: 'Open Sans Condensed', 'Contrail One', Capriola, Consolas, Monaco, monospace;
+$fontFixed: Consolas, Monaco, monospace;
+
+// document colors
+$colorDocument: #192029;
+$colorDocumentText: #babbbc;
+$colorDocumentLight: lighten( $colorDocument, 3% );
+$colorDocumentDark: darken( $colorDocument, 6% );
+
+// default colors
+$colorDefault: lightgray;
+$colorDefaultText: darken( $colorDefault, 40% );
+
+// primary colors
+$colorGain: darken( yellowgreen, 10% );
+$colorGainText: darken( $colorGain, 40% );
+
+// primary colors
+$colorLoss: desaturate( red, 30% );
+$colorLossText: darken( $colorLoss, 40% );
+
+// primary colors
+$colorPrimary: desaturate( orange, 10% );
+$colorPrimaryText: darken( $colorPrimary, 40% );
+
+// secondary colors
+$colorSecondary: steelblue;
+$colorSecondaryText: darken( $colorSecondary, 40% );
+
+// success colors
+$colorSuccess: desaturate( olivedrab, 10% );
+$colorSuccessText: lighten( $colorSuccess, 45% );
+
+// warning colors
+$colorWarning: desaturate( orange, 30% );
+$colorWarningText: lighten( $colorWarning, 40% );
+
+// danger colors
+$colorDanger: desaturate( firebrick, 10% );
+$colorDangerText: lighten( $colorDanger, 40% );
+
+// info colors
+$colorInfo: darken( slategray, 15% );
+$colorInfoText: lighten( $colorInfo, 45% );
+
+// grey colors
+$colorGrey: lightslategray;
+$colorGreyText: lighten( $colorGrey, 40% );
+
+// bright colors
+$colorBright: aliceblue;
+$colorBrightText: darken( $colorBright, 40% );
+
+// other colors
+$colorText: lightgray;
+$colorOverlay: rgba( 0, 0, 0, 0.5 );
+
+// common shadow styles
+$shadowHollow: inset 0 1px 4px rgba( 0, 0, 0, 0.15 );
+$shadowBubble: inset 0 -20px 20px rgba( 0, 0, 0, 0.1 );
+$shadowPaper: 0 1px 2px rgba( 0, 0, 0, 0.2 );
+$shadowDark: 0 1px 3px rgba( 0, 0, 0, 0.3 );
+$shadowGlow: 0 0 10px rgba( 0, 0, 0, 0.2 );
+$shadowBold: 0 2px 12px rgba( 0, 0, 0, 0.4 );
+$shadowText: 1px 1px 0 rgba( 0, 0, 0, 0.3 );
+
+// transition props
+$fxSpeed: 300ms;
+$fxEase: cubic-bezier( 0.215, 0.610, 0.355, 1.000 );
+$fxEaseBounce: cubic-bezier( 0.640, -0.280, 0.050, 1.405 );
+$fxSpeedOffset: calc( #{$fxSpeed} / 3 );
+$fxSlideDist: 20px;
+$fxShrinkScale: .4;
+$fxGrowScale: 1.4;
+$fxRotateAmount: 8deg;
+
+// screen sizes
+$sizeSmall: 420px;
+$sizeMedium: 720px;
+$sizeLarge: 1280px;
+
+// screen breakpoints
+$screenSmall: "only screen and (min-width : #{$sizeSmall})";
+$screenMedium: "only screen and (min-width : #{$sizeMedium})";
+$screenLarge: "only screen and (min-width : #{$sizeLarge})";

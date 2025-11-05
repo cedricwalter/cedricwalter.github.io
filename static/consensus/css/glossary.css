@@ -1,0 +1,44 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 220px;
+}
+
+h1 {
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    color: rgb(0, 132, 161);
+    font-size: 2rem;
+}
+
+h2 {
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    color: rgb(0, 132, 161);
+    font-size: 1.5rem;
+}
+
+h3 {
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    color: black;
+    font-size: 0.8em;
+}
+
+h4 {
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    color: black;
+    font-size: 0.7em;
+}
+
+p {
+    font-family: 'Open Sans', sans-serif;
+    color: black;
+    font-size: 1rem;
+}
+
+body {
+    background-color: white;
+}

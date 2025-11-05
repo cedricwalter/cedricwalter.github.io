@@ -1,0 +1,310 @@
+[
+  {
+    "align": "center",
+    "field": "popularity",
+    "formatter": "rating",
+    "sortable": "true",
+    "title": "popularity"
+  },
+  {
+    "align": "center",
+    "field": "quality",
+    "formatter": "rating",
+    "sortable": "true",
+    "title": "quality"
+  },
+  {
+    "align": "center",
+    "field": "ease_of_use",
+    "formatter": "rating",
+    "sortable": "true",
+    "title": "ease of use"
+  },
+  {
+    "align": "center",
+    "field": "access",
+    "formatter": "rating",
+    "sortable": "true",
+    "title": "access"
+  },
+  {
+    "align": "center",
+    "field": "costs",
+    "formatter": "rating",
+    "sortable": "true",
+    "title": "costs"
+  },
+  {
+    "align": "center",
+    "field": "scalability",
+    "formatter": "rating",
+    "sortable": "true",
+    "title": "scalability"
+  },
+  {
+    "align": "center",
+    "field": "attractiveness",
+    "formatter": "rating",
+    "sortable": "true",
+    "title": "attractiveness"
+  },
+  {
+    "align": "center",
+    "field": "industry_focus",
+    "formatter": "text",
+    "sortable": "true",
+    "title": "industry focus"
+  },
+  {
+    "align": "center",
+    "field": "our_analysis",
+    "formatter": "teaser",
+    "sortable": "true",
+    "title": "our analysis"
+  },
+  {
+    "align": "center",
+    "field": "description",
+    "formatter": "tooltip",
+    "sortable": "true",
+    "title": "description"
+  },
+  {
+    "align": "center",
+    "field": "launch",
+    "formatter": "link",
+    "sortable": "true",
+    "title": "launch"
+  },
+  {
+    "align": "center",
+    "field": "type",
+    "formatter": "type",
+    "sortable": "true",
+    "title": "type"
+  },
+  {
+    "align": "center",
+    "field": "National_Institute_of_Standards_and_Technology_(NIST)",
+    "formatter": "boolean",
+    "sortable": "true",
+    "title": "National Institute of Standards and Technology (NIST)"
+  },
+  {
+    "align": "center",
+    "field": "token",
+    "formatter": "boolean",
+    "sortable": "true",
+    "title": "token"
+  },
+  {
+    "align": "center",
+    "field": "atomic_swap",
+    "formatter": "boolean",
+    "sortable": "true",
+    "title": "atomic swap"
+  },
+  {
+    "align": "center",
+    "field": "language",
+    "formatter": "link",
+    "sortable": "true",
+    "title": "language"
+  },
+  {
+    "align": "center",
+    "field": "contract_language",
+    "formatter": "link",
+    "sortable": "true",
+    "title": "contract language"
+  },
+  {
+    "align": "center",
+    "field": "consensus",
+    "formatter": "link",
+    "sortable": "true",
+    "title": "consensus"
+  },
+  {
+    "align": "center",
+    "field": "whitepaper",
+    "formatter": "pdf",
+    "sortable": "true",
+    "title": "whitepaper"
+  },
+  {
+    "align": "center",
+    "field": "governance",
+    "formatter": "tooltip",
+    "sortable": "true",
+    "title": "governance"
+  },
+  {
+    "align": "center",
+    "field": "turing",
+    "formatter": "boolean",
+    "sortable": "true",
+    "title": "turing"
+  },
+  {
+    "align": "center",
+    "field": "state_channels",
+    "formatter": "boolean",
+    "sortable": "true",
+    "title": "state channels"
+  },
+  {
+    "align": "center",
+    "field": "decentralization",
+    "formatter": "link",
+    "sortable": "true",
+    "title": "decentralization"
+  },
+  {
+    "align": "center",
+    "field": "gdpr",
+    "formatter": "boolean",
+    "sortable": "true",
+    "title": "gdpr"
+  },
+  {
+    "align": "center",
+    "field": "max_supply",
+    "formatter": "link",
+    "sortable": "true",
+    "title": "max supply"
+  },
+  {
+    "align": "center",
+    "field": "total_supply",
+    "formatter": "link",
+    "sortable": "true",
+    "title": "total supply"
+  },
+  {
+    "align": "center",
+    "field": "circulating_supply",
+    "formatter": "link",
+    "sortable": "true",
+    "title": "circulating supply"
+  },
+  {
+    "align": "center",
+    "field": "documentation",
+    "formatter": "pdf",
+    "sortable": "true",
+    "title": "documentation"
+  },
+  {
+    "align": "center",
+    "field": "explorer",
+    "formatter": "search",
+    "sortable": "true",
+    "title": "explorer"
+  },
+  {
+    "align": "center",
+    "field": "social",
+    "formatter": "social",
+    "sortable": "true",
+    "title": "social"
+  },
+  {
+    "align": "center",
+    "field": "company_code",
+    "formatter": "code",
+    "sortable": "true",
+    "title": "company code"
+  },
+  {
+    "align": "center",
+    "field": "platform_code",
+    "formatter": "code",
+    "sortable": "true",
+    "title": "platform code"
+  },
+  {
+    "align": "center",
+    "field": "wallet_code",
+    "formatter": "code",
+    "sortable": "true",
+    "title": "wallet code"
+  },
+  {
+    "align": "center",
+    "field": "sdk",
+    "formatter": "code",
+    "sortable": "true",
+    "title": "sdk"
+  },
+  {
+    "align": "center",
+    "field": "client",
+    "formatter": "link",
+    "sortable": "true",
+    "title": "client"
+  },
+  {
+    "align": "center",
+    "field": "github_stars",
+    "formatter": "text",
+    "sortable": "true",
+    "title": "github_stars"
+  },
+  {
+    "align": "center",
+    "field": "github_releases",
+    "formatter": "text",
+    "sortable": "true",
+    "title": "github_releases"
+  },
+  {
+    "align": "center",
+    "field": "forks_count",
+    "formatter": "text",
+    "sortable": "true",
+    "title": "forks_count"
+  },
+  {
+    "align": "center",
+    "field": "open_issues_count",
+    "formatter": "text",
+    "sortable": "true",
+    "title": "open_issues_count"
+  },
+  {
+    "align": "center",
+    "field": "watchers",
+    "formatter": "text",
+    "sortable": "true",
+    "title": "watchers"
+  },
+  {
+    "align": "center",
+    "field": "created_at",
+    "formatter": "date",
+    "sortable": "true",
+    "title": "created_at"
+  },
+  {
+    "align": "center",
+    "field": "updated_at",
+    "formatter": "date",
+    "sortable": "true",
+    "title": "updated_at"
+  },
+  {
+    "align": "center",
+    "field": "fork",
+    "formatter": "boolean",
+    "sortable": "true",
+    "title": "fork"
+  },
+  {
+    "align": "center",
+    "field": "ticker",
+    "formatter": "link",
+    "sortable": "true",
+    "title": "ticker"
+  }
+]

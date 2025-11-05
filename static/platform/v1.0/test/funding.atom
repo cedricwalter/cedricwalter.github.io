@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://landscape.cncf.io/</id>
+    <title>Funding changes</title>
+    <updated>2019-03-26T15:15:15.096Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <author>
+        <name>CNCF</name>
+        <email>info@cncf.io</email>
+        <uri>https://www.cncf.io</uri>
+    </author>
+    <link rel="alternate" href="https://landscape.cncf.io"/>
+    <subtitle>That feed shows recent changes</subtitle>
+    <logo>https://landscape.cncf.io/favicon.png</logo>
+    <icon>https://landscape.cncf.io/favicon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Portworx got funding of $27M, now totalling $55.5M, on 2019-03-20]]></title>
+        <id>Portworx2019-03-20</id>
+        <link href="https://www.crunchbase.com/organization/portworx#section-funding-rounds">
+        </link>
+        <updated>2019-03-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Portworx got funding of $27M, now totalling $55.5M, on 2019-03-20]]></summary>
+        <content type="html"><![CDATA[Portworx got funding of $27M, now totalling $55.5M, on 2019-03-20]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ArangoDB got funding of $10M, now totalling $16.9M, on 2019-03-15]]></title>
+        <id>ArangoDB2019-03-15</id>
+        <link href="https://www.crunchbase.com/organization/arangodb#section-funding-rounds">
+        </link>
+        <updated>2019-03-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ArangoDB got funding of $10M, now totalling $16.9M, on 2019-03-15]]></summary>
+        <content type="html"><![CDATA[ArangoDB got funding of $10M, now totalling $16.9M, on 2019-03-15]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NowFloats got funding of $3.36K, now totalling $17.4M, on 2019-03-14]]></title>
+        <id>NowFloats2019-03-14</id>
+        <link href="https://www.crunchbase.com/organization/nowfloats-technologies-private-limited#section-funding-rounds">
+        </link>
+        <updated>2019-03-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[NowFloats got funding of $3.36K, now totalling $17.4M, on 2019-03-14]]></summary>
+        <content type="html"><![CDATA[NowFloats got funding of $3.36K, now totalling $17.4M, on 2019-03-14]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cloudflare got funding of $150M, now totalling $332M, on 2019-03-12]]></title>
+        <id>Cloudflare2019-03-12</id>
+        <link href="https://www.crunchbase.com/organization/cloudflare#section-funding-rounds">
+        </link>
+        <updated>2019-03-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Cloudflare got funding of $150M, now totalling $332M, on 2019-03-12]]></summary>
+        <content type="html"><![CDATA[Cloudflare got funding of $150M, now totalling $332M, on 2019-03-12]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Supergiant got funding of $2.98M, now totalling $2.98M, on 2019-02-27]]></title>
+        <id>Supergiant2019-02-27</id>
+        <link href="https://www.crunchbase.com/organization/supergiant#section-funding-rounds">
+        </link>
+        <updated>2019-02-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Supergiant got funding of $2.98M, now totalling $2.98M, on 2019-02-27]]></summary>
+        <content type="html"><![CDATA[Supergiant got funding of $2.98M, now totalling $2.98M, on 2019-02-27]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cumulus Networks got funding of $5M, now totalling $130M, on 2019-02-25]]></title>
+        <id>Cumulus Networks2019-02-25</id>
+        <link href="https://www.crunchbase.com/organization/cumulus-networks#section-funding-rounds">
+        </link>
+        <updated>2019-02-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Cumulus Networks got funding of $5M, now totalling $130M, on 2019-02-25]]></summary>
+        <content type="html"><![CDATA[Cumulus Networks got funding of $5M, now totalling $130M, on 2019-02-25]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Redis Labs got funding of $60M, now totalling $147M, on 2019-02-20]]></title>
+        <id>Redis Labs2019-02-20</id>
+        <link href="https://www.crunchbase.com/organization/redis-labs#section-funding-rounds">
+        </link>
+        <updated>2019-02-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Redis Labs got funding of $60M, now totalling $147M, on 2019-02-20]]></summary>
+        <content type="html"><![CDATA[Redis Labs got funding of $60M, now totalling $147M, on 2019-02-20]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[InfluxData got funding of $60M, now totalling $120M, on 2019-02-13]]></title>
+        <id>InfluxData2019-02-13</id>
+        <link href="https://www.crunchbase.com/organization/influxdb#section-funding-rounds">
+        </link>
+        <updated>2019-02-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[InfluxData got funding of $60M, now totalling $120M, on 2019-02-13]]></summary>
+        <content type="html"><![CDATA[InfluxData got funding of $60M, now totalling $120M, on 2019-02-13]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Agile Stacks got funding of $6M, now totalling $8.53M, on 2019-02-08]]></title>
+        <id>Agile Stacks2019-02-08</id>
+        <link href="https://www.crunchbase.com/organization/agile-stacks-inc#section-funding-rounds">
+        </link>
+        <updated>2019-02-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Agile Stacks got funding of $6M, now totalling $8.53M, on 2019-02-08]]></summary>
+        <content type="html"><![CDATA[Agile Stacks got funding of $6M, now totalling $8.53M, on 2019-02-08]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aporeto got funding of $20M, now totalling $34.5M, on 2019-01-31]]></title>
+        <id>Aporeto2019-01-31</id>
+        <link href="https://www.crunchbase.com/organization/aporeto#section-funding-rounds">
+        </link>
+        <updated>2019-01-31T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Aporeto got funding of $20M, now totalling $34.5M, on 2019-01-31]]></summary>
+        <content type="html"><![CDATA[Aporeto got funding of $20M, now totalling $34.5M, on 2019-01-31]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iguazio got funding of $-15M, now totalling $48M, on 2019-01-31]]></title>
+        <id>iguazio2019-01-31</id>
+        <link href="https://www.crunchbase.com/organization/iguaz-io#section-funding-rounds">
+        </link>
+        <updated>2019-01-31T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[iguazio got funding of $-15M, now totalling $48M, on 2019-01-31]]></summary>
+        <content type="html"><![CDATA[iguazio got funding of $-15M, now totalling $48M, on 2019-01-31]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IOpipe got funding of $2M, now totalling $5.5M, on 2019-01-25]]></title>
+        <id>IOpipe2019-01-25</id>
+        <link href="https://www.crunchbase.com/organization/iopipe#section-funding-rounds">
+        </link>
+        <updated>2019-01-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[IOpipe got funding of $2M, now totalling $5.5M, on 2019-01-25]]></summary>
+        <content type="html"><![CDATA[IOpipe got funding of $2M, now totalling $5.5M, on 2019-01-25]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Humio got funding of $11.8M, now totalling $11.8M, on 2019-01-24]]></title>
+        <id>Humio2019-01-24</id>
+        <link href="https://www.crunchbase.com/organization/humio#section-funding-rounds">
+        </link>
+        <updated>2019-01-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Humio got funding of $11.8M, now totalling $11.8M, on 2019-01-24]]></summary>
+        <content type="html"><![CDATA[Humio got funding of $11.8M, now totalling $11.8M, on 2019-01-24]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Grafana Labs got funding of $1.23M, now totalling $1.23M, on 2018-12-18]]></title>
+        <id>Grafana Labs2018-12-18</id>
+        <link href="https://www.crunchbase.com/organization/raintank#section-funding-rounds">
+        </link>
+        <updated>2018-12-18T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Grafana Labs got funding of $1.23M, now totalling $1.23M, on 2018-12-18]]></summary>
+        <content type="html"><![CDATA[Grafana Labs got funding of $1.23M, now totalling $1.23M, on 2018-12-18]]></content>
+    </entry>
+</feed>

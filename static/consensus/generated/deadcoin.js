@@ -1,0 +1,1 @@
+var deadCount = 3;

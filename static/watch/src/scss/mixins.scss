@@ -1,0 +1,148 @@
+
+// prevent text from being selected
+@mixin textNoSelect {
+  -webkit-touch-callout: none; /* iOS Safari */
+  -webkit-user-select: none; /* Safari */
+  -khtml-user-select: none; /* Konqueror HTML */
+  -moz-user-select: none; /* Firefox */
+  -ms-user-select: none; /* Internet Explorer/Edge */
+  user-select: none;
+}
+
+// wrap all long text
+@mixin textWrapAll {
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+  -ms-word-break: break-all;
+  word-break: break-word;
+  -ms-hyphens: auto;
+  -moz-hyphens: auto;
+  -webkit-hyphens: auto;
+  hyphens: auto;
+}
+
+// prevent text from wrapping
+@mixin textNoWrap {
+  white-space: nowrap;
+}
+
+// clip text and add ellipsis
+@mixin textClip {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+// add light border to the bottom of containers
+@mixin borderAccent {
+  border-bottom: $lineWidth solid rgba( 0, 0, 0, 0.1 );
+}
+
+// common scrollable page wrapper
+@mixin contentScroller {
+  @include contentWrapper;
+  overflow-y: auto;
+}
+
+// common dropdown/select style containers
+@mixin commonDropdown {
+  display: none;
+  position: absolute;
+  transition: none;
+  left: 0;
+  top: 0;
+  min-width: 100px;
+  opacity: 0;
+  margin: 0;
+  padding: 0;
+  background-color: lighten( $colorDocument, 8% );
+  border-radius: $lineJoin;
+  box-shadow: $shadowBold;
+  z-index: ( $zindexAlerts + 10 );
+
+  &.left { // show from left
+    left: 0;
+    right: auto;
+  }
+  &.right { // show from right
+    left: auto;
+    right: 0;
+  }
+  &.top { // show from top
+    top: 40%;
+    bottom: auto;
+    animation: slideUp ( $fxSpeed / 2 ) $fxEase forwards;
+  }
+  &.bottom { // show from bottom
+    top: auto;
+    bottom: 40%;
+    animation: slideDown ( $fxSpeed / 2 ) $fxEase forwards;
+  }
+  &.visible {
+    display: block;
+  }
+}
+
+// fullscreen modifiers
+@mixin fullScreen( $fixed: 0 ) {
+  display: block;
+  overflow: hidden;
+  @if $fixed == 1 { position: fixed; }
+  @else { position: absolute; }
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+}
+
+// radial gradient background color
+@mixin bgRadial( $color ) {
+  $dark: saturate( darken( $color, 8% ), 8% );
+  $image: radial-gradient( circle, $color 0%, $dark 55% );
+  background-color: $dark;
+  background-image: $image;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+
+// radial background image gradiant effect
+@mixin colorImage( $color, $text ) {
+  background-color: $color !important;
+  background-image: radial-gradient( circle, rgba( 255, 255, 255, 0 ) 0%, rgba( 255, 255, 255, 0.1 ) 100% ) !important;
+  background-position: center center !important;
+  background-repeat: no-repeat !important;
+  color: $text !important;
+}
+
+// change background and font color
+@mixin colorBg( $color, $text, $hover: 0 ) {
+  background-color: $color !important;
+  color: $text !important;
+  @if $hover == 1 {
+    &:hover {
+      background-color: darken( $color, 5% ) !important;
+      color: desaturate( darken( $text, 5% ), 10% ) !important;
+    }
+  }
+}
+
+// change border color
+@mixin colorBorder( $color, $hover: 0 ) {
+  border-color: $color !important;
+  @if $hover == 1 {
+    &:hover {
+      border-color: desaturate( darken( $color, 8% ), 10% ) !important;
+    }
+  }
+}
+
+// change text color
+@mixin colorText( $color, $hover: 0 ) {
+  color: lighten( $color, 5% ) !important;
+  @if $hover == 1 {
+    &:hover {
+      color: darken( $color, 8% ) !important;
+    }
+  }
+}
+

@@ -1,0 +1,7 @@
+
+User-agent: *
+Disallow: /*node_modules
+Allow: *
+
+Sitemap: https://landscape.cncf.io/sitemap.xml
+  

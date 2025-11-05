@@ -1,0 +1,126 @@
+// ******************************
+// Normalize (ignore me!)
+// ******************************
+$bg_color:#333;
+$fonts:Arial,"Hiragino Kaku Gothic Pro W3",Meiryo,sans-serif;
+$font_color:#fff;
+$link_color:#ccc;
+$link_hover_color:#aaa;
+
+*, *:before, *:after{
+  box-sizing:border-box;
+  padding:0;
+  margin:0;
+}
+body{
+  font-family:$fonts;
+  background-color:$bg_color;
+  color: $font_color;
+  text-align: center;
+  a, a:visited{
+    color: $link_color;
+    text-decoration:none;
+  }
+  a:hover{
+    color: $link_hover_color;
+  }
+}
+// ******************************
+// End of Normalize
+// ******************************
+
+// Filter buttons
+.button-area{
+  .button{
+    display:inline-block;
+    padding:10px;
+    margin:30px 5px;
+    background-color:rgba(#fff,0.2);
+    border-radius:3px;
+    cursor:pointer;
+    transition:all .3s ease;
+    &:hover{
+      background-color:rgba(#fff,0.32);
+    }
+    // When the button is selected
+    &.active{
+      background-color:rgba(#fff,0.52);
+      box-shadow:0 0 8px rgba(#000, 0.6) inset;
+    }
+  }
+  input[type=checkbox]{
+    display:none;
+  }
+}
+
+// Masonry container
+#mnsry_container{
+  position:relative;
+  &:hover{
+    img {
+      opacity:0.28;
+    }
+  }
+  
+  // Each masonry item
+  article{
+    width:33.3%;
+    min-height:200px;
+    overflow:hidden;
+    cursor:pointer;
+    opacity:0;
+    h1{
+      position:absolute;
+      top:46%;
+      left:0;
+      width:100%;
+      text-shadow:0 0 10px rgba(#000, 0.4);
+      transition:all 1.2s;
+      z-index:1;
+    }
+    img{
+      display:block;
+      width:100%;
+      transition:all .8s;
+    }
+
+    &:hover{
+      h1{
+        transform:translate3d(0,18px,0) scale(1.2,0.4);
+        opacity:0;
+      }
+      img{
+        opacity:1;
+        transform:scale(1.04);
+      }
+    }
+  }
+}
+
+// Loading message
+#loading_msg{
+  position:fixed;
+  top:48%;
+  width:100%;
+  z-index:-1;
+}
+
+// Mediaqueries
+@media ( max-width : 860px ){
+  // set to 2 column
+  #mnsry_container{
+    article{
+      width:50%;
+      min-height:150px;
+    }
+  }
+}
+@media ( max-width : 667px ){
+  // set to 1 column
+  #mnsry_container{
+    article{
+      width:100%;
+      min-height:220px;
+    }
+  }
+}

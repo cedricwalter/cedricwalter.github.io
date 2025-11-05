@@ -1,0 +1,95 @@
+*, *:before, *:after {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font-family: Arial, "Hiragino Kaku Gothic Pro W3", Meiryo, sans-serif;
+  background-color: #fff;
+  color: #000;
+  text-align: center;
+}
+body a, body a:visited {
+  color: #ccc;
+  text-decoration: none;
+}
+body a:hover {
+  color: #aaa;
+}
+
+.button-area .button {
+  display: inline-block;
+  padding: 10px;
+  margin: 30px 5px;
+  background-color: rgba(0, 255, 255, 0.2);
+  border-radius: 3px;
+  cursor: pointer;
+  transition: all .3s ease;
+}
+.button-area .button:hover {
+  background-color: rgba(255, 0, 0, 0.32);
+}
+.button-area .button.active {
+  background-color: rgba(255, 0, 0, 0.82);
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.6) inset;
+}
+.button-area input[type=checkbox] {
+  display: none;
+}
+
+#mnsry_container {
+  position: relative;
+}
+#mnsry_container:hover img {
+  opacity: 0.28;
+}
+#mnsry_container article {
+  width: 33.3%;
+  /* min-height: 200px; */
+  overflow: hidden;
+  cursor: pointer;
+  opacity: 0;
+}
+#mnsry_container article h1 {
+  position: absolute;
+  top: 46%;
+  left: 0;
+  width: 100%;
+  text-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
+  transition: all 1.2s;
+  z-index: 1;
+}
+#mnsry_container article img {
+  display: block;
+  width: 50%;
+  transition: all .8s;
+}
+#mnsry_container article:hover h1 {
+  transform: translate3d(0, 18px, 0) scale(1.2, 0.4);
+  opacity: 0;
+}
+#mnsry_container article:hover img {
+  opacity: 1;
+  transform: scale(1.04);
+}
+
+#loading_msg {
+  position: fixed;
+  top: 48%;
+  width: 100%;
+  z-index: -1;
+}
+
+@media (max-width: 860px) {
+  #mnsry_container article {
+    width: 50%;
+    min-height: 150px;
+  }
+}
+@media (max-width: 667px) {
+  #mnsry_container article {
+    width: 100%;
+    min-height: 220px;
+  }
+}

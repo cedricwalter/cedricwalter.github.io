@@ -1,0 +1,125 @@
+[
+    {
+        "name": "Portworx",
+        "currentAmount": 55500000,
+        "previousAmount": 28500000,
+        "date": "2019-03-20",
+        "membership": "silver",
+        "link": "https://landscape.cncf.io/grouping=organization&organization=portworx",
+        "url": "https://www.crunchbase.com/organization/portworx#section-funding-rounds"
+    },
+    {
+        "name": "ArangoDB",
+        "currentAmount": 16898175,
+        "previousAmount": 6898175,
+        "date": "2019-03-15",
+        "membership": false,
+        "link": "https://landscape.cncf.io/grouping=organization&organization=arango-db",
+        "url": "https://www.crunchbase.com/organization/arangodb#section-funding-rounds"
+    },
+    {
+        "name": "NowFloats",
+        "currentAmount": 17364016,
+        "previousAmount": 17360653,
+        "date": "2019-03-14",
+        "membership": false,
+        "link": "https://landscape.cncf.io/grouping=organization&organization=now-floats",
+        "url": "https://www.crunchbase.com/organization/nowfloats-technologies-private-limited#section-funding-rounds"
+    },
+    {
+        "name": "Cloudflare",
+        "currentAmount": 332050000,
+        "previousAmount": 182050000,
+        "date": "2019-03-12",
+        "membership": false,
+        "link": "https://landscape.cncf.io/grouping=organization&organization=cloudflare",
+        "url": "https://www.crunchbase.com/organization/cloudflare#section-funding-rounds"
+    },
+    {
+        "name": "Supergiant",
+        "currentAmount": 2978333,
+        "date": "2019-02-27",
+        "membership": "silver",
+        "link": "https://landscape.cncf.io/grouping=organization&organization=supergiant",
+        "url": "https://www.crunchbase.com/organization/supergiant#section-funding-rounds"
+    },
+    {
+        "name": "Cumulus Networks",
+        "currentAmount": 134000000,
+        "previousAmount": 129000000,
+        "date": "2019-02-25",
+        "membership": false,
+        "link": "https://landscape.cncf.io/grouping=organization&organization=cumulus-networks",
+        "url": "https://www.crunchbase.com/organization/cumulus-networks#section-funding-rounds"
+    },
+    {
+        "name": "Redis Labs",
+        "currentAmount": 146600000,
+        "previousAmount": 86600000,
+        "date": "2019-02-20",
+        "membership": false,
+        "link": "https://landscape.cncf.io/grouping=organization&organization=redis-labs",
+        "url": "https://www.crunchbase.com/organization/redis-labs#section-funding-rounds"
+    },
+    {
+        "name": "InfluxData",
+        "currentAmount": 119892000,
+        "previousAmount": 59892000,
+        "date": "2019-02-13",
+        "membership": "silver",
+        "link": "https://landscape.cncf.io/grouping=organization&organization=influx-data",
+        "url": "https://www.crunchbase.com/organization/influxdb#section-funding-rounds"
+    },
+    {
+        "name": "Agile Stacks",
+        "currentAmount": 8530000,
+        "previousAmount": 2530000,
+        "date": "2019-02-08",
+        "membership": "silver",
+        "link": "https://landscape.cncf.io/grouping=organization&organization=agile-stacks",
+        "url": "https://www.crunchbase.com/organization/agile-stacks-inc#section-funding-rounds"
+    },
+    {
+        "name": "Aporeto",
+        "currentAmount": 34500000,
+        "previousAmount": 14500000,
+        "date": "2019-01-31",
+        "membership": "silver",
+        "link": "https://landscape.cncf.io/grouping=organization&organization=aporeto",
+        "url": "https://www.crunchbase.com/organization/aporeto#section-funding-rounds"
+    },
+    {
+        "name": "iguazio",
+        "currentAmount": 48000000,
+        "previousAmount": 63000000,
+        "date": "2019-01-31",
+        "membership": "silver",
+        "link": "https://landscape.cncf.io/grouping=organization&organization=iguazio",
+        "url": "https://www.crunchbase.com/organization/iguaz-io#section-funding-rounds"
+    },
+    {
+        "name": "IOpipe",
+        "currentAmount": 5500000,
+        "previousAmount": 3500000,
+        "date": "2019-01-25",
+        "membership": false,
+        "link": "https://landscape.cncf.io/grouping=organization&organization=i-opipe",
+        "url": "https://www.crunchbase.com/organization/iopipe#section-funding-rounds"
+    },
+    {
+        "name": "Humio",
+        "currentAmount": 11830177,
+        "date": "2019-01-24",
+        "membership": "silver",
+        "link": "https://landscape.cncf.io/grouping=organization&organization=humio",
+        "url": "https://www.crunchbase.com/organization/humio#section-funding-rounds"
+    },
+    {
+        "name": "Grafana Labs",
+        "currentAmount": 1230000,
+        "date": "2018-12-18",
+        "membership": "silver",
+        "link": "https://landscape.cncf.io/grouping=organization&organization=grafana-labs",
+        "url": "https://www.crunchbase.com/organization/raintank#section-funding-rounds"
+    }
+]

@@ -18,7 +18,7 @@ This is **not the Official MetaKernel Home Page**.
 
 A huge portion of that page was first published in raw HTML in 1998! (without CSS)
 
-# May 14, 1996, MetaKernel  ?
+## May 14, 1996, MetaKernel  ?
 
 > Hello World !
 >
@@ -84,21 +84,21 @@ A huge portion of that page was first published in raw HTML in 1998! (without CS
 
 I bought their license and still have the CARD and printed manual 🙂
 
-# MetaKernel in action
+## MetaKernel in action
 
 see review https://www.hpcalc.org/hp48/apps/mk/mk.php
 
-# ACO Team
+## ACO Team
 
 ACO stands for Australian Calculator Operation, and is the great HP design team that was formed in November 1997 and [disbanded][1] in November 2001. Their greatest endeavor was the HP-49.
 
-# Later
+## Later
 
 MetaKernel  was privately sold by Jean-Yves Avenard.  The ACO team (including Jean-Yves Avenard, Cyrille and other HP-48 developers) based the OS and CAS of the HP49G on MetaKernel, ALG48 and Erable. The version of MetaKernel used was the never-released MK 3.0 that Jean-Yves Avenard originally planned for the 48GX. Afterwards Jean-Yves Avenard made the earlier MK 2.30 (the last one sold for the 48GX) available for free download.
 HP later adapted the 49G OS and CAS for the 49g+ and then the 50g.
 They apparently control the rights to the code from the 49G onward, but not the earlier versions of that code for the 48GX, because those earlier versions remain freely available for download from http://hpcalc.org/ Jean-Yves Avenard in the HP 48 times. Then HP hired him and he joined ACO.
 
-# Programming
+## Programming
 
 Please be patient I must updated all descriptions and credit to the authors. We need your help : Please help us and develop program for MDG Kernel.
 If You want to get in touch with the author : [Gérald squelart][2] or [Jean Yves Avenard][3] or [from archive.org][4]
@@ -115,23 +115,23 @@ This is a replacement for the internal table of MDGKer. It use very simple and c
 [**Table Creator** (109Ko)][8]New Version **You must recompile the old table in order to use them with MDGker 2.30**
 Program to convert the startext file under Windows 95 into Ascii format and back In MDGker format.included with the package.
 
-# Utilities
+## Utilities
 
-  * [**TermHp** by Jean Yves Avenard. (1.2Ko)][9] TermHP is a terminal emulator for your HP48GX. TermHP is very small (1.2kb), and may be the only terminal for your HP48, which won 't lose
-    any characters. Full-Duplex, you can type and receive characters at the same time.
-  * [**Tools** (1Ko)][10] 4 tools to switch between the different format: Grob<->font,external <->liste.included with the package.
-  * [**Mkutils** (7 Ko)][11] Man utils : flags, bzk, grob->font and much more.
-  * [**Gker** (2Ko)][12] Improve stack viewing with grey grob. included with the package.
-  * [**Kerutils** (3Ko)][13] Many good utils written in asm.
-  * [**MkFlags32** (3Ko)][14] by Stephen JANNIN Manage hp48 flags and MDGker easily.HomePage: [http://wwwperso.hol.fr/~janninst/][15]
+* [**TermHp** by Jean Yves Avenard. (1.2Ko)][9] TermHP is a terminal emulator for your HP48GX. TermHP is very small (1.2kb), and may be the only terminal for your HP48, which won 't lose
+  any characters. Full-Duplex, you can type and receive characters at the same time.
+* [**Tools** (1Ko)][10] 4 tools to switch between the different format: Grob<->font,external <->liste.included with the package.
+* [**Mkutils** (7 Ko)][11] Man utils : flags, bzk, grob->font and much more.
+* [**Gker** (2Ko)][12] Improve stack viewing with grey grob. included with the package.
+* [**Kerutils** (3Ko)][13] Many good utils written in asm.
+* [**MkFlags32** (3Ko)][14] by Stephen JANNIN Manage hp48 flags and MDGker easily.HomePage: [http://wwwperso.hol.fr/~janninst/][15]
 
 # Graphics and fonts
 
-  * [**15 differents fonts** (15.3Ko).][16] included with the package.
-  * [**3 Micro font** (1.96Ko).][17]included with the package.
-  * [**customs** (5.41Ko)][18] Customize your kernel with some of these examples. included with the package.
+* [**15 differents fonts** (15.3Ko).][16] included with the package.
+* [**3 Micro font** (1.96Ko).][17]included with the package.
+* [**customs** (5.41Ko)][18] Customize your kernel with some of these examples. included with the package.
 
-# A picture for history
+## A picture for history
 
 [**Startup** :][19] by ELTA (me : Cédric Walter)
 
@@ -143,19 +143,19 @@ You can now take **any** HP49G/HP49Gx/HP50G/... in the world, and do a soft rese
 
 # Articles (related from https://groups.google.com/g/comp.sys.hp48)
 
-  * [Article from J. Y. Avenard : Contains description of each component of MDGker. Very Interesting.][20]
-  * [Article from J. Y. Avenard : It explain us the advantage of Masd notation.][21]
-  * [Article from Hp Mad : How to read Var in ML with MK and advantages of Masd.][22]
+* [Article from J. Y. Avenard : Contains description of each component of MDGker. Very Interesting.][20]
+* [Article from J. Y. Avenard : It explain us the advantage of Masd notation.][21]
+* [Article from Hp Mad : How to read Var in ML with MK and advantages of Masd.][22]
 
-# Bugs or problems
+## Bugs or problems
 
 [My screen remained blank while edition after pressing on in user mode.][23]
 
-# Official MetaKernel page
+## Official MetaKernel page
 
 Click Here to go : <http://www-miaif.lip6.fr/gerald/mk.html>
 
-# Getting more software
+## Getting more software
 
 As usual, visit https://www.hpcalc.org/hp48/apps/mk/
 

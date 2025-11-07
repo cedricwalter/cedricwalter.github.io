@@ -1,4 +1,4 @@
-google.charts.load('current', {'packages':['geochart'], 'mapsApiKey': 'AIzaSyDoFsHMLWFiShgjiZZqrhuoieyr3yHH08g'});
+google.charts.load('current', {'packages':['geochart'], 'mapsApiKey': ''});
 google.charts.setOnLoadCallback(drawRegionsMap);
 function drawRegionsMap() {
     $(document).ready(function(){

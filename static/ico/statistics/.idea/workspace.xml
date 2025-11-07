@@ -1,0 +1,593 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e46a636f-c8a5-44ca-bcd1-bb64bc0a5a17" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/ico.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../credentials/StoredCredential" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../historical/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../img/TokensEconomyICORatingIndex.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../img/android-icon-144x144.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../img/android-icon-192x192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../img/android-icon-36x36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../img/android-icon-48x48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../img/android-icon-72x72.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../img/android-icon-96x96.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../img/apple-icon-114x114.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../img/apple-icon-120x120.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../img/apple-icon-144x144.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../img/apple-icon-152x152.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../img/apple-icon-180x180.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../img/apple-icon-57x57.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../img/apple-icon-60x60.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../img/apple-icon-72x72.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../img/apple-icon-76x76.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../img/apple-icon-precomposed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../img/apple-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../img/dark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../img/dark.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../img/favicon-16x16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../img/favicon-32x32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../img/favicon-96x96.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../img/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../img/ms-icon-144x144.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../img/ms-icon-150x150.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../img/ms-icon-310x310.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../img/ms-icon-70x70.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insight/base.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insight/chart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insight/d3.geom.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insight/d3.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insight/data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insight/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insight/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insight/list.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insight/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insight/new.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insight/new_files/DropDown.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insight/new_files/articleCommentCounts.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insight/new_files/articleShare.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insight/new_files/articleShareController.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insight/new_files/articleShareLegacy.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insight/new_files/boot.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insight/new_files/common.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insight/new_files/cookieValidator.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insight/new_files/effects.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insight/new_files/env.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insight/new_files/fileit.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insight/new_files/go.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insight/new_files/googleads.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insight/new_files/linkedintool.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insight/new_files/loading-grey-lines-circle-18.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insight/new_files/loginModal.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insight/new_files/mobileBanner.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insight/new_files/mtr.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insight/new_files/nyt-capsule.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insight/new_files/nyt-capsule.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insight/new_files/nytModal.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insight/new_files/nytlogo152x23.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insight/new_files/prototype.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insight/new_files/regiModal.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insight/new_files/styles(1).css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insight/new_files/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insight/new_files/template.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insight/new_files/tooltip.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insight/new_files/urilist.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2019.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dead.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generated/2016.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generated/2017-01.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generated/2017-05.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generated/2017-06.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generated/2017-07.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generated/2017-08.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generated/2017-09.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generated/2017-10.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generated/2017.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generated/2018-07.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generated/2018-08.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generated/2018-09.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generated/2018-10.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generated/2018-11.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generated/2018-12.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generated/2018.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generated/2019.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generated/British Virgin Islands.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generated/all.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generated/any.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generated/australia.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generated/dead-2017.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generated/dead-2018.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generated/dead-2019.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generated/deadcoins.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generated/israel.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/generated/switzerland-1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/ICO-Statistics.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/InitialCoinOffering-2016.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/InitialCoinOffering-all-2017.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/InitialCoinOffering-all-2018.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/month.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../swissico/ICOBubbleChartByCountry.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../swissico/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../swissico/index2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../trash/d3js/data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../trash/d3js/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../about.html" beforeDir="false" afterPath="$PROJECT_DIR$/../about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../help.html" beforeDir="false" afterPath="$PROJECT_DIR$/../help.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2017.html" beforeDir="false" afterPath="$PROJECT_DIR$/2017.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2018.html" beforeDir="false" afterPath="$PROJECT_DIR$/2018.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/collage.html" beforeDir="false" afterPath="$PROJECT_DIR$/collage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/country.html" beforeDir="false" afterPath="$PROJECT_DIR$/country.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generated/2017.sh" beforeDir="false" afterPath="$PROJECT_DIR$/generated/2017.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generated/2018.sh" beforeDir="false" afterPath="$PROJECT_DIR$/generated/2018.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generated/April 2017.csv" beforeDir="false" afterPath="$PROJECT_DIR$/generated/2017-04.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generated/April 2018.csv" beforeDir="false" afterPath="$PROJECT_DIR$/generated/2018-04.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generated/August 2017.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/generated/Cayman Islands.csv" beforeDir="false" afterPath="$PROJECT_DIR$/generated/Cayman Islands.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generated/December 2017.csv" beforeDir="false" afterPath="$PROJECT_DIR$/generated/2017-12.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generated/February 2017.csv" beforeDir="false" afterPath="$PROJECT_DIR$/generated/2017-02.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generated/February 2018.csv" beforeDir="false" afterPath="$PROJECT_DIR$/generated/2018-02.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generated/January 2017.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/generated/January 2018.csv" beforeDir="false" afterPath="$PROJECT_DIR$/generated/2018-01.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generated/Juli 2017.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/generated/Juli 2018.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/generated/June 2017.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/generated/June 2018.csv" beforeDir="false" afterPath="$PROJECT_DIR$/generated/2018-06.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generated/March 2017.csv" beforeDir="false" afterPath="$PROJECT_DIR$/generated/2017-03.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generated/March 2018.csv" beforeDir="false" afterPath="$PROJECT_DIR$/generated/2018-03.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generated/May 2017.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/generated/May 2018.csv" beforeDir="false" afterPath="$PROJECT_DIR$/generated/2018-05.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generated/November 2017.csv" beforeDir="false" afterPath="$PROJECT_DIR$/generated/2017-11.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generated/October 2017.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/generated/September 2017.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/generated/UK.csv" beforeDir="false" afterPath="$PROJECT_DIR$/generated/UK.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generated/USA.csv" beforeDir="false" afterPath="$PROJECT_DIR$/generated/USA.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generated/consensus.csv" beforeDir="false" afterPath="$PROJECT_DIR$/generated/consensus.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generated/cyprus.csv" beforeDir="false" afterPath="$PROJECT_DIR$/generated/cyprus.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generated/estonia.csv" beforeDir="false" afterPath="$PROJECT_DIR$/generated/estonia.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generated/france.csv" beforeDir="false" afterPath="$PROJECT_DIR$/generated/france.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generated/germany.csv" beforeDir="false" afterPath="$PROJECT_DIR$/generated/germany.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generated/liechtenstein.csv" beforeDir="false" afterPath="$PROJECT_DIR$/generated/liechtenstein.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generated/malta.csv" beforeDir="false" afterPath="$PROJECT_DIR$/generated/malta.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generated/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/generated/russia.csv" beforeDir="false" afterPath="$PROJECT_DIR$/generated/russia.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generated/singapore.csv" beforeDir="false" afterPath="$PROJECT_DIR$/generated/singapore.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generated/slovenia.csv" beforeDir="false" afterPath="$PROJECT_DIR$/generated/slovenia.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generated/swissico.csv" beforeDir="false" afterPath="$PROJECT_DIR$/generated/swissico.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generated/switzerland.csv" beforeDir="false" afterPath="$PROJECT_DIR$/generated/switzerland.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generated/switzerland2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/generated/switzerland2.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/InitialCoinOffering-2018.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/InitialCoinOffering-2018.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/bubble.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/bubble.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/colors.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/colors.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/param.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/param.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/swissico.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stats.html" beforeDir="false" afterPath="$PROJECT_DIR$/../stats.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stats.js" beforeDir="false" afterPath="$PROJECT_DIR$/../stats.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../top10.html" beforeDir="false" afterPath="$PROJECT_DIR$/../top10.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../usa-data.js" beforeDir="false" afterPath="$PROJECT_DIR$/../usa-data.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../world-data.js" beforeDir="false" afterPath="$PROJECT_DIR$/../world-data.js" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dead.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1545">
+              <caret line="103" selection-start-line="103" selection-end-line="103" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/country.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1995">
+              <caret line="133" column="5" selection-start-line="133" selection-start-column="5" selection-end-line="133" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/collage.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1665">
+              <caret line="111" column="3" selection-start-line="111" selection-start-column="3" selection-end-line="111" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2019.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1860">
+              <caret line="124" column="3" selection-start-line="124" selection-start-column="3" selection-end-line="124" selection-end-column="3" />
+              <folding>
+                <element signature="n#style#0;n#b#0;n#h2#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#b#1;n#h2#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#b#2;n#h2#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#b#3;n#h2#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#b#4;n#h2#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#b#5;n#h2#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#b#6;n#h2#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#b#7;n#h2#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#b#8;n#h2#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#b#9;n#h2#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#b#10;n#h2#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#b#11;n#h2#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#b#12;n#h2#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#b#13;n#h2#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#b#14;n#h2#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#b#15;n#h2#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2018.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1860">
+              <caret line="124" column="3" selection-start-line="124" selection-start-column="3" selection-end-line="124" selection-end-column="3" />
+              <folding>
+                <element signature="n#style#0;n#b#0;n#h2#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#b#1;n#h2#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#b#2;n#h2#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#b#3;n#h2#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#b#4;n#h2#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#b#5;n#h2#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#b#6;n#h2#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#b#7;n#h2#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#b#8;n#h2#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#b#9;n#h2#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#b#10;n#h2#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#b#11;n#h2#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#b#12;n#h2#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#b#13;n#h2#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#b#14;n#h2#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#b#15;n#h2#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2017.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="468">
+              <caret line="118" column="5" selection-start-line="118" selection-start-column="5" selection-end-line="118" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/generated/2018.sh">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" column="20" selection-end-line="255" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/generated/2017.sh">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="594">
+              <caret line="243" column="79" selection-start-line="243" selection-start-column="79" selection-end-line="243" selection-end-column="79" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/generated/2016.csv">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/generated/2017.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="32" column="32" selection-start-line="32" selection-start-column="32" selection-end-line="32" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>2019</find>
+      <find>2017</find>
+      <find>ICOs</find>
+      <find>2017&quot;</find>
+      <find>2018</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>2018</replace>
+      <replace>2019</replace>
+      <replace>ICO</replace>
+      <replace>2017,http&quot;</replace>
+      <replace>2017</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/generated/2019.sh" />
+        <option value="$PROJECT_DIR$/generated/2018.sh" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/market.html" />
+        <option value="$PROJECT_DIR$/month.html" />
+        <option value="$PROJECT_DIR$/dead.html" />
+        <option value="$PROJECT_DIR$/country.html" />
+        <option value="$PROJECT_DIR$/collage.html" />
+        <option value="$PROJECT_DIR$/2019.html" />
+        <option value="$PROJECT_DIR$/2018.html" />
+        <option value="$PROJECT_DIR$/2017.html" />
+        <option value="$PROJECT_DIR$/generated/2017.sh" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1971" />
+    <option name="y" value="-730" />
+    <option name="width" value="1680" />
+    <option name="height" value="981" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/generated" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/generated" />
+      <recent name="$PROJECT_DIR$/generated/2017" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e46a636f-c8a5-44ca-bcd1-bb64bc0a5a17" name="Default Changelist" comment="" />
+      <created>1551369472690</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551369472690</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1971" y="-730" width="1680" height="981" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25885227" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Designer" order="3" />
+      <window_info id="Learn" order="4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32995495" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Statistic" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Flutter Performance" order="13" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Flutter Inspector" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Flutter Outline" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/generated/2018-12.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generated/2018-11.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generated/readme.md" />
+    <entry file="file://$PROJECT_DIR$/generated/deadcoins.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generated/2019.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ICOBubbleChartByCountry.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ICOBubbleChartInMostRelevantCountries.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1410">
+          <caret line="94" selection-start-line="94" selection-end-line="97" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/market.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1545">
+          <caret line="103" selection-start-line="103" selection-end-line="103" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/month.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2010">
+          <caret line="134" selection-start-line="134" selection-end-line="134" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dead.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1545">
+          <caret line="103" selection-start-line="103" selection-end-line="103" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/country.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1995">
+          <caret line="133" column="5" selection-start-line="133" selection-start-column="5" selection-end-line="133" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/collage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1665">
+          <caret line="111" column="3" selection-start-line="111" selection-start-column="3" selection-end-line="111" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2019.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1860">
+          <caret line="124" column="3" selection-start-line="124" selection-start-column="3" selection-end-line="124" selection-end-column="3" />
+          <folding>
+            <element signature="n#style#0;n#b#0;n#h2#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#b#1;n#h2#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#b#2;n#h2#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#b#3;n#h2#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#b#4;n#h2#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#b#5;n#h2#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#b#6;n#h2#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#b#7;n#h2#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#b#8;n#h2#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#b#9;n#h2#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#b#10;n#h2#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#b#11;n#h2#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#b#12;n#h2#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#b#13;n#h2#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#b#14;n#h2#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#b#15;n#h2#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2018.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1860">
+          <caret line="124" column="3" selection-start-line="124" selection-start-column="3" selection-end-line="124" selection-end-column="3" />
+          <folding>
+            <element signature="n#style#0;n#b#0;n#h2#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#b#1;n#h2#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#b#2;n#h2#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#b#3;n#h2#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#b#4;n#h2#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#b#5;n#h2#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#b#6;n#h2#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#b#7;n#h2#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#b#8;n#h2#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#b#9;n#h2#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#b#10;n#h2#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#b#11;n#h2#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#b#12;n#h2#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#b#13;n#h2#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#b#14;n#h2#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#b#15;n#h2#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2017.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="118" column="5" selection-start-line="118" selection-start-column="5" selection-end-line="118" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generated/2016.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generated/2017.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="32" selection-start-line="32" selection-start-column="32" selection-end-line="32" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generated/2018.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="20" selection-end-line="255" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generated/2017.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="243" column="79" selection-start-line="243" selection-start-column="79" selection-end-line="243" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

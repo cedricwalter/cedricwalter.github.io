@@ -1,0 +1,240 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Search Engine -->
+    <meta name="description"
+          content="Analyzing the Token distribution of 2097 ICO projects. Usually, a percentage of the tokens is sold to ICO participants and a percentage kept for the company’s needs.">
+    <meta name="image" content="https://ico.tokens-economy.com/distribution/image.png">
+    <meta name="keywords" content="blockchain,ecosystem,bitcoin,ethereum,cardano,token,economics">
+    <meta name="author" content="@TokensEconomy">
+
+    <!-- Schema.org for Google -->
+    <meta itemprop="name" content="ICO Token Distribution & Economics">
+    <meta itemprop="description"
+          content="Analyzing the Token distribution of 2097 ICO projects. Usually, a percentage of the tokens is sold to ICO participants and a percentage kept for the company’s needs.">
+    <meta itemprop="image" content="https://ico.tokens-economy.com/distribution/image.png">
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="ICO Token Distribution & Economics by Tokens-Economy.com">
+    <meta name="twitter:description"
+          content="Analyzing the Token distribution of 2097 ICO projects. Usually, a percentage of the tokens is sold to ICO participants and a percentage kept for the company’s needs.">
+    <meta name="twitter:site" content="@TokensEconomy">
+    <meta name="twitter:creator" content="@TokensEconomy">
+    <meta name="twitter:image:src" content="https://ico.tokens-economy.com/distribution/image.png">
+
+    <!-- Open Graph general (Facebook, Pinterest & Google+) -->
+    <meta name="og:title" content="ICO Token Distribution & Economics">
+    <meta name="og:description"
+          content="Explore some charts of all Initial Coin Offering (ICOs) by category, year and country.">
+    <meta name="og:image" content="https://ico.tokens-economy.com/distribution/image.png">
+    <meta name="og:url" content="https://ico.tokens-economy.com/">
+    <meta name="og:site_name" content="ICO Token Distribution & Economics by Tokens-Economy.com">
+    <meta name="og:type" content="website">
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"
+            integrity="sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T"
+            crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css"
+          integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
+
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700" rel="stylesheet">
+
+    <link href="style.css" rel="stylesheet"/>
+
+    <link rel="stylesheet" type="text/css" href="style.css"/>
+
+    <script src="generated.js"></script>
+
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+
+    <script type="text/javascript" src="jquery.throttledresize.js"></script>
+
+
+   <style>
+	#chart_wrap {
+	    position: relative;
+	    padding-bottom: 100%;
+	    height: 0;
+	    overflow:hidden;
+	}
+
+	#country {
+
+	}
+</style>
+
+
+</head>
+<body>
+
+<!-- navbar-expand-lg to only have mobile menu on mobile -->
+<nav class="navbar navbar-light bg-light">
+    <a href="https://ico.tokens-economy.com/distribution" title="Home"><img src="/tokens-economy-logo.png" width="200px"></a>
+    <a class="navbar-brand" href="#">ICO Token Distribution & Economics</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+            aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav mr-auto">
+            <li class="nav-item active">
+                <a class="nav-link" href="index.html">Main <span class="sr-only">(current)</span></a>
+            </li>
+	    <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown"
+                   aria-haspopup="true" aria-expanded="false">
+                    Time
+                </a>
+                <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                    <a class="dropdown-item" href="duration.html">Token sale duration in days?</a>
+                </div>
+            </li>
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown"
+                   aria-haspopup="true" aria-expanded="false">
+                    countries
+                </a>
+                <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                    <a class="dropdown-item" href="country.html">Countries</a>
+                    <a class="dropdown-item" href="countryLimitations.html">Countries Limitations</a>
+                </div>
+            </li>
+
+
+            <li class="nav-item">
+                <a class="nav-link" href="stats.html">Stats</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="about.html">About</a>
+            </li>
+        </ul>
+    </div>
+</nav>
+
+<script type="text/javascript">
+
+    function GetUrlValue(VarSearch) {
+        let SearchString = window.location.search.substring(1);
+        let VariableArray = SearchString.split('&');
+        for (let i = 0; i < VariableArray.length; i++) {
+            let KeyValuePair = VariableArray[i].split('=');
+            if (KeyValuePair[0] === VarSearch) {
+                return KeyValuePair[1];
+            }
+        }
+    }
+
+    var data = "";
+    $(document).ready(function () {
+        let dataParam = GetUrlValue('data');
+        if (typeof dataParam !== 'undefined') {
+            data = parseInt(dataParam);
+        }
+
+    });
+
+    $( document ).ready(function() {
+
+      google.charts.load("current", {packages:["corechart"]});
+      google.charts.setOnLoadCallback(drawChart);
+
+      function drawChart() {
+        var country = new google.visualization.PieChart(document.getElementById('country'));
+        country.draw(google.visualization.arrayToDataTable(countryLimitationsData), {
+          title: 'Countries Limitations?',
+          is3D: true,
+          tooltip: {isHtml: true},
+        });
+      }
+
+	$(window).on("throttledresize", function (event) {
+	    var options = {
+		width: '100%',
+		height: '100%'
+	    };
+
+	    drawChart(countryData, options);
+	});
+
+	  
+	  });
+    </script>
+<body>
+<h2>Each ICO makes up its own list of countries that are prohibited to participating in. Some forbid Korea, but others allow it. Visit also <a href="https://ico.tokens-economy.com/">ico.tokens-economy.com</a> for more details.</h2>
+<div id="chart_wrap" style="position: relative; padding-bottom: 100%; height: 0; overflow:hidden;">
+  <div id="country" style="position: absolute; top: 0; left: 0; width:100%; height:100%;"></div>
+</div>
+
+<div style="clear: both;"></div>
+
+<div id="disqus_thread"></div>
+<script>
+
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+/*
+var disqus_config = function () {
+this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+*/
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://tokens-economy-com.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+<br>
+<br>
+<a href="categories-not-reduced.txt" target="new" title="All token distribution model not reduced. Yes we parsed these data to produce all graph above">categories-not-reduced.txt</a>
+<br>
+
+<div align="center">© 2018 Cédric Walter - <a href="https://www.tokens-economy.com" target="_blank">tokens-economy.com</a>
+    Sharing is caring. All Rights Reserved. All photos remain copyright © their rightful owners. No copyright
+    infringement is intended.</div>
+<div align="center">
+    <a href="https://twitter.com/TokensEconomy" title="Follow us on Twitter" target="_blank"><i
+            class="fab fa-twitter fa-3x"></i></a>
+    <a href="https://www.facebook.com/tokens.economy" title="Follow us on Facebook" target="_blank"><i
+            class="fab fa-facebook-f fa-3x"></i></a>
+</div>
+<div>
+    Nothing shared or published by tokens-economy.com constitutes an investment recommendation, nor should any data or
+    content provided by tokens-economy.com be relied upon for any investment activities. tokens-economy.com strongly
+    recommends that you perform your own independent research and/or speak with a qualified investment professional
+    before making any financial decisions.
+</div>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-88600-26"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+
+    gtag('js', new Date());
+    gtag('config', 'UA-88600-26');
+</script>
+<script id="dsq-count-scr" src="//tokens-economy-com.disqus.com/count.js" async></script>
+</body>
+</html>

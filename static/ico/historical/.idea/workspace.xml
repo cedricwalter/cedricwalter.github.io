@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e54f9b8e-a4e3-47f4-af79-571e13f9c41b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/ico.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../credentials/StoredCredential" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../img/TokensEconomyICORatingIndex.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../img/android-icon-144x144.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../img/android-icon-192x192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../img/android-icon-36x36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../img/android-icon-48x48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../img/android-icon-72x72.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../img/android-icon-96x96.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../img/apple-icon-114x114.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../img/apple-icon-120x120.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../img/apple-icon-144x144.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../img/apple-icon-152x152.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../img/apple-icon-180x180.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../img/apple-icon-57x57.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../img/apple-icon-60x60.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../img/apple-icon-72x72.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../img/apple-icon-76x76.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../img/apple-icon-precomposed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../img/apple-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../img/dark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../img/dark.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../img/favicon-16x16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../img/favicon-32x32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../img/favicon-96x96.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../img/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../img/ms-icon-144x144.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../img/ms-icon-150x150.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../img/ms-icon-310x310.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../img/ms-icon-70x70.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insight/base.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insight/chart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insight/d3.geom.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insight/d3.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insight/data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insight/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insight/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insight/list.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insight/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insight/new.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insight/new_files/DropDown.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insight/new_files/articleCommentCounts.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insight/new_files/articleShare.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insight/new_files/articleShareController.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insight/new_files/articleShareLegacy.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insight/new_files/boot.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insight/new_files/common.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insight/new_files/cookieValidator.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insight/new_files/effects.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insight/new_files/env.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insight/new_files/fileit.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insight/new_files/go.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insight/new_files/googleads.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insight/new_files/linkedintool.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insight/new_files/loading-grey-lines-circle-18.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insight/new_files/loginModal.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insight/new_files/mobileBanner.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insight/new_files/mtr.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insight/new_files/nyt-capsule.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insight/new_files/nyt-capsule.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insight/new_files/nytModal.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insight/new_files/nytlogo152x23.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insight/new_files/prototype.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insight/new_files/regiModal.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insight/new_files/styles(1).css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insight/new_files/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insight/new_files/template.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insight/new_files/tooltip.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../insight/new_files/urilist.js.download" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../statistics/generated/2016.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../statistics/generated/2017.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../statistics/generated/2018.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../statistics/generated/australia.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../statistics/generated/israel.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../statistics/img/ICO-Statistics.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../statistics/img/InitialCoinOffering-2016.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../statistics/img/InitialCoinOffering-all-2017.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../statistics/img/InitialCoinOffering-all-2018.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../statistics/run.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../swissico/ICOBubbleChartByCountry.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../swissico/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../swissico/index2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../trash/d3js/data.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../trash/d3js/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../about.html" beforeDir="false" afterPath="$PROJECT_DIR$/../about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../help.html" beforeDir="false" afterPath="$PROJECT_DIR$/../help.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../statistics/2017.html" beforeDir="false" afterPath="$PROJECT_DIR$/../statistics/2017.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../statistics/2018.html" beforeDir="false" afterPath="$PROJECT_DIR$/../statistics/2018.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../statistics/collage.html" beforeDir="false" afterPath="$PROJECT_DIR$/../statistics/collage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../statistics/country.html" beforeDir="false" afterPath="$PROJECT_DIR$/../statistics/country.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../statistics/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../statistics/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../statistics/generated/2017.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../statistics/generated/2017.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../statistics/generated/2018.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../statistics/generated/2018.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../statistics/generated/April 2017.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../statistics/generated/April 2017.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../statistics/generated/April 2018.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../statistics/generated/April 2018.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../statistics/generated/August 2017.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../statistics/generated/August 2017.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../statistics/generated/Cayman Islands.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../statistics/generated/Cayman Islands.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../statistics/generated/December 2017.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../statistics/generated/December 2017.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../statistics/generated/February 2017.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../statistics/generated/February 2017.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../statistics/generated/February 2018.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../statistics/generated/February 2018.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../statistics/generated/January 2017.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../statistics/generated/January 2017.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../statistics/generated/January 2018.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../statistics/generated/January 2018.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../statistics/generated/Juli 2017.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../statistics/generated/Juli 2018.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../statistics/generated/June 2017.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../statistics/generated/June 2017.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../statistics/generated/June 2018.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../statistics/generated/June 2018.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../statistics/generated/March 2017.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../statistics/generated/March 2017.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../statistics/generated/March 2018.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../statistics/generated/March 2018.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../statistics/generated/May 2017.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../statistics/generated/May 2017.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../statistics/generated/May 2018.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../statistics/generated/May 2018.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../statistics/generated/November 2017.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../statistics/generated/November 2017.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../statistics/generated/October 2017.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../statistics/generated/October 2017.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../statistics/generated/September 2017.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../statistics/generated/September 2017.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../statistics/generated/UK.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../statistics/generated/UK.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../statistics/generated/USA.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../statistics/generated/USA.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../statistics/generated/consensus.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../statistics/generated/consensus.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../statistics/generated/cyprus.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../statistics/generated/cyprus.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../statistics/generated/estonia.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../statistics/generated/estonia.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../statistics/generated/france.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../statistics/generated/france.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../statistics/generated/germany.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../statistics/generated/germany.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../statistics/generated/liechtenstein.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../statistics/generated/liechtenstein.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../statistics/generated/malta.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../statistics/generated/malta.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../statistics/generated/russia.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../statistics/generated/russia.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../statistics/generated/singapore.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../statistics/generated/singapore.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../statistics/generated/slovenia.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../statistics/generated/slovenia.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../statistics/generated/swissico.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../statistics/generated/swissico.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../statistics/generated/switzerland.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../statistics/generated/switzerland.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../statistics/generated/switzerland2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../statistics/generated/switzerland2.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../statistics/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../statistics/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../statistics/index2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../statistics/index3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../statistics/js/bubble.js" beforeDir="false" afterPath="$PROJECT_DIR$/../statistics/js/bubble.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../statistics/js/colors.js" beforeDir="false" afterPath="$PROJECT_DIR$/../statistics/js/colors.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../statistics/swissico.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stats.html" beforeDir="false" afterPath="$PROJECT_DIR$/../stats.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../stats.js" beforeDir="false" afterPath="$PROJECT_DIR$/../stats.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../top10.html" beforeDir="false" afterPath="$PROJECT_DIR$/../top10.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../usa-data.js" beforeDir="false" afterPath="$PROJECT_DIR$/../usa-data.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../world-data.js" beforeDir="false" afterPath="$PROJECT_DIR$/../world-data.js" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>.Country</find>
+      <find>SeriesCode</find>
+      <find>geoCode</find>
+      <find>%</find>
+      <find>100</find>
+      <find>xScale</find>
+      <find>max</find>
+      <find>year</find>
+      <find>yearsLegend</find>
+      <find>sort</find>
+      <find>dataMap</find>
+      <find>let</find>
+      <find>&quot;, value: [</find>
+      <find>]},</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>.Name</replace>
+      <replace>name</replace>
+      <replace>ticker</replace>
+      <replace>var</replace>
+      <replace>,</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/index2.html" />
+        <option value="$PROJECT_DIR$/style.css" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/data.csv" />
+        <option value="$PROJECT_DIR$/index.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="207" />
+    <option name="y" value="157" />
+    <option name="width" value="1462" />
+    <option name="height" value="1931" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="historical" type="b2602c69:ProjectViewProjectNode" />
+              <item name="historical" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../java" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e54f9b8e-a4e3-47f4-af79-571e13f9c41b" name="Default Changelist" comment="" />
+      <created>1544626610686</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1544626610686</updated>
+      <workItem from="1544626613447" duration="3840000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3840000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="207" y="157" width="1462" height="1931" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4856976" visible="true" weight="0.15633802" />
+      <window_info id="Structure" order="1" sideWeight="0.5143024" side_tool="true" visible="true" weight="0.15633802" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Learn" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info active="true" anchor="bottom" id="Find" order="1" sideWeight="0.4993895" visible="true" weight="0.3295838" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4969475" weight="0.088863894" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50061053" side_tool="true" visible="true" weight="0.049916804" />
+      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Flutter Performance" order="13" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Flutter Inspector" order="7" />
+      <window_info anchor="right" id="Flutter Outline" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/data2222.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data-small.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data-ori.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" lean-forward="true" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/databtc.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" selection-start-line="15" selection-end-line="23" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="47" selection-start-column="47" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1292">
+          <caret line="189" column="18" selection-start-line="189" selection-start-column="18" selection-end-line="189" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

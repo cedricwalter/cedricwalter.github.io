@@ -1,0 +1,165 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"
+        integrity="sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T"
+        crossorigin="anonymous"></script>
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css"
+          integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
+		  
+    <!---- >
+    https://developers.google.com/chart/interactive/docs/gallery/geochart#full
+    <!---->
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+	
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+	<script defer src="https://use.fontawesome.com/releases/v5.0.10/js/all.js" integrity="sha384-slN8GvtUJGnv6ca26v8EzVaR9DC58QEwsIk9q1QXdCU8Yu8ck/tL/5szYlBbqmS+" crossorigin="anonymous"></script>
+    
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700" rel="stylesheet">
+	
+		<link rel="apple-touch-icon" sizes="57x57" href="img/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="img/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="img/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="img/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="img/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="img/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="img/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="img/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="img/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="img/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="img/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="img/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="img/favicon-16x16.png">
+<link rel="manifest" href="img/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="img/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+	
+	<link href="style.css" rel="stylesheet" />
+    <link href="card.css" rel="stylesheet" />
+  </head>
+  <body>
+  
+<nav class="navbar navbar-light bg-light">
+  <a class="navbar-brand" href="#">ICO friendliness rating index by country</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item active">
+        <a class="nav-link" href="index.html">World <span class="sr-only">(current)</span></a>
+      </li>
+	  <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          Europe
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+          <a class="dropdown-item" href="index.html?region=154">Northern Europe</a>
+          <a class="dropdown-item" href="index.html?region=155">Western Europe</a>
+          <a class="dropdown-item" href="index.html?region=039">Southern Europe</a>
+        </div>
+      </li>
+	  <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          Africa
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+          <a class="dropdown-item" href="index.html?region=002">All of Africa</a>
+          <a class="dropdown-item" href="index.html?region=017">Central Africa</a>
+          <a class="dropdown-item" href="index.html?region=015">Northern Africa</a>
+          <a class="dropdown-item" href="index.html?region=018">Southern Africa</a>
+        </div>
+      </li>
+	  <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          Asia
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+          <a class="dropdown-item" href="index.html?region=035">Asia/Pacific region</a>
+          <a class="dropdown-item" href="index.html?region=009">Oceania</a>
+          <a class="dropdown-item" href="index.html?region=145">Middle East</a>
+          <a class="dropdown-item" href="index.html?region=143">Central Asia</a>
+          <a class="dropdown-item" href="index.html?region=151">Northern Asia</a>
+        </div>
+      </li>
+	  <li class="nav-item">
+        <a class="nav-link" href="usa.html">USA</a>
+      </li>
+        <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown"
+               aria-haspopup="true" aria-expanded="false">
+                Submit
+            </a>
+            <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                <a class="dropdown-item" target="new" href="https://docs.google.com/forms/d/e/1FAIpQLScODPNSx0Ak5ZFfev5dObCp2QiezHXT6zYE8gbZRE7sWGD-2Q/viewform">Submit Country Details</a>
+                <a class="dropdown-item" target="new" href="https://docs.google.com/forms/d/e/1FAIpQLSckubfx-OEvd05cMhWWuBpSrpGV2pmNG-1cV2NZBsaH3sQDoA/viewform">Apply as Local Expert</a>
+            </div>
+        </li>
+	  <li class="nav-item">
+        <a class="nav-link" href="about.html">About</a>
+      </li> 	  
+    </ul>
+  </div>
+</nav>
+  
+<script type="text/javascript">
+        function GetUrlValue(VarSearch) {
+            let SearchString = window.location.search.substring(1);
+            let VariableArray = SearchString.split('&');
+            for (let i = 0; i < VariableArray.length; i++) {
+                let KeyValuePair = VariableArray[i].split('=');
+                if (KeyValuePair[0] === VarSearch) {
+                    return KeyValuePair[1];
+                }
+            }
+        }
+
+		var region = "";
+        $(document).ready(function () {
+				let regionParam = GetUrlValue('region');
+				if (typeof regionParam !== 'undefined') {
+					region = parseInt(regionParam);
+				}
+			
+			});
+</script>
+  
+  
+   <div id="regions_div" ></div>
+   <script type="text/javascript" src="europe-data.js"></script>
+   
+    <h2>Found an error? <a href="https://docs.google.com/forms/d/e/1FAIpQLScODPNSx0Ak5ZFfev5dObCp2QiezHXT6zYE8gbZRE7sWGD-2Q/viewform" target="_new">feel free to use this form.</a></h2>
+ 
+   <script>
+    $('.generated').text(generated);   
+ </script>
+ 
+	<p align="center">
+	<!--
+	  <a href="https://twitter.com/TokensEconomy" title="Follow us on Twitter" target="_blank"><i class="fab fa-twitter fa-3x"></i></a>
+	  <a href="https://www.facebook.com/tokens.economy" title="Follow us on Facebook" target="_blank"><i class="fab fa-facebook-f fa-3x"></i></a>
+	  -->
+	  <br>© 2018 Cédric Walter - tokens-economy.com - Reproduction without explicit permission is prohibited. All Rights Reserved. All photos remain copyright © their rightful owners. No copyright infringement is intended.
+	</p>
+	
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-88600-26"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-88600-26');
+</script>
+   
+   
+  </body>
+</html>

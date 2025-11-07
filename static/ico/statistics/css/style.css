@@ -1,0 +1,94 @@
+.chart rect {
+    fill: steelblue;
+}
+
+
+.logo-home {
+    background: url( '../img/logo.png' ) no-repeat;
+    float: left;
+    width: 150px;
+    height: 150px;
+    padding: 0;
+    display: block;
+}
+
+text {
+    font: 24px "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-anchor: middle;
+    pointer-events: none;
+}
+
+.link {
+    stroke: #999;
+    stroke-opacity: .6;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 220px;
+}
+
+h1 {
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    color: black;
+    font-size: 1em;
+}
+
+h2 {
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    color: rgb(0, 132, 161);
+    font-size: 0.9em;
+}
+
+h3 {
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    color: black;
+    font-size: 0.8em;
+}
+
+h4 {
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    color: black;
+    font-size: 0.7em;
+}
+
+a {
+    text-decoration: none;
+    cursor: pointer;
+}
+
+p {
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    color: black;
+    font-size: 0.7em;
+}
+
+body {
+    /*background-color: lightgray;*/
+}
+
+/* Option 1A: Override a single element's box model via CSS */
+.hack-bootstrap {
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    box-sizing: content-box;
+}
+
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+*:before,
+*:after {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}

@@ -1,0 +1,9 @@
+{
+  "name": "bar-chart-race-the-largest-charities-in-england-and-wales",
+  "main": "bar-chart-race-the-largest-charities-in-england-and-wales.js",
+  "version": "1236.0.0",
+  "author": {
+    "name": "David Kane",
+    "url": "https://observablehq.com/@drkane"
+  }
+}

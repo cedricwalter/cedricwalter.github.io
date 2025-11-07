@@ -1,0 +1,420 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Search Engine -->
+    <meta name="description"
+          content="Analyzing the Token distribution of 2097 ICO projects. Usually, a percentage of the tokens is sold to ICO participants and a percentage kept for the company’s needs.">
+    <meta name="image" content="https://ico.tokens-economy.com/distribution/image.png">
+    <meta name="keywords" content="blockchain,ecosystem,bitcoin,ethereum,cardano,token,economics">
+    <meta name="author" content="@TokensEconomy">
+
+    <!-- Schema.org for Google -->
+    <meta itemprop="name" content="ICO Token Distribution & Economics">
+    <meta itemprop="description"
+          content="Analyzing the Token distribution of 2097 ICO projects. Usually, a percentage of the tokens is sold to ICO participants and a percentage kept for the company’s needs.">
+    <meta itemprop="image" content="https://ico.tokens-economy.com/distribution/image.png">
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="ICO Token Distribution & Economics by Tokens-Economy.com">
+    <meta name="twitter:description"
+          content="Analyzing the Token distribution of 2097 ICO projects. Usually, a percentage of the tokens is sold to ICO participants and a percentage kept for the company’s needs.">
+    <meta name="twitter:site" content="@TokensEconomy">
+    <meta name="twitter:creator" content="@TokensEconomy">
+    <meta name="twitter:image:src" content="https://ico.tokens-economy.com/distribution/image.png">
+
+    <!-- Open Graph general (Facebook, Pinterest & Google+) -->
+    <meta name="og:title" content="ICO Token Distribution & Economics">
+    <meta name="og:description"
+          content="Explore some charts of all Initial Coin Offering (ICOs) by category, year and country.">
+    <meta name="og:image" content="https://ico.tokens-economy.com/distribution/image.png">
+    <meta name="og:url" content="https://ico.tokens-economy.com/">
+    <meta name="og:site_name" content="ICO Token Distribution & Economics by Tokens-Economy.com">
+    <meta name="og:type" content="website">
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"
+            integrity="sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T"
+            crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css"
+          integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
+
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700" rel="stylesheet">
+
+    <link href="style.css" rel="stylesheet"/>
+
+    <link rel="stylesheet" type="text/css" href="style.css"/>
+
+    <script src="generated.js"></script>
+
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+</head>
+<body>
+
+<!-- navbar-expand-lg to only have mobile menu on mobile -->
+<nav class="navbar navbar-light bg-light">
+    <a href="https://ico.tokens-economy.com/distribution" title="Home"><img src="/tokens-economy-logo.png" width="200px"></a>
+    <a class="navbar-brand" href="#">ICO Token Distribution & Economics</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+            aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav mr-auto">
+            <li class="nav-item active">
+                <a class="nav-link" href="index.html">Main <span class="sr-only">(current)</span></a>
+            </li>
+
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown"
+                   aria-haspopup="true" aria-expanded="false">
+                    Countries
+                </a>
+                <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                    <a class="dropdown-item" href="country.html">Countries</a>
+                    <a class="dropdown-item" href="countryLimitations.html">Countries Limitations</a>
+                </div>
+            </li>
+	    <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown"
+                   aria-haspopup="true" aria-expanded="false">
+                    Time
+                </a>
+                <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                    <a class="dropdown-item" href="duration.html">Token sale duration in days?</a>
+                </div>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="stats.html">Stats</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="about.html">About</a>
+            </li>
+        </ul>
+    </div>
+</nav>
+
+<script type="text/javascript">
+
+
+$( document ).ready(function() {
+
+      google.charts.load("current", {packages:["corechart"]});
+      google.charts.setOnLoadCallback(drawChart);
+
+      function drawChart() {
+
+        var currencies = new google.visualization.PieChart(document.getElementById('currencies'));
+        currencies.draw(google.visualization.arrayToDataTable(currenciesData), {
+          title: 'Which currencies are most used?',
+          is3D: true,
+          width:'auto',
+          height:'auto',
+          tooltip: {isHtml: true},
+        });
+
+        var type = new google.visualization.PieChart(document.getElementById('type'));
+        type.draw(google.visualization.arrayToDataTable(typeData), {
+          title: 'Token type?',
+          is3D: true,
+          tooltip: {isHtml: true},
+        });
+
+        <!--var time = new google.visualization.PieChart(document.getElementById('time'));-->
+        <!--time.draw(google.visualization.arrayToDataTable(timeData), {-->
+          <!--title: 'Token sale duration in days?',-->
+          <!--is3D: true,-->
+          <!--tooltip: {isHtml: true},-->
+        <!--});-->
+
+        <!--var country = new google.visualization.PieChart(document.getElementById('country'));-->
+        <!--country.draw(google.visualization.arrayToDataTable(countryData), {-->
+          <!--title: 'Countries?',-->
+          <!--is3D: true,-->
+          <!--tooltip: {isHtml: true},-->
+        <!--});-->
+
+        <!--var countryLimitations = new google.visualization.PieChart(document.getElementById('countryLimitations'));-->
+        <!--countryLimitations.draw(google.visualization.arrayToDataTable(countryLimitationsData), {-->
+          <!--title: 'Countries Limitations?',-->
+          <!--is3D: true,-->
+          <!--tooltip: {isHtml: true},-->
+        <!--});-->
+
+        var presale = new google.visualization.PieChart(document.getElementById('presale'));
+        presale.draw(google.visualization.arrayToDataTable(presaleData), {
+          title: 'Presale/Private sale: percentage of token sold before the crowdsale to private investors/whales/institutions?',
+          is3D: true,
+          tooltip: {isHtml: true},  // ,trigger: 'selection'
+        });
+
+        var crowdsale = new google.visualization.PieChart(document.getElementById('crowdsale'));
+        crowdsale.draw(google.visualization.arrayToDataTable(crowdsaleData), {
+          title: 'Crowdsale is the process of raising money in a public token sale, often used interchangeably with the terms ICO, token sale, or token offering. These tokens are available to investors.',
+          is3D: true,
+          tooltip: {isHtml: true},
+        });
+
+        var premined = new google.visualization.PieChart(document.getElementById('premined'));
+        premined.draw(google.visualization.arrayToDataTable(preminedData), {
+          title: 'Premined: the coins that are bought in the presale are then mined as part of the genesis block?',
+          is3D: true,
+          tooltip: {isHtml: true},
+        });
+
+        var bonus = new google.visualization.PieChart(document.getElementById('bonus'));
+        bonus.draw(google.visualization.arrayToDataTable(bonusData), {
+          title: 'Bonus: tokens reserved and offered as rewards for milestone, campaigns,...',
+          is3D: true,
+          tooltip: {isHtml: true},
+        });
+
+        var burned = new google.visualization.PieChart(document.getElementById('burned'));
+        burned.draw(google.visualization.arrayToDataTable(burnedData), {
+          title: 'Burned percentage of token burned which are not sold at end of ICO sale.',
+          is3D: true,
+          tooltip: {isHtml: true},
+        });
+
+        var minted = new google.visualization.PieChart(document.getElementById('minted'));
+        minted.draw(google.visualization.arrayToDataTable(mintedData), {
+          title: 'Minted: percentage of token that can be created by dapp platform or held in reserve',
+          is3D: true,
+          tooltip: {isHtml: true},
+        });
+
+        var bounty = new google.visualization.PieChart(document.getElementById('bounty'));
+        bounty.draw(google.visualization.arrayToDataTable(bountyData), {
+          title: 'Bounty programs are incentives offered to an array of participants for various activities associated with an initial coin offering (ICO).',
+          is3D: true,
+          tooltip: {isHtml: true},
+        });
+
+        var airdrop = new google.visualization.PieChart(document.getElementById('airdrop'));
+        airdrop.draw(google.visualization.arrayToDataTable(airdropData), {
+          title: 'Airdrop are strategy to facilitate wide free distribution and use of project tokens.',
+          is3D: true,
+          tooltip: {isHtml: true},
+        });
+
+        var referrals = new google.visualization.PieChart(document.getElementById('referrals'));
+        referrals.draw(google.visualization.arrayToDataTable(referralsData), {
+          title: 'Referrals investors or community users get free token for spreading your message or bringing new investors.',
+          is3D: true,
+          tooltip: {isHtml: true},
+        });
+
+        var reward = new google.visualization.PieChart(document.getElementById('reward'));
+        reward.draw(google.visualization.arrayToDataTable(researchData), {
+          title: 'Reward: are token set aside to incentivize users behaving correctly, also named pool, winners',
+          is3D: true,
+          tooltip: {isHtml: true},
+        });
+
+        var community = new google.visualization.PieChart(document.getElementById('community'));
+        community.draw(google.visualization.arrayToDataTable(communityData), {
+          title: 'community, tokens reserved for community building',
+          is3D: true,
+          tooltip: {isHtml: true},
+        });
+
+        var advisors = new google.visualization.PieChart(document.getElementById('advisors'));
+        advisors.draw(google.visualization.arrayToDataTable(advisorsData), {
+          title: 'Advisors actively contribute their skills and experience to increase the overall success of the company and get rewarded with tokens',
+          is3D: true,
+          tooltip: {isHtml: true},
+        });
+
+        var lockup = new google.visualization.PieChart(document.getElementById('lockup'));
+        lockup.draw(google.visualization.arrayToDataTable(lockupData), {
+          title: 'Percentage of tokens in Lockup/Vesting: early token distributions can crash the token price if team member sell their tokens on the secondary market immediately, a lockup period avoid that.',
+          is3D: true,
+          tooltip: {isHtml: true},
+        });
+
+        var marketing = new google.visualization.PieChart(document.getElementById('marketing'));
+        marketing.draw(google.visualization.arrayToDataTable(marketingData), {
+          title: 'Marketing to covers costs of running an ICO before and after.',
+          is3D: true,
+          tooltip: {isHtml: true},
+        });
+
+        var team = new google.visualization.PieChart(document.getElementById('team'));
+        team.draw(google.visualization.arrayToDataTable(teamData), {
+          title: 'Team: employee, developer',
+          is3D: true,
+          tooltip: {isHtml: true},
+        });
+
+        var founder = new google.visualization.PieChart(document.getElementById('founder'));
+        founder.draw(google.visualization.arrayToDataTable(founderData), {
+          title: 'Founder, normally a few persons, that receive better conditions than the team or are the team at early stage.',
+          is3D: true,
+          tooltip: {isHtml: true},
+        });
+
+        var legal = new google.visualization.PieChart(document.getElementById('legal'));
+        legal.draw(google.visualization.arrayToDataTable(legalData), {
+          title: 'Legal: to cover all legal costs.',
+          is3D: true,
+          tooltip: {isHtml: true},
+        });
+
+        var reserves = new google.visualization.PieChart(document.getElementById('reserves'));
+        reserves.draw(google.visualization.arrayToDataTable(reservesData), {
+          title: 'Reserves',
+          is3D: true,
+          tooltip: {isHtml: true},
+        });
+
+        var foundation = new google.visualization.PieChart(document.getElementById('foundation'));
+        foundation.draw(google.visualization.arrayToDataTable(foundationData), {
+          title: 'A Foundation is not an ideal tool to carry out the the token sale, but can be a powerful vehicle to manage the proceeds and tokens that are accrued by the ICO.',
+          is3D: true,
+          tooltip: {isHtml: true},
+        });
+
+        var operations = new google.visualization.PieChart(document.getElementById('operations'));
+        operations.draw(google.visualization.arrayToDataTable(operationsData), {
+          title: 'Operations of the platform, ',
+          is3D: true,
+          tooltip: {isHtml: true},
+        });
+
+        var company = new google.visualization.PieChart(document.getElementById('company'));
+        company.draw(google.visualization.arrayToDataTable(companyData), {
+          title: 'Company tokens kept by the company and not individuals.',
+          is3D: true,
+          tooltip: {isHtml: true},
+        });
+
+        var investors = new google.visualization.PieChart(document.getElementById('investors'));
+        investors.draw(google.visualization.arrayToDataTable(investorsData), {
+          title: 'Investors: purchasers, angel, backers, buyers, ico users',
+          is3D: true,
+          tooltip: {isHtml: true},
+        });
+
+        var research = new google.visualization.PieChart(document.getElementById('research'));
+        research.draw(google.visualization.arrayToDataTable(researchData), {
+          title: 'Exchange: onboarding on exchange is expensive and never guaranted, you may want to secure an anount of tokens to facilitate the process.',
+          is3D: true,
+          tooltip: {isHtml: true},
+        });
+
+        $(window).resize(function(){
+          // drawChart();
+        });
+      }
+	  
+	  });
+    </script>
+<body>
+<h3>Usually, a percentage of the tokens is sold to ICO participants and a percentage kept for the company’s needs. These
+    need cover a lot of case as you will see below.</h3>
+<!--<div id="time" style="width: 500px; height: 500px; float:left;"></div>-->
+<div id="type" style="width: 500px; height: 500px; float:left;"></div>
+<div id="currencies" style="width: 500px; height: 500px; float:left;"></div>
+<!--<div id="country" style="width: 500px; height: 500px; float:left;"></div>-->
+<!--<div id="countryLimitations" style="width: 500px; min-height: 500px; float:left;"></div>-->
+
+<div id="presale" style="width: 500px; height: 500px; float:left;"></div>
+<div id="crowdsale" style="width: 500px; height: 500px; float:left;"></div>
+
+<div id="premined" style="width: 500px; height: 500px; float:left;"></div>
+<div id="bonus" style="width: 500px; height: 500px; float:left;"></div>
+<div id="burned" style="width: 500px; height: 500px; float:left;"></div>
+<div id="minted" style="width: 500px; height: 500px; float:left;"></div>
+<div id="bounty" style="width: 500px; height: 500px; float:left;"></div>
+<div id="airdrop" style="width: 500px; height: 500px; float:left;"></div>
+<div id="referrals" style="width: 500px; height: 500px; float:left;"></div>
+<div id="reward" style="width: 500px; height: 500px; float:left;"></div>
+<div id="community" style="width: 500px; height: 500px; float:left;"></div>
+
+<div id="advisors" style="width: 500px; height: 500px; float:left;"></div>
+<div id="lockup" style="width: 500px; height: 500px; float:left;"></div>
+<div id="marketing" style="width: 500px; height: 500px; float:left;"></div>
+<div id="team" style="width: 500px; height: 500px; float:left;"></div>
+
+<div id="founder" style="width: 500px; height: 500px; float:left;"></div>
+<div id="legal" style="width: 500px; height: 500px; float:left;"></div>
+
+<div id="reserves" style="width: 500px; height: 500px; float:left;"></div>
+<div id="foundation" style="width: 500px; height: 500px; float:left;"></div>
+<div id="operations" style="width: 500px; height: 500px; float:left;"></div>
+<div id="company" style="width: 500px; height: 500px; float:left;"></div>
+<div id="investors" style="width: 500px; height: 500px; float:left;"></div>
+<div id="research" style="width: 500px; height: 500px; float:left;"></div>
+
+<div style="clear: both;"></div>
+<h3>Note that there is no relationship between token distribution and ICO success. Now in 2018, only a solid business plan, and a working platform are the keys for a successful ICO.</h3>
+
+<div id="disqus_thread"></div>
+<script>
+
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+/*
+var disqus_config = function () {
+this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+*/
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://tokens-economy-com.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+<br>
+<br>
+<a href="categories-not-reduced.txt" target="new" title="All token distribution model not reduced. Yes we parsed these data to produce all graph above">categories-not-reduced.txt</a>
+<br>
+
+<div align="center">© 2018 Cédric Walter - <a href="https://www.tokens-economy.com" target="_blank">tokens-economy.com</a>
+    Sharing is caring. All Rights Reserved. All photos remain copyright © their rightful owners. No copyright
+    infringement is intended.</div>
+<div align="center">
+    <a href="https://twitter.com/TokensEconomy" title="Follow us on Twitter" target="_blank"><i
+            class="fab fa-twitter fa-3x"></i></a>
+    <a href="https://www.facebook.com/tokens.economy" title="Follow us on Facebook" target="_blank"><i
+            class="fab fa-facebook-f fa-3x"></i></a>
+</div>
+<div>
+    Nothing shared or published by tokens-economy.com constitutes an investment recommendation, nor should any data or
+    content provided by tokens-economy.com be relied upon for any investment activities. tokens-economy.com strongly
+    recommends that you perform your own independent research and/or speak with a qualified investment professional
+    before making any financial decisions.
+</div>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-88600-26"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+
+    gtag('js', new Date());
+    gtag('config', 'UA-88600-26');
+</script>
+<script id="dsq-count-scr" src="//tokens-economy-com.disqus.com/count.js" async></script>
+</body>
+</html>

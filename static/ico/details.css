@@ -1,0 +1,67 @@
+[data-toggle="collapse"] .fa:before {   
+  content: "\f139";
+}
+
+[data-toggle="collapse"].collapsed .fa:before {
+  content: "\f13a";
+}
+
+h1 {
+	font-family: 'Open Sans', sans-serif;
+	text-align: left;
+	color: black;
+	font-size: 1.5vw;
+padding-left: 10px;
+}
+
+h2 {
+	font-family: 'Open Sans', sans-serif;
+	padding-top: 10px;
+	text-align: center;
+	color: blue;
+
+padding-left: 20px;
+}
+
+h5 {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 1.2vw !important;
+}
+
+
+
+.about-wrap {
+	text-align: center;
+}
+.about {
+	font-size: 1em;	
+	font-family: 'Open Sans', sans-serif;
+	padding-top: 10px;
+	display: inline-block; 
+	text-align: left;
+}
+
+
+p {
+	font-family: 'Open Sans', sans-serif;
+	text-align: left;
+	color: black;
+	font-size: 1em;
+padding-left: 10px;
+}
+
+blockquote {
+	margin: 0px 20px 0px 20px;
+	padding: 10px 10px 10px 30px;
+	color: #C7CACF;
+	font: normal 1.105em Helvetica, verdana, serif, Georgia, “Times New Roman”;
+}
+
+.title {
+	padding-top: 10px;
+	padding-bottom: 5px;
+	font-weight: bold;
+
+}
+
+

@@ -1,0 +1,64 @@
+.axis {
+    font: 10px sans-serif;
+}
+
+.axis path,
+.axis line {
+    fill: none;
+    stroke: #000;
+    shape-rendering: crispEdges;
+}
+
+.axis--y path {
+    display: none;
+}
+
+.axis--x path {
+    display: none;
+}
+
+.bar {
+    fill: #3182bd;
+    fill-opacity: .9;
+}
+
+.BTC {
+    fill: red;
+}
+
+.ETH {
+    fill: blue;
+}
+
+.TRX {
+    fill: green;
+}
+
+.Stellar {
+    fill: brown;
+}
+.Cardano {
+    fill: orange;
+}
+.LTC {
+    fill: black;
+}
+.BCH {
+    fill: lightblue;
+}
+.EOS {
+    fill: yellow;
+}
+
+.wld {
+    fill: #9ecae1;
+}
+
+.chart-title {
+    margin-bottom: 0;
+}
+
+.source {
+    margin-top: 0;
+    font-size: 11px;
+}

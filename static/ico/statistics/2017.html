@@ -1,0 +1,366 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Search Engine -->
+    <meta name="description"
+          content="Show a chart of all ICO done in a country where area of circles are proportional to the amount of money raised by that company, and the child nodes are arranged radially in descending order.">
+    <meta name="image" content="http://ico.tokens-economy.com/statistics/InitialCoinOffering-2017.png">
+    <meta name="keywords" content="blockchain,ecosystem,bitcoin,ethereum,cardano,token,economics">
+    <meta name="author" content="@TokensEconomy">
+
+    <!-- Schema.org for Google -->
+    <meta itemprop="name" content="How much have Initial Coin Offering (ICO) has been raised in 2017 (most relevant countries)">
+    <meta itemprop="description"
+          content="Show a chart of all ICO done in a country where area of circles are proportional to the amount of money raised by that company, and the child nodes are arranged radially in descending order.">
+    <meta itemprop="image" content="http://ico.tokens-economy.com/statistics/InitialCoinOffering-2017.png">
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="How much have Initial Coin Offering (ICO) has been raised in 2017 (most relevant countries)">
+    <meta name="twitter:description"
+          content="Show a chart of all ICO done in a country where area of circles are proportional to the amount of money raised by that company, and the child nodes are arranged radially in descending order.">
+    <meta name="twitter:site" content="@TokensEconomy">
+    <meta name="twitter:creator" content="@TokensEconomy">
+    <meta name="twitter:image:src" content="http://ico.tokens-economy.com/statistics/InitialCoinOffering-2017.png">
+
+    <!-- Open Graph general (Facebook, Pinterest & Google+) -->
+    <meta name="og:title" content="How much have Initial Coin Offering (ICO) has been raised in 2017 (most relevant countries)">
+    <meta name="og:description"
+          content="Show a chart of all ICO done in a country where area of circles are proportional to the amount of money raised by that company, and the child nodes are arranged radially in descending order.">
+    <meta name="og:image" content="http://ico.tokens-economy.com/statistics/InitialCoinOffering-2017.png">
+    <meta name="og:url" content="http://ico.tokens-economy.com/">
+    <meta name="og:site_name" content="How much have Initial Coin Offering (ICO) has been raised in 2017 (most relevant countries)">
+    <meta name="og:type" content="website">
+
+    <meta name="generator" content="@TokensEconomy">
+
+    <link rel="apple-touch-icon" sizes="57x57" href="../img/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="../img/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="../img/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="../img/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="../img/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="../img/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="../img/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="../img/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="../img/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="../img/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="../img/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="../img/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="../img/favicon-16x16.png">
+    <link rel="manifest" href="../img/manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="../img/ms-icon-144x144.png">
+    <meta name="theme-color" content="#ffffff">
+
+    <title>How much have Initial Coin Offerings (ICOs) raised in 2017 by tokens-economy.com</title>
+
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css"
+          integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
+
+    <!-- tooltip -->
+    <link rel="stylesheet" type="text/css" href="css/tooltipster.bundle.min.css"/>
+    <link rel="stylesheet" type="text/css" href="css/tooltipster-sideTip-punk.min.css"/>
+    <link rel="stylesheet" type="text/css" href="css/tooltipster-style.css"/>
+
+    <script type="text/javascript" src="js/tooltipster.bundle.min.js"></script>
+    <script type="text/javascript" src="js/colors.js?v=3"></script>
+    <script type="text/javascript" src="js/param.js?v=3"></script>
+    <script type="text/javascript" src="js/bubble.js?v=3"></script>
+
+    <link rel="stylesheet" type="text/css" href="css/collage.css"/>
+</head>
+<body>
+<a href="index.html"><span class="logo-home"></span></a>
+<h1>2017: A Year in Review - Initial Coin Offerings
+    <a href="#"
+       class="tooltip"
+       title="<h1>Widget Help</h1>
+       <h2><a href='https://www.tokens-economy.com' target='_blank'><img src="/tokens-economy-logo.png" width="200px"></a></h2>
+        <ul>
+        <li>You can see the number of ICO per months over 13 major countries,</li>
+        <li>Each country has its own color, how often that color appear on the map represents the relevance of that country in the given month,</li>
+        <li>Each bubble is a company and its size is directly linked to the amount of money raised,</li>
+        <li>The amount raised per months is displayed in the upper right corner,</li>
+        <li>By clicking on a month you can examin a full-screen version.</li>
+        </ul>
+       <h2>Visit also</h2>
+       <a href='https://ico.tokens-economy.com/statistics/2018.html' target='_blank'>2018 Year</a>
+       <a href='https://ico.tokens-economy.com/statistics/index.html' target='_blank'>Index By Country</a>
+       <br><br>
+       <a href='https://twitter.com/TokensEconomy' title='Follow us on Twitter' target='_blank'><i class='fab fa-twitter fa-3x'></i></a>
+
+">
+        <i class="fas fa-question-circle"></i></a></h1>
+
+<h2>
+    <b style="color: #FFC107"><i class="fas fa-square"></i> Australia</b>&nbsp;
+    <b style="color: #FF9800"><i class="fas fa-square"></i> British-Virgin-Islands</b>&nbsp;
+    <b style="color: #673AB7"><i class="fas fa-square"></i> Cayman-Islands</b>&nbsp;
+    <b style="color: #9C27B0"><i class="fas fa-square"></i> UK</b> &nbsp;
+    <b style="color: #f44336"><i class="fas fa-square"></i> USA</b> &nbsp;
+    <b style="color: #E91E63"><i class="fas fa-square"></i> Cyprus</b> &nbsp;
+    <b style="color: #3F51B5"><i class="fas fa-square"></i> Estonia</b> &nbsp;
+    <b style="color: #CDDC39"><i class="fas fa-square"></i> France</b> &nbsp;
+    <b style="color: #795548"><i class="fas fa-square"></i> Germany</b> &nbsp;
+    <b style="color: #FFEB3B"><i class="fas fa-square"></i> Israel</b> &nbsp;
+    <b style="color: #00BCD4"><i class="fas fa-square"></i> Liechtenstein</b> &nbsp;
+    <b style="color: #CDDC39"><i class="fas fa-square"></i> Malta</b> &nbsp;
+    <b style="color: #009688"><i class="fas fa-square"></i> Russia</b> &nbsp;
+    <b style="color: #4CAF50"><i class="fas fa-square"></i> Singapore</b> &nbsp;
+    <b style="color: #8BC34A"><i class="fas fa-square"></i> Slovenia</b> &nbsp;
+    <b style="color: #2196F3"><i class="fas fa-square"></i> Switzerland</b> &nbsp;
+</h2>
+<h3>
+    <a href="https://sto.tokens-economy.com/" target="_blank" title="Security Token Offering (STO)"><button type="button" class="btn btn-primary">Security Token Offering (STO)</button></a>
+    <a href="https://ieo.tokens-economy.com/" target="_blank" title="Initial Exchange Offering (IEO)"><button type="button" class="btn btn-primary">Initial Exchange Offering (IEO)</button></a>
+</h3>
+
+<div class="boxes">
+    <div class="box">
+        <div class="number">Number of ICOs</div>
+        <div class="number-value"><span class="bub1-number">0</span></div>
+        <div class="country"><span class="bub1-country"></span></div>
+        <div class="raised"><span class="bub1-raised"></span></div>
+        <a href="https://ico.tokens-economy.com/statistics/month.html?country=2017-01">
+            <svg class="bub1" font-family="sans-serif" text-anchor="middle"></svg>
+        </a>
+    </div>
+
+    <div class="box">
+        <div class="number">Number of ICOs</div>
+        <div class="number-value"><span class="bub2-number">0</span></div>
+        <div class="country"><span class="bub2-country"></span></div>
+        <div class="raised"><span class="bub2-raised"></span></div>
+        <a href="https://ico.tokens-economy.com/statistics/month.html?country=2017-02">
+            <svg class="bub2" font-family="sans-serif" text-anchor="middle"></svg>
+        </a>
+    </div>
+
+    <div class="box">
+        <div class="number">Number of ICOs</div>
+        <div class="number-value"><span class="bub3-number">0</span></div>
+        <div class="country"><span class="bub3-country"></span></div>
+        <div class="raised"><span class="bub3-raised"></span></div>
+        <a href="https://ico.tokens-economy.com/statistics/month.html?country=2017-03">
+            <svg class="bub3" font-family="sans-serif" text-anchor="middle"></svg>
+        </a>
+    </div>
+
+    <div class="box">
+        <div class="number">Number of ICOs</div>
+        <div class="number-value"><span class="bub4-number">0</span></div>
+        <div class="country"><span class="bub4-country"></span></div>
+        <div class="raised"><span class="bub4-raised"></span></div>
+        <a href="https://ico.tokens-economy.com/statistics/month.html?country=2017-04">
+            <svg class="bub4" font-family="sans-serif" text-anchor="middle"></svg>
+        </a>
+    </div>
+
+    <div class="box">
+        <div class="number">Number of ICOs</div>
+        <div class="number-value"><span class="bub5-number">0</span></div>
+        <div class="country"><span class="bub5-country"></span></div>
+        <div class="raised"><span class="bub5-raised"></span></div>
+        <a href="https://ico.tokens-economy.com/statistics/month.html?country=2017-05">
+            <svg class="bub5" font-family="sans-serif" text-anchor="middle"></svg>
+        </a>
+    </div>
+
+    <div class="box">
+        <div class="number">Number of ICOs</div>
+        <div class="number-value"><span class="bub6-number">0</span></div>
+        <div class="country"><span class="bub6-country"></span></div>
+        <div class="raised"><span class="bub6-raised"></span></div>
+        <a href="https://ico.tokens-economy.com/statistics/month.html?country=2017-06">
+            <svg class="bub6" font-family="sans-serif" text-anchor="middle"></svg>
+        </a>
+    </div>
+
+    <div class="box">
+        <div class="number">Number of ICOs</div>
+        <div class="number-value"><span class="bub7-number">0</span></div>
+        <div class="country"><span class="bub7-country"></span></div>
+        <div class="raised"><span class="bub7-raised"></span></div>
+        <a href="https://ico.tokens-economy.com/statistics/month.html?country=2017-07">
+            <svg class="bub7" font-family="sans-serif" text-anchor="middle"></svg>
+        </a>
+    </div>
+
+    <div class="box">
+        <div class="number">Number of ICOs</div>
+        <div class="number-value"><span class="bub8-number">0</span></div>
+        <div class="country"><span class="bub8-country"></span></div>
+        <div class="raised"><span class="bub8-raised"></span></div>
+        <a href="https://ico.tokens-economy.com/statistics/month.html?country=2017-08">
+            <svg class="bub8" font-family="sans-serif" text-anchor="middle"></svg>
+        </a>
+    </div>
+
+    <div class="box">
+        <div class="number">Number of ICOs</div>
+        <div class="number-value"><span class="bub9-number">0</span></div>
+        <div class="country"><span class="bub9-country"></span></div>
+        <div class="raised"><span class="bub9-raised"></span></div>
+        <a href="https://ico.tokens-economy.com/statistics/month.html?country=2017-09">
+            <svg class="bub9" font-family="sans-serif" text-anchor="middle"></svg>
+        </a>
+    </div>
+
+    <div class="box">
+        <div class="number">Number of ICOs</div>
+        <div class="number-value"><span class="bub10-number">0</span></div>
+        <div class="country"><span class="bub10-country"></span></div>
+        <div class="raised"><span class="bub10-raised"></span></div>
+        <a href="https://ico.tokens-economy.com/statistics/month.html?country=2017-10">
+            <svg class="bub10" font-family="sans-serif" text-anchor="middle"></svg>
+        </a>
+    </div>
+    <div class="box">
+        <div class="number">Number of ICOs</div>
+        <div class="number-value"><span class="bub11-number">0</span></div>
+        <div class="country"><span class="bub11-country"></span></div>
+        <div class="raised"><span class="bub11-raised"></span></div>
+        <a href="https://ico.tokens-economy.com/statistics/month.html?country=2017-11">
+            <svg class="bub11" font-family="sans-serif" text-anchor="middle"></svg>
+        </a>
+    </div>
+    <div class="box">
+        <div class="number">Number of ICOs</div>
+        <div class="number-value"><span class="bub12-number">0</span></div>
+        <div class="country"><span class="bub12-country"></span></div>
+        <div class="raised"><span class="bub12-raised"></span></div>
+        <a href="https://ico.tokens-economy.com/statistics/month.html?country=2017-12">
+            <svg class="bub12" font-family="sans-serif" text-anchor="middle"></svg>
+        </a>
+    </div>
+</div>
+
+<div style="clear: both"></div>
+<br>
+<br>
+<h2>An initial coin offering (ICO) or initial currency offering, a type of crowdfunding using cryptocurrencies, is a
+    means of raising capital.</h2>
+
+<p align="center">© 2018 Cédric Walter - <a href="https://www.tokens-economy.com" target="_blank">tokens-economy.com</a>
+    Sharing is caring. All Rights Reserved. All photos remain copyright © their rightful owners. No copyright
+    infringement is intended.</p>
+<p align="center">
+    <i class="fab fa-ethereum fa-2x"></i> <a
+        href="https://etherscan.io/address/0xC23473B911e86dc614412b3341d1C206aBac6996#">0xC23473B911e86dc614412b3341d1C206aBac6996</a><br>
+    <i class="fab fa-bitcoin fa-2x"></i> <a
+        href="https://www.blocktrail.com/BTC/address/3ERPPUFLLjmRAookiCTN7rqKkQjDwS8YPe">3ERPPUFLLjmRAookiCTN7rqKkQjDwS8YPe</a>
+</p>
+<p>
+    Nothing shared or published by tokens-economy.com constitutes an investment recommendation, nor should any data or
+    content provided by tokens-economy.com be relied upon for any investment activities. tokens-economy.com strongly
+    recommends that you perform your own independent research and/or speak with a qualified investment professional
+    before making any financial decisions.
+</p>
+<p align="center">
+    <a href="https://twitter.com/TokensEconomy" title="Follow us on Twitter" target="_blank"><i
+            class="fab fa-twitter fa-3x"></i></a>
+    <a href="https://www.facebook.com/tokens.economy" title="Follow us on Facebook" target="_blank"><i
+            class="fab fa-facebook-f fa-3x"></i></a>
+</p>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-88600-26"></script>
+<script>
+
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+
+    gtag('js', new Date());
+    gtag('config', 'UA-88600-26');
+</script>
+
+<script>
+    const width = getParamWithDefault('width', 450);
+    const height = getParamWithDefault('height', 450);
+    const year = getParamWithDefault('year', '');
+    const category = getParamWithDefault('category', '');
+
+    $(document).ready(function () {
+        main("2017-01", '.bub1', 'true', 'false', width, height, 'false', year,category, 'collage.html');
+        main("2017-02", '.bub2', 'true', 'false', width, height, 'false', year,category, 'collage.html');
+        main("2017-03", '.bub3', 'true', 'false', width, height, 'false', year,category, 'collage.html');
+        main("2017-04", '.bub4', 'true', 'false', width, height, 'false', year,category, 'collage.html');
+        main("2017-05", '.bub5', 'true', 'false', width, height, 'false', year,category, 'collage.html');
+        main("2017-06", '.bub6', 'true', 'false', width, height, 'false', year,category, 'collage.html');
+        main("2017-07", '.bub7', 'true', 'false', width, height, 'false', year,category, 'collage.html');
+        main("2017-08", '.bub8', 'true', 'false', width, height, 'false', year,category, 'collage.html');
+        main("2017-09", '.bub9', 'true', 'false', width, height, 'false', year,category, 'collage.html');
+        main("2017-10", '.bub10', 'true', 'false', width, height, 'false', year,category, 'collage.html');
+        main("2017-11", '.bub11', 'true', 'false', width, height, 'false', year,category, 'collage.html');
+        main("2017-12", '.bub12', 'true', 'false', width, height, 'false', year,category, 'collage.html');
+
+        $('.box').width(width + 'px');
+        $('.box').height(height + 'px');
+
+        $('.bub1').width(width + 'px');
+        $('.bub1').height(height + 'px');
+
+        $('.bub2').width(width + 'px');
+        $('.bub2').height(height + 'px');
+
+        $('.bub3').width(width + 'px');
+        $('.bub3').height(height + 'px');
+
+        $('.bub4').width(width + 'px');
+        $('.bub4').height(height + 'px');
+
+        $('.bub5').width(width + 'px');
+        $('.bub5').height(height + 'px');
+
+        $('.bub6').width(width + 'px');
+        $('.bub6').height(height + 'px');
+
+        $('.bub7').width(width + 'px');
+        $('.bub7').height(height + 'px');
+
+        $('.bub8').width(width + 'px');
+        $('.bub8').height(height + 'px');
+
+        $('.bub9').width(width + 'px');
+        $('.bub9').height(height + 'px');
+
+        $('.bub10').width(width + 'px');
+        $('.bub10').height(height + 'px');
+
+        $('.bub11').width(width + 'px');
+        $('.bub11').height(height + 'px');
+
+        $('.bub12').width(width + 'px');
+        $('.bub12').height(height + 'px');
+
+    });
+</script>
+
+<div id="disqus_thread"></div>
+<script>
+
+var disqus_config = function () {
+this.page.url = 'https://ico.tokens-economy.com/';  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = 'tokens-economy-com'; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://tokens-economy-com.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+</body>
+</html>

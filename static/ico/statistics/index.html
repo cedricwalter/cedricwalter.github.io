@@ -1,0 +1,474 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Search Engine -->
+    <meta name="description"
+          content="Explore some charts of all Initial Coin Offering (ICO) by category, year and country.">
+    <meta name="image" content="http://ico.tokens-economy.com/statistics/img/ICO-Statistics.png">
+    <meta name="keywords" content="blockchain,ecosystem,bitcoin,ethereum,cardano,token,economics">
+    <meta name="author" content="@TokensEconomy">
+
+    <!-- Schema.org for Google -->
+    <meta itemprop="name" content="Worldwide Initial Coin Offering (ICO) statistics by Tokens-Economy.com">
+    <meta itemprop="description"
+          content="Explore some charts of all Initial Coin Offering (ICO) by category, year and country.">
+    <meta itemprop="image" content="http://ico.tokens-economy.com/statistics/img/ICO-Statistics.png">
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="Worldwide Initial Coin Offering (ICO) statistics by Tokens-Economy.com">
+    <meta name="twitter:description"
+          content="Explore some charts of all Initial Coin Offering (ICO) by category, year and country.">
+    <meta name="twitter:site" content="@TokensEconomy">
+    <meta name="twitter:creator" content="@TokensEconomy">
+    <meta name="twitter:image:src" content="http://ico.tokens-economy.com/statistics/img/ICO-Statistics.png">
+
+    <!-- Open Graph general (Facebook, Pinterest & Google+) -->
+    <meta name="og:title" content="Worldwide Initial Coin Offering (ICO) statistics by Tokens-Economy.com">
+    <meta name="og:description"
+          content="Explore some charts of all Initial Coin Offering (ICO) by category, year and country.">
+    <meta name="og:image" content="http://ico.tokens-economy.com/statistics/img/ICO-Statistics.png">
+    <meta name="og:url" content="http://ico.tokens-economy.com/">
+    <meta name="og:site_name" content="Worldwide Initial Coin Offering (ICO) statistics by Tokens-Economy.com">
+    <meta name="og:type" content="website">
+
+    <meta name="generator" content="@TokensEconomy">
+
+    <link rel="apple-touch-icon" sizes="57x57" href="../img/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="../img/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="../img/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="../img/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="../img/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="../img/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="../img/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="../img/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="../img/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="../img/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="../img/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="../img/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="../img/favicon-16x16.png">
+    <link rel="manifest" href="../img/manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="../img/ms-icon-144x144.png">
+    <meta name="theme-color" content="#ffffff">
+
+    <title>Worldwide Initial Coin Offering (ICO) statistics by Tokens-Economy.com</title>
+
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"
+            integrity="sha384-smHYKdLADwkXOn1EmN1qk/HfnUcbVRZyYmZ4qpPea6sjB/pTJ0euyQp0Mk8ck+5T"
+            crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css"
+          integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
+
+
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css"
+          integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
+
+    <!-- tooltip -->
+    <link rel="stylesheet" type="text/css" href="css/tooltipster.bundle.min.css"/>
+    <link rel="stylesheet" type="text/css" href="css/tooltipster-sideTip-punk.min.css"/>
+    <link rel="stylesheet" type="text/css" href="css/tooltipster-style.css"/>
+
+    <script type="text/javascript" src="js/tooltipster.bundle.min.js"></script>
+    <script type="text/javascript" src="js/colors.js"></script>
+    <script type="text/javascript" src="js/bubble2.js"></script>
+
+    <link rel="stylesheet" type="text/css" href="css/main.css"/>
+</head>
+<body>
+<h1><a href="https://www.tokens-economy.com/" target="_blank" title="Visit now Tokens-economy"><img src="/tokens-economy-logo.png" width="200px"></a></h1>
+<h1>ICO statistics by <a href="https://www.tokens-Economy.com" target="_blank"
+                          title="Click here to open Tokens-Economy.com">Tokens-Economy.com</a></h1>
+<h2>An initial coin offering (ICO) or initial currency offering, a type of crowdfunding using cryptocurrencies, is a
+    means of raising capital.</h2>
+
+<h3>Only ICO in status ended are considered. (ongoing and upcoming are not taken into account). Source:
+    ICOBench.com</h3>
+<h4>
+    <a href="https://sto.tokens-economy.com/" target="_blank" title="Security Token Offering (STO)"><button type="button" class="btn btn-primary">Security Token Offering (STO)</button></a>
+    <a href="https://ieo.tokens-economy.com/" target="_blank" title="Initial Exchange Offering (IEO)"><button type="button" class="btn btn-primary">Initial Exchange Offering (IEO)</button></a>
+</h4>
+<br>
+<br>
+<h1>Compare ICO per country/category</h1>
+<br>
+<div class="container">
+    <div class="row">
+        <div class="col-sm">
+            <h1><a href="market.html" target="_blank" title="Click here to view ICO sorted by categories">Market overview by categories</a></h1>
+            <a href="market.html" target="_blank" title="Click here to view ICO sorted by categories"><img
+                    src="img/marketOverviewICO.jpg" width="350px"></a>
+        </div>
+        <div class="col-sm">
+            <h1>About</h1>
+            <ul>
+                <li>Compare all ICO in following 29 categories: Art, Artificial Intelligence, Banking, Big Data, Business services, Casino & Gambling, Charity,
+                   Communication, Cryptocurrency, Education, Electronics, Energy, Entertainment, Health, Infrastructure, Internet, Investment, Legal,
+                    Manufacturing, Media, Other, Platform, Real estate, Retail, Smart Contract, Software, Sports, Tourism, Virtual Reality
+                </li>
+                <li>Each bubble is a company and its size is directly linked to the amount of money raised,</li>
+                <li>Click on legend to display ICO for that category only.</li>
+            </ul>
+        </div>
+    </div>
+</div>
+<br>
+<br>
+<div class="container">
+    <div class="row">
+        <div class="col-sm">
+            <h1><a href="country.html" target="_blank" title="Click here to open ICO in most relevant countries">ICO
+                by Country</a></h1>
+            <a href="country.html" target="_blank" title="Click here to open ICO in most relevant countries"><img
+                    src="img/ICOBubbleChartByCountry.png" width="350px"></a>
+        </div>
+        <div class="col-sm">
+            <h1>About</h1>
+            <ul>
+                <li>Explore all ICO in each of the following countries:
+                    <a href="country.html?country=australia">Australia</a> -
+                    <a href="country.html?country=British%20Virgin%20Islands">British Virgin Islands</a> -
+                    <a href="country.html?country=cyprus">Cyprus</a> -
+                    <a href="country.html?country=Cayman%20Islands">Cayman Islands</a> -
+                    <a href="country.html?country=estonia">Estonia</a> -
+                    <a href="country.html?country=france">France</a> -
+                    <a href="country.html?country=germany">Germany</a> -
+                    <a href="country.html?country=israel">Israel</a> -
+                    <a href="country.html?country=liechtenstein">Liechtenstein</a> -
+                    <a href="country.html?country=malta">Malta</a> -
+                    <a href="country.html?country=russia">Russia</a> –
+                    <a href="country.html?country=singapore">Singapore</a> –
+                    <a href="country.html?country=slovenia">Slovenia</a> -
+                    <a href="country.html?country=switzerland">Switzerland</a> –
+                    <a href="country.html?country=UK">UK</a> –
+                    <a href="country.html?country=USA">USA</a> or <a href="collage.html"><b>ALL</b></a>
+
+                </li>
+                <li>Each bubble is a company and its size is directly linked to the amount of money raised,</li>
+                <li>Click on legend to display ICO for that category only.</li>
+                <li>You can pass URL query parameters:</li>
+                <ul>
+
+                    <li>Display only ICO ended in
+                        <a href='https://ico.tokens-economy.com/statistics/country.html?year=2017'
+                           target='_blank'>2016</a> -
+                        <a href='https://ico.tokens-economy.com/statistics/country.html?year=2017'
+                           target='_blank'>2017</a> -
+                        <a href='https://ico.tokens-economy.com/statistics/country.html?year=2017'
+                           target='_blank'>2018</a></li>
+                    <a href='https://ico.tokens-economy.com/statistics/country.html?year=2019'
+                       target='_blank'>2019</a></li>
+                    <li>Display only ICO of category <a
+                            href='https://ico.tokens-economy.com/statistics/country.html?category=Cryptocurrency'
+                            target='_blank'>Cryptocurrency</a></li>
+                    <li>Increase size of charts <a
+                            href='https://ico.tokens-economy.com/statistics/country.html?width=800&height=800'
+                            target='_blank'>800x800</a></li>
+                </ul>
+            </ul>
+        </div>
+    </div>
+</div>
+<br>
+<br>
+<div class="container">
+    <div class="row">
+        <div class="col-sm">
+            <h1><a href="collage.html" target="_blank" title="Click here to open the ICO Country Comparator">ICO
+                Country Comparator</a></h1>
+            <a href="collage.html" target="_blank" title="Click here to open the ICO Country Comparator"><img
+                    src="img/ICOBubbleChartInMostRelevantCountries.png" width="350px"></a>
+        </div>
+        <div class="col-sm">
+            <h1>About</h1>
+            <ul>
+                <li>Compare all ICO in all countries: USA - Singapore – Russia – UK – Switzerland – Estonia - Germany -
+                    Malta - Cyprus - Liechtenstein - Slovenia - France - Cayman Islands.
+                </li>
+                <li>Each bubble is a company and its size is directly linked to the amount of money raised,</li>
+                <li>Click on legend to display ICO for that category only.</li>
+                <li>You can pass URL query parameters:</li>
+                <ul>
+                    <li>Display only ICO ended per Year
+                        <a href='https://ico.tokens-economy.com/statistics/collage.html?year=2011'
+                           target='_blank'>2016</a> -
+                        <a href='https://ico.tokens-economy.com/statistics/collage.html?year=2017'
+                           target='_blank'>2017</a> -
+                        <a href='https://ico.tokens-economy.com/statistics/collage.html?year=2018'
+                           target='_blank'>2018</a>
+                        <a href='https://ico.tokens-economy.com/statistics/collage.html?year=2019'
+                           target='_blank'>2019</a>
+                    </li>
+                    <li>Display only ICO of category <a
+                            href='https://ico.tokens-economy.com/statistics/collage.html?category=Cryptocurrency'
+                            target='_blank'>Cryptocurrency</a></li>
+                    <li>Increase size of charts <a
+                            href='https://ico.tokens-economy.com/statistics/collage.html?width=800&height=800'
+                            target='_blank'>800x800</a>
+                </ul>
+            </ul>
+        </div>
+    </div>
+</div>
+
+<br>
+<br>
+<h1>Compare ICO per year/country</h1>
+<br>
+<div class="container">
+    <div class="row">
+        <div class="col-sm">
+            <h1><a href="country.html?country=2016&year=2016" target="_blank" title="Click here to open ICO in 2016">ICO
+                in 2016</a></h1>
+            <a href="country.html?country=2016&year=2016" target="_blank" title="Click here to open ICO in 2016"><img
+                    src="img/InitialCoinOffering-2016.png"
+                    width="350px"></a>
+        </div>
+        <div class="col-sm">
+            <h1><a href="country.html?country=2017&year=2017" target="_blank" title="Click here to open ICO in 2017">ICO
+                in 2017</a></h1>
+            <a href="country.html?country=2017&year=2017" target="_blank" title="Click here to open ICO in 2017"><img
+                    src="img/InitialCoinOffering-all-2017.png"
+                    width="350px"></a>
+        </div>
+        <div class="col-sm">
+            <h1><a href="country.html?country=2018&year=2018" target="_blank" title="Click here to open ICO in 2018">ICO
+                in 2018</a></h1>
+            <a href="country.html?country=2018&year=2018" target="_blank" title="Click here to open ICO in 2018"><img
+                    src="img/InitialCoinOffering-all-2018.png"
+                    width="350px"></a>
+        </div>
+        <div class="col-sm">
+            <h1><a href="country.html?country=2019&year=2019" target="_blank" title="Click here to open ICO in 2019">ICO
+                in 2019</a></h1>
+            <a href="country.html?country=2019&year=2019" target="_blank" title="Click here to open ICO in 2019"><img
+                    src="img/InitialCoinOffering-all-2019.png"
+                    width="350px"></a>
+        </div>
+        <div class="col-sm">
+            <h1><a href="country.html?country=2020&year=2020" target="_blank" title="Click here to open ICO in 2020">ICO
+                in 2020</a></h1>
+            <a href="country.html?country=2020&year=2020" target="_blank" title="Click here to open ICO in 2020"><img
+                    src="img/InitialCoinOffering-all-2020.png"
+                    width="350px"></a>
+        </div>
+        <div class="col-sm">
+            <h1>About</h1>
+            <ul>
+                <li>You can see the number of ICO yearly in 13 major countries,</li>
+                <li>Each country has its own color, how often that color appear on the map represents the relevance of
+                    that country in the given month,
+                </li>
+                <li>Each bubble is a company and its size is directly linked to the amount of money raised,</li>
+                <li>The amount raised per months is displayed in the upper right corner,</li>
+                <li>By clicking on a month you can examin a full-screen version.</li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+<br>
+<br>
+<h1>Compare ICO per month/country</h1>
+<br>
+<div class="container">
+    <div class="row">
+        <div class="col-sm">
+            <h1><a href="2017.html" target="_blank" title="Click here to open ICO in 2017">Monthly ICO in 2017</a>
+            </h1>
+            <a href="2017.html" target="_blank" title="Click here to open ICO in 2017"><img
+                    src="img/InitialCoinOffering-2017.png"
+                    width="350px"></a>
+        </div>
+        <div class="col-sm">
+            <h1><a href="2018.html" target="_blank" title="Click here to open ICO in 2018">Monthly ICO in 2018</a>
+            </h1>
+            <a href="2018.html" target="_blank" title="Click here to open ICO in 2018"><img
+                    src="img/InitialCoinOffering-2018.png"
+                    width="350px"></a>
+        </div>
+        <div class="col-sm">
+            <h1><a href="2019.html" target="_blank" title="Click here to open ICO in 2019">Monthly ICO in 2019</a>
+            </h1>
+            <a href="2019.html" target="_blank" title="Click here to open ICO in 2019"><img
+                    src="img/InitialCoinOffering-2019.png"
+                    width="350px"></a>
+        </div>
+        <div class="col-sm">
+            <h1><a href="2020.html" target="_blank" title="Click here to open ICO in 2020">Monthly ICO in 2020</a>
+            </h1>
+            <a href="2020.html" target="_blank" title="Click here to open ICO in 2020"><img
+                    src="img/InitialCoinOffering-2020.png"
+                    width="350px"></a>
+        </div>
+        <div class="col-sm">
+            <h1>About</h1>
+            <ul>
+                <li>You can see the number of ICO per months over 13 major countries,</li>
+                <li>Each country has its own color, how often that color appear on the map represents the relevance of
+                    that country in the given month,
+                </li>
+                <li>Each bubble is a company and its size is directly linked to the amount of money raised,</li>
+                <li>The amount raised per months is displayed in the upper right corner,</li>
+                <li>By clicking on a month you can examin a full-screen version.</li>
+            </ul>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm">
+            <a href="https://ico.tokens-economy.com/statistics/month.html?country=2017-01">Jan 2017</a> -
+            <a href="https://ico.tokens-economy.com/statistics/month.html?country=2017-02">Feb 2017</a> -
+            <a href="https://ico.tokens-economy.com/statistics/month.html?country=2017-03">Mar 2017</a> -
+            <a href="https://ico.tokens-economy.com/statistics/month.html?country=2017-04">Apr 2017</a> -
+            <a href="https://ico.tokens-economy.com/statistics/month.html?country=2017-05">Mai 2017</a> -
+            <a href="https://ico.tokens-economy.com/statistics/month.html?country=2017-06">June 2017</a> -
+            <a href="https://ico.tokens-economy.com/statistics/month.html?country=2017-07">Juli 2017</a> -
+            <a href="https://ico.tokens-economy.com/statistics/month.html?country=2017-08">August 2017</a> -
+            <a href="https://ico.tokens-economy.com/statistics/month.html?country=2017-09">September 2017</a> -
+            <a href="https://ico.tokens-economy.com/statistics/month.html?country=2017-10">October 2017</a> -
+            <a href="https://ico.tokens-economy.com/statistics/month.html?country=2017-11">November 2017</a> -
+            <a href="https://ico.tokens-economy.com/statistics/month.html?country=2017-12">December 2017</a>
+        </div>
+        <div class="col-sm">
+            <a href="https://ico.tokens-economy.com/statistics/month.html?country=2018-01">Jan 2018</a> -
+            <a href="https://ico.tokens-economy.com/statistics/month.html?country=2018-02">Feb 2018</a> -
+            <a href="https://ico.tokens-economy.com/statistics/month.html?country=2018-03">Mar 2018</a> -
+            <a href="https://ico.tokens-economy.com/statistics/month.html?country=2018-04">Apr 2018</a> -
+            <a href="https://ico.tokens-economy.com/statistics/month.html?country=2018-05">Mai 2018</a> -
+            <a href="https://ico.tokens-economy.com/statistics/month.html?country=2018-06">June 2018</a> -
+            <a href="https://ico.tokens-economy.com/statistics/month.html?country=2018-07">Juli 2018</a> -
+            <a href="https://ico.tokens-economy.com/statistics/month.html?country=2018-08">August 2018</a> -
+            <a href="https://ico.tokens-economy.com/statistics/month.html?country=2018-09">September 2018</a> -
+            <a href="https://ico.tokens-economy.com/statistics/month.html?country=2018-10">October 2018</a> -
+            <a href="https://ico.tokens-economy.com/statistics/month.html?country=2018-11">November 2018</a> -
+            <a href="https://ico.tokens-economy.com/statistics/month.html?country=2018-12">December 2018</a>
+        </div>
+        <div class="col-sm">
+            <a href="https://ico.tokens-economy.com/statistics/month.html?country=2019-01">Jan 2019</a> -
+            <a href="https://ico.tokens-economy.com/statistics/month.html?country=2019-02">Feb 2019</a> -
+            <a href="https://ico.tokens-economy.com/statistics/month.html?country=2019-03">Mar 2019</a> -
+            <a href="https://ico.tokens-economy.com/statistics/month.html?country=2019-04">Apr 2019</a> -
+            <a href="https://ico.tokens-economy.com/statistics/month.html?country=2019-05">Mai 2019</a> -
+            <a href="https://ico.tokens-economy.com/statistics/month.html?country=2019-06">June 2019</a> -
+            <a href="https://ico.tokens-economy.com/statistics/month.html?country=2019-07">Juli 2019</a> -
+            <a href="https://ico.tokens-economy.com/statistics/month.html?country=2019-08">August 2019</a> -
+            <a href="https://ico.tokens-economy.com/statistics/month.html?country=2019-09">September 2019</a> -
+            <a href="https://ico.tokens-economy.com/statistics/month.html?country=2019-10">October 2019</a> -
+            <a href="https://ico.tokens-economy.com/statistics/month.html?country=2019-11">November 2019</a> -
+            <a href="https://ico.tokens-economy.com/statistics/month.html?country=2019-12">December 2019</a>
+        </div>
+        <div class="col-sm">
+            <a href="https://ico.tokens-economy.com/statistics/month.html?country=2020-01">Jan 2020</a> -
+            <a href="https://ico.tokens-economy.com/statistics/month.html?country=2020-02">Feb 2020</a> -
+            <a href="https://ico.tokens-economy.com/statistics/month.html?country=2020-03">Mar 2020</a> -
+            <a href="https://ico.tokens-economy.com/statistics/month.html?country=2020-04">Apr 2020</a> -
+            <a href="https://ico.tokens-economy.com/statistics/month.html?country=2020-05">Mai 2020</a> -
+            <a href="https://ico.tokens-economy.com/statistics/month.html?country=2020-06">June 2020</a> -
+            <a href="https://ico.tokens-economy.com/statistics/month.html?country=2020-07">Juli 2020</a> -
+            <a href="https://ico.tokens-economy.com/statistics/month.html?country=2020-08">August 2020</a> -
+            <a href="https://ico.tokens-economy.com/statistics/month.html?country=2020-09">September 2020</a> -
+            <a href="https://ico.tokens-economy.com/statistics/month.html?country=2020-10">October 2020</a> -
+            <a href="https://ico.tokens-economy.com/statistics/month.html?country=2020-11">November 2020</a> -
+            <a href="https://ico.tokens-economy.com/statistics/month.html?country=2020-12">December 2020</a>
+        </div>
+    </div>
+</div>
+
+<br>
+<br>
+
+<h1>Dead coins & ICO</h1>
+<br>
+<div class="container">
+    <div class="row">
+        <div class="col-sm">
+            <h1><a href="dead.html?country=dead-2017" target="_blank"
+                   title="Click here to see Dead coins & ICO in 2017">Dead coins & ICO in 2017</a></h1>
+            <a href="dead.html?country=dead-2017" target="_blank"
+               title="Click here to see Dead coins & ICO in 2017"><img src="img/deadcoin.jpg"
+                                                                        width="350px"></a>
+        </div>
+        <div class="col-sm">
+            <h1><a href="dead.html?country=dead-2018" target="_blank"
+                   title="Click here to see Dead coins & ICO in 2018">Dead coins & ICO in 2018</a></h1>
+            <a href="dead.html?country=dead-2018" target="_blank"
+               title="Click here to see Dead coins & ICO in 2018"><img src="img/deadcoin.jpg"
+                                                                        width="350px"></a>
+        </div>
+        <div class="col-sm">
+            <h1><a href="dead.html?country=dead-2019" target="_blank"
+                   title="Click here to see Dead coins & ICO in 2019">Dead coins & ICO in 2019</a></h1>
+            <a href="dead.html?country=dead-2019" target="_blank"
+               title="Click here to see Dead coins & ICO in 2019"><img src="img/deadcoin.jpg"
+                                                                        width="350px"></a>
+        </div>
+        <div class="col-sm">
+            <h1>About</h1>
+            <ul>
+                <li>A token or coin that has been abandoned, scammed, website dead, no nodes, wallet issues, no social
+                    updates, low volume or developers have walked away from the project.
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+<br>
+<br>
+
+
+<p align="center">© 2018-2020 Cédric Walter - <a href="https://www.tokens-economy.com" target="_blank">tokens-economy.com</a>
+    Sharing is caring. All Rights Reserved. All photos remain copyright © their rightful owners. No copyright
+    infringement is intended.</p>
+<p align="center">
+    <a href="https://twitter.com/TokensEconomy" title="Follow us on Twitter" target="_blank"><i
+            class="fab fa-twitter fa-3x"></i></a>
+    <a href="https://www.facebook.com/tokens.economy" title="Follow us on Facebook" target="_blank"><i
+            class="fab fa-facebook-f fa-3x"></i></a>
+</p>
+<p>
+    Nothing shared or published by tokens-economy.com constitutes an investment recommendation, nor should any data or
+    content provided by tokens-economy.com be relied upon for any investment activities. tokens-economy.com strongly
+    recommends that you perform your own independent research and/or speak with a qualified investment professional
+    before making any financial decisions.
+</p>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-88600-26"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+
+    gtag('js', new Date());
+    gtag('config', 'UA-88600-26');
+</script>
+
+<div id="disqus_thread"></div>
+<script>
+
+    var disqus_config = function () {
+        this.page.url = 'https://ico.tokens-economy.com/';  // Replace PAGE_URL with your page's canonical URL variable
+        this.page.identifier = 'tokens-economy-com'; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+    (function () { // DON'T EDIT BELOW THIS LINE
+        var d = document, s = d.createElement('script');
+        s.src = 'https://tokens-economy-com.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by
+    Disqus.</a></noscript>
+
+
+</body>
+</html>

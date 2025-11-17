@@ -20,26 +20,20 @@ I have currently 3 simulation devices:
 If you dont like spaghetti of cables on the floor, or suffer from OCD, dont buy a simulation rig :-)
 {{< /notice >}}
 
-# "Simulon Prime" flight simulator
+## "Simulon Prime" flight simulator
 ![Simulator Flight rig Simulon Prime](https://www.waltercedric.com/hobbies/flight/Simulon-Prime.webp)
 
-see https://www.waltercedric.com/hobbies/flight-simulator-xplane/
+see [Fligt](https://www.waltercedric.com/posts/hobbies/flight-simulator-xplane/)
+sss
+
+## "Invictus" car racing simulator
+
+see https://www.waltercedric.com/posts/hobbies/car-simulator/
 
 
-# "Invictus" car racing simulator
-
-see https://www.waltercedric.com/hobbies/car-simulator/
-
-
-# RotorX (actual)
+## RotorX (actual)
 RotorX only exist for now, because i can not easily mount the [Puma-X](https://pro-flight-trainer.com/product/puma-x-a-style-snapaction/) on the motion chair
-![Simulator Flight rig Rotor X](https://www.waltercedric.com/hobbies/flight/RotorX.webp)
-
-# Total Cost of Ownership (TCO)
-
-* 3000.-  Computer 7900XTX, 9800X3d, 4TB 990 Pro, 64GB RAM
-* 38.-    Windows 11 PRO
-
+![Simulator Flight rig Rotor X](https://www.waltercedric.com/post/hobbies/flight/RotorX.webp)
 
 ## Assembling
 {{< youtube HDGkWW-IciE >}}

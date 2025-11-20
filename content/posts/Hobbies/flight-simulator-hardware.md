@@ -1,5 +1,5 @@
 ---
-title: "Flight Simulator and Private Pilot License (PPL) training"
+title: "Flight Simulator hardware"
 summary: "a work in progress, what I use to progress faster for my PPL and fly safer."
 type: posts
 date: 2025-02-06T09:11:52+01:00

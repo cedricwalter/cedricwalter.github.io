@@ -37,9 +37,11 @@ These tips apply if you want to seriously make it close to the reality and want 
 * 180.-   Next Level Racing Free Standing Single Monitor- **Optional**
 
 ### Computer
+
 * 3000.-  Computer 7900XTX, 9800X3d, 4TB 990 Pro, 64GB RAM
 
 **Software**
+
 * 53.-    X-Plane 12 (New Year end sales)
 * 52.-    Microsoft Flight Simulator Aviator Edition 2024 - **Microsoft discount**
 * 60.-    Air manager v4 Desktop - **Optional**
@@ -48,6 +50,7 @@ These tips apply if you want to seriously make it close to the reality and want 
 * 38.-    Windows 11 PRO
 
 #### Yoke
+
 | Yoke   |      Product      |  Price |
 |----------|:-------------:|------:|
 | Turtle beach VélocityOne Flight Control System  |  ![Turtle beach VélocityOne Flight Control System](https://www.waltercedric.com/hobbies/flight/Turtle-Beach-VelocityOne-Flight-Universal-Control-System.webp) | 360.- CHF|
@@ -69,7 +72,6 @@ These tips apply if you want to seriously make it close to the reality and want 
 | VelocityOne™ Rudder  |  ![VelocityOne™ Rudder](https://www.waltercedric.com/hobbies/flight/VelocityOne-Rudder.webp) | 360.- CHF|
 | Logitech G Saitek Pro Flight Rudder Pedals |    xxx   |   $131 |
 | Thrustmaster Rudder TPR | ![Honeycomb Bravo Alpha](https://www.waltercedric.com/hobbies/flight/Thrustmaster-Rudder-TPR.webp) All set for immediate liftoff: With the first rudder with a S.M.A.R.T-guide rail system (Sliding Motion on Aluminium Rail Tracks) for smooth control. System of 4 industrial aluminium slide rails for a perfect sliding movement. Two differential brake pedals: Large differential brake pedals: 25 centimeters (equivalent to shoe size 45). USB and/or proprietary RJ12 connectivity: On PC (Windows 10/8/7/Vista), works with all standard joysticks. On PC and on PS4, works and connects directly to the Thrustmaster T.Flight Hotas 4 joystick. Advanced calibration software for setting dead zones: Set the central dead zone. T.A.R.G.E.T Advanced PC Programming Software: Allows you to program the axes and differential brakes. Two differential brake pedals for optimized flying! - Large differential brake pedals: 25 centimeters (shoe size 12/45). Rounded central pivot point with central grip on the differential brake axles. Pivot point with a 15° range of motion: On an incline for intentional operation, avoiding unintentional activation when using the rudder.Stable and precise - Versatile ergonomic design, suitable for all types of flights (aerial combat, space adventure, civil flight, etc.): Removed heel support = rudder control with the ball of the foot. Mounted heel support = one hundred percent support of the foot on the pedal.| New arounf 450.- CHF (got it for 300.- used) |
-
 
 ## Stream Deck XL or + (optional)
 Allow you to win time by creating shortcuts for preflight, flight.
@@ -119,6 +121,7 @@ However, if you want additional LCD readouts for autopilot settings or prefer th
 ---
 
 #### Alternative?
+
 - **Use an on-screen radio stack** (in-sim pop-ups).
 - **Map radio controls to Bravo’s knobs and switches** (less intuitive but works).
 - **Consider an iPad with Air Manager** for a touchscreen radio stack.
@@ -172,14 +175,9 @@ The Logitech driver has not been updated for Microsoft Flight Simulator 2024 yet
 
 ---
 
-## Simulation Rig (really nice to have)
-I use Next Level Racing seat pro and stand pro.
-see my [Simulation Rigs](https://www.waltercedric.com/posts/hobbies/simulation-rigs/)
+## Head Tracking
 
-
-# Head Tracking
-
-# Head Tracking using a cheap webcam with OpenTrack
+### Head Tracking using a cheap webcam with OpenTrack
 
 Choose a webcam with qt least 60fps.
 
@@ -188,7 +186,8 @@ Choose a webcam with qt least 60fps.
 
 {{< youtube 6cvWn2Oy0CA >}}
 
-# Head Tracking using an iPhone with AITrack (Face Tracking) + iPhone Camera
+### Head Tracking using an iPhone with AITrack (Face Tracking) + iPhone Camera
+
 You can run AITrack (a separate app that uses your phone camera for head tracking) and feed its data into OpenTrack on your PC.
 The iPhone acts like a high-quality webcam, streaming face tracking data over Wi-Fi or USB.
 Pros: Cheap (free software), easy to set up.
@@ -199,7 +198,8 @@ Cons: Needs good lighting, not as robust as IR tracking.
 * Install a camera streaming app on iPhone (like iVCam or EpocCam).
 * Connect iPhone to PC → Open AITrack → Forward to OpenTrack.
 
-## Screen estate
+## More Screen estate
+
 Simulator enviroment dilemna... You can go cheap or crazy expensive really fast.
 
 | Choice   |      Note |
@@ -213,6 +213,7 @@ Simulator enviroment dilemna... You can go cheap or crazy expensive really fast.
 ---
 
 ### Use real MFD
+
 Going with physical and expensive hardware MFD!
 
 {{< notice tips>}}
@@ -233,10 +234,11 @@ Recommended is to use a touch panel or monitor and buy Air manager v4 (https://w
 
 Install Air Manager on iPad (22€ iOS, 23 CHF Android) and connect XPlane or Microsoft Simulator 2024
 
-#### Glas cockpit
+## Glas cockpit
+
 A **glass cockpit** is a modern aircraft cockpit that replaces traditional analog gauges and dials with electronic displays, typically LCD or LED screens. These displays show flight information such as altitude, airspeed, heading, and navigation data. The **Garmin G1000** is one of the most popular glass cockpit systems, widely used in general aviation, training aircraft, and some business jets.
 
-##### Key Components of a Glass Cockpit with Garmin G1000:
+### Key Components of a Glass Cockpit with Garmin G1000:
 
 1. **Primary Flight Display (PFD):**  
    The PFD provides essential flight information, including:  
@@ -263,12 +265,13 @@ A **glass cockpit** is a modern aircraft cockpit that replaces traditional analo
    - Radio communication (VHF)  
 
 ### Advantages of a Glass Cockpit with G1000:
+
 - **Improved Situational Awareness:** The PFD and MFD provide a clear and intuitive overview of flight data.  
 - **Reduced Workload:** Features like a flight director and autopilot simplify complex tasks.  
 - **Customization:** Pilots can tailor displays to show relevant information.  
 - **Training Efficiency:** Standardized layouts across aircraft make transitioning between planes easier.  
 
-### Knobster (nice to have)
+## Knobster (nice to have)
 Allows you to control every wheel and button of your flight simulation software like Air Manager or Air Player Cockpit Panel,
 also works in VR with knobXP for xplane or knobFS for Microsoft flight simulator
 
@@ -289,6 +292,7 @@ The most immersive!
 You can use a free tool to define what will be rendered by the simulator and what not: you keep your physical panels visible!
 
 ## Motion platform (really nice to have)
+
 {{< notice tips>}}
 Motions platform deliver all six axes of movements: heave, roll, pitch, surge, sway, and yaw. it will never be able to smulate G
 {{< /notice >}}
@@ -297,14 +301,12 @@ Motions platform deliver all six axes of movements: heave, roll, pitch, surge, s
 * Qubic System QS-S25 https://qubicsystem.com/product/qs-s25/  30k CHF 460kg!
 * DoF Reality P6 Pro https://dofreality.com/product/racing/motion-racing-rig-6-axis-pro-p6/   8000.- CHF 
 
-## Eye tracker (really nice to have)
-You can just setup a tracker system for free with an android phone, droidcam phone app and windows app, trackAl on pc, and also openTrack. Works great.
-
 ## Buttkicker / Haptic Feedback (for enhanced immersion) - (really nice to have)
 
 Not needed with the motion v3 platform
 
 ### Do It Yourself
+
 You just need a cheap transducer (e.g. https://www.amazon.it/Rockwood-Bodyshaker/dp/B002LQAHPE), a cheap amplifier (e.g. https://www.amazon.com/gp/aw/d/B06Y67PZB1), some cables and maybe a usb sound card. 
 Plug everything together and run the 
 [simshaker](https://simshaker-for-aviators.github.io/SimShaker-for-Aviators-Releases/) software
@@ -313,9 +315,11 @@ or https://github.com/SHWotever/SimHub/wiki/Shake-It-for-bass-shakers (Car)
 https://forums.mudspike.com/t/feedback-for-flight-simulation-2020/10886
 
 ### Buttkicker
+
 You can install the buttkicker https://thebuttkicker.com but it can cost up to 1000.- CHF
 
 ## Mixed Reality
+
 You need
 - Meta Quest 3
 - [OpenKneeboard (Free)](https://openkneeboard.com) or https://flightsim.to/file/64739/color-panel-for-vr-passthrough
@@ -333,26 +337,48 @@ Even that, the texts are blurry because they are too smooth. I could barely make
 
 {{< youtube oqoEssvvbZo >}}
 
-# 3D print
+## 3D print
+
 ![Honeycomb Bravo Alpha](https://www.waltercedric.com/hobbies/flight/honeycomb-alpha-bravo.webp)
 * https://www.thingiverse.com/thing:4554130 for iPad Air or any 11 inches tablet
 * https://makerworld.com/en/models/33439 for any iPad/tablet
 
+## Assembling
+
+{{< youtube HDGkWW-IciE >}}
+
+### You want more 3D print?
+* [Next Level Racing 3d print at MakerWorld (Bambu lab - Free)](https://makerworld.com/en/models/search?keyword=next+level+racing)
+* [Next Level Racing 3d print at Thingiverse (All - Free)](https://www.thingiverse.com/search?q=next+level+racing)
+* [Next Level Racing 3d print at Printables (Prusa - Free)](https://www.printables.com/search/models?q=next+level+racing)
+* [Next Level Racing 3d print at Cults3D (All - Free & $$$)](https://cults3d.com/en/search?q=next+level+racing)
+* [Next Level Racing 3d print at Yeggi (All - Free & $$$)](https://www.yeggi.com/q/next+level+racing/)
+
+
 # Computer Software
+
 You need:
 * Somehow a powerful computer, recommended is AMD AM5 7800X3D, Radeon 7900 XTX or Nvidia Geforce RTX 4080
 * Windows 11
 * Microsoft Flight Simulator 2024 and or Xplane 12
 
-# Study materials
-## Near real-time analysis of general aviation accidents 
+## Resources
+
+* https://www.youtube.com/@thecorporatepilotdad
+* https://www.youtube.com/@FilbertFlies
+* https://www.youtube.com/@KipOnTheGround
+
+## Study materials: Near real-time analysis of general aviation accidents 
+
 * https://www.aopa.org/training-and-safety/air-safety-institute/accident-analysis/richard-g-mcspadden-report
 * https://asn.flightsafety.org/
 
 ## Motor failure after takeoff
+
 * https://pilotinstitute.com/the-impossible-turn-engine-failure-after-takeoff/
 
 # Great accessories maker
+
 * https://flyhoneycomb.com
 * https://www.logitechg.com/en-ch/products/flight/
 * https://virpil-controls.eu/
@@ -363,7 +389,9 @@ You need:
 * https://flightsimbuilder.com
 
 # Forums
+
 * https://forum.aerosoft.com
 
 # FAQ
+
 * https://www.reddit.com/r/MicrosoftFlightSim/wiki/faq/ 

@@ -15,6 +15,30 @@ categories:
 cover: https://www.waltercedric.com/hobbies/flight/Next-Level-Racing-Flight-Seat-Pro-fully-loaded.webp
 ---
 
+{{< youtube ywmIFd1FSJg >}}
+
+{{< youtube UlQG13wdxUI >}}
+
+{{< youtube Ufko1XT20b8 >}}
+
+{{< youtube Ufko1XT20b8 >}}
+
+{{< youtube q1NsQKVK3KY >}}
+
+More:
+https://www.youtube.com/@KipOnTheGround/search?query=g1000
+
+## List of aircraft supporting the Garmin G1000
+
+* Beechcraft Baron G58
+* Cessna 172 skyhawk
+* Cessna 208B Grand Caravan EX	
+* Cessna C408 SkyCourier	
+* Cessna C400 Corvalis TT	
+* Cirrus SR22T NXi	
+* Diamond DA-40 NG	
+* Diamond DA62	
+
 ## Training tips
 
 Using the Garmin G1000 for flight training offers significant benefits due to its advanced features and intuitive interface. Here are some tips to maximize its potential for training:

@@ -21,30 +21,19 @@ If you dont like spaghetti of cables on the floor, or suffer from OCD, dont buy 
 {{< /notice >}}
 
 ## "Simulon Prime" flight simulator
-![Simulator Flight rig Simulon Prime](https://www.waltercedric.com/hobbies/flight/Simulon-Prime.webp)
 
-see [Fligt](https://www.waltercedric.com/posts/hobbies/flight-simulator-xplane/)
-sss
+![Flight simulator](https://www.waltercedric.com/hobbies/flight/Simulon-Prime.webp)
+
+see [Flight](https://www.waltercedric.com/posts/hobbies/flight-simulator/)
 
 ## "Invictus" car racing simulator
 
+![Car simulator](https://www.waltercedric.com/hobbies/car/invictus-car-racing-simulation.webp)
+
 see https://www.waltercedric.com/posts/hobbies/car-simulator/
 
-
 ## RotorX (actual)
-RotorX only exist for now, because i can not easily mount the [Puma-X](https://pro-flight-trainer.com/product/puma-x-a-style-snapaction/) on the motion chair
+
 ![Simulator Flight rig Rotor X](https://www.waltercedric.com/post/hobbies/flight/RotorX.webp)
 
-## Assembling
-{{< youtube HDGkWW-IciE >}}
-
-## Next level Racing printed gallery
-
-TODO
-
-### You want more 3D print?
-* [Next Level Racing 3d print at MakerWorld (Bambu lab - Free)](https://makerworld.com/en/models/search?keyword=next+level+racing)
-* [Next Level Racing 3d print at Thingiverse (All - Free)](https://www.thingiverse.com/search?q=next+level+racing)
-* [Next Level Racing 3d print at Printables (Prusa - Free)](https://www.printables.com/search/models?q=next+level+racing)
-* [Next Level Racing 3d print at Cults3D (All - Free & $$$)](https://cults3d.com/en/search?q=next+level+racing)
-* [Next Level Racing 3d print at Yeggi (All - Free & $$$)](https://www.yeggi.com/q/next+level+racing/)
+RotorX only exist for now, because i can not easily mount the [Puma-X](https://pro-flight-trainer.com/product/puma-x-a-style-snapaction/) on the motion chair

@@ -26,7 +26,10 @@ https://www.rossignol.com/ca-en/unisex-nordic-skis-r-skin-ultra-stiff-RHMCT02000
 |---------------------------|----------------------------------------|
 | Leki PRC 750 Langlaufstöcke       | 129.-           |
 | Rossignol X-7 Combischuhe         | 163.-           |
-| Rossignol R-Skin Ultra Stiff Race Classicset 25/26         | 345.-           |
+| Rossignol R-Skin Ultra Stiff Race Classicset 25/26  | 345.-           |
+
+## Weather and Status
+https://www.bergfex.ch/schweiz/langlaufen/loipenberichte/
 
 ## Learning
 

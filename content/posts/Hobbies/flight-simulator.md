@@ -80,6 +80,16 @@ There is a lot of free and paid extension for the Stream Deck at https://flights
 If youre on a budget you can also use a cheap tablet and Touch Portal (Android/iOS)
 https://play.google.com/store/apps/details?id=rils.apps.touchportal&hl=en 
 
+### PilotsDeck
+
+Directly control the FlightSim from your StreamDeck!
+https://github.com/Fragtality/PilotsDeck
+
+Cessna 172 for xplane 12 PilotDeck https://x-plane.to/file/1654/streamdeck-profile-for-cessna-172-skyhawk-steam-gauges-version
+
+more at https://x-plane.to/search/PilotsDeck
+
+
 ## Logitech Flight panels
 Saitek has been bought by Logitech, and they have nice panels.
 

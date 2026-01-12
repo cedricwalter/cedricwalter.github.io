@@ -22,68 +22,15 @@ enableGitInfo = true
 [frontmatter]
 lastmod = [':git', ':fileModTime']
 
-######################################################
-##### Gitcus
-gitcusRepo = "cedricwalter/cedricwalter.github.io"
-
-
-######################################################
-##### Disqus
-# .Site.Config.Services.Disqus.Shortname = ""
-
-######################################################
-##### utteranc.es
-
-utterancesRepo = "cedricwalter/cedricwalter.github.io"
-utterancesStyle = "github-light"
-# utterancesStyle = "gruvbox-dark"
-# utterancesStyle = "github-dark"
-# utterancesStyle = "preferred-color-scheme"
-# utterancesStyle = "github-dark-orange"
-# utterancesStyle = "icy-dark"
-# utterancesStyle = "dark-blue"
-# utterancesStyle = "photon-dark"
-# utterancesStyle = "boxy-light"
-
-# Choose the mapping between blog posts and GitHub issues.
-
-# Issue title contains page pathname: Utterances will search for an issue whose title contains the blog post's pathname URL component.
-# If a matching issue is not found, Utterances will automatically create one the first time someone comments on your post.
-# utterancesMapping=pathname
-
-# Issue title contains page URL
-# Utterances will search for an issue whose title contains the blog post's URL.
-# If a matching issue is not found, Utterances will automatically create one the first time someone comments on your post.
-# utterancesMapping=url
-
-# Issue title contains page title
-# Utterances will search for an issue whose title contains the blog post's title.
-# If a matching issue is not found, Utterances will automatically create one the first time someone comments on your post.
-# utterancesMapping=title
-
-# Issue title contains page og:title
-# Utterances will search for an issue whose title contains the page's Open Graph title meta. If a matching issue is not found, Utterances will automatically create one the first time someone comments on your post.
-# utterancesMapping=og:title
-
-# Specific issue number
-# You configure Utterances to load a specific issue by number. Issues are not automatically created.
-# utterancesMapping=[ENTER ISSUE NUMBER HERE]
-
-# Issue title contains specific term
-# You configure Utterances to search for an issue whose title contains a specific term of your choosing. If a matching issue is not found, Utterances will automatically create one the first time someone comments on your post. The issue's title will be the term you chose.
-# utterancesMapping=[ENTER TERM HERE]
-
-paginate = 15
+paginate = 1
 
 [params]  
   relativeURLs = false
   #author = "Cédric Walter"
   name = "Cédric Walter blog"
   headerTitle = "Cédric Walter"
-  description ="Cédric Walter is a French-Swiss entrepreneur, investor, and software engineer based in Zurich, Switzerland."
+  description ="Cédric Walter"
   motto = "A true selfless act always sparks another"
-  # "\"To see life; to see the world; to eyewitness great events; to watch the faces of the poor and the gestures of the proud; to see strange things — machines, armies, multitudes, shadows in the jungle and on the moon; to see man's work — his paintings, towers and discoveries; to see things thousands of miles away, things hidden behind walls and within rooms, things dangerous to come to; the women that men love and many children; to see and take pleasure in seeing; to see and be amazed; to see and be instructed.\" -- Henry Luce, LIFE's founder and publisher. 1936"
-  # "A true selfless act always sparks another"
 
   # use true for chinese
   hasCJKLanguage = false
@@ -111,18 +58,6 @@ paginate = 15
   # LEANCLOUD_APP_ID = ""
   # LEANCLOUD_APP_KEY = ""
   # VALINE_LANGUAGE = ""
-
-  email = "cedric.walter@gmail.com"
-  twitter = "cedricwalter"
-  facebook = "cedricwalter"
-  instagram = "cedricwalter"
-  mastodon = "cedricwalter"
-  linkedin = "cedricwalter"
-  github = "cedricwalter"
-  stackoverflow = "cedricwalter"
-  youtube = "subscription_center?add_user_id=sGBOO5NTfBIm6Jd9hCo2uw&feature=creators_cornier-https%3A//s.ytimg.com/yt/img/creators_corner/Subscribe_to_my_videos/YT_Subscribe_130x36_red.png"
-    # codepen = ""
-  flickr = "https://www.flickr.com/people/194126732@N05/"
 
   siteStartYear = 1997
 
@@ -153,7 +88,6 @@ paginate = 15
 
   [params.navItems]
   series = { href = "/", title = "Home" }
-  github = { href = "https://github.com/cedricwalter", target = "_blank", icon = "logo-github", title = "GitHub" }
 
   [params.advanced]
       customCSS = ["css/custom.css"] # files in the list will be loaded in order

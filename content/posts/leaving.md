@@ -141,4 +141,4 @@ If you still want to write online, consider more controlled platforms:
 # My Final Words
 The best is simply to QUIT and live in the real world.
 Do you really want to continue seeing all these AI generated stuff and only be able to focus during 5sec till your next swipe or video reels?
-Just QUIT and get back to the real world with real person intercations.
+Just QUIT and get back to the real world with real person interactions.

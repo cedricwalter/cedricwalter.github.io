@@ -42,8 +42,9 @@ I really dont want to fuel the US economy, or also use their infrastructure that
 ## Chatbot chatbot chatbot
 People dont use the web but ask more and more a chatbot and get a personalized answers: there is no need to click on webpages anymore, be surprised by the content, wanting to follow an author.
 
-## Attention economy IS PRIVATIZED
-People LOST -6-7 hours per day watching Instagram, Facebook, TikTok, YouTube, Amazon, Temu, AliExpress ... They don't read books, or visit the open web.
+## Attention economy IS PRIVATIZED or the biggest hold up of time in history of humanity
+People LOST 5-6-7..10 hours per day watching Instagram, Facebook, TikTok, YouTube, Amazon, Temu, AliExpress ... They don't read books, or visit the open web.
+This is the biggest robbery of time and people minds in history of humanity. Maybe worse that coain addiction. During that time you produce nothing, watching silly videos...
 
 ## Your content can be scraped and used without your consent
 
@@ -142,3 +143,27 @@ If you still want to write online, consider more controlled platforms:
 The best is simply to QUIT and live in the real world.
 Do you really want to continue seeing all these AI generated stuff and only be able to focus during 5sec till your next swipe or video reels?
 Just QUIT and get back to the real world with real person interactions.
+
+
+# Deleting your "Social" online presence
+
+## Deleting all your tweet for free
+Slow but really free
+https://chromewebstore.google.com/detail/deletetweets/plolbhegbeapkdmpnbabilmfnknlfbpa?hl=en&pli=1
+
+## Deleting all your github repository
+Do a backup first
+```
+gh repo list YourGithubUsername --limit 1000 | while read -r repo _; do gh repo clone "$repo"; done
+```
+Preview which repos will be deleted (REPLACE 'KeepMe1' etc.)
+```
+gh repo list --limit 1000 --json name --jq '.[].name' | grep -vE 'KeepMe1|KeepMe2'
+```
+
+Run the actual deletion (USE WITH EXTREME CAUTION)
+```
+gh repo list --limit 1000 --json name --jq '.[].name' | grep -vE 'KeepMe1' | while read -r repo; do
+  gh repo delete "$repo" --yes
+done
+```

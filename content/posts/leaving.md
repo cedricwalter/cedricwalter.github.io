@@ -167,3 +167,13 @@ gh repo list --limit 1000 --json name --jq '.[].name' | grep -vE 'KeepMe1' | whi
   gh repo delete "$repo" --yes
 done
 ```
+
+## Deleting Facebook, Instagram, 
+
+
+## Deleting Telegram, Whatsapp account
+Resist the "social pressure" to use these apps
+* Telegram is a russian company with doubtful encryption
+* Whatsapp is used as entry vector for attacks
+
+

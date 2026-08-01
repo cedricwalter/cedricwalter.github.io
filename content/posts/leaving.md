@@ -36,6 +36,10 @@ AI-generated influencers aren’t just a novelty: they’re a warning sign. As t
 
 The age of AI is not just changing *how* we express ourselves online: it's changing *why* we even try!
 
+## Bots everywhere
+More than half the internet is just made of bots now, what's the point of interacting with anyone online if there's a high chance they ain't even real?
+
+
 ## USA is hostile to European and rest of the world
 I really dont want to fuel the US economy, or also use their infrastructure that is clearly weaponized against the interest of the rest of the world. We are not going to a Star Trek or Orville civilization. The dumb are in power.
 

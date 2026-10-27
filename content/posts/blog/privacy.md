@@ -1,7 +1,6 @@
 ---
 title: Privacy Policy Statement
 type: posts
-type: page
 date: 2020-03-08T19:13:19+00:00
 summary: "Privacy Policy Statement"
 ---

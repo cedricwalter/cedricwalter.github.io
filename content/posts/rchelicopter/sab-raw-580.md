@@ -1,6 +1,5 @@
 ---
 title: "SAB Goblin RAW 580 Hub setup, flight log :rocket:"
-summary: ""
 type: posts
 date: 2024-01-17T10:30:17+01:00
 cover: https://www.waltercedric.com/rchelicopter/sab-raw-580/sab-goblin-raw-580.webp

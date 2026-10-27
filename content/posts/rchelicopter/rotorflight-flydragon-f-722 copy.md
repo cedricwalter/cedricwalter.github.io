@@ -1,6 +1,5 @@
 ---
 title: "Rotorflight Flydragon- F722"
-summary: ""
 type: posts
 date: 2024-06-17T10:30:17+01:00
 cover: https://www.waltercedric.com/rchelicopter/Rotorflight_rotorflight.webp

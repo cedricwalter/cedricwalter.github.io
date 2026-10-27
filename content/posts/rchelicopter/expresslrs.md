@@ -1,6 +1,5 @@
 ---
 title: "Express LRS tips and tricks"
-summary: ""
 type: posts
 date: 2024-07-03T10:30:17+01:00
 cover: https://www.waltercedric.com/rchelicopter/elrs/rx2sim-elrs-ep1.webp

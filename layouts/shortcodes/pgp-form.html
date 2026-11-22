@@ -1,0 +1,169 @@
+{{- $endpoint := .Get "endpoint" -}}
+{{- $pubkey := .Site.Params.pgpPublicKey -}}
+
+<style>
+    .contact-form {
+      max-width: 450px;
+      margin: 2rem auto;
+      padding: 2rem;
+      background: #ffffff;
+      border-radius: 12px;
+      box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    }
+
+    .form-group {
+      margin-bottom: 1.25rem;
+    }
+
+    .contact-form label {
+      display: block;
+      margin-bottom: 0.5rem;
+      font-size: 0.9rem;
+      font-weight: 600;
+      color: #333333;
+    }
+
+    .contact-form input[type="text"],
+    .contact-form input[type="email"],
+    .contact-form textarea {
+      width: 100%;
+      padding: 0.75rem;
+      border: 1px solid #d1d5db;
+      border-radius: 8px;
+      font-size: 1rem;
+      font-family: inherit;
+      color: #1f2937;
+      background-color: #f9fafb;
+      box-sizing: border-box;
+      transition: border-color 0.2s, box-shadow 0.2s, background-color 0.2s;
+    }
+
+    .contact-form input[type="text"]:focus,
+    .contact-form input[type="email"]:focus,
+    .contact-form textarea:focus {
+      outline: none;
+      border-color: #2563eb;
+      background-color: #ffffff;
+      box-shadow: 0 0 0 3px rgba(37, 99, 235, 0.15);
+    }
+
+    .contact-form textarea {
+      min-height: 120px;
+      resize: vertical;
+    }
+
+    .contact-form button {
+      width: 100%;
+      padding: 0.85rem;
+      background-color: #2563eb;
+      color: #ffffff;
+      border: none;
+      border-radius: 8px;
+      font-size: 1rem;
+      font-weight: 600;
+      cursor: pointer;
+      transition: background-color 0.2s, transform 0.1s;
+    }
+
+    .contact-form button:hover {
+      background-color: #1d4ed8;
+    }
+
+    .contact-form button:active {
+      transform: scale(0.99);
+    }
+  </style>
+
+
+<form class="contact-form" id="pgp-contact-form" action="{{ $endpoint }}" method="POST">
+
+    <div class="form-group">
+    <label for="sender-email">Email</label>
+    <input type="email" id="sender-email" required>
+  </div>
+
+  <div class="form-group">
+    <label for="sender-name">Name</label>
+    <input type="text" id="sender-name" required>
+  </div>
+
+
+
+  <div class="form-group">
+    <label for="sender-message">Encrypted Message</label>
+    <textarea id="sender-message" rows="6" required></textarea>
+  </div>
+
+  <button type="submit" id="pgp-submit-btn">Encrypt & Send</button>
+  <p id="pgp-form-status" role="status"></p>
+</form>
+
+<script src="{{ "js/openpgp.min.js" | relURL }}"></script>
+
+
+<script>
+  document.getElementById("pgp-contact-form").addEventListener("submit", async function (e) {
+    e.preventDefault();
+
+    const form = e.target;
+    const status = document.getElementById("pgp-form-status");
+    const btn = document.getElementById("pgp-submit-btn");
+    const publicKeyArmored = `{{ $pubkey | safeJS }}`;
+
+    console.log(publicKeyArmored);
+
+    if (!publicKeyArmored.includes("BEGIN PGP PUBLIC KEY BLOCK")) {
+      status.textContent = "Error: Public key not configured properly.";
+      return;
+    }
+
+    btn.disabled = true;
+    status.textContent = "Encrypting message...";
+
+    try {
+      // 1. Gather all inputs (notice they have NO 'name' attribute so plain text never leaks)
+      const payload = [
+        `Name: ${document.getElementById("sender-name").value}`,
+        `Email: ${document.getElementById("sender-email").value}`,
+        `---`,
+        document.getElementById("sender-message").value
+      ].join("\n");
+
+      // 2. Read the public key and encrypt the payload
+      const publicKey = await openpgp.readKey({ armoredKey: publicKeyArmored });
+      const encryptedMessage = await openpgp.encrypt({
+        message: await openpgp.createMessage({ text: payload }),
+        encryptionKeys: publicKey
+      });
+
+      console.log(encryptedMessage);
+
+      // 3. Submit ONLY the encrypted block to Formspree via Fetch
+      status.textContent = "Sending encrypted payload...";
+      const response = await fetch(form.action, {
+        method: "POST",
+        headers: {
+          "Accept": "application/json",
+          "Content-Type": "application/json"
+        },
+        body: JSON.stringify({
+          pgp_encrypted_message: encryptedMessage
+        })
+      });
+
+      if (response.ok) {
+        status.textContent = "Message encrypted and sent successfully!";
+        form.reset();
+      } else {
+        const data = await response.json();
+        status.textContent = data.errors ? data.errors.map(err => err.message).join(", ") : "Submission failed.";
+      }
+    } catch (error) {
+      console.error(error);
+      status.textContent = "Encryption error. Please check console.";
+    } finally {
+      btn.disabled = false;
+    }
+  });
+</script>

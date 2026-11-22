@@ -111,8 +111,6 @@
     const btn = document.getElementById("pgp-submit-btn");
     const publicKeyArmored = `{{ $pubkey | safeJS }}`;
 
-    console.log(publicKeyArmored);
-
     if (!publicKeyArmored.includes("BEGIN PGP PUBLIC KEY BLOCK")) {
       status.textContent = "Error: Public key not configured properly.";
       return;
@@ -132,12 +130,11 @@
 
       // 2. Read the public key and encrypt the payload
       const publicKey = await openpgp.readKey({ armoredKey: publicKeyArmored });
+      console.log("publicKey read ".publicKey);
       const encryptedMessage = await openpgp.encrypt({
         message: await openpgp.createMessage({ text: payload }),
         encryptionKeys: publicKey
       });
-
-      console.log(encryptedMessage);
 
       // 3. Submit ONLY the encrypted block to Formspree via Fetch
       status.textContent = "Sending encrypted payload...";

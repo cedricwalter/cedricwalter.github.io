@@ -1,0 +1,88 @@
+<style>
+    .contact-form {
+      max-width: 450px;
+      margin: 2rem auto;
+      padding: 2rem;
+      background: #ffffff;
+      border-radius: 12px;
+      box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    }
+
+    .form-group {
+      margin-bottom: 1.25rem;
+    }
+
+    .contact-form label {
+      display: block;
+      margin-bottom: 0.5rem;
+      font-size: 0.9rem;
+      font-weight: 600;
+      color: #333333;
+    }
+
+    .contact-form input[type="email"],
+    .contact-form textarea {
+      width: 100%;
+      padding: 0.75rem;
+      border: 1px solid #d1d5db;
+      border-radius: 8px;
+      font-size: 1rem;
+      font-family: inherit;
+      color: #1f2937;
+      background-color: #f9fafb;
+      box-sizing: border-box;
+      transition: border-color 0.2s, box-shadow 0.2s, background-color 0.2s;
+    }
+
+    .contact-form input[type="email"]:focus,
+    .contact-form textarea:focus {
+      outline: none;
+      border-color: #2563eb;
+      background-color: #ffffff;
+      box-shadow: 0 0 0 3px rgba(37, 99, 235, 0.15);
+    }
+
+    .contact-form textarea {
+      min-height: 120px;
+      resize: vertical;
+    }
+
+    .contact-form button {
+      width: 100%;
+      padding: 0.85rem;
+      background-color: #2563eb;
+      color: #ffffff;
+      border: none;
+      border-radius: 8px;
+      font-size: 1rem;
+      font-weight: 600;
+      cursor: pointer;
+      transition: background-color 0.2s, transform 0.1s;
+    }
+
+    .contact-form button:hover {
+      background-color: #1d4ed8;
+    }
+
+    .contact-form button:active {
+      transform: scale(0.99);
+    }
+  </style>
+</head>
+<body>
+
+<h2>Contact me</h2>
+  <form class="contact-form" action="https://formspree.io/f/mvkawkdq" method="POST">
+    <div class="form-group">
+      <label for="email">Your email</label>
+      <input type="email" id="email" name="email" placeholder="you@example.com" required>
+    </div>
+
+    <div class="form-group">
+      <label for="message">Your message</label>
+      <textarea id="message" name="message" placeholder="How can we help?" required></textarea>
+    </div>
+    
+    <button type="submit">Send</button>
+  </form>
